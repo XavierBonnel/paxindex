@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Statistiques</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<style>
+  .content { padding-bottom: 90px; }
+
+  /* STATS GRID */
+  .stats-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 8px;
+    padding: 0 16px 14px;
+  }
+  .stat-card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 14px;
+    display: flex; flex-direction: column; gap: 4px;
+  }
+  .stat-card-icon { font-size: 22px; }
+  .stat-card-val {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 32px; font-weight: 900; line-height: 1;
+  }
+  .stat-card-label { font-size: 11px; color: var(--muted); }
+  .stat-card-change { font-size: 11px; font-weight: 700; }
+
+  /* DISTRIBUTION HISTOGRAM */
+  .histo-wrap {
+    margin: 0 16px 14px; background: var(--card);
+    border: 1px solid var(--border); border-radius: 14px; padding: 16px;
+  }
+  .histo-title {
+    font-family: 'Barlow Condensed', sans-serif; font-size: 13px;
+    font-weight: 700; color: var(--muted); text-transform: uppercase;
+    letter-spacing: 0.5px; margin-bottom: 14px;
+  }
+  .histo-bars { display: flex; align-items: flex-end; gap: 6px; height: 80px; }
+  .histo-col  { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  .histo-bar  { width: 100%; border-radius: 4px 4px 0 0; transition: opacity .2s; }
+  .histo-label{ font-size: 9px; color: var(--muted); text-align: center; }
+  .histo-count{ font-family: 'Barlow Condensed', sans-serif; font-size: 11px; font-weight: 700; }
+
+  /* REGION TABLE */
+  .region-row, a.region-row {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 12px 14px;
+    display: flex; align-items: center; gap: 10px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .region-rank {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px; font-weight: 900; color: var(--muted); width: 24px;
+  }
+  .region-name { flex: 1; font-weight: 600; font-size: 13px; }
+  .region-score{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px; font-weight: 800;
+  }
+  .region-count{ font-size: 10px; color: var(--muted); text-align: right; }
+  .region-list { padding: 0 16px; display: flex; flex-direction: column; gap: 8px; }
+
+  /* METHODOLOGIE */
+  .methodo {
+    margin: 0 16px 14px; background: var(--card);
+    border: 1px solid var(--border); border-radius: 14px; padding: 16px;
+  }
+  .methodo-title {
+    font-family: 'Barlow Condensed', sans-serif; font-size: 16px;
+    font-weight: 800; text-transform: uppercase; margin-bottom: 10px;
+  }
+  .methodo-item {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 8px;
+  }
+  .methodo-pct {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px; font-weight: 900; width: 44px;
+  }
+  .methodo-desc { flex: 1; font-size: 12px; color: var(--muted); line-height: 1.4; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+  </div>
+  <div class="tabs">
+    <div class="tab" data-href="index.html">🌍 Global</div>
+    <div class="tab" data-href="conflits.html">⚔️ Conflits</div>
+    <div class="tab" data-href="commerce.html">🤝 Commerce</div>
+    <div class="tab" data-href="tendances.html">📈 Évolution</div>
+    <div class="tab active">📊 Stats</div>
+  </div>
+</div>
+
+<div class="content">
+
+  <div style="height:10px"></div>
+
+  <!-- STATS GRID -->
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-card-icon">🌍</div>
+      <div class="stat-card-val text-accent">195</div>
+      <div class="stat-card-label">Pays indexés</div>
+      <div class="stat-card-change" style="color:var(--green)">100% couverture</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-card-icon">🕊️</div>
+      <div class="stat-card-val text-green">42</div>
+      <div class="stat-card-label">Pays en paix totale</div>
+      <div class="stat-card-change" style="color:var(--red)">▼ −3 vs 2025</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-card-icon">⚔️</div>
+      <div class="stat-card-val text-red">28</div>
+      <div class="stat-card-label">Conflits actifs</div>
+      <div class="stat-card-change" style="color:var(--red)">▲ +5 vs 2025</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-card-icon">🤝</div>
+      <div class="stat-card-val text-blue">3 840</div>
+      <div class="stat-card-label">Accords commerciaux</div>
+      <div class="stat-card-change" style="color:var(--green)">▲ +142 vs 2025</div>
+    </div>
+  </div>
+
+  <!-- DISTRIBUTION -->
+  <div class="section-header">
+    <div class="section-title">📊 Distribution <span>des scores</span></div>
+  </div>
+  <div class="histo-wrap">
+    <div class="histo-title">Nb de pays par tranche de score</div>
+    <div class="histo-bars">
+      <div class="histo-col">
+        <div class="histo-count text-green">18</div>
+        <div class="histo-bar" style="height:72px;background:var(--green)"></div>
+        <div class="histo-label">90-100</div>
+      </div>
+      <div class="histo-col">
+        <div class="histo-count text-green">24</div>
+        <div class="histo-bar" style="height:56px;background:var(--green);opacity:.8"></div>
+        <div class="histo-label">70-90</div>
+      </div>
+      <div class="histo-col">
+        <div class="histo-count text-accent">38</div>
+        <div class="histo-bar" style="height:80px;background:var(--accent);opacity:.7"></div>
+        <div class="histo-label">50-70</div>
+      </div>
+      <div class="histo-col">
+        <div class="histo-count text-gold">52</div>
+        <div class="histo-bar" style="height:80px;background:var(--gold);height:80px"></div>
+        <div class="histo-label">30-50</div>
+      </div>
+      <div class="histo-col">
+        <div class="histo-count text-red">34</div>
+        <div class="histo-bar" style="height:64px;background:var(--red);opacity:.8"></div>
+        <div class="histo-label">10-30</div>
+      </div>
+      <div class="histo-col">
+        <div class="histo-count text-red">29</div>
+        <div class="histo-bar" style="height:56px;background:var(--red)"></div>
+        <div class="histo-label">0-10</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAR RÉGION -->
+  <div class="section-header">
+    <div class="section-title">🌐 Classement <span>par région</span></div>
+  </div>
+  <div class="region-list">
+    <a class="region-row" href="index.html?region=Europe">
+      <div class="region-rank" style="color:var(--green)">1</div>
+      <div style="font-size:22px">🌍</div>
+      <div style="flex:1">
+        <div class="region-name">Europe</div>
+        <div style="font-size:10px;color:var(--muted)">44 pays</div>
+      </div>
+      <div style="text-align:right">
+        <div class="region-score text-green">71.4</div>
+        <div style="font-size:10px;color:var(--green)">▲ +1.2</div>
+      </div>
+    </a>
+    <a class="region-row" href="index.html?region=Océanie">
+      <div class="region-rank">2</div>
+      <div style="font-size:22px">🌏</div>
+      <div style="flex:1">
+        <div class="region-name">Océanie</div>
+        <div style="font-size:10px;color:var(--muted)">14 pays</div>
+      </div>
+      <div style="text-align:right">
+        <div class="region-score text-green">68.9</div>
+        <div style="font-size:10px;color:var(--green)">▲ +0.8</div>
+      </div>
+    </a>
+    <a class="region-row" href="index.html?region=Amériques">
+      <div class="region-rank">3</div>
+      <div style="font-size:22px">🌎</div>
+      <div style="flex:1">
+        <div class="region-name">Amériques</div>
+        <div style="font-size:10px;color:var(--muted)">35 pays</div>
+      </div>
+      <div style="text-align:right">
+        <div class="region-score text-gold">52.1</div>
+        <div style="font-size:10px;color:var(--red)">▼ −2.4</div>
+      </div>
+    </a>
+    <a class="region-row" href="index.html?region=Asie">
+      <div class="region-rank">4</div>
+      <div style="font-size:22px">🌏</div>
+      <div style="flex:1">
+        <div class="region-name">Asie</div>
+        <div style="font-size:10px;color:var(--muted)">48 pays</div>
+      </div>
+      <div style="text-align:right">
+        <div class="region-score text-gold">46.8</div>
+        <div style="font-size:10px;color:var(--red)">▼ −1.1</div>
+      </div>
+    </a>
+    <a class="region-row" href="index.html?region=Afrique">
+      <div class="region-rank">5</div>
+      <div style="font-size:22px">🌍</div>
+      <div style="flex:1">
+        <div class="region-name">Afrique</div>
+        <div style="font-size:10px;color:var(--muted)">54 pays</div>
+      </div>
+      <div style="text-align:right">
+        <div class="region-score text-red">38.2</div>
+        <div style="font-size:10px;color:var(--red)">▼ −0.6</div>
+      </div>
+    </a>
+    <a class="region-row" href="index.html?region=Moyen-Orient">
+      <div class="region-rank">6</div>
+      <div style="font-size:22px">🕌</div>
+      <div style="flex:1">
+        <div class="region-name">Moyen-Orient</div>
+        <div style="font-size:10px;color:var(--muted)">16 pays</div>
+      </div>
+      <div style="text-align:right">
+        <div class="region-score text-red">22.7</div>
+        <div style="font-size:10px;color:var(--red)">▼ −5.3</div>
+      </div>
+    </a>
+  </div>
+
+  <div style="height:12px"></div>
+
+  <!-- MÉTHODOLOGIE -->
+  <div class="section-header">
+    <div class="section-title">📐 <span>Méthodologie</span></div>
+  </div>
+  <div class="methodo">
+    <div class="methodo-title">Calcul du PaxScore™</div>
+    <div class="methodo-item">
+      <div class="methodo-pct text-green">40%</div>
+      <div class="progress-wrap"><div class="progress-bar" style="width:100%;background:var(--green)"></div></div>
+      <div class="methodo-desc">🕊️ <strong>Paix</strong> — guerres initiées, conflits actifs, victimes civiles</div>
+    </div>
+    <div class="methodo-item">
+      <div class="methodo-pct text-blue">25%</div>
+      <div class="progress-wrap"><div class="progress-bar" style="width:62%;background:var(--blue)"></div></div>
+      <div class="methodo-desc">🤝 <strong>Commerce</strong> — accords actifs, volume d'échanges, sanctions</div>
+    </div>
+    <div class="methodo-item">
+      <div class="methodo-pct text-accent">20%</div>
+      <div class="progress-wrap"><div class="progress-bar" style="width:50%;background:var(--accent)"></div></div>
+      <div class="methodo-desc">💰 <strong>Humanitaire</strong> — aide versée, accueil réfugiés, ONG actives</div>
+    </div>
+    <div class="methodo-item">
+      <div class="methodo-pct text-gold">15%</div>
+      <div class="progress-wrap"><div class="progress-bar" style="width:37%;background:var(--gold)"></div></div>
+      <div class="methodo-desc">🌍 <strong>Diplomatie</strong> — ambassades, membres ONU, traités multilatéraux</div>
+    </div>
+    <div class="methodo-item">
+      <div class="methodo-pct text-red">15%</div>
+      <div class="progress-wrap"><div class="progress-bar" style="width:25%;background:var(--red)"></div></div>
+      <div class="methodo-desc">⚔️ <strong>Conflit</strong> — conflits actifs, intensité, pénalité GDELT en temps réel</div>
+    </div>
+
+    <div style="margin-top:10px;font-size:10px;color:var(--muted);line-height:1.5">
+      Sources : ACLED · WTO · UCDP · ReliefWeb · World Bank · SIPRI<br>
+      Mise à jour quotidienne. Scores arrondis à 1 décimale.
+    </div>
+  </div>
+
+  <div style="height:16px"></div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+  <div class="nav-item active" data-href="index.html"><div class="nav-icon">🏆</div><div class="nav-dot"></div><div class="nav-label">Classement</div></div>
+  <div class="nav-item" data-href="carte.html"><div class="nav-icon">🗺️</div><div class="nav-label">Carte</div></div>
+  <div class="nav-item" data-href="tendances.html"><div class="nav-icon">📈</div><div class="nav-label">Tendances</div></div>
+  <div class="nav-item" data-href="alertes.html"><div class="nav-icon">🔔</div><div class="nav-label">Alertes</div></div>
+  <div class="nav-item" data-href="config.html"><div class="nav-icon">⚙️</div><div class="nav-label">Config</div></div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+</body>
+</html>

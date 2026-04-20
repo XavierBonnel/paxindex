@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Carte mondiale</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<!-- Leaflet -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<style>
+  body { overflow: hidden; }
+
+  #map {
+    position: fixed; top: 0; left: 50%; transform: translateX(-50%);
+    width: 100%; max-width: 430px;
+    height: 100vh; z-index: 0;
+  }
+
+  .header { position: fixed; top: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: 430px; z-index: 500; }
+
+  /* LÉGENDE */
+  .legend-bar {
+    position: fixed; bottom: 80px; left: 50%; transform: translateX(-50%);
+    width: calc(100% - 32px); max-width: 398px;
+    background: rgba(17,21,37,.92); border: 1px solid var(--border);
+    border-radius: 12px; padding: 10px 14px; z-index: 400;
+    backdrop-filter: blur(8px);
+    display: flex; align-items: center; gap: 10px;
+  }
+  .legend-gradient {
+    flex: 1; height: 8px; border-radius: 4px;
+    background: linear-gradient(to right, var(--red), var(--gold), var(--green));
+  }
+  .legend-label { font-size: 10px; color: var(--muted); font-weight: 700; white-space: nowrap; }
+
+  /* PANNEAU PAYS SÉLECTIONNÉ */
+  .country-panel {
+    position: fixed; bottom: -200px; left: 50%; transform: translateX(-50%);
+    width: calc(100% - 32px); max-width: 398px;
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 16px 16px 0 0; padding: 16px;
+    z-index: 450; transition: bottom .3s ease;
+    backdrop-filter: blur(12px);
+  }
+  .country-panel.open { bottom: 72px; }
+  .panel-handle {
+    width: 36px; height: 4px; background: var(--border);
+    border-radius: 2px; margin: 0 auto 14px;
+  }
+  .panel-top {
+    display: flex; align-items: center; gap: 12px; margin-bottom: 10px;
+  }
+  .panel-flag { font-size: 36px; }
+  .panel-name {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 22px; font-weight: 800;
+  }
+  .panel-rank { font-size: 11px; color: var(--accent); }
+  .panel-score {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 40px; font-weight: 900; text-align: right; flex: 1;
+  }
+  .panel-btn {
+    display: block; text-align: center; padding: 10px;
+    background: var(--accent); color: #0b0e1a; border-radius: 10px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 14px; font-weight: 800; text-decoration: none;
+    text-transform: uppercase; letter-spacing: 0.5px; margin-top: 10px;
+  }
+
+  /* Leaflet overrides dark */
+  .leaflet-container { background: #0b0e1a !important; }
+  .leaflet-control-zoom a { background: var(--card) !important; color: var(--text) !important; border-color: var(--border) !important; }
+  .leaflet-control-attribution { display: none !important; }
+
+  /* Desktop */
+  @media (min-width: 769px) {
+    #map {
+      max-width: 100%; left: 0; transform: none;
+      width: 100%; height: calc(100vh - 140px); top: 140px;
+    }
+    .header {
+      max-width: 100%; left: 0; transform: none;
+      width: 100%;
+    }
+    .legend-bar {
+      max-width: 600px; bottom: 100px;
+    }
+    .country-panel {
+      max-width: 600px; bottom: -200px;
+    }
+    .country-panel.open { bottom: 100px; }
+    .bottom-nav {
+      max-width: 100%;
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+    
+    </div>
+  </div>
+  <div class="tabs">
+    <div class="tab" data-href="index.html">🌍 Global</div>
+    <div class="tab" data-href="conflits.html">⚔️ Conflits</div>
+    <div class="tab" data-href="commerce.html">🤝 Commerce</div>
+    <div class="tab" data-href="tendances.html">📈 Évolution</div>
+    <div class="tab" data-href="stats.html">📊 Stats</div>
+  </div>
+</div>
+
+<!-- CARTE -->
+<div id="map"></div>
+
+<!-- LÉGENDE -->
+<div class="legend-bar">
+  <span class="legend-label">0</span>
+  <div class="legend-gradient"></div>
+  <span class="legend-label">100</span>
+  <span style="font-size:10px;color:var(--muted);margin-left:4px">PaxScore™</span>
+</div>
+
+<!-- PANNEAU PAYS -->
+<div class="country-panel" id="country-panel">
+  <div class="panel-handle"></div>
+  <div class="panel-top">
+    <div class="panel-flag" id="panel-flag">🌍</div>
+    <div>
+      <div class="panel-name" id="panel-name">—</div>
+      <div class="panel-rank" id="panel-rank">—</div>
+    </div>
+    <div class="panel-score" id="panel-score" style="color:var(--accent)">—</div>
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap" id="panel-tags"></div>
+  <a class="panel-btn" id="panel-link" href="#">Voir le détail complet →</a>
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+  <div class="nav-item" data-href="index.html"><div class="nav-icon">🏆</div><div class="nav-label">Classement</div></div>
+  <div class="nav-item active"><div class="nav-icon">🗺️</div><div class="nav-dot"></div><div class="nav-label">Carte</div></div>
+  <div class="nav-item" data-href="tendances.html"><div class="nav-icon">📈</div><div class="nav-label">Tendances</div></div>
+  <div class="nav-item" data-href="alertes.html"><div class="nav-icon">🔔</div><div class="nav-label">Alertes</div></div>
+  <div class="nav-item" data-href="config.html"><div class="nav-icon">⚙️</div><div class="nav-label">Config</div></div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+<script>
+/* ── Initialisation Leaflet ── */
+const map = L.map('map', {
+  center: [20, 10], zoom: 2, minZoom: 1, maxZoom: 6,
+  zoomControl: true, attributionControl: false,
+});
+
+/* Fond de carte sombre */
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
+  subdomains: 'abcd', maxZoom: 19
+}).addTo(map);
+
+/* Score ajusté avec pénalité guerre */
+function adjustedScore(m) {
+  return Math.max(0, m.score - m.wars * 5);
+}
+/* Couleur selon score ajusté */
+function scoreColor(m) {
+  const s = typeof m === 'object' ? adjustedScore(m) : m;
+  if (s >= 70) return '#00d084';
+  if (s >= 50) return '#4fffb0';
+  if (s >= 30) return '#f5c842';
+  if (s >= 15) return '#ff8c42';
+  return '#ff3b5c';
+}
+
+/* ── Coordonnées réalistes par pays ── */
+const countryCoords = {
+  // Europe
+  'AD': [42.5, 1.5], 'AL': [41.3, 20.0], 'AT': [47.5, 14.5], 'BA': [44.0, 18.0],
+  'BE': [50.8, 4.5], 'BG': [42.7, 25.5], 'BY': [53.9, 27.6], 'CH': [46.8, 8.2],
+  'CY': [35.2, 33.4], 'CZ': [49.8, 15.5], 'DE': [51.2, 10.4], 'DK': [56.0, 9.5],
+  'EE': [58.6, 25.3], 'ES': [40.0, -3.7], 'FI': [64.0, 26.0], 'FR': [46.6, 2.3],
+  'GB': [54.0, -2.0], 'GR': [38.9, 22.2], 'HR': [45.1, 15.2], 'HU': [47.2, 19.5],
+  'IE': [53.1, -7.7], 'IS': [64.9, -19.0], 'IT': [41.9, 12.6], 'LI': [47.1, 9.5],
+  'LT': [55.2, 23.9], 'LU': [49.8, 6.1], 'LV': [56.9, 24.6], 'MC': [43.7, 7.4],
+  'MD': [47.0, 28.8], 'ME': [42.5, 19.3], 'MK': [41.6, 21.7], 'MT': [35.9, 14.5],
+  'NL': [52.1, 5.3], 'NO': [60.5, 8.5], 'PL': [52.1, 19.4], 'PT': [39.4, -9.0],
+  'RO': [45.9, 25.0], 'RS': [44.0, 21.0], 'RU': [61.5, 105.0], 'SE': [60.1, 18.6],
+  'SI': [46.1, 14.8], 'SK': [48.7, 19.7], 'SM': [43.9, 12.4], 'UA': [48.4, 31.2],
+  'VA': [41.9, 12.5],
+  // Afrique
+  'AO': [-12.0, 18.7], 'BF': [12.2, -1.6], 'BJ': [9.3, 2.3], 'BW': [-22.3, 24.7],
+  'BI': [-3.4, 29.9], 'CM': [7.4, 12.4], 'CG': [-0.2, 15.8], 'CD': [-4.0, 21.8],
+  'CI': [6.9, -5.5], 'DJ': [11.6, 42.4], 'DZ': [28.0, 1.7], 'EG': [26.8, 30.8],
+  'ER': [15.2, 39.8], 'ET': [9.1, 40.5], 'GA': [-0.8, 11.6], 'GH': [7.9, -1.0],
+  'GM': [13.4, -15.4], 'GN': [9.9, -9.7], 'GQ': [1.7, 10.3], 'GW': [12.0, -15.2],
+  'KE': [-1.3, 36.8], 'KM': [-11.6, 43.3], 'LR': [6.4, -9.4], 'LS': [-29.6, 28.2],
+  'LY': [26.6, 17.2], 'MA': [31.8, -7.1], 'MG': [-18.8, 46.9], 'ML': [17.6, -4.0],
+  'MR': [21.0, -10.9], 'MU': [-20.3, 57.6], 'MW': [-13.3, 34.3], 'MZ': [-18.7, 35.5],
+  'NA': [-22.0, 18.5], 'NE': [17.6, 8.1], 'NG': [9.1, 8.7], 'P103': [5.0, 8.0],
+  'RW': [-2.0, 29.9], 'SC': [-4.7, 55.5], 'SD': [12.9, 30.2], 'SS': [6.9, 31.1],
+  'SN': [14.5, -14.5], 'SL': [8.5, -11.8], 'SO': [5.2, 46.2], 'ST': [0.2, 6.6],
+  'TD': [15.5, 18.7], 'TG': [8.6, 0.8], 'TN': [33.9, 9.5], 'TZ': [-6.4, 34.3],
+  'UG': [1.4, 32.3], 'ZA': [-29.0, 24.9], 'ZM': [-13.1, 27.8], 'ZW': [-19.0, 29.2],
+  // Asie
+  'AM': [40.1, 44.5], 'AZ': [40.1, 47.6], 'BD': [23.8, 90.4], 'BT': [27.5, 90.4],
+  'BN': [4.9, 114.9], 'CN': [35.9, 104.2], 'GE': [42.3, 43.4], 'HK': [22.3, 114.2],
+  'ID': [-0.8, 113.9], 'IL': [31.0, 34.8], 'IN': [20.6, 79.0], 'JP': [36.2, 138.3],
+  'KH': [12.6, 105.0], 'KP': [40.3, 127.5], 'KR': [35.9, 128.2], 'KG': [41.2, 74.8],
+  'KZ': [48.0, 66.9], 'LA': [19.9, 102.6], 'LK': [7.9, 80.8], 'MM': [21.9, 96.0],
+  'MN': [46.9, 103.1], 'MV': [3.2, 73.2], 'NP': [28.4, 84.1], 'PH': [12.9, 121.8],
+  'PK': [30.4, 69.3], 'SG': [1.3, 103.8], 'TH': [15.9, 100.9], 'TJ': [38.9, 71.3],
+  'TL': [-8.9, 125.7], 'TM': [38.9, 59.6], 'TR': [39.0, 35.2], 'TW': [23.7, 121.0],
+  'UZ': [41.4, 64.6], 'VN': [14.1, 108.3],
+  // Amériques
+  'AG': [17.1, -61.9], 'AR': [-34.0, -59.2], 'BB': [13.2, -59.5], 'BO': [-16.3, -63.6],
+  'BR': [-14.2, -51.9], 'BS': [25.0, -77.3], 'BZ': [17.2, -88.5], 'CA': [56.1, -106.3],
+  'CL': [-35.7, -71.5], 'CO': [4.6, -74.3], 'CR': [9.7, -83.8], 'CU': [21.5, -77.8],
+  'DM': [15.4, -61.4], 'DO': [18.7, -70.2], 'EC': [-1.8, -78.2], 'GD': [12.1, -61.7],
+  'GT': [15.8, -90.2], 'GY': [4.9, -58.9], 'HN': [15.2, -86.2], 'HT': [18.9, -72.3],
+  'JM': [18.1, -77.3], 'KN': [17.4, -62.8], 'MX': [23.6, -102.6], 'NI': [12.9, -85.2],
+  'PA': [8.5, -80.8], 'PE': [-9.2, -75.0], 'PY': [-23.4, -58.4], 'SR': [4.0, -56.0],
+  'SV': [13.8, -88.9], 'TT': [10.7, -61.2], 'US': [37.1, -95.7], 'UY': [-32.5, -55.8],
+  'VC': [12.9, -61.3], 'VE': [6.4, -66.6], 'LC': [13.9, -60.9],
+  // Océanie
+  'AU': [-25.3, 133.8], 'FJ': [-17.7, 178.1], 'FM': [6.9, 158.3], 'KI': [1.4, 173.0],
+  'MH': [7.1, 171.2], 'NR': [-0.5, 166.9], 'NZ': [-40.9, 174.9], 'PG': [-6.3, 144.0],
+  'PW': [7.3, 134.5], 'SB': [-9.6, 160.2], 'TO': [-21.2, -175.2], 'TV': [-7.1, 177.6],
+  'VU': [-15.4, 167.0], 'WS': [-13.8, -172.1],
+  // Moyen-Orient
+  'AE': [23.4, 53.8], 'BH': [26.1, 50.6], 'IQ': [33.2, 43.7], 'IR': [32.4, 53.7],
+  'JO': [30.6, 36.2], 'KW': [29.3, 47.5], 'LB': [33.9, 35.9], 'OM': [21.5, 55.9],
+  'PS': [31.5, 34.7], 'QA': [25.4, 51.2], 'SA': [23.9, 45.1], 'SY': [34.8, 39.0],
+  'YE': [15.6, 48.7],
+};
+
+/* Génération de coordonnées approximatives basées sur la région */
+const regionBounds = {
+  'Europe':       { minLat: 35, maxLat: 72, minLng: -12, maxLng: 32 },
+  'Asie':         { minLat: 0, maxLat: 55, minLng: 60, maxLng: 150 },
+  'Amériques':    { minLat: -55, maxLat: 72, minLng: -130, maxLng: -30 },
+  'Afrique':      { minLat: -35, maxLat: 37, minLng: -18, maxLng: 52 },
+  'Océanie':      { minLat: -50, maxLat: -5, minLng: 115, maxLng: 180 },
+  'Moyen-Orient': { minLat: 12, maxLat: 40, minLng: 31, maxLng: 60 },
+  'default':      { minLat: -20, maxLat: 40, minLng: -20, maxLng: 60 }
+};
+
+function hashString(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = ((hash << 5) - hash) + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash);
+}
+
+function getCoordinates(country) {
+  // D'abord, essayer d'utiliser les coordonnées réelles
+  if (countryCoords[country.code]) {
+    return { lat: countryCoords[country.code][0], lng: countryCoords[country.code][1] };
+  }
+  // Sinon, générer des coordonnées approximatives basées sur la région
+  const bounds = regionBounds[country.region] || regionBounds.default;
+  const seed = hashString(country.code);
+  const lat = bounds.minLat + (seed % 100) / 100 * (bounds.maxLat - bounds.minLat);
+  const lng = bounds.minLng + ((seed >> 8) % 100) / 100 * (bounds.maxLng - bounds.minLng);
+  return { lat, lng };
+}
+
+const panel = document.getElementById('country-panel');
+
+function openPanel(m) {
+  const col = scoreColor(m);
+  document.getElementById('panel-flag').textContent  = m.flag;
+  document.getElementById('panel-name').textContent  = m.name;
+  document.getElementById('panel-rank').textContent  = `#${m.rank} MONDIAL`;
+  document.getElementById('panel-score').textContent = adjustedScore(m).toFixed(1);
+  document.getElementById('panel-score').style.color = col;
+  document.getElementById('panel-link').href = `pays.html?code=${m.code}`;
+  document.getElementById('panel-tags').innerHTML = `
+    ${m.wars === 0
+      ? '<span class="tag tag-peace">🕊️ 0 guerre</span>'
+      : `<a href="conflits.html?country=${m.code}" class="tag tag-war">⚔️ ${m.wars} conflits</a>`}
+    <a href="commerce.html?country=${m.code}" class="tag tag-trade">🤝 ${m.trade} accords</a>
+  `;
+  panel.classList.add('open');
+}
+
+async function loadCountries() {
+  const countries = await fetchData('/countries');
+  const markersCluster = L.markerClusterGroup({
+    maxClusterRadius: 40,
+    spiderfyOnMaxZoom: true,
+    showCoverageOnHover: false,
+    zoomToBoundsOnClick: true
+  });
+
+  countries.forEach(c => {
+    const coords = getCoordinates(c);
+    const col = scoreColor(c);
+    const size = Math.max(20, Math.min(36, c.score / 3)); // taille réduite
+    const icon = L.divIcon({
+      className: '',
+      html: `<div style="
+        width:${size}px;height:${size}px;border-radius:50%;
+        background:${col};border:2px solid rgba(255,255,255,.2);
+        display:flex;align-items:center;justify-content:center;
+        font-size:${size * 0.4}px;cursor:pointer;
+        box-shadow:0 0 ${size/2}px ${col}55;
+      ">${c.flag}</div>`,
+      iconSize: [size, size], iconAnchor: [size/2, size/2],
+    });
+
+    const marker = L.marker([coords.lat, coords.lng], { icon })
+      .on('click', () => openPanel(c));
+    markersCluster.addLayer(marker);
+  });
+
+  map.addLayer(markersCluster);
+}
+
+loadCountries();
+
+/* Fermeture panneau sur clic carte */
+map.on('click', () => panel.classList.remove('open'));
+
+/* Nav tabs */
+document.querySelectorAll('[data-href]').forEach(el => {
+  el.addEventListener('click', () => window.location.href = el.dataset.href);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Configuration</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<style>
+  .content { padding-bottom: 90px; }
+  .config-section {
+    margin: 0 16px 16px;
+    background: var(--card); border: 1px solid var(--border); border-radius: 14px; overflow: hidden;
+  }
+  .config-section-title {
+    padding: 12px 16px; border-bottom: 1px solid var(--border);
+    font-family: 'Barlow Condensed', sans-serif; font-size: 13px;
+    font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--muted);
+  }
+  .config-row {
+    padding: 14px 16px; display: flex; align-items: center;
+    justify-content: space-between; border-bottom: 1px solid var(--border);
+  }
+  .config-row:last-child { border-bottom: none; }
+  .config-label { font-size: 14px; font-weight: 500; }
+  .config-sub { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .source-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); display: inline-block; margin-right: 6px; }
+  .version { text-align: center; padding: 16px; font-size: 11px; color: var(--muted); }
+</style>
+</head>
+<body>
+
+  <div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+    <div style="font-size:12px;color:var(--muted)">v1.0.0</div>
+  </div>
+</div>
+
+<div class="content">
+
+  <div class="section-header" style="margin-top:8px">
+    <div class="section-title">⚙️ <span>Configuration</span></div>
+  </div>
+
+  <!-- AFFICHAGE -->
+  <div class="config-section">
+    <div class="config-section-title">Affichage</div>
+    <div class="config-row">
+      <div>
+        <div class="config-label">Langue</div>
+        <div class="config-sub">Interface en français</div>
+      </div>
+      <select style="background:var(--bg2);border:1px solid var(--border);color:var(--text);padding:6px 10px;border-radius:8px;font-size:12px;">
+        <option>🇫🇷 Français</option>
+        <option>🇬🇧 English</option>
+      </select>
+    </div>
+    <div class="config-row">
+      <div>
+        <div class="config-label">Thème</div>
+        <div class="config-sub">Apparence de l'interface</div>
+      </div>
+      <div class="toggle on" id="toggle-theme"></div>
+    </div>
+  </div>
+
+  <!-- ALERTES -->
+  <div class="config-section">
+    <div class="config-section-title">Alertes & Notifications</div>
+    <div class="config-row">
+      <div>
+        <div class="config-label">Conflits actifs</div>
+        <div class="config-sub">Nouvel événement armé</div>
+      </div>
+      <div class="toggle on" data-pref="alert_conflicts"></div>
+    </div>
+    <div class="config-row">
+      <div>
+        <div class="config-label">Accords commerciaux</div>
+        <div class="config-sub">Signature ou rupture</div>
+      </div>
+      <div class="toggle on" data-pref="alert_trade"></div>
+    </div>
+    <div class="config-row">
+      <div>
+        <div class="config-label">Diplomatie</div>
+        <div class="config-sub">Déclarations et tensions</div>
+      </div>
+      <div class="toggle" data-pref="alert_diplo"></div>
+    </div>
+    <div class="config-row">
+      <div>
+        <div class="config-label">Seuil minimum</div>
+        <div class="config-sub">Criticité des alertes reçues</div>
+      </div>
+      <select style="background:var(--bg2);border:1px solid var(--border);color:var(--text);padding:6px 10px;border-radius:8px;font-size:12px;">
+        <option>Toutes</option>
+        <option>Haute+</option>
+        <option selected>Critique seulement</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- PAYS FAVORIS -->
+  <div class="config-section">
+    <div class="config-section-title">Pays favoris</div>
+    <div class="config-row" id="fav-empty">
+      <div style="font-size:12px;color:var(--muted)">Aucun favori pour le moment</div>
+    </div>
+    <div class="config-row" id="fav-list" style="display:none">
+      <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center" id="fav-items"></div>
+    </div>
+  </div>
+
+  <!-- SOURCES -->
+  <div class="config-section">
+    <div class="config-section-title">Sources de données</div>
+    <a class="config-row" href="https://acleddata.com/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;cursor:pointer">
+      <div>
+        <div class="config-label"><span class="source-dot"></span>ACLED</div>
+        <div class="config-sub">Conflits armés — mis à jour quotidiennement</div>
+      </div>
+      <div style="font-size:10px;color:var(--green)">ACTIF ↗</div>
+    </a>
+    <a class="config-row" href="https://rta.wto.org/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;cursor:pointer">
+      <div>
+        <div class="config-label"><span class="source-dot"></span>WTO RTA</div>
+        <div class="config-sub">Accords commerciaux — mensuel</div>
+      </div>
+      <div style="font-size:10px;color:var(--green)">ACTIF ↗</div>
+    </a>
+    <a class="config-row" href="https://www.gdeltproject.org/" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;cursor:pointer">
+      <div>
+        <div class="config-label"><span class="source-dot" style="background:var(--gold)"></span>GDELT</div>
+        <div class="config-sub">Événements géopolitiques — 15 min</div>
+      </div>
+      <div style="font-size:10px;color:var(--gold)">PHASE 2 ↗</div>
+    </a>
+  </div>
+
+  <!-- À PROPOS -->
+  <div class="config-section">
+    <div class="config-section-title">À propos</div>
+    <a class="config-row" href="stats.html#methodo" style="text-decoration:none;color:inherit;cursor:pointer">
+      <div class="config-label">Méthodologie PaxScore™</div>
+      <div style="font-size:18px">→</div>
+    </a>
+  </div>
+
+  <div class="version">PaxIndex v1.0.0 · Données ouvertes · Fait avec ❤️</div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+  <div class="nav-item" data-href="index.html"><div class="nav-icon">🏆</div><div class="nav-label">Classement</div></div>
+  <div class="nav-item" data-href="carte.html"><div class="nav-icon">🗺️</div><div class="nav-label">Carte</div></div>
+  <div class="nav-item" data-href="tendances.html"><div class="nav-icon">📈</div><div class="nav-label">Tendances</div></div>
+  <div class="nav-item" data-href="alertes.html"><div class="nav-icon">🔔</div><div class="nav-label">Alertes</div></div>
+  <div class="nav-item active"><div class="nav-icon">⚙️</div><div class="nav-dot"></div><div class="nav-label">Config</div></div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+<script>
+/* Persistance préférences via localStorage */
+document.querySelectorAll('.toggle[data-pref]').forEach(toggle => {
+  const key = toggle.dataset.pref;
+  const saved = localStorage.getItem(key);
+  if (saved === 'off') toggle.classList.remove('on');
+  toggle.addEventListener('click', () => {
+    toggle.classList.toggle('on');
+    localStorage.setItem(key, toggle.classList.contains('on') ? 'on' : 'off');
+  });
+});
+document.querySelectorAll('[data-href]').forEach(el => {
+  el.addEventListener('click', () => window.location.href = el.dataset.href);
+});
+</script>
+</body>
+</html>

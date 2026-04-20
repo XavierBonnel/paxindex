@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Détail pays</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<style>
+  .content { padding-bottom: 90px; }
+
+  .back-btn {
+    display: flex; align-items: center; gap: 6px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 13px; font-weight: 700; color: var(--muted);
+    padding: 14px 16px 0; cursor: pointer;
+    text-decoration: none;
+  }
+  .back-btn:hover { color: var(--accent); }
+
+  /* HERO */
+  .hero {
+    margin: 12px 16px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 18px; overflow: hidden;
+  }
+  .hero-bg {
+    padding: 24px 20px 20px;
+    background: linear-gradient(135deg, rgba(79,255,176,.08), transparent);
+    display: flex; align-items: center; gap: 16px;
+  }
+  .hero-flag { font-size: 56px; filter: drop-shadow(0 4px 8px rgba(0,0,0,.5)); }
+  .hero-info { flex: 1; }
+  .hero-name {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 32px; font-weight: 900; line-height: 1;
+  }
+  .hero-rank { font-size: 12px; color: var(--accent); font-weight: 600; margin-top: 2px; }
+  .hero-score-wrap { text-align: right; }
+  .hero-score {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 48px; font-weight: 900; line-height: 1;
+  }
+  .hero-change {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 14px; font-weight: 700;
+  }
+  .hero-tags {
+    padding: 0 20px 16px;
+    display: flex; gap: 6px; flex-wrap: wrap;
+  }
+
+  /* METRICS */
+  .metrics { padding: 0 16px 14px; display: flex; flex-direction: column; gap: 10px; }
+  .metric-row { display: flex; align-items: center; gap: 10px; }
+  .metric-label { font-size: 12px; color: var(--muted); width: 120px; flex-shrink: 0; }
+  .metric-val {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 700; font-size: 14px; width: 40px; text-align: right;
+  }
+
+  /* CONFLICTS LIST */
+  .conflict-item {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 12px 14px;
+    display: flex; align-items: center; gap: 10px;
+    margin: 0 16px 8px;
+  }
+  .conflict-flags { font-size: 20px; }
+  .conflict-name { font-size: 13px; font-weight: 600; flex: 1; }
+  .conflict-date { font-size: 10px; color: var(--muted); }
+
+  /* HISTORY CHART */
+  .chart-wrap {
+    margin: 0 16px 14px;
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 16px;
+  }
+  .chart-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 14px; font-weight: 700; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;
+  }
+  .chart-bars {
+    display: flex; align-items: flex-end; gap: 4px; height: 80px;
+  }
+  .chart-bar-wrap { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  .chart-bar {
+    width: 100%; border-radius: 4px 4px 0 0;
+    background: var(--accent); opacity: 0.7; transition: opacity .2s;
+  }
+  .chart-bar:last-child { opacity: 1; }
+  .chart-month { font-size: 9px; color: var(--muted); }
+
+  /* RELATED COUNTRIES */
+  .related-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 8px;
+    padding: 0 16px 14px;
+  }
+  .related-card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 12px;
+    display: flex; flex-direction: column; align-items: center; gap: 4px;
+    cursor: pointer; transition: border-color .2s;
+    text-decoration: none;
+  }
+  .related-card:hover { border-color: var(--accent); }
+  .related-flag { font-size: 28px; }
+  .related-name { font-size: 11px; font-weight: 600; color: var(--text); }
+  .related-score {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px; font-weight: 800;
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+    <a class="back-btn" href="index.html" style="text-decoration:none;padding:0;">← Classement</a>
+  </div>
+</div>
+
+<div class="content" id="page-content">
+  <!-- Rempli par JS -->
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+  <div class="nav-item" id="nav-classement" data-href="index.html">
+    <div class="nav-icon">🏆</div>
+    <div class="nav-label">Classement</div>
+  </div>
+  <div class="nav-item" id="nav-carte" data-href="carte.html">
+    <div class="nav-icon">🗺️</div>
+    <div class="nav-label">Carte</div>
+  </div>
+  <div class="nav-item" id="nav-tendances" data-href="tendances.html">
+    <div class="nav-icon">📈</div>
+    <div class="nav-label">Tendances</div>
+  </div>
+  <div class="nav-item" id="nav-alertes" data-href="alertes.html">
+    <div class="nav-icon">🔔</div>
+    <div class="nav-label">Alertes</div>
+  </div>
+  <div class="nav-item" id="nav-config" data-href="config.html">
+    <div class="nav-icon">⚙️</div>
+    <div class="nav-label">Config</div>
+  </div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+<script>
+(async () => {
+  const code   = getParam('code') || 'IS';
+  const pays   = await fetchData(`/countries/${code}`);
+  const el     = document.getElementById('page-content');
+
+  function adjustedScore(c) {
+    // Pénalité de guerre : -5 points par conflit
+    return Math.max(0, c.score - c.wars * 5);
+  }
+
+  if (!pays) { el.innerHTML = '<p style="padding:24px;color:var(--muted)">Pays introuvable.</p>'; return; }
+
+  const adjusted = adjustedScore(pays);
+  const scoreColor = adjusted >= 70 ? 'var(--green)' : adjusted >= 40 ? 'var(--gold)' : 'var(--red)';
+  const changeStr  = pays.change > 0 ? `<span class="change-up">▲ +${pays.change}</span>`
+                   : pays.change < 0 ? `<span class="change-down">▼ ${pays.change}</span>`
+                   : `<span style="color:var(--muted)">▬ 0</span>`;
+
+  /* Scores composantes simulés depuis le score global */
+  const peace   = Math.round(Math.max(0, 100 - pays.wars * 6));
+  const commerce= Math.round(Math.min(100, pays.trade / 2.2));
+  const diplo   = Math.round((peace + commerce) / 2 * 0.9);
+  const hum     = Math.round(peace * 0.85);
+
+  /* Historique simulé sur 6 mois */
+  const history = [0.92, 0.94, 0.96, 0.97, 0.98, 1.0].map(f => Math.round(pays.score * f));
+
+  document.title = `PaxIndex — ${pays.name}`;
+
+  el.innerHTML = `
+    <!-- HERO -->
+    <div class="hero">
+      <div class="hero-bg">
+        <div class="hero-flag">${pays.flag}</div>
+        <div class="hero-info">
+          <div class="hero-name">${pays.name}</div>
+          <div class="hero-rank">#${pays.rank} MONDIAL · ${pays.region}</div>
+        </div>
+        <div class="hero-score-wrap">
+          <div class="hero-score" style="color:${scoreColor}">${adjusted.toFixed(1)}</div>
+          ${pays.wars > 0 ? `<div class="hero-malus" style="font-size:11px;color:var(--red);margin-top:2px">dont -${pays.wars * 5} pour guerres</div>` : ''}
+          <div class="hero-change">${changeStr}</div>
+        </div>
+      </div>
+      <div class="hero-tags">
+        ${pays.wars === 0 ? '<span class="tag tag-peace">🕊️ 0 guerre</span>' : `<a href="conflits.html?country=${code}" class="tag tag-war">⚔️ ${pays.wars} conflits</a>`}
+        <a href="commerce.html?country=${code}" class="tag tag-trade">🤝 ${pays.trade} accords</a>
+      </div>
+    </div>
+
+    <!-- SCORE BREAKDOWN -->
+    <div class="section-header"><div class="section-title">📊 Score <span>détaillé</span></div></div>
+    <div class="metrics">
+      <div class="metric-row">
+        <div class="metric-label text-green">🕊️ Paix</div>
+        <div class="progress-wrap"><div class="progress-bar" style="width:${peace}%;background:var(--green)"></div></div>
+        <div class="metric-val text-green">${peace}</div>
+      </div>
+      <div class="metric-row">
+        <div class="metric-label text-red">⚔️ Conflits</div>
+        <div class="progress-wrap"><div class="progress-bar" style="width:${Math.min(100, pays.wars * 10)}%;background:var(--red)"></div></div>
+        <div class="metric-val text-red">-${pays.wars * 5}</div>
+      </div>
+      <div class="metric-row">
+        <div class="metric-label text-blue">🤝 Commerce</div>
+        <div class="progress-wrap"><div class="progress-bar" style="width:${commerce}%;background:var(--blue)"></div></div>
+        <div class="metric-val text-blue">${commerce}</div>
+      </div>
+      <div class="metric-row">
+        <div class="metric-label text-gold">🌍 Diplomatie</div>
+        <div class="progress-wrap"><div class="progress-bar" style="width:${diplo}%;background:var(--gold)"></div></div>
+        <div class="metric-val text-gold">${diplo}</div>
+      </div>
+      <div class="metric-row">
+        <div class="metric-label text-accent">💰 Aide hum.</div>
+        <div class="progress-wrap"><div class="progress-bar" style="width:${hum}%;background:var(--accent)"></div></div>
+        <div class="metric-val text-accent">${hum}</div>
+      </div>
+    </div>
+
+    <!-- HISTORIQUE -->
+    <div class="section-header"><div class="section-title">📈 <span>Historique</span> 6 mois</div></div>
+    <div class="chart-wrap">
+      <div class="chart-title">Score PaxIndex™</div>
+      <div class="chart-bars">
+        ${['Oct','Nov','Déc','Jan','Fév','Mar'].map((m, i) => `
+          <div class="chart-bar-wrap">
+            <div class="chart-bar" style="height:${Math.round(history[i] / pays.score * 80)}px"></div>
+            <div class="chart-month">${m}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+
+    
+    <!-- CONFLITS & ACCORDS -->
+    <div id="conflicts-placeholder"></div>
+    <div id="trade-placeholder"></div>
+
+    <!-- PAYS LIÉS -->
+    <div class="section-header"><div class="section-title">🔗 Pays <span>liés</span></div></div>
+    <div class="related-grid">
+      ${[...COUNTRIES]
+        .filter(c => c.code !== code)
+        .sort((a, b) => Math.abs(a.rank - pays.rank) - Math.abs(b.rank - pays.rank))
+        .slice(0,4)
+        .map(c => {
+        const adj = Math.max(0, c.score - c.wars * 5);
+        const col = adj >= 70 ? 'var(--green)' : adj >= 40 ? 'var(--gold)' : 'var(--red)';
+        const diff = c.rank - pays.rank;
+        const diffLabel = diff > 0 ? `+#${diff}` : `#${diff}`;
+        return `<a class=\"related-card\" href=\"pays.html?code=${c.code}\">
+          <div class="related-flag">${c.flag}</div>
+          <div class="related-name">${c.name}</div>
+          <div class="related-score" style="color:${col}">${adj.toFixed(1)}</div>
+        </a>`;
+      }).join('')}
+    </div>
+  `;
+
+  // ── CONFLITS & ACCORDS pour ce pays ──
+  const allConflicts = await fetchData('/conflicts') || [];
+  const allTrade = await fetchData('/trade') || [];
+  
+  // Groupes régionaux
+  const EU_CODES = new Set(['FR','DE','IT','ES','BE','NL','AT','PT','PL','LU','IE','GR','CZ','HU','SK','SI','HR','RO','BG','FI','LT','LV','EE','CY','MT']);
+  const NATO_CODES = new Set([...EU_CODES,'US','GB','NO','TR','IS','AL','BA','ME','MK','RS','MD']);
+  const APAC_CODES = new Set(['CN','JP','KR','ID','TH','VN','PH','AU','NZ','SG','MY','IN','PK','BD','KH','LA','MM','TL','BN','KZ','KG','TJ','TM','UZ','MN','AF','LK','NP','BT','MV','GE','AM','AZ','TW']);
+  const AMERICAS_CODES = new Set(['US','CA','MX','BR','AR','CL','CO','PE','VE','EC','BO','UY','PY','GT','HN','SV','NI','CR','PA','CU','DO','HT','JM','TT','GY','SR','BZ','AG','BB','DM','GD','KN','LC','VC']);
+  const AFRICA_CODES = new Set(['DZ','EG','LY','MA','TN','AO','BF','BJ','BW','BI','CM','CG','CD','CI','DJ','ER','ET','GA','GH','GM','GN','GQ','GW','KE','KM','LR','LS','MG','ML','MR','MU','MW','MZ','NA','NE','NG','P103','RW','SC','SD','SS','SN','SL','SO','ST','TD','TG','TZ','UG','ZA','ZM','ZW']);
+  
+  function isInGroup(groupValue, countryCode) {
+    switch(groupValue) {
+      case 'EU': return EU_CODES.has(countryCode);
+      case 'NATO': return NATO_CODES.has(countryCode);
+      case 'APAC': return APAC_CODES.has(countryCode);
+      case 'AMERICAS': return AMERICAS_CODES.has(countryCode);
+      case 'AFRICA': return AFRICA_CODES.has(countryCode);
+      default: return false;
+    }
+  }
+  
+  // Conflits où ce pays est impliqué
+  const myConflicts = allConflicts.filter(cf => {
+    if (!cf.countries) return false;
+    return cf.countries.some(c => {
+      if (c.type === 'country') return c.value === code;
+      if (c.type === 'group') return isInGroup(c.value, code);
+      return false;
+    });
+  });
+  
+  // Accords commerciaux
+  const myTrade = allTrade.filter(t => {
+    if (!t.countries) return false;
+    return t.countries.some(c => {
+      if (c.type === 'country') return c.value === code;
+      if (c.type === 'group') return isInGroup(c.value, code);
+      return false;
+    });
+  });
+  
+  // Build conflicts HTML
+  let conflictsSection = '';
+  if (myConflicts.length > 0) {
+    const flags = myConflicts.map(cf => {
+      const since = cf.since ? new Date(cf.since).getFullYear() : '?';
+      const intensityColor = cf.intensity >= 80 ? 'var(--red)' : cf.intensity >= 50 ? 'var(--gold)' : 'var(--muted)';
+      const flagStr = (cf.country_flags || cf.countries.map(c => c.type === 'country' ? c.value : (c.value === 'EU' ? '🇪🇺' : c.value === 'NATO' ? '🛡️' : '🌏'))).join('');
+      return `<div class="conflict-item">
+        <div class="conflict-flags">${flagStr}</div>
+        <div class="conflict-name">${cf.name}</div>
+        <div style="text-align:right">
+          <div style="font-size:12px;font-weight:700;color:${intensityColor}">${cf.type}</div>
+          <div class="conflict-date">Depuis ${since}</div>
+        </div>
+      </div>`;
+    }).join('');
+    conflictsSection = `
+    <div class="section-header"><div class="section-title">⚔️ Conflits <span>en cours</span></div></div>
+    <div style="padding:0 16px 14px;display:flex;flex-direction:column;gap:8px">${flags}</div>`;
+  }
+  
+  let tradeSection = '';
+  if (myTrade.length > 0) {
+    const trdItems = myTrade.map(t => {
+      const typeIcon = t.type === 'sanction' ? '🚫' : t.type === 'bilateral' ? '🤝' : '🌐';
+      const flagStr = (t.country_flags || t.countries.map(c => c.type === 'country' ? c.value : (c.value === 'EU' ? '🇪🇺' : c.value === 'NATO' ? '🛡️' : '🌏'))).join('');
+      return `<div class="conflict-item">
+        <div class="conflict-flags">${typeIcon}</div>
+        <div class="conflict-name">${t.name}</div>
+        <div style="text-align:right">
+          <div style="font-size:12px;font-weight:700;color:${t.status === 'actif' ? 'var(--green)' : 'var(--muted)'}">${t.status}</div>
+          <div class="conflict-date">${t.signed || ''}</div>
+        </div>
+      </div>`;
+    }).join('');
+    tradeSection = `
+    <div class="section-header"><div class="section-title">🤝 Accords <span>commerciaux</span></div></div>
+    <div style="padding:0 16px 14px;display:flex;flex-direction:column;gap:8px">${trdItems}</div>`;
+  }
+  
+  // Inject after historique, before pays liés
+  const placeholder = document.getElementById('conflicts-placeholder');
+  if (placeholder) {
+    placeholder.outerHTML = conflictsSection + tradeSection;
+  }
+})();
+</script>
+</body>
+</html>

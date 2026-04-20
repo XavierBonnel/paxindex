@@ -1,0 +1,58 @@
+name: PaxIndex Pipeline
+
+on:
+  schedule:
+    # Toutes les heures (UTC)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Mode pipeline'
+        required: false
+        default: 'full'
+        type: choice
+        options: [full, rss-only, scores-only]
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Run pipeline
+        env:
+          ACLED_API_KEY: ${{ secrets.ACLED_API_KEY }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'full' }}"
+          case "$MODE" in
+            rss-only)    python pipeline/run_pipeline.py --rss-only ;;
+            scores-only) python pipeline/run_pipeline.py --scores-only ;;
+            *)           python pipeline/run_pipeline.py ;;
+          esac
+
+      - name: Commit data JSON
+        run: |
+          git config user.name  "paxindex-bot"
+          git config user.email "bot@paxindex.app"
+          git add data/*.json
+          # Ne commit que si des fichiers ont changé
+          git diff --staged --quiet || git commit -m "data: mise à jour pipeline $(date -u '+%Y-%m-%d %H:%M UTC')"
+
+      - name: Push
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

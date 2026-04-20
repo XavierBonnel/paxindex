@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Alertes</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<style>
+  .content { padding-bottom: 90px; }
+  .alert-time { font-size: 10px; color: var(--muted); margin-top: 2px; }
+  .alert-text { font-size: 13px; font-weight: 500; line-height: 1.4; }
+  .alert-country { font-size: 22px; }
+  .alerts-list { padding: 0 16px; display: flex; flex-direction: column; gap: 8px; }
+  .empty { padding: 48px 16px; text-align: center; color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+    
+  </div>
+</div>
+
+<div class="content">
+
+  <!-- STATS -->
+  <div style="margin:0 16px 14px;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 16px;display:flex;justify-content:space-between;align-items:center;">
+    <div class="stat-block"><div class="stat-val text-red" id="nb-critical">0</div><div class="stat-label">Critiques</div></div>
+    <div style="width:1px;height:32px;background:var(--border)"></div>
+    <div class="stat-block"><div class="stat-val text-gold" id="nb-high">0</div><div class="stat-label">Importantes</div></div>
+    <div style="width:1px;height:32px;background:var(--border)"></div>
+    <div class="stat-block"><div class="stat-val text-blue" id="nb-medium">0</div><div class="stat-label">Moyennes</div></div>
+  </div>
+
+  <!-- FILTERS -->
+  <div class="filter-row">
+    <div class="filter-chip on" data-filter="all">Toutes</div>
+    <div class="filter-chip" data-filter="critical">🔴 Critique</div>
+    <div class="filter-chip" data-filter="high">🟡 Haute</div>
+    <div class="filter-chip" data-filter="medium">🔵 Moyenne</div>
+  </div>
+
+  <div class="section-header">
+    <div class="section-title">🔔 Dernières <span>alertes</span></div>
+    <div class="see-all">Marquer lu</div>
+  </div>
+
+  <div class="alerts-list" id="alerts-list"></div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+  <div class="nav-item" id="nav-classement" data-href="index.html"><div class="nav-icon">🏆</div><div class="nav-label">Classement</div></div>
+  <div class="nav-item" id="nav-carte" data-href="carte.html"><div class="nav-icon">🗺️</div><div class="nav-label">Carte</div></div>
+  <div class="nav-item" id="nav-tendances" data-href="tendances.html"><div class="nav-icon">📈</div><div class="nav-label">Tendances</div></div>
+  <div class="nav-item active" id="nav-alertes" data-href="alertes.html"><div class="nav-icon">🔔</div><div class="nav-dot"></div><div class="nav-label">Alertes</div></div>
+  <div class="nav-item" id="nav-config" data-href="config.html"><div class="nav-icon">⚙️</div><div class="nav-label">Config</div></div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+<script>
+let allAlerts = [];
+
+async function render(filter = 'all') {
+  const list = document.getElementById('alerts-list');
+  const items = filter === 'all' ? allAlerts : allAlerts.filter(a => a.level === filter);
+  if (!items.length) { list.innerHTML = '<div class="empty">Aucune alerte dans cette catégorie.</div>'; return; }
+  list.innerHTML = items.map(a => `
+    <div class="alert-item ${a.level}" style="animation:slideIn .3s ease both">
+      <div class="alert-country">${a.country}</div>
+      <div style="flex:1">
+        <div class="alert-text">${a.text}</div>
+        <div class="alert-time">${a.time}</div>
+      </div>
+      <div class="tag ${a.level === 'critical' ? 'tag-war' : a.level === 'high' ? 'tag-gold' : 'tag-trade'}">${a.level}</div>
+    </div>
+  `).join('');
+}
+
+(async () => {
+  allAlerts = await fetchData('/alerts');
+  document.getElementById('nb-critical').textContent = allAlerts.filter(a => a.level === 'critical').length;
+  document.getElementById('nb-high').textContent     = allAlerts.filter(a => a.level === 'high').length;
+  document.getElementById('nb-medium').textContent   = allAlerts.filter(a => a.level === 'medium').length;
+  render();
+
+  document.querySelectorAll('.filter-chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('on'));
+      chip.classList.add('on');
+      render(chip.dataset.filter);
+    });
+  });
+})();
+</script>
+</body>
+</html>

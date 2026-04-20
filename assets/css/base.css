@@ -1,0 +1,68 @@
+/* ── PAXINDEX — BASE DESIGN SYSTEM ── */
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800;900&family=Barlow:wght@300;400;500;600&display=swap');
+
+:root {
+  --bg: #0b0e1a;
+  --bg2: #111525;
+  --bg3: #161b2e;
+  --card: #1a2038;
+  --card2: #1e2540;
+  --border: #252d4a;
+  --gold: #f5c842;
+  --gold2: #e6a800;
+  --green: #00d084;
+  --green2: #00a865;
+  --red: #ff3b5c;
+  --red2: #cc1f3e;
+  --blue: #3a7cff;
+  --blue2: #1a5ce8;
+  --text: #e8eaf2;
+  --muted: #7a82a8;
+  --accent: #4fffb0;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Barlow', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+/* Utilitaires texte */
+.text-green  { color: var(--green); }
+.text-red    { color: var(--red); }
+.text-gold   { color: var(--gold); }
+.text-blue   { color: var(--blue); }
+.text-accent { color: var(--accent); }
+.text-muted  { color: var(--muted); }
+
+/* Utilitaires typo */
+.font-condensed { font-family: 'Barlow Condensed', sans-serif; }
+.fw-900 { font-weight: 900; }
+.fw-700 { font-weight: 700; }
+
+/* Animations globales */
+@keyframes pulse-badge {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes ticker {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}

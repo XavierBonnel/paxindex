@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Commerce</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<style>
+  .content { padding-bottom: 90px; }
+
+  .trade-card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 14px; margin: 0 16px 8px;
+    position: relative; overflow: hidden;
+    animation: slideIn .3s ease both; cursor: pointer;
+    transition: border-color .2s;
+  }
+  .trade-card:active { transform: scale(0.98); }
+  .trade-card::after {
+    content: ''; position: absolute; left: 0; top: 0; bottom: 0;
+    width: 3px; border-radius: 14px 0 0 14px;
+  }
+  .trade-card.bilateral::after { background: var(--blue); }
+  .trade-card.regional::after  { background: var(--green); }
+  .trade-card.sanction::after  { background: var(--red); }
+
+  .trade-top {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 8px;
+  }
+  .trade-flags { font-size: 20px; letter-spacing: -2px; flex-shrink: 0; }
+  .trade-name {
+    flex: 1; font-family: 'Barlow Condensed', sans-serif;
+    font-size: 17px; font-weight: 700;
+  }
+  .trade-status {
+    font-size: 10px; font-weight: 700; padding: 3px 8px;
+    border-radius: 6px; text-transform: uppercase; letter-spacing: 0.5px;
+  }
+  .status-actif      { background: rgba(0,208,132,.15); color: var(--green); border: 1px solid rgba(0,208,132,.3); }
+  .status-negociation{ background: rgba(245,200,66,.15); color: var(--gold);  border: 1px solid rgba(245,200,66,.3); }
+  .status-suspendu   { background: rgba(255,59,92,.15);  color: var(--red);   border: 1px solid rgba(255,59,92,.3); }
+
+  .trade-meta { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .trade-date { font-size: 10px; color: var(--muted); }
+
+  /* TOP EXPORTATEURS */
+  .exporter-row, a.exporter-row {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 12px 14px;
+    display: flex; align-items: center; gap: 12px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .exporter-rank {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 22px; font-weight: 900; color: var(--muted); width: 28px;
+  }
+  .exporter-rank.gold   { color: var(--gold); }
+  .exporter-rank.silver { color: #c0c0c0; }
+  .exporter-rank.bronze { color: #cd7f32; }
+  .exporter-flag { font-size: 26px; }
+  .exporter-info { flex: 1; }
+  .exporter-name { font-weight: 700; font-size: 14px; }
+  .exporter-vol  { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .exporter-list { padding: 0 16px; display: flex; flex-direction: column; gap: 8px; }
+
+  /* POPUP */
+  .popup-overlay {
+    display:none; position:fixed; inset:0; background:rgba(0,0,0,.6);
+    z-index:999; align-items:center; justify-content:center; backdrop-filter:blur(4px);
+  }
+  .popup-overlay.show { display:flex; }
+  .popup-box {
+    background:var(--card); border:1px solid var(--border); border-radius:16px;
+    padding:20px; max-width:340px; width:calc(100% - 40px); position:relative;
+  }
+  .popup-close {
+    position:absolute; top:10px; right:14px; font-size:20px; cursor:pointer;
+    color:var(--muted); background:none; border:none; padding:4px;
+  }
+  .popup-title {
+    font-family:'Barlow Condensed',sans-serif; font-size:18px; font-weight:800;
+    margin-bottom:10px; padding-right:30px;
+  }
+  .popup-desc { font-size:13px; color:var(--muted); line-height:1.5; }
+  .popup-meta { margin-top:10px; display:flex; gap:6px; flex-wrap:wrap; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+    
+    </div>
+  </div>
+  <div class="tabs">
+    <div class="tab" data-href="index.html">🌍 Global</div>
+    <div class="tab" data-href="conflits.html">⚔️ Conflits</div>
+    <div class="tab active">🤝 Commerce</div>
+    <div class="tab" data-href="tendances.html">📈 Évolution</div>
+    <div class="tab" data-href="stats.html">📊 Stats</div>
+  </div>
+</div>
+
+<div class="content">
+
+  <!-- STATS BANNER -->
+  <div style="margin:0 16px 14px;background:var(--card);border:1px solid var(--border);border-radius:14px;padding:12px 16px;display:flex;justify-content:space-between;align-items:center;">
+    <div class="stat-block"><div class="stat-val text-accent">3 840</div><div class="stat-label">Accords actifs</div></div>
+    <div style="width:1px;height:32px;background:var(--border)"></div>
+    <div class="stat-block"><div class="stat-val text-green">+12</div><div class="stat-label">Ce mois</div></div>
+    <div style="width:1px;height:32px;background:var(--border)"></div>
+    <div class="stat-block"><div class="stat-val text-red">8</div><div class="stat-label">Sanctions</div></div>
+  </div>
+
+  <!-- FILTERS -->
+  <div class="filter-row">
+    <div class="filter-chip on" data-filter="all">Tous</div>
+    <div class="filter-chip" data-filter="bilateral">🤝 Bilatéral</div>
+    <div class="filter-chip" data-filter="regional">🌍 Régional</div>
+    <div class="filter-chip" data-filter="sanction">🚫 Sanction</div>
+  </div>
+
+  <!-- ACCORDS LIST -->
+  <div class="section-header">
+    <div class="section-title">🤝 Accords <span>commerciaux</span></div>
+    <div class="see-all">Récents ↓</div>
+  </div>
+  <div id="trade-list"></div>
+
+  <div style="height:16px"></div>
+
+  <!-- TOP EXPORTATEURS -->
+  <div class="section-header">
+    <div class="section-title">📦 Top <span>exportateurs</span></div>
+    <div class="see-all">Voir tout →</div>
+  </div>
+  <div class="exporter-list">
+    <a class="exporter-row" href="pays.html?code=CN">
+      <div class="exporter-rank gold">1</div>
+      <div class="exporter-flag">🇨🇳</div>
+      <div class="exporter-info">
+        <div class="exporter-name">Chine</div>
+        <div class="exporter-vol">3 380 Mds $ · 214 accords</div>
+      </div>
+      <div class="mini-bars">
+        <div class="mini-bar" style="height:100%;background:var(--accent)"></div>
+        <div class="mini-bar" style="height:95%;background:var(--accent)"></div>
+        <div class="mini-bar" style="height:100%;background:var(--accent)"></div>
+        <div class="mini-bar" style="height:98%;background:var(--accent)"></div>
+        <div class="mini-bar" style="height:100%;background:var(--accent)"></div>
+      </div>
+    </a>
+    <a class="exporter-row" href="pays.html?code=US">
+      <div class="exporter-rank silver">2</div>
+      <div class="exporter-flag">🇺🇸</div>
+      <div class="exporter-info">
+        <div class="exporter-name">États-Unis</div>
+        <div class="exporter-vol">2 060 Mds $ · 214 accords</div>
+      </div>
+      <div class="mini-bars">
+        <div class="mini-bar" style="height:80%;background:var(--blue)"></div>
+        <div class="mini-bar" style="height:75%;background:var(--blue)"></div>
+        <div class="mini-bar" style="height:82%;background:var(--blue)"></div>
+        <div class="mini-bar" style="height:78%;background:var(--blue)"></div>
+        <div class="mini-bar" style="height:80%;background:var(--blue)"></div>
+      </div>
+    </a>
+    <a class="exporter-row" href="pays.html?code=DE">
+      <div class="exporter-rank bronze">3</div>
+      <div class="exporter-flag">🇩🇪</div>
+      <div class="exporter-info">
+        <div class="exporter-name">Allemagne</div>
+        <div class="exporter-vol">1 560 Mds $ · 180 accords</div>
+      </div>
+      <div class="mini-bars">
+        <div class="mini-bar" style="height:65%;background:var(--green)"></div>
+        <div class="mini-bar" style="height:68%;background:var(--green)"></div>
+        <div class="mini-bar" style="height:62%;background:var(--green)"></div>
+        <div class="mini-bar" style="height:70%;background:var(--green)"></div>
+        <div class="mini-bar" style="height:65%;background:var(--green)"></div>
+      </div>
+    </a>
+    <a class="exporter-row" href="pays.html?code=JP">
+      <div class="exporter-rank">4</div>
+      <div class="exporter-flag">🇯🇵</div>
+      <div class="exporter-info">
+        <div class="exporter-name">Japon</div>
+        <div class="exporter-vol">920 Mds $ · 96 accords</div>
+      </div>
+      <div class="mini-bars">
+        <div class="mini-bar" style="height:45%;background:var(--gold)"></div>
+        <div class="mini-bar" style="height:50%;background:var(--gold)"></div>
+        <div class="mini-bar" style="height:42%;background:var(--gold)"></div>
+        <div class="mini-bar" style="height:48%;background:var(--gold)"></div>
+        <div class="mini-bar" style="height:45%;background:var(--gold)"></div>
+      </div>
+    </a>
+    <a class="exporter-row" href="pays.html?code=SG">
+      <div class="exporter-rank">5</div>
+      <div class="exporter-flag">🇸🇬</div>
+      <div class="exporter-info">
+        <div class="exporter-name">Singapour</div>
+        <div class="exporter-vol">680 Mds $ · 95 accords</div>
+      </div>
+      <div class="mini-bars">
+        <div class="mini-bar" style="height:35%;background:var(--accent)"></div>
+        <div class="mini-bar" style="height:38%;background:var(--accent)"></div>
+        <div class="mini-bar" style="height:32%;background:var(--accent)"></div>
+        <div class="mini-bar" style="height:36%;background:var(--accent)"></div>
+        <div class="mini-bar" style="height:40%;background:var(--accent)"></div>
+      </div>
+    </a>
+  </div>
+
+  <div style="height:16px"></div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+  <div class="nav-item active" data-href="index.html"><div class="nav-icon">🏆</div><div class="nav-dot"></div><div class="nav-label">Classement</div></div>
+  <div class="nav-item" data-href="carte.html"><div class="nav-icon">🗺️</div><div class="nav-label">Carte</div></div>
+  <div class="nav-item" data-href="tendances.html"><div class="nav-icon">📈</div><div class="nav-label">Tendances</div></div>
+  <div class="nav-item" data-href="alertes.html"><div class="nav-icon">🔔</div><div class="nav-label">Alertes</div></div>
+  <div class="nav-item" data-href="config.html"><div class="nav-icon">⚙️</div><div class="nav-label">Config</div></div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+<script>
+let allTrade = [];
+
+function typeLabel(t) {
+  return t === 'bilateral' ? 'tag-trade' : t === 'regional' ? 'tag-peace' : 'tag-war';
+}
+
+function renderTrade(list) {
+  document.getElementById('trade-list').innerHTML = list.map((t, i) => `
+    <div class="trade-card ${t.type}" style="animation-delay:${i * 0.07}s">
+      <div class="trade-top">
+        <div class="trade-flags">${t.country_flags ? t.country_flags.join('') : ''}</div>
+        <div class="trade-name">${t.name}</div>
+        <div class="trade-status status-${t.status}">${t.status}</div>
+      </div>
+      <div class="trade-meta">
+        <span class="tag ${typeLabel(t.type)}">${t.type}</span>
+        <span class="trade-date">Signé le ${t.signed}</span>
+      </div>
+    </div>
+  `).join('');
+}
+
+(async () => {
+  allTrade = await fetchData('/trade');
+  renderTrade(allTrade);
+
+  document.querySelectorAll('.filter-chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('on'));
+      chip.classList.add('on');
+      const f = chip.dataset.filter;
+      renderTrade(f === 'all' ? allTrade : allTrade.filter(t => t.type === f));
+    });
+  });
+})();
+
+/* ── POPUP ACCORD ── */
+function showTradePopup(t) {
+  const overlay = document.getElementById('trade-popup');
+  const flags = t.country_flags ? t.country_flags.join('') : '';
+  document.getElementById('tpopup-flags').textContent = flags;
+  document.getElementById('tpopup-name').textContent = t.name;
+  document.getElementById('tpopup-desc').textContent = t.description || '';
+  document.getElementById('tpopup-type').textContent = t.type;
+  document.getElementById('tpopup-status').textContent = t.status;
+  document.getElementById('tpopup-signed').textContent = 'Signé le ' + t.signed;
+  overlay.classList.add('show');
+}
+function closeTradePopup() {
+  document.getElementById('trade-popup').classList.remove('show');
+}
+document.getElementById('trade-popup').addEventListener('click', e => {
+  if (e.target.id === 'trade-popup') closeTradePopup();
+});
+
+/* ── CLIC SUR CARTE ACCORD ── */
+document.getElementById('trade-list').addEventListener('click', e => {
+  const card = e.target.closest('.trade-card');
+  if (!card) return;
+  const name = card.querySelector('.trade-name').textContent;
+  const trade = allTrade.find(t => t.name === name);
+  if (trade) showTradePopup(trade);
+});
+</script>
+</body>
+</html>
+
+<!-- POPUP ACCORD -->
+<div class="popup-overlay" id="trade-popup">
+  <div class="popup-box">
+    <button class="popup-close" onclick="closeTradePopup()">✕</button>
+    <div class="popup-title"><span id="tpopup-flags"></span> <span id="tpopup-name"></span></div>
+    <div class="popup-desc" id="tpopup-desc"></div>
+    <div class="popup-meta">
+      <span class="tag tag-trade" id="tpopup-type"></span>
+      <span class="tag tag-peace" id="tpopup-status"></span>
+      <span class="trade-date" id="tpopup-signed"></span>
+    </div>
+  </div>
+</div>

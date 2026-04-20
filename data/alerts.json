@@ -1,0 +1,10 @@
+[
+  {"id":1,"level":"critical","country":"🇮🇷","text":"Frappes sur Téhéran — score IR −5 pts",              "source":"Reuters",    "link":"","time":"il y a 2h"},
+  {"id":2,"level":"critical","country":"🇵🇸","text":"Offensive terrestre à Gaza — 340 victimes en 24h",  "source":"Al Jazeera", "link":"","time":"il y a 3h"},
+  {"id":3,"level":"high",    "country":"🇱🇧","text":"102 victimes au Liban — alerte humanitaire",         "source":"OCHA",       "link":"","time":"il y a 4h"},
+  {"id":4,"level":"high",    "country":"🇺🇸","text":"Nouvelles sanctions sur l'Iran annoncées",            "source":"AFP",        "link":"","time":"il y a 6h"},
+  {"id":5,"level":"high",    "country":"🇸🇩","text":"Offensive RSF dans le Darfour — 50 000 déplacés",    "source":"UNHCR",      "link":"","time":"il y a 8h"},
+  {"id":6,"level":"medium",  "country":"🇨🇳","text":"Exercices militaires autour de Taïwan",              "source":"BBC",        "link":"","time":"il y a 10h"},
+  {"id":7,"level":"medium",  "country":"🇩🇰","text":"Accord commercial UE-Mercosur finalisé",             "source":"Commission", "link":"","time":"il y a 12h"},
+  {"id":8,"level":"medium",  "country":"🇮🇸","text":"Score Islande : record historique 97.8",             "source":"PaxIndex",   "link":"","time":"il y a 14h"}
+]

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Pipeline — données brutes (intermédiaires, non versionnées)
+data/conflicts_raw.json
+data/trade_raw.json
+data/alerts_raw.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Syncthing temporaires
+*.tmp
+.syncthing.*
+
+# IDE
+.vscode/
+.idea/

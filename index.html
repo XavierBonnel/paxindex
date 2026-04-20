@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Classement mondial de paix</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<link rel="stylesheet" href="assets/css/responsive.css">
+<style>
+  .content { padding-bottom: 90px; }
+
+  /* RANK NUMBER */
+  .rank-num {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px; font-weight: 900; color: var(--muted);
+    width: 28px; text-align: center; flex-shrink: 0;
+  }
+  .rank-card.top3 .rank-num { color: var(--accent); }
+
+  /* FLAG */
+  .rank-flag { font-size: 30px; flex-shrink: 0; }
+
+  /* COUNTRY INFO */
+  .rank-info { flex: 1; min-width: 0; }
+  .rank-name {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 17px; font-weight: 800;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .rank-sub { font-size: 10px; color: var(--muted); margin-top: 1px; }
+
+  /* SCORE */
+  .rank-score-wrap { text-align: right; flex-shrink: 0; }
+  .rank-score {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 22px; font-weight: 900; line-height: 1;
+  }
+  .rank-change {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 11px; font-weight: 700; margin-top: 2px;
+  }
+  .change-up   { color: var(--green); }
+  .change-down { color: var(--red); }
+
+  /* MINI SPARKLINE */
+  .mini-bars { display: flex; gap: 2px; align-items: flex-end; height: 18px; margin-top: 4px; }
+  .mini-bar  { width: 5px; border-radius: 2px; background: var(--border); }
+
+  /* CARDS WRAP */
+  .ranking-list { padding: 0 16px; display: flex; flex-direction: column; gap: 8px; }
+
+  /* GLOBAL STATS BAR */
+  .stats-bar {
+    margin: 0 16px 14px;
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 12px 16px;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+
+  /* SEARCH */
+  .search-wrap {
+    padding: 0 16px 12px;
+  }
+  .search-input {
+    width: 100%; background: var(--card); border: 1px solid var(--border);
+    border-radius: 10px; padding: 9px 14px;
+    font-family: 'Barlow', sans-serif; font-size: 13px; color: var(--text);
+    outline: none; transition: border-color .2s;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-input:focus { border-color: var(--accent); }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+    
+  </div>
+
+  <!-- TABS -->
+  <div class="tabs">
+    <div class="tab active" id="tab-global"    data-href="index.html">🌍 Global</div>
+    <div class="tab"        id="tab-conflits"  data-href="conflits.html">⚔️ Conflits</div>
+    <div class="tab"        id="tab-commerce"  data-href="commerce.html">🤝 Commerce</div>
+    <div class="tab"        id="tab-evolution" data-href="tendances.html">📈 Évolution</div>
+    <div class="tab"        id="tab-stats"     data-href="stats.html">📊 Stats</div>
+  </div>
+</div>
+
+<!-- TICKER -->
+<div class="ticker-wrap">
+  <div class="ticker" id="ticker">
+    <!-- rempli par JS -->
+  </div>
+</div>
+
+<div class="content">
+
+  <!-- STATS GLOBALES -->
+  <div class="stats-bar">
+    <div class="stat-block">
+      <div class="stat-val text-accent" id="stat-total">195</div>
+      <div class="stat-label">Pays</div>
+    </div>
+    <div style="width:1px;height:32px;background:var(--border)"></div>
+    <div class="stat-block">
+      <div class="stat-val text-green" id="stat-peaceful">—</div>
+      <div class="stat-label">En paix</div>
+    </div>
+    <div style="width:1px;height:32px;background:var(--border)"></div>
+    <div class="stat-block">
+      <div class="stat-val text-red" id="stat-conflicts">—</div>
+      <div class="stat-label">Conflits</div>
+    </div>
+    <div style="width:1px;height:32px;background:var(--border)"></div>
+    <div class="stat-block">
+      <div class="stat-val text-blue" id="stat-trade">—</div>
+      <div class="stat-label">Accords</div>
+    </div>
+  </div>
+
+  <!-- SEARCH -->
+  <div class="search-wrap">
+    <input class="search-input" id="search" type="text" placeholder="🔍  Rechercher un pays…">
+  </div>
+
+  <!-- FILTERS RÉGION -->
+  <div class="filter-row">
+    <a class="filter-chip on" href="index.html" data-region="all">Tous</a>
+    <a class="filter-chip" href="index.html?region=Europe" data-region="Europe">🇪🇺 Europe</a>
+    <a class="filter-chip" href="index.html?region=Asie" data-region="Asie">🌏 Asie</a>
+    <a class="filter-chip" href="index.html?region=Amériques" data-region="Amériques">🌎 Amériques</a>
+    <a class="filter-chip" href="index.html?region=Afrique" data-region="Afrique">🌍 Afrique</a>
+    <a class="filter-chip" href="index.html?region=Océanie" data-region="Océanie">🌊 Océanie</a>
+    <a class="filter-chip" href="index.html?region=Moyen-Orient" data-region="Moyen-Orient">🕌 Moyen-Orient</a>
+  </div>
+
+  <div class="section-header">
+    <div class="section-title">🏆 Classement <span>mondial</span></div>
+    <div class="see-all" id="sort-toggle" onclick="toggleSort()">Trier ▼</div>
+  </div>
+
+  <div class="ranking-list" id="ranking-list">
+    <!-- rempli par JS -->
+  </div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+  <div class="nav-item active" id="nav-classement" data-href="index.html"><div class="nav-icon">🏆</div><div class="nav-label">Classement</div></div>
+  <div class="nav-item" id="nav-carte" data-href="carte.html"><div class="nav-icon">🗺️</div><div class="nav-label">Carte</div></div>
+  <div class="nav-item" id="nav-tendances" data-href="tendances.html"><div class="nav-icon">📈</div><div class="nav-label">Tendances</div></div>
+  <div class="nav-item" id="nav-alertes" data-href="alertes.html"><div class="nav-icon">🔔</div><div class="nav-label">Alertes</div></div>
+  <div class="nav-item" id="nav-config" data-href="config.html"><div class="nav-icon">⚙️</div><div class="nav-label">Config</div></div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+<script>
+let allCountries = [];
+let sortAsc = false;
+let activeRegion = 'all';
+
+function adjustedScore(c) {
+  // Pénalité de guerre : -5 points par conflit
+  return Math.max(0, c.score - c.wars * 5);
+}
+
+function scoreColor(s) {
+  // s peut être un nombre (score) ou un objet country
+  const score = typeof s === 'object' ? adjustedScore(s) : s;
+  return score >= 70 ? 'var(--green)' : score >= 40 ? 'var(--gold)' : 'var(--red)';
+}
+
+function cardClass(rank, total) {
+  if (rank <= 3)            return 'top3';
+  if (rank >= total - 2)    return 'bottom3';
+  return 'mid';
+}
+
+function sparkline(c) {
+  const heights = [0.88, 0.91, 0.94, 0.96, 0.98, 1.0].map(f =>
+    Math.round(Math.max(4, f * 18))
+  );
+  return heights.map((h, i) =>
+    `<div class="mini-bar" style="height:${h}px;background:${i===5 ? scoreColor(c) : 'var(--border)'}"></div>`
+  ).join('');
+}
+
+function renderList(countries) {
+  const el = document.getElementById('ranking-list');
+  if (!countries.length) {
+    el.innerHTML = '<p style="padding:24px;text-align:center;color:var(--muted)">Aucun résultat.</p>';
+    return;
+  }
+  el.innerHTML = countries.map((c, i) => {
+    const cls   = cardClass(c.rank, allCountries.length);
+    const col   = scoreColor(c);
+    const adj   = adjustedScore(c);
+    const chg   = c.change > 0
+      ? `<span class="change-up">▲ +${c.change}</span>`
+      : c.change < 0
+        ? `<span class="change-down">▼ ${c.change}</span>`
+        : `<span style="color:var(--muted)">▬</span>`;
+    return `
+      <div class="rank-card ${cls}" onclick="location.href='pays.html?code=${c.code}'"
+           style="animation-delay:${i * 0.04}s">
+        <div class="rank-num">#${c.rank}</div>
+        <div class="rank-flag">${c.flag}</div>
+        <div class="rank-info">
+          <div class="rank-name">${c.name}</div>
+          <div class="rank-sub">${c.region} · ${c.wars === 0 ? '🕊️ Aucun conflit' : `⚔️ ${c.wars} conflit${c.wars>1?'s':''}`} ${c.wars > 0 ? '<span class="war-badge">Guerre</span>' : ''} ${c.wars > 0 ? `<span style="font-size:9px;color:var(--muted);margin-left:4px">(-${c.wars * 5} pts)</span>` : ''}</div>
+          <div class="mini-bars">${sparkline(c)}</div>
+        </div>
+        <div class="rank-score-wrap">
+          <div class="rank-score" style="color:${col}">${adj.toFixed(1)}</div>
+          <div class="rank-change">${chg}</div>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+function applyFilters() {
+  const q = document.getElementById('search').value.toLowerCase();
+  let list = [...allCountries];
+  if (activeRegion !== 'all') list = list.filter(c => c.region === activeRegion);
+  if (q) list = list.filter(c => c.name.toLowerCase().includes(q) || c.code.toLowerCase().includes(q));
+  if (sortAsc) list = list.sort((a, b) => a.score - b.score);
+  renderList(list);
+}
+
+function toggleSort() {
+  sortAsc = !sortAsc;
+  document.getElementById('sort-toggle').textContent = sortAsc ? 'Trier ▲' : 'Trier ▼';
+  applyFilters();
+}
+
+function buildTicker(countries, alerts) {
+  const items = [
+    ...alerts.slice(0, 3).map(a => `<div class="ticker-item">${a.country} <span class="${a.level === 'critical' ? 'down' : 'up'}">${a.text.slice(0,40)}…</span></div>`),
+    ...countries.slice(0, 5).map(c => {
+      const cls = c.change > 0 ? 'up' : 'down';
+      return `<div class="ticker-item">${c.flag} ${c.name} <span class="${cls}">${c.score} pts</span></div>`;
+    })
+  ];
+  const doubled = [...items, ...items]; // loop seamless
+  document.getElementById('ticker').innerHTML = doubled.join('');
+}
+
+(async () => {
+  const [countries, stats, alerts] = await Promise.all([
+    fetchData('/countries'),
+    fetchData('/stats'),
+    fetchData('/alerts'),
+  ]);
+
+  allCountries = countries;
+
+  document.getElementById('stat-total').textContent    = stats.totalCountries ?? countries.length;
+  document.getElementById('stat-peaceful').textContent = stats.peacefulCount   ?? countries.filter(c => c.wars === 0).length;
+  document.getElementById('stat-conflicts').textContent= stats.activeConflicts ?? '—';
+  document.getElementById('stat-trade').textContent    = stats.tradeAgreements ?? '—';
+
+  buildTicker(countries, alerts);
+  renderList(countries);
+
+  document.getElementById('search').addEventListener('input', applyFilters);
+  document.querySelectorAll('.filter-chip[data-region]').forEach(chip => {
+    chip.addEventListener('click', (e) => {
+      e.preventDefault();
+      document.querySelectorAll('.filter-chip[data-region]').forEach(c => c.classList.remove('on'));
+      chip.classList.add('on');
+      activeRegion = chip.dataset.region;
+      applyFilters();
+      // Mise à jour de l'URL sans rechargement
+      const url = new URL(window.location);
+      if (activeRegion === 'all') {
+        url.searchParams.delete('region');
+      } else {
+        url.searchParams.set('region', activeRegion);
+      }
+      history.pushState({}, '', url);
+    });
+  });
+
+  // Lecture du paramètre region au chargement
+  const urlParams = new URLSearchParams(window.location.search);
+  const regionParam = urlParams.get('region');
+  if (regionParam && regionParam !== 'all') {
+    const chip = document.querySelector(`.filter-chip[data-region="${regionParam}"]`);
+    if (chip) {
+      chip.click();
+    }
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+/* ── PAXINDEX — RESPONSIVE DESKTOP ── */
+@media (min-width: 769px) {
+  body { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+  .header { padding: 20px 0 10px; }
+  .logo { font-size: 36px; }
+  .tabs { gap: 10px; justify-content: center; }
+  .tab { padding: 10px 24px; font-size: 16px; }
+  .stats-bar { margin: 0 0 24px; padding: 20px 28px; border-radius: 18px; }
+  .stat-val { font-size: 32px; }
+  .stat-label { font-size: 12px; }
+  .search-input { padding: 14px 20px; font-size: 16px; border-radius: 14px; }
+  .filter-row { gap: 10px; justify-content: center; padding: 0 0 20px; }
+  .filter-chip { padding: 8px 18px; font-size: 14px; }
+  .section-title { font-size: 28px; }
+  .see-all { font-size: 14px; }
+  .ranking-list { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); 
+    gap: 16px; 
+    padding: 0; 
+  }
+  .rank-card { padding: 20px; gap: 18px; border-radius: 18px; }
+  .rank-num { font-size: 24px; width: 36px; }
+  .rank-flag { font-size: 42px; }
+  .rank-name { font-size: 24px; }
+  .rank-sub { font-size: 12px; }
+  .rank-score { font-size: 32px; }
+  .rank-change { font-size: 13px; }
+  .mini-bars { height: 20px; margin-top: 6px; }
+  .mini-bar { width: 5px; border-radius: 3px; }
+  .bottom-nav { max-width: 1200px; padding: 16px 0 30px; }
+  .nav-icon { font-size: 26px; }
+  .nav-label { font-size: 11px; }
+  
+  /* Styles pour le badge Guerre sur desktop */
+  .war-badge { font-size: 12px; padding: 3px 8px; border-radius: 5px; }
+}
+
+@media (min-width: 1200px) {
+  body { max-width: 1400px; padding: 0 40px; }
+  .logo { font-size: 40px; }
+  .section-title { font-size: 32px; }
+  .ranking-list { grid-template-columns: repeat(auto-fill, minmax(420px, 1fr)); gap: 20px; }
+  .rank-card { padding: 24px; }
+  .rank-name { font-size: 26px; }
+  .rank-score { font-size: 36px; }
+}

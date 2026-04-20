@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Tendances</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<style>
+  .content { padding-bottom: 90px; }
+
+  /* RÉSUMÉ SEMAINE */
+  .week-summary {
+    margin: 0 16px 14px;
+    background: linear-gradient(135deg, rgba(79,255,176,.08), rgba(79,255,176,.02));
+    border: 1px solid rgba(79,255,176,.2);
+    border-radius: 14px; padding: 14px 16px;
+  }
+  .week-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 12px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 1px; color: var(--accent); margin-bottom: 8px;
+  }
+  .week-text { font-size: 13px; line-height: 1.5; color: var(--text); }
+  .week-text strong { color: var(--accent); }
+
+  /* TREND CARD */
+  .trend-card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 12px 14px;
+    display: flex; align-items: center; gap: 10px;
+    animation: slideIn .3s ease both; cursor: pointer;
+  }
+  .trend-flag { font-size: 26px; }
+  .trend-name { flex: 1; font-weight: 600; font-size: 13px; }
+  .trend-score {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px; font-weight: 900;
+  }
+  .trend-change {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 16px; font-weight: 800; min-width: 52px; text-align: right;
+  }
+  .trend-lists { padding: 0 16px; display: flex; flex-direction: column; gap: 8px; }
+
+  /* COURBE GLOBALE */
+  .curve-wrap {
+    margin: 0 16px 14px;
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 14px; padding: 16px;
+  }
+  .curve-title {
+    font-family: 'Barlow Condensed', sans-serif; font-size: 13px;
+    font-weight: 700; color: var(--muted); text-transform: uppercase;
+    letter-spacing: 0.5px; margin-bottom: 12px;
+  }
+  .curve-svg { width: 100%; overflow: visible; }
+
+  /* TIMELINE */
+  .timeline { padding: 0 16px; }
+  .timeline-item {
+    display: flex; gap: 12px; margin-bottom: 14px;
+    animation: slideIn .3s ease both;
+  }
+  .timeline-dot-wrap {
+    display: flex; flex-direction: column; align-items: center; gap: 0;
+  }
+  .timeline-dot {
+    width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; margin-top: 4px;
+  }
+  .timeline-line {
+    width: 2px; flex: 1; background: var(--border); min-height: 20px; margin-top: 4px;
+  }
+  .timeline-content { flex: 1; padding-bottom: 4px; }
+  .timeline-event { font-size: 13px; font-weight: 500; line-height: 1.4; }
+  .timeline-meta { display: flex; gap: 8px; margin-top: 4px; align-items: center; }
+  .timeline-date { font-size: 10px; color: var(--muted); }
+
+  /* PERIOD TABS */
+  .period-tabs {
+    display: flex; gap: 4px; padding: 0 16px 12px;
+  }
+  .period-tab {
+    flex: 1; text-align: center; padding: 6px;
+    border-radius: 8px; font-size: 11px; font-weight: 700;
+    cursor: pointer; border: 1px solid var(--border);
+    color: var(--muted); background: transparent; transition: all .15s;
+  }
+  .period-tab.on { background: rgba(79,255,176,.12); color: var(--accent); border-color: var(--accent); }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+    
+    </div>
+  </div>
+  <div class="tabs">
+    <div class="tab" data-href="index.html">🌍 Global</div>
+    <div class="tab" data-href="conflits.html">⚔️ Conflits</div>
+    <div class="tab" data-href="commerce.html">🤝 Commerce</div>
+    <div class="tab active">📈 Évolution</div>
+    <div class="tab" data-href="stats.html">📊 Stats</div>
+  </div>
+</div>
+
+<div class="content">
+
+  <!-- RÉSUMÉ SEMAINE -->
+  <div class="week-summary" style="margin-top:12px">
+    <div class="week-title">📅 Cette semaine</div>
+    <div class="week-text">
+      <strong>34 pays</strong> ont progressé · <strong>18 pays</strong> ont reculé<br>
+      Score mondial moyen : <strong>52.4</strong> <span style="color:var(--red)">▼ −0.8</span> vs semaine passée
+    </div>
+  </div>
+
+  <!-- PÉRIODE -->
+  <div class="period-tabs">
+    <div class="period-tab on">7 jours</div>
+    <div class="period-tab">30 jours</div>
+    <div class="period-tab">6 mois</div>
+    <div class="period-tab">1 an</div>
+  </div>
+
+  <!-- COURBE GLOBALE -->
+  <div class="section-header">
+    <div class="section-title">📊 Indice <span>mondial</span></div>
+  </div>
+  <div class="curve-wrap">
+    <div class="curve-title">Score PaxIndex moyen — 6 derniers mois</div>
+    <svg class="curve-svg" viewBox="0 0 340 80" height="80">
+      <defs>
+        <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#4fffb0" stop-opacity="0.3"/>
+          <stop offset="100%" stop-color="#4fffb0" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <!-- Aire -->
+      <path d="M0,45 C30,42 60,38 100,35 C140,32 170,36 210,40 C250,44 290,48 340,50 L340,80 L0,80 Z" fill="url(#grad)"/>
+      <!-- Ligne -->
+      <path d="M0,45 C30,42 60,38 100,35 C140,32 170,36 210,40 C250,44 290,48 340,50" fill="none" stroke="#4fffb0" stroke-width="2" stroke-linecap="round"/>
+      <!-- Points -->
+      <circle cx="0"   cy="45" r="3" fill="#4fffb0"/>
+      <circle cx="68"  cy="38" r="3" fill="#4fffb0"/>
+      <circle cx="136" cy="33" r="3" fill="#4fffb0"/>
+      <circle cx="204" cy="40" r="3" fill="#4fffb0"/>
+      <circle cx="272" cy="46" r="3" fill="#4fffb0"/>
+      <circle cx="340" cy="50" r="4" fill="#4fffb0" stroke="#0b0e1a" stroke-width="2"/>
+      <!-- Labels mois -->
+      <text x="0"   y="76" fill="#7a82a8" font-size="9" font-family="Barlow Condensed">Oct</text>
+      <text x="60"  y="76" fill="#7a82a8" font-size="9" font-family="Barlow Condensed">Nov</text>
+      <text x="128" y="76" fill="#7a82a8" font-size="9" font-family="Barlow Condensed">Déc</text>
+      <text x="196" y="76" fill="#7a82a8" font-size="9" font-family="Barlow Condensed">Jan</text>
+      <text x="260" y="76" fill="#7a82a8" font-size="9" font-family="Barlow Condensed">Fév</text>
+      <text x="322" y="76" fill="#7a82a8" font-size="9" font-family="Barlow Condensed">Mar</text>
+    </svg>
+  </div>
+
+  <!-- TOP HAUSSES -->
+  <div class="section-header">
+    <div class="section-title">📈 Top <span>hausses</span></div>
+  </div>
+  <div class="trend-lists" id="top-up"></div>
+
+  <div style="height:12px"></div>
+
+  <!-- TOP BAISSES -->
+  <div class="section-header">
+    <div class="section-title">📉 Top <span>baisses</span></div>
+  </div>
+  <div class="trend-lists" id="top-down"></div>
+
+  <div style="height:12px"></div>
+
+  <!-- TIMELINE ÉVÉNEMENTS -->
+  <div class="section-header">
+    <div class="section-title">📋 <span>Événements</span> récents</div>
+  </div>
+  <div class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-dot-wrap">
+        <div class="timeline-dot" style="background:var(--red)"></div>
+        <div class="timeline-line"></div>
+      </div>
+      <div class="timeline-content">
+        <div class="timeline-event">Intensification des frappes sur Téhéran — score Iran effondré</div>
+        <div class="timeline-meta">
+          <span class="tag tag-war">Guerre</span>
+          <span class="timeline-date">13 mars 2026</span>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot-wrap">
+        <div class="timeline-dot" style="background:var(--red)"></div>
+        <div class="timeline-line"></div>
+      </div>
+      <div class="timeline-content">
+        <div class="timeline-event">Frappes israéliennes au Liban — 102 victimes civiles</div>
+        <div class="timeline-meta">
+          <span class="tag tag-war">Conflit</span>
+          <span class="timeline-date">10 mars 2026</span>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot-wrap">
+        <div class="timeline-dot" style="background:var(--blue)"></div>
+        <div class="timeline-line"></div>
+      </div>
+      <div class="timeline-content">
+        <div class="timeline-event">Alliance nucléaire européenne — Macron + 8 pays signataires</div>
+        <div class="timeline-meta">
+          <span class="tag tag-trade">Diplomatie</span>
+          <span class="timeline-date">2 mars 2026</span>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot-wrap">
+        <div class="timeline-dot" style="background:var(--green)"></div>
+        <div class="timeline-line"></div>
+      </div>
+      <div class="timeline-content">
+        <div class="timeline-event">Accord UE-Mercosur finalisé — +38 accords commerciaux activés</div>
+        <div class="timeline-meta">
+          <span class="tag tag-peace">Commerce</span>
+          <span class="timeline-date">28 fév 2026</span>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-dot-wrap">
+        <div class="timeline-dot" style="background:var(--red)"></div>
+      </div>
+      <div class="timeline-content">
+        <div class="timeline-event">Frappes USA-Israël sur l'Iran — mort d'Ali Khamenei</div>
+        <div class="timeline-meta">
+          <span class="tag tag-war">Guerre</span>
+          <span class="timeline-date">28 fév 2026</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="height:16px"></div>
+
+</div>
+
+<!-- BOTTOM NAV -->
+<div class="bottom-nav">
+  <div class="nav-item" data-href="index.html"><div class="nav-icon">🏆</div><div class="nav-label">Classement</div></div>
+  <div class="nav-item" data-href="carte.html"><div class="nav-icon">🗺️</div><div class="nav-label">Carte</div></div>
+  <div class="nav-item active"><div class="nav-icon">📈</div><div class="nav-dot"></div><div class="nav-label">Tendances</div></div>
+  <div class="nav-item" data-href="alertes.html"><div class="nav-icon">🔔</div><div class="nav-label">Alertes</div></div>
+  <div class="nav-item" data-href="config.html"><div class="nav-icon">⚙️</div><div class="nav-label">Config</div></div>
+</div>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+<script>
+(async () => {
+  const countries = await fetchData('/countries');
+  const sorted    = [...countries].sort((a, b) => b.change - a.change);
+  const ups       = sorted.filter(c => c.change > 0).slice(0, 5);
+  const downs     = sorted.filter(c => c.change < 0).reverse().slice(0, 5);
+
+  function cardHtml(c, i) {
+    const isUp  = c.change > 0;
+    const col   = isUp ? 'var(--green)' : 'var(--red)';
+    const arrow = isUp ? '▲' : '▼';
+    return `
+      <a class="trend-card" href="pays.html?code=${c.code}" style="animation-delay:${i*0.07}s;text-decoration:none;color:inherit">
+        <div class="trend-flag">${c.flag}</div>
+        <div class="trend-name">${c.name}</div>
+        <div class="trend-score" style="color:${col}">${c.score}</div>
+        <div class="trend-change" style="color:${col}">${arrow} ${Math.abs(c.change)}</div>
+      </a>`;
+  }
+
+  document.getElementById('top-up').innerHTML   = ups.map(cardHtml).join('');
+  document.getElementById('top-down').innerHTML = downs.map(cardHtml).join('');
+
+  document.querySelectorAll('.period-tab').forEach(t => {
+    t.addEventListener('click', () => {
+      document.querySelectorAll('.period-tab').forEach(x => x.classList.remove('on'));
+      t.classList.add('on');
+    });
+  });
+})();
+</script>
+</body>
+</html>

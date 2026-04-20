@@ -1,0 +1,2154 @@
+[
+  {
+    "id": 1,
+    "countries": [
+      {
+        "type": "country",
+        "value": "RU"
+      },
+      {
+        "type": "country",
+        "value": "UA"
+      }
+    ],
+    "country_flags": [
+      "🇷🇺",
+      "🇺🇦"
+    ],
+    "name": "Guerre Russie-Ukraine",
+    "type": "guerre",
+    "intensity": 95,
+    "since": "2022-02-24",
+    "region": "Europe",
+    "description": "Guerre déclenchée le 24 février 2022 par l'invasion russe de l'Ukraine. Plus de 100 000 morts estimés. Conflit le plus meurtrier en Europe depuis 1945."
+  },
+  {
+    "id": 2,
+    "countries": [
+      {
+        "type": "country",
+        "value": "IL"
+      },
+      {
+        "type": "country",
+        "value": "PS"
+      }
+    ],
+    "country_flags": [
+      "🇮🇱",
+      "🇵🇸"
+    ],
+    "name": "Conflit Gaza",
+    "type": "guerre",
+    "intensity": 92,
+    "since": "2023-10-07",
+    "region": "Moyen-Orient",
+    "description": "Attaque terroriste du Hamas le 7 octobre 2023 ayant causé ~1200 morts israéliens. Réponse militaire massive d'Israël à Gaza avec ~47 000 morts palestiniens."
+  },
+  {
+    "id": 3,
+    "countries": [
+      {
+        "type": "country",
+        "value": "IL"
+      },
+      {
+        "type": "country",
+        "value": "LB"
+      }
+    ],
+    "country_flags": [
+      "🇮🇱",
+      "🇱🇧"
+    ],
+    "name": "Conflit Israël-Liban",
+    "type": "guerre",
+    "intensity": 78,
+    "since": "2024-09-17",
+    "region": "Moyen-Orient",
+    "description": "Escalade du conflit entre Israël et le Hezbollah au Liban depuis septembre 2024. Plus de 3 800 morts au Liban. Destruction massive au sud du pays."
+  },
+  {
+    "id": 4,
+    "countries": [
+      {
+        "type": "country",
+        "value": "US"
+      },
+      {
+        "type": "country",
+        "value": "IR"
+      }
+    ],
+    "country_flags": [
+      "🇺🇸",
+      "🇮🇷"
+    ],
+    "name": "Frappes USA-Iran",
+    "type": "guerre",
+    "intensity": 88,
+    "since": "2026-02-28",
+    "region": "Moyen-Orient",
+    "description": "Frappes américaines contre des cibles iraniennes suite à l'escalade régionale de 2026. Tensions majeures dans le Golfe persique."
+  },
+  {
+    "id": 5,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SD"
+      },
+      {
+        "type": "country",
+        "value": "SD"
+      }
+    ],
+    "country_flags": [
+      "🇸🇩",
+      "🇸🇩"
+    ],
+    "name": "Guerre civile Soudan",
+    "type": "guerre",
+    "intensity": 82,
+    "since": "2023-04-15",
+    "region": "Afrique",
+    "description": "Guerre civile entre l'armée soudanaise et les Forces de soutien rapide. Plus de 15 000 morts et 10 millions de déplacés depuis avril 2023."
+  },
+  {
+    "id": 6,
+    "countries": [
+      {
+        "type": "country",
+        "value": "ET"
+      },
+      {
+        "type": "country",
+        "value": "ET"
+      }
+    ],
+    "country_flags": [
+      "🇪🇹",
+      "🇪🇹"
+    ],
+    "name": "Conflit Amhara-Éthiopie",
+    "type": "guerre",
+    "intensity": 68,
+    "since": "2023-04-09",
+    "region": "Afrique",
+    "description": "Conflit interne en Éthiopie impliquant les forces Amhara. Suite de la guerre du Tigré. Instabilité chronique dans la Corne de l'Afrique."
+  },
+  {
+    "id": 7,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CN"
+      },
+      {
+        "type": "country",
+        "value": "TW"
+      }
+    ],
+    "country_flags": [
+      "🇨🇳",
+      "🇹🇼"
+    ],
+    "name": "Détroit de Taïwan",
+    "type": "tension",
+    "intensity": 62,
+    "since": "2024-01-01",
+    "region": "Asie",
+    "description": "Tensions croissantes entre la Chine et Taïwan. Multiplication des exercices militaires chinois autour de l'île. Risque de blocus."
+  },
+  {
+    "id": 8,
+    "countries": [
+      {
+        "type": "country",
+        "value": "IN"
+      },
+      {
+        "type": "country",
+        "value": "PK"
+      }
+    ],
+    "country_flags": [
+      "🇮🇳",
+      "🇵🇰"
+    ],
+    "name": "Conflit Cachemire",
+    "type": "tension",
+    "intensity": 55,
+    "since": "1947-01-01",
+    "region": "Asie",
+    "description": "Conflit territorial de 75 ans au Cachemire entre l'Inde et le Pakistan. Deux puissances nucléaires. Escarmouches régulières."
+  },
+  {
+    "id": 9,
+    "countries": [
+      {
+        "type": "country",
+        "value": "US"
+      },
+      {
+        "type": "country",
+        "value": "IR"
+      }
+    ],
+    "country_flags": [
+      "🇺🇸",
+      "🇮🇷"
+    ],
+    "name": "Tensions mer Rouge",
+    "type": "tension",
+    "intensity": 70,
+    "since": "2023-12-01",
+    "region": "Moyen-Orient",
+    "description": "Tensions en mer Rouge depuis décembre 2023. Attaques des Houthis contre le commerce international. Réponses militaires américaines et britanniques."
+  },
+  {
+    "id": 10,
+    "countries": [
+      {
+        "type": "country",
+        "value": "RU"
+      },
+      {
+        "type": "group",
+        "value": "NATO"
+      }
+    ],
+    "country_flags": [
+      "🇷🇺",
+      "🛡️"
+    ],
+    "name": "Tensions OTAN-Russie",
+    "type": "tension",
+    "intensity": 48,
+    "since": "2022-03-01",
+    "region": "Europe",
+    "description": "Tensions persistantes entre la Russie et l'OTAN depuis l'invasion de l'Ukraine. Menaces nucléaires, réarmement européen, élargissement OTAN (Finlande, Suède)."
+  },
+  {
+    "id": 11,
+    "countries": [
+      {
+        "type": "group",
+        "value": "EU"
+      },
+      {
+        "type": "country",
+        "value": "RU"
+      }
+    ],
+    "country_flags": [
+      "🇪🇺",
+      "🇷🇺"
+    ],
+    "name": "Sanctions EU→Russie",
+    "type": "sanction",
+    "intensity": 35,
+    "since": "2022-03-01",
+    "region": "Europe",
+    "description": "Sanctions économiques de l'UE contre la Russie depuis 2022. Gel des avoirs, embargo pétrolier, restrictions technologiques. 15 trains de mesures."
+  },
+  {
+    "id": 12,
+    "countries": [
+      {
+        "type": "country",
+        "value": "US"
+      },
+      {
+        "type": "country",
+        "value": "CN"
+      }
+    ],
+    "country_flags": [
+      "🇺🇸",
+      "🇨🇳"
+    ],
+    "name": "Guerre commerciale US-CN",
+    "type": "sanction",
+    "intensity": 55,
+    "since": "2018-07-06",
+    "region": "Asie",
+    "description": "Guerre commerciale entre les États-Unis et la Chine depuis 2018. Droits de douane réciproques, restrictions technologiques (puces, TikTok)."
+  },
+  {
+    "id": 13,
+    "countries": [
+      {
+        "type": "country",
+        "value": "UG"
+      },
+      {
+        "type": "country",
+        "value": "CD"
+      }
+    ],
+    "country_flags": [
+      "🇺🇬",
+      "🇨🇩"
+    ],
+    "name": "Instabilité région Grands Lacs",
+    "type": "tension",
+    "intensity": 42,
+    "since": "2021-06-01",
+    "region": "Afrique",
+    "description": "Instabilité chronique dans la région des Grands Lacs africains. Tensions entre l'Ouganda et la RDC. Groupes armés actifs dans l'Est."
+  },
+  {
+    "id": 14,
+    "countries": [
+      {
+        "type": "country",
+        "value": "NG"
+      },
+      {
+        "type": "country",
+        "value": "TD"
+      }
+    ],
+    "country_flags": [
+      "🇳🇬",
+      "🇹🇩"
+    ],
+    "name": "Insécurité Sahel",
+    "type": "tension",
+    "intensity": 55,
+    "since": "2020-03-01",
+    "region": "Afrique",
+    "description": "Insécurité au Sahel et dans le bassin du lac Tchad. Menace Boko Haram et groupes jihadistes. Instabilité politique au Niger et au Mali."
+  },
+  {
+    "id": 15,
+    "countries": [
+      {
+        "type": "group",
+        "value": "AFRICA"
+      }
+    ],
+    "country_flags": [
+      "🌍"
+    ],
+    "name": "Tensions régionales Afrique de l'Est",
+    "type": "tension",
+    "intensity": 30,
+    "since": "2024-01-01",
+    "region": "Afrique",
+    "description": "Tensions régionales en Afrique de l'Est impliquant l'Éthiopie, la Somalie et l'Égypte. Contentieux sur le barrage de la Renaissance (GERD)."
+  },
+  {
+    "id": 16,
+    "countries": [
+      {
+        "type": "country",
+        "value": "ZA"
+      },
+      {
+        "type": "country",
+        "value": "MZ"
+      }
+    ],
+    "country_flags": [
+      "🇿🇦",
+      "🇲🇿"
+    ],
+    "name": "Tensions Mozambique-Afrique du Sud",
+    "type": "tension",
+    "intensity": 35,
+    "since": "2023-05-01",
+    "region": "Afrique",
+    "description": "Tensions entre le Mozambique et l'Afrique du Sud liées à l'immigration et au commerce. Insurrection jihadiste au nord du Mozambique."
+  },
+  {
+    "id": 17,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AR"
+      },
+      {
+        "type": "country",
+        "value": "CL"
+      }
+    ],
+    "country_flags": [
+      "🇦🇷",
+      "🇨🇱"
+    ],
+    "name": "Différend maritime Argentine-Chili",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2010-01-01",
+    "region": "Amériques",
+    "description": "Différend maritime entre l'Argentine et le Chili concernant la délimitation de la zone économique exclusive en Patagonie australe."
+  },
+  {
+    "id": 18,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BO"
+      },
+      {
+        "type": "country",
+        "value": "CL"
+      }
+    ],
+    "country_flags": [
+      "🇧🇴",
+      "🇨🇱"
+    ],
+    "name": "Contentieux maritime Bolivie-Chili",
+    "type": "tension",
+    "intensity": 20,
+    "since": "1879-01-01",
+    "region": "Amériques",
+    "description": "La Bolivie réclame un accès souverain à l'océan Pacifique perdu lors de la guerre du Pacifique (1879-1884). Contentieux historique non résolu."
+  },
+  {
+    "id": 19,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CO"
+      },
+      {
+        "type": "country",
+        "value": "VE"
+      }
+    ],
+    "country_flags": [
+      "🇨🇴",
+      "🇻🇪"
+    ],
+    "name": "Tensions frontalières Colombie-Venezuela",
+    "type": "tension",
+    "intensity": 40,
+    "since": "2015-08-01",
+    "region": "Amériques",
+    "description": "Tensions frontalières récurrentes entre la Colombie et le Venezuela. Fermeture de la frontière, crises diplomatiques et migrants."
+  },
+  {
+    "id": 20,
+    "countries": [
+      {
+        "type": "country",
+        "value": "GT"
+      },
+      {
+        "type": "country",
+        "value": "BZ"
+      }
+    ],
+    "country_flags": [
+      "🇬🇹",
+      "🇧🇿"
+    ],
+    "name": "Contentieux territorial Guatemala-Belize",
+    "type": "tension",
+    "intensity": 18,
+    "since": "1859-01-01",
+    "region": "Amériques",
+    "description": "Contentieux territorial vieux de 160 ans entre le Guatemala et le Belize. Référendum à la CIJ en cours pour résolution."
+  },
+  {
+    "id": 21,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BR"
+      },
+      {
+        "type": "country",
+        "value": "PY"
+      }
+    ],
+    "country_flags": [
+      "🇧🇷",
+      "🇵🇾"
+    ],
+    "name": "Tensions commerciales Brésil-Paraguay",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2020-01-01",
+    "region": "Amériques",
+    "description": "Tensions commerciales entre le Brésil et le Paraguay sur les droits d'exploitation du barrage d'Itaipu et le commerce transfrontalier."
+  },
+  {
+    "id": 22,
+    "countries": [
+      {
+        "type": "country",
+        "value": "EC"
+      },
+      {
+        "type": "country",
+        "value": "PE"
+      }
+    ],
+    "country_flags": [
+      "🇪🇨",
+      "🇵🇪"
+    ],
+    "name": "Contentieux frontalier Équateur-Pérou",
+    "type": "tension",
+    "intensity": 12,
+    "since": "1998-10-26",
+    "region": "Amériques",
+    "description": "Conflit frontalier historique entre l'Équateur et le Pérou, partiellement résolu en 1998 mais des tensions subsistent."
+  },
+  {
+    "id": 23,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CU"
+      },
+      {
+        "type": "country",
+        "value": "US"
+      }
+    ],
+    "country_flags": [
+      "🇨🇺",
+      "🇺🇸"
+    ],
+    "name": "Embargo États-Unis-Cuba",
+    "type": "sanction",
+    "intensity": 30,
+    "since": "1960-01-01",
+    "region": "Amériques",
+    "description": "Embargo économique américain contre Cuba depuis 1960. Mesures renforcées sous Trump, partiellement assouplies sous Biden puis durcies."
+  },
+  {
+    "id": 24,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CY"
+      },
+      {
+        "type": "country",
+        "value": "TR"
+      }
+    ],
+    "country_flags": [
+      "🇨🇾",
+      "🇹🇷"
+    ],
+    "name": "Conflit Chypre nord",
+    "type": "tension",
+    "intensity": 50,
+    "since": "1974-07-20",
+    "region": "Europe",
+    "description": "Chypre divisée depuis l'invasion turque de 1974. Tentatives de réunification avortées. Tensions en mer Égée sur les ressources gazières."
+  },
+  {
+    "id": 25,
+    "countries": [
+      {
+        "type": "country",
+        "value": "GR"
+      },
+      {
+        "type": "country",
+        "value": "TR"
+      }
+    ],
+    "country_flags": [
+      "🇬🇷",
+      "🇹🇷"
+    ],
+    "name": "Différend mer Égée Grèce-Turquie",
+    "type": "tension",
+    "intensity": 35,
+    "since": "1974-01-01",
+    "region": "Europe",
+    "description": "Différend maritime en mer Égée entre la Grèce et la Turquie sur les eaux territoriales, l'espace aérien et les ressources naturelles."
+  },
+  {
+    "id": 26,
+    "countries": [
+      {
+        "type": "country",
+        "value": "RS"
+      },
+      {
+        "type": "country",
+        "value": "XK"
+      }
+    ],
+    "country_flags": [
+      "🇷🇸",
+      "🇽🇰"
+    ],
+    "name": "Tensions Kosovo-Serbie",
+    "type": "tension",
+    "intensity": 45,
+    "since": "2008-02-17",
+    "region": "Europe",
+    "description": "Tensions persistantes entre le Kosovo et la Serbie depuis la déclaration d'indépendance de 2008. La Serbie ne reconnaît pas le Kosovo."
+  },
+  {
+    "id": 27,
+    "countries": [
+      {
+        "type": "country",
+        "value": "GB"
+      },
+      {
+        "type": "country",
+        "value": "ES"
+      }
+    ],
+    "country_flags": [
+      "🇬🇧",
+      "🇪🇸"
+    ],
+    "name": "Contentieux Gibraltar",
+    "type": "tension",
+    "intensity": 12,
+    "since": "1704-01-01",
+    "region": "Europe",
+    "description": "Contentieux sur le rocher de Gibraltar entre l'Espagne et le Royaume-Uni depuis 1704. Négociations post-Brexit en cours."
+  },
+  {
+    "id": 28,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CH"
+      },
+      {
+        "type": "group",
+        "value": "EU"
+      }
+    ],
+    "country_flags": [
+      "🇨🇭",
+      "🇪🇺"
+    ],
+    "name": "Négociations bilatérales Suisse-UE",
+    "type": "tension",
+    "intensity": 8,
+    "since": "2021-05-01",
+    "region": "Europe",
+    "description": "Négociations complexes entre la Suisse et l'UE sur le cadre institutionnel des accords bilatéraux. Rupture des talks en 2021."
+  },
+  {
+    "id": 29,
+    "countries": [
+      {
+        "type": "country",
+        "value": "NO"
+      },
+      {
+        "type": "country",
+        "value": "GB"
+      }
+    ],
+    "country_flags": [
+      "🇳🇴",
+      "🇬🇧"
+    ],
+    "name": "Différend pêche Norvège-Royaume-Uni",
+    "type": "tension",
+    "intensity": 10,
+    "since": "1964-01-01",
+    "region": "Europe",
+    "description": "Conflit de pêche post-Brexit entre la Norvège et le Royaume-Uni sur les quotas et les zones de pêche en mer du Nord."
+  },
+  {
+    "id": 30,
+    "countries": [
+      {
+        "type": "country",
+        "value": "JP"
+      },
+      {
+        "type": "country",
+        "value": "KR"
+      }
+    ],
+    "country_flags": [
+      "🇯🇵",
+      "🇰🇷"
+    ],
+    "name": "Contentieux historiques Japon-Corée du Sud",
+    "type": "tension",
+    "intensity": 30,
+    "since": "2018-10-30",
+    "region": "Asie",
+    "description": "Contentieux historiques entre le Japon et la Corée du Sud sur les questions de compensation de la période coloniale (1910-1945)."
+  },
+  {
+    "id": 31,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MY"
+      },
+      {
+        "type": "country",
+        "value": "PH"
+      }
+    ],
+    "country_flags": [
+      "🇲🇾",
+      "🇵🇭"
+    ],
+    "name": "Contentieux Sabah Malaisie-Philippines",
+    "type": "tension",
+    "intensity": 15,
+    "since": "1963-01-01",
+    "region": "Asie",
+    "description": "La Malaisie revendique l'État de Sabah (Bornéo) comme territoire historically souverain du Sultanat de Sulu, revendication Phillippines."
+  },
+  {
+    "id": 32,
+    "countries": [
+      {
+        "type": "country",
+        "value": "TH"
+      },
+      {
+        "type": "country",
+        "value": "KH"
+      }
+    ],
+    "country_flags": [
+      "🇹🇭",
+      "🇰🇭"
+    ],
+    "name": "Conflit frontalier Thaïlande-Cambodge",
+    "type": "tension",
+    "intensity": 28,
+    "since": "2008-07-15",
+    "region": "Asie",
+    "description": "Conflit frontalier autour du temple de Preah Vihear. Escarmouches militaires en 2008-2011. Tensions récurrentes."
+  },
+  {
+    "id": 33,
+    "countries": [
+      {
+        "type": "country",
+        "value": "PG"
+      },
+      {
+        "type": "country",
+        "value": "AU"
+      }
+    ],
+    "country_flags": [
+      "🇵🇬",
+      "🇦🇺"
+    ],
+    "name": "Tensions frontalières PNG-Australie",
+    "type": "tension",
+    "intensity": 8,
+    "since": "1975-01-01",
+    "region": "Océanie",
+    "description": "Tensions frontalières entre le PNG et l'Australie sur la gestion des flux migratoires et les ressources maritimes du détroit de Torres."
+  },
+  {
+    "id": 34,
+    "countries": [
+      {
+        "type": "country",
+        "value": "FJ"
+      },
+      {
+        "type": "country",
+        "value": "SB"
+      }
+    ],
+    "country_flags": [
+      "🇫🇯",
+      "🇸🇧"
+    ],
+    "name": "Tensions régionales Pacifique Fidji-Îles Salomon",
+    "type": "tension",
+    "intensity": 12,
+    "since": "2022-01-01",
+    "region": "Océanie",
+    "description": "Instabilité politique récurrente dans le Pacifique avec des interventions australiennes et néo-zélandaises aux Salomon et au Vanuatu."
+  },
+  {
+    "id": 35,
+    "countries": [
+      {
+        "type": "country",
+        "value": "QA"
+      },
+      {
+        "type": "country",
+        "value": "SA"
+      }
+    ],
+    "country_flags": [
+      "🇶🇦",
+      "🇸🇦"
+    ],
+    "name": "Blocus Qatar-Arabie Saoudite",
+    "type": "tension",
+    "intensity": 40,
+    "since": "2017-06-05",
+    "region": "Moyen-Orient",
+    "description": "Blocus du Qatar par l'Arabie Saoudite, les EAU, Bahreïn et l'Égypte de 2017 à 2021. Accusations de soutien au terrorisme."
+  },
+  {
+    "id": 36,
+    "countries": [
+      {
+        "type": "country",
+        "value": "OM"
+      },
+      {
+        "type": "country",
+        "value": "SA"
+      }
+    ],
+    "country_flags": [
+      "🇴🇲",
+      "🇸🇦"
+    ],
+    "name": "Contentieux frontalier Oman-Arabie Saoudite",
+    "type": "tension",
+    "intensity": 20,
+    "since": "2000-01-01",
+    "region": "Moyen-Orient",
+    "description": "Contentieux frontalier non délimité entre Oman et l'Arabie Saoudite dans le Rub al-Khali (Quartier Vide)."
+  },
+  {
+    "id": 37,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BH"
+      },
+      {
+        "type": "country",
+        "value": "QA"
+      }
+    ],
+    "country_flags": [
+      "🇧🇭",
+      "🇶🇦"
+    ],
+    "name": "Tensions régionales Golfe",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2017-06-05",
+    "region": "Moyen-Orient",
+    "description": "Tensions régionales dans le Golfe persistantes après le blocus du Qatar. Rivalité Iran-Arabie Saoudite pour l'hégémonie régionale."
+  },
+  {
+    "id": 38,
+    "countries": [
+      {
+        "type": "country",
+        "value": "KW"
+      },
+      {
+        "type": "country",
+        "value": "IQ"
+      }
+    ],
+    "country_flags": [
+      "🇰🇼",
+      "🇮🇶"
+    ],
+    "name": "Contentieux Koweït-Irak",
+    "type": "tension",
+    "intensity": 45,
+    "since": "1990-08-02",
+    "region": "Moyen-Orient",
+    "description": "L'Irak a envahi le Koweït en 1990. Tensions frontalières résiduelles et désaccords sur les champs pétroliers transfrontaliers."
+  },
+  {
+    "id": 39,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AE"
+      },
+      {
+        "type": "country",
+        "value": "SA"
+      }
+    ],
+    "country_flags": [
+      "🇦🇪",
+      "🇸🇦"
+    ],
+    "name": "Tensions régionales EAU-Arabie Saoudite",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2019-01-01",
+    "region": "Moyen-Orient",
+    "description": "Rivalité économique croissante entre les EAU et l'Arabie Saoudite pour le leadership régional. Concurrence portuaire et logistique."
+  },
+  {
+    "id": 40,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CV"
+      }
+    ],
+    "country_flags": [
+      "🇨🇻"
+    ],
+    "name": "Instabilité Afrique de l'Ouest",
+    "type": "tension",
+    "intensity": 32,
+    "since": "2020-01-01",
+    "region": "Afrique",
+    "description": "Instabilité chronique en Afrique de l'Ouest : coups d'État (Mali, Burkina, Niger), insurrection jihadiste, crise humanitaire au Sahel."
+  },
+  {
+    "id": 41,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AG"
+      }
+    ],
+    "country_flags": [
+      "🇦🇬"
+    ],
+    "name": "Instabilité régionale Antigua-et-Barbuda",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Instabilité politique aux Antilles : crises économiques, migration, tensions post-coloniales avec les puissances européennes."
+  },
+  {
+    "id": 42,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BB"
+      }
+    ],
+    "country_flags": [
+      "🇧🇧"
+    ],
+    "name": "Instabilité régionale Barbade",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": ""
+  },
+  {
+    "id": 43,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CA"
+      }
+    ],
+    "country_flags": [
+      "🇨🇦"
+    ],
+    "name": "Instabilité régionale Canada",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Tensions migratoires et commerciales du Canada avec les États-Unis. Différends sur le bois d'œuvre et les produits laitiers."
+  },
+  {
+    "id": 44,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CR"
+      }
+    ],
+    "country_flags": [
+      "🇨🇷"
+    ],
+    "name": "Instabilité régionale Costa Rica",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": ""
+  },
+  {
+    "id": 45,
+    "countries": [
+      {
+        "type": "country",
+        "value": "DM"
+      }
+    ],
+    "country_flags": [
+      "🇩🇲"
+    ],
+    "name": "Instabilité régionale Dominique",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": ""
+  },
+  {
+    "id": 46,
+    "countries": [
+      {
+        "type": "country",
+        "value": "DO"
+      }
+    ],
+    "country_flags": [
+      "🇩🇴"
+    ],
+    "name": "Instabilité régionale DO",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": ""
+  },
+  {
+    "id": 47,
+    "countries": [
+      {
+        "type": "country",
+        "value": "GD"
+      }
+    ],
+    "country_flags": [
+      "🇬🇩"
+    ],
+    "name": "Instabilité régionale Grenade",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Instabilité politique aux Grenades : crises post-électorales et tensions régionales dans la Caraïbe orientale."
+  },
+  {
+    "id": 48,
+    "countries": [
+      {
+        "type": "country",
+        "value": "GY"
+      }
+    ],
+    "country_flags": [
+      "🇬🇾"
+    ],
+    "name": "Instabilité régionale Guyana",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": ""
+  },
+  {
+    "id": 49,
+    "countries": [
+      {
+        "type": "country",
+        "value": "HN"
+      }
+    ],
+    "country_flags": [
+      "🇭🇳"
+    ],
+    "name": "Instabilité régionale Honduras",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Crisis politique au Honduras : instabilité post-coup d'État, narcotrafic, migration vers les États-Unis."
+  },
+  {
+    "id": 50,
+    "countries": [
+      {
+        "type": "country",
+        "value": "HT"
+      }
+    ],
+    "country_flags": [
+      "🇭🇹"
+    ],
+    "name": "Instabilité régionale Haïti",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Crisis humanitaire en Haïti : gangs armés, effondrement de l'État, intervention internationale."
+  },
+  {
+    "id": 51,
+    "countries": [
+      {
+        "type": "country",
+        "value": "JM"
+      }
+    ],
+    "country_flags": [
+      "🇯🇲"
+    ],
+    "name": "Instabilité régionale Jamaïque",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Violence des gangs en Jamaïque et tensions liées au narcotrafic transnational."
+  },
+  {
+    "id": 52,
+    "countries": [
+      {
+        "type": "country",
+        "value": "KN"
+      }
+    ],
+    "country_flags": [
+      "🇰🇳"
+    ],
+    "name": "Instabilité régionale Saint-Christophe-et-Niévès",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": ""
+  },
+  {
+    "id": 53,
+    "countries": [
+      {
+        "type": "country",
+        "value": "LC"
+      }
+    ],
+    "country_flags": [
+      "🇱🇨"
+    ],
+    "name": "Instabilité régionale Sainte-Lucie",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": ""
+  },
+  {
+    "id": 54,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MX"
+      }
+    ],
+    "country_flags": [
+      "🇲🇽"
+    ],
+    "name": "Instabilité régionale Mexique",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Tensions frontalières et migrations au Mexique : mur américano-mexicain, cartels, pression migratoire."
+  },
+  {
+    "id": 55,
+    "countries": [
+      {
+        "type": "country",
+        "value": "NI"
+      }
+    ],
+    "country_flags": [
+      "🇳🇮"
+    ],
+    "name": "Instabilité régionale Nicaragua",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Crisis politique au Nicaragua : régime autoritaire Ortega, répression, exil massif."
+  },
+  {
+    "id": 56,
+    "countries": [
+      {
+        "type": "country",
+        "value": "PA"
+      }
+    ],
+    "country_flags": [
+      "🇵🇦"
+    ],
+    "name": "Instabilité régionale Panama",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Tensions politiques au Panama liées au canal et à la gestion des migrations."
+  },
+  {
+    "id": 57,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SR"
+      }
+    ],
+    "country_flags": [
+      "🇸🇷"
+    ],
+    "name": "Instabilité régionale Suriname",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Tensions économiques au Suriname liées à la dette nationale et à l'exploitation des ressources."
+  },
+  {
+    "id": 58,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SV"
+      }
+    ],
+    "country_flags": [
+      "🇸🇻"
+    ],
+    "name": "Instabilité régionale Salvador",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Instabilité politique au Salvador : gangs, état d'urgence, concentration du pouvoir."
+  },
+  {
+    "id": 59,
+    "countries": [
+      {
+        "type": "country",
+        "value": "TT"
+      }
+    ],
+    "country_flags": [
+      "🇹🇹"
+    ],
+    "name": "Instabilité régionale Trinité-et-Tobago",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Tensions ethniques et économiques à Trinité-et-Tobago."
+  },
+  {
+    "id": 60,
+    "countries": [
+      {
+        "type": "country",
+        "value": "UY"
+      }
+    ],
+    "country_flags": [
+      "🇺🇾"
+    ],
+    "name": "Instabilité régionale Uruguay",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Tensions économiques en Uruguay liées au Mercosur et aux relations avec l'Argentine."
+  },
+  {
+    "id": 61,
+    "countries": [
+      {
+        "type": "country",
+        "value": "VC"
+      }
+    ],
+    "country_flags": [
+      "🇻🇨"
+    ],
+    "name": "Instabilité régionale Saint-Vincent-et-les-Grenadines",
+    "type": "tension",
+    "intensity": 15,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Instabilité politique à Saint-Vincent-et-les-Grenadines."
+  },
+  {
+    "id": 62,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AF"
+      }
+    ],
+    "country_flags": [
+      "🇦🇫"
+    ],
+    "name": "Instabilité régionale Afghanistan",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Instabilité en Afghanistan sous le régime Taliban. Crise humanitaire, terrorisme, violations des droits humains."
+  },
+  {
+    "id": 63,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AM"
+      }
+    ],
+    "country_flags": [
+      "🇦🇲"
+    ],
+    "name": "Instabilité régionale Arménie",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions régionales en Arménie : conflit du Haut-Karabagh avec l'Azerbaïdjan, soutien russe incertain."
+  },
+  {
+    "id": 64,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AZ"
+      }
+    ],
+    "country_flags": [
+      "🇦🇿"
+    ],
+    "name": "Instabilité régionale Azerbaïdjan",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions entre l'Azerbaïdjan et l'Arménie sur le Haut-Karabagh. Offensive de 2023, déplacement des Arméniens."
+  },
+  {
+    "id": 65,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BD"
+      }
+    ],
+    "country_flags": [
+      "🇧🇩"
+    ],
+    "name": "Instabilité régionale Bangladesh",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Instabilité politique au Bangladesh : mouvements de contestation, tensions avec les Rohingyas."
+  },
+  {
+    "id": 66,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BN"
+      }
+    ],
+    "country_flags": [
+      "🇧🇳"
+    ],
+    "name": "Instabilité régionale Brunéi",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions au Brunéi sur la gouvernance et les droits humains."
+  },
+  {
+    "id": 67,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BT"
+      }
+    ],
+    "country_flags": [
+      "🇧🇹"
+    ],
+    "name": "Instabilité régionale Bhoutan",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions entre le Bhoutan et la Chine sur la frontière himalayenne."
+  },
+  {
+    "id": 68,
+    "countries": [
+      {
+        "type": "country",
+        "value": "GE"
+      }
+    ],
+    "country_flags": [
+      "🇬🇪"
+    ],
+    "name": "Instabilité régionale Géorgie",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions en Géorgie : influence russe, aspirations européennes, polarisation politique."
+  },
+  {
+    "id": 69,
+    "countries": [
+      {
+        "type": "country",
+        "value": "ID"
+      }
+    ],
+    "country_flags": [
+      "🇮🇩"
+    ],
+    "name": "Instabilité régionale Indonésie",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Instabilité politique en Indonésie : tensions séparatistes en Papouasie, catastrophes naturelles."
+  },
+  {
+    "id": 70,
+    "countries": [
+      {
+        "type": "country",
+        "value": "KG"
+      }
+    ],
+    "country_flags": [
+      "🇰🇬"
+    ],
+    "name": "Instabilité régionale Kirghizistan",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions frontalières au Kirghizistan avec le Tadjikistan. Escarmouches récurrentes."
+  },
+  {
+    "id": 71,
+    "countries": [
+      {
+        "type": "country",
+        "value": "KZ"
+      }
+    ],
+    "country_flags": [
+      "🇰🇿"
+    ],
+    "name": "Instabilité régionale Kazakhstan",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions ethniques et autoritarisme au Kazakhstan. Manifestations de janvier 2022."
+  },
+  {
+    "id": 72,
+    "countries": [
+      {
+        "type": "country",
+        "value": "LA"
+      }
+    ],
+    "country_flags": [
+      "🇱🇦"
+    ],
+    "name": "Instabilité régionale Laos",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Insurrection au Laos : tensions internes et influence chinoise croissante."
+  },
+  {
+    "id": 73,
+    "countries": [
+      {
+        "type": "country",
+        "value": "LK"
+      }
+    ],
+    "country_flags": [
+      "🇱🇰"
+    ],
+    "name": "Instabilité régionale Sri Lanka",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Guerre civile au Sri Lanka terminée mais tensions ethniques tamoules persistantes."
+  },
+  {
+    "id": 74,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MM"
+      }
+    ],
+    "country_flags": [
+      "🇲🇲"
+    ],
+    "name": "Instabilité régionale Birmanie",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Guerre civile en Birmanie depuis le coup d'État de 2021. Conflits ethniques multiples."
+  },
+  {
+    "id": 75,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MN"
+      }
+    ],
+    "country_flags": [
+      "🇲🇳"
+    ],
+    "name": "Instabilité régionale Mongolie",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions en Mongolie liées à la dépendance minière et à l'influence sino-russe."
+  },
+  {
+    "id": 76,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MV"
+      }
+    ],
+    "country_flags": [
+      "🇲🇻"
+    ],
+    "name": "Instabilité régionale Maldives",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions politiques aux Maldives entre factions pro-chinoises et pro-indiennes."
+  },
+  {
+    "id": 77,
+    "countries": [
+      {
+        "type": "country",
+        "value": "NP"
+      }
+    ],
+    "country_flags": [
+      "🇳🇵"
+    ],
+    "name": "Instabilité régionale Népal",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions frontalières au Népal avec l'Inde sur la zone de Kalapani."
+  },
+  {
+    "id": 78,
+    "countries": [
+      {
+        "type": "country",
+        "value": "NZ"
+      }
+    ],
+    "country_flags": [
+      "🇳🇿"
+    ],
+    "name": "Instabilité régionale Nouvelle-Zélande",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions avec la Chine sur la Zone d'exclusion aérienne et la souveraineté."
+  },
+  {
+    "id": 79,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SG"
+      }
+    ],
+    "country_flags": [
+      "🇸🇬"
+    ],
+    "name": "Instabilité régionale Singapour",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions économiques à Singapour sur les inégalités et l'immigration."
+  },
+  {
+    "id": 80,
+    "countries": [
+      {
+        "type": "country",
+        "value": "TJ"
+      }
+    ],
+    "country_flags": [
+      "🇹🇯"
+    ],
+    "name": "Instabilité régionale Tadjikistan",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions frontalières au Tadjikistan avec le Kirghizistan."
+  },
+  {
+    "id": 81,
+    "countries": [
+      {
+        "type": "country",
+        "value": "TL"
+      }
+    ],
+    "country_flags": [
+      "🇹🇱"
+    ],
+    "name": "Instabilité régionale Timor oriental",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Instabilité politique au Timor oriental post-indépendance."
+  },
+  {
+    "id": 82,
+    "countries": [
+      {
+        "type": "country",
+        "value": "TM"
+      }
+    ],
+    "country_flags": [
+      "🇹🇲"
+    ],
+    "name": "Instabilité régionale Turkménistan",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Autoritarisme au Turkménistan : isolement international, répression."
+  },
+  {
+    "id": 83,
+    "countries": [
+      {
+        "type": "country",
+        "value": "UZ"
+      }
+    ],
+    "country_flags": [
+      "🇺🇿"
+    ],
+    "name": "Instabilité régionale Ouzbékistan",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Instabilité en Ouzbékistan post-Karimov. Réformes en cours."
+  },
+  {
+    "id": 84,
+    "countries": [
+      {
+        "type": "country",
+        "value": "VN"
+      }
+    ],
+    "country_flags": [
+      "🇻🇳"
+    ],
+    "name": "Instabilité régionale Vietnam",
+    "type": "tension",
+    "intensity": 18,
+    "since": "2023-01-01",
+    "region": "Asie",
+    "description": "Tensions au Vietnam sur la mer de Chine méridionale avec la Chine."
+  },
+  {
+    "id": 85,
+    "countries": [
+      {
+        "type": "country",
+        "value": "FM"
+      }
+    ],
+    "country_flags": [
+      "🇫🇲"
+    ],
+    "name": "Instabilité régionale Micronésie",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Menaces climatiques en Micronésie : montée des eaux, dépendance économique."
+  },
+  {
+    "id": 86,
+    "countries": [
+      {
+        "type": "country",
+        "value": "KI"
+      }
+    ],
+    "country_flags": [
+      "🇰🇮"
+    ],
+    "name": "Instabilité régionale Kiribati",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Menace climatique aux Kiribati : submersion imminente du territoire."
+  },
+  {
+    "id": 87,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MH"
+      }
+    ],
+    "country_flags": [
+      "🇲🇭"
+    ],
+    "name": "Instabilité régionale Îles Marshall",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Tensions avec la Chine sur la souveraineté des îles Marshall."
+  },
+  {
+    "id": 88,
+    "countries": [
+      {
+        "type": "country",
+        "value": "NR"
+      }
+    ],
+    "country_flags": [
+      "🇳🇷"
+    ],
+    "name": "Instabilité régionale Nauru",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Menace climatique à Nauru : exploitation phosphate épuisée, crise économique."
+  },
+  {
+    "id": 89,
+    "countries": [
+      {
+        "type": "country",
+        "value": "NZ"
+      }
+    ],
+    "country_flags": [
+      "🇳🇿"
+    ],
+    "name": "Instabilité régionale Nouvelle-Zélande",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Tensions en Nouvelle-Zélande sur les droits des Maoris et la souveraineté."
+  },
+  {
+    "id": 90,
+    "countries": [
+      {
+        "type": "country",
+        "value": "PW"
+      }
+    ],
+    "country_flags": [
+      "🇵🇼"
+    ],
+    "name": "Instabilité régionale Palaos",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Tensions avec la Chine sur la souveraineté de Palaos."
+  },
+  {
+    "id": 91,
+    "countries": [
+      {
+        "type": "country",
+        "value": "TO"
+      }
+    ],
+    "country_flags": [
+      "🇹🇴"
+    ],
+    "name": "Instabilité régionale Tonga",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Instabilité politique aux Tonga : émeutes de 2021, réformes en cours."
+  },
+  {
+    "id": 92,
+    "countries": [
+      {
+        "type": "country",
+        "value": "TV"
+      }
+    ],
+    "country_flags": [
+      "🇹🇻"
+    ],
+    "name": "Instabilité régionale Tuvalu",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Menace climatique aux Tuvalu : relocalisation planifiée de la population."
+  },
+  {
+    "id": 93,
+    "countries": [
+      {
+        "type": "country",
+        "value": "VU"
+      }
+    ],
+    "country_flags": [
+      "🇻🇺"
+    ],
+    "name": "Instabilité régionale Vanuatu",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Instabilité politique au Vanuatu : gouvernance fragile, catastrophes naturelles."
+  },
+  {
+    "id": 94,
+    "countries": [
+      {
+        "type": "country",
+        "value": "WS"
+      }
+    ],
+    "country_flags": [
+      "🇼🇸"
+    ],
+    "name": "Instabilité régionale Samoa",
+    "type": "tension",
+    "intensity": 10,
+    "since": "2023-01-01",
+    "region": "Océanie",
+    "description": "Instabilité politique aux Samoa : crise constitutionnelle de 2021."
+  },
+  {
+    "id": 95,
+    "countries": [
+      {
+        "type": "country",
+        "value": "JO"
+      }
+    ],
+    "country_flags": [
+      "🇯🇴"
+    ],
+    "name": "Instabilité régionale Jordanie",
+    "type": "tension",
+    "intensity": 40,
+    "since": "2023-01-01",
+    "region": "Moyen-Orient",
+    "description": "Tensions régionales en Jordanie : crise des réfugiés syriens, instabilité frontalière."
+  },
+  {
+    "id": 96,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SY"
+      }
+    ],
+    "country_flags": [
+      "🇸🇾"
+    ],
+    "name": "Instabilité régionale Syrie",
+    "type": "tension",
+    "intensity": 40,
+    "since": "2023-01-01",
+    "region": "Moyen-Orient",
+    "description": "Guerre civile en Syrie depuis 2011. Plus de 500 000 morts. Intervention russe, turque, iranienne."
+  },
+  {
+    "id": 97,
+    "countries": [
+      {
+        "type": "country",
+        "value": "YE"
+      }
+    ],
+    "country_flags": [
+      "🇾🇪"
+    ],
+    "name": "Instabilité régionale Yémen",
+    "type": "tension",
+    "intensity": 40,
+    "since": "2023-01-01",
+    "region": "Moyen-Orient",
+    "description": "Guerre civile au Yémen depuis 2014. intervention saoudienne. Plus de 377 000 morts. Crise humanitaire majeure."
+  },
+  {
+    "id": 98,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CF"
+      }
+    ],
+    "country_flags": [
+      "🇨🇫"
+    ],
+    "name": "Instabilité régionale République centrafricaine",
+    "type": "tension",
+    "intensity": 25,
+    "since": "2023-01-01",
+    "region": "Afrique",
+    "description": "Instabilité chronique en RCA : conflits armés, groupes rebelles, présence russe (Wagner)."
+  },
+  {
+    "id": 99,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SZ"
+      }
+    ],
+    "country_flags": [
+      "🇸🇿"
+    ],
+    "name": "Instabilité régionale Eswatini",
+    "type": "tension",
+    "intensity": 25,
+    "since": "2023-01-01",
+    "region": "Afrique",
+    "description": "Instabilité politique en Eswatini : régime absolutiste, mouvements démocratiques réprimés."
+  },
+  {
+    "id": 100,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AD"
+      }
+    ],
+    "country_flags": [
+      "🇦🇩"
+    ],
+    "name": "Tensions diplomatiques Andorre",
+    "type": "tension",
+    "intensity": 5,
+    "since": "2023-01-01",
+    "region": "Europe",
+    "description": "Tensions diplomatiques mineures en Andorre sur la fiscalité et la gouvernance bancaire."
+  },
+  {
+    "id": 101,
+    "countries": [
+      {
+        "type": "country",
+        "value": "LI"
+      }
+    ],
+    "country_flags": [
+      "🇱🇮"
+    ],
+    "name": "Tensions diplomatiques Liechtenstein",
+    "type": "tension",
+    "intensity": 5,
+    "since": "2023-01-01",
+    "region": "Europe",
+    "description": "Tensions diplomatiques au Liechtenstein sur la transparence fiscale et l'intégration européenne."
+  },
+  {
+    "id": 102,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MC"
+      }
+    ],
+    "country_flags": [
+      "🇲🇨"
+    ],
+    "name": "Tensions diplomatiques Monaco",
+    "type": "tension",
+    "intensity": 5,
+    "since": "2023-01-01",
+    "region": "Europe",
+    "description": "Tensions diplomatiques à Monaco sur la fiscalité et les relations avec la France."
+  },
+  {
+    "id": 103,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SM"
+      }
+    ],
+    "country_flags": [
+      "🇸🇲"
+    ],
+    "name": "Tensions diplomatiques Saint-Marin",
+    "type": "tension",
+    "intensity": 5,
+    "since": "2023-01-01",
+    "region": "Europe",
+    "description": "Tensions diplomatiques à Saint-Marin sur la gouvernance et l'intégration européenne."
+  },
+  {
+    "id": 104,
+    "countries": [
+      {
+        "type": "country",
+        "value": "VA"
+      }
+    ],
+    "country_flags": [
+      "🇻🇦"
+    ],
+    "name": "Tensions diplomatiques Vatican",
+    "type": "tension",
+    "intensity": 5,
+    "since": "2023-01-01",
+    "region": "Europe",
+    "description": "Tensions diplomatiques au Vatican sur les relations diplomatiques internationales et la neutralité."
+  },
+  {
+    "id": 105,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BS"
+      }
+    ],
+    "country_flags": [
+      "🇧🇸"
+    ],
+    "name": "Tensions régionales Bahamas",
+    "type": "tension",
+    "intensity": 12,
+    "since": "2022-01-01",
+    "region": "Amériques",
+    "description": "Tensions régionales aux Bahamas sur la criminalité transnationale et la migration haïtienne."
+  },
+  {
+    "id": 106,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BY"
+      }
+    ],
+    "country_flags": [
+      "🇧🇾"
+    ],
+    "name": "Crise migratoire Biélorussie-UE",
+    "type": "tension",
+    "intensity": 38,
+    "since": "2021-08-01",
+    "region": "Europe",
+    "description": "Crise migratoire provoquée par la Biélorussie en 2021 : instrumentalisation des migrants à la frontière polonaise. Sanctions européennes."
+  },
+  {
+    "id": 107,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SE"
+      }
+    ],
+    "country_flags": [
+      "🇸🇪"
+    ],
+    "name": "Contentieux pêche Suède-UE",
+    "type": "tension",
+    "intensity": 5,
+    "since": "2020-01-01",
+    "region": "Europe",
+    "description": "Tensions sur les quotas de pêche entre la Suède et les partenaires européens."
+  },
+  {
+    "id": 108,
+    "countries": [
+      {
+        "type": "country",
+        "value": "KP"
+      }
+    ],
+    "country_flags": [
+      "🇰🇵"
+    ],
+    "name": "Crise nucléaire Corée du Nord",
+    "type": "tension",
+    "intensity": 85,
+    "since": "2006-10-09",
+    "region": "Asie",
+    "description": "Crise nucléaire nord-coréenne depuis 2006 : essais nucléaires, missiles balistiques, sanctions internationales. Menace pour la sécurité régionale."
+  },
+  {
+    "id": 109,
+    "countries": [
+      {
+        "type": "country",
+        "value": "DK"
+      }
+    ],
+    "country_flags": [
+      "🇩🇰"
+    ],
+    "name": "Tensions commerciales Danemark-UE",
+    "type": "tension",
+    "intensity": 3,
+    "since": "2022-01-01",
+    "region": "Europe",
+    "description": "Tensions commerciales entre le Danemark et l'UE sur les réglementations agricoles et environnementales."
+  }
+]
