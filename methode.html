@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PaxIndex — Méthodologie PaxScore™</title>
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<style>
+  .content { padding-bottom: 90px; }
+
+  .methodo-section {
+    margin: 0 16px 16px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 16px;
+  }
+  .methodo-section-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 15px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.5px;
+    margin-bottom: 12px; color: var(--accent);
+  }
+  .methodo-section p, .methodo-section li {
+    font-size: 13px; line-height: 1.6; color: var(--text);
+  }
+  .methodo-section ul { padding-left: 18px; margin: 8px 0; }
+  .methodo-section li { margin-bottom: 4px; }
+
+  .component-bar {
+    display: flex; align-items: center; gap: 8px; margin-bottom: 8px;
+  }
+  .comp-icon { font-size: 16px; width: 24px; }
+  .comp-name { font-weight: 600; font-size: 13px; width: 100px; }
+  .comp-bar-wrap { flex: 1; height: 12px; border-radius: 6px; background: rgba(255,255,255,.05); overflow: hidden; }
+  .comp-bar { height: 100%; border-radius: 6px; }
+  .comp-weight { font-family: 'Barlow Condensed', sans-serif; font-size: 14px; font-weight: 700; width: 36px; text-align: right; }
+
+  .signal-table { width: 100%; margin-top: 10px; }
+  .signal-table td {
+    padding: 6px 8px; font-size: 12px; border-bottom: 1px solid var(--border);
+  }
+  .signal-table td:first-child { color: var(--muted); }
+  .signal-table td:last-child { text-align: right; font-family: 'Barlow Condensed', sans-serif; font-weight: 700; }
+
+  .signal-positive { color: var(--green); }
+  .signal-negative { color: var(--red); }
+
+  .back-link {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px; color: var(--accent); text-decoration: none;
+    margin: 12px 16px 4px; font-weight: 600;
+  }
+  .back-link:hover { opacity: .8; }
+
+  .note-box {
+    margin: 0 16px 16px;
+    background: rgba(255, 170, 0, 0.06);
+    border: 1px solid rgba(255, 170, 0, 0.2);
+    border-radius: 12px; padding: 14px;
+    font-size: 12px; line-height: 1.6; color: var(--muted);
+  }
+  .note-box strong { color: var(--gold); }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-top">
+    <a class="logo" href="index.html" style="text-decoration:none;cursor:pointer">PAX<span>INDEX</span></a>
+  </div>
+  <div class="tabs">
+    <div class="tab" data-href="index.html">🌍 Global</div>
+    <div class="tab" data-href="conflits.html">⚔️ Conflits</div>
+    <div class="tab" data-href="commerce.html">🤝 Commerce</div>
+    <div class="tab active">📊 Stats</div>
+  </div>
+</div>
+<div class="content">
+<a class="back-link" href="stats.html">← Retour aux statistiques</a>
+
+<div class="methodo-section" style="margin-top:12px">
+  <div class="methodo-section-title">📐 Le PaxScore™ — Comment il est calculé</div>
+  <p>Le <strong>PaxScore™</strong> ne mesure pas le bien-être d'une population. Il compare des pays selon deux axes opposés :</p>
+  <ul>
+    <li><strong>Signaux positifs</strong> → paix, commerce, diplomatie, aide humanitaire</li>
+    <li><strong>Signaux négatifs</strong> → conflits initiés, guerres actives, tensions GDELT</li>
+  </ul>
+  <p>Le score final est calculé dans un intervalle <strong>0–100</strong>. Un score élevé signifie <strong>beaucoup d'accords diplomatiques/commerciaux et peu de conflits</strong>.</p>
+</div>
+
+<div class="note-box">
+  ⚠️ <strong>Avertissement</strong> : ce classement reflète l'<em>activité géopolitique mesurée</em>, pas la qualité de vie, la démocratisme, ou la sécurité intérieure des populations. Un petit pays isolé avec 0 conflits et 2 accords peut se retrouver devant une puissance mondiale active sur tous les fronts.
+</div>
+
+<div class="methodo-section">
+  <div class="methodo-section-title">🧮 Les 5 composantes</div>
+
+  <div class="component-bar">
+    <div class="comp-icon">🕊️</div>
+    <div class="comp-name">Paix</div>
+    <div class="comp-bar-wrap"><div class="comp-bar" style="width:40%;background:var(--green)"></div></div>
+    <div class="comp-weight text-green">40%</div>
+  </div>
+
+  <div class="component-bar">
+    <div class="comp-icon">🤝</div>
+    <div class="comp-name">Commerce</div>
+    <div class="comp-bar-wrap"><div class="comp-bar" style="width:25%;background:var(--blue)"></div></div>
+    <div class="comp-weight text-blue">25%</div>
+  </div>
+
+  <div class="component-bar">
+    <div class="comp-icon">💰</div>
+    <div class="comp-name">Humanitaire</div>
+    <div class="comp-bar-wrap"><div class="comp-bar" style="width:20%;background:var(--accent)"></div></div>
+    <div class="comp-weight text-accent">20%</div>
+  </div>
+
+  <div class="component-bar">
+    <div class="comp-icon">🌍</div>
+    <div class="comp-name">Diplomatie</div>
+    <div class="comp-bar-wrap"><div class="comp-bar" style="width:15%;background:var(--gold)"></div></div>
+    <div class="comp-weight text-gold">15%</div>
+  </div>
+
+  <div class="component-bar">
+    <div class="comp-icon">⚔️</div>
+    <div class="comp-name">Conflit</div>
+    <div class="comp-bar-wrap"><div class="comp-bar" style="width:15%;background:var(--red)"></div></div>
+    <div class="comp-weight text-red">−15%</div>
+  </div>
+</div>
+
+<div class="methodo-section">
+  <div class="methodo-section-title">📊 Signaux pris en compte</div>
+  <p><strong>Positifs (↑ score)</strong></p>
+  <table class="signal-table">
+    <tr><td>Accords commerciaux actifs</td><td class="signal-positive">+1 à +3 pts</td></tr>
+    <tr><td>Membres d'organisations multilatérales</td><td class="signal-positive">+2 à +5 pts</td></tr>
+    <tr><td>Aide humanitaire versée</td><td class="signal-positive">+1 à +4 pts</td></tr>
+    <tr><td>Accueil de réfugiés (par habitant)</td><td class="signal-positive">+1 à +8 pts</td></tr>
+  </table>
+  <p style="margin-top:14px"><strong>Négatifs (↓ score)</strong></p>
+  <table class="signal-table">
+    <tr><td>Guerre déclarée / conflit actif</td><td class="signal-negative">−5 pts chacun</td></tr>
+    <tr><td>Sanctions internationales</td><td class="signal-negative">−3 à −8 pts</td></tr>
+    <tr><td>Pénalité GDELT temps réel</td><td class="signal-negative">−1 à −50 pts</td></tr>
+    <tr><td>Victimes civiles signalées</td><td class="signal-negative">−2 à −10 pts</td></tr>
+  </table>
+</div>
+
+<div class="methodo-section">
+  <div class="methodo-section-title">🔗 Sources de données</div>
+  <p>Les données agrégées proviennent de :</p>
+  <ul>
+    <li><strong>ACLED</strong> — Armed Conflict Location &amp; Data Project (conflits, victimes)</li>
+    <li><strong>WTO RTA</strong> — Regional Trade Agreements database (accords commerciaux)</li>
+    <li><strong>UCDP</strong> — Uppsala Conflict Data Program (intensité des conflits)</li>
+    <li><strong>ReliefWeb</strong> — OCHA (crises humanitaires, aide internationale)</li>
+    <li><strong>World Bank</strong> — indicateurs de développement et commerce</li>
+    <li><strong>GDELT</strong> — Global Database of Events, Language, and Tone (pénalité temps réel)</li>
+    <li><strong>SIPRI</strong> — Stockholm International Peace Research Institute (dépenses militaires)</li>
+  </ul>
+</div>
+
+<div class="methodo-section">
+  <div class="methodo-section-title">🔄 Mise à jour</div>
+  <p>Le PaxScore™ est recalculé<strong> quotidiennement</strong>. Les signaux GDELT sont intégrés en temps réel. Les données de conflits et d'accords commerciaux sont rafraîchies toutes les 24h.</p>
+  <p style="color:var(--muted);margin-top:8px;font-size:11px">Scores arrondis à 1 décimale. Le score ajusté (affiché dans le classement) applique la pénalité de conflits en supplément du calcul pondéré.</p>
+</div>
+
+<div style="height:16px"></div>
+</div>
+<div class="bottom-nav">
+  <div class="nav-item" data-href="index.html"><div class="nav-icon">🏆</div><div class="nav-label">Classement</div></div>
+  <div class="nav-item" data-href="carte.html"><div class="nav-icon">🗺️</div><div class="nav-label">Carte</div></div>
+  <div class="nav-item" data-href="tendances.html"><div class="nav-icon">📈</div><div class="nav-label">Tendances</div></div>
+  <div class="nav-item" data-href="alertes.html"><div class="nav-icon">🔔</div><div class="nav-label">Alertes</div></div>
+  <div class="nav-item" data-href="config.html"><div class="nav-icon">⚙️</div><div class="nav-label">Config</div></div>
+</div>
+<script src="assets/js/data.js"></script>
+<script src="assets/js/nav.js"></script>
+</body>
+</html>

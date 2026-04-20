@@ -70,6 +70,19 @@
   }
   .search-input::placeholder { color: var(--muted); }
   .search-input:focus { border-color: var(--accent); }
+
+  /* DISCLAIMER */
+  .disclaimer-box {
+    margin: 0 16px 14px;
+    background: rgba(255, 170, 0, 0.08);
+    border: 1px solid rgba(255, 170, 0, 0.25);
+    border-radius: 12px;
+    padding: 12px 14px;
+    font-size: 12px;
+    line-height: 1.6;
+    color: var(--muted);
+  }
+  .disclaimer-box strong { color: var(--gold); }
 </style>
 </head>
 <body>
@@ -142,6 +155,11 @@
   <div class="section-header">
     <div class="section-title">🏆 Classement <span>mondial</span></div>
     <div class="see-all" id="sort-toggle" onclick="toggleSort()">Trier ▼</div>
+  </div>
+
+  <!-- DISCLAIMER -->
+  <div class="disclaimer-box">
+    ⚠️ Ce classement ne mesure <strong>pas le bien-être des populations</strong>. Il compare les pays selon deux axes : le nombre de guerres initiées ou actives (pénalité) et la densité d'accords commerciaux signés. Un score élevé = <strong>peu de conflits + beaucoup d'accords</strong>, pas nécessairement une meilleure qualité de vie.
   </div>
 
   <div class="ranking-list" id="ranking-list">
