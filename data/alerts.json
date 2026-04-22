@@ -1,6 +1,6 @@
 [
   {
-    "id": 2004,
+    "id": 5738,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2904,
+    "id": 283,
     "level": "critical",
     "country": "🌍",
     "text": "AI warfare triggers Putin, as Kremlin moves to dismantle the last pieces of Russ",
@@ -18,7 +18,16 @@
     "time": "Sat, 18 Apr 2026"
   },
   {
-    "id": 9502,
+    "id": 1159,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/22/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb?traffic_source=rss",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 4633,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly Israeli settler attack on school kills two in Ramallah",
@@ -27,7 +36,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 8249,
+    "id": 6576,
     "level": "critical",
     "country": "🌍",
     "text": "Iran calls US ship seizure ‘piracy’: Is it?",
@@ -36,16 +45,34 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 8457,
+    "id": 5892,
     "level": "critical",
     "country": "🌍",
-    "text": "Five major issues affecting the FIFA World Cup with 50 days to go",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/4/22/five-major-issues-affecting-the-fifa-world-cup-with-50-days-to-go?traffic_source=rss",
+    "text": "Après l'embuscade de samedi au Liban, un deuxième soldat français de la Finul me",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260422-anicet-girardin-apr%C3%A8s-embuscade-liban-deuxi%C3%A8me-soldat-fran%C3%A7ais-finul-mort-casque-bleu",
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 8823,
+    "id": 539,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pakistan - Afghanistan : le conflit à la frontière détruit l'économie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260422-pakistan-afghanistan-le-conflit-%C3%A0-la-fronti%C3%A8re-d%C3%A9truit-l-%C3%A9conomie",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 5312,
+    "level": "critical",
+    "country": "🌍",
+    "text": "🔴 Emmanuel Macron annonce la mort d'un deuxième soldat français, blessé samedi d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260422-en-direct-cessez-feu-avec-iran-prolonge-sine-die-iran-menace-guerre-moyen-orient-donald-trump-etats-unis-liban-hezbollah-ormuz-detroit-blocus",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 8979,
     "level": "critical",
     "country": "🌍",
     "text": "Le roi de la pop \"béatifié\" sur grand écran",
@@ -54,25 +81,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 2890,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran : ni guerre, ni paix ? Avec P. Azmoudeh, A. Al Hameedawi et G. Rybinski",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260422-iran-ni-guerre-ni-paix-avec-p-azmoudeh-a-al-hameedawi-et-g-rybinski",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 287,
-    "level": "critical",
-    "country": "🌍",
-    "text": "France : nouvelles mesures pour amortir la flambée des prix des carburants",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260422-france-nouvelles-mesures-pour-amortir-la-flamb%C3%A9e-des-prix-des-carburants",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 413,
+    "id": 9827,
     "level": "high",
     "country": "🌍",
     "text": "L'UE donne son feu vert au prêt à l'Ukraine, vote d'un 20e paquet de sanctions c",
@@ -81,7 +90,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 7652,
+    "id": 6357,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2030,
+    "id": 1578,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4549,
+    "id": 1455,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9978,
+    "id": 5066,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2080,
+    "id": 6585,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 2072,
+    "id": 489,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8428,
+    "id": 2922,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +153,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 9002,
+    "id": 4300,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -153,7 +162,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 123,
+    "id": 1673,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -162,21 +171,12 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 3903,
+    "id": 5440,
     "level": "medium",
     "country": "🌍",
     "text": "For AI to work for us, it will have to stop pretending to be us",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/22/for-ai-to-work-for-us-it-will-have-to-stop-pretending-to-be-us/",
     "time": "Tue, 21 Apr 2026"
-  },
-  {
-    "id": 5981,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Novel ‘Le Sang du Pouvoir’ by Hubert Kolani delves into African power",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/22/novel-le-sang-du-pouvoir-by-hubert-kolani-delves-into-african-power/",
-    "time": "Wed, 22 Apr 2026"
   }
 ]
