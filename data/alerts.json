@@ -1,6 +1,6 @@
 [
   {
-    "id": 3319,
+    "id": 6997,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6417,
+    "id": 295,
     "level": "critical",
     "country": "🌍",
     "text": "AI warfare triggers Putin, as Kremlin moves to dismantle the last pieces of Russ",
@@ -18,7 +18,34 @@
     "time": "Sat, 18 Apr 2026"
   },
   {
-    "id": 3694,
+    "id": 8828,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How Israel is destroying Lebanon’s water infrastructure",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/4/22/how-israel-is-destroying-lebanons-water-infrastructure?traffic_source=rss",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 4399,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran’s leaders debate war and peace after Trump ceasefire extension",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension?traffic_source=rss",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 2303,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump calls Iran’s leadership ‘fractured’. Is it, and who’s in charge?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge?traffic_source=rss",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 1129,
     "level": "critical",
     "country": "🌍",
     "text": "The war on Iran: Breaking down the words you’re hearing",
@@ -27,25 +54,16 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 3356,
+    "id": 9994,
     "level": "critical",
     "country": "🌍",
-    "text": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/22/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb?traffic_source=rss",
+    "text": "Sur fond de guerre, les exécutions politiques s'enchaînent en Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260422-guerre-ex%C3%A9cutions-politiques-s-encha%C3%AEnent-iran-peine-de-mort-pendaison-opposants-gardiens-revolution-droits-humains",
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 6236,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Deadly Israeli settler attack on school kills two in Ramallah",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/deadly-israeli-settler-attack-on-school-kills-two-in-ramallah?traffic_source=rss",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 8396,
+    "id": 7282,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : un deuxième militaire français de la Finul est mort des suites de ses bl",
@@ -54,16 +72,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 9938,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient : Trump prolonge le cessez-le-feu avec l'Iran sans dissip",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260422-guerre-au-moyen-orient-trump-prolonge-le-cessez-le-feu-avec-l-iran-sans-dissiper-les-incertitudes",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 4073,
+    "id": 2668,
     "level": "high",
     "country": "🌍",
     "text": "La Havane confirme des échanges diplomatiques récents avec les États-Unis",
@@ -72,7 +81,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 8132,
+    "id": 1975,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -81,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1701,
+    "id": 5474,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -90,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5097,
+    "id": 9839,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -99,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6575,
+    "id": 3072,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -108,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7884,
+    "id": 3683,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -117,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 821,
+    "id": 1008,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -126,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1586,
+    "id": 6149,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -135,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 6544,
+    "id": 2290,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -144,7 +153,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 101,
+    "id": 8034,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -153,7 +162,7 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 7445,
+    "id": 4017,
     "level": "medium",
     "country": "🌍",
     "text": "For AI to work for us, it will have to stop pretending to be us",
@@ -162,21 +171,12 @@
     "time": "Tue, 21 Apr 2026"
   },
   {
-    "id": 7535,
+    "id": 6116,
     "level": "medium",
     "country": "🌍",
     "text": "This Earth Day, meet some of the Caribbean’s national birds",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/22/this-earth-day-meet-some-of-the-caribbeans-national-birds/",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 699,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Novel ‘Le Sang du Pouvoir’ by Hubert Kolani delves into African power",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/22/novel-le-sang-du-pouvoir-by-hubert-kolani-delves-into-african-power/",
     "time": "Wed, 22 Apr 2026"
   }
 ]

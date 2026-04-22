@@ -11,8 +11,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4499410",
-    "name": "Shoah en Ukraine",
+    "id": "Q1136414",
+    "name": "bataille de La Havane",
     "countries": [
       "🏳️"
     ],
@@ -22,8 +22,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q15617805",
-    "name": "Armed clashes in La Modelo prison",
+    "id": "Q648223",
+    "name": "bataille de Cape Kaliakra",
     "countries": [
       "🏳️"
     ],
@@ -33,11 +33,43 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q10288745",
-    "name": "Filipino genocide",
+    "id": "Q992318",
+    "name": "soulèvement de la récolte d’automne",
     "countries": [
-      "🏳️",
-      "🇺🇸"
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q548819",
+    "name": "bataille des îles Komandorski",
+    "countries": [
+      "🇷🇺"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q175767",
+    "name": "Johnson South Reef skirmish",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q389257",
+    "name": "bataille des Arginuses",
+    "countries": [
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -67,54 +99,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q14867680",
-    "name": "genocide of indigenous peoples in Brazil",
-    "countries": [
-      "🇧🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q51844684",
-    "name": "bombardements de Barzé et de Him Shinshar",
-    "countries": [
-      "🇸🇾"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q5613615",
-    "name": "Guanganmen Incident",
-    "countries": [
-      "🏳️",
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q115760493",
-    "name": "Romani Holocaust in Lithuania",
-    "countries": [
-      "🏳️",
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q5639055",
-    "name": "Haifa Street helicopter incident",
+    "id": "Q165425",
+    "name": "bataille de Lépante",
     "countries": [
       "🏳️"
     ],
@@ -124,8 +110,19 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q123984842",
-    "name": "Romani Holocaust in Croatia",
+    "id": "Q641898",
+    "name": "nuit sanglante",
+    "countries": [
+      "🇵🇹"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q494058",
+    "name": "incident de Baengnyeong",
     "countries": [
       "🏳️"
     ],
@@ -135,14 +132,25 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q136301701",
-    "name": "Genocost",
+    "id": "Q1275200",
+    "name": "bataille de l'Öresund",
     "countries": [
-      "🏳️"
+      "🇩🇰"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "1998-08-02",
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q499768",
+    "name": "bataille de l'Helgeå",
+    "countries": [
+      "🇸🇪"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
     "region": "Inconnu"
   },
   {
@@ -158,6 +166,17 @@
     "region": "Inconnu"
   },
   {
+    "id": "Q656061",
+    "name": "combat de los Pozos",
+    "countries": [
+      "🇧🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
     "id": "Q1510144",
     "name": "massacre de Wairau",
     "countries": [
@@ -169,30 +188,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q107639738",
-    "name": "Baghanis Ayrim massacre",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1990-03-24",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q111648183",
-    "name": "Allégations de génocide des Ukrainiens lors de l'invasion russe de l'Ukraine",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "2022-01-01",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1132665",
-    "name": "Ethnic cleansing of Georgians in Abkhazia",
+    "id": "Q1136870",
+    "name": "bataille de Sandwich",
     "countries": [
       "🏳️"
     ],
@@ -202,19 +199,19 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q112800304",
-    "name": "Persecution of Amhara people",
+    "id": "Q581542",
+    "name": "bataille de Ponza",
     "countries": [
-      "🇪🇹"
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "1990-01-01",
+    "since": "inconnue",
     "region": "Inconnu"
   },
   {
-    "id": "Q123527566",
-    "name": "Abu Hussein school airstrike",
+    "id": "Q1132665",
+    "name": "Ethnic cleansing of Georgians in Abkhazia",
     "countries": [
       "🏳️"
     ],
