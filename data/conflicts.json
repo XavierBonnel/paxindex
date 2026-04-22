@@ -1,7 +1,7 @@
 [
   {
-    "id": "Q528018",
-    "name": "bataille de Campêche",
+    "id": "Q85125",
+    "name": "déportation des peuples en URSS",
     "countries": [
       "🏳️"
     ],
@@ -11,8 +11,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q6970299",
-    "name": "Massacre de Sărmașu",
+    "id": "Q648223",
+    "name": "bataille de Cape Kaliakra",
     "countries": [
       "🏳️"
     ],
@@ -22,32 +22,31 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q666778",
-    "name": "insurrection de Prague",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q553184",
-    "name": "conflits entre Gaza et Israël",
+    "id": "Q10288745",
+    "name": "Filipino genocide",
     "countries": [
       "🏳️",
-      "🏳️",
-      "🇮🇱"
+      "🇺🇸"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "1948-05-15",
+    "since": "inconnue",
     "region": "Inconnu"
   },
   {
-    "id": "Q20423990",
-    "name": "1624 Baghdad massacre",
+    "id": "Q548819",
+    "name": "bataille des îles Komandorski",
+    "countries": [
+      "🇷🇺"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q175767",
+    "name": "Johnson South Reef skirmish",
     "countries": [
       "🏳️"
     ],
@@ -57,8 +56,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q263716",
-    "name": "révolte des Huit trigrammes de 1813",
+    "id": "Q389257",
+    "name": "bataille des Arginuses",
     "countries": [
       "🏳️"
     ],
@@ -68,30 +67,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q169072",
-    "name": "conflit armé colombien",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1964-05-27",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q423522",
-    "name": "bataille de Colberger Heide",
-    "countries": [
-      "🇩🇰"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q242099",
-    "name": "incident de Mukden",
+    "id": "Q1297380",
+    "name": "Capitulation de Vlieter",
     "countries": [
       "🏳️"
     ],
@@ -101,20 +78,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q112222097",
-    "name": "transfert illégal d'enfants ukrainiens lors de l'invasion russe de l'Ukraine",
-    "countries": [
-      "🇷🇺",
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "2014-01-01",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q760025",
-    "name": "Rebellion in Klaksvík",
+    "id": "Q878528",
+    "name": "action de Mars",
     "countries": [
       "🏳️"
     ],
@@ -124,33 +89,11 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q181146",
-    "name": "soulèvement du Dos de Mayo",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q3567911",
-    "name": "génocide grec pontique",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q21190910",
-    "name": "génocide des Yézidis",
+    "id": "Q5613615",
+    "name": "Guanganmen Incident",
     "countries": [
       "🏳️",
-      "🇸🇾"
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -158,8 +101,19 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q464226",
-    "name": "bataille de Lagos",
+    "id": "Q165425",
+    "name": "bataille de Lépante",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q641898",
+    "name": "nuit sanglante",
     "countries": [
       "🇵🇹"
     ],
@@ -169,8 +123,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q178912",
-    "name": "première bataille du cap Saint-Vincent",
+    "id": "Q494058",
+    "name": "incident de Baengnyeong",
     "countries": [
       "🏳️"
     ],
@@ -180,8 +134,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q162665",
-    "name": "sédition Nika",
+    "id": "Q5639055",
+    "name": "Haifa Street helicopter incident",
     "countries": [
       "🏳️"
     ],
@@ -191,8 +145,53 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q482970",
-    "name": "bataille de Sacheon",
+    "id": "Q499768",
+    "name": "bataille de l'Helgeå",
+    "countries": [
+      "🇸🇪"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q3241199",
+    "name": "conflit israélo-libanais",
+    "countries": [
+      "🇮🇱",
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "2000-01-01",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q656061",
+    "name": "combat de los Pozos",
+    "countries": [
+      "🇧🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1510144",
+    "name": "massacre de Wairau",
+    "countries": [
+      "🇳🇿"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q667179",
+    "name": "bataille de Gibraltar",
     "countries": [
       "🏳️"
     ],
@@ -202,10 +201,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q483088",
-    "name": "bataille de Chilchonryang",
+    "id": "Q7241545",
+    "name": "Presidio mutiny",
     "countries": [
-      "🏳️"
+      "🇺🇸"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -213,8 +212,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q101109468",
-    "name": "Matsés massacre",
+    "id": "Q581542",
+    "name": "bataille de Ponza",
     "countries": [
       "🏳️"
     ],
