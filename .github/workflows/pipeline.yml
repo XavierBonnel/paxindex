@@ -45,9 +45,10 @@ jobs:
 
       - name: Commit data JSON
         run: |
-          git config user.name  "paxindex-bot"
-          git config user.email "bot@paxindex.app"
-          git add data/*.json
+          git config user.name  "XavierBonnel"
+          git config user.email "xavierbonnel@pm.me"
+          git add data/countries.json data/conflicts.json data/trade.json data/alerts.json data/stats.json
+
           # Ne commit que si des fichiers ont changé
           git diff --staged --quiet || git commit -m "data: mise à jour pipeline $(date -u '+%Y-%m-%d %H:%M UTC')"
 
