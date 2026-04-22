@@ -1,9 +1,10 @@
 [
   {
-    "id": "Q85125",
-    "name": "déportation des peuples en URSS",
+    "id": "Q21190910",
+    "name": "génocide des Yézidis",
     "countries": [
-      "🏳️"
+      "🏳️",
+      "🇸🇾"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -11,107 +12,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1136414",
-    "name": "bataille de La Havane",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q648223",
-    "name": "bataille de Cape Kaliakra",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q992318",
-    "name": "soulèvement de la récolte d’automne",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q548819",
-    "name": "bataille des îles Komandorski",
-    "countries": [
-      "🇷🇺"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q175767",
-    "name": "Johnson South Reef skirmish",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q389257",
-    "name": "bataille des Arginuses",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1297380",
-    "name": "Capitulation de Vlieter",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q878528",
-    "name": "action de Mars",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q165425",
-    "name": "bataille de Lépante",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q641898",
-    "name": "nuit sanglante",
+    "id": "Q464226",
+    "name": "bataille de Lagos",
     "countries": [
       "🇵🇹"
     ],
@@ -121,8 +23,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q494058",
-    "name": "incident de Baengnyeong",
+    "id": "Q178912",
+    "name": "première bataille du cap Saint-Vincent",
     "countries": [
       "🏳️"
     ],
@@ -132,8 +34,107 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1275200",
-    "name": "bataille de l'Öresund",
+    "id": "Q162665",
+    "name": "sédition Nika",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q695673",
+    "name": "bataille du cap Finisterre",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q482970",
+    "name": "bataille de Sacheon",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q483088",
+    "name": "bataille de Chilchonryang",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q101109468",
+    "name": "Matsés massacre",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q432515",
+    "name": "bataille d'Algésiras",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q123998092",
+    "name": "Massacre of Arabs during the Zanzibar Revolution",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q160011",
+    "name": "bataille des Falklands",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q624181",
+    "name": "première rébellion princière",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q551218",
+    "name": "Action of 16 May 1644",
     "countries": [
       "🇩🇰"
     ],
@@ -143,53 +144,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q499768",
-    "name": "bataille de l'Helgeå",
-    "countries": [
-      "🇸🇪"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q3241199",
-    "name": "conflit israélo-libanais",
-    "countries": [
-      "🇮🇱",
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "2000-01-01",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q656061",
-    "name": "combat de los Pozos",
-    "countries": [
-      "🇧🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1510144",
-    "name": "massacre de Wairau",
-    "countries": [
-      "🇳🇿"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1136870",
-    "name": "bataille de Sandwich",
+    "id": "Q519690",
+    "name": "Frankfurter Wachensturm",
     "countries": [
       "🏳️"
     ],
@@ -199,8 +155,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q581542",
-    "name": "bataille de Ponza",
+    "id": "Q608021",
+    "name": "bataille de Naupacte",
     "countries": [
       "🏳️"
     ],
@@ -210,8 +166,52 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1132665",
-    "name": "Ethnic cleansing of Georgians in Abkhazia",
+    "id": "Q108733451",
+    "name": "Native American genocide in the United States",
+    "countries": [
+      "🇺🇸"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "1610-01-01",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q524871",
+    "name": "bataille de Cyzique",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q484256",
+    "name": "bataille d'Okpo",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q484271",
+    "name": "bataille de No Ryang",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q496032",
+    "name": "infiltration de Gangneung",
     "countries": [
       "🏳️"
     ],
