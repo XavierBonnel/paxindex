@@ -1,7 +1,7 @@
 [
   {
-    "id": "Q16541034",
-    "name": "Combat de Tezerzaït",
+    "id": "Q648223",
+    "name": "bataille de Cape Kaliakra",
     "countries": [
       "🏳️"
     ],
@@ -11,8 +11,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q242099",
-    "name": "incident de Mukden",
+    "id": "Q728355",
+    "name": "bataille de Tamsui",
     "countries": [
       "🏳️"
     ],
@@ -22,32 +22,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4177871",
-    "name": "Silda camp attack",
-    "countries": [
-      "🇮🇳"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q553184",
-    "name": "conflits entre Gaza et Israël",
-    "countries": [
-      "🏳️",
-      "🇮🇱",
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1948-05-15",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q181146",
-    "name": "soulèvement du Dos de Mayo",
+    "id": "Q747679",
+    "name": "bataille de l'Artémision",
     "countries": [
       "🏳️"
     ],
@@ -57,8 +33,19 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q2555496",
-    "name": "Skirmish of the Berlin Schloss",
+    "id": "Q548819",
+    "name": "bataille des îles Komandorski",
+    "countries": [
+      "🇷🇺"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q389257",
+    "name": "bataille des Arginuses",
     "countries": [
       "🏳️"
     ],
@@ -68,19 +55,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q464226",
-    "name": "bataille de Lagos",
-    "countries": [
-      "🇵🇹"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q178912",
-    "name": "première bataille du cap Saint-Vincent",
+    "id": "Q494058",
+    "name": "incident de Baengnyeong",
     "countries": [
       "🏳️"
     ],
@@ -90,8 +66,30 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q162665",
-    "name": "sédition Nika",
+    "id": "Q499768",
+    "name": "bataille de l'Helgeå",
+    "countries": [
+      "🇸🇪"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q656061",
+    "name": "combat de los Pozos",
+    "countries": [
+      "🇧🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q667179",
+    "name": "bataille de Gibraltar",
     "countries": [
       "🏳️"
     ],
@@ -101,8 +99,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q695673",
-    "name": "bataille du cap Finisterre",
+    "id": "Q581542",
+    "name": "bataille de Ponza",
     "countries": [
       "🏳️"
     ],
@@ -112,8 +110,19 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q482970",
-    "name": "bataille de Sacheon",
+    "id": "Q653707",
+    "name": "bataille de Fimreite",
+    "countries": [
+      "🇳🇴"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q699527",
+    "name": "sabordage de la flotte allemande à Scapa Flow",
     "countries": [
       "🏳️"
     ],
@@ -123,8 +132,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q483088",
-    "name": "bataille de Chilchonryang",
+    "id": "Q624525",
+    "name": "bataille de Busan",
     "countries": [
       "🏳️"
     ],
@@ -134,87 +143,76 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4376474",
-    "name": "Waal Crossing",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q432515",
-    "name": "bataille d'Algésiras",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q160011",
-    "name": "bataille des Falklands",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q2639189",
-    "name": "Bain de sang de Zutphen",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q624181",
-    "name": "première rébellion princière",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q16335075",
-    "name": "guerre du Donbass",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "2014-04-06",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q4262005",
-    "name": "Bukit Kepong Incident",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q551218",
-    "name": "Action of 16 May 1644",
+    "id": "Q742137",
+    "name": "Battle of Bornholm",
     "countries": [
       "🇩🇰"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q373401",
+    "name": "bataille du cap Saint-Vincent",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q755955",
+    "name": "bataille de Copenhague",
+    "countries": [
+      "🇩🇰"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q472672",
+    "name": "bataille navale d'Iquique",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q421399",
+    "name": "Battle of Delaware Bay",
+    "countries": [
+      "🇺🇸"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q487565",
+    "name": "Seconde bataille de Yeonpyeong",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q717322",
+    "name": "bataille de Palerme",
+    "countries": [
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
