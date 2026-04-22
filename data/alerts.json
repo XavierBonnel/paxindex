@@ -1,6 +1,6 @@
 [
   {
-    "id": 924,
+    "id": 3507,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7126,
+    "id": 7975,
     "level": "critical",
     "country": "🌍",
     "text": "AI warfare triggers Putin, as Kremlin moves to dismantle the last pieces of Russ",
@@ -18,7 +18,25 @@
     "time": "Sat, 18 Apr 2026"
   },
   {
-    "id": 5403,
+    "id": 5529,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bad optics? Israel jails soldiers who smashed Jesus statue in Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/4/22/bad-optics-israel-jails-soldiers-who-smashed-jesus-statue-in-lebanon?traffic_source=rss",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 8133,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least four killed in Israeli strikes on Lebanon, journalists wounded",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 1704,
     "level": "critical",
     "country": "🌍",
     "text": "A 42bn-euro dilemma: What is stopping EU from holding Israel to account?",
@@ -27,7 +45,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 4754,
+    "id": 550,
     "level": "critical",
     "country": "🌍",
     "text": "How Israel is destroying Lebanon’s water infrastructure",
@@ -36,25 +54,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 2520,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran’s leaders debate war and peace after Trump ceasefire extension",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension?traffic_source=rss",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 8508,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump calls Iran’s leadership ‘fractured’. Is it, and who’s in charge?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge?traffic_source=rss",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 1626,
+    "id": 7269,
     "level": "critical",
     "country": "🌍",
     "text": "Sur fond de guerre, les exécutions politiques s'enchaînent en Iran",
@@ -63,16 +63,16 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 8741,
-    "level": "critical",
+    "id": 3685,
+    "level": "high",
     "country": "🌍",
-    "text": "Liban : un deuxième militaire français de la Finul est mort des suites de ses bl",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260422-liban-un-deuxi%C3%A8me-militaire-fran%C3%A7ais-de-la-finul-est-mort-des-suites-de-ses-blessures",
+    "text": "Did UK universities pay to ‘spy’ on pro‑Palestine students?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/22/aje-onl-tt_gbr_unispying_av_v2-220426?traffic_source=rss",
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 8669,
+    "id": 5593,
     "level": "high",
     "country": "🌍",
     "text": "La Havane confirme des échanges diplomatiques récents avec les États-Unis",
@@ -81,7 +81,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 8101,
+    "id": 5451,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5755,
+    "id": 5035,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 175,
+    "id": 80,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9751,
+    "id": 6252,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1021,
+    "id": 6808,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3294,
+    "id": 1406,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 9185,
+    "id": 8986,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 3594,
+    "id": 7117,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -153,7 +153,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 8105,
+    "id": 8549,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -162,7 +162,7 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 2002,
+    "id": 7396,
     "level": "medium",
     "country": "🌍",
     "text": "For AI to work for us, it will have to stop pretending to be us",
@@ -171,7 +171,7 @@
     "time": "Tue, 21 Apr 2026"
   },
   {
-    "id": 8381,
+    "id": 1776,
     "level": "medium",
     "country": "🌍",
     "text": "This Earth Day, meet some of the Caribbean’s national birds",
