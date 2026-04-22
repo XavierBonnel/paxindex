@@ -1,21 +1,10 @@
 [
   {
-    "id": "Q3567911",
-    "name": "génocide grec pontique",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q21190910",
     "name": "génocide des Yézidis",
     "countries": [
-      "🏳️",
-      "🇸🇾"
+      "🇸🇾",
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -36,28 +25,6 @@
   {
     "id": "Q178912",
     "name": "première bataille du cap Saint-Vincent",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q162665",
-    "name": "sédition Nika",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q695673",
-    "name": "bataille du cap Finisterre",
     "countries": [
       "🏳️"
     ],
@@ -133,14 +100,14 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q624181",
-    "name": "première rébellion princière",
+    "id": "Q16335075",
+    "name": "guerre du Donbass",
     "countries": [
       "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "inconnue",
+    "since": "2014-04-06",
     "region": "Inconnu"
   },
   {
@@ -155,9 +122,21 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q519690",
-    "name": "Frankfurter Wachensturm",
+    "id": "Q28406875",
+    "name": "Naxalbari uprising",
     "countries": [
+      "🇮🇳"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q11457475",
+    "name": "Kanjoko Incident",
+    "countries": [
+      "🏳️",
       "🏳️"
     ],
     "type": "guerre",
@@ -212,6 +191,28 @@
   {
     "id": "Q484271",
     "name": "bataille de No Ryang",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q496032",
+    "name": "infiltration de Gangneung",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q243979",
+    "name": "bataille d'Aboukir",
     "countries": [
       "🏳️"
     ],
