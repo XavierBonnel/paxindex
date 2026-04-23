@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "id": "Q385677",
+    "name": "bataille de Myong-Yang",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q315310",
+    "name": "bataille de la Ristigouche",
+    "countries": [
+      "🇨🇦",
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1164835",
+    "name": "bataille de Lagos",
+    "countries": [
+      "🇵🇹"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q670128",
+    "name": "bataille de Pylos",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q700864",
+    "name": "raid sur Zeebruges",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q392121",
+    "name": "bataille de Fehmarn",
+    "countries": [
+      "🇩🇰"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q3297456",
+    "name": "massacre de Safsaf",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q528018",
+    "name": "bataille de Campêche",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q6970299",
+    "name": "Massacre de Sărmașu",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q939845",
+    "name": "bataille d'Agosta",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q553184",
+    "name": "conflits entre Gaza et Israël",
+    "countries": [
+      "🏳️",
+      "🏳️",
+      "🇮🇱"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "1948-05-15",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q20423990",
+    "name": "1624 Baghdad massacre",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1028247",
+    "name": "bataille de Groix",
+    "countries": [
+      "🇫🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q423522",
+    "name": "bataille de Colberger Heide",
+    "countries": [
+      "🇩🇰"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q242099",
+    "name": "incident de Mukden",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q112222097",
+    "name": "transfert illégal d'enfants ukrainiens lors de l'invasion russe de l'Ukraine",
+    "countries": [
+      "🇷🇺",
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "2014-01-01",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1134649",
+    "name": "bataille des îles Égates",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q3567911",
+    "name": "génocide grec pontique",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q2555496",
+    "name": "Skirmish of the Berlin Schloss",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q21190910",
+    "name": "génocide des Yézidis",
+    "countries": [
+      "🏳️",
+      "🇸🇾"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  }
+]
