@@ -1,1 +1,1467 @@
-[]
+[
+  {
+    "id": 1,
+    "countries": [
+      {
+        "type": "group",
+        "value": "EU"
+      },
+      {
+        "type": "country",
+        "value": "CA"
+      }
+    ],
+    "country_flags": [
+      "🇪🇺",
+      "🇨🇦"
+    ],
+    "name": "CETA",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2016-10-30",
+    "description": "Accord économique et commercial global entre le Canada et l'Union européenne. Élimination de 98% des droits de douane."
+  },
+  {
+    "id": 2,
+    "countries": [
+      {
+        "type": "country",
+        "value": "US"
+      },
+      {
+        "type": "country",
+        "value": "MX"
+      },
+      {
+        "type": "country",
+        "value": "CA"
+      }
+    ],
+    "country_flags": [
+      "🇺🇸",
+      "🇲🇽",
+      "🇨🇦"
+    ],
+    "name": "USMCA",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2020-07-01",
+    "description": "Accord États-Unis-Mexique-Canada remplaçant l'ALENA. Modernisation des règles commerciales nord-américaines."
+  },
+  {
+    "id": 3,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CN"
+      },
+      {
+        "type": "group",
+        "value": "APAC"
+      }
+    ],
+    "country_flags": [
+      "🇨🇳",
+      "🌏"
+    ],
+    "name": "RCEP",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2022-01-01",
+    "description": "Partenariat économique régional global en Asie-Pacifique. Plus grand accord de libre-échange au monde (15 pays, 30% du PIB mondial)."
+  },
+  {
+    "id": 4,
+    "countries": [
+      {
+        "type": "country",
+        "value": "GB"
+      },
+      {
+        "type": "country",
+        "value": "JP"
+      }
+    ],
+    "country_flags": [
+      "🇬🇧",
+      "🇯🇵"
+    ],
+    "name": "UK-Japon FTA",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2021-01-01",
+    "description": "Accord de libre-échange bilatéral entre le Royaume-Uni et le Japon post-Brexit."
+  },
+  {
+    "id": 5,
+    "countries": [
+      {
+        "type": "group",
+        "value": "EU"
+      },
+      {
+        "type": "country",
+        "value": "JP"
+      }
+    ],
+    "country_flags": [
+      "🇪🇺",
+      "🇯🇵"
+    ],
+    "name": "EPA UE-Japon",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2019-02-01",
+    "description": "Accord de partenariat économique entre l'UE et le Japon. Suppression progressive des droits de douane."
+  },
+  {
+    "id": 6,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AU"
+      },
+      {
+        "type": "country",
+        "value": "SG"
+      }
+    ],
+    "country_flags": [
+      "🇦🇺",
+      "🇸🇬"
+    ],
+    "name": "SAFTA",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2003-07-17",
+    "description": "Accord de libre-échange entre l'Australie et Singapour."
+  },
+  {
+    "id": 7,
+    "countries": [
+      {
+        "type": "group",
+        "value": "EU"
+      },
+      {
+        "type": "country",
+        "value": "CH"
+      }
+    ],
+    "country_flags": [
+      "🇪🇺",
+      "🇨🇭"
+    ],
+    "name": "Bilatérales EU-CH",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "1999-06-21",
+    "description": "Accords bilatéraux entre l'UE et la Suisse sur la libre circulation et les marchés."
+  },
+  {
+    "id": 8,
+    "countries": [
+      {
+        "type": "country",
+        "value": "NZ"
+      },
+      {
+        "type": "country",
+        "value": "SG"
+      }
+    ],
+    "country_flags": [
+      "🇳🇿",
+      "🇸🇬"
+    ],
+    "name": "NZSFTA",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2001-01-01",
+    "description": "Accord de libre-échange entre la Nouvelle-Zélande et Singapour."
+  },
+  {
+    "id": 9,
+    "countries": [
+      {
+        "type": "group",
+        "value": "EU"
+      },
+      {
+        "type": "country",
+        "value": "BR"
+      },
+      {
+        "type": "group",
+        "value": "AMERICAS"
+      }
+    ],
+    "country_flags": [
+      "🇪🇺",
+      "🇧🇷",
+      "🌎"
+    ],
+    "name": "UE-Mercosur",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2024-12-06",
+    "description": "Accord de libre-échange entre l'UE et le Mercosur. Marché de 780 millions de consommateurs."
+  },
+  {
+    "id": 10,
+    "countries": [
+      {
+        "type": "country",
+        "value": "US"
+      },
+      {
+        "type": "country",
+        "value": "IR"
+      }
+    ],
+    "country_flags": [
+      "🇺🇸",
+      "🇮🇷"
+    ],
+    "name": "Sanctions USA→Iran",
+    "type": "sanction",
+    "status": "actif",
+    "signed": "2018-05-08",
+    "description": "Sanctions économiques américaines contre l'Iran : embargo pétrolier, gel des avoirs, restrictions financières."
+  },
+  {
+    "id": 11,
+    "countries": [
+      {
+        "type": "group",
+        "value": "EU"
+      },
+      {
+        "type": "country",
+        "value": "RU"
+      }
+    ],
+    "country_flags": [
+      "🇪🇺",
+      "🇷🇺"
+    ],
+    "name": "Sanctions EU→Russie",
+    "type": "sanction",
+    "status": "actif",
+    "signed": "2022-03-01",
+    "description": "Sanctions économiques de l'UE contre la Russie : embargo énergétique, restrictions bancaires, gel des avoirs."
+  },
+  {
+    "id": 12,
+    "countries": [
+      {
+        "type": "country",
+        "value": "US"
+      },
+      {
+        "type": "country",
+        "value": "RU"
+      }
+    ],
+    "country_flags": [
+      "🇺🇸",
+      "🇷🇺"
+    ],
+    "name": "Sanctions US→Russie",
+    "type": "sanction",
+    "status": "actif",
+    "signed": "2022-02-24",
+    "description": "Sanctions américaines contre la Russie post-invasion de l'Ukraine : embargo SWIFT, exportations technologiques."
+  },
+  {
+    "id": 13,
+    "countries": [
+      {
+        "type": "group",
+        "value": "AFRICA"
+      }
+    ],
+    "country_flags": [
+      "🌍"
+    ],
+    "name": "ZLECAf (Zone libre-échange continentale)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2021-01-01",
+    "description": "Zone de libre-échange continentale africaine : plus grand marché unique au monde (54 pays, 1,3 milliard de personnes)."
+  },
+  {
+    "id": 14,
+    "countries": [
+      {
+        "type": "country",
+        "value": "UG"
+      },
+      {
+        "type": "country",
+        "value": "KE"
+      },
+      {
+        "type": "country",
+        "value": "RW"
+      },
+      {
+        "type": "country",
+        "value": "TZ"
+      },
+      {
+        "type": "country",
+        "value": "ZM"
+      },
+      {
+        "type": "country",
+        "value": "ZW"
+      },
+      {
+        "type": "country",
+        "value": "MW"
+      },
+      {
+        "type": "country",
+        "value": "MG"
+      }
+    ],
+    "country_flags": [
+      "🇺🇬",
+      "🇰🇪",
+      "🇷🇼",
+      "🇹🇿",
+      "🇿🇲",
+      "🇿🇼",
+      "🇲🇼",
+      "🇲🇬"
+    ],
+    "name": "COMESA (Marché commun Afrique orientale/australe)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2000-12-08",
+    "description": "Marché commun d'Afrique orientale et australe : 21 pays membres, intégration économique régionale."
+  },
+  {
+    "id": 15,
+    "countries": [
+      {
+        "type": "country",
+        "value": "UG"
+      },
+      {
+        "type": "country",
+        "value": "KE"
+      },
+      {
+        "type": "country",
+        "value": "RW"
+      },
+      {
+        "type": "country",
+        "value": "TZ"
+      },
+      {
+        "type": "country",
+        "value": "SS"
+      },
+      {
+        "type": "country",
+        "value": "CD"
+      },
+      {
+        "type": "country",
+        "value": "SO"
+      },
+      {
+        "type": "country",
+        "value": "BI"
+      }
+    ],
+    "country_flags": [
+      "🇺🇬",
+      "🇰🇪",
+      "🇷🇼",
+      "🇹🇿",
+      "🇸🇸",
+      "🇨🇩",
+      "🇸🇴",
+      "🇧🇮"
+    ],
+    "name": "EAC (Communauté d'Afrique de l'Est)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2000-07-07",
+    "description": "Communauté d'Afrique de l'Est : union douanière et marché commun. 8 pays membres, libre circulation des biens et personnes."
+  },
+  {
+    "id": 16,
+    "countries": [
+      {
+        "type": "group",
+        "value": "EU"
+      },
+      {
+        "type": "country",
+        "value": "UG"
+      },
+      {
+        "type": "country",
+        "value": "KE"
+      },
+      {
+        "type": "country",
+        "value": "RW"
+      },
+      {
+        "type": "country",
+        "value": "TZ"
+      },
+      {
+        "type": "country",
+        "value": "BI"
+      }
+    ],
+    "country_flags": [
+      "🇪🇺",
+      "🇺🇬",
+      "🇰🇪",
+      "🇷🇼",
+      "🇹🇿",
+      "🇧🇮"
+    ],
+    "name": "APE UE-Afrique de l'Est",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2016-11-01",
+    "description": "Accord de partenariat économique entre l'UE et les pays d'Afrique de l'Est. Accès préférentiel au marché européen."
+  },
+  {
+    "id": 17,
+    "countries": [
+      {
+        "type": "country",
+        "value": "US"
+      },
+      {
+        "type": "group",
+        "value": "AFRICA"
+      }
+    ],
+    "country_flags": [
+      "🇺🇸",
+      "🌍"
+    ],
+    "name": "AGOA (Loi croissance Afrique)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2000-10-01",
+    "description": "Loi américaine sur la croissance et les opportunités en Afrique. Accès préférentiel au marché US pour 38 pays africains."
+  },
+  {
+    "id": 18,
+    "countries": [
+      {
+        "type": "group",
+        "value": "EU"
+      },
+      {
+        "type": "group",
+        "value": "AFRICA"
+      }
+    ],
+    "country_flags": [
+      "🇪🇺",
+      "🌍"
+    ],
+    "name": "Partenariat UE-Afrique",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2007-12-01",
+    "description": "Partenariat stratégique entre l'Union européenne et l'Union africaine. Coopération économique, migratoire et de développement."
+  },
+  {
+    "id": 19,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BH"
+      },
+      {
+        "type": "country",
+        "value": "KW"
+      },
+      {
+        "type": "country",
+        "value": "QA"
+      },
+      {
+        "type": "country",
+        "value": "SA"
+      },
+      {
+        "type": "country",
+        "value": "AE"
+      },
+      {
+        "type": "country",
+        "value": "OM"
+      }
+    ],
+    "country_flags": [
+      "🇧🇭",
+      "🇰🇼",
+      "🇶🇦",
+      "🇸🇦",
+      "🇦🇪",
+      "🇴🇲"
+    ],
+    "name": "GCC (Conseil de coopération du Golfe)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "1981-05-25",
+    "description": "Conseil de coopération du Golfe : union économique de 6 monarchies arabes. Marché commun, monnaie commune en projet."
+  },
+  {
+    "id": 20,
+    "countries": [
+      {
+        "type": "group",
+        "value": "AFRICA"
+      },
+      {
+        "type": "country",
+        "value": "BH"
+      },
+      {
+        "type": "country",
+        "value": "AE"
+      },
+      {
+        "type": "country",
+        "value": "IQ"
+      },
+      {
+        "type": "country",
+        "value": "JO"
+      },
+      {
+        "type": "country",
+        "value": "KW"
+      },
+      {
+        "type": "country",
+        "value": "LB"
+      },
+      {
+        "type": "country",
+        "value": "OM"
+      },
+      {
+        "type": "country",
+        "value": "QA"
+      },
+      {
+        "type": "country",
+        "value": "SY"
+      },
+      {
+        "type": "country",
+        "value": "YE"
+      },
+      {
+        "type": "country",
+        "value": "SA"
+      }
+    ],
+    "country_flags": [
+      "🌍",
+      "🇧🇭",
+      "🇦🇪",
+      "🇮🇶",
+      "🇯🇴",
+      "🇰🇼",
+      "🇱🇧",
+      "🇴🇲",
+      "🇶🇦",
+      "🇸🇾",
+      "🇾🇪",
+      "🇸🇦"
+    ],
+    "name": "GAFTA (Zone de libre-échange arabe)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "1997-01-01",
+    "description": "Zone de libre-échange arabe : accord commercial entre 18 pays de la Ligue arabe."
+  },
+  {
+    "id": 21,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BN"
+      },
+      {
+        "type": "country",
+        "value": "KH"
+      },
+      {
+        "type": "country",
+        "value": "ID"
+      },
+      {
+        "type": "country",
+        "value": "LA"
+      },
+      {
+        "type": "country",
+        "value": "MM"
+      },
+      {
+        "type": "country",
+        "value": "MY"
+      },
+      {
+        "type": "country",
+        "value": "PH"
+      },
+      {
+        "type": "country",
+        "value": "SG"
+      },
+      {
+        "type": "country",
+        "value": "TH"
+      },
+      {
+        "type": "country",
+        "value": "VN"
+      }
+    ],
+    "country_flags": [
+      "🇧🇳",
+      "🇰🇭",
+      "🇮🇩",
+      "🇱🇦",
+      "🇲🇲",
+      "🇲🇾",
+      "🇵🇭",
+      "🇸🇬",
+      "🇹🇭",
+      "🇻🇳"
+    ],
+    "name": "ASEAN (Association des nations d'Asie du Sud-Est)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "1976-02-24",
+    "description": "Association des nations d'Asie du Sud-Est : intégration économique de 10 pays ASEAN."
+  },
+  {
+    "id": 22,
+    "countries": [
+      {
+        "type": "country",
+        "value": "FJ"
+      },
+      {
+        "type": "country",
+        "value": "KI"
+      },
+      {
+        "type": "country",
+        "value": "NR"
+      },
+      {
+        "type": "country",
+        "value": "PG"
+      },
+      {
+        "type": "country",
+        "value": "TO"
+      },
+      {
+        "type": "country",
+        "value": "TV"
+      },
+      {
+        "type": "country",
+        "value": "VU"
+      },
+      {
+        "type": "country",
+        "value": "WS"
+      },
+      {
+        "type": "country",
+        "value": "SB"
+      },
+      {
+        "type": "country",
+        "value": "MH"
+      },
+      {
+        "type": "country",
+        "value": "FM"
+      },
+      {
+        "type": "country",
+        "value": "PW"
+      }
+    ],
+    "country_flags": [
+      "🇫🇯",
+      "🇰🇮",
+      "🇳🇷",
+      "🇵🇬",
+      "🇹🇴",
+      "🇹🇻",
+      "🇻🇺",
+      "🇼🇸",
+      "🇸🇧",
+      "🇲🇭",
+      "🇫🇲",
+      "🇵🇼"
+    ],
+    "name": "PICTA (Accord commercial Pacifique)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2002-08-14",
+    "description": "Accord commercial entre les îles du Pacifique. ZLECA pour les petits États insulaires."
+  },
+  {
+    "id": 23,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AG"
+      },
+      {
+        "type": "country",
+        "value": "BS"
+      },
+      {
+        "type": "country",
+        "value": "BB"
+      },
+      {
+        "type": "country",
+        "value": "DM"
+      },
+      {
+        "type": "country",
+        "value": "GD"
+      },
+      {
+        "type": "country",
+        "value": "GY"
+      },
+      {
+        "type": "country",
+        "value": "JM"
+      },
+      {
+        "type": "country",
+        "value": "KN"
+      },
+      {
+        "type": "country",
+        "value": "LC"
+      },
+      {
+        "type": "country",
+        "value": "VC"
+      },
+      {
+        "type": "country",
+        "value": "SR"
+      },
+      {
+        "type": "country",
+        "value": "TT"
+      }
+    ],
+    "country_flags": [
+      "🇦🇬",
+      "🇧🇸",
+      "🇧🇧",
+      "🇩🇲",
+      "🇬🇩",
+      "🇬🇾",
+      "🇯🇲",
+      "🇰🇳",
+      "🇱🇨",
+      "🇻🇨",
+      "🇸🇷",
+      "🇹🇹"
+    ],
+    "name": "CARICOM (Communauté des Caraïbes)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "1973-08-01",
+    "description": "Communauté des Caraïbes : intégration économique de 15 États caribéens. Marché unique CARICOM."
+  },
+  {
+    "id": 24,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CL"
+      },
+      {
+        "type": "country",
+        "value": "CO"
+      },
+      {
+        "type": "country",
+        "value": "PE"
+      },
+      {
+        "type": "country",
+        "value": "MX"
+      }
+    ],
+    "country_flags": [
+      "🇨🇱",
+      "🇨🇴",
+      "🇵🇪",
+      "🇲🇽"
+    ],
+    "name": "Alliance du Pacifique",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2011-04-28",
+    "description": "Alliance du Pacifique : intégration économique du Chili, Colombie, Mexique et Pérou."
+  },
+  {
+    "id": 25,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AR"
+      },
+      {
+        "type": "country",
+        "value": "BR"
+      },
+      {
+        "type": "country",
+        "value": "PY"
+      },
+      {
+        "type": "country",
+        "value": "UY"
+      }
+    ],
+    "country_flags": [
+      "🇦🇷",
+      "🇧🇷",
+      "🇵🇾",
+      "🇺🇾"
+    ],
+    "name": "Mercosur (Marché commun du Sud)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "1991-03-26",
+    "description": "Marché commun du Sud : union douanière entre l'Argentine, le Brésil, le Paraguay et l'Uruguay."
+  },
+  {
+    "id": 26,
+    "countries": [
+      {
+        "type": "country",
+        "value": "US"
+      },
+      {
+        "type": "country",
+        "value": "CR"
+      },
+      {
+        "type": "country",
+        "value": "GT"
+      },
+      {
+        "type": "country",
+        "value": "HN"
+      },
+      {
+        "type": "country",
+        "value": "NI"
+      },
+      {
+        "type": "country",
+        "value": "SV"
+      },
+      {
+        "type": "country",
+        "value": "DO"
+      }
+    ],
+    "country_flags": [
+      "🇺🇸",
+      "🇨🇷",
+      "🇬🇹",
+      "🇭🇳",
+      "🇳🇮",
+      "🇸🇻",
+      "🇩🇴"
+    ],
+    "name": "CAFTA-DR (Accord de libre-échange Amérique centrale)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2004-08-05",
+    "description": "Accord de libre-échange Amérique centrale : entre les États-Unis et 6 pays d'Amérique centrale + République dominicaine."
+  },
+  {
+    "id": 27,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AD"
+      },
+      {
+        "type": "country",
+        "value": "ES"
+      }
+    ],
+    "country_flags": [
+      "🇦🇩",
+      "🇪🇸"
+    ],
+    "name": "Accord frontalier Andorre-Espagne",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord commercial CEFTA entre pays des Balkans occidentaux."
+  },
+  {
+    "id": 28,
+    "countries": [
+      {
+        "type": "country",
+        "value": "LI"
+      },
+      {
+        "type": "country",
+        "value": "CH"
+      }
+    ],
+    "country_flags": [
+      "🇱🇮",
+      "🇨🇭"
+    ],
+    "name": "Union douanière Liechtenstein-Suisse",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord commercial régional au Levant : Syrie, Liban, Jordanie."
+  },
+  {
+    "id": 29,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MC"
+      },
+      {
+        "type": "country",
+        "value": "FR"
+      }
+    ],
+    "country_flags": [
+      "🇲🇨",
+      "🇫🇷"
+    ],
+    "name": "Accord douanier Monaco-France",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord d'association entre Israël et l'Union européenne. Coopération politique et commerciale."
+  },
+  {
+    "id": 30,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SM"
+      },
+      {
+        "type": "country",
+        "value": "IT"
+      }
+    ],
+    "country_flags": [
+      "🇸🇲",
+      "🇮🇹"
+    ],
+    "name": "Accord douanier Saint-Marin-Italie",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord d'association entre l'Ukraine et l'Union européenne. Zone de libre-échange approfondie (DCFTA)."
+  },
+  {
+    "id": 31,
+    "countries": [
+      {
+        "type": "country",
+        "value": "VA"
+      },
+      {
+        "type": "country",
+        "value": "IT"
+      }
+    ],
+    "country_flags": [
+      "🇻🇦",
+      "🇮🇹"
+    ],
+    "name": "Accord Vatican-Italie",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Coopération nordique entre le Danemark et la Suède : intégration des marchés, libre circulation."
+  },
+  {
+    "id": 32,
+    "countries": [
+      {
+        "type": "country",
+        "value": "IS"
+      },
+      {
+        "type": "country",
+        "value": "NO"
+      }
+    ],
+    "country_flags": [
+      "🇮🇸",
+      "🇳🇴"
+    ],
+    "name": "Accord EEE Islande-Norvège",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord frontalier entre Andorre et l'Espagne : union douanière de facto, coopération transfrontali"
+  },
+  {
+    "id": 33,
+    "countries": [
+      {
+        "type": "country",
+        "value": "DK"
+      },
+      {
+        "type": "country",
+        "value": "SE"
+      }
+    ],
+    "country_flags": [
+      "🇩🇰",
+      "🇸🇪"
+    ],
+    "name": "Coopération nordique Danemark-Suède",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Union douanière entre le Liechtenstein et la Suisse : marché commun, monnaie suisse."
+  },
+  {
+    "id": 34,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SE"
+      },
+      {
+        "type": "country",
+        "value": "NO"
+      }
+    ],
+    "country_flags": [
+      "🇸🇪",
+      "🇳🇴"
+    ],
+    "name": "Coopération nordique Suède-Norvège",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord douanier entre Monaco et la France : Monaco fait partie du territoire douanier français."
+  },
+  {
+    "id": 35,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AL"
+      },
+      {
+        "type": "country",
+        "value": "RS"
+      }
+    ],
+    "country_flags": [
+      "🇦🇱",
+      "🇷🇸"
+    ],
+    "name": "Accord régional Balkans",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord douanier entre Saint-Marin et l'Italie : union douanière historique."
+  },
+  {
+    "id": 36,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BA"
+      },
+      {
+        "type": "country",
+        "value": "ME"
+      }
+    ],
+    "country_flags": [
+      "🇧🇦",
+      "🇲🇪"
+    ],
+    "name": "Accord régional Balkans",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord économique entre le Vatican et l'Italie."
+  },
+  {
+    "id": 37,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MK"
+      },
+      {
+        "type": "country",
+        "value": "RS"
+      }
+    ],
+    "country_flags": [
+      "🇲🇰",
+      "🇷🇸"
+    ],
+    "name": "Accord régional Balkans",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord EEE entre l'Islande et la Norvège : accès au marché unique européen."
+  },
+  {
+    "id": 38,
+    "countries": [
+      {
+        "type": "country",
+        "value": "ME"
+      },
+      {
+        "type": "country",
+        "value": "RS"
+      }
+    ],
+    "country_flags": [
+      "🇲🇪",
+      "🇷🇸"
+    ],
+    "name": "Accord régional Balkans",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Coopération nordique entre le Danemark et la Suède : libre circulation, harmonisation."
+  },
+  {
+    "id": 39,
+    "countries": [
+      {
+        "type": "country",
+        "value": "RS"
+      },
+      {
+        "type": "country",
+        "value": "AL"
+      }
+    ],
+    "country_flags": [
+      "🇷🇸",
+      "🇦🇱"
+    ],
+    "name": "Accord CEFTA Balkans",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Coopération nordique entre la Suède et la Norvège."
+  },
+  {
+    "id": 40,
+    "countries": [
+      {
+        "type": "country",
+        "value": "MD"
+      },
+      {
+        "type": "country",
+        "value": "UA"
+      }
+    ],
+    "country_flags": [
+      "🇲🇩",
+      "🇺🇦"
+    ],
+    "name": "Accord commercial Moldavie-Ukraine",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord régional entre l'Albanie et la Serbie dans le cadre des Balkans ouverts."
+  },
+  {
+    "id": 41,
+    "countries": [
+      {
+        "type": "country",
+        "value": "AL"
+      },
+      {
+        "type": "country",
+        "value": "BA"
+      },
+      {
+        "type": "country",
+        "value": "MD"
+      },
+      {
+        "type": "country",
+        "value": "ME"
+      },
+      {
+        "type": "country",
+        "value": "MK"
+      },
+      {
+        "type": "country",
+        "value": "RS"
+      }
+    ],
+    "country_flags": [
+      "🇦🇱",
+      "🇧🇦",
+      "🇲🇩",
+      "🇲🇪",
+      "🇲🇰",
+      "🇷🇸"
+    ],
+    "name": "CEFTA (Accord de libre-échange Europe centrale)",
+    "type": "regional",
+    "status": "actif",
+    "signed": "1992-12-21",
+    "description": "Accord régional entre la Bosnie et le Monténégro."
+  },
+  {
+    "id": 42,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SY"
+      },
+      {
+        "type": "country",
+        "value": "LB"
+      },
+      {
+        "type": "country",
+        "value": "JO"
+      }
+    ],
+    "country_flags": [
+      "🇸🇾",
+      "🇱🇧",
+      "🇯🇴"
+    ],
+    "name": "Accord commercial Levant",
+    "type": "regional",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord régional entre la Macédoine du Nord et la Serbie."
+  },
+  {
+    "id": 43,
+    "countries": [
+      {
+        "type": "country",
+        "value": "IL"
+      },
+      {
+        "type": "group",
+        "value": "EU"
+      }
+    ],
+    "country_flags": [
+      "🇮🇱",
+      "🇪🇺"
+    ],
+    "name": "Accord d'association Israël-UE",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2000-06-01",
+    "description": "Accord régional entre le Monténégro et la Serbie."
+  },
+  {
+    "id": 44,
+    "countries": [
+      {
+        "type": "country",
+        "value": "UA"
+      },
+      {
+        "type": "group",
+        "value": "EU"
+      }
+    ],
+    "country_flags": [
+      "🇺🇦",
+      "🇪🇺"
+    ],
+    "name": "Accord d'association Ukraine-UE",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2017-09-01",
+    "description": "Accord CEFTA : accords de libre-échange entre pays des Balkans occidentaux."
+  },
+  {
+    "id": 45,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CV"
+      },
+      {
+        "type": "country",
+        "value": "ZA"
+      }
+    ],
+    "country_flags": [
+      "🇨🇻",
+      "🇿🇦"
+    ],
+    "name": "Accord commercial Cap-Vert-Afrique du Sud",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord commercial entre la Moldavie et l'Ukraine."
+  },
+  {
+    "id": 46,
+    "countries": [
+      {
+        "type": "country",
+        "value": "CF"
+      },
+      {
+        "type": "country",
+        "value": "ZA"
+      }
+    ],
+    "country_flags": [
+      "🇨🇫",
+      "🇿🇦"
+    ],
+    "name": "Accord commercial République centrafricaine-Afrique du Sud",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord commercial entre le Cap-Vert et le Portugal : liens historiques, coopération économique."
+  },
+  {
+    "id": 47,
+    "countries": [
+      {
+        "type": "country",
+        "value": "KP"
+      },
+      {
+        "type": "country",
+        "value": "CN"
+      }
+    ],
+    "country_flags": [
+      "🇰🇵",
+      "🇨🇳"
+    ],
+    "name": "Accord commercial Corée du Nord-Chine",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord commercial entre la RCA et le Cameroun : coopération CEMAC."
+  },
+  {
+    "id": 48,
+    "countries": [
+      {
+        "type": "country",
+        "value": "SZ"
+      },
+      {
+        "type": "country",
+        "value": "ZA"
+      }
+    ],
+    "country_flags": [
+      "🇸🇿",
+      "🇿🇦"
+    ],
+    "name": "Accord commercial Eswatini-Afrique du Sud",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord commercial entre la Corée du Nord et la Chine : principal partenaire commercial du régime nord-coréen."
+  },
+  {
+    "id": 49,
+    "countries": [
+      {
+        "type": "country",
+        "value": "TR"
+      },
+      {
+        "type": "country",
+        "value": "CN"
+      }
+    ],
+    "country_flags": [
+      "🇹🇷",
+      "🇨🇳"
+    ],
+    "name": "Accord commercial Turquie-Chine",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "2005-01-01",
+    "description": "Accord commercial entre l'Eswatini et l'Afrique du Sud : intégration SACU."
+  },
+  {
+    "id": 50,
+    "countries": [
+      {
+        "type": "country",
+        "value": "BY"
+      },
+      {
+        "type": "country",
+        "value": "RU"
+      }
+    ],
+    "country_flags": [
+      "🇧🇾",
+      "🇷🇺"
+    ],
+    "name": "Accord commercial Biélorussie-Russie",
+    "type": "bilateral",
+    "status": "actif",
+    "signed": "1995-01-01",
+    "description": "Accord commercial entre la Turquie et la Grèce : tensions mais commerce maintenu."
+  }
+]

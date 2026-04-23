@@ -109,21 +109,20 @@
 
 <div class="content">
 
-  <!-- RÉSUMÉ SEMAINE -->
+  <!-- RÉSUMÉ PÉRIODE -->
   <div class="week-summary" style="margin-top:12px">
-    <div class="week-title">📅 Cette semaine</div>
+    <div class="week-title">📅 Ces 2 dernières années</div>
     <div class="week-text">
-      <strong>34 pays</strong> ont progressé · <strong>18 pays</strong> ont reculé<br>
-      Score mondial moyen : <strong>52.4</strong> <span style="color:var(--red)">▼ −0.8</span> vs semaine passée
+      L'indice mondial a reculé de <strong>0.8 pt</strong> depuis avril 2024<br>
+      Score actuel : <strong>52.4</strong> <span style="color:var(--red)">▼ −0.8</span> vs il y a 2 ans
     </div>
   </div>
 
   <!-- PÉRIODE -->
   <div class="period-tabs">
-    <div class="period-tab on">7 jours</div>
-    <div class="period-tab">30 jours</div>
-    <div class="period-tab">6 mois</div>
-    <div class="period-tab">1 an</div>
+    <div class="period-tab on">2 ans</div>
+    <div class="period-tab">6 ans</div>
+    <div class="period-tab">15 ans</div>
   </div>
 
   <!-- COURBE GLOBALE -->
@@ -154,74 +153,9 @@
 
   <!-- TIMELINE ÉVÉNEMENTS -->
   <div class="section-header">
-    <div class="section-title">📋 <span>Événements</span> récents</div>
+    <div class="section-title">📋 <span>Événements</span> clés</div>
   </div>
-  <div class="timeline">
-    <div class="timeline-item">
-      <div class="timeline-dot-wrap">
-        <div class="timeline-dot" style="background:var(--red)"></div>
-        <div class="timeline-line"></div>
-      </div>
-      <div class="timeline-content">
-        <div class="timeline-event">Intensification des frappes sur Téhéran — score Iran effondré</div>
-        <div class="timeline-meta">
-          <span class="tag tag-war">Guerre</span>
-          <span class="timeline-date">13 mars 2026</span>
-        </div>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-dot-wrap">
-        <div class="timeline-dot" style="background:var(--red)"></div>
-        <div class="timeline-line"></div>
-      </div>
-      <div class="timeline-content">
-        <div class="timeline-event">Frappes israéliennes au Liban — 102 victimes civiles</div>
-        <div class="timeline-meta">
-          <span class="tag tag-war">Conflit</span>
-          <span class="timeline-date">10 mars 2026</span>
-        </div>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-dot-wrap">
-        <div class="timeline-dot" style="background:var(--blue)"></div>
-        <div class="timeline-line"></div>
-      </div>
-      <div class="timeline-content">
-        <div class="timeline-event">Alliance nucléaire européenne — Macron + 8 pays signataires</div>
-        <div class="timeline-meta">
-          <span class="tag tag-trade">Diplomatie</span>
-          <span class="timeline-date">2 mars 2026</span>
-        </div>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-dot-wrap">
-        <div class="timeline-dot" style="background:var(--green)"></div>
-        <div class="timeline-line"></div>
-      </div>
-      <div class="timeline-content">
-        <div class="timeline-event">Accord UE-Mercosur finalisé — +38 accords commerciaux activés</div>
-        <div class="timeline-meta">
-          <span class="tag tag-peace">Commerce</span>
-          <span class="timeline-date">28 fév 2026</span>
-        </div>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-dot-wrap">
-        <div class="timeline-dot" style="background:var(--red)"></div>
-      </div>
-      <div class="timeline-content">
-        <div class="timeline-event">Frappes USA-Israël sur l'Iran — mort d'Ali Khamenei</div>
-        <div class="timeline-meta">
-          <span class="tag tag-war">Guerre</span>
-          <span class="timeline-date">28 fév 2026</span>
-        </div>
-      </div>
-    </div>
-  </div>
+  <div class="timeline" id="timeline-events"></div>
 
   <div style="height:16px"></div>
 
@@ -239,12 +173,47 @@
 <script src="assets/js/data.js"></script>
 <script src="assets/js/nav.js"></script>
 <script>
-/* ── DATA DE TENDANCES par période (simulé) ── */
+/* ── DATA DE TENDANCES par période ── */
 const TREND_DATA = {
-  '7 jours':  { label: '7 derniers jours',   points: [51.8, 51.5, 52.0, 51.9, 52.3, 52.1, 52.4], labels: ['Lun','Mar','Mer','Jeu','Ven','Sam','Dim'] },
-  '30 jours': { label: '30 derniers jours',   points: [53.1, 52.8, 53.0, 52.5, 52.9, 53.2, 52.7, 52.4, 52.6, 52.3, 52.1, 52.5, 52.8, 52.4, 52.0, 52.4, 51.9, 52.1, 52.3, 51.8, 52.2, 52.0, 51.6, 52.0, 52.4, 51.8, 52.1, 51.9, 52.3, 52.4], labels: ['Sem1','','','','','Sem2','','','','','Sem3','','','','','Sem4','','','',''] },
-  '6 mois':   { label: '6 derniers mois',     points: [54.2, 53.8, 53.1, 52.6, 52.4, 52.4],          labels: ['Oct','Nov','Déc','Jan','Fév','Mar'] },
-  '1 an':     { label: '12 derniers mois',    points: [56.8, 56.2, 55.5, 55.0, 54.6, 54.2, 53.8, 53.4, 53.1, 52.6, 52.4, 52.4], labels: ['Avr','Mai','Jun','Jul','Aoû','Sep','Oct','Nov','Déc','Jan','Fév','Mar'] },
+  '2 ans':  {
+    label: '2 dernières années (2024–2026)',
+    points: [53.2, 53.0, 52.9, 52.8, 52.7, 52.6, 52.5, 52.4],
+    labels: ['Avr 24','Jul 24','Oct 24','Jan 25','Avr 25','Jul 25','Oct 25','Avr 26'],
+  },
+  '6 ans':  {
+    label: '6 dernières années (2021–2026)',
+    points: [56.1, 55.8, 53.8, 53.5, 53.2, 52.8, 52.5, 52.4],
+    labels: ['2021','Mi-21','2022','Mi-22','2023','Mi-23','2025','2026'],
+  },
+  '15 ans': {
+    label: '15 dernières années (2011–2026)',
+    points: [62.0, 61.0, 60.2, 58.8, 58.2, 57.8, 57.2, 56.6, 56.2, 55.0, 56.1, 53.8, 53.5, 53.0, 52.4],
+    labels: ["'11","'12","'13","'14","'15","'16","'17","'18","'19","'20","'21","'22","'23","'24","'26"],
+  },
+};
+
+const TIMELINE_EVENTS = {
+  '2 ans': [
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: 'Fév 2026',  text: 'Frappes USA-Israël sur l\'Iran — mort d\'Ali Khamenei' },
+    { color: 'var(--blue)',  tag: 'tag-trade', type: 'Diplomatie',date: 'Mar 2026',  text: 'Alliance nucléaire européenne — Macron + 8 pays signataires' },
+    { color: 'var(--green)', tag: 'tag-peace', type: 'Commerce',  date: 'Déc 2024',  text: 'Accord UE-Mercosur finalisé — +38 accords commerciaux activés' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Conflit',   date: 'Oct 2024',  text: 'Escalade à Gaza — 1er anniversaire du 7 octobre' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: 'Avr 2024',  text: 'Iran vs Israël — échange de frappes directes pour la 1ère fois' },
+  ],
+  '6 ans': [
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: '2026',      text: 'Frappes USA-Israël sur l\'Iran — effondrement de l\'indice Moyen-Orient' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: 'Oct 2023',  text: 'Attaque du Hamas — guerre à Gaza, −4 pts sur l\'indice régional' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: 'Fév 2022',  text: 'Invasion russe de l\'Ukraine — pire chute depuis 2001' },
+    { color: 'var(--green)', tag: 'tag-peace', type: 'Diplomatie',date: '2021',      text: 'Accords Abraham — normalisation Israël-EAU, Bahreïn, Maroc' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Crise',     date: '2020',      text: 'Pandémie COVID-19 — tensions géopolitiques mondiales amplifiées' },
+  ],
+  '15 ans': [
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: '2022',      text: 'Invasion russe de l\'Ukraine — rupture de l\'ordre mondial post-1991' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Crise',     date: '2020',      text: 'Pandémie COVID-19 — effondrement des échanges diplomatiques' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: '2015',      text: 'Pic du califat Daech — 7 pays en guerre simultanée au Moyen-Orient' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: '2014',      text: 'Conflit en Ukraine orientale et annexion de la Crimée par la Russie' },
+    { color: 'var(--red)',   tag: 'tag-war',   type: 'Guerre',    date: '2011',      text: 'Printemps arabe — déstabilisation de la Syrie, Libye, Yémen' },
+  ],
 };
 
 function buildCurveSVG(data) {
@@ -320,15 +289,50 @@ function renderCurve(period) {
   document.getElementById('top-up').innerHTML   = ups.map(cardHtml).join('');
   document.getElementById('top-down').innerHTML = downs.map(cardHtml).join('');
 
+  function renderTimeline(period) {
+    const events = TIMELINE_EVENTS[period] || [];
+    const el = document.getElementById('timeline-events');
+    el.innerHTML = events.map((e, i) => `
+      <div class="timeline-item" style="animation-delay:${i*0.07}s">
+        <div class="timeline-dot-wrap">
+          <div class="timeline-dot" style="background:${e.color}"></div>
+          ${i < events.length - 1 ? '<div class="timeline-line"></div>' : ''}
+        </div>
+        <div class="timeline-content">
+          <div class="timeline-event">${e.text}</div>
+          <div class="timeline-meta">
+            <span class="tag ${e.tag}">${e.type}</span>
+            <span class="timeline-date">${e.date}</span>
+          </div>
+        </div>
+      </div>`).join('');
+  }
+
+  const SUMMARY = {
+    '2 ans':  { title: 'Ces 2 dernières années', body: 'L\'indice mondial a reculé de <strong>0.8 pt</strong> depuis avril 2024<br>Score actuel : <strong>52.4</strong> <span style="color:var(--red)">▼ −0.8</span> vs il y a 2 ans' },
+    '6 ans':  { title: 'Ces 6 dernières années', body: 'L\'indice mondial a reculé de <strong>3.7 pts</strong> depuis 2021<br>Score actuel : <strong>52.4</strong> <span style="color:var(--red)">▼ −3.7</span> vs 2021' },
+    '15 ans': { title: 'Ces 15 dernières années', body: 'L\'indice mondial a perdu <strong>9.6 pts</strong> depuis 2011<br>Score actuel : <strong>52.4</strong> <span style="color:var(--red)">▼ −9.6</span> vs 2011' },
+  };
+
+  function renderSummary(period) {
+    const s = SUMMARY[period];
+    if (!s) return;
+    document.querySelector('.week-title').textContent = '📅 ' + s.title;
+    document.querySelector('.week-text').innerHTML = s.body;
+  }
+
   // Period tabs
-  let activePeriod = '7 jours';
+  let activePeriod = '2 ans';
   renderCurve(activePeriod);
+  renderTimeline(activePeriod);
   document.querySelectorAll('.period-tab').forEach(t => {
     t.addEventListener('click', () => {
       document.querySelectorAll('.period-tab').forEach(x => x.classList.remove('on'));
       t.classList.add('on');
       activePeriod = t.textContent;
       renderCurve(activePeriod);
+      renderTimeline(activePeriod);
+      renderSummary(activePeriod);
     });
   });
 })();

@@ -459,13 +459,15 @@ def run():
     alerts    = build_alerts(rss)
     stats     = build_stats(countries)
 
-    outputs = {
-        "countries.json": countries,
-        "conflicts.json": conflicts,
-        "trade.json":     trade,
-        "alerts.json":    alerts,
-        "stats.json":     stats,
-    }
+    # conflicts et trade sont des données curées : ne pas écraser si le pipeline
+    # renvoie un résultat vide (Wikidata indisponible)
+    outputs = {"countries.json": countries, "stats.json": stats}
+    if conflicts:
+        outputs["conflicts.json"] = conflicts
+    if trade:
+        outputs["trade.json"] = trade
+    if alerts:
+        outputs["alerts.json"] = alerts
 
     for fname, data in outputs.items():
         path = DATA / fname
