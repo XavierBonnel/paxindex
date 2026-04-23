@@ -1,13 +1,35 @@
 [
   {
-    "id": "Q1028247",
-    "name": "bataille de Groix",
+    "id": "Q20423990",
+    "name": "1624 Baghdad massacre",
     "countries": [
-      "🇫🇷"
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
     "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q263716",
+    "name": "révolte des Huit trigrammes de 1813",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q169072",
+    "name": "conflit armé colombien",
+    "countries": [
+      "🇨🇴"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "1964-05-27",
     "region": "Inconnu"
   },
   {
@@ -15,17 +37,6 @@
     "name": "bataille de Colberger Heide",
     "countries": [
       "🇩🇰"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1453186",
-    "name": "bataille du cap Saint-Vincent",
-    "countries": [
-      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -44,25 +55,15 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4177871",
-    "name": "Silda camp attack",
+    "id": "Q112222097",
+    "name": "transfert illégal d'enfants ukrainiens lors de l'invasion russe de l'Ukraine",
     "countries": [
-      "🇮🇳"
+      "🇷🇺",
+      "🇺🇦"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1134649",
-    "name": "bataille des îles Égates",
-    "countries": [
-      "🇮🇹"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
+    "since": "2014-01-01",
     "region": "Inconnu"
   },
   {
@@ -79,8 +80,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q2555496",
-    "name": "Skirmish of the Berlin Schloss",
+    "id": "Q181146",
+    "name": "soulèvement du Dos de Mayo",
     "countries": [
       "🏳️"
     ],
@@ -90,10 +91,22 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1325495",
-    "name": "bataille de Santa Cruz de Tenerife",
+    "id": "Q3567911",
+    "name": "génocide grec pontique",
     "countries": [
       "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q21190910",
+    "name": "génocide des Yézidis",
+    "countries": [
+      "🇮🇶",
+      "🇸🇾"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -114,6 +127,17 @@
   {
     "id": "Q178912",
     "name": "première bataille du cap Saint-Vincent",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q162665",
+    "name": "sédition Nika",
     "countries": [
       "🏳️"
     ],
@@ -145,17 +169,6 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1355206",
-    "name": "bataille de Tyndaris",
-    "countries": [
-      "🇮🇹"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q483088",
     "name": "bataille de Chilchonryang",
     "countries": [
@@ -167,10 +180,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4376474",
-    "name": "Waal Crossing",
+    "id": "Q101109468",
+    "name": "Matsés massacre",
     "countries": [
-      "🇳🇱"
+      "🇵🇪"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -200,21 +213,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q160011",
-    "name": "bataille des Falklands",
+    "id": "Q123998092",
+    "name": "Massacre of Arabs during the Zanzibar Revolution",
     "countries": [
-      "🇦🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q835077",
-    "name": "bataille de Zatoka Świeża",
-    "countries": [
-      "🇷🇺"
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
