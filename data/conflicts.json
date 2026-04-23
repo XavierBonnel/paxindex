@@ -1,71 +1,5 @@
 [
   {
-    "id": "Q1028247",
-    "name": "bataille de Groix",
-    "countries": [
-      "🇫🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q423522",
-    "name": "bataille de Colberger Heide",
-    "countries": [
-      "🇩🇰"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1453186",
-    "name": "bataille du cap Saint-Vincent",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q242099",
-    "name": "incident de Mukden",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q4177871",
-    "name": "Silda camp attack",
-    "countries": [
-      "🇮🇳"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1134649",
-    "name": "bataille des îles Égates",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q553184",
     "name": "conflits entre Gaza et Israël",
     "countries": [
@@ -79,8 +13,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q2555496",
-    "name": "Skirmish of the Berlin Schloss",
+    "id": "Q6011683",
+    "name": "Aba wrestling",
     "countries": [
       "🏳️"
     ],
@@ -90,8 +24,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1325495",
-    "name": "bataille de Santa Cruz de Tenerife",
+    "id": "Q181146",
+    "name": "soulèvement du Dos de Mayo",
     "countries": [
       "🏳️"
     ],
@@ -101,19 +35,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q464226",
-    "name": "bataille de Lagos",
-    "countries": [
-      "🇵🇹"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q178912",
-    "name": "première bataille du cap Saint-Vincent",
+    "id": "Q3567911",
+    "name": "génocide grec pontique",
     "countries": [
       "🏳️"
     ],
@@ -123,8 +46,20 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q695673",
-    "name": "bataille du cap Finisterre",
+    "id": "Q21190910",
+    "name": "génocide des Yézidis",
+    "countries": [
+      "🏳️",
+      "🇸🇾"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q162665",
+    "name": "sédition Nika",
     "countries": [
       "🏳️"
     ],
@@ -134,8 +69,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q482970",
-    "name": "bataille de Sacheon",
+    "id": "Q101109468",
+    "name": "Matsés massacre",
     "countries": [
       "🏳️"
     ],
@@ -145,8 +80,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1355206",
-    "name": "bataille de Tyndaris",
+    "id": "Q760021",
+    "name": "soulèvement de Dazexiang",
     "countries": [
       "🏳️"
     ],
@@ -156,8 +91,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q483088",
-    "name": "bataille de Chilchonryang",
+    "id": "Q131746715",
+    "name": "Q131746715",
     "countries": [
       "🏳️"
     ],
@@ -167,8 +102,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4376474",
-    "name": "Waal Crossing",
+    "id": "Q1335265",
+    "name": "Emden Revolution",
     "countries": [
       "🏳️"
     ],
@@ -178,8 +113,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q432515",
-    "name": "bataille d'Algésiras",
+    "id": "Q123998092",
+    "name": "Massacre of Arabs during the Zanzibar Revolution",
     "countries": [
       "🏳️"
     ],
@@ -189,8 +124,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q866862",
-    "name": "bataille d'Aigos Potamos",
+    "id": "Q986738",
+    "name": "Portuguese Restoration of Independence",
     "countries": [
       "🏳️"
     ],
@@ -200,8 +135,19 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q160011",
-    "name": "bataille des Falklands",
+    "id": "Q831132",
+    "name": "Six Towns rebellion",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "0524-01-01",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q624181",
+    "name": "première rébellion princière",
     "countries": [
       "🏳️"
     ],
@@ -211,10 +157,65 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q835077",
-    "name": "bataille de Zatoka Świeża",
+    "id": "Q519690",
+    "name": "Frankfurter Wachensturm",
     "countries": [
-      "🇷🇺"
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q108733451",
+    "name": "Native American genocide in the United States",
+    "countries": [
+      "🇺🇸"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "1610-01-01",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q130617499",
+    "name": "Al-Bureij massacre (September 2024)",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q85125",
+    "name": "déportation des peuples en URSS",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q4499410",
+    "name": "Shoah en Ukraine",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q992318",
+    "name": "soulèvement de la récolte d’automne",
+    "countries": [
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,

@@ -1,6 +1,6 @@
 [
   {
-    "id": 3890,
+    "id": 7996,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4746,
+    "id": 1475,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli strike kills five in Gaza, including three children",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1154,
+    "id": 7757,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2297,
+    "id": 5382,
     "level": "critical",
     "country": "🌍",
     "text": "Democrats up in Virginia, but US voters may pay price for redistricting war",
@@ -36,25 +36,34 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5074,
+    "id": 6495,
     "level": "critical",
     "country": "🌍",
-    "text": "Protesters stabbed at London rally against war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/protesters-stabbed-at-london-rally-against-war-on-iran?traffic_source=rss",
+    "text": "La journaliste libanaise Amal Khalil tuée par une frappe israélienne dans le sud",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260423-journaliste-liban-amal-khalil-tu%C3%A9e-frappe-israel-sud-rsf-al-akhbar",
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 667,
+    "id": 4746,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel kills journalist and wounds another in south Lebanon targeted attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss",
+    "text": "Salvador : le procès géant de la MS-13, symbole de la guerre sans limite de Buke",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260423-salvador-proc%C3%A8s-g%C3%A9ant-ms-13-symbole-guerre-sans-limite-bukele-gangs-narcotrafic-pr%C3%A9sident",
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3162,
+    "id": 7163,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au Liban, un deuxième soldat français est mort",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260423-au-liban-un-deuxi%C3%A8me-soldat-fran%C3%A7ais-est-mort",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 2667,
     "level": "critical",
     "country": "🌍",
     "text": "Rachat de Warner Bros. par Paramount : vers un mariage de titans",
@@ -63,25 +72,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5077,
-    "level": "critical",
+    "id": 6091,
+    "level": "high",
     "country": "🌍",
-    "text": "Le secrétaire ​américain à la Marine limogé en plein conflit avec l'Iran",
+    "text": "Rwanda : flambée des prix de l’énergie sous l’effet des tensions au Moyen-Orient",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260423-etats-unis-secretaire-marine-americaine-john-phelan-limoge",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260423-rwanda-flamb%C3%A9e-des-prix-de-l-%C3%A9nergie-sous-l-effet-des-tensions-au-moyen-orient",
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5232,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : Jean-Noël Barrot dénonce un \"crime de guerre\" après la mort des Casq",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260423-en-direct-moyen-orient-liban-pourparlers-israel-treve-etats-unis-iran-trump-ormuz",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 9874,
+    "id": 3896,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 32,
+    "id": 5230,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 202,
+    "id": 7175,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3031,
+    "id": 9002,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1327,
+    "id": 2512,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4851,
+    "id": 6736,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 4990,
+    "id": 8359,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 9049,
+    "id": 4880,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -153,7 +153,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 2753,
+    "id": 4655,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -162,7 +162,7 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 1193,
+    "id": 4744,
     "level": "medium",
     "country": "🌍",
     "text": "African creators struggle to secure decent income in gig economy",
@@ -171,7 +171,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 8867,
+    "id": 3570,
     "level": "medium",
     "country": "🌍",
     "text": "For AI to work for us, it will have to stop pretending to be us",
