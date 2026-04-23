@@ -1,6 +1,6 @@
 [
   {
-    "id": 7996,
+    "id": 1344,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,34 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1475,
+    "id": 5891,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What we know about Israel killing Lebanese journalist Amal Khalil",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 1493,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Who is John Phelan, the US Navy Secretary fired by Pete Hegseth?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/23/who-is-john-phelan-the-us-navy-secretary-fired-by-pete-hegseth?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 6911,
+    "level": "critical",
+    "country": "🌍",
+    "text": "India to Iran: How two wars shaped the rise of Pakistan’s Asim Munir",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/4/23/india-to-iran-how-two-wars-shaped-the-rise-of-pakistans-asim-munir?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 5558,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli strike kills five in Gaza, including three children",
@@ -18,25 +45,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7757,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 5382,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Democrats up in Virginia, but US voters may pay price for redistricting war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/democrats-up-in-virginia-but-us-voters-may-pay-price-for-redistricting-war?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 6495,
+    "id": 5145,
     "level": "critical",
     "country": "🌍",
     "text": "La journaliste libanaise Amal Khalil tuée par une frappe israélienne dans le sud",
@@ -45,7 +54,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4746,
+    "id": 5399,
     "level": "critical",
     "country": "🌍",
     "text": "Salvador : le procès géant de la MS-13, symbole de la guerre sans limite de Buke",
@@ -54,7 +63,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7163,
+    "id": 8432,
     "level": "critical",
     "country": "🌍",
     "text": "Au Liban, un deuxième soldat français est mort",
@@ -63,16 +72,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2667,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Rachat de Warner Bros. par Paramount : vers un mariage de titans",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260423-rachat-de-warner-bros-par-paramount-vers-un-mariage-de-titans",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 6091,
+    "id": 3366,
     "level": "high",
     "country": "🌍",
     "text": "Rwanda : flambée des prix de l’énergie sous l’effet des tensions au Moyen-Orient",
@@ -81,7 +81,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3896,
+    "id": 8141,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5230,
+    "id": 8796,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7175,
+    "id": 1443,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9002,
+    "id": 1985,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2512,
+    "id": 7182,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 6736,
+    "id": 42,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8359,
+    "id": 2160,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 4880,
+    "id": 3339,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -153,7 +153,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 4655,
+    "id": 611,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -162,7 +162,7 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 4744,
+    "id": 6255,
     "level": "medium",
     "country": "🌍",
     "text": "African creators struggle to secure decent income in gig economy",
@@ -171,7 +171,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3570,
+    "id": 7537,
     "level": "medium",
     "country": "🌍",
     "text": "For AI to work for us, it will have to stop pretending to be us",
