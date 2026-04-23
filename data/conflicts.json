@@ -1,60 +1,13 @@
 [
   {
-    "id": "Q553184",
-    "name": "conflits entre Gaza et Israël",
+    "id": "Q1028247",
+    "name": "bataille de Groix",
     "countries": [
-      "🏳️",
-      "🏳️",
-      "🇮🇱"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1948-05-15",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q3826133",
-    "name": "1989 attack on La Tablada barracks",
-    "countries": [
-      "🇦🇷"
+      "🇫🇷"
     ],
     "type": "guerre",
     "intensity": 70,
     "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q263716",
-    "name": "révolte des Huit trigrammes de 1813",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q5613615",
-    "name": "Guanganmen Incident",
-    "countries": [
-      "🏳️",
-      "🇹🇼"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q169072",
-    "name": "conflit armé colombien",
-    "countries": [
-      "🇨🇴"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1964-05-27",
     "region": "Inconnu"
   },
   {
@@ -62,6 +15,17 @@
     "name": "bataille de Colberger Heide",
     "countries": [
       "🇩🇰"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1453186",
+    "name": "bataille du cap Saint-Vincent",
+    "countries": [
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -91,10 +55,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q760025",
-    "name": "Rebellion in Klaksvík",
+    "id": "Q1134649",
+    "name": "bataille des îles Égates",
     "countries": [
-      "🏳️"
+      "🇮🇹"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -102,41 +66,32 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q6011683",
-    "name": "Aba wrestling",
+    "id": "Q553184",
+    "name": "conflits entre Gaza et Israël",
     "countries": [
-      "🇹🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q181146",
-    "name": "soulèvement du Dos de Mayo",
-    "countries": [
+      "🏳️",
+      "🇮🇱",
       "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q3567911",
-    "name": "génocide grec pontique",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
+    "since": "1948-05-15",
     "region": "Inconnu"
   },
   {
     "id": "Q2555496",
     "name": "Skirmish of the Berlin Schloss",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1325495",
+    "name": "bataille de Santa Cruz de Tenerife",
     "countries": [
       "🏳️"
     ],
@@ -168,8 +123,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q162665",
-    "name": "sédition Nika",
+    "id": "Q695673",
+    "name": "bataille du cap Finisterre",
     "countries": [
       "🏳️"
     ],
@@ -190,6 +145,17 @@
     "region": "Inconnu"
   },
   {
+    "id": "Q1355206",
+    "name": "bataille de Tyndaris",
+    "countries": [
+      "🇮🇹"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
     "id": "Q483088",
     "name": "bataille de Chilchonryang",
     "countries": [
@@ -201,10 +167,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q5242669",
-    "name": "Dawson Massacre",
+    "id": "Q4376474",
+    "name": "Waal Crossing",
     "countries": [
-      "🇺🇸"
+      "🇳🇱"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -212,10 +178,43 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4376474",
-    "name": "Waal Crossing",
+    "id": "Q432515",
+    "name": "bataille d'Algésiras",
     "countries": [
-      "🇳🇱"
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q866862",
+    "name": "bataille d'Aigos Potamos",
+    "countries": [
+      "🇹🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q160011",
+    "name": "bataille des Falklands",
+    "countries": [
+      "🇦🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q835077",
+    "name": "bataille de Zatoka Świeża",
+    "countries": [
+      "🇷🇺"
     ],
     "type": "guerre",
     "intensity": 70,
