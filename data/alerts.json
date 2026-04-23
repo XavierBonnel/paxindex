@@ -1,6 +1,6 @@
 [
   {
-    "id": 5953,
+    "id": 6565,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3913,
+    "id": 6715,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4121,
+    "id": 9128,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -27,7 +27,25 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5950,
+    "id": 1988,
+    "level": "critical",
+    "country": "🌍",
+    "text": "War-driven demand boosts profits for weapons and aircraft manufacturers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/4/23/war-driven-demand-boosts-profits-for-weapons-and-aircraft-manufacturers?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 1824,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Will complex EU loan deal intensify conflict?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/23/will-complex-eu-loan-deal-intensify-conflict?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 3587,
     "level": "critical",
     "country": "🌍",
     "text": "How Trump’s Iran war is driving military dissent",
@@ -36,25 +54,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5184,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mixed views in Lebanon ahead of controversial talks with Israel",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/mixed-views-in-lebanon-ahead-of-controversial-talks-with-israel?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 732,
-    "level": "critical",
-    "country": "🌍",
-    "text": "More than 6 million Somalis face hunger amid climate shocks and conflict",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/more-than-6-million-somalis-face-hunger-amid-climate-shocks-and-conflict?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 8141,
+    "id": 3712,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen Orient : La fin du \"quoiqu'il en coûte\" ?",
@@ -63,7 +63,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5454,
+    "id": 1839,
     "level": "critical",
     "country": "🌍",
     "text": "Israël à l'Eurovision : Macklemore, Massive Attack et un millier d'artistes appe",
@@ -72,7 +72,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3208,
+    "id": 5931,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza : des familles pleurent leurs proches tués dans une frappe nocturne",
@@ -81,7 +81,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 6850,
+    "id": 5166,
     "level": "critical",
     "country": "🌍",
     "text": "Amal Khalil tuée dans une frappe israélienne dans le sud du Liban",
@@ -90,16 +90,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9492,
+    "id": 3060,
     "level": "high",
     "country": "🌍",
-    "text": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
+    "text": "US sanctions Cambodian senator over purported scam network links",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/4/23/us-sanctions-cambodian-senator-over-purported-scam-network-links?traffic_source=rss",
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9821,
+    "id": 6627,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6505,
+    "id": 5037,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4885,
+    "id": 9896,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1743,
+    "id": 1123,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1882,
+    "id": 8714,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 9523,
+    "id": 5860,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2628,
+    "id": 8850,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 4431,
+    "id": 4256,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -171,7 +171,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 7463,
+    "id": 2520,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
