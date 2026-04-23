@@ -1,38 +1,5 @@
 [
   {
-    "id": "Q20423990",
-    "name": "1624 Baghdad massacre",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q263716",
-    "name": "révolte des Huit trigrammes de 1813",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q169072",
-    "name": "conflit armé colombien",
-    "countries": [
-      "🇨🇴"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1964-05-27",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q423522",
     "name": "bataille de Colberger Heide",
     "countries": [
@@ -48,6 +15,17 @@
     "name": "incident de Mukden",
     "countries": [
       "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q4177871",
+    "name": "Silda camp attack",
+    "countries": [
+      "🇮🇳"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -80,8 +58,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q181146",
-    "name": "soulèvement du Dos de Mayo",
+    "id": "Q3567911",
+    "name": "génocide grec pontique",
     "countries": [
       "🏳️"
     ],
@@ -91,8 +69,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q3567911",
-    "name": "génocide grec pontique",
+    "id": "Q2555496",
+    "name": "Skirmish of the Berlin Schloss",
     "countries": [
       "🏳️"
     ],
@@ -136,28 +114,6 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q162665",
-    "name": "sédition Nika",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q695673",
-    "name": "bataille du cap Finisterre",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q482970",
     "name": "bataille de Sacheon",
     "countries": [
@@ -191,6 +147,28 @@
     "region": "Inconnu"
   },
   {
+    "id": "Q5242669",
+    "name": "Dawson Massacre",
+    "countries": [
+      "🇺🇸"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q4376474",
+    "name": "Waal Crossing",
+    "countries": [
+      "🇳🇱"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
     "id": "Q432515",
     "name": "bataille d'Algésiras",
     "countries": [
@@ -202,10 +180,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q866862",
-    "name": "bataille d'Aigos Potamos",
+    "id": "Q123998092",
+    "name": "Massacre of Arabs during the Zanzibar Revolution",
     "countries": [
-      "🇹🇷"
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -213,10 +191,32 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q123998092",
-    "name": "Massacre of Arabs during the Zanzibar Revolution",
+    "id": "Q160011",
+    "name": "bataille des Falklands",
     "countries": [
-      "🏳️"
+      "🇦🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q2639189",
+    "name": "Bain de sang de Zutphen",
+    "countries": [
+      "🇳🇱"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q4262005",
+    "name": "Bukit Kepong Incident",
+    "countries": [
+      "🇲🇾"
     ],
     "type": "guerre",
     "intensity": 70,
