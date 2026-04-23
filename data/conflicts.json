@@ -1,7 +1,7 @@
 [
   {
-    "id": "Q648223",
-    "name": "bataille de Cape Kaliakra",
+    "id": "Q85125",
+    "name": "déportation des peuples en URSS",
     "countries": [
       "🏳️"
     ],
@@ -11,8 +11,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q728355",
-    "name": "bataille de Tamsui",
+    "id": "Q4499410",
+    "name": "Shoah en Ukraine",
     "countries": [
       "🏳️"
     ],
@@ -22,8 +22,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q747679",
-    "name": "bataille de l'Artémision",
+    "id": "Q15617805",
+    "name": "Armed clashes in La Modelo prison",
     "countries": [
       "🏳️"
     ],
@@ -33,10 +33,11 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q548819",
-    "name": "bataille des îles Komandorski",
+    "id": "Q10288745",
+    "name": "Filipino genocide",
     "countries": [
-      "🇷🇺"
+      "🏳️",
+      "🇺🇸"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -44,19 +45,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q389257",
-    "name": "bataille des Arginuses",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q494058",
-    "name": "incident de Baengnyeong",
+    "id": "Q1297380",
+    "name": "Capitulation de Vlieter",
     "countries": [
       "🏳️"
     ],
@@ -66,10 +56,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q499768",
-    "name": "bataille de l'Helgeå",
+    "id": "Q878528",
+    "name": "action de Mars",
     "countries": [
-      "🇸🇪"
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -77,8 +67,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q656061",
-    "name": "combat de los Pozos",
+    "id": "Q14867680",
+    "name": "genocide of indigenous peoples in Brazil",
     "countries": [
       "🇧🇷"
     ],
@@ -88,8 +78,43 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q667179",
-    "name": "bataille de Gibraltar",
+    "id": "Q51844684",
+    "name": "bombardements de Barzé et de Him Shinshar",
+    "countries": [
+      "🇸🇾"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q5613615",
+    "name": "Guanganmen Incident",
+    "countries": [
+      "🏳️",
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q115760493",
+    "name": "Romani Holocaust in Lithuania",
+    "countries": [
+      "🏳️",
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q5639055",
+    "name": "Haifa Street helicopter incident",
     "countries": [
       "🏳️"
     ],
@@ -99,8 +124,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q581542",
-    "name": "bataille de Ponza",
+    "id": "Q123984842",
+    "name": "Romani Holocaust in Croatia",
     "countries": [
       "🏳️"
     ],
@@ -110,10 +135,33 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q653707",
-    "name": "bataille de Fimreite",
+    "id": "Q136301701",
+    "name": "Genocost",
     "countries": [
-      "🇳🇴"
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "1998-08-02",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q3241199",
+    "name": "conflit israélo-libanais",
+    "countries": [
+      "🇮🇱",
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "2000-01-01",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1510144",
+    "name": "massacre de Wairau",
+    "countries": [
+      "🇳🇿"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -121,8 +169,30 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q699527",
-    "name": "sabordage de la flotte allemande à Scapa Flow",
+    "id": "Q107639738",
+    "name": "Baghanis Ayrim massacre",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "1990-03-24",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q111648183",
+    "name": "Allégations de génocide des Ukrainiens lors de l'invasion russe de l'Ukraine",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "2022-01-01",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1132665",
+    "name": "Ethnic cleansing of Georgians in Abkhazia",
     "countries": [
       "🏳️"
     ],
@@ -132,85 +202,19 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q624525",
-    "name": "bataille de Busan",
+    "id": "Q112800304",
+    "name": "Persecution of Amhara people",
     "countries": [
-      "🏳️"
+      "🇪🇹"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "inconnue",
+    "since": "1990-01-01",
     "region": "Inconnu"
   },
   {
-    "id": "Q742137",
-    "name": "Battle of Bornholm",
-    "countries": [
-      "🇩🇰"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q373401",
-    "name": "bataille du cap Saint-Vincent",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q755955",
-    "name": "bataille de Copenhague",
-    "countries": [
-      "🇩🇰"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q472672",
-    "name": "bataille navale d'Iquique",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q421399",
-    "name": "Battle of Delaware Bay",
-    "countries": [
-      "🇺🇸"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q487565",
-    "name": "Seconde bataille de Yeonpyeong",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q717322",
-    "name": "bataille de Palerme",
+    "id": "Q123527566",
+    "name": "Abu Hussein school airstrike",
     "countries": [
       "🏳️"
     ],
