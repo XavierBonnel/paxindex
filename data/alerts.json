@@ -1,6 +1,6 @@
 [
   {
-    "id": 3084,
+    "id": 1117,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,34 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1065,
+    "id": 1965,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/4/23/solutions-not-slogans-gaza-holds-first-election-in-21-years?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 8277,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Makan Nasiri, the only child still missing from the school bombed in Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/23/makan-nasiri-the-only-missing-child-from-the-school-bombed-in-irans-minab?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 7914,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Infiltration from Within: Israelis recruited to spy for enemy countries",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/4/23/infiltration-from-within-israelis-recruited-to-spy-for-enemy-countries?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 3937,
     "level": "critical",
     "country": "🌍",
     "text": "The economic winners & losers in the US-Israel war on Iran",
@@ -18,52 +45,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3285,
-    "level": "critical",
-    "country": "🌍",
-    "text": "ICC confirms crimes against humanity trial of ex-Philippine leader Duterte",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/icc-confirms-crimes-against-humanity-trial-of-ex-philippine-leader-duterte?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 8303,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Indian physicists voice solidarity with Iran, Palestine, Lebanon academics",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/indian-physicists-voice-solidarity-with-iran-palestine-lebanon-academics?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 5998,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How Iran raised Hormuz stakes by capturing ships",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 6542,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli strike near mosque kills five in Gaza, including three children",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-strike-near-mosque-kills-five-in-gaza-including-three-children?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 1949,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war: How big is the global energy shock?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/23/iran-war-how-big-is-the-global-energy-shock?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 2748,
+    "id": 9658,
     "level": "critical",
     "country": "🌍",
     "text": "À Montauban, hommage national à Florian Montorio, Casque bleu français tué au Li",
@@ -72,7 +54,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7534,
+    "id": 493,
     "level": "critical",
     "country": "🌍",
     "text": "La journaliste libanaise Amal Khalil tuée par une frappe israélienne dans le sud",
@@ -81,16 +63,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1458,
-    "level": "critical",
+    "id": 8687,
+    "level": "high",
     "country": "🌍",
-    "text": "Salvador : le procès géant de la MS-13, symbole de la guerre sans limite de Buke",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260423-salvador-proc%C3%A8s-g%C3%A9ant-ms-13-symbole-guerre-sans-limite-bukele-gangs-narcotrafic-pr%C3%A9sident",
+    "text": "MSF Iran: Despite ceasefire, access to essential medical care remains fragile",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/iran-islamic-republic/msf-iran-despite-ceasefire-access-essential-medical-care-remains-fragile",
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2000,
+    "id": 8940,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +81,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 933,
+    "id": 1569,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +90,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8149,
+    "id": 8834,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +99,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4763,
+    "id": 427,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +108,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8366,
+    "id": 5362,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +117,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 9950,
+    "id": 1835,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +126,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8897,
+    "id": 8845,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -153,7 +135,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 6626,
+    "id": 6913,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -162,7 +144,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 8691,
+    "id": 5178,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -171,12 +153,30 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 8781,
+    "id": 5093,
     "level": "medium",
     "country": "🌍",
     "text": "African creators struggle to secure decent income in gig economy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/23/african-creators-struggle-to-secure-decent-income-in-gig-economy/",
     "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 7507,
+    "level": "medium",
+    "country": "🌍",
+    "text": "For AI to work for us, it will have to stop pretending to be us",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/22/for-ai-to-work-for-us-it-will-have-to-stop-pretending-to-be-us/",
+    "time": "Wed, 22 Apr 2026"
+  },
+  {
+    "id": 6132,
+    "level": "medium",
+    "country": "🌍",
+    "text": "This Earth Day, meet some of the Caribbean’s national birds",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/22/this-earth-day-meet-some-of-the-caribbeans-national-birds/",
+    "time": "Wed, 22 Apr 2026"
   }
 ]
