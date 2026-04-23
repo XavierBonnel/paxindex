@@ -1,10 +1,44 @@
 [
   {
-    "id": "Q21190910",
-    "name": "génocide des Yézidis",
+    "id": "Q760025",
+    "name": "Rebellion in Klaksvík",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q553184",
+    "name": "conflits entre Gaza et Israël",
     "countries": [
       "🏳️",
-      "🇸🇾"
+      "🇮🇱",
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "1948-05-15",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q181146",
+    "name": "soulèvement du Dos de Mayo",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q2555496",
+    "name": "Skirmish of the Berlin Schloss",
+    "countries": [
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -45,17 +79,6 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q695673",
-    "name": "bataille du cap Finisterre",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q482970",
     "name": "bataille de Sacheon",
     "countries": [
@@ -78,8 +101,19 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q101109468",
-    "name": "Matsés massacre",
+    "id": "Q4376474",
+    "name": "Waal Crossing",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q760021",
+    "name": "soulèvement de Dazexiang",
     "countries": [
       "🏳️"
     ],
@@ -100,17 +134,6 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q123998092",
-    "name": "Massacre of Arabs during the Zanzibar Revolution",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q160011",
     "name": "bataille des Falklands",
     "countries": [
@@ -122,8 +145,41 @@
     "region": "Inconnu"
   },
   {
+    "id": "Q2639189",
+    "name": "Bain de sang de Zutphen",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
     "id": "Q624181",
     "name": "première rébellion princière",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q16335075",
+    "name": "guerre du Donbass",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "2014-04-06",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q4262005",
+    "name": "Bukit Kepong Incident",
     "countries": [
       "🏳️"
     ],
@@ -155,64 +211,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q608021",
-    "name": "bataille de Naupacte",
+    "id": "Q11457475",
+    "name": "Kanjoko Incident",
     "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q108733451",
-    "name": "Native American genocide in the United States",
-    "countries": [
-      "🇺🇸"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1610-01-01",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q524871",
-    "name": "bataille de Cyzique",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q484256",
-    "name": "bataille d'Okpo",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q484271",
-    "name": "bataille de No Ryang",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q496032",
-    "name": "infiltration de Gangneung",
-    "countries": [
+      "🏳️",
       "🏳️"
     ],
     "type": "guerre",

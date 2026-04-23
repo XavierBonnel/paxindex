@@ -1,6 +1,6 @@
 [
   {
-    "id": 2070,
+    "id": 8512,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9402,
+    "id": 8647,
     "level": "critical",
     "country": "🌍",
     "text": "Democrats up in Virginia, but US voters may pay price for redistricting war",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9458,
+    "id": 356,
     "level": "critical",
     "country": "🌍",
     "text": "Protesters stabbed at London rally against war on Iran",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 138,
+    "id": 1414,
     "level": "critical",
     "country": "🌍",
     "text": "Israel kills journalist and wounds another in south Lebanon targeted attack",
@@ -36,7 +36,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4348,
+    "id": 9115,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
@@ -45,7 +45,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1901,
+    "id": 2038,
     "level": "critical",
     "country": "🌍",
     "text": "Top ministers quit after Peru’s president postpones F-16 fighter jet deal",
@@ -54,7 +54,7 @@
     "time": "Wed, 22 Apr 2026"
   },
   {
-    "id": 2719,
+    "id": 8479,
     "level": "critical",
     "country": "🌍",
     "text": "Rachat de Warner Bros. par Paramount : vers un mariage de titans",
@@ -63,7 +63,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1860,
+    "id": 7351,
     "level": "critical",
     "country": "🌍",
     "text": "Le secrétaire ​américain à la Marine limogé en plein conflit avec l'Iran",
@@ -72,7 +72,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9222,
+    "id": 8716,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : Jean-Noël Barrot dénonce un \"crime de guerre\" après la mort des Casq",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260423-en-direct-moyen-orient-liban-pourparlers-israel-treve-etats-unis-iran-trump-ormuz",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 8358,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -81,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4616,
+    "id": 3783,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -90,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7116,
+    "id": 175,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -99,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4331,
+    "id": 2587,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -108,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8167,
+    "id": 5658,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -117,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 189,
+    "id": 7985,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -126,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1731,
+    "id": 5142,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -135,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 2757,
+    "id": 2854,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -144,7 +153,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 9494,
+    "id": 6002,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -153,7 +162,7 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 5392,
+    "id": 4935,
     "level": "medium",
     "country": "🌍",
     "text": "African creators struggle to secure decent income in gig economy",
@@ -162,21 +171,12 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3613,
+    "id": 6518,
     "level": "medium",
     "country": "🌍",
     "text": "For AI to work for us, it will have to stop pretending to be us",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/22/for-ai-to-work-for-us-it-will-have-to-stop-pretending-to-be-us/",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 1292,
-    "level": "medium",
-    "country": "🌍",
-    "text": "This Earth Day, meet some of the Caribbean’s national birds",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/22/this-earth-day-meet-some-of-the-caribbeans-national-birds/",
     "time": "Wed, 22 Apr 2026"
   }
 ]
