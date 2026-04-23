@@ -1,6 +1,6 @@
 [
   {
-    "id": 6565,
+    "id": 5702,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6715,
+    "id": 56,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9128,
+    "id": 295,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -27,7 +27,25 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1988,
+    "id": 5805,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Milei administration in Argentina blocks journalist access to Casa Rosada",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 933,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Funeral held for journalist killed in targeted Israeli strike",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/funeral-held-for-journalist-killed-in-targeted-israeli-strike?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 8469,
     "level": "critical",
     "country": "🌍",
     "text": "War-driven demand boosts profits for weapons and aircraft manufacturers",
@@ -36,7 +54,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1824,
+    "id": 1782,
     "level": "critical",
     "country": "🌍",
     "text": "Will complex EU loan deal intensify conflict?",
@@ -45,16 +63,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3587,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How Trump’s Iran war is driving military dissent",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/4/23/how-trumps-iran-war-is-driving-military-dissent?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 3712,
+    "id": 2169,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen Orient : La fin du \"quoiqu'il en coûte\" ?",
@@ -63,7 +72,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1839,
+    "id": 9372,
     "level": "critical",
     "country": "🌍",
     "text": "Israël à l'Eurovision : Macklemore, Massive Attack et un millier d'artistes appe",
@@ -72,7 +81,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5931,
+    "id": 9625,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza : des familles pleurent leurs proches tués dans une frappe nocturne",
@@ -81,7 +90,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5166,
+    "id": 5384,
     "level": "critical",
     "country": "🌍",
     "text": "Amal Khalil tuée dans une frappe israélienne dans le sud du Liban",
@@ -90,7 +99,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3060,
+    "id": 6273,
+    "level": "high",
+    "country": "🌍",
+    "text": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 7477,
     "level": "high",
     "country": "🌍",
     "text": "US sanctions Cambodian senator over purported scam network links",
@@ -99,7 +117,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 6627,
+    "id": 6215,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5037,
+    "id": 8229,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9896,
+    "id": 1226,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1123,
+    "id": 477,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8714,
+    "id": 6486,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5860,
+    "id": 9317,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,30 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8850,
+    "id": 6687,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 4256,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-08T12:40"
-  },
-  {
-    "id": 2520,
-    "level": "medium",
-    "country": "🌍",
-    "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2025-11-07T11:00"
   }
 ]
