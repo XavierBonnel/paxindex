@@ -1,6 +1,6 @@
 [
   {
-    "id": 8512,
+    "id": 3890,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,25 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8647,
+    "id": 4746,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike kills five in Gaza, including three children",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/23/israeli-strike-kills-five-in-gaza-including-three-children?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 1154,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 2297,
     "level": "critical",
     "country": "🌍",
     "text": "Democrats up in Virginia, but US voters may pay price for redistricting war",
@@ -18,7 +36,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 356,
+    "id": 5074,
     "level": "critical",
     "country": "🌍",
     "text": "Protesters stabbed at London rally against war on Iran",
@@ -27,7 +45,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1414,
+    "id": 667,
     "level": "critical",
     "country": "🌍",
     "text": "Israel kills journalist and wounds another in south Lebanon targeted attack",
@@ -36,25 +54,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9115,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/23/iran-war-live-israel-kills-lebanese-journalist-tehran-us-talks-stalled?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 2038,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Top ministers quit after Peru’s president postpones F-16 fighter jet deal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal?traffic_source=rss",
-    "time": "Wed, 22 Apr 2026"
-  },
-  {
-    "id": 8479,
+    "id": 3162,
     "level": "critical",
     "country": "🌍",
     "text": "Rachat de Warner Bros. par Paramount : vers un mariage de titans",
@@ -63,7 +63,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7351,
+    "id": 5077,
     "level": "critical",
     "country": "🌍",
     "text": "Le secrétaire ​américain à la Marine limogé en plein conflit avec l'Iran",
@@ -72,7 +72,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 8716,
+    "id": 5232,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : Jean-Noël Barrot dénonce un \"crime de guerre\" après la mort des Casq",
@@ -81,7 +81,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 8358,
+    "id": 9874,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3783,
+    "id": 32,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 175,
+    "id": 202,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2587,
+    "id": 3031,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5658,
+    "id": 1327,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7985,
+    "id": 4851,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5142,
+    "id": 4990,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 2854,
+    "id": 9049,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -153,7 +153,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 6002,
+    "id": 2753,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -162,7 +162,7 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 4935,
+    "id": 1193,
     "level": "medium",
     "country": "🌍",
     "text": "African creators struggle to secure decent income in gig economy",
@@ -171,7 +171,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 6518,
+    "id": 8867,
     "level": "medium",
     "country": "🌍",
     "text": "For AI to work for us, it will have to stop pretending to be us",
