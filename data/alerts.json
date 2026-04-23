@@ -1,6 +1,6 @@
 [
   {
-    "id": 869,
+    "id": 358,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,52 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6015,
+    "id": 6801,
+    "level": "critical",
+    "country": "🌍",
+    "text": "oPt: Child and man killed near school in Al Mughayyir as settler militarisation ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/occupied-palestinian-territory/child-and-man-killed-near-school-al-mughayyir-settler-militarisation-intensifies",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 6675,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran: World Health Organization - Middle East Escalation of Conflict, Global Sit",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/iran-islamic-republic/world-health-organization-middle-east-escalation-conflict-global-situation-report-5-23-april-2026",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 3837,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US-Israeli war on Iran will push 30 million back into poverty, UN warns",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 6854,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Journalist recalls Israeli strike killing Amal Khalil in southern Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/journalist-recalls-israeli-strike-killing-amal-khalil-in-southern-lebanon?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 7083,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Warner Bros shareholders approve Paramount’s takeover",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/4/23/warner-bros-shareholders-approve-paramounts-takeover?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 5767,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon Latest: Israel attacks kill journalist and target first responders",
@@ -18,7 +63,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5520,
+    "id": 5433,
     "level": "critical",
     "country": "🌍",
     "text": "How Iran war has triggered soaring cost of medicines",
@@ -27,7 +72,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9854,
+    "id": 3331,
     "level": "critical",
     "country": "🌍",
     "text": "How Lebanese journalist Amal Khalil was pursued and killed by Israel",
@@ -36,43 +81,61 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1896,
+    "id": 458,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/4/23/solutions-not-slogans-gaza-holds-first-election-in-21-years?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 2954,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Makan Nasiri, the only child still missing from the school bombed in Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/makan-nasiri-the-only-missing-child-from-the-school-bombed-in-irans-minab?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 6839,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : un quartier résidentiel visé à Dnipro",
+    "text": "Israël à l'Eurovision : Macklemore, Massive Attack et un millier d'artistes appe",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260423-ukraine-un-quartier-r%C3%A9sidentiel-vis%C3%A9-%C3%A0-dnipro",
+    "link": "https://www.france24.com/fr/europe/20260423-eurovision-macklemore-massive-attack-un-millier-artistes-appellent-au-boycott-concours-chanson-raison-participation-israel",
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7599,
+    "id": 7154,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaza : des familles pleurent leurs proches tués dans une frappe nocturne",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260423-gaza-des-familles-pleurent-leurs-proches-tu%C3%A9s-dans-une-frappe-nocturne",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 6899,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amal Khalil tuée dans une frappe israélienne dans le sud du Liban",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260423-amal-khalil-tu%C3%A9e-dans-une-frappe-isra%C3%A9lienne-dans-le-sud-du-liban",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 2481,
+    "level": "critical",
+    "country": "🌍",
+    "text": "États-Unis : le secrétaire à la Marine limogé en plein conflit avec l'Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260423-%C3%A9tats-unis-le-secr%C3%A9taire-%C3%A0-la-marine-limog%C3%A9-en-plein-conflit-avec-l-iran",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 8148,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Crise alimentaire : pourquoi le plan de l'ONU pour un corridor à Ormuz piétine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260423-crise-alimentaire-pourquoi-le-plan-de-l-onu-pour-un-corridor-%C3%A0-ormuz-pi%C3%A9tine-s%C3%A9curit%C3%A9-engrais-iran",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 9782,
     "level": "critical",
     "country": "🌍",
     "text": "À Montauban, hommage national à Florian Montorio, Casque bleu français tué au Li",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260423-%C3%A0-montauban-hommage-national-%C3%A0-florian-montorio-casque-bleu-fran%C3%A7ais-tu%C3%A9-au-liban",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260423-%C3%A0-montauban-hommage-national-%C3%A0-florian-montorio-casque-bleu-fran%C3%A7ais-tu%C3%A9-au-liban",
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4788,
+    "id": 1795,
     "level": "high",
     "country": "🌍",
     "text": "US military board, seize another ship in international waters",
@@ -81,7 +144,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7278,
+    "id": 5526,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9703,
+    "id": 2887,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1283,
+    "id": 8895,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,75 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9901,
+    "id": 9269,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 5422,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 9430,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 7324,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 6709,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-08T12:40"
-  },
-  {
-    "id": 469,
-    "level": "medium",
-    "country": "🌍",
-    "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2025-11-07T11:00"
-  },
-  {
-    "id": 7235,
-    "level": "medium",
-    "country": "🌍",
-    "text": "African creators struggle to secure decent income in gig economy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/23/african-creators-struggle-to-secure-decent-income-in-gig-economy/",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 7687,
-    "level": "medium",
-    "country": "🌍",
-    "text": "For AI to work for us, it will have to stop pretending to be us",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/22/for-ai-to-work-for-us-it-will-have-to-stop-pretending-to-be-us/",
-    "time": "Wed, 22 Apr 2026"
   }
 ]
