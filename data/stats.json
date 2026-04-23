@@ -1,7 +1,6 @@
 {
-  "totalCountries": 30,
-  "peacefulCount": 7,
-  "activeConflicts": 139,
-  "tradeAgreements": 1054,
-  "generatedAt": "2026-04-23T13:41:09.576393"
+  "totalCountries": 193,
+  "peacefulCount": 55,
+  "activeConflicts": 382,
+  "tradeAgreements": 7433
 }
