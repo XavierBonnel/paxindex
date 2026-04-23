@@ -1,9 +1,9 @@
 [
   {
-    "id": "Q423522",
-    "name": "bataille de Colberger Heide",
+    "id": "Q648223",
+    "name": "bataille de Cape Kaliakra",
     "countries": [
-      "🇩🇰"
+      "🇧🇬"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -11,10 +11,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1461147",
-    "name": "rébellion irlandaise de 1641",
+    "id": "Q548819",
+    "name": "bataille des îles Komandorski",
     "countries": [
-      "🇮🇪"
+      "🇷🇺"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -22,8 +22,30 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q242099",
-    "name": "incident de Mukden",
+    "id": "Q175767",
+    "name": "Johnson South Reef skirmish",
+    "countries": [
+      "🇻🇳"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q389257",
+    "name": "bataille des Arginuses",
+    "countries": [
+      "🇹🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q165425",
+    "name": "bataille de Lépante",
     "countries": [
       "🏳️"
     ],
@@ -33,10 +55,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4177871",
-    "name": "Silda camp attack",
+    "id": "Q494058",
+    "name": "incident de Baengnyeong",
     "countries": [
-      "🇮🇳"
+      "🇰🇷"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -44,8 +66,63 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q760025",
-    "name": "Rebellion in Klaksvík",
+    "id": "Q499768",
+    "name": "bataille de l'Helgeå",
+    "countries": [
+      "🇸🇪"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q656061",
+    "name": "combat de los Pozos",
+    "countries": [
+      "🇧🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q667179",
+    "name": "bataille de Gibraltar",
+    "countries": [
+      "🇪🇸"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q581542",
+    "name": "bataille de Ponza",
+    "countries": [
+      "🇮🇹"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q653707",
+    "name": "bataille de Fimreite",
+    "countries": [
+      "🇳🇴"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q624525",
+    "name": "bataille de Busan",
     "countries": [
       "🏳️"
     ],
@@ -55,23 +132,33 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q553184",
-    "name": "conflits entre Gaza et Israël",
+    "id": "Q311759",
+    "name": "bataille navale de Vigo",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q238440",
+    "name": "bataille de Navarin",
+    "countries": [
+      "🇬🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q315310",
+    "name": "bataille de la Ristigouche",
     "countries": [
       "🏳️",
-      "🇮🇱",
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1948-05-15",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q181146",
-    "name": "soulèvement du Dos de Mayo",
-    "countries": [
-      "🏳️"
+      "🇨🇦"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -79,8 +166,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q2555496",
-    "name": "Skirmish of the Berlin Schloss",
+    "id": "Q373401",
+    "name": "bataille du cap Saint-Vincent",
     "countries": [
       "🏳️"
     ],
@@ -90,10 +177,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q464226",
-    "name": "bataille de Lagos",
+    "id": "Q472672",
+    "name": "bataille navale d'Iquique",
     "countries": [
-      "🇵🇹"
+      "🇵🇪"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -101,10 +188,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q178912",
-    "name": "première bataille du cap Saint-Vincent",
+    "id": "Q421399",
+    "name": "Battle of Delaware Bay",
     "countries": [
-      "🏳️"
+      "🇺🇸"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -112,10 +199,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q162665",
-    "name": "sédition Nika",
+    "id": "Q487565",
+    "name": "Seconde bataille de Yeonpyeong",
     "countries": [
-      "🏳️"
+      "🇰🇷"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -123,102 +210,14 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q482970",
-    "name": "bataille de Sacheon",
+    "id": "Q113317",
+    "name": "bataille de Lilybée",
     "countries": [
-      "🏳️"
+      "🇮🇹"
     ],
     "type": "guerre",
     "intensity": 70,
     "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q483088",
-    "name": "bataille de Chilchonryang",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q4376474",
-    "name": "Waal Crossing",
-    "countries": [
-      "🇳🇱"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q760021",
-    "name": "soulèvement de Dazexiang",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q432515",
-    "name": "bataille d'Algésiras",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1335265",
-    "name": "Emden Revolution",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q986738",
-    "name": "Portuguese Restoration of Independence",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q160011",
-    "name": "bataille des Falklands",
-    "countries": [
-      "🇦🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q831132",
-    "name": "Six Towns rebellion",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "0524-01-01",
     "region": "Inconnu"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": 3015,
+    "id": 869,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,16 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3691,
+    "id": 6015,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran: World Health Organization - Middle East Escalation of Conflict, Global Sit",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/iran-islamic-republic/world-health-organization-middle-east-escalation-conflict-global-situation-report-5-23-april-2026",
+    "text": "Lebanon Latest: Israel attacks kill journalist and target first responders",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/aje-onl-aje_onl_lebanon_wrap-230426?traffic_source=rss",
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5526,
+    "id": 5520,
     "level": "critical",
     "country": "🌍",
     "text": "How Iran war has triggered soaring cost of medicines",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4738,
+    "id": 9854,
     "level": "critical",
     "country": "🌍",
     "text": "How Lebanese journalist Amal Khalil was pursued and killed by Israel",
@@ -36,7 +36,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2218,
+    "id": 1896,
     "level": "critical",
     "country": "🌍",
     "text": "‘Solutions, not slogans’: Gaza holds first election in 21 years",
@@ -45,7 +45,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 6267,
+    "id": 2954,
     "level": "critical",
     "country": "🌍",
     "text": "Makan Nasiri, the only child still missing from the school bombed in Iran",
@@ -54,16 +54,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9947,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Infiltration from Within: Israelis recruited to spy for enemy countries",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/4/23/infiltration-from-within-israelis-recruited-to-spy-for-enemy-countries?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 1586,
+    "id": 6839,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : un quartier résidentiel visé à Dnipro",
@@ -72,7 +63,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1668,
+    "id": 7599,
     "level": "critical",
     "country": "🌍",
     "text": "À Montauban, hommage national à Florian Montorio, Casque bleu français tué au Li",
@@ -81,7 +72,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9129,
+    "id": 4788,
+    "level": "high",
+    "country": "🌍",
+    "text": "US military board, seize another ship in international waters",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/23/us-military-board-seize-another-ship-in-international-waters?traffic_source=rss",
+    "time": "Thu, 23 Apr 2026"
+  },
+  {
+    "id": 7278,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8152,
+    "id": 9703,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5752,
+    "id": 1283,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1684,
+    "id": 9901,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9695,
+    "id": 5422,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4315,
+    "id": 9430,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5641,
+    "id": 7324,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 8662,
+    "id": 6709,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -153,7 +153,7 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 6159,
+    "id": 469,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
@@ -162,7 +162,7 @@
     "time": "2025-11-07T11:00"
   },
   {
-    "id": 9526,
+    "id": 7235,
     "level": "medium",
     "country": "🌍",
     "text": "African creators struggle to secure decent income in gig economy",
@@ -171,7 +171,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7594,
+    "id": 7687,
     "level": "medium",
     "country": "🌍",
     "text": "For AI to work for us, it will have to stop pretending to be us",
