@@ -1,38 +1,5 @@
 [
   {
-    "id": "Q528018",
-    "name": "bataille de Campêche",
-    "countries": [
-      "🇲🇽"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q6970299",
-    "name": "Massacre de Sărmașu",
-    "countries": [
-      "🇷🇴"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q939845",
-    "name": "bataille d'Agosta",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q553184",
     "name": "conflits entre Gaza et Israël",
     "countries": [
@@ -68,10 +35,11 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1028247",
-    "name": "bataille de Groix",
+    "id": "Q5613615",
+    "name": "Guanganmen Incident",
     "countries": [
-      "🇫🇷"
+      "🏳️",
+      "🇹🇼"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -101,17 +69,6 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q16541034",
-    "name": "Combat de Tezerzaït",
-    "countries": [
-      "🇳🇪"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q242099",
     "name": "incident de Mukden",
     "countries": [
@@ -134,8 +91,41 @@
     "region": "Inconnu"
   },
   {
+    "id": "Q760025",
+    "name": "Rebellion in Klaksvík",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q6011683",
+    "name": "Aba wrestling",
+    "countries": [
+      "🇹🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
     "id": "Q181146",
     "name": "soulèvement du Dos de Mayo",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q3567911",
+    "name": "génocide grec pontique",
     "countries": [
       "🏳️"
     ],
@@ -189,17 +179,6 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q695673",
-    "name": "bataille du cap Finisterre",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q482970",
     "name": "bataille de Sacheon",
     "countries": [
@@ -215,6 +194,28 @@
     "name": "bataille de Chilchonryang",
     "countries": [
       "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q5242669",
+    "name": "Dawson Massacre",
+    "countries": [
+      "🇺🇸"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q4376474",
+    "name": "Waal Crossing",
+    "countries": [
+      "🇳🇱"
     ],
     "type": "guerre",
     "intensity": 70,
