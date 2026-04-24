@@ -1,6 +1,6 @@
 [
   {
-    "id": 418,
+    "id": 9513,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 188,
+    "id": 1169,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7953,
+    "id": 5578,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -27,7 +27,34 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5029,
+    "id": 286,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 8215,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What’s been happening during the Lebanon ceasefire?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 9446,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Syria arrests main suspect in civil war Tadamon massacre",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/syria-arrests-main-suspect-in-civil-war-tadamon-massacre?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 3111,
     "level": "critical",
     "country": "🌍",
     "text": "Russian troops, warships in India soon? Why their new military pact matters",
@@ -36,34 +63,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 3420,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 3138,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US considers suspending Spain from NATO, reported internal email suggests",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 1398,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Environmental crisis in Russian city after drone attack on refinery",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 6055,
+    "id": 3716,
     "level": "critical",
     "country": "🌍",
     "text": "Militants de la Gen Z à Madagascar, guerre au Soudan, mafia du foot au Sénégal :",
@@ -72,7 +72,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 248,
+    "id": 9872,
     "level": "critical",
     "country": "🌍",
     "text": "Warner Bros : les actionnaires valident son rachat par Paramount à 110 milliards",
@@ -81,7 +81,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 2468,
+    "id": 3285,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : des Colombiens sur le front",
@@ -90,16 +90,16 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 6505,
+    "id": 3550,
     "level": "high",
     "country": "🌍",
-    "text": "Explosions by Israeli forces in south Lebanon despite ceasefire",
+    "text": "Pro-Palestinian activists break into suspected Elbit Systems drone factory",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pro-palestinian-activists-break-into-suspected-elbit-systems-drone-factory?traffic_source=rss",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 4470,
+    "id": 5378,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : l'Union européenne valide un prêt de 90 milliards d'euros",
@@ -108,7 +108,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 5334,
+    "id": 1434,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6421,
+    "id": 3251,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1243,
+    "id": 3656,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1294,
+    "id": 6946,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3485,
+    "id": 9550,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 2538,
+    "id": 6383,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 337,
+    "id": 942,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -171,7 +171,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 8016,
+    "id": 525,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
