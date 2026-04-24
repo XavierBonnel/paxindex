@@ -261,6 +261,7 @@ function getMock(endpoint) {
     const code = endpoint.split('/')[2];
     return COUNTRIES.find(c => c.code === code) || null;
   }
+  const CONFLICTS = [];
   const map = {
     '/countries':  COUNTRIES,
     '/conflicts':  CONFLICTS,

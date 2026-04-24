@@ -323,7 +323,13 @@
     const flags = myConflicts.map(cf => {
       const since = cf.since ? new Date(cf.since).getFullYear() : '?';
       const intensityColor = cf.intensity >= 80 ? 'var(--red)' : cf.intensity >= 50 ? 'var(--gold)' : 'var(--muted)';
-      const flagStr = (cf.country_flags || cf.countries.map(c => c.type === 'country' ? c.value : (c.value === 'EU' ? '🇪🇺' : c.value === 'NATO' ? '🛡️' : '🌏'))).join('');
+      const flagStr = (cf.country_flags || cf.countries.map(c => {
+        if (c.type === 'country') {
+          const found = COUNTRIES.find(ct => ct.code === c.value);
+          return found ? found.flag : c.value;
+        }
+        return c.value === 'EU' ? '🇪🇺' : c.value === 'NATO' ? '🛡️' : '🌏';
+      })).join('');
       return `<div class="conflict-item">
         <div class="conflict-flags">${flagStr}</div>
         <div class="conflict-name">${cf.name}</div>
@@ -342,7 +348,13 @@
   if (myTrade.length > 0) {
     const trdItems = myTrade.map(t => {
       const typeIcon = t.type === 'sanction' ? '🚫' : t.type === 'bilateral' ? '🤝' : '🌐';
-      const flagStr = (t.country_flags || t.countries.map(c => c.type === 'country' ? c.value : (c.value === 'EU' ? '🇪🇺' : c.value === 'NATO' ? '🛡️' : '🌏'))).join('');
+      const flagStr = (t.country_flags || t.countries.map(c => {
+        if (c.type === 'country') {
+          const found = COUNTRIES.find(ct => ct.code === c.value);
+          return found ? found.flag : c.value;
+        }
+        return c.value === 'EU' ? '🇪🇺' : c.value === 'NATO' ? '🛡️' : '🌏';
+      })).join('');
       return `<div class="conflict-item">
         <div class="conflict-flags">${typeIcon}</div>
         <div class="conflict-name">${t.name}</div>
