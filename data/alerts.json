@@ -1,6 +1,6 @@
 [
   {
-    "id": 7203,
+    "id": 6886,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2927,
+    "id": 8998,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1476,
+    "id": 2012,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9578,
+    "id": 9257,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7983,
+    "id": 8151,
     "level": "critical",
     "country": "🌍",
     "text": "World: Acute food insecurity and malnutrition remain alarmingly high as crises d",
@@ -45,70 +45,34 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 1051,
+    "id": 7212,
     "level": "critical",
     "country": "🌍",
-    "text": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
+    "text": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 4732,
+    "id": 7462,
     "level": "critical",
     "country": "🌍",
-    "text": "What’s been happening during the Lebanon ceasefire?",
+    "text": "Iranians bring music to sites devastated by US-Israeli attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/iranians-bring-music-to-sites-devastated-by-us-israeli-attacks?traffic_source=rss",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 7276,
+    "id": 369,
     "level": "critical",
     "country": "🌍",
-    "text": "Syria arrests main suspect in civil war Tadamon massacre",
+    "text": "UK to end project tracking potential Israeli violations: Report",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/syria-arrests-main-suspect-in-civil-war-tadamon-massacre?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/4/24/uk-to-end-project-tracking-potential-israeli-violations-report?traffic_source=rss",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 4862,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban : sixième Casque bleu tué depuis le début de la guerre, quel avenir pour l",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260424-liban-sixi%C3%A8me-casque-bleu-tu%C3%A9-depuis-le-d%C3%A9but-de-la-guerre-france-24-re%C3%A7oit-dany-ghafary-finul",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 6203,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Eurovision : plus d'un millier d'artistes appellent au boycott du concours",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260424-eurovision-plus-d-un-millier-d-artistes-appellent-au-boycott-du-concours",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 9499,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gaza : une nouvelle frappe israélienne tue cinq Palestiniens malgré le cessez-le",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260424-gaza-une-nouvelle-frappe-isra%C3%A9lienne-tue-cinq-palestiniens-malgr%C3%A9-le-cessez-le-feu",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 6765,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient : cessez-le-feu prolongé, l’Europe peut-elle négocier ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260424-guerre-au-moyen-orient-cessez-le-feu-prolong%C3%A9-l-europe-peut-elle-n%C3%A9gocier",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 3388,
+    "id": 6302,
     "level": "high",
     "country": "🌍",
     "text": "Pro-Palestinian activists break into suspected Elbit Systems drone factory",
@@ -117,7 +81,16 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9214,
+    "id": 8595,
+    "level": "high",
+    "country": "🌍",
+    "text": "États-Unis : risque de pénurie de missiles Tomahawk après leur usage massif au M",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260424-%C3%A9tats-unis-risque-de-p%C3%A9nurie-de-missiles-tomahawk-apr%C3%A8s-leur-usage-massif-au-moyen-orient",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 6368,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 171,
+    "id": 5754,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1774,
+    "id": 3112,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6602,
+    "id": 2965,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 4604,
+    "id": 2195,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3515,
+    "id": 7077,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,12 +144,39 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8289,
+    "id": 2866,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 1234,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-08T12:40"
+  },
+  {
+    "id": 9443,
+    "level": "medium",
+    "country": "🌍",
+    "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2025-11-07T11:00"
+  },
+  {
+    "id": 8198,
+    "level": "medium",
+    "country": "🌍",
+    "text": "African creators struggle to secure decent income in gig economy",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/23/african-creators-struggle-to-secure-decent-income-in-gig-economy/",
+    "time": "Thu, 23 Apr 2026"
   }
 ]
