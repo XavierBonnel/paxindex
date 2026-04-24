@@ -1,6 +1,6 @@
 [
   {
-    "id": 6321,
+    "id": 8636,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2779,
+    "id": 9912,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2391,
+    "id": 9187,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -27,7 +27,25 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4729,
+    "id": 9872,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UK rights groups slam ‘authoritarian’ conviction of pro-Palestine activists",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/24/uk-rights-groups-slam-conviction-of-pro-palestine-protest-organisers?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 1340,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 532,
     "level": "critical",
     "country": "🌍",
     "text": "Trump’s May 1 deadline: Can he continue war on Iran after that?",
@@ -36,7 +54,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 916,
+    "id": 7867,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
@@ -45,7 +63,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 8101,
+    "id": 1343,
     "level": "critical",
     "country": "🌍",
     "text": "How fake AI victims are being used to provide rationale for attacking Iran",
@@ -54,7 +72,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 1558,
+    "id": 8141,
     "level": "critical",
     "country": "🌍",
     "text": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
@@ -63,7 +81,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 3558,
+    "id": 7708,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
@@ -72,25 +90,16 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 3133,
+    "id": 2254,
     "level": "critical",
     "country": "🌍",
-    "text": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/4/23/us-soldier-charged-with-using-polymarket-to-bet-on-nicolas-maduro-abduction?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
+    "text": "L'actu en dessin : pendant ce temps-là, dans le détroit d'Ormuz…",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260424-actu-en-dessin-pendant-ce-temps-la-dans-detroit-ormuz-iran-donald-trump",
+    "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 6137,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Milei administration in Argentina blocks journalist access to Casa Rosada",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 4872,
+    "id": 1093,
     "level": "critical",
     "country": "🌍",
     "text": "Trump annonce une prolongation de la trêve au Liban, les négociations au point m",
@@ -99,7 +108,16 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9608,
+    "id": 6679,
+    "level": "high",
+    "country": "🌍",
+    "text": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/does-israels-yellow-line-violate-the-lebanon-ceasefire-2?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 4372,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6548,
+    "id": 3586,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9937,
+    "id": 217,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4775,
+    "id": 948,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 4229,
+    "id": 7364,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 9076,
+    "id": 4953,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,30 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 7287,
+    "id": 1895,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 6122,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-08T12:40"
-  },
-  {
-    "id": 4069,
-    "level": "medium",
-    "country": "🌍",
-    "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2025-11-07T11:00"
   }
 ]
