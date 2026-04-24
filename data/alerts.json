@@ -1,6 +1,6 @@
 [
   {
-    "id": 2365,
+    "id": 5217,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9384,
+    "id": 9343,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4530,
+    "id": 8092,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -27,7 +27,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2734,
+    "id": 1592,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Environmental crisis in Russian city after drone attack on refinery",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 3156,
     "level": "critical",
     "country": "🌍",
     "text": "Global hunger report warns of rising malnutrition and famine risks",
@@ -36,7 +45,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 1432,
+    "id": 648,
     "level": "critical",
     "country": "🌍",
     "text": "Why is there a political deadlock in Lebanon?",
@@ -45,7 +54,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 1910,
+    "id": 7602,
     "level": "critical",
     "country": "🌍",
     "text": "Baby twins attend their father’s funeral after Israeli settler attack",
@@ -54,7 +63,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 398,
+    "id": 5807,
     "level": "critical",
     "country": "🌍",
     "text": "UK rights groups slam ‘authoritarian’ conviction of pro-Palestine activists",
@@ -63,52 +72,43 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 3004,
+    "id": 2296,
     "level": "critical",
     "country": "🌍",
-    "text": "Dans l'est de l'Allemagne, trente ans après, le spectre des \"années battes de ba",
+    "text": "Militants de la Gen Z à Madagascar, guerre au Soudan, mafia du foot au Sénégal :",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20260424-dans-l-est-de-l-allemagne-trente-ans-apr%C3%A8s-le-spectre-des-ann%C3%A9es-battes-de-baseball",
+    "link": "https://www.france24.com/fr/afrique/20260424-militants-gen-z-madagascar-guerre-au-soudan-mafia-du-foot-au-senegal-hebdo-afrique",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 3005,
+    "id": 56,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre au Soudan : les civils soudanais affluent à Koufra, en Libye",
+    "text": "Warner Bros : les actionnaires valident son rachat par Paramount à 110 milliards",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260424-guerre-au-soudan-les-civils-soudanais-affluent-%C3%A0-koufra-en-libye",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260424-warner-bros-les-actionnaires-valident-son-rachat-par-paramount-%C3%A0-110-milliards-de-dollars",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 902,
+    "id": 2827,
     "level": "critical",
     "country": "🌍",
-    "text": "L'actu en dessin : pendant ce temps-là, dans le détroit d'Ormuz…",
+    "text": "Guerre en Ukraine : des Colombiens sur le front",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260424-actu-en-dessin-pendant-ce-temps-la-dans-detroit-ormuz-iran-donald-trump",
+    "link": "https://www.france24.com/fr/%C3%A9missions/reporters/20260424-guerre-en-ukraine-des-colombiens-au-front",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9041,
-    "level": "critical",
+    "id": 7810,
+    "level": "high",
     "country": "🌍",
-    "text": "Trump annonce une prolongation de la trêve au Liban, les négociations au point m",
+    "text": "Ukraine : l'Union européenne valide un prêt de 90 milliards d'euros",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260424-trump-annonce-prolongation-tr%C3%AAve-liban-n%C3%A9gociations-point-mort-avec-iran-guerre-moyen-orient",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260424-ukraine-l-union-europ%C3%A9enne-valide-un-pr%C3%AAt-de-90-milliards-d-euros",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 4567,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : à Chypre, l'UE se dit prête à \"s'engager davantage\" pour la paix au ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260424-en-direct-liban-cessez-le-feu-iran-petrole-donald-trump-israel-ormuz",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 8923,
+    "id": 9504,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6290,
+    "id": 6338,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1438,
+    "id": 7594,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9232,
+    "id": 7885,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8646,
+    "id": 5118,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7706,
+    "id": 3867,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8041,
+    "id": 3762,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -171,7 +171,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 7058,
+    "id": 2094,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
