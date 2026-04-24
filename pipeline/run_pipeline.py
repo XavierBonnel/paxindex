@@ -76,7 +76,7 @@ def run(args):
             print(f"   • {err}")
 
     print("📁 Fichiers mis à jour dans data/")
-    print("   countries.json · trade.json · alerts.json · stats.json\n")
+    print("   countries.json · alerts.json · stats.json\n")
 
 
 if __name__ == "__main__":
