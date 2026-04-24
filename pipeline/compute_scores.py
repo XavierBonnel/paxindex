@@ -3,10 +3,11 @@ compute_scores.py — Calcule le PaxScore™ pour chaque pays
 à partir des données brutes GDELT + Wikidata.
 
 Sortie : data/countries.json  (lu directement par l'app HTML via data.js)
-         data/conflicts.json
          data/trade.json
          data/alerts.json
          data/stats.json
+
+Note : data/conflicts.json est curé à la main et n'est pas régénéré ici.
 """
 
 import json
@@ -383,27 +384,6 @@ def build_countries(gdelt_data, wiki_data):
     return countries
 
 
-def build_conflicts(wiki_data):
-    if not wiki_data:
-        return []
-    conflicts = []
-    for c in wiki_data.get("conflicts", []):
-        flags = []
-        for cname in c.get("countries", [])[:3]:
-            match = next((b["flag"] for b in COUNTRIES_BASE.values() if b["name"] == cname), "🏳️")
-            flags.append(match)
-        conflicts.append({
-            "id":        c["id"],
-            "name":      c["name"],
-            "countries": flags,
-            "type":      "guerre",
-            "intensity": 70,
-            "since":     c.get("since") or "inconnue",
-            "region":    "Inconnu",
-        })
-    return conflicts[:20]
-
-
 def build_trade(wiki_data):
     if not wiki_data:
         return []
@@ -454,16 +434,13 @@ def run():
 
     print("[Score] Calcul des PaxScores...")
     countries = build_countries(gdelt, wiki)
-    conflicts = build_conflicts(wiki)
     trade     = build_trade(wiki)
     alerts    = build_alerts(rss)
     stats     = build_stats(countries)
 
-    # conflicts et trade sont des données curées : ne pas écraser si le pipeline
-    # renvoie un résultat vide (Wikidata indisponible)
+    # conflicts.json est une donnée curée à la main : jamais régénérée par le pipeline.
+    # trade.json reste régénéré mais préservé si Wikidata est indisponible.
     outputs = {"countries.json": countries, "stats.json": stats}
-    if conflicts:
-        outputs["conflicts.json"] = conflicts
     if trade:
         outputs["trade.json"] = trade
     if alerts:
