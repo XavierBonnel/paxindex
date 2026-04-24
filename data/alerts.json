@@ -1,6 +1,6 @@
 [
   {
-    "id": 5217,
+    "id": 813,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9343,
+    "id": 5048,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 8092,
+    "id": 8826,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -27,7 +27,25 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1592,
+    "id": 2008,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 2441,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US considers suspending Spain from NATO, reported internal email suggests",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 3602,
     "level": "critical",
     "country": "🌍",
     "text": "Environmental crisis in Russian city after drone attack on refinery",
@@ -36,7 +54,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 3156,
+    "id": 6467,
     "level": "critical",
     "country": "🌍",
     "text": "Global hunger report warns of rising malnutrition and famine risks",
@@ -45,7 +63,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 648,
+    "id": 6874,
     "level": "critical",
     "country": "🌍",
     "text": "Why is there a political deadlock in Lebanon?",
@@ -54,7 +72,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 7602,
+    "id": 8014,
     "level": "critical",
     "country": "🌍",
     "text": "Baby twins attend their father’s funeral after Israeli settler attack",
@@ -63,16 +81,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 5807,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UK rights groups slam ‘authoritarian’ conviction of pro-Palestine activists",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/24/uk-rights-groups-slam-conviction-of-pro-palestine-protest-organisers?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 2296,
+    "id": 6078,
     "level": "critical",
     "country": "🌍",
     "text": "Militants de la Gen Z à Madagascar, guerre au Soudan, mafia du foot au Sénégal :",
@@ -81,7 +90,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 56,
+    "id": 659,
     "level": "critical",
     "country": "🌍",
     "text": "Warner Bros : les actionnaires valident son rachat par Paramount à 110 milliards",
@@ -90,7 +99,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 2827,
+    "id": 5046,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : des Colombiens sur le front",
@@ -99,7 +108,16 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 7810,
+    "id": 5727,
+    "level": "high",
+    "country": "🌍",
+    "text": "Explosions by Israeli forces in south Lebanon despite ceasefire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/explosions-by-israeli-forces-in-south-lebanon-despite-ceasefire?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 4034,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : l'Union européenne valide un prêt de 90 milliards d'euros",
@@ -108,7 +126,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9504,
+    "id": 2037,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6338,
+    "id": 1452,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7594,
+    "id": 5126,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7885,
+    "id": 1076,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5118,
+    "id": 3713,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,30 +171,12 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3867,
+    "id": 6808,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 3762,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 2094,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-08T12:40"
   }
 ]
