@@ -1,6 +1,6 @@
 [
   {
-    "id": 4220,
+    "id": 3656,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6301,
+    "id": 7592,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9639,
+    "id": 8685,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -27,7 +27,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5416,
+    "id": 5254,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 140,
     "level": "critical",
     "country": "🌍",
     "text": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
@@ -36,7 +45,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1019,
+    "id": 3499,
     "level": "critical",
     "country": "🌍",
     "text": "Milei administration in Argentina blocks journalist access to Casa Rosada",
@@ -45,7 +54,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2583,
+    "id": 5296,
     "level": "critical",
     "country": "🌍",
     "text": "Funeral held for journalist killed in targeted Israeli strike",
@@ -54,7 +63,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9914,
+    "id": 7993,
     "level": "critical",
     "country": "🌍",
     "text": "War-driven demand boosts profits for weapons and aircraft manufacturers",
@@ -63,7 +72,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9513,
+    "id": 5195,
     "level": "critical",
     "country": "🌍",
     "text": "Will complex EU loan deal intensify conflict?",
@@ -72,16 +81,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2820,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen Orient : La fin du \"quoiqu'il en coûte\" ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/politique/20260423-guerre-au-moyen-orient-la-fin-du-quoiqu-il-en-co%C3%BBte",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 1321,
+    "id": 5960,
     "level": "high",
     "country": "🌍",
     "text": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
@@ -90,16 +90,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9315,
-    "level": "high",
-    "country": "🌍",
-    "text": "US sanctions Cambodian senator over purported scam network links",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/23/us-sanctions-cambodian-senator-over-purported-scam-network-links?traffic_source=rss",
-    "time": "Thu, 23 Apr 2026"
-  },
-  {
-    "id": 4352,
+    "id": 2428,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6464,
+    "id": 7970,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9253,
+    "id": 344,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7498,
+    "id": 5962,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3370,
+    "id": 6251,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3762,
+    "id": 7797,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 6312,
+    "id": 3478,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +153,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 1232,
+    "id": 1041,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -171,12 +162,21 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 6523,
+    "id": 7468,
     "level": "medium",
     "country": "🌍",
     "text": "One in Eight Adolescents and Young Adults Use AI Chatbots for Mental Health Advi",
     "source": "RAND Corporation",
     "link": "",
     "time": "2025-11-07T11:00"
+  },
+  {
+    "id": 5189,
+    "level": "medium",
+    "country": "🌍",
+    "text": "African creators struggle to secure decent income in gig economy",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/23/african-creators-struggle-to-secure-decent-income-in-gig-economy/",
+    "time": "Thu, 23 Apr 2026"
   }
 ]
