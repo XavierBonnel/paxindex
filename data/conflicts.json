@@ -1,7 +1,7 @@
 [
   {
-    "id": "Q242099",
-    "name": "incident de Mukden",
+    "id": "Q85125",
+    "name": "déportation des peuples en URSS",
     "countries": [
       "🏳️"
     ],
@@ -11,10 +11,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4177871",
-    "name": "Silda camp attack",
+    "id": "Q1136414",
+    "name": "bataille de La Havane",
     "countries": [
-      "🇮🇳"
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -22,34 +22,100 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q110900195",
-    "name": "tentative de coup d'État de 2022 en république démocratique du Congo",
+    "id": "Q4499410",
+    "name": "Shoah en Ukraine",
     "countries": [
-      "🇨🇩"
+      "🇺🇦"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "2022-02-08",
+    "since": "inconnue",
     "region": "Inconnu"
   },
   {
-    "id": "Q553184",
-    "name": "conflits entre Gaza et Israël",
+    "id": "Q10288745",
+    "name": "Filipino genocide",
+    "countries": [
+      "🇵🇭",
+      "🇺🇸"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q548819",
+    "name": "bataille des îles Komandorski",
+    "countries": [
+      "🇷🇺"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q175767",
+    "name": "Johnson South Reef skirmish",
+    "countries": [
+      "🇻🇳"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q389257",
+    "name": "bataille des Arginuses",
+    "countries": [
+      "🇹🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1297380",
+    "name": "Capitulation de Vlieter",
+    "countries": [
+      "🇳🇱"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q878528",
+    "name": "action de Mars",
+    "countries": [
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q14867680",
+    "name": "genocide of indigenous peoples in Brazil",
+    "countries": [
+      "🇧🇷"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q115760493",
+    "name": "Romani Holocaust in Lithuania",
     "countries": [
       "🏳️",
-      "🇮🇱",
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1948-05-15",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q109255170",
-    "name": "Embuscade de Dounkoun",
-    "countries": [
-      "🇧🇫"
+      "🇱🇹"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -57,8 +123,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q2555496",
-    "name": "Skirmish of the Berlin Schloss",
+    "id": "Q165425",
+    "name": "bataille de Lépante",
     "countries": [
       "🏳️"
     ],
@@ -68,41 +134,8 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q60740079",
-    "name": "Conflit corse",
-    "countries": [
-      "🇫🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q56650604",
-    "name": "Incident aérien du 17 septembre 2018 en Syrie",
-    "countries": [
-      "🇸🇾"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q109042021",
-    "name": "Prise de Saint-Laurent-la-Roche (1641)",
-    "countries": [
-      "🇫🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q61097833",
-    "name": "Q61097833",
+    "id": "Q494058",
+    "name": "incident de Baengnyeong",
     "countries": [
       "🇰🇷"
     ],
@@ -112,10 +145,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q111710700",
-    "name": "occupation russe de l'oblast de Zaporijjia",
+    "id": "Q1275200",
+    "name": "bataille de l'Öresund",
     "countries": [
-      "🇷🇺"
+      "🇩🇰"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -123,22 +156,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q106171654",
-    "name": "2021-2022 Apure clashes",
+    "id": "Q123984842",
+    "name": "Romani Holocaust in Croatia",
     "countries": [
-      "🇻🇪",
-      "🇨🇴"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "2021-03-21",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q5242669",
-    "name": "Dawson Massacre",
-    "countries": [
-      "🇺🇸"
+      "🇭🇷"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -146,10 +167,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q4376474",
-    "name": "Waal Crossing",
+    "id": "Q499768",
+    "name": "bataille de l'Helgeå",
     "countries": [
-      "🇳🇱"
+      "🇸🇪"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -157,10 +178,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q11508285",
-    "name": "Q11508285",
+    "id": "Q789209",
+    "name": "Soulèvement de Balassagyarmat",
     "countries": [
-      "🇯🇵"
+      "🇭🇺"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -168,32 +189,21 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q56312857",
-    "name": "Counter-terrorist operation regime",
+    "id": "Q107639738",
+    "name": "Baghanis Ayrim massacre",
     "countries": [
-      "🇷🇺"
+      "🇦🇿"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "2023-05-22",
+    "since": "1990-03-24",
     "region": "Inconnu"
   },
   {
-    "id": "Q106808203",
-    "name": "coup d'État du 17 juin 1980 au Bangladesh",
+    "id": "Q1136870",
+    "name": "bataille de Sandwich",
     "countries": [
-      "🇧🇩"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q2639189",
-    "name": "Bain de sang de Zutphen",
-    "countries": [
-      "🇳🇱"
+      "🏳️"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -201,25 +211,14 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q81704943",
-    "name": "2020 Camp Simba attack",
-    "countries": [
-      "🇸🇴"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q16335075",
-    "name": "guerre du Donbass",
+    "id": "Q111648183",
+    "name": "Allégations de génocide des Ukrainiens lors de l'invasion russe de l'Ukraine",
     "countries": [
       "🇺🇦"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "2014-04-06",
+    "since": "2022-01-01",
     "region": "Inconnu"
   }
 ]
