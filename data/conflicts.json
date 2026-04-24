@@ -11,14 +11,14 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q1136414",
-    "name": "bataille de La Havane",
+    "id": "Q116608868",
+    "name": "campagne du Dniepr, 2022–2023",
     "countries": [
-      "🏳️"
+      "🇺🇦"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "inconnue",
+    "since": "2022-09-01",
     "region": "Inconnu"
   },
   {
@@ -26,6 +26,17 @@
     "name": "Shoah en Ukraine",
     "countries": [
       "🇺🇦"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q15617805",
+    "name": "Armed clashes in La Modelo prison",
+    "countries": [
+      "🇨🇴"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -45,36 +56,14 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q548819",
-    "name": "bataille des îles Komandorski",
+    "id": "Q121160319",
+    "name": "Affrontements de 2023 en région Amhara",
     "countries": [
-      "🇷🇺"
+      "🇪🇹"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q175767",
-    "name": "Johnson South Reef skirmish",
-    "countries": [
-      "🇻🇳"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q389257",
-    "name": "bataille des Arginuses",
-    "countries": [
-      "🇹🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
+    "since": "2023-01-01",
     "region": "Inconnu"
   },
   {
@@ -111,6 +100,29 @@
     "region": "Inconnu"
   },
   {
+    "id": "Q51844684",
+    "name": "bombardements de Barzé et de Him Shinshar",
+    "countries": [
+      "🇸🇾"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q5613615",
+    "name": "Guanganmen Incident",
+    "countries": [
+      "🇹🇼",
+      "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
     "id": "Q115760493",
     "name": "Romani Holocaust in Lithuania",
     "countries": [
@@ -123,32 +135,21 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q165425",
-    "name": "bataille de Lépante",
+    "id": "Q115628162",
+    "name": "Répression des gangs honduriens de 2022",
     "countries": [
-      "🏳️"
+      "🇭🇳"
     ],
     "type": "guerre",
     "intensity": 70,
-    "since": "inconnue",
+    "since": "2022-12-06",
     "region": "Inconnu"
   },
   {
-    "id": "Q494058",
-    "name": "incident de Baengnyeong",
+    "id": "Q5639055",
+    "name": "Haifa Street helicopter incident",
     "countries": [
-      "🇰🇷"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1275200",
-    "name": "bataille de l'Öresund",
-    "countries": [
-      "🇩🇰"
+      "🇮🇶"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -167,10 +168,33 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q499768",
-    "name": "bataille de l'Helgeå",
+    "id": "Q1260080",
+    "name": "attaques aériennes américaines au Pakistan",
     "countries": [
-      "🇸🇪"
+      "🇵🇰"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "2004-06-18",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q3241199",
+    "name": "conflit israélo-libanais",
+    "countries": [
+      "🇮🇱",
+      "🇱🇧"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "2000-01-01",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q1510144",
+    "name": "massacre de Wairau",
+    "countries": [
+      "🇳🇿"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -178,10 +202,10 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q789209",
-    "name": "Soulèvement de Balassagyarmat",
+    "id": "Q125489369",
+    "name": "1957 Honduras-Nicaragua border conflict",
     "countries": [
-      "🇭🇺"
+      "🇳🇮"
     ],
     "type": "guerre",
     "intensity": 70,
@@ -189,36 +213,14 @@
     "region": "Inconnu"
   },
   {
-    "id": "Q107639738",
-    "name": "Baghanis Ayrim massacre",
+    "id": "Q117447192",
+    "name": "affrontements de 2023 à la mosquée al-Aqsa",
     "countries": [
-      "🇦🇿"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "1990-03-24",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q1136870",
-    "name": "bataille de Sandwich",
-    "countries": [
-      "🏳️"
+      "🇮🇱"
     ],
     "type": "guerre",
     "intensity": 70,
     "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
-    "id": "Q111648183",
-    "name": "Allégations de génocide des Ukrainiens lors de l'invasion russe de l'Ukraine",
-    "countries": [
-      "🇺🇦"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "2022-01-01",
     "region": "Inconnu"
   }
 ]
