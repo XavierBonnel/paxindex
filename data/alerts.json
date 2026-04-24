@@ -1,6 +1,6 @@
 [
   {
-    "id": 3988,
+    "id": 2365,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7339,
+    "id": 9384,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4962,
+    "id": 4530,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -27,7 +27,25 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4136,
+    "id": 2734,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Global hunger report warns of rising malnutrition and famine risks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/24/global-hunger-report-warns-of-rising-malnutrition-and-famine-risks?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 1432,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why is there a political deadlock in Lebanon?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/why-is-there-a-political-deadlock-in-lebanon?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 1910,
     "level": "critical",
     "country": "🌍",
     "text": "Baby twins attend their father’s funeral after Israeli settler attack",
@@ -36,7 +54,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 1079,
+    "id": 398,
     "level": "critical",
     "country": "🌍",
     "text": "UK rights groups slam ‘authoritarian’ conviction of pro-Palestine activists",
@@ -45,25 +63,16 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 6584,
+    "id": 3004,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
+    "text": "Dans l'est de l'Allemagne, trente ans après, le spectre des \"années battes de ba",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20260424-dans-l-est-de-l-allemagne-trente-ans-apr%C3%A8s-le-spectre-des-ann%C3%A9es-battes-de-baseball",
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 114,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump’s May 1 deadline: Can he continue war on Iran after that?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 2690,
+    "id": 3005,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Soudan : les civils soudanais affluent à Koufra, en Libye",
@@ -72,7 +81,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 2863,
+    "id": 902,
     "level": "critical",
     "country": "🌍",
     "text": "L'actu en dessin : pendant ce temps-là, dans le détroit d'Ormuz…",
@@ -81,7 +90,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 6343,
+    "id": 9041,
     "level": "critical",
     "country": "🌍",
     "text": "Trump annonce une prolongation de la trêve au Liban, les négociations au point m",
@@ -90,7 +99,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 7152,
+    "id": 4567,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : à Chypre, l'UE se dit prête à \"s'engager davantage\" pour la paix au ",
@@ -99,16 +108,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 3275,
-    "level": "high",
-    "country": "🌍",
-    "text": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/does-israels-yellow-line-violate-the-lebanon-ceasefire-2?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 4019,
+    "id": 8923,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2,
+    "id": 6290,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1369,
+    "id": 1438,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1542,
+    "id": 9232,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1685,
+    "id": 8646,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 2539,
+    "id": 7706,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8133,
+    "id": 8041,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -171,7 +171,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 890,
+    "id": 7058,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
