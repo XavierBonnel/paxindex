@@ -1,16 +1,5 @@
 [
   {
-    "id": "Q3567911",
-    "name": "génocide grec pontique",
-    "countries": [
-      "🏳️"
-    ],
-    "type": "guerre",
-    "intensity": 70,
-    "since": "inconnue",
-    "region": "Inconnu"
-  },
-  {
     "id": "Q21190910",
     "name": "génocide des Yézidis",
     "countries": [
@@ -214,6 +203,17 @@
     "name": "bataille de No Ryang",
     "countries": [
       "🏳️"
+    ],
+    "type": "guerre",
+    "intensity": 70,
+    "since": "inconnue",
+    "region": "Inconnu"
+  },
+  {
+    "id": "Q496032",
+    "name": "infiltration de Gangneung",
+    "countries": [
+      "🇰🇷"
     ],
     "type": "guerre",
     "intensity": 70,
