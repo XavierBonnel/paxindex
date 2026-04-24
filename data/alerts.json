@@ -1,6 +1,6 @@
 [
   {
-    "id": 2868,
+    "id": 4874,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5718,
+    "id": 4443,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 6884,
+    "id": 3159,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9078,
+    "id": 328,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,25 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3434,
+    "id": 5142,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Acute food insecurity and malnutrition remain alarmingly high as crises d",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/acute-food-insecurity-and-malnutrition-remain-alarmingly-high-crises-deepen-un-eu-and-partners-warn-new-report-0",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 6842,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attacks on Lebanon may violate international law, UN warns",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 4133,
     "level": "critical",
     "country": "🌍",
     "text": "Kosovo court jails three Serb separatists over 2023 Banjska attack",
@@ -45,7 +63,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 7047,
+    "id": 6273,
     "level": "critical",
     "country": "🌍",
     "text": "Trump administration to prioritise seeking death penalty, use firing squads",
@@ -54,7 +72,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 6938,
+    "id": 9003,
     "level": "critical",
     "country": "🌍",
     "text": "How Israel targeted and killed Lebanese journalist Amal Khalil",
@@ -63,7 +81,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 1362,
+    "id": 1223,
     "level": "critical",
     "country": "🌍",
     "text": "US Justice Department drops criminal probe of Fed chair Jerome Powell",
@@ -72,25 +90,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 8822,
-    "level": "critical",
-    "country": "🌍",
-    "text": "PM Sanchez rebuffs US idea of suspending Spain from NATO",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 7045,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Five games to go: The Premier League’s unpredictable season turns again",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/4/24/five-games-to-go-the-premier-leagues-unpredictable-season-turns-again?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 1152,
+    "id": 4136,
     "level": "critical",
     "country": "🌍",
     "text": "Russie : pluie noire sur une ville après une frappe de Kiev contre une raffineri",
@@ -99,7 +99,16 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9354,
+    "id": 6372,
+    "level": "high",
+    "country": "🌍",
+    "text": "Reality check: Israeli ambitions confront US dictates in Iran and Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/24/reality-check-israeli-ambitions-confront-us-dictates-in-iran-and-lebanon?traffic_source=rss",
+    "time": "Fri, 24 Apr 2026"
+  },
+  {
+    "id": 6246,
     "level": "high",
     "country": "🌍",
     "text": "Russian oil exports slump as Ukraine hammers ports and refineries",
@@ -108,16 +117,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 7778,
-    "level": "high",
-    "country": "🌍",
-    "text": "US has three aircraft carriers in the Middle East for first time since 2003",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
-    "time": "Fri, 24 Apr 2026"
-  },
-  {
-    "id": 5796,
+    "id": 1928,
     "level": "high",
     "country": "🌍",
     "text": "De retour dans le Sud, des Libanais dévastés : \"Israël détruit des maisons, des ",
@@ -126,7 +126,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 8732,
+    "id": 5157,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9050,
+    "id": 5564,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1646,
+    "id": 7972,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8308,
+    "id": 5519,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5118,
+    "id": 2353,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,7 +171,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1340,
+    "id": 8033,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
