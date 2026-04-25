@@ -1,6 +1,6 @@
 [
   {
-    "id": 2615,
+    "id": 1396,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2496,
+    "id": 9033,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9551,
+    "id": 8783,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 5514,
+    "id": 4060,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4584,
+    "id": 3866,
     "level": "critical",
     "country": "🌍",
     "text": "Iran’s Infowar: Lego, AI and ever tightening control",
@@ -45,7 +45,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 5311,
+    "id": 2424,
     "level": "critical",
     "country": "🌍",
     "text": "Mali attacks live: Gunfire heard near Bamako airport and in several cities",
@@ -54,7 +54,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 7701,
+    "id": 8121,
     "level": "critical",
     "country": "🌍",
     "text": "Gunmen stage simultaneous attacks across Mali, army says",
@@ -63,7 +63,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 4555,
+    "id": 7843,
     "level": "critical",
     "country": "🌍",
     "text": "Overnight Russian attacks on Ukraine kill five, injure 30",
@@ -72,7 +72,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 9797,
+    "id": 7628,
     "level": "critical",
     "country": "🌍",
     "text": "Polls open in Gaza area in first municipal election in 20 years",
@@ -81,7 +81,25 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 7155,
+    "id": 6471,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre au Liban : se nourrir est devenu un défi quotidien pour les libanais",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260425-guerre-au-liban-se-nourrir-est-devenu-un-d%C3%A9fi-quotidien-pour-les-libanais",
+    "time": "Sat, 25 Apr 2026"
+  },
+  {
+    "id": 9906,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mojtaba Khamenei \"gravement blessé\" mais \"vif d'esprit\", selon le New York Times",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260425-mojtaba-khamenei-gravement-bless%C3%A9-mais-vif-d-esprit-selon-le-new-york-times",
+    "time": "Sat, 25 Apr 2026"
+  },
+  {
+    "id": 771,
     "level": "critical",
     "country": "🌍",
     "text": "Liban: des frappes israéliennes ont fait 6 morts selon le ministère de la Santé",
@@ -90,16 +108,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 2413,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Des Palestiniens appelés à voter, premier scrutin depuis la guerre à Gaza",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260425-des-palestiniens-appel%C3%A9s-%C3%A0-voter-premier-scrutin-depuis-la-guerre-%C3%A0-gaza",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 86,
+    "id": 7351,
     "level": "high",
     "country": "🌍",
     "text": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
@@ -108,7 +117,16 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 7582,
+    "id": 7668,
+    "level": "high",
+    "country": "🌍",
+    "text": "Elections municipales à Gaza et en Cisjordanie occupée : un scrutin sous tension",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260425-elections-municipales-%C3%A0-gaza-et-en-cisjordanie-occup%C3%A9e-un-scrutin-sous-tension",
+    "time": "Sat, 25 Apr 2026"
+  },
+  {
+    "id": 274,
     "level": "high",
     "country": "🌍",
     "text": "Cisjordanie: des enfants privés d'école par l'armée israélienne",
@@ -117,34 +135,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 8845,
-    "level": "high",
-    "country": "🌍",
-    "text": "Mali en direct : combats en cours à Bamako et à travers le pays entre l'armée et",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260425-en-direct-mali-arm%C3%A9e-groupes-terroristes-combats-bamako-casernes-gao-kidal-s%C3%A9var%C3%A9-kati-a%C3%A9roport",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 8759,
-    "level": "high",
-    "country": "🌍",
-    "text": "🔴 Mali : combats en cours à Bamako et à travers le pays entre l'armée et des \"gr",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260425-mali-groupes-terroristes-m%C3%A8nent-attaques-positions-militaires-go%C3%AFta",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 1269,
-    "level": "high",
-    "country": "🌍",
-    "text": "Mali : des \"groupes terroristes\" mènent des attaques sur des positions militaire",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260425-mali-groupes-terroristes-m%C3%A8nent-attaques-positions-militaires-go%C3%AFta",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 6265,
+    "id": 3485,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8530,
+    "id": 9151,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7865,
+    "id": 7174,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8237,
+    "id": 7420,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 6580,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
   }
 ]
