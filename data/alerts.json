@@ -1,6 +1,6 @@
 [
   {
-    "id": 9234,
+    "id": 3089,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7403,
+    "id": 9204,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4719,
+    "id": 4692,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9189,
+    "id": 6337,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1754,
+    "id": 1777,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon: Conflict Intensity, 2 March - 23 April 2026",
@@ -45,7 +45,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 5349,
+    "id": 9132,
     "level": "critical",
     "country": "🌍",
     "text": "World: Acute food insecurity and malnutrition remain alarmingly high as crises d",
@@ -54,7 +54,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 2635,
+    "id": 2752,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli attacks kill four in southern Lebanon",
@@ -63,7 +63,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 520,
+    "id": 4598,
     "level": "critical",
     "country": "🌍",
     "text": "‘Scale and coordination of Mali attacks appear unprecedented’",
@@ -72,7 +72,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 2984,
+    "id": 5360,
     "level": "critical",
     "country": "🌍",
     "text": "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
@@ -81,7 +81,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 7442,
+    "id": 5015,
     "level": "critical",
     "country": "🌍",
     "text": "Flights resume at Tehran airport as US-Iran ceasefire holds",
@@ -90,7 +90,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 6667,
+    "id": 7184,
     "level": "critical",
     "country": "🌍",
     "text": "Armed groups stage simultaneous attacks across Mali",
@@ -99,7 +99,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 6798,
+    "id": 1506,
     "level": "critical",
     "country": "🌍",
     "text": "Iran resumes commercial flights from Tehran airport",
@@ -108,25 +108,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 3466,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran’s Infowar: Lego, AI and ever tightening control",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 9915,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mali attacks live: Coordinated attacks in Bamako, Kati, Kidal and elsewhere",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 2815,
+    "id": 242,
     "level": "critical",
     "country": "🌍",
     "text": "\"Israël va s'autodétruire si on ne résout pas le problème de l'État palestinien\"",
@@ -135,7 +117,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 7779,
+    "id": 2641,
     "level": "critical",
     "country": "🌍",
     "text": "Les Palestiniens appelés à voter, premier scrutin depuis la guerre à Gaza",
@@ -144,7 +126,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 5687,
+    "id": 1723,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine: frappes meurtrières à Dnipro, Zelensky veut plus de sanctions",
@@ -153,7 +135,25 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 9595,
+    "id": 9513,
+    "level": "high",
+    "country": "🌍",
+    "text": "African governments need to take urgent action on fertiliser shortages",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/4/25/african-governments-need-to-take-urgent-action-on-fertiliser-shortages?traffic_source=rss",
+    "time": "Sat, 25 Apr 2026"
+  },
+  {
+    "id": 12,
+    "level": "high",
+    "country": "🌍",
+    "text": "Deporting soldiers? Why immigrant veterans fear removal from the US",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/longform/2026/4/25/deporting-soldiers-why-immigrant-veterans-fear-removal-from-the-us?traffic_source=rss",
+    "time": "Sat, 25 Apr 2026"
+  },
+  {
+    "id": 9374,
     "level": "high",
     "country": "🌍",
     "text": "Mali : l'armée fait état d'attaques de groupes \"terroristes\" près de Bamako",
@@ -162,7 +162,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 7488,
+    "id": 3924,
     "level": "high",
     "country": "🌍",
     "text": "Catastrophe de Tchernobyl : 40 ans après, le risque nucléaire persiste en Europe",
@@ -171,7 +171,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 4981,
+    "id": 8575,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
