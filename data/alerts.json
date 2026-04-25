@@ -1,6 +1,6 @@
 [
   {
-    "id": 1608,
+    "id": 8596,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7989,
+    "id": 1581,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3394,
+    "id": 6375,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 7019,
+    "id": 8745,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5993,
+    "id": 8695,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Reported US CIA agents killed in crash not authorised to operate: Mexico",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss",
+    "time": "Sat, 25 Apr 2026"
+  },
+  {
+    "id": 7773,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli attacks kill four in southern Lebanon",
@@ -45,7 +54,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 2512,
+    "id": 815,
     "level": "critical",
     "country": "🌍",
     "text": "‘Scale and coordination of Mali attacks appear unprecedented’",
@@ -54,34 +63,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 4912,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/indonesian-un-peacekeeper-becomes-sixth-killed-in-lebanon?traffic_source=rss",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 4173,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Flights resume at Tehran airport as US-Iran ceasefire holds",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 9467,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Armed groups stage simultaneous attacks across Mali",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/armed-groups-stage-simultaneous-attacks-across-mali?traffic_source=rss",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 1255,
+    "id": 6630,
     "level": "critical",
     "country": "🌍",
     "text": "\"Israël va s'autodétruire si on ne résout pas le problème de l'État palestinien\"",
@@ -90,16 +72,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 135,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine: frappes meurtrières à Dnipro, Zelensky veut plus de sanctions",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260425-ukraine-frappes-meurtri%C3%A8res-%C3%A0-dnipro-zelensky-veut-plus-de-sanctions",
-    "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 6530,
+    "id": 4179,
     "level": "high",
     "country": "🌍",
     "text": "African governments need to take urgent action on fertiliser shortages",
@@ -108,7 +81,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 7098,
+    "id": 5169,
     "level": "high",
     "country": "🌍",
     "text": "Deporting soldiers? Why immigrant veterans fear removal from the US",
@@ -117,16 +90,16 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 6395,
+    "id": 3208,
     "level": "high",
     "country": "🌍",
-    "text": "Mali : l'armée fait état d'attaques de groupes \"terroristes\" près de Bamako",
+    "text": "Attaques d'ampleur au Mali : combats entre armée et \"groupes terroristes\"",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260425-mali-l-arm%C3%A9e-fait-%C3%A9tat-d-attaques-de-groupes-terroristes-pr%C3%A8s-de-bamako",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260425-attaques-d-ampleur-au-mali-combats-entre-arm%C3%A9e-et-groupes-terroristes",
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 8613,
+    "id": 8168,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9981,
+    "id": 706,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2071,
+    "id": 7261,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9958,
+    "id": 8331,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9153,
+    "id": 6889,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,12 +144,39 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1418,
+    "id": 4036,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 4046,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 8410,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 9997,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-08T12:40"
   }
 ]
