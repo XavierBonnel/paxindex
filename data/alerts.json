@@ -1,6 +1,6 @@
 [
   {
-    "id": 1921,
+    "id": 2302,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3227,
+    "id": 1367,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4463,
+    "id": 8226,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 2742,
+    "id": 6360,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,25 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5187,
+    "id": 2427,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/26/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks?traffic_source=rss",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 1825,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 3898,
     "level": "critical",
     "country": "🌍",
     "text": "Russian attacks on Ukraine kill at least five, damage ship in port",
@@ -45,43 +63,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 5577,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How American taxpayers fund Trump’s wars",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/26/how-american-taxpayers-fund-trumps-wars-3?traffic_source=rss",
-    "time": "Sun, 26 Apr 2026"
-  },
-  {
-    "id": 8073,
-    "level": "critical",
-    "country": "🌍",
-    "text": "World reacts to shooting at White House correspondents’ dinner",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
-    "time": "Sun, 26 Apr 2026"
-  },
-  {
-    "id": 4577,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Anthony Edwards injures knee in Timberwolves’ Game 4 win against Nuggets",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/4/26/anthony-edwards-injures-knee-in-timberwolves-game-4-win-against-nuggets?traffic_source=rss",
-    "time": "Sun, 26 Apr 2026"
-  },
-  {
-    "id": 5316,
-    "level": "critical",
-    "country": "🌍",
-    "text": "We can make sure another Chornobyl disaster does not happen, here is how",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/4/26/we-can-make-sure-another-chornobyl-disaster-does-not-happen-here-is-how?traffic_source=rss",
-    "time": "Sun, 26 Apr 2026"
-  },
-  {
-    "id": 2580,
+    "id": 537,
     "level": "critical",
     "country": "🌍",
     "text": "Attentat à la bombe en Colombie : le bilan passe à 14 morts et 38 blessés",
@@ -90,7 +72,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 7080,
+    "id": 2705,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : annulation des discussions avec l'Iran au Pakistan",
@@ -99,7 +81,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 1391,
+    "id": 6827,
     "level": "critical",
     "country": "🌍",
     "text": "L'Ukraine marque le 40e anniversaire de l'accident de Tchernobyl",
@@ -108,7 +90,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 7864,
+    "id": 1332,
     "level": "high",
     "country": "🌍",
     "text": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
@@ -117,7 +99,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 4052,
+    "id": 1385,
     "level": "high",
     "country": "🌍",
     "text": "Chornobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster",
@@ -126,7 +108,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 1283,
+    "id": 4048,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3219,
+    "id": 3645,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2344,
+    "id": 3097,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4020,
+    "id": 3291,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 349,
+    "id": 7093,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,12 +153,30 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2360,
+    "id": 5258,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 119,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 2805,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
   }
 ]
