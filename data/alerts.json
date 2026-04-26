@@ -1,6 +1,6 @@
 [
   {
-    "id": 6337,
+    "id": 2824,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 387,
+    "id": 2020,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1015,
+    "id": 429,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 4647,
+    "id": 7248,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,34 +36,43 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5192,
+    "id": 2124,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran shifts economic focus to essentials during war uncertainty",
+    "text": "Israeli settler attacks Hebron activist’s home as soldier looks on",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israeli-settler-attacks-hebron-activists-home-as-soldier-looks-on?traffic_source=rss",
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 9085,
+    "id": 274,
     "level": "critical",
     "country": "🌍",
-    "text": "New footage shows moment of deadly bus bombing in Colombia",
+    "text": "What’s driving attacks against gov’t and Russian forces in Mali?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/new-footage-shows-moment-of-deadly-bus-bombing-in-colombia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/4/26/whats-driving-attacks-against-govt-and-russian-forces-in-mali?traffic_source=rss",
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 8581,
+    "id": 5424,
     "level": "critical",
     "country": "🌍",
-    "text": "‘State of war’: Why Israel has escalated attacks in Gaza",
+    "text": "Bomb attack on Colombia highway kills 19 ahead of election",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
+    "link": "https://www.aljazeera.com/gallery/2026/4/26/bomb-attack-on-colombia-highway-kills-19-ahead-of-election?traffic_source=rss",
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 9121,
+    "id": 5617,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'Iran multiplie les consultations, sans pourparlers directs avec les États-Unis",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260426-l-iran-multiplie-les-consultations-sans-pourparlers-directs-avec-les-%C3%A9tats-unis",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 8463,
     "level": "critical",
     "country": "🌍",
     "text": "L'Ukraine commémore le 40e anniversaire de la catastrophe de Tchernobyl",
@@ -72,7 +81,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 3138,
+    "id": 9438,
     "level": "critical",
     "country": "🌍",
     "text": "Trump évacué du dîner des correspondants, Léon XIV en prison, robots à Pékin : l",
@@ -81,16 +90,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 4381,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : 40 ans après Tchernobyl, une centrale dans la guerre",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260426-ukraine-40-ans-apr%C3%A8s-tchernobyl-une-centrale-dans-la-guerre",
-    "time": "Sun, 26 Apr 2026"
-  },
-  {
-    "id": 4356,
+    "id": 6160,
     "level": "high",
     "country": "🌍",
     "text": "Has Iran exposed the limits of what US can achieve by force?",
@@ -99,7 +99,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 4040,
+    "id": 8318,
     "level": "high",
     "country": "🌍",
     "text": "Israel issues forced evacuation orders for southern Lebanon in escalation",
@@ -108,7 +108,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 5674,
+    "id": 7400,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : 40e anniversaire de la catastrophe nucléaire de Tchernobyl",
@@ -117,16 +117,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 2320,
-    "level": "high",
-    "country": "🌍",
-    "text": "Mali : reprise des combats à Kidal et dans le fief de la junte",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260426-mali-reprise-des-combats-%C3%A0-kidal-et-dans-le-fief-de-la-junte",
-    "time": "Sun, 26 Apr 2026"
-  },
-  {
-    "id": 866,
+    "id": 9112,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9692,
+    "id": 177,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7303,
+    "id": 7444,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5216,
+    "id": 2719,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3125,
+    "id": 4009,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,12 +162,21 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8976,
+    "id": 4715,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 350,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-23T15:15"
   }
 ]
