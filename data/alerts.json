@@ -1,6 +1,6 @@
 [
   {
-    "id": 4664,
+    "id": 9583,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8958,
+    "id": 9583,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5112,
+    "id": 929,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9389,
+    "id": 1119,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5615,
+    "id": 5837,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hundreds of Israelis rally as US-Iran peace talks stall",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 9272,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
@@ -45,7 +54,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 6836,
+    "id": 1649,
     "level": "critical",
     "country": "🌍",
     "text": "Explosion in southwest Colombia kills at least 14, state governor says",
@@ -54,7 +63,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 1806,
+    "id": 5832,
     "level": "critical",
     "country": "🌍",
     "text": "How serious is the rift in NATO?",
@@ -63,7 +72,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 8359,
+    "id": 2071,
     "level": "high",
     "country": "🌍",
     "text": "Le JNIM revendique les attaques coordonnées sur plusieurs villes au Mali",
@@ -72,7 +81,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 613,
+    "id": 7104,
     "level": "high",
     "country": "🌍",
     "text": "Attaques d'ampleur au Mali : combats entre armée et \"groupes terroristes\"",
@@ -81,7 +90,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 4532,
+    "id": 1148,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 523,
+    "id": 9770,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3684,
+    "id": 6740,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6256,
+    "id": 3872,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8956,
+    "id": 291,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5867,
+    "id": 1144,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 23,
+    "id": 9610,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5369,
+    "id": 3852,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -153,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 1488,
+    "id": 2778,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -162,21 +171,12 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 7185,
+    "id": 687,
     "level": "medium",
     "country": "🌍",
     "text": "Decolonizing AI at the U.S. border",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/25/decolonizing-ai-at-the-u-s-border/",
     "time": "Sat, 25 Apr 2026"
-  },
-  {
-    "id": 4732,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Sportellino’ is an AI chatbot who helps migrants navigate the maze of Italian b",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/24/sportellino-is-an-ai-chatbot-who-helps-migrants-navigate-the-maze-of-italian-bureaucracy/",
-    "time": "Fri, 24 Apr 2026"
   }
 ]
