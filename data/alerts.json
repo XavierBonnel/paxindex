@@ -1,6 +1,6 @@
 [
   {
-    "id": 3125,
+    "id": 6560,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 388,
+    "id": 2854,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 9241,
+    "id": 8866,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9793,
+    "id": 6607,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,43 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 6882,
+    "id": 1112,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 2800,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali rattled by ongoing armed attacks: What to know",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/26/mali-rattled-by-ongoing-armed-attacks-what-to-know?traffic_source=rss",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 5345,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel feared Amal Khalil, just as it did Shireen Abu Akleh",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/4/26/israel-feared-amal-khalil-just-as-it-did-shireen-abu-akleh?traffic_source=rss",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 3363,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali defence minister killed after coordinated attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 2238,
     "level": "critical",
     "country": "🌍",
     "text": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
@@ -45,7 +81,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 3158,
+    "id": 6493,
     "level": "critical",
     "country": "🌍",
     "text": "Mali’s Defence Minister Sadio Camara killed during coordinated attacks",
@@ -54,16 +90,16 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 9458,
+    "id": 118,
     "level": "critical",
     "country": "🌍",
-    "text": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
+    "text": "Trump évacué du dîner des correspondants, Léon XIV en prison, robots à Pékin : l",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260426-trump-diner-presse-amal-khalil-journaliste-tuee-liban-leon-xiv-robots-pekin-la-semaine-en-images",
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 2506,
+    "id": 2565,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : 40 ans après Tchernobyl, une centrale dans la guerre",
@@ -72,7 +108,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 8826,
+    "id": 7267,
     "level": "critical",
     "country": "🌍",
     "text": "Conquête spatiale : quand la France recrutait des ingénieurs nazis pour développ",
@@ -81,16 +117,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 3280,
-    "level": "high",
-    "country": "🌍",
-    "text": "Yemen’s landmine crisis endures despite truce and de-mining efforts",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/4/26/yemens-landmine-crisis-endures-despite-truce-and-de-mining-efforts?traffic_source=rss",
-    "time": "Sun, 26 Apr 2026"
-  },
-  {
-    "id": 3446,
+    "id": 4855,
     "level": "high",
     "country": "🌍",
     "text": "Mali : reprise des combats à Kidal et dans le fief de la junte",
@@ -99,7 +126,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 5814,
+    "id": 3429,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9349,
+    "id": 188,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4381,
+    "id": 187,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4873,
+    "id": 209,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6746,
+    "id": 8815,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,39 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 4885,
+    "id": 9979,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 9971,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 5383,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 7589,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-08T12:40"
   }
 ]
