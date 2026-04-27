@@ -1,6 +1,6 @@
 [
   {
-    "id": 2413,
+    "id": 1571,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7660,
+    "id": 7850,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -18,7 +18,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 8677,
+    "id": 3602,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2613,
+    "id": 4527,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -36,7 +36,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 3737,
+    "id": 6049,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -45,7 +45,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 8483,
+    "id": 1082,
     "level": "critical",
     "country": "🌍",
     "text": "Escalating Regional Conflict Impacts Supply Chains and Threatens Yemen's Aid Lif",
@@ -54,7 +54,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 3007,
+    "id": 9072,
     "level": "critical",
     "country": "🌍",
     "text": "oPt: West Bank - The impact of Settler attacks | Palestinian casualties, propert",
@@ -63,7 +63,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 1217,
+    "id": 1807,
     "level": "critical",
     "country": "🌍",
     "text": "Borderlands of Resilience – Navigating Conflict Impacts on Communities and Aid o",
@@ -72,7 +72,16 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 1865,
+    "id": 9037,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Germany’s Merz says US has no strategy in Iran war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/germanys-merz-says-us-has-no-strategy-in-iran-war?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 3725,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches",
@@ -81,7 +90,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 2516,
+    "id": 8734,
     "level": "critical",
     "country": "🌍",
     "text": "Rival armed groups join forces against the Malian state: What next?",
@@ -90,7 +99,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 1001,
+    "id": 9869,
     "level": "critical",
     "country": "🌍",
     "text": "NPT summit: Can nuclear pact survive US-Israel war on Iran?",
@@ -99,61 +108,25 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 7599,
+    "id": 1012,
     "level": "critical",
     "country": "🌍",
-    "text": "How does targeting water supply during war worsen the scarcity crisis?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-stream/2026/4/27/how-does-targeting-water-supply-during-war-worsen-the-scarcity-crisis?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 2319,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘Clearly stronger’: Germany’s Merz says Iran ‘humiliated’ US in its war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/27/iran-very-skilful-as-us-humiliated-says-german-chancellor?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 8194,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Have US-Iran talks failed? Why no deal yet doesn’t mean diplomacy is dead",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/27/have-us-iran-talks-failed-why-no-deal-yet-doesnt-mean-diplomacy-is-dead?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 9817,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Lebanon cannot be bombed into sovereignty",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/4/27/lebanon-cannot-be-bombed-into-sovereignty?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 9219,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mbappe could miss El Clasico after Real Madrid confirm thigh injury",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/4/27/mbappe-could-miss-el-clasico-after-real-madrid-confirm-thigh-injury?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 9659,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dîner des correspondants : Qui est le tireur suspect ?",
+    "text": "Syrie : ouverture du premier procès contre le clan Assad",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260427-d%C3%AEner-des-correspondants-qui-est-le-tireur-suspect",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260427-syrie-ouverture-du-premier-proc%C3%A8scontre-le-clan-assad",
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 3858,
+    "id": 167,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le suspect de la fusillade au dîner des correspondants va être présenté à la jus",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260427-le-suspect-de-la-fusillade-au-d%C3%AEner-des-correspondants-va-%C3%AAtre-pr%C3%A9sent%C3%A9-%C3%A0-la-justice",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 3077,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5621,
+    "id": 1259,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +144,39 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6057,
+    "id": 8209,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 8094,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 7793,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 5738,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-29T08:00"
   }
 ]
