@@ -1,6 +1,6 @@
 [
   {
-    "id": 6193,
+    "id": 3880,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5402,
+    "id": 1808,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -18,7 +18,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 6666,
+    "id": 1860,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2175,
+    "id": 6561,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -36,7 +36,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 5345,
+    "id": 8162,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -45,7 +45,43 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 6149,
+    "id": 2572,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How does targeting water supply during war worsen the scarcity crisis?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/the-stream/2026/4/27/how-does-targeting-water-supply-during-war-worsen-the-scarcity-crisis?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 6611,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Clearly stronger’: Germany’s Merz says Iran ‘humiliated’ US in its war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/27/iran-very-skilful-as-us-humiliated-says-german-chancellor?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 9839,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Have US-Iran talks failed? Why no deal yet doesn’t mean diplomacy is dead",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/27/have-us-iran-talks-failed-why-no-deal-yet-doesnt-mean-diplomacy-is-dead?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 5038,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon cannot be bombed into sovereignty",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/4/27/lebanon-cannot-be-bombed-into-sovereignty?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 4831,
     "level": "critical",
     "country": "🌍",
     "text": "Mbappe could miss El Clasico after Real Madrid confirm thigh injury",
@@ -54,7 +90,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 8362,
+    "id": 2793,
     "level": "critical",
     "country": "🌍",
     "text": "Fighting over access to water in Chad kills at least 42, army intervenes",
@@ -63,7 +99,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 3305,
+    "id": 9798,
     "level": "critical",
     "country": "🌍",
     "text": "Varoufakis on Palantir, AI warfare, and the rise of tech lordism",
@@ -72,25 +108,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 6866,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 4409,
-    "level": "critical",
-    "country": "🌍",
-    "text": "North Korea opens museum commemorating troops killed fighting for Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/4/27/north-korea-opens-museum-for-troops-killed-fighting-for-russia?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 3316,
+    "id": 772,
     "level": "critical",
     "country": "🌍",
     "text": "Élevage – souffrance animale : au bonheur des poules ?",
@@ -99,7 +117,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 4656,
+    "id": 4263,
     "level": "critical",
     "country": "🌍",
     "text": "La communication de Donald Trump après les tirs au gala de la presse",
@@ -108,7 +126,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 427,
+    "id": 30,
     "level": "critical",
     "country": "🌍",
     "text": "Le Liban annonce 14 morts dans des frappes israéliennes",
@@ -117,7 +135,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 770,
+    "id": 4813,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7497,
+    "id": 4664,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7101,
+    "id": 2833,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4133,
+    "id": 7171,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,30 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9372,
+    "id": 3253,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 3648,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 6836,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
   }
 ]
