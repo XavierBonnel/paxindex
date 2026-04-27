@@ -1,6 +1,6 @@
 [
   {
-    "id": 7794,
+    "id": 4936,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3768,
+    "id": 2931,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -18,7 +18,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 8414,
+    "id": 1451,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -27,7 +27,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 4934,
+    "id": 5685,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -36,7 +36,34 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5928,
+    "id": 5216,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nigeria: Conflict - ETS Situation Report #111 - Reporting period: March 2026",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/nigeria/nigeria-conflict-ets-situation-report-111-reporting-period-march-2026",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 9568,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Sudan, conflict Global LTC Teleconference (Telecoms Area) #31 (Date: 16/04/2026 ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/sudan-conflict-global-ltc-teleconference-telecoms-area-31-date-16042026-time-1102-utc",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 8082,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Sudan: UNHCR condemns attack on aid truck in North Darfur [EN/AR]",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/unhcr-condemns-attack-aid-truck-north-darfur-enar",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 7273,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Araghchi to meet Putin; Trump says Tehran can call for talks",
@@ -45,7 +72,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 3717,
+    "id": 9613,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli settler attacks Hebron activist’s home as soldier looks on",
@@ -54,7 +81,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 8752,
+    "id": 4302,
     "level": "critical",
     "country": "🌍",
     "text": "What’s driving attacks against gov’t and Russian forces in Mali?",
@@ -63,7 +90,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 4720,
+    "id": 2380,
     "level": "critical",
     "country": "🌍",
     "text": "Bomb attack on Colombia highway kills 19 ahead of election",
@@ -72,7 +99,16 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 8269,
+    "id": 2428,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ll'Iran cherche à obtenir le soutien de la Russie pour se sortir de la guerre",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260426-ll-iran-cherche-%C3%A0-obtenir-le-soutien-de-la-russie-pour-se-sortir-de-la-guerre",
+    "time": "Sun, 26 Apr 2026"
+  },
+  {
+    "id": 5683,
     "level": "critical",
     "country": "🌍",
     "text": "Un affrontement intercommunautaire fait au moins 42 morts dans l'est du Tchad",
@@ -81,7 +117,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 4675,
+    "id": 2407,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran multiplie les consultations, sans pourparlers directs avec les États-Unis",
@@ -90,16 +126,16 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 3840,
-    "level": "critical",
+    "id": 5635,
+    "level": "high",
     "country": "🌍",
-    "text": "L'Ukraine commémore le 40e anniversaire de la catastrophe de Tchernobyl",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260426-l-ukraine-comm%C3%A9more-le-40e-anniversaire-de-la-catastrophe-de-tchernobyl",
-    "time": "Sun, 26 Apr 2026"
+    "text": "Satellite images show scale of Israeli destruction of south Lebanon towns",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 5580,
+    "id": 3461,
     "level": "high",
     "country": "🌍",
     "text": "Video: Israeli ‘ceasefire’ violations on the rise in Gaza",
@@ -108,7 +144,7 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 6695,
+    "id": 9959,
     "level": "high",
     "country": "🌍",
     "text": "Has Iran exposed the limits of what US can achieve by force?",
@@ -117,16 +153,16 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 5578,
+    "id": 3081,
     "level": "high",
     "country": "🌍",
-    "text": "Israel issues forced evacuation orders for southern Lebanon in escalation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss",
-    "time": "Sun, 26 Apr 2026"
+    "text": "Les dépenses militaires mondiales s'envolent en 2025, \"marquée par l'intensifica",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260427-depenses-militaires-mondiales-envolent-2025-marquee-par-intensification-tensions-asie-europe-sipri-etats-unis-moyen-orient-ukraine-russie-armement",
+    "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 7759,
+    "id": 4455,
     "level": "high",
     "country": "🌍",
     "text": "Mali: le ministre de la défense tué, les forces russes se retirent de Kidal",
@@ -135,48 +171,12 @@
     "time": "Sun, 26 Apr 2026"
   },
   {
-    "id": 2542,
+    "id": 7050,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : 40e anniversaire de la catastrophe nucléaire de Tchernobyl",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/vid%C3%A9o/20260426-ukraine-40e-anniversaire-de-la-catastrophe-nucl%C3%A9aire-de-tchernobyl",
     "time": "Sun, 26 Apr 2026"
-  },
-  {
-    "id": 5450,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 2207,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 2388,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 6470,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
