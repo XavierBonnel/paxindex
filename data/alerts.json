@@ -1,6 +1,6 @@
 [
   {
-    "id": 2845,
+    "id": 1268,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2828,
+    "id": 6264,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -18,7 +18,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 6720,
+    "id": 9410,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 3838,
+    "id": 3472,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -36,7 +36,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 6026,
+    "id": 6004,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -45,7 +45,52 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 888,
+    "id": 7213,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Escalating Regional Conflict Impacts Supply Chains and Threatens Yemen's Aid Lif",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/escalating-regional-conflict-impacts-supply-chains-and-threatens-yemens-aid-lifeline-enar",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 49,
+    "level": "critical",
+    "country": "🌍",
+    "text": "oPt: West Bank - The impact of Settler attacks | Palestinian casualties, propert",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/occupied-palestinian-territory/west-bank-impact-settler-attacks-palestinian-casualties-property-damage-and-displacement-caused-settler-attacks-and-access-restrictions-january-2023-december-2025",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 3885,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Borderlands of Resilience – Navigating Conflict Impacts on Communities and Aid o",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/south-sudan/borderlands-resilience-navigating-conflict-impacts-communities-and-aid-sudan-south-sudan-frontier",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 3556,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/27/iraqi-president-names-shia-bloc-candidate-ali-al-zaidi-as-pm-designate?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 301,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US press gala shooting suspect charged with attempting to kill Trump",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 8627,
     "level": "critical",
     "country": "🌍",
     "text": "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
@@ -54,7 +99,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 6749,
+    "id": 8290,
     "level": "critical",
     "country": "🌍",
     "text": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
@@ -63,7 +108,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 383,
+    "id": 6285,
     "level": "critical",
     "country": "🌍",
     "text": "Suspected pirates steer cargo vessel towards Somalia",
@@ -72,7 +117,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 521,
+    "id": 1120,
     "level": "critical",
     "country": "🌍",
     "text": "Will the Iran war push millions back into poverty?",
@@ -81,7 +126,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 27,
+    "id": 2744,
     "level": "critical",
     "country": "🌍",
     "text": "Syrie : ouverture du premier procès contre le clan Assad",
@@ -90,25 +135,16 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 9960,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le suspect de la fusillade au dîner des correspondants va être présenté à la jus",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260427-le-suspect-de-la-fusillade-au-d%C3%AEner-des-correspondants-va-%C3%AAtre-pr%C3%A9sent%C3%A9-%C3%A0-la-justice",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 6248,
+    "id": 9899,
     "level": "high",
     "country": "🌍",
-    "text": "DR Congo to establish US-backed paramilitary guard for mines",
+    "text": "Timeline: The highs and lows of the US-UK ‘special relationship’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/27/dr-congo-to-establish-us-uae-backed-paramilitary-guard-for-mines?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/4/27/timeline-the-highs-and-lows-of-the-us-uk-special-relationship?traffic_source=rss",
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 4122,
+    "id": 6823,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5254,
+    "id": 5783,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8273,
+    "id": 8050,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,48 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8080,
+    "id": 3849,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 1554,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 435,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 7374,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 9718,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
   }
 ]
