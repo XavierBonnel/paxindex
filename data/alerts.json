@@ -1,6 +1,6 @@
 [
   {
-    "id": 3960,
+    "id": 1074,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7412,
+    "id": 3887,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 295,
+    "id": 3923,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -27,7 +27,43 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 737,
+    "id": 1489,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Families forced into displacement by famine in Sudan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/families-forced-into-displacement-by-famine-in-sudan?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 335,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 1547,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump approval dips to record low amid Iran war, inflation woes: Poll",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 5443,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali military leader Goita emerges as Russia declares it halted coup",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/malis-military-leader-goita-emerges-as-russia-declares-it-halted-coup?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 4099,
     "level": "critical",
     "country": "🌍",
     "text": "Bosnia signs up to Trump-linked pipeline to reduce Russian gas dependence",
@@ -36,7 +72,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 9405,
+    "id": 6948,
     "level": "critical",
     "country": "🌍",
     "text": "Ukrainian drones strike Russia’s Tuapse refinery for third time",
@@ -45,34 +81,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 1529,
+    "id": 708,
     "level": "critical",
     "country": "🌍",
-    "text": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss",
+    "text": "Retrait des EAU de l'Opep : \"Une manière de confirmer la rupture avec les autres",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260428-retrait-des-emirats-arabes-unis-eau-opep-maniere-de-confirmer-la-rupture-avec-les-autres-pays-du-golfe-petrole",
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 7749,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gulf leaders meet in Saudi Arabia for first time since start of war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/28/gulf-leaders-meet-in-saudi-arabia-for-first-time-since-start-of-war-on-iran?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 3260,
-    "level": "critical",
-    "country": "🌍",
-    "text": "FIFA cut World Cup ref following arrest for alleged sexual assault in UK",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/4/28/ref-in-line-for-world-cup-games-arrested-for-alleged-sexual-assault-in-uk?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 5410,
+    "id": 7175,
     "level": "critical",
     "country": "🌍",
     "text": "Après la mort du général Sadio Camara, l'influence russe au Mali remise en cause",
@@ -81,16 +99,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 2839,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient : Quelle est la position de la Russie vis-à-vis de l'Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260428-guerre-au-moyen-orient-quelle-est-la-position-de-la-russie-vis-%C3%A0-vis-de-l-iran",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 4195,
+    "id": 7930,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7595,
+    "id": 138,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5811,
+    "id": 4718,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3489,
+    "id": 753,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3356,
+    "id": 4011,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3053,
+    "id": 4373,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 6905,
+    "id": 5010,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2396,
+    "id": 2197,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,21 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 6908,
+    "id": 7795,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-08T12:40"
-  },
-  {
-    "id": 9307,
-    "level": "medium",
-    "country": "🌍",
-    "text": "A lack of electricity and internet access hinders AI adoption in Sub-Saharan Afr",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/28/a-lack-of-electricity-and-internet-access-hinders-ai-adoption-in-sub-saharan-africa/",
-    "time": "Tue, 28 Apr 2026"
   }
 ]
