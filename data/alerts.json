@@ -1,6 +1,6 @@
 [
   {
-    "id": 3206,
+    "id": 6666,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2545,
+    "id": 2055,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 8013,
+    "id": 929,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -27,7 +27,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 9001,
+    "id": 1389,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -36,7 +36,25 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 7518,
+    "id": 2534,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 4438,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gulf leaders meet in Saudi Arabia for first time since start of war on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/gulf-leaders-meet-in-saudi-arabia-for-first-time-since-start-of-war-on-iran?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 1311,
     "level": "critical",
     "country": "🌍",
     "text": "FIFA cut World Cup ref following arrest for alleged sexual assault in UK",
@@ -45,7 +63,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 4609,
+    "id": 7783,
     "level": "critical",
     "country": "🌍",
     "text": "What is the Azawad Liberation Front, part of the Mali attacks?",
@@ -54,7 +72,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 9463,
+    "id": 578,
     "level": "critical",
     "country": "🌍",
     "text": "The cost of 76 years of US wars, from Korea to Iran",
@@ -63,34 +81,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 6081,
+    "id": 6741,
     "level": "critical",
     "country": "🌍",
-    "text": "Who is Ali al-Zaidi, the businessman named as Iraq’s PM-designate?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/28/who-is-ali-al-zaidi-the-businessman-named-as-iraqs-pm-designate?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 2543,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nouvelles frappes au Liban, l'armée israélienne appelle à l'évacuation de nouvea",
+    "text": "Guerre au Moyen-Orient : Quelle est la position de la Russie vis-à-vis de l'Iran",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260428-nouvelles-frappes-au-liban-l-arm%C3%A9e-isra%C3%A9lienne-appelle-%C3%A0-l-%C3%A9vacuation-de-nouveaux-villages",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260428-guerre-au-moyen-orient-quelle-est-la-position-de-la-russie-vis-%C3%A0-vis-de-l-iran",
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 2902,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient et agriculture mondiale : la sécurité alimentaire menacée",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20260428-guerre-au-moyen-orient-et-agriculture-mondiale-la-s%C3%A9curit%C3%A9-alimentaire-menac%C3%A9e",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 5797,
+    "id": 9222,
     "level": "high",
     "country": "🌍",
     "text": "Is Egypt threatening Israel through its military exercises on the border?",
@@ -99,16 +99,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 2002,
-    "level": "high",
-    "country": "🌍",
-    "text": "Audiovisuel public : feu vert des députés pour la publication du \"rapport Allonc",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260428-audiovisuel-public-feu-vert-des-d%C3%A9put%C3%A9s-pour-la-publication-du-rapport-alloncle",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 1851,
+    "id": 3301,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3888,
+    "id": 7027,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4096,
+    "id": 2148,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 25,
+    "id": 8791,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9555,
+    "id": 5975,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5785,
+    "id": 3907,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 6527,
+    "id": 4029,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,12 +162,21 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 643,
+    "id": 36,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 9381,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-08T12:40"
   }
 ]
