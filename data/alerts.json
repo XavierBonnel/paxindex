@@ -1,6 +1,6 @@
 [
   {
-    "id": 1469,
+    "id": 9515,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4644,
+    "id": 8299,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -18,7 +18,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 5192,
+    "id": 3885,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 5454,
+    "id": 6518,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -36,16 +36,16 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 5558,
+    "id": 1258,
     "level": "critical",
     "country": "🌍",
-    "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/23/between-the-algorithmisation-of-territories-and-the-monoculture-of-data-are-there-paths-towards-ai-that-respect-rights-and-life/",
-    "time": "Thu, 23 Apr 2026"
+    "text": "At least 20 killed in Colombia highway blast",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 9846,
+    "id": 5982,
     "level": "critical",
     "country": "🌍",
     "text": "Gunmen kill at least 29 in Nigeria’s northeast Adamawa State",
@@ -54,7 +54,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 6039,
+    "id": 3116,
     "level": "critical",
     "country": "🌍",
     "text": "14 killed in South Sudan plane crash near capital Juba",
@@ -63,25 +63,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 1248,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What’s driving the coordinated attacks across Mali?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/whats-driving-the-coordinated-attacks-across-mali?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 1260,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trump reviews peace plan; UN calls for Hormuz to reopen",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 9197,
+    "id": 9000,
     "level": "critical",
     "country": "🌍",
     "text": "Après deux mois de guerre, \"l'immense anxiété des Iraniens\"",
@@ -90,16 +72,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 6211,
-    "level": "critical",
+    "id": 3488,
+    "level": "high",
     "country": "🌍",
-    "text": "Mercenaires français, 1 000 terroristes tués… Les intox sur les attaques jihadis",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260427-mali-intox-mercenaires-fran%C3%A7ais-terroristes-tues-attaques-jihadistes-mort-sadio-camara",
-    "time": "Mon, 27 Apr 2026"
+    "text": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5484,
+    "id": 5445,
     "level": "high",
     "country": "🌍",
     "text": "Mexican military captures cartel commander Audias Flores",
@@ -108,16 +90,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 7772,
-    "level": "high",
-    "country": "🌍",
-    "text": "Mali : les militaires au pouvoir vacillent-ils ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260427-mali-les-militaires-au-pouvoir-vacillent-ils",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 6359,
+    "id": 8263,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5406,
+    "id": 1620,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9355,
+    "id": 1675,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3182,
+    "id": 9264,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 825,
+    "id": 5428,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7750,
+    "id": 5323,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,12 +144,39 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 2766,
+    "id": 6848,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 9659,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 5817,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-08T12:40"
+  },
+  {
+    "id": 4880,
+    "level": "medium",
+    "country": "🌍",
+    "text": "AI hype narrative reaches the public healthcare system in El Salvador",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador/",
+    "time": "Tue, 28 Apr 2026"
   }
 ]
