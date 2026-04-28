@@ -1,6 +1,6 @@
 [
   {
-    "id": 9515,
+    "id": 5726,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8299,
+    "id": 3883,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -18,7 +18,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 3885,
+    "id": 3575,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 6518,
+    "id": 1110,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -36,7 +36,25 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 1258,
+    "id": 7810,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 5752,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war: What’s happening on day 60 as diplomacy gathers pace?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/iran-war-whats-happening-on-day-60-as-diplomacy-gathers-pace?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 7525,
     "level": "critical",
     "country": "🌍",
     "text": "At least 20 killed in Colombia highway blast",
@@ -45,25 +63,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5982,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gunmen kill at least 29 in Nigeria’s northeast Adamawa State",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/28/gunmen-kill-at-least-29-in-nigerias-northeast-adamawa-state?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 3116,
-    "level": "critical",
-    "country": "🌍",
-    "text": "14 killed in South Sudan plane crash near capital Juba",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/14-killed-in-south-sudan-plane-crash-near-capital-juba?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 9000,
+    "id": 2573,
     "level": "critical",
     "country": "🌍",
     "text": "Après deux mois de guerre, \"l'immense anxiété des Iraniens\"",
@@ -72,25 +72,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 3488,
+    "id": 3034,
     "level": "high",
     "country": "🌍",
-    "text": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
+    "text": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss",
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5445,
-    "level": "high",
-    "country": "🌍",
-    "text": "Mexican military captures cartel commander Audias Flores",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/28/mexican-military-captures-cartel-commander-audias-flores?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 8263,
+    "id": 1371,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1620,
+    "id": 6834,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1675,
+    "id": 9071,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9264,
+    "id": 4425,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5428,
+    "id": 9112,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5323,
+    "id": 1239,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 6848,
+    "id": 6074,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 9659,
+    "id": 4136,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +153,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 5817,
+    "id": 3974,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
@@ -171,12 +162,21 @@
     "time": "2026-01-08T12:40"
   },
   {
-    "id": 4880,
+    "id": 2352,
     "level": "medium",
     "country": "🌍",
     "text": "AI hype narrative reaches the public healthcare system in El Salvador",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador/",
     "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 243,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Friends no more: How Kyrgyzstan’s ruling tandem crumbled overnight",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/27/friends-no-more-how-kyrgyzstans-ruling-tandem-crumbled-overnight/",
+    "time": "Mon, 27 Apr 2026"
   }
 ]
