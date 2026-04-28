@@ -1,6 +1,6 @@
 [
   {
-    "id": 5513,
+    "id": 3206,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6094,
+    "id": 2545,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5344,
+    "id": 8013,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -27,7 +27,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 2652,
+    "id": 9001,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -36,7 +36,16 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2787,
+    "id": 7518,
+    "level": "critical",
+    "country": "🌍",
+    "text": "FIFA cut World Cup ref following arrest for alleged sexual assault in UK",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/4/28/ref-in-line-for-world-cup-games-arrested-for-alleged-sexual-assault-in-uk?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 4609,
     "level": "critical",
     "country": "🌍",
     "text": "What is the Azawad Liberation Front, part of the Mali attacks?",
@@ -45,7 +54,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 7306,
+    "id": 9463,
     "level": "critical",
     "country": "🌍",
     "text": "The cost of 76 years of US wars, from Korea to Iran",
@@ -54,7 +63,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 1403,
+    "id": 6081,
     "level": "critical",
     "country": "🌍",
     "text": "Who is Ali al-Zaidi, the businessman named as Iraq’s PM-designate?",
@@ -63,25 +72,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5410,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘War crime’: Afghan-Pakistan truce under strain after university strike",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/28/war-crime-afghan-pakistan-truce-under-strain-after-university-strike?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 8098,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 5415,
+    "id": 2543,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes au Liban, l'armée israélienne appelle à l'évacuation de nouvea",
@@ -90,7 +81,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 7938,
+    "id": 2902,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient et agriculture mondiale : la sécurité alimentaire menacée",
@@ -99,7 +90,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 3015,
+    "id": 5797,
+    "level": "high",
+    "country": "🌍",
+    "text": "Is Egypt threatening Israel through its military exercises on the border?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/28/is-egypt-threatening-israel-through-its-military-exercises-on-the-border?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 2002,
     "level": "high",
     "country": "🌍",
     "text": "Audiovisuel public : feu vert des députés pour la publication du \"rapport Allonc",
@@ -108,7 +108,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 9479,
+    "id": 1851,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6653,
+    "id": 3888,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9418,
+    "id": 4096,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4165,
+    "id": 25,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2210,
+    "id": 9555,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6367,
+    "id": 5785,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 8101,
+    "id": 6527,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,7 +171,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1797,
+    "id": 643,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
