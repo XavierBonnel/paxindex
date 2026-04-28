@@ -1,6 +1,6 @@
 [
   {
-    "id": 9705,
+    "id": 6493,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6897,
+    "id": 4781,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -18,7 +18,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 9211,
+    "id": 2607,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 4354,
+    "id": 656,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -36,7 +36,7 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 1845,
+    "id": 3761,
     "level": "critical",
     "country": "🌍",
     "text": "Between the algorithmisation of territories and the monoculture of data: Are the",
@@ -45,7 +45,34 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 1035,
+    "id": 727,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump reviews peace plan; UN calls for Hormuz to reopen",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/28/iran-war-live-trump-reviews-peace-plan-un-calls-for-hormuz-to-reopen?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 1446,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli settlers attack Palestinians and set house on fire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/israeli-settlers-attack-palestinians-and-set-house-on-fire?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 765,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Survivors of deadly Indonesia train crash pulled from wreckage",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/survivors-of-deadly-indonesia-train-crash-pulled-from-wreckage?traffic_source=rss",
+    "time": "Mon, 27 Apr 2026"
+  },
+  {
+    "id": 943,
     "level": "critical",
     "country": "🌍",
     "text": "Who holds the cards in Iran-US talks?",
@@ -54,25 +81,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 624,
-    "level": "critical",
-    "country": "🌍",
-    "text": "King Charles and Queen Camilla arrive for high-profile US state visit",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/27/king-charles-and-queen-camilla-arrive-for-high-profile-us-state-visit?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 3016,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border?traffic_source=rss",
-    "time": "Mon, 27 Apr 2026"
-  },
-  {
-    "id": 4040,
+    "id": 4987,
     "level": "critical",
     "country": "🌍",
     "text": "Mercenaires français, 1 000 terroristes tués… Les intox sur les attaques jihadis",
@@ -81,7 +90,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 9737,
+    "id": 8996,
     "level": "high",
     "country": "🌍",
     "text": "Mali : les militaires au pouvoir vacillent-ils ?",
@@ -90,7 +99,7 @@
     "time": "Mon, 27 Apr 2026"
   },
   {
-    "id": 8925,
+    "id": 8991,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4266,
+    "id": 7809,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5550,
+    "id": 4517,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2660,
+    "id": 9267,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4162,
+    "id": 6951,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3414,
+    "id": 834,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 2800,
+    "id": 2734,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2268,
+    "id": 4094,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,21 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 9654,
+    "id": 2978,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-08T12:40"
-  },
-  {
-    "id": 5695,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Friends no more: How Kyrgyzstan’s ruling tandem crumbled overnight",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/27/friends-no-more-how-kyrgyzstans-ruling-tandem-crumbled-overnight/",
-    "time": "Mon, 27 Apr 2026"
   }
 ]
