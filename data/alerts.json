@@ -1,6 +1,6 @@
 [
   {
-    "id": 3395,
+    "id": 9929,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8079,
+    "id": 1405,
     "level": "critical",
     "country": "🌍",
     "text": "The technological transformation of Colombia's armed conflict",
@@ -18,7 +18,7 @@
     "time": "Sat, 25 Apr 2026"
   },
   {
-    "id": 2834,
+    "id": 4439,
     "level": "critical",
     "country": "🌍",
     "text": "India’s race to adopt AI sparks a deeper question: How can technology respect hu",
@@ -27,7 +27,7 @@
     "time": "Thu, 23 Apr 2026"
   },
   {
-    "id": 2967,
+    "id": 6990,
     "level": "critical",
     "country": "🌍",
     "text": "The children who learn war before they learn the world",
@@ -36,25 +36,61 @@
     "time": "Fri, 24 Apr 2026"
   },
   {
-    "id": 9844,
+    "id": 1652,
     "level": "critical",
     "country": "🌍",
-    "text": "How Iran has changed, and how it hasn’t, in two months of war",
+    "text": "How the US-Israeli war is collapsing the sanctions regime on Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/28/how-iran-has-changed-and-how-it-hasnt-in-two-months-of-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss",
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 3079,
+    "id": 8624,
     "level": "critical",
     "country": "🌍",
-    "text": "Before World Cup, FIFA slammed for politicising sport with Trump prize",
+    "text": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/4/28/before-world-cup-fifa-slammed-for-politicising-sport-with-trump-prize?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again?traffic_source=rss",
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 825,
+    "id": 9865,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Is capitalism fuelling today’s wars? Varsha Gandikota & Jason Hickel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/reframe/2026/4/28/is-capitalism-fuelling-todays-wars-varsha-gandikota-jason-hickel?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 2433,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war?traffic_source=rss",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 7226,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre au Moyen-Orient : Donald Trump n'\"aime pas\" la dernière proposition de l'",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260428-guerre-au-moyen-orient-donald-trump-n-aime-pas-la-derni%C3%A8re-proposition-de-l-iran",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 9348,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Côte d'Ivoire : 24 hommes condamnés au procès de l'attentat de Kafolo",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260428-c%C3%B4te-d-ivoire-24-hommes-condamn%C3%A9s-au-proc%C3%A8s-de-l-attentat-de-kafolo",
+    "time": "Tue, 28 Apr 2026"
+  },
+  {
+    "id": 5804,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : des réseaux solidaires au secours des travailleurs migrants piégés par l",
@@ -63,34 +99,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 1586,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nouvelles frappes meurtrières dans le sud du Liban",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260428-nouvelles-frappes-meurtri%C3%A8res-dans-le-sud-du-liban",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 9795,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient :  Des vols annulés face à la flambée des prix du carbura",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260428-guerre-au-moyen-orient-des-vols-annul%C3%A9s-face-%C3%A0-la-flamb%C3%A9e-des-prix-du-carburant",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 2768,
-    "level": "high",
-    "country": "🌍",
-    "text": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/28/palestine-weekly-wrap-under-cover-of-ceasefire-israel-increases-grip?traffic_source=rss",
-    "time": "Tue, 28 Apr 2026"
-  },
-  {
-    "id": 1436,
+    "id": 4540,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1555,
+    "id": 2637,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1084,
+    "id": 6983,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8570,
+    "id": 5269,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7284,
+    "id": 6930,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9281,
+    "id": 3952,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7625,
+    "id": 4035,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 9537,
+    "id": 2,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,21 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 983,
+    "id": 1797,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Jim Mitre as Senior Vice President and Chief Research Officer",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-08T12:40"
-  },
-  {
-    "id": 5862,
-    "level": "medium",
-    "country": "🌍",
-    "text": "AI hype narrative reaches the public healthcare system in El Salvador",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/28/ai-hype-narrative-reaches-the-public-healthcare-system-in-el-salvador/",
-    "time": "Tue, 28 Apr 2026"
   }
 ]
