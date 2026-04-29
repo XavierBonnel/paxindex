@@ -1,6 +1,6 @@
 [
   {
-    "id": 8458,
+    "id": 6402,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6156,
+    "id": 4518,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,16 +18,34 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 3585,
+    "id": 5960,
     "level": "critical",
     "country": "🌍",
-    "text": "US lawmakers question Pete Hegseth over budget for war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/us-lawmakers-question-pete-hegseth-over-budget-for-war-on-iran?traffic_source=rss",
+    "text": "World: 2016-2026 global overview of deadly earthquakes - DG ECHO Daily Map | 29/",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/map/world/2016-2026-global-overview-deadly-earthquakes-dg-echo-daily-map-29042026",
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 1828,
+    "id": 9892,
+    "level": "critical",
+    "country": "🌍",
+    "text": "CSRF Research: When aid disappears – Lessons from South Sudanese mutual aid",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/south-sudan/csrf-research-when-aid-disappears-lessons-south-sudanese-mutual-aid",
+    "time": "Wed, 29 Apr 2026"
+  },
+  {
+    "id": 316,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: New IPC analysis shows conflict escalation pushing nearly a quarter of ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-new-ipc-analysis-shows-conflict-escalation-pushing-nearly-quarter-population-acute-food-insecurity",
+    "time": "Wed, 29 Apr 2026"
+  },
+  {
+    "id": 4439,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre Iran - Etats-Unis : le climat iranien a-t-il été manipulé par Washington ",
@@ -36,7 +54,7 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 7974,
+    "id": 6948,
     "level": "critical",
     "country": "🌍",
     "text": "La situation toujours aussi tendue au Mali : Frappes aériennes de l'armée à Kida",
@@ -45,7 +63,7 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 5764,
+    "id": 9280,
     "level": "critical",
     "country": "🌍",
     "text": "Le pétrole, une arme géopolitique ?",
@@ -54,16 +72,25 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 8804,
+    "id": 7949,
     "level": "high",
     "country": "🌍",
-    "text": "Mali’s Tuareg rebels say Russian fighters must withdraw from country",
+    "text": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/29/malis-tuareg-rebels-say-russian-fighters-must-withdraw-from-country?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 6205,
+    "id": 4602,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israeli military speedboats block Gaza-bound aid ship",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
+    "time": "Wed, 29 Apr 2026"
+  },
+  {
+    "id": 6119,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7083,
+    "id": 5428,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3225,
+    "id": 865,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8822,
+    "id": 7626,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8100,
+    "id": 4519,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6064,
+    "id": 4989,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1417,
+    "id": 9036,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7836,
+    "id": 6007,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 6926,
+    "id": 7534,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,39 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 2766,
+    "id": 4627,
     "level": "medium",
     "country": "🌍",
     "text": "The human cost of the data center push in Latin America",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/29/the-human-cost-of-the-data-center-push-in-latin-america/",
     "time": "Wed, 29 Apr 2026"
-  },
-  {
-    "id": 5697,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The digital crown: Reclaiming human dignity in the age of AI",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/29/the-digital-crown-reclaiming-human-dignity-in-the-age-of-ai/",
-    "time": "Wed, 29 Apr 2026"
-  },
-  {
-    "id": 5518,
-    "level": "medium",
-    "country": "🌍",
-    "text": "New tech, new rules: Narrative and civil society in the age of AI and algorithms",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/29/new-tech-new-rules-narrative-and-civil-society-in-the-age-of-ai-and-algorithms/",
-    "time": "Wed, 29 Apr 2026"
-  },
-  {
-    "id": 8845,
-    "level": "medium",
-    "country": "🌍",
-    "text": "A lack of electricity and internet access hinders AI adoption in Sub-Saharan Afr",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/28/a-lack-of-electricity-and-internet-access-hinders-ai-adoption-in-sub-saharan-africa/",
-    "time": "Tue, 28 Apr 2026"
   }
 ]
