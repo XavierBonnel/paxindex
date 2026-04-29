@@ -1,6 +1,6 @@
 [
   {
-    "id": 5781,
+    "id": 2978,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9219,
+    "id": 9509,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 78,
+    "id": 4265,
     "level": "critical",
     "country": "🌍",
     "text": "CSRF Research: When aid disappears – Lessons from South Sudanese mutual aid",
@@ -27,7 +27,7 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 1592,
+    "id": 9443,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon: New IPC analysis shows conflict escalation pushing nearly a quarter of ",
@@ -36,7 +36,7 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 7106,
+    "id": 9576,
     "level": "critical",
     "country": "🌍",
     "text": "Middle East Conflict: Lebanon Response Situation Report #4 | April 28, 2026",
@@ -45,34 +45,52 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 3683,
+    "id": 8,
     "level": "critical",
     "country": "🌍",
-    "text": "‘No more Mr Nice Guy’: Trump warns Iran to ‘get smart’ over stalled talks",
+    "text": "Young Palestinian artists from Gaza exhibit work shaped by war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/29/no-more-mr-nice-guy-trump-threatens-iran-to-get-smart-in-peace-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/young-palestinian-artists-from-gaza-exhibit-work-shaped-by-war?traffic_source=rss",
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 5855,
+    "id": 4634,
     "level": "critical",
     "country": "🌍",
-    "text": "At least three killed, more than 10 injured in Russian attacks on Ukraine",
+    "text": "‘We saw terrible things’: Mali refugees tell of atrocities amid attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/29/at-least-three-killed-more-than-10-injured-in-russian-attacks-on-ukraine?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/4/29/we-saw-terrible-things-mali-refugees-tell-of-atrocities-amid-attacks?traffic_source=rss",
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 569,
+    "id": 1291,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike kills five family members in Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israeli-strike-kills-five-family-members-in-lebanon?traffic_source=rss",
+    "time": "Wed, 29 Apr 2026"
+  },
+  {
+    "id": 9738,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre au Moyen-Orient : l'Iran a été \"vaincu militairement\" affirme Donald Trum",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260429-guerre-au-moyen-orient-l-iran-a-%C3%A9t%C3%A9-vaincu-militairement-affirme-donald-trump",
+    "time": "Wed, 29 Apr 2026"
+  },
+  {
+    "id": 2125,
     "level": "high",
     "country": "🌍",
-    "text": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
+    "text": "Inside Tehran’s main airport as more flights take off during ceasefire",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/inside-tehrans-main-airport-as-more-flights-take-off-during-ceasefire?traffic_source=rss",
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 8103,
+    "id": 9005,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2780,
+    "id": 9213,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1244,
+    "id": 231,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5666,
+    "id": 3904,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9494,
+    "id": 1383,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8050,
+    "id": 2498,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 165,
+    "id": 7326,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 6121,
+    "id": 6964,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 7984,
+    "id": 3720,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -153,30 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 5448,
+    "id": 8088,
     "level": "medium",
     "country": "🌍",
     "text": "The digital crown: Reclaiming human dignity in the age of AI",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/29/the-digital-crown-reclaiming-human-dignity-in-the-age-of-ai/",
     "time": "Wed, 29 Apr 2026"
-  },
-  {
-    "id": 2766,
-    "level": "medium",
-    "country": "🌍",
-    "text": "New tech, new rules: Narrative and civil society in the age of AI and algorithms",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/29/new-tech-new-rules-narrative-and-civil-society-in-the-age-of-ai-and-algorithms/",
-    "time": "Wed, 29 Apr 2026"
-  },
-  {
-    "id": 8809,
-    "level": "medium",
-    "country": "🌍",
-    "text": "A lack of electricity and internet access hinders AI adoption in Sub-Saharan Afr",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/28/a-lack-of-electricity-and-internet-access-hinders-ai-adoption-in-sub-saharan-africa/",
-    "time": "Tue, 28 Apr 2026"
   }
 ]
