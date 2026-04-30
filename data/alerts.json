@@ -1,6 +1,6 @@
 [
   {
-    "id": 6799,
+    "id": 6192,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5207,
+    "id": 4237,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,34 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 3060,
+    "id": 5766,
+    "level": "critical",
+    "country": "🌍",
+    "text": "IRC: Prolonged War Drives Mental Health Crisis Across Ukraine",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/ukraine/irc-prolonged-war-drives-mental-health-crisis-across-ukraine",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 1901,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Afghanistan: IRC warns looming deportations risk Afghans returning to a country ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/afghanistan/irc-warns-looming-deportations-risk-afghans-returning-country-where-one-third-population-cannot-feed-their-families",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 1231,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Myanmar: Taw Oo District Short Update: Burma Army shelling killed one villager, ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/myanmar/taw-oo-district-short-update-burma-army-shelling-killed-one-villager-injured-pregnant-woman-and-caused-damage-daw-hpah-hkoh-township-december-2025-and-february-2026-enkarenmy",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 9305,
     "level": "critical",
     "country": "🌍",
     "text": "New Zealand court denies bid by mosque mass shooter to appeal conviction",
@@ -27,16 +54,16 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 1412,
+    "id": 4209,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss",
+    "text": "La liberté de la presse dans la pire situation depuis 25 ans, selon Reporters sa",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260430-libert%C3%A9-presse-pire-situation-depuis-25-ans-reporters-sans-fronti%C3%A8res",
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 5539,
+    "id": 4558,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient en direct : Donald Trump envisage une réduction des forces américai",
@@ -45,7 +72,7 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 2091,
+    "id": 5489,
     "level": "critical",
     "country": "🌍",
     "text": "En Colombie, la guérilla de l'EMC plaide \"une erreur\" après l'attentat qui a tué",
@@ -54,7 +81,7 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 5255,
+    "id": 3195,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre Iran - Etats-Unis : le climat iranien a-t-il été manipulé par Washington ",
@@ -63,16 +90,16 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 8391,
-    "level": "critical",
+    "id": 4141,
+    "level": "high",
     "country": "🌍",
-    "text": "La situation toujours aussi tendue au Mali : Frappes aériennes de l'armée à Kida",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260429-la-situation-toujours-aussi-tendue-au-mali-frappes-a%C3%A9riennes-de-l-arm%C3%A9e-%C3%A0-kidal",
-    "time": "Wed, 29 Apr 2026"
+    "text": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
+    "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 8692,
+    "id": 699,
     "level": "high",
     "country": "🌍",
     "text": "Video emerges of heavy firefight in Mali",
@@ -81,16 +108,7 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 247,
-    "level": "high",
-    "country": "🌍",
-    "text": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 7813,
+    "id": 8722,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 258,
+    "id": 6461,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6539,
+    "id": 5832,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5349,
+    "id": 4411,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4827,
+    "id": 3310,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6625,
+    "id": 4935,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6285,
+    "id": 6794,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,30 +171,12 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 9347,
+    "id": 5553,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 2551,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 9824,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The human cost of the data center push in Latin America",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/29/the-human-cost-of-the-data-center-push-in-latin-america/",
-    "time": "Wed, 29 Apr 2026"
   }
 ]
