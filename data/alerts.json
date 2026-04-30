@@ -1,6 +1,6 @@
 [
   {
-    "id": 7632,
+    "id": 4194,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9267,
+    "id": 3544,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,25 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 8963,
+    "id": 4109,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/piracy-rises-off-somalia-as-us-israeli-war-on-iran-diverts-naval-forces?traffic_source=rss",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 1313,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanese girl mourns paramedic father killed in Israeli strike",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/lebanese-girl-mourns-paramedic-father-killed-in-israeli-strike?traffic_source=rss",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 7663,
     "level": "critical",
     "country": "🌍",
     "text": "US falls to ‘historic low’ in press freedom tracker: RSF",
@@ -27,7 +45,7 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 7159,
+    "id": 906,
     "level": "critical",
     "country": "🌍",
     "text": "Trump slams Germany’s Merz again as rift over Iran war widens",
@@ -36,7 +54,7 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 8139,
+    "id": 8013,
     "level": "critical",
     "country": "🌍",
     "text": "How rebels teamed up to shake Mali and the Kremlin’s grip",
@@ -45,16 +63,7 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 5727,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Saudi Arabia to end LIV Golf funding, while league appoints new chairman",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/liv-golf-has-a-new-chairman-and-seeks-to-new-funding-without-saudi-backing?traffic_source=rss",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 9646,
+    "id": 2338,
     "level": "critical",
     "country": "🌍",
     "text": "Profits exceptionnels de TotalEnergies : Sébastien Lecornu met la pression sur l",
@@ -63,25 +72,7 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 3198,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran, protests, human rights – all to know about the 76th FIFA Congress",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/4/30/iran-protests-human-rights-all-to-know-about-the-76th-fifa?traffic_source=rss",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 6947,
-    "level": "high",
-    "country": "🌍",
-    "text": "From railways to energy — five strategic projects linking Gulf states",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/4/30/from-railways-to-energy-five-strategic-projects-linking-gulf?traffic_source=rss",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 800,
+    "id": 7039,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1318,
+    "id": 2922,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8475,
+    "id": 1022,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1103,
+    "id": 5446,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8001,
+    "id": 8726,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8761,
+    "id": 8729,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8224,
+    "id": 3616,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 2495,
+    "id": 5022,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 3794,
+    "id": 2119,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +153,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 6731,
+    "id": 6182,
     "level": "medium",
     "country": "🌍",
     "text": "The Chinese lesson on the human rights approach to AI",
@@ -171,12 +162,21 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 8073,
+    "id": 4290,
     "level": "medium",
     "country": "🌍",
     "text": "Before the algorithm decides: Queer storytelling as resistance in Nigeria",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/30/before-the-algorithm-decides-queer-storytelling-as-resistance-in-nigeria/",
     "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 1819,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The human cost of the data center push in Latin America",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/29/the-human-cost-of-the-data-center-push-in-latin-america/",
+    "time": "Wed, 29 Apr 2026"
   }
 ]
