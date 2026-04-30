@@ -1,6 +1,6 @@
 [
   {
-    "id": 6192,
+    "id": 4222,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4237,
+    "id": 9990,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,34 +18,25 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5766,
+    "id": 5647,
     "level": "critical",
     "country": "🌍",
-    "text": "IRC: Prolonged War Drives Mental Health Crisis Across Ukraine",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/ukraine/irc-prolonged-war-drives-mental-health-crisis-across-ukraine",
+    "text": "Iran war: What’s happening on day 62 as Trump asks Iran to ‘give up’?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/30/iran-war-whats-happening-on-day-62-as-trump-asks-iran-to-give-up?traffic_source=rss",
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 1901,
+    "id": 4562,
     "level": "critical",
     "country": "🌍",
-    "text": "Afghanistan: IRC warns looming deportations risk Afghans returning to a country ",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/afghanistan/irc-warns-looming-deportations-risk-afghans-returning-country-where-one-third-population-cannot-feed-their-families",
+    "text": "Could the US-Iran war become a protracted ‘frozen’ conflict?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict?traffic_source=rss",
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 1231,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Myanmar: Taw Oo District Short Update: Burma Army shelling killed one villager, ",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/myanmar/taw-oo-district-short-update-burma-army-shelling-killed-one-villager-injured-pregnant-woman-and-caused-damage-daw-hpah-hkoh-township-december-2025-and-february-2026-enkarenmy",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 9305,
+    "id": 9373,
     "level": "critical",
     "country": "🌍",
     "text": "New Zealand court denies bid by mosque mass shooter to appeal conviction",
@@ -54,7 +45,16 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 4209,
+    "id": 8870,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Superprofits pétroliers : le débat sur la taxation relancé",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260430-superprofits-p%C3%A9troliers-le-d%C3%A9bat-sur-la-taxation-relanc%C3%A9",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 7592,
     "level": "critical",
     "country": "🌍",
     "text": "La liberté de la presse dans la pire situation depuis 25 ans, selon Reporters sa",
@@ -63,34 +63,16 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 4558,
+    "id": 806,
     "level": "critical",
     "country": "🌍",
-    "text": "Moyen-Orient en direct : Donald Trump envisage une réduction des forces américai",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260430-moyen-orient-en-direct-iran-donald-trump-forces-americaines-allemagne-liban-petrole",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 5489,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Colombie, la guérilla de l'EMC plaide \"une erreur\" après l'attentat qui a tué",
+    "text": "En Colombie, la guérilla de l'EMC plaide une \"erreur\" après l'attentat qui a tué",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/am%C3%A9riques/20260429-colombie-guerilla-emc-assume-responsabilite-plaide-erreur-attentat-21-civils-morts",
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 3195,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre Iran - Etats-Unis : le climat iranien a-t-il été manipulé par Washington ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260429-guerre-iran-etats-unis-le-climat-iranien-a-t-il-%C3%A9t%C3%A9-manipul%C3%A9-par-washington",
-    "time": "Wed, 29 Apr 2026"
-  },
-  {
-    "id": 4141,
+    "id": 2421,
     "level": "high",
     "country": "🌍",
     "text": "Europe’s little-known mutual defence clause: Is it a NATO substitute?",
@@ -99,16 +81,7 @@
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 699,
-    "level": "high",
-    "country": "🌍",
-    "text": "Video emerges of heavy firefight in Mali",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 8722,
+    "id": 1453,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6461,
+    "id": 782,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5832,
+    "id": 1418,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4411,
+    "id": 391,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3310,
+    "id": 8009,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4935,
+    "id": 67,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6794,
+    "id": 7,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,12 +144,39 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5553,
+    "id": 6631,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 6869,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 5847,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The human cost of the data center push in Latin America",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/29/the-human-cost-of-the-data-center-push-in-latin-america/",
+    "time": "Wed, 29 Apr 2026"
+  },
+  {
+    "id": 9928,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The digital crown: Reclaiming human dignity in the age of AI",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/29/the-digital-crown-reclaiming-human-dignity-in-the-age-of-ai/",
+    "time": "Wed, 29 Apr 2026"
   }
 ]
