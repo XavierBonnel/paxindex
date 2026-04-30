@@ -1,6 +1,6 @@
 [
   {
-    "id": 1260,
+    "id": 3453,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5781,
+    "id": 6736,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,16 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 281,
+    "id": 9463,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump urges Tehran to ‘just give up’, as oil prices surge",
+    "text": "Iran war live: Trump urges Tehran to ‘give up’; Ghalibaf mocks US strategy",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/4/30/iran-war-live-trump-urges-tehran-to-just-give-up-as-oil-prices-surge?traffic_source=rss",
     "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 4393,
+    "id": 2488,
     "level": "critical",
     "country": "🌍",
     "text": "Carney ‘strong’ in year one, now must deliver on promises in Canada",
@@ -36,7 +36,16 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 6540,
+    "id": 4857,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : Donald Trump envisage une réduction des forces américai",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260430-moyen-orient-en-direct-iran-donald-trump-forces-americaines-allemagne-liban-petrole",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 2791,
     "level": "critical",
     "country": "🌍",
     "text": "En Colombie, la guérilla de l'EMC plaide \"une erreur\" après l'attentat qui a tué",
@@ -45,7 +54,7 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 879,
+    "id": 4668,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre Iran - Etats-Unis : le climat iranien a-t-il été manipulé par Washington ",
@@ -54,7 +63,7 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 6043,
+    "id": 603,
     "level": "critical",
     "country": "🌍",
     "text": "La situation toujours aussi tendue au Mali : Frappes aériennes de l'armée à Kida",
@@ -63,16 +72,16 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 2897,
-    "level": "critical",
+    "id": 8521,
+    "level": "high",
     "country": "🌍",
-    "text": "Le pétrole, une arme géopolitique ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260429-le-p%C3%A9trole-une-arme-g%C3%A9opolitique",
-    "time": "Wed, 29 Apr 2026"
+    "text": "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft?traffic_source=rss",
+    "time": "Thu, 30 Apr 2026"
   },
   {
-    "id": 1754,
+    "id": 3046,
     "level": "high",
     "country": "🌍",
     "text": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
@@ -81,7 +90,7 @@
     "time": "Wed, 29 Apr 2026"
   },
   {
-    "id": 5601,
+    "id": 7736,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9612,
+    "id": 8402,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4087,
+    "id": 3071,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8169,
+    "id": 276,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7251,
+    "id": 3297,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9102,
+    "id": 4887,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6606,
+    "id": 8668,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4382,
+    "id": 8432,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 7447,
+    "id": 1076,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,21 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 8896,
+    "id": 1537,
     "level": "medium",
     "country": "🌍",
     "text": "The human cost of the data center push in Latin America",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/29/the-human-cost-of-the-data-center-push-in-latin-america/",
-    "time": "Wed, 29 Apr 2026"
-  },
-  {
-    "id": 3534,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The digital crown: Reclaiming human dignity in the age of AI",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/29/the-digital-crown-reclaiming-human-dignity-in-the-age-of-ai/",
     "time": "Wed, 29 Apr 2026"
   }
 ]
