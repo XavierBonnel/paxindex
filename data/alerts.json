@@ -1,6 +1,6 @@
 [
   {
-    "id": 1878,
+    "id": 9785,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3988,
+    "id": 409,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,25 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 3721,
+    "id": 7284,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/1/poll-finds-61-percent-of-americans-believe-attacking-iran-was-a-mistake?traffic_source=rss",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 893,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations?traffic_source=rss",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 1659,
     "level": "critical",
     "country": "🌍",
     "text": "Pentagon announces deal with seven AI companies for classified systems",
@@ -27,16 +45,16 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 9210,
+    "id": 9834,
     "level": "critical",
     "country": "🌍",
-    "text": "Woman killed, children injured as Israel attacks Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss",
+    "text": "Guerre au Moyen-Orient et flambée du pétrole : relancer la pompe ou tourner la p",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20260501-guerre-au-moyen-orient-et-flamb%C3%A9e-du-p%C3%A9trole-relancer-la-pompe-ou-tourner-la-page",
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 4640,
+    "id": 2846,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : Donald Trump prêt à contourner le Congrès",
@@ -45,7 +63,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 2253,
+    "id": 6283,
     "level": "critical",
     "country": "🌍",
     "text": "Femua 2026 : Youssou N'Dour, Black M et Fatoumata Diawara à l’affiche d’un festi",
@@ -54,7 +72,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 5577,
+    "id": 5066,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes israéliennes dans les villes libanaises de Tyr et Nabatieh",
@@ -63,7 +81,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 8228,
+    "id": 5530,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8375,
+    "id": 4407,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3605,
+    "id": 6244,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8884,
+    "id": 5914,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3649,
+    "id": 1262,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 251,
+    "id": 5172,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7701,
+    "id": 6537,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 9245,
+    "id": 7577,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 7124,
+    "id": 5824,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 1716,
+    "id": 2526,
     "level": "medium",
     "country": "🌍",
     "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
@@ -153,30 +171,12 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 5007,
+    "id": 5054,
     "level": "medium",
     "country": "🌍",
     "text": "The hidden costs of Asia's data center rush",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 5523,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The Chinese lesson on the human rights approach to AI",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/30/the-chinese-lesson-on-the-human-rights-approach-to-ai/",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 1865,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Before the algorithm decides: Queer storytelling as resistance in Nigeria",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/30/before-the-algorithm-decides-queer-storytelling-as-resistance-in-nigeria/",
     "time": "Thu, 30 Apr 2026"
   }
 ]
