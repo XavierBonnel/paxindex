@@ -1,6 +1,6 @@
 [
   {
-    "id": 6860,
+    "id": 1265,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7977,
+    "id": 5534,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,25 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 6176,
+    "id": 2488,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Giorgia Meloni’s moral retreat on Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/5/1/giorgia-melonis-moral-retreat-on-gaza?traffic_source=rss",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 9943,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/1/greek-orthodox-church-sounds-alarm-over-attacks-on-christians-in-jerusalem?traffic_source=rss",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 3502,
     "level": "critical",
     "country": "🌍",
     "text": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
@@ -27,7 +45,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 9533,
+    "id": 5018,
     "level": "critical",
     "country": "🌍",
     "text": "Who profits big from the war on Iran?",
@@ -36,7 +54,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 8670,
+    "id": 9879,
     "level": "critical",
     "country": "🌍",
     "text": "Oil prices rise again with little sign of war on Iran ending",
@@ -45,7 +63,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 7290,
+    "id": 4616,
     "level": "critical",
     "country": "🌍",
     "text": "May Day in the age of AI: The new war on workers",
@@ -54,16 +72,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 5614,
-    "level": "critical",
-    "country": "🌍",
-    "text": "More than 40 Iranian seafarers killed during US-Israeli war: Union leader",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/1/more-than-40-iranian-seafarers-killed-during-us-israeli-war-union?traffic_source=rss",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 899,
+    "id": 5577,
     "level": "critical",
     "country": "🌍",
     "text": "Sous les bombes israéliennes malgré la trêve, le Liban s'enfonce dans un chaos h",
@@ -72,7 +81,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 6444,
+    "id": 6554,
     "level": "critical",
     "country": "🌍",
     "text": "Donald Trump va-t-il snober le Congrès pour poursuivre la guerre en Iran ?",
@@ -81,7 +90,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 5654,
+    "id": 9979,
     "level": "high",
     "country": "🌍",
     "text": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
@@ -90,7 +99,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 3680,
+    "id": 7083,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 607,
+    "id": 5620,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9428,
+    "id": 5835,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7787,
+    "id": 3823,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 926,
+    "id": 6157,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3696,
+    "id": 1949,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6324,
+    "id": 2438,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 1195,
+    "id": 4262,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,21 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5438,
+    "id": 8729,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 5327,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The hidden costs of Asia's data center rush",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
-    "time": "Thu, 30 Apr 2026"
   }
 ]
