@@ -1,6 +1,6 @@
 [
   {
-    "id": 1265,
+    "id": 6713,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5534,
+    "id": 1451,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,25 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 2488,
+    "id": 12,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Woman killed, children injured as Israel attacks Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 7348,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 6052,
     "level": "critical",
     "country": "🌍",
     "text": "Giorgia Meloni’s moral retreat on Gaza",
@@ -27,7 +45,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 9943,
+    "id": 3310,
     "level": "critical",
     "country": "🌍",
     "text": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
@@ -36,7 +54,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 3502,
+    "id": 367,
     "level": "critical",
     "country": "🌍",
     "text": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
@@ -45,34 +63,25 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 5018,
+    "id": 3911,
     "level": "critical",
     "country": "🌍",
-    "text": "Who profits big from the war on Iran?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/money-works/2026/5/1/who-profits-big-from-the-war-on-iran?traffic_source=rss",
+    "text": "Israël redessine-t-il les contours de sa frontière ? Le Liban \"en état de survie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260501-isra%C3%ABl-redessine-t-il-les-contours-de-sa-fronti%C3%A8re-le-liban-en-%C3%A9tat-de-survie",
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 9879,
+    "id": 5367,
     "level": "critical",
     "country": "🌍",
-    "text": "Oil prices rise again with little sign of war on Iran ending",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss",
+    "text": "Guerre au Moyen-Orient : quel impact sur les travailleurs ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260501-guerre-au-moyen-orient-quel-impact-sur-les-travailleurs",
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 4616,
-    "level": "critical",
-    "country": "🌍",
-    "text": "May Day in the age of AI: The new war on workers",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/5/1/may-day-in-the-age-of-ai-the-new-war-on-workers?traffic_source=rss",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 5577,
+    "id": 5047,
     "level": "critical",
     "country": "🌍",
     "text": "Sous les bombes israéliennes malgré la trêve, le Liban s'enfonce dans un chaos h",
@@ -81,7 +90,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 6554,
+    "id": 2547,
     "level": "critical",
     "country": "🌍",
     "text": "Donald Trump va-t-il snober le Congrès pour poursuivre la guerre en Iran ?",
@@ -90,7 +99,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 9979,
+    "id": 122,
     "level": "high",
     "country": "🌍",
     "text": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
@@ -99,7 +108,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 7083,
+    "id": 2265,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5620,
+    "id": 5221,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5835,
+    "id": 3912,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3823,
+    "id": 3826,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6157,
+    "id": 2841,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1949,
+    "id": 2716,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2438,
+    "id": 5725,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,21 +171,12 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4262,
+    "id": 6705,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 8729,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
   }
 ]
