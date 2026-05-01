@@ -1,6 +1,6 @@
 [
   {
-    "id": 826,
+    "id": 7382,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8752,
+    "id": 294,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 841,
+    "id": 302,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pentagon announces deal with seven AI companies for classified systems",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 8637,
     "level": "critical",
     "country": "🌍",
     "text": "Woman killed, children injured as Israel attacks Lebanon",
@@ -27,7 +36,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 8289,
+    "id": 6832,
     "level": "critical",
     "country": "🌍",
     "text": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
@@ -36,61 +45,34 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 8645,
+    "id": 613,
     "level": "critical",
     "country": "🌍",
-    "text": "Giorgia Meloni’s moral retreat on Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/5/1/giorgia-melonis-moral-retreat-on-gaza?traffic_source=rss",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 2366,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/1/greek-orthodox-church-sounds-alarm-over-attacks-on-christians-in-jerusalem?traffic_source=rss",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 6522,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 9832,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israël redessine-t-il les contours de sa frontière ? Le Liban \"en état de survie",
+    "text": "Guerre au Moyen-Orient : Donald Trump prêt à contourner le Congrès",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260501-isra%C3%ABl-redessine-t-il-les-contours-de-sa-fronti%C3%A8re-le-liban-en-%C3%A9tat-de-survie",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260501-guerre-au-moyen-orient-donald-trump-pr%C3%AAt-%C3%A0-contourner-le-congr%C3%A8s",
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 2680,
+    "id": 6406,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre au Moyen-Orient : quel impact sur les travailleurs ?",
+    "text": "Femua 2026 : Youssou N'Dour, Black M et Fatoumata Diawara à l’affiche d’un festi",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260501-guerre-au-moyen-orient-quel-impact-sur-les-travailleurs",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260501-femua-2026-youssou-n-dour-black-m-et-fatoumata-diawara-%C3%A0-l-affiche-d-un-festival-incontournable",
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 2580,
-    "level": "high",
+    "id": 6085,
+    "level": "critical",
     "country": "🌍",
-    "text": "Gaza aid flotilla vessels taken to Crete after Israeli interception",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/1/gaza-aid-flotilla-vessels-taken-to-crete-after-israeli-interception?traffic_source=rss",
+    "text": "Nouvelles frappes israéliennes dans les villes libanaises de Tyr et Nabatieh",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260501-nouvelles-frappes-isra%C3%A9liennes-dans-les-villes-libanaises-de-tyr-et-nabatieh",
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 5265,
+    "id": 5082,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 98,
+    "id": 8436,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9247,
+    "id": 6781,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 114,
+    "id": 787,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9455,
+    "id": 9839,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1438,
+    "id": 7038,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3559,
+    "id": 9784,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5038,
+    "id": 3288,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 362,
+    "id": 5203,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -171,12 +153,30 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 3208,
+    "id": 3621,
     "level": "medium",
     "country": "🌍",
     "text": "The hidden costs of Asia's data center rush",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 2975,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The Chinese lesson on the human rights approach to AI",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/30/the-chinese-lesson-on-the-human-rights-approach-to-ai/",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 9607,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Before the algorithm decides: Queer storytelling as resistance in Nigeria",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/30/before-the-algorithm-decides-queer-storytelling-as-resistance-in-nigeria/",
     "time": "Thu, 30 Apr 2026"
   }
 ]
