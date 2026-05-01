@@ -1,6 +1,6 @@
 [
   {
-    "id": 1154,
+    "id": 218,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8203,
+    "id": 2215,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5894,
+    "id": 5702,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rallies under way as workers gather for International Labour Day",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/5/1/rallies-under-way-as-workers-gather-for-international-labour-day?traffic_source=rss",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 123,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine begins to flex muscle as an emerging air power, angering Russia",
@@ -27,7 +36,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 7097,
+    "id": 6503,
     "level": "critical",
     "country": "🌍",
     "text": "Iran vows ‘long, painful’ response if US renews attacks",
@@ -36,7 +45,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 2231,
+    "id": 4935,
     "level": "critical",
     "country": "🌍",
     "text": "Russia hammers targets across Ukraine overnight",
@@ -45,7 +54,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 4717,
+    "id": 2633,
     "level": "critical",
     "country": "🌍",
     "text": "What do Ukraine’s robot soldiers mean for the future of warfare?",
@@ -54,7 +63,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 3098,
+    "id": 4293,
     "level": "critical",
     "country": "🌍",
     "text": "Why is piracy rising off Somalia again — and is the Iran war responsible?",
@@ -63,52 +72,16 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 8647,
+    "id": 8484,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks?traffic_source=rss",
+    "text": "La guerre en Iran bientôt illégale ? Trump atteint la date limite pour obtenir l",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260501-la-guerre-en-iran-bient%C3%B4t-ill%C3%A9gale-trump-atteint-la-date-limite-pour-obtenir-l-aval-du-congr%C3%A8s",
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 7951,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Pologne, Liban : guerre des drones et guerre hybride",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260501-pologne-liban-guerre-des-drones-et-guerre-hybride",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 433,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : des manifestations du 1er-Mai sous le signe de la guerre au Moyen-Or",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260501-en-direct-manifestations-1er-mai-hausse-prix-p%C3%A9trole-guerre-moyen-orient-pouvoir-achat-france-monde",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 4946,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Selon un psychologue jugé pour sa mort, Maradona était \"bipolaire\" avec \"un trou",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260430-argentine-proces-maradona-bipolaire-trouble-narcissique-psychologue-juge-mort",
-    "time": "Thu, 30 Apr 2026"
-  },
-  {
-    "id": 5390,
-    "level": "high",
-    "country": "🌍",
-    "text": "Madagascar : tensions avec Paris après l'expulsion d'un agent de l'ambassade de ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260501-tensions-france-madagascar-apr%C3%A8s-expulsion-agent-ambassade-france",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 3461,
+    "id": 2715,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8678,
+    "id": 1276,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2943,
+    "id": 1437,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 779,
+    "id": 8979,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5644,
+    "id": 9776,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3191,
+    "id": 8784,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6626,
+    "id": 6602,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,12 +144,39 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 8832,
+    "id": 332,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 7408,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 2836,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The hidden costs of Asia's data center rush",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 8994,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The Chinese lesson on the human rights approach to AI",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/30/the-chinese-lesson-on-the-human-rights-approach-to-ai/",
+    "time": "Thu, 30 Apr 2026"
   }
 ]
