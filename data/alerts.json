@@ -1,6 +1,6 @@
 [
   {
-    "id": 5160,
+    "id": 1800,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4035,
+    "id": 691,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 2761,
+    "id": 969,
+    "level": "critical",
+    "country": "🌍",
+    "text": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
+    "time": "Sat, 02 May 2026"
+  },
+  {
+    "id": 6556,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
@@ -27,7 +36,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 6683,
+    "id": 4752,
     "level": "critical",
     "country": "🌍",
     "text": "US embassy warns citizens in UK as threat level raised to ‘severe’",
@@ -36,7 +45,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 2677,
+    "id": 2951,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
@@ -45,25 +54,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 7098,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
-    "time": "Sat, 02 May 2026"
-  },
-  {
-    "id": 2073,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US said to be withdrawing 5,000 troops from Germany over Iran war spat",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 2269,
+    "id": 8756,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : Trump dit dans une lettre au Congrès que les hostilités contre l'Ira",
@@ -72,7 +63,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 9321,
+    "id": 9858,
     "level": "critical",
     "country": "🌍",
     "text": "Les Etats-Unis sanctionnent l'ancien président congolais Joseph Kabila",
@@ -81,7 +72,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 4550,
+    "id": 5966,
     "level": "critical",
     "country": "🌍",
     "text": "Négociations Iran-Etats-Unis dans l'impasse, frappes sur le Liban, offensive dji",
@@ -90,7 +81,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 3154,
+    "id": 3021,
     "level": "high",
     "country": "🌍",
     "text": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
@@ -99,7 +90,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 1943,
+    "id": 431,
     "level": "high",
     "country": "🌍",
     "text": "Trump renforce les sanctions contre Cuba en pleine mobilisation du 1er-Mai à La ",
@@ -108,7 +99,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 4137,
+    "id": 6756,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3142,
+    "id": 2045,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6636,
+    "id": 6262,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3799,
+    "id": 2487,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 332,
+    "id": 541,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3573,
+    "id": 1850,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7590,
+    "id": 47,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,12 +162,21 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 32,
+    "id": 8889,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 1463,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
   }
 ]
