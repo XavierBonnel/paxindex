@@ -1,6 +1,6 @@
 [
   {
-    "id": 5778,
+    "id": 7916,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5029,
+    "id": 9302,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,16 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 3852,
+    "id": 1218,
     "level": "critical",
     "country": "🌍",
-    "text": "Lebanon: Conflict Intensity, 2 March - 30 April 2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-2-march-30-april-2026",
-    "time": "Fri, 01 May 2026"
+    "text": "Israel issues new forced displacement orders in southern Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
+    "time": "Sun, 03 May 2026"
   },
   {
-    "id": 9372,
+    "id": 7620,
     "level": "critical",
     "country": "🌍",
     "text": "South Korea holds pro-Palestine protest in solidarity with Gaza",
@@ -36,7 +36,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 3229,
+    "id": 5954,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
@@ -45,25 +45,34 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 4769,
+    "id": 1518,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : Trump va étudier la nouvelle proposition de l'Iran mais ne pense pas",
+    "text": "Au Soudan, les derniers gardiens des pyramides de Méroé resistent à la guerre",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260503-en-direct-trump-dit-qu-il-va-%C3%A9tudier-un-nouveau-plan-iranien-mais-souffle-le-froid",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260503-au-soudan-les-derniers-gardiens-des-pyramides-de-m%C3%A9ro%C3%A9-resistent-%C3%A0-la-guerre",
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 6943,
+    "id": 458,
     "level": "critical",
     "country": "🌍",
-    "text": "Charif Majdalani: \"la tension est extrême, la population libanaise est au bord d",
+    "text": "La monaie s'effondre, les prix s'envolent... L'Iran ruiné par la guerre",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260502-charif-majdalani-la-tension-est-extr%C3%AAme-la-population-libanaise-est-au-bord-de-la-rupture",
-    "time": "Sat, 02 May 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260503-la-monaie-s-effondre-les-prix-s-envolent-l-iran-ruin%C3%A9-par-la-guerre",
+    "time": "Sun, 03 May 2026"
   },
   {
-    "id": 6094,
+    "id": 1677,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israël bombarde le Liban au-delà de la ligne jaune et frappe un couvent",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260503-isra%C3%ABl-bombarde-le-liban-au-del%C3%A0-de-la-ligne-jaune-et-frappe-un-couvent",
+    "time": "Sun, 03 May 2026"
+  },
+  {
+    "id": 3836,
     "level": "high",
     "country": "🌍",
     "text": "China blocks US sanctions against five ‘teapot’ refineries",
@@ -72,16 +81,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 5355,
-    "level": "high",
-    "country": "🌍",
-    "text": "La justice militaire malienne ouvre une enquête suite aux attaques du 25 avril",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260502-la-justice-militaire-malienne-ouvre-une-enqu%C3%AAte-suite-aux-attaques-du-25-avril",
-    "time": "Sat, 02 May 2026"
-  },
-  {
-    "id": 1859,
+    "id": 7564,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4580,
+    "id": 8748,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9843,
+    "id": 3115,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9286,
+    "id": 4610,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6481,
+    "id": 4715,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3707,
+    "id": 2009,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8270,
+    "id": 3588,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7962,
+    "id": 7199,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 4256,
+    "id": 212,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 5610,
+    "id": 1201,
     "level": "medium",
     "country": "🌍",
     "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
@@ -171,7 +171,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 8434,
+    "id": 8647,
     "level": "medium",
     "country": "🌍",
     "text": "The hidden costs of Asia's data center rush",
