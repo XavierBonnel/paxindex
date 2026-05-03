@@ -1,6 +1,6 @@
 [
   {
-    "id": 5435,
+    "id": 6438,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6104,
+    "id": 8250,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 9734,
+    "id": 108,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss",
+    "time": "Sun, 03 May 2026"
+  },
+  {
+    "id": 1611,
     "level": "critical",
     "country": "🌍",
     "text": "On World Press Freedom Day, Pope honours journalists killed in war zones",
@@ -27,7 +36,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 7080,
+    "id": 5758,
     "level": "critical",
     "country": "🌍",
     "text": "US to cut troops in Germany as Iran war spat deepens",
@@ -36,7 +45,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 5900,
+    "id": 6395,
     "level": "critical",
     "country": "🌍",
     "text": "Was the Iran war the final blow in the collapse of Spirit Airlines?",
@@ -45,7 +54,16 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 856,
+    "id": 6318,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Drones et systèmes de défense : l'Ukraine veut exporter son savoir-faire",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260503-drones-et-syst%C3%A8mes-de-d%C3%A9fense-l-ukraine-veut-exporter-son-savoir-faire",
+    "time": "Sun, 03 May 2026"
+  },
+  {
+    "id": 1263,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Kiev frappe le port russe de Primorsk, des navires russes to",
@@ -54,7 +72,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 3869,
+    "id": 583,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : plusieurs personnes meurent dans des attaques de drones russes",
@@ -63,7 +81,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 6550,
+    "id": 4887,
     "level": "critical",
     "country": "🌍",
     "text": "\"Monte, grand-mère\" : l'incroyable sauvetage d'Antonina près de la ligne de fron",
@@ -72,7 +90,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 5920,
+    "id": 8028,
     "level": "critical",
     "country": "🌍",
     "text": "128 journalistes ont été tués dans le monde en 2025, la liberté de la presse en ",
@@ -81,16 +99,16 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 9588,
-    "level": "critical",
+    "id": 571,
+    "level": "high",
     "country": "🌍",
-    "text": "L'Iran prêt à la guerre ou la diplomatie, dans l'attente de la réponse de Trump",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260503-l-iran-pr%C3%AAt-%C3%A0-la-guerre-ou-la-diplomatie-dans-l-attente-de-la-r%C3%A9ponse-de-trump",
+    "text": "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss",
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 471,
+    "id": 6545,
     "level": "high",
     "country": "🌍",
     "text": "Netanyahu boasts of Israel’s billion-dollar military investments",
@@ -99,16 +117,16 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 8867,
+    "id": 4648,
     "level": "high",
     "country": "🌍",
-    "text": "US military says two service members taking part in Morocco drills missing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/3/us-military-says-two-service-members-taking-part-in-morocco-drills-missing?traffic_source=rss",
+    "text": "Au Maroc, deux soldats américains sont portés disparus dans des exercices milita",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260503-maroc-deux-soldats-americains-sont-portes-disparus-exercices-militaires-african-lion",
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 9755,
+    "id": 3561,
     "level": "high",
     "country": "🌍",
     "text": "À Cuba, le durcissement des sanctions américaines met en péril le système de rat",
@@ -117,7 +135,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 1693,
+    "id": 1263,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3261,
+    "id": 6169,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4884,
+    "id": 137,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 170,
+    "id": 6262,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1335,
+    "id": 6304,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 8271,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 4182,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
   }
 ]
