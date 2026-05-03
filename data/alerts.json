@@ -1,6 +1,6 @@
 [
   {
-    "id": 7331,
+    "id": 3169,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9941,
+    "id": 3610,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5675,
+    "id": 4559,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US to cut troops in Germany as Iran war spat deepens",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss",
+    "time": "Sun, 03 May 2026"
+  },
+  {
+    "id": 4771,
     "level": "critical",
     "country": "🌍",
     "text": "Was the Iran war the final blow in the collapse of Spirit Airlines?",
@@ -27,16 +36,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 3228,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 4911,
+    "id": 3248,
     "level": "critical",
     "country": "🌍",
     "text": "\"Monte, grand-mère\" : l'incroyable sauvetage d'Antonina près de la ligne de fron",
@@ -45,7 +45,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 116,
+    "id": 5410,
     "level": "critical",
     "country": "🌍",
     "text": "128 journalistes ont été tués dans le monde en 2025, la liberté de la presse en ",
@@ -54,7 +54,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 7711,
+    "id": 9405,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran prêt à la guerre ou la diplomatie, dans l'attente de la réponse de Trump",
@@ -63,7 +63,16 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 7208,
+    "id": 3462,
+    "level": "high",
+    "country": "🌍",
+    "text": "Netanyahu boasts of Israel’s billion-dollar military investments",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/netanyahu-boasts-of-israels-billion-dollar-military-investments?traffic_source=rss",
+    "time": "Sun, 03 May 2026"
+  },
+  {
+    "id": 4947,
     "level": "high",
     "country": "🌍",
     "text": "US military says two service members taking part in Morocco drills missing",
@@ -72,7 +81,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 9761,
+    "id": 7411,
     "level": "high",
     "country": "🌍",
     "text": "RD Congo : rapport alarmant sur l'état de l'armée après l'audition de plusieurs ",
@@ -81,7 +90,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 4744,
+    "id": 4733,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4523,
+    "id": 2939,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5604,
+    "id": 3486,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5390,
+    "id": 6829,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1931,
+    "id": 5095,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4452,
+    "id": 5466,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 4107,
+    "id": 7357,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5066,
+    "id": 3918,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2964,
+    "id": 2678,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,21 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 8319,
+    "id": 4333,
     "level": "medium",
     "country": "🌍",
     "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/01/educating-for-climate-resilience-anil-adhikari-on-conservation-and-community-action-in-nepal/",
     "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 1580,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The hidden costs of Asia's data center rush",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
-    "time": "Thu, 30 Apr 2026"
   }
 ]
