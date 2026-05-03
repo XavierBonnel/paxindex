@@ -1,6 +1,6 @@
 [
   {
-    "id": 5484,
+    "id": 5100,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2157,
+    "id": 9065,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 410,
+    "id": 2459,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
+    "time": "Sun, 03 May 2026"
+  },
+  {
+    "id": 7102,
     "level": "critical",
     "country": "🌍",
     "text": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
@@ -27,7 +36,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 1663,
+    "id": 3945,
     "level": "critical",
     "country": "🌍",
     "text": "World Press Freedom Day marked in Gaza as journalist death toll rises",
@@ -36,16 +45,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 7017,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel’s strategy of ‘permanent war’: A race against time?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 7232,
+    "id": 7983,
     "level": "critical",
     "country": "🌍",
     "text": "Drones et systèmes de défense : l'Ukraine veut exporter son savoir-faire",
@@ -54,7 +54,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 654,
+    "id": 6053,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Kiev frappe le port russe de Primorsk, des navires russes to",
@@ -63,7 +63,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 9231,
+    "id": 7183,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : plusieurs personnes meurent dans des attaques de drones russes",
@@ -72,7 +72,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 9599,
+    "id": 5937,
     "level": "critical",
     "country": "🌍",
     "text": "\"Monte, grand-mère\" : l'incroyable sauvetage d'Antonina près de la ligne de fron",
@@ -81,7 +81,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 6203,
+    "id": 5489,
     "level": "high",
     "country": "🌍",
     "text": "Is Mali’s military government losing control?",
@@ -90,7 +90,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 6944,
+    "id": 3688,
     "level": "high",
     "country": "🌍",
     "text": "Is Israel expanding into Gaza despite ceasefire?",
@@ -99,7 +99,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 772,
+    "id": 740,
     "level": "high",
     "country": "🌍",
     "text": "Au Maroc, deux soldats américains sont portés disparus dans des exercices milita",
@@ -108,7 +108,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 470,
+    "id": 5025,
     "level": "high",
     "country": "🌍",
     "text": "À Cuba, le durcissement des sanctions américaines met en péril le système de rat",
@@ -117,7 +117,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 3264,
+    "id": 7968,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 685,
+    "id": 1893,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3161,
+    "id": 6177,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 902,
+    "id": 4842,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 981,
+    "id": 8461,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8804,
+    "id": 443,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,7 +171,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7627,
+    "id": 6568,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
