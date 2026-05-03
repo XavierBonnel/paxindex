@@ -1,6 +1,6 @@
 [
   {
-    "id": 1612,
+    "id": 9083,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 740,
+    "id": 8852,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,16 +18,34 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5137,
+    "id": 5527,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump reviews Iranian peace proposal, warns strikes could resume",
+    "text": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
+    "time": "Sun, 03 May 2026"
+  },
+  {
+    "id": 5194,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UAE lifts all air traffic restrictions introduced since Iran war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/3/uae-lifts-all-air-traffic-restrictions-introduced-since-iran-war?traffic_source=rss",
+    "time": "Sun, 03 May 2026"
+  },
+  {
+    "id": 2653,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 6493,
+    "id": 4225,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
@@ -36,7 +54,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 867,
+    "id": 3245,
     "level": "critical",
     "country": "🌍",
     "text": "Why are maritime laws failing to secure the seas?",
@@ -45,7 +63,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 1415,
+    "id": 2768,
     "level": "critical",
     "country": "🌍",
     "text": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
@@ -54,34 +72,16 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 602,
+    "id": 9087,
     "level": "critical",
     "country": "🌍",
-    "text": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
-    "time": "Sat, 02 May 2026"
+    "text": "En direct : Trump affirme qu'il va étudier un nouveau plan iranien, mais souffle",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260503-en-direct-trump-dit-qu-il-va-%C3%A9tudier-un-nouveau-plan-iranien-mais-souffle-le-froid",
+    "time": "Sun, 03 May 2026"
   },
   {
-    "id": 7488,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Khartoum drone strike kills five in Sudan, NGO reports",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
-    "time": "Sat, 02 May 2026"
-  },
-  {
-    "id": 6754,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine eyes Belarus border activities as Russian strikes persist",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
-    "time": "Sat, 02 May 2026"
-  },
-  {
-    "id": 3995,
+    "id": 4108,
     "level": "critical",
     "country": "🌍",
     "text": "Charif Majdalani: \"la tension est extrême, la population libanaise est au bord d",
@@ -90,7 +90,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 1230,
+    "id": 4472,
     "level": "high",
     "country": "🌍",
     "text": "La justice militaire malienne ouvre une enquête suite aux attaques du 25 avril",
@@ -99,7 +99,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 8690,
+    "id": 6702,
     "level": "high",
     "country": "🌍",
     "text": "\"Trop d'accidents médicaux en France\" : la Cour des comptes alerte et appelle à ",
@@ -108,7 +108,7 @@
     "time": "Sat, 02 May 2026"
   },
   {
-    "id": 8899,
+    "id": 6153,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 908,
+    "id": 3810,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9892,
+    "id": 6102,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5213,
+    "id": 2204,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4857,
+    "id": 3380,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2615,
+    "id": 3483,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5025,
+    "id": 7428,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,7 +171,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 1382,
+    "id": 837,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
