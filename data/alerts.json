@@ -1,6 +1,6 @@
 [
   {
-    "id": 7636,
+    "id": 6510,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7536,
+    "id": 7211,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,25 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 6356,
+    "id": 1057,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UAE reports missile and drone strikes incoming from Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/4/uae-reports-missile-and-drone-strikes-incoming-from-iran?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 1314,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Satellite imagery reveals how Sudan’s war scorched its ‘breadbasket’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/5/4/satellite-imagery-reveals-how-sudans-war-scorched-its-breadbasket?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 6848,
     "level": "critical",
     "country": "🌍",
     "text": "Armenia hosts major EU summits in pivot away from Russia",
@@ -27,25 +45,34 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 2841,
+    "id": 4201,
     "level": "critical",
     "country": "🌍",
-    "text": "Five people killed in Russian missile attack on Ukraine’s Kharkiv region",
+    "text": "Russian strikes kill at least eight in Ukraine, drones hit Moscow",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/5/4/five-people-killed-in-russian-missile-attack-on-ukraines-kharkiv-region?traffic_source=rss",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 9694,
+    "id": 3819,
     "level": "critical",
     "country": "🌍",
-    "text": "War preparations under way in Iran as Hormuz tensions with US escalate",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate?traffic_source=rss",
+    "text": "Arménie : un sommet pour s'émanciper de Moscou ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260504-arm%C3%A9nie-un-sommet-pour-s-%C3%A9manciper-de-moscou",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 5173,
+    "id": 1088,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali : le chef de la junte Assimi Goïta devient également ministre de la Défense",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260504-mali-le-chef-de-la-junte-assimi-go%C3%AFta-devient-%C3%A9galement-ministre-de-la-d%C3%A9fense",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 2242,
     "level": "critical",
     "country": "🌍",
     "text": "Hantavirus : \"isolement\" à bord du bateau de croisière, les Canaries \"envisagées",
@@ -54,7 +81,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 7908,
+    "id": 7854,
     "level": "critical",
     "country": "🌍",
     "text": "En Ukraine, une frappe russe sur une ville de l'Est tue quatre civils",
@@ -63,25 +90,25 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 4634,
-    "level": "critical",
+    "id": 9266,
+    "level": "high",
     "country": "🌍",
-    "text": "Détroit d'Ormuz : l’Iran affirme avoir visé un navire américain, Washington déme",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260504-d%C3%A9troit-d-ormuz-l-iran-affirme-avoir-vis%C3%A9-un-navire-am%C3%A9ricain-washington-d%C3%A9ment",
+    "text": "Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/4/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz?traffic_source=rss",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 2128,
-    "level": "critical",
+    "id": 4296,
+    "level": "high",
     "country": "🌍",
-    "text": "En Arménie, les européens repensent les questions de sécurité et de défense",
+    "text": "Maroc : deux soldats américains disparus après un exercice",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260504-en-arm%C3%A9nie-les-europ%C3%A9ens-repensent-les-questions-de-s%C3%A9curit%C3%A9-et-de-d%C3%A9fense",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260504-maroc-deux-soldats-am%C3%A9ricains-disparus-apr%C3%A8s-un-exercice",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 689,
+    "id": 3863,
     "level": "high",
     "country": "🌍",
     "text": "🔴 En direct : un navire sud-coréen \"en feu\" après une \"explosion\" dans le détroi",
@@ -90,16 +117,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 8510,
-    "level": "high",
-    "country": "🌍",
-    "text": "En Arménie, l'Europe et le Canada se serrent les coudes face à Trump",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260504-en-arm%C3%A9nie-l-europe-et-le-canada-se-serrent-les-coudes-face-%C3%A0-trump",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 4489,
+    "id": 9502,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5734,
+    "id": 1408,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4174,
+    "id": 8192,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 74,
+    "id": 1348,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1866,
+    "id": 4915,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8416,
+    "id": 9689,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,30 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9344,
+    "id": 8143,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 373,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 4885,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
   }
 ]
