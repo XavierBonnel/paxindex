@@ -1,6 +1,6 @@
 [
   {
-    "id": 4306,
+    "id": 1128,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4771,
+    "id": 7139,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 5145,
+    "id": 277,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Winning peace in Lebanon is harder than winning war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 3095,
     "level": "critical",
     "country": "🌍",
     "text": "Iran says it fired missiles at US warship to prevent it entering Hormuz",
@@ -27,7 +36,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 5491,
+    "id": 5182,
     "level": "critical",
     "country": "🌍",
     "text": "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
@@ -36,7 +45,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 7449,
+    "id": 3165,
     "level": "critical",
     "country": "🌍",
     "text": "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
@@ -45,7 +54,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 3964,
+    "id": 8812,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
@@ -54,34 +63,25 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 6391,
+    "id": 9443,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
+    "text": "Détroit d'Ormuz : l’Iran affirme avoir visé un navire américain, Washington déme",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260504-d%C3%A9troit-d-ormuz-l-iran-affirme-avoir-vis%C3%A9-un-navire-am%C3%A9ricain-washington-d%C3%A9ment",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 3931,
+    "id": 593,
     "level": "critical",
     "country": "🌍",
-    "text": "Former NYC Mayor Giuliani hospitalised in ‘critical condition’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss",
+    "text": "En Arménie, les européens repensent les questions de sécurité et de défense",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260504-en-arm%C3%A9nie-les-europ%C3%A9ens-repensent-les-questions-de-s%C3%A9curit%C3%A9-et-de-d%C3%A9fense",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 5224,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 3980,
+    "id": 5307,
     "level": "critical",
     "country": "🌍",
     "text": "Croisière dans l’Atlantique : trois morts liés à un possible foyer de hantavirus",
@@ -90,7 +90,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 8823,
+    "id": 3744,
     "level": "critical",
     "country": "🌍",
     "text": "Mali : l'Azawad, \"fabrication politique\" et propagande des groupes armés rebelle",
@@ -99,7 +99,25 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 9914,
+    "id": 5706,
+    "level": "high",
+    "country": "🌍",
+    "text": "‘Israel is not implementing the ceasefire agreement in Gaza’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/israel-is-not-implementing-the-ceasefire-agreement-in?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 2369,
+    "level": "high",
+    "country": "🌍",
+    "text": "En Arménie, l'Europe et le Canada se serrent les coudes face à Trump",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260504-en-arm%C3%A9nie-l-europe-et-le-canada-se-serrent-les-coudes-face-%C3%A0-trump",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 8214,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1760,
+    "id": 7999,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3033,
+    "id": 9887,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8175,
+    "id": 3111,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3776,
+    "id": 9019,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7935,
+    "id": 3970,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,30 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7684,
+    "id": 9806,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 829,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 1581,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
   }
 ]
