@@ -1,6 +1,6 @@
 [
   {
-    "id": 9079,
+    "id": 24,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7815,
+    "id": 9044,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 9780,
+    "id": 9575,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran warns Trump’s Hormuz mission violates ceasefire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 4888,
     "level": "critical",
     "country": "🌍",
     "text": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
@@ -27,7 +36,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 3150,
+    "id": 4118,
     "level": "critical",
     "country": "🌍",
     "text": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
@@ -36,16 +45,16 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 7483,
+    "id": 3159,
     "level": "critical",
     "country": "🌍",
-    "text": "World Press Freedom Day marked in Gaza as journalist death toll rises",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss",
+    "text": "Trois morts liés à un possible foyer de hantavirus lors d'une croisière, l'OMS e",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/sant%C3%A9/20260503-trois-morts-li%C3%A9s-%C3%A0-un-possible-foyer-de-hantavirus-lors-d-une-croisi%C3%A8re-l-oms-ouvre-une-enqu%C3%AAte",
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 5030,
+    "id": 8584,
     "level": "critical",
     "country": "🌍",
     "text": "Drones et systèmes de défense : l'Ukraine veut exporter son savoir-faire",
@@ -54,34 +63,16 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 3766,
-    "level": "critical",
+    "id": 2970,
+    "level": "high",
     "country": "🌍",
-    "text": "Guerre en Ukraine : Kiev frappe le port russe de Primorsk, des navires russes to",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260503-guerre-en-ukraine-kiev-frappe-port-primorsk-russie-navires-russes-touches-incendie-drones-exportation-petrole-zelensky",
-    "time": "Sun, 03 May 2026"
+    "text": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
   },
   {
-    "id": 538,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : plusieurs personnes meurent dans des attaques de drones russes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260503-ukraine-plusieurs-personnes-meurent-dans-des-attaques-de-drones-russes",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 8474,
-    "level": "critical",
-    "country": "🌍",
-    "text": "\"Monte, grand-mère\" : l'incroyable sauvetage d'Antonina près de la ligne de fron",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260503-monte-grand-m%C3%A8re-l-incroyable-sauvetage-d-antonina-pr%C3%A8s-de-la-ligne-de-front-en-ukraine",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 9886,
+    "id": 6769,
     "level": "high",
     "country": "🌍",
     "text": "Is Mali’s military government losing control?",
@@ -90,16 +81,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 9086,
-    "level": "high",
-    "country": "🌍",
-    "text": "Is Israel expanding into Gaza despite ceasefire?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 9218,
+    "id": 2905,
     "level": "high",
     "country": "🌍",
     "text": "Au Maroc, deux soldats américains sont portés disparus dans des exercices milita",
@@ -108,16 +90,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 3519,
-    "level": "high",
-    "country": "🌍",
-    "text": "À Cuba, le durcissement des sanctions américaines met en péril le système de rat",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260503-%C3%A0-cuba-le-durcissement-des-sanctions-am%C3%A9ricaines-met-en-p%C3%A9ril-le-syst%C3%A8me-de-rationnement",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 3496,
+    "id": 8915,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7032,
+    "id": 4807,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1951,
+    "id": 5151,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3359,
+    "id": 5482,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6302,
+    "id": 3282,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4072,
+    "id": 432,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,12 +144,39 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3647,
+    "id": 2126,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 5474,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 9155,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 2063,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/01/educating-for-climate-resilience-anil-adhikari-on-conservation-and-community-action-in-nepal/",
+    "time": "Fri, 01 May 2026"
   }
 ]
