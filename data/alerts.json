@@ -1,6 +1,6 @@
 [
   {
-    "id": 4918,
+    "id": 3668,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5625,
+    "id": 4767,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,7 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 7518,
+    "id": 3048,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
@@ -27,7 +27,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 3064,
+    "id": 9078,
     "level": "critical",
     "country": "🌍",
     "text": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
@@ -36,7 +36,7 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 3567,
+    "id": 6083,
     "level": "critical",
     "country": "🌍",
     "text": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
@@ -45,7 +45,16 @@
     "time": "Sun, 03 May 2026"
   },
   {
-    "id": 496,
+    "id": 3485,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'OMS, MSF et le CICR fustigent la généralisation des attaques contre les servic",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/sant%C3%A9/20260504-oms-msf-cicr-fustigent-generalisation-attaques-contre-services-sante-appel-action-echec-onu-soignants-hopital",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 505,
     "level": "critical",
     "country": "🌍",
     "text": "Un possible foyer d'infection d'hantavirus sur une croisière",
@@ -54,16 +63,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 4566,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trois morts liés à un possible foyer de hantavirus lors d'une croisière, l'OMS e",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sant%C3%A9/20260503-trois-morts-li%C3%A9s-%C3%A0-un-possible-foyer-de-hantavirus-lors-d-une-croisi%C3%A8re-l-oms-ouvre-une-enqu%C3%AAte",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 9424,
+    "id": 3181,
     "level": "high",
     "country": "🌍",
     "text": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
@@ -72,16 +72,16 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 5089,
+    "id": 1031,
     "level": "high",
     "country": "🌍",
-    "text": "Is Mali’s military government losing control?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/3/is-malis-military-government-losing-control?traffic_source=rss",
-    "time": "Sun, 03 May 2026"
+    "text": "Jean-Luc Mélenchon, \"le candidat permanent\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260504-jean-luc-m%C3%A9lenchon-le-candidat-permanent",
+    "time": "Mon, 04 May 2026"
   },
   {
-    "id": 1245,
+    "id": 8352,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2205,
+    "id": 5401,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6906,
+    "id": 5023,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9755,
+    "id": 2713,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7630,
+    "id": 6973,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9113,
+    "id": 6416,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3297,
+    "id": 2320,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3406,
+    "id": 6925,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 336,
+    "id": 7134,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 7482,
+    "id": 9662,
     "level": "medium",
     "country": "🌍",
     "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
@@ -171,7 +171,7 @@
     "time": "Fri, 01 May 2026"
   },
   {
-    "id": 7297,
+    "id": 5341,
     "level": "medium",
     "country": "🌍",
     "text": "The hidden costs of Asia's data center rush",
