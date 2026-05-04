@@ -1,6 +1,6 @@
 [
   {
-    "id": 9342,
+    "id": 1472,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4090,
+    "id": 6718,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,7 +18,16 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 1895,
+    "id": 4262,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Captain warns ‘no ship will be a hero’ by risking Hormuz transit",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/captain-warns-no-ship-will-be-a-hero-by-risking-hormuz-transit?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 9493,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon Latest",
@@ -27,7 +36,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 8939,
+    "id": 6089,
     "level": "critical",
     "country": "🌍",
     "text": "UAE reports missile and drone strikes incoming from Iran",
@@ -36,7 +45,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 4335,
+    "id": 5681,
     "level": "critical",
     "country": "🌍",
     "text": "Satellite imagery reveals how Sudan’s war scorched its ‘breadbasket’",
@@ -45,16 +54,16 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 1784,
+    "id": 2486,
     "level": "critical",
     "country": "🌍",
-    "text": "Armenia hosts major EU summits in pivot away from Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/armenia-hosts-major-eu-summits-in-pivot-away-from-russia?traffic_source=rss",
+    "text": "Les hantavirus: des zoonoses transmises par les déjections des rongeurs",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260504-les-hantavirus-des-zoonoses-transmises-par-les-d%C3%A9jections-des-rongeurs",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 8177,
+    "id": 101,
     "level": "critical",
     "country": "🌍",
     "text": "Détroit d'Ormuz : la marine iranienne a tiré des missiles sur des navires milita",
@@ -63,7 +72,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 7942,
+    "id": 3662,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : une \"trêve\" meurtrière",
@@ -72,7 +81,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 7188,
+    "id": 4879,
     "level": "critical",
     "country": "🌍",
     "text": "Foyer d’hantavirus lors d'une croisière : 3 morts, 1 hospitalisé à Johannesburg",
@@ -81,7 +90,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 2843,
+    "id": 8646,
     "level": "critical",
     "country": "🌍",
     "text": "Un journaliste français tué lors d'une frappe de l'armée malienne ? C'est une ph",
@@ -90,7 +99,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 452,
+    "id": 6358,
     "level": "critical",
     "country": "🌍",
     "text": "Qu'est-ce que le hantavirus, le virus responsable d'un possible cluster sur un n",
@@ -99,16 +108,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 7630,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Donald Trump menace de retirer des troupes d’Allemagne, un risque d'affaiblissem",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260504-donald-trump-retrait-soldats-allemagne-europe-defense-iran-guerre-russie",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 8202,
+    "id": 3250,
     "level": "high",
     "country": "🌍",
     "text": "Does Trump hold ‘all the cards’ against Iran in the Strait of Hormuz?",
@@ -117,7 +117,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 3847,
+    "id": 1557,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2622,
+    "id": 3374,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2198,
+    "id": 4672,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4787,
+    "id": 2209,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3780,
+    "id": 5600,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6456,
+    "id": 6011,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,7 +171,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5562,
+    "id": 5864,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
