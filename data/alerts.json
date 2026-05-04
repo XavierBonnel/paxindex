@@ -1,6 +1,6 @@
 [
   {
-    "id": 3668,
+    "id": 8147,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4767,
+    "id": 8227,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil: A warning on how AI and deepfakes can become an ’excessive risk‘ to wome",
@@ -18,34 +18,88 @@
     "time": "Tue, 28 Apr 2026"
   },
   {
-    "id": 3048,
+    "id": 6837,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
+    "text": "Yemen: Agrometeorological Early Warning Bulletin (01 - 10 May 2026) [EN/AR]",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/yemen-agrometeorological-early-warning-bulletin-01-10-may-2026-enar",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 1363,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Two months into Iran war, IRC operational costs spike by up to 50% as fue",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/two-months-iran-war-irc-operational-costs-spike-50-fuel-prices-rise-and-aid-routes-collapse",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 7868,
+    "level": "critical",
+    "country": "🌍",
+    "text": "oPt: Attacks on health care in the West Bank (Since 1 January - 30 April 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/occupied-palestinian-territory/attacks-health-care-west-bank-1-january-30-april-2026",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 8583,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ethiopia: East and Southern Africa: Media freedom under attack amid prevailing i",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/ethiopia/east-and-southern-africa-media-freedom-under-attack-amid-prevailing-impunity",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 4940,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine Key Message Update, April - September 2026: Frontline food insecurity pe",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/ukraine/ukraine-key-message-update-april-september-2026-frontline-food-insecurity-persists-seasonal-recovery-remains-uneven",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 4939,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 4395,
+    "level": "critical",
+    "country": "🌍",
+    "text": "All-round hero Hardie helps Babar Azam’s Peshawar Zalmi win PSL 2026",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/4/all-round-hero-hardie-helps-babar-azams-peshawar-zalmi-win-psl-2026?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 1040,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/4/how-to-escape-russias-army-soldiers-serving-in-ukraine-seek-a-way-out?traffic_source=rss",
+    "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 2151,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Iranian military warns US of attacks over Hormuz mission",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 9078,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 6083,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss",
-    "time": "Sun, 03 May 2026"
-  },
-  {
-    "id": 3485,
+    "id": 5852,
     "level": "critical",
     "country": "🌍",
     "text": "L'OMS, MSF et le CICR fustigent la généralisation des attaques contre les servic",
@@ -54,7 +108,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 505,
+    "id": 6670,
     "level": "critical",
     "country": "🌍",
     "text": "Un possible foyer d'infection d'hantavirus sur une croisière",
@@ -63,7 +117,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 3181,
+    "id": 7381,
     "level": "high",
     "country": "🌍",
     "text": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
@@ -72,7 +126,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 1031,
+    "id": 2439,
     "level": "high",
     "country": "🌍",
     "text": "Jean-Luc Mélenchon, \"le candidat permanent\"",
@@ -81,7 +135,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 8352,
+    "id": 1354,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5401,
+    "id": 2420,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5023,
+    "id": 184,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2713,
+    "id": 3154,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,66 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6973,
+    "id": 9888,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 6416,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 2320,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 6925,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 7134,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 9662,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/01/educating-for-climate-resilience-anil-adhikari-on-conservation-and-community-action-in-nepal/",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 5341,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The hidden costs of Asia's data center rush",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
-    "time": "Thu, 30 Apr 2026"
   }
 ]
