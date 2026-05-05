@@ -1,6 +1,6 @@
 [
   {
-    "id": 4678,
+    "id": 8022,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,16 +9,25 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9500,
+    "id": 7774,
     "level": "critical",
     "country": "🌍",
-    "text": "Attacks on Health Care in Sudan, 15 - 28 April 2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/sudan/attacks-health-care-sudan-15-28-april-2026",
+    "text": "Boko Haram attack kills 23 soldiers in Chad’s Lake Chad region",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/boko-haram-attack-kills-23-soldiers-in-chads-lake-chad-region?traffic_source=rss",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 4255,
+    "id": 7686,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What’s the significance of UAE’s Fujairah, hit on Monday?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/whats-the-significance-of-uaes-fujairah-hit-on-monday?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 5951,
     "level": "critical",
     "country": "🌍",
     "text": "What’s happening in Mali one week after attack by armed groups? All we know",
@@ -27,7 +36,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1234,
+    "id": 7939,
     "level": "critical",
     "country": "🌍",
     "text": "Sudan accuses Ethiopia, UAE of being behind recent drone attacks",
@@ -36,7 +45,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 6860,
+    "id": 8203,
     "level": "critical",
     "country": "🌍",
     "text": "Why Europe’s car industry is at the centre of a new US trade war",
@@ -45,34 +54,16 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 7080,
+    "id": 5603,
     "level": "critical",
     "country": "🌍",
-    "text": "Paranoïa ou guerre psychologique : Poutine se méfie-t-il de son ombre ?",
+    "text": "RD Congo : un cycliste parcourt 14 000 km pour la paix",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260505-paranoia-ou-guerre-psychologique-poutine-peur-tentative-assassinat-coup-etat-psyops",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-rd-congo-un-cycliste-parcourt-14-000-km-pour-la-paix",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 8087,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : Poutine et Zelensky annoncent des trêves à des dates différe",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-guerre-en-ukraine-poutine-et-zelensky-annoncent-des-tr%C3%AAves-%C3%A0-des-dates-diff%C3%A9rentes",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 5987,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Audiovisuel public : le rapport de Charles Alloncle sous le feu des critiques",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-audiovisuel-public-le-rapport-de-charles-alloncle-sous-le-feu-des-critiques",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 6483,
+    "id": 9583,
     "level": "high",
     "country": "🌍",
     "text": "US-Iran ceasefire holds despite Hormuz standoff: Pentagon chief Hegseth",
@@ -81,16 +72,25 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 650,
+    "id": 6879,
     "level": "high",
     "country": "🌍",
-    "text": "DRC protest in support of US sanctions against former president",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/drc-protest-in-support-of-us-sanctions-against-former-president?traffic_source=rss",
+    "text": "France : des lycéens préparent un bac option drones, une première qui intéresse ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-france-des-lyc%C3%A9ens-pr%C3%A9parent-un-bac-option-drones-une-premi%C3%A8re-qui-int%C3%A9resse-l-arm%C3%A9e",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 7176,
+    "id": 1765,
+    "level": "high",
+    "country": "🌍",
+    "text": "Détroit d'Ormuz : les États-Unis menacent d'une reprise des combats",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-d%C3%A9troit-d-ormuz-les-%C3%A9tats-unis-menacent-d-une-reprise-des-combats",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 486,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3518,
+    "id": 8545,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 509,
+    "id": 2286,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8830,
+    "id": 9798,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7304,
+    "id": 4375,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9560,
+    "id": 3871,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2516,
+    "id": 2266,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 2309,
+    "id": 5067,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1240,
+    "id": 6778,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -171,7 +171,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 6165,
+    "id": 280,
     "level": "medium",
     "country": "🌍",
     "text": "On the need to generate more questions than pleasant answers",
