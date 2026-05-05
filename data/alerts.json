@@ -1,6 +1,6 @@
 [
   {
-    "id": 791,
+    "id": 4312,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,43 +9,79 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7942,
+    "id": 4241,
     "level": "critical",
     "country": "🌍",
-    "text": "UK counterterrorism police investigate arson attack at former synagogue",
+    "text": "Sudan: INGOs Sound Alarm as Drone Strikes Devastate Civilians and Civilian Objec",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/sudan-ingos-sound-alarm-drone-strikes-devastate-civilians-and-civilian-objects",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 9749,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US, Iran, UAE trade Hormuz attack claims: What we know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/5/uk-counterterrorism-police-investigate-arson-attack-at-former-synagogue?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/5/us-iran-uae-trade-hormuz-attack-claims-what-we-know?traffic_source=rss",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 5257,
+    "id": 9400,
     "level": "critical",
     "country": "🌍",
-    "text": "Bayern Munich vs PSG: Champions League – preview, team news, start, lineups",
+    "text": "Le prix Nobel de la paix Narges Mohammadi \"entre la vie et la mort\" en Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260505-le-prix-nobel-de-la-paix-narges-mohammadi-entre-la-vie-et-la-mort-en-iran",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 1759,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tchad : le président Déby réagit après des violences dans l’est du pays",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-tchad-le-pr%C3%A9sident-d%C3%A9by-r%C3%A9agit-apr%C3%A8s-des-violences-dans-l-est-du-pays",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 2778,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hantavirus sur un bateau de croisière : deux cas confirmés, cinq cas suspects",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-hantavirus-sur-un-bateau-de-croisi%C3%A8re-deux-cas-confirm%C3%A9s-cinq-cas-suspects",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 7716,
+    "level": "high",
+    "country": "🌍",
+    "text": "DRC protest in support of US sanctions against former president",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/5/bayern-munich-vs-psg-champions-league-preview-team-news-start?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/drc-protest-in-support-of-us-sanctions-against-former-president?traffic_source=rss",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1718,
-    "level": "critical",
+    "id": 8296,
+    "level": "high",
     "country": "🌍",
-    "text": "Mèmes et Lego : comment les ambassades iraniennes multiplient les contenus virau",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260505-m%C3%A8mes-lego-comment-ambassades-iraniennes-multiplient-contenus-viraux-antiam%C3%A9ricains",
+    "text": "Israel extends detention of Gaza flotilla activists, lawyers say",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/israel-extends-detention-of-gaza-flotilla-activists-say-lawyers?traffic_source=rss",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 9301,
-    "level": "critical",
+    "id": 5016,
+    "level": "high",
     "country": "🌍",
-    "text": "États-Unis : un avion percute un camion en pleine phase d’atterrissage",
+    "text": "RD Congo : des militants pro-régime soutiennent les sanctions contre Kabila",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-%C3%A9tats-unis-un-avion-percute-un-camion-en-pleine-phase-d-atterrissage",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-rd-congo-des-militants-pro-r%C3%A9gime-soutiennent-les-sanctions-contre-kabila",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 6647,
+    "id": 6654,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -54,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9063,
+    "id": 6781,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -63,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9539,
+    "id": 526,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -72,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7501,
+    "id": 4756,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -81,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4266,
+    "id": 1665,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -90,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2745,
+    "id": 2482,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -99,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1625,
+    "id": 1977,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -108,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5038,
+    "id": 3387,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -117,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1688,
+    "id": 485,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -126,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 5576,
+    "id": 7927,
     "level": "medium",
     "country": "🌍",
     "text": "On the need to generate more questions than pleasant answers",
@@ -135,48 +171,12 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 2992,
+    "id": 643,
     "level": "medium",
     "country": "🌍",
     "text": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death/",
     "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 1397,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Tracing the local impacts of global topics",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/04/tracing-the-local-impacts-of-global-topics/",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 1655,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Sub-Saharan Africa: Why do less than 12 percent of Africans have AI access?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/04/sub-saharan-africa-why-do-less-than-12-percent-of-africans-have-ai-access/",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 5664,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/01/educating-for-climate-resilience-anil-adhikari-on-conservation-and-community-action-in-nepal/",
-    "time": "Fri, 01 May 2026"
-  },
-  {
-    "id": 3989,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The hidden costs of Asia's data center rush",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
-    "time": "Thu, 30 Apr 2026"
   }
 ]
