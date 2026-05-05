@@ -1,6 +1,6 @@
 [
   {
-    "id": 4312,
+    "id": 4678,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,52 +9,79 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4241,
+    "id": 9500,
     "level": "critical",
     "country": "🌍",
-    "text": "Sudan: INGOs Sound Alarm as Drone Strikes Devastate Civilians and Civilian Objec",
+    "text": "Attacks on Health Care in Sudan, 15 - 28 April 2026",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/sudan/sudan-ingos-sound-alarm-drone-strikes-devastate-civilians-and-civilian-objects",
+    "link": "https://reliefweb.int/report/sudan/attacks-health-care-sudan-15-28-april-2026",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 9749,
+    "id": 4255,
     "level": "critical",
     "country": "🌍",
-    "text": "US, Iran, UAE trade Hormuz attack claims: What we know",
+    "text": "What’s happening in Mali one week after attack by armed groups? All we know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/5/us-iran-uae-trade-hormuz-attack-claims-what-we-know?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/5/whats-happening-in-mali-one-week-after-attack-by-armed-groups-all-we-know?traffic_source=rss",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 9400,
+    "id": 1234,
     "level": "critical",
     "country": "🌍",
-    "text": "Le prix Nobel de la paix Narges Mohammadi \"entre la vie et la mort\" en Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260505-le-prix-nobel-de-la-paix-narges-mohammadi-entre-la-vie-et-la-mort-en-iran",
+    "text": "Sudan accuses Ethiopia, UAE of being behind recent drone attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/sudan-accuses-ethiopia-uae-of-being-behind-recent-drone-attacks?traffic_source=rss",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1759,
+    "id": 6860,
     "level": "critical",
     "country": "🌍",
-    "text": "Tchad : le président Déby réagit après des violences dans l’est du pays",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-tchad-le-pr%C3%A9sident-d%C3%A9by-r%C3%A9agit-apr%C3%A8s-des-violences-dans-l-est-du-pays",
+    "text": "Why Europe’s car industry is at the centre of a new US trade war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/why-europes-car-industry-is-at-the-centre-of-a-new-us-trade-war?traffic_source=rss",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 2778,
+    "id": 7080,
     "level": "critical",
     "country": "🌍",
-    "text": "Hantavirus sur un bateau de croisière : deux cas confirmés, cinq cas suspects",
+    "text": "Paranoïa ou guerre psychologique : Poutine se méfie-t-il de son ombre ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-hantavirus-sur-un-bateau-de-croisi%C3%A8re-deux-cas-confirm%C3%A9s-cinq-cas-suspects",
+    "link": "https://www.france24.com/fr/europe/20260505-paranoia-ou-guerre-psychologique-poutine-peur-tentative-assassinat-coup-etat-psyops",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 7716,
+    "id": 8087,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : Poutine et Zelensky annoncent des trêves à des dates différe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-guerre-en-ukraine-poutine-et-zelensky-annoncent-des-tr%C3%AAves-%C3%A0-des-dates-diff%C3%A9rentes",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 5987,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Audiovisuel public : le rapport de Charles Alloncle sous le feu des critiques",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-audiovisuel-public-le-rapport-de-charles-alloncle-sous-le-feu-des-critiques",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 6483,
+    "level": "high",
+    "country": "🌍",
+    "text": "US-Iran ceasefire holds despite Hormuz standoff: Pentagon chief Hegseth",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/us-iran-ceasefire-holds-despite-hormuz-standoff-pentagon-chief-hegseth?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 650,
     "level": "high",
     "country": "🌍",
     "text": "DRC protest in support of US sanctions against former president",
@@ -63,25 +90,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 8296,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israel extends detention of Gaza flotilla activists, lawyers say",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/5/israel-extends-detention-of-gaza-flotilla-activists-say-lawyers?traffic_source=rss",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 5016,
-    "level": "high",
-    "country": "🌍",
-    "text": "RD Congo : des militants pro-régime soutiennent les sanctions contre Kabila",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-rd-congo-des-militants-pro-r%C3%A9gime-soutiennent-les-sanctions-contre-kabila",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 6654,
+    "id": 7176,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6781,
+    "id": 3518,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 526,
+    "id": 509,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4756,
+    "id": 8830,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1665,
+    "id": 7304,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2482,
+    "id": 9560,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1977,
+    "id": 2516,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3387,
+    "id": 2309,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 485,
+    "id": 1240,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,21 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 7927,
+    "id": 6165,
     "level": "medium",
     "country": "🌍",
     "text": "On the need to generate more questions than pleasant answers",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/05/on-the-need-to-generate-more-questions-than-pleasant-answers/",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 643,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death/",
     "time": "Tue, 05 May 2026"
   }
 ]
