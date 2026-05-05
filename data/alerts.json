@@ -1,6 +1,6 @@
 [
   {
-    "id": 8204,
+    "id": 9884,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,52 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7608,
+    "id": 5476,
+    "level": "critical",
+    "country": "🌍",
+    "text": "DR Congo: RDC. Les atteintes aux droits humains effrénées commises par les ADF c",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/democratic-republic-congo/rdc-les-atteintes-aux-droits-humains-effrenees-commises-par-les-adf-contre-des-civiles-sont-des-crimes-de-guerre-que-le-monde-ne-saurait-continuer-dignorer-nouveau-rapport",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 326,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Madagascar Food Security Outlook Update: Dry conditions lead to below-average st",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/madagascar/madagascar-food-security-outlook-update-dry-conditions-lead-below-average-staple-production-south-madagascar-april-september-2026",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 6124,
+    "level": "critical",
+    "country": "🌍",
+    "text": "DR Congo: “I’d Never Seen So Many Bodies”: War Crimes by the Allied Democratic F",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/democratic-republic-congo/id-never-seen-so-many-bodies-war-crimes-allied-democratic-forces-eastern-democratic-republic-congo-enar",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 8443,
+    "level": "critical",
+    "country": "🌍",
+    "text": "An explosion at a fireworks plant in China has killed at least 21 people",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 6062,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 3302,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli strike sparks fire in northern Gaza City",
@@ -18,7 +63,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 5100,
+    "id": 6618,
     "level": "critical",
     "country": "🌍",
     "text": "Newborn born in Nablus a day after his father was killed in Israeli raid",
@@ -27,7 +72,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 9943,
+    "id": 9182,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
@@ -36,34 +81,25 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 541,
+    "id": 3711,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 5335,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : Kiev et Moscou décrètent une trêve, mais à des dates différe",
+    "text": "En direct : Emmanuel Macron dénonce les frappes iraniennes \"inacceptables\" contr",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260504-ukraine-poutine-d%C3%A9cr%C3%A8te-cessez-le-feu-unilat%C3%A9ral-8-9-mai-menace-kiev",
+    "link": "https://www.france24.com/fr/moyen-orient/20260504-en-direct-accrochages-detroit-ormuz-operation-americaine-d%C3%A9bloquer-iran-pays-golfe-liban-etats-unis-israel-missiles-drones-conseil-securite-onu",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 3511,
+    "id": 8458,
     "level": "high",
     "country": "🌍",
-    "text": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
+    "text": "Oil prices surge as violence flares in Strait of Hormuz",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
-    "time": "Mon, 04 May 2026"
+    "link": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
   },
   {
-    "id": 5960,
+    "id": 3380,
     "level": "high",
     "country": "🌍",
     "text": "Crise au Mali : l'armée malienne et l'Algérie cibles d'intox",
@@ -72,7 +108,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 353,
+    "id": 562,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4588,
+    "id": 7809,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 752,
+    "id": 6599,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4873,
+    "id": 6372,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2918,
+    "id": 7665,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8484,
+    "id": 1709,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5906,
+    "id": 9816,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,48 +171,12 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 2794,
+    "id": 9034,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 6516,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 8413,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death/",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 1693,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Tracing the local impacts of global topics",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/04/tracing-the-local-impacts-of-global-topics/",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 5158,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Sub-Saharan Africa: Why do less than 12 percent of Africans have AI access?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/04/sub-saharan-africa-why-do-less-than-12-percent-of-africans-have-ai-access/",
-    "time": "Mon, 04 May 2026"
   }
 ]
