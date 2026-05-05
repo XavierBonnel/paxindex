@@ -1,6 +1,6 @@
 [
   {
-    "id": 7440,
+    "id": 5305,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,25 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4620,
+    "id": 4123,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attacks on Health Care in Sudan, 15 - 28 April 2026",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/attacks-health-care-sudan-15-28-april-2026",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 8077,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel kills one boy, injures officers in strike on Gaza police station",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/israel-kills-one-boy-injures-officers-in-strike-on-gaza-police-station?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 4277,
     "level": "critical",
     "country": "🌍",
     "text": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
@@ -18,7 +36,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 2151,
+    "id": 5637,
     "level": "critical",
     "country": "🌍",
     "text": "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
@@ -27,43 +45,16 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 4792,
+    "id": 5115,
     "level": "critical",
     "country": "🌍",
-    "text": "Video: Trump says Iran should ‘wave the white flag’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss",
+    "text": "Tchad : L'attaque d'une base militaire attribuée au groupe djihadiste Boko Haram",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260505-tchad-l-attaque-d-une-base-militaire-attribu%C3%A9e-au-groupe-djihadiste-boko-haram",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1781,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UK convicts four Palestine Action activists over break-in at Israeli firm",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 6368,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UAE comes under Iranian attacks for second consecutive day: Ministry",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 6947,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 885,
+    "id": 4565,
     "level": "critical",
     "country": "🌍",
     "text": "Brésil : un petit avion s'écrase contre un immeuble, faisant trois morts",
@@ -72,16 +63,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 8822,
-    "level": "high",
-    "country": "🌍",
-    "text": "US push for Lebanon and Israel leaders to meet could inflame tensions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/5/5/us-push-for-lebanon-and-israel-leaders-to-meet-could-inflame-tensions?traffic_source=rss",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 8672,
+    "id": 4174,
     "level": "high",
     "country": "🌍",
     "text": "Iran - Emirats Arabes Unis : regain de tensions... et d'intox",
@@ -90,16 +72,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 3715,
-    "level": "high",
-    "country": "🌍",
-    "text": "France : des lycéens préparent un bac option drones, une première qui intéresse ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260505-france-des-lyc%C3%A9ens-pr%C3%A9parent-un-bac-option-drones-une-premi%C3%A8re-qui-int%C3%A9resse-l-arm%C3%A9e",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 6802,
+    "id": 3724,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6828,
+    "id": 3882,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2454,
+    "id": 2209,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3832,
+    "id": 8246,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8621,
+    "id": 454,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9478,
+    "id": 4828,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8702,
+    "id": 6247,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 6551,
+    "id": 5765,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,12 +144,39 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8800,
+    "id": 1166,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 8686,
+    "level": "medium",
+    "country": "🌍",
+    "text": "On the need to generate more questions than pleasant answers",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/05/on-the-need-to-generate-more-questions-than-pleasant-answers/",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 6066,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death/",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 8944,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Tracing the local impacts of global topics",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/04/tracing-the-local-impacts-of-global-topics/",
+    "time": "Mon, 04 May 2026"
   }
 ]
