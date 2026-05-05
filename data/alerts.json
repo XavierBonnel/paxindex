@@ -1,6 +1,6 @@
 [
   {
-    "id": 6091,
+    "id": 8848,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,25 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9242,
+    "id": 1575,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/afghanistan-accuses-pakistan-of-killing-three-civilians-in-war-crime?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 5808,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/palestine-weekly-wrap-israeli-security-agencies-sound-alarm-on-settlers?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 2960,
     "level": "critical",
     "country": "🌍",
     "text": "Nine workers killed in Colombia coal mine explosion",
@@ -18,34 +36,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 7133,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 7609,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran says US military killed five civilians in attacks on passenger boats",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 7508,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : Emmanuel Macron dénonce les frappes iraniennes \"inacceptables\" contr",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260504-en-direct-accrochages-detroit-ormuz-operation-americaine-d%C3%A9bloquer-iran-pays-golfe-liban-etats-unis-israel-missiles-drones-conseil-securite-onu",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 3976,
+    "id": 5044,
     "level": "high",
     "country": "🌍",
     "text": "Explosion at fireworks factory in China kills 26, injures 61",
@@ -54,16 +45,16 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 6417,
+    "id": 6301,
     "level": "high",
     "country": "🌍",
-    "text": "Au Kremlin, Vladimir Poutine de plus en plus isolé?",
+    "text": "Au Kremlin, Vladimir Poutine de plus en plus isolé ?",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260505-au-kremlin-vladimir-poutine-de-plus-en-plus-isol%C3%A9",
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 7684,
+    "id": 1048,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +63,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6489,
+    "id": 7322,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +72,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3198,
+    "id": 93,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +81,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 732,
+    "id": 2734,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +90,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6127,
+    "id": 281,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +99,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3566,
+    "id": 4034,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +108,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2225,
+    "id": 3561,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +117,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5107,
+    "id": 1934,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +126,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2472,
+    "id": 6160,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +135,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 1194,
+    "id": 4402,
     "level": "medium",
     "country": "🌍",
     "text": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her",
@@ -153,7 +144,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 7468,
+    "id": 6084,
     "level": "medium",
     "country": "🌍",
     "text": "Tracing the local impacts of global topics",
@@ -162,7 +153,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 8718,
+    "id": 8099,
     "level": "medium",
     "country": "🌍",
     "text": "Sub-Saharan Africa: Why do less than 12 percent of Africans have AI access?",
@@ -171,12 +162,21 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 7994,
+    "id": 923,
     "level": "medium",
     "country": "🌍",
     "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/01/educating-for-climate-resilience-anil-adhikari-on-conservation-and-community-action-in-nepal/",
     "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 3875,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The hidden costs of Asia's data center rush",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
+    "time": "Thu, 30 Apr 2026"
   }
 ]
