@@ -1,6 +1,6 @@
 [
   {
-    "id": 8788,
+    "id": 4370,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,25 +9,34 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5490,
+    "id": 2856,
     "level": "critical",
     "country": "🌍",
-    "text": "Mali leader Goita takes defence post after minister killed",
+    "text": "Newborn born in Nablus a day after his father was killed in Israeli raid",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/4/mali-leader-goita-takes-defence-post-after-minister-killed?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/newborn-born-in-nablus-a-day-after-his-father-was-killed-in-israeli-raid?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 9414,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Washington, Tehran trade threats over Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/5/iran-war-live-washington-tehran-trade-threats-over-strait-of-hormuz?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 828,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Extensive brutality’: Rebel attacks reap hell on Congolese civilians",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/4/extensive-brutality-rebel-attacks-reap-hell-on-congolese-civilians?traffic_source=rss",
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 0,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gangland wars killing dozens of bystanders, report Swedish police",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police?traffic_source=rss",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 3571,
+    "id": 8597,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Kiev et Moscou décrètent une trêve, mais à des dates différe",
@@ -36,16 +45,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 4925,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les hantavirus: des zoonoses transmises par les déjections des rongeurs",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260504-les-hantavirus-des-zoonoses-transmises-par-les-d%C3%A9jections-des-rongeurs",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 6827,
+    "id": 6093,
     "level": "high",
     "country": "🌍",
     "text": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
@@ -54,7 +54,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 14,
+    "id": 2616,
     "level": "high",
     "country": "🌍",
     "text": "Russia and Ukraine declare competing ceasefires",
@@ -63,16 +63,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 5331,
-    "level": "high",
-    "country": "🌍",
-    "text": "Moscow rehearses V-Day parade marking WWII victory",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/moscow-rehearses-v-day-parade-marking-wwii-victory?traffic_source=rss",
-    "time": "Mon, 04 May 2026"
-  },
-  {
-    "id": 8148,
+    "id": 2018,
     "level": "high",
     "country": "🌍",
     "text": "Crise au Mali : l'armée malienne et l'Algérie cibles d'intox",
@@ -81,7 +72,7 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 3128,
+    "id": 8023,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1484,
+    "id": 1659,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4107,
+    "id": 2104,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7452,
+    "id": 7943,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4026,
+    "id": 7551,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7300,
+    "id": 1205,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9764,
+    "id": 9820,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7088,
+    "id": 3230,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 6989,
+    "id": 179,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +153,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 826,
+    "id": 6701,
     "level": "medium",
     "country": "🌍",
     "text": "Tracing the local impacts of global topics",
@@ -171,12 +162,21 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 7860,
+    "id": 9142,
     "level": "medium",
     "country": "🌍",
     "text": "Sub-Saharan Africa: Why do less than 12 percent of Africans have AI access?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/04/sub-saharan-africa-why-do-less-than-12-percent-of-africans-have-ai-access/",
     "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 8729,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/01/educating-for-climate-resilience-anil-adhikari-on-conservation-and-community-action-in-nepal/",
+    "time": "Fri, 01 May 2026"
   }
 ]
