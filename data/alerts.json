@@ -1,6 +1,6 @@
 [
   {
-    "id": 5639,
+    "id": 1176,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8016,
+    "id": 4691,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,43 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 6712,
+    "id": 7251,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 4 May 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-4-may-2026",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 7092,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lessons from the war: A call for strategic reckoning in West Asia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/5/6/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia?traffic_source=rss",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 5764,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Has the US accepted Iran’s demand to settle Hormuz first, nuclear later?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/6/has-the-us-accepted-irans-demand-to-settle-hormuz-first-nuclear-later?traffic_source=rss",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 2366,
+    "level": "critical",
+    "country": "🌍",
+    "text": "China calls for a ‘complete’ end to war on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/china-calls-for-a-complete-end-to-war-on-iran?traffic_source=rss",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 5284,
     "level": "critical",
     "country": "🌍",
     "text": "‘Operation Epic Fury’ has ended: Is the Iran war over?",
@@ -27,7 +63,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 6590,
+    "id": 8866,
     "level": "critical",
     "country": "🌍",
     "text": "Sudan blames Ethiopia, UAE for recent drone attacks: What we know",
@@ -36,7 +72,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 7744,
+    "id": 2677,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli attacks on southern, eastern Lebanon kill at least six people",
@@ -45,7 +81,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 9525,
+    "id": 6983,
     "level": "critical",
     "country": "🌍",
     "text": "Colombia tourist jewel plagued by violence",
@@ -54,25 +90,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 9316,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US petrol prices 50 percent higher than before war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 3942,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘A stress test’: US-Germany rift widens as Iran war drags on",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 4171,
+    "id": 4479,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Kiev accuse Moscou d'avoir violé son cessez-le-feu unilatéra",
@@ -81,16 +99,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 8464,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : Moscou attaque Zaporijjia et ne respecte pas la trêve",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260506-guerre-en-ukraine-moscou-attaque-zaporijjia-et-ne-respecte-pas-la-tr%C3%AAve",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 1718,
+    "id": 8709,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1877,
+    "id": 9885,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3389,
+    "id": 315,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3422,
+    "id": 8047,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7750,
+    "id": 9121,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 925,
+    "id": 6002,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 261,
+    "id": 7047,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5043,
+    "id": 1470,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,21 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 3662,
+    "id": 6636,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 2347,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The invisible migration: How urban refugees are powering Uganda’s economy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/06/the-invisible-migration-how-urban-refugees-are-powering-ugandas-economy/",
-    "time": "Wed, 06 May 2026"
   }
 ]
