@@ -1,6 +1,6 @@
 [
   {
-    "id": 6991,
+    "id": 9187,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 405,
+    "id": 832,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,61 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 2726,
+    "id": 4572,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nigeria Food Security Outlook Update, April - September 2026: Conflict and risin",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/nigeria/nigeria-food-security-outlook-update-april-september-2026-conflict-and-rising-input-costs-driving-crisis-ipc-phase-3-northern-nigeria",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 3882,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Myanmar: Taw Oo District Short Update: Burma Army drone strike injured two villa",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/myanmar/taw-oo-district-short-update-burma-army-drone-strike-injured-two-villagers-htaw-ta-htoo-township-march-2026",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 1191,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Cameroon Food Security Outlook Update, April - September 2026: Area-level Crisis",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/cameroon/cameroon-food-security-outlook-update-april-september-2026-area-level-crisis-ipc-phase-3-will-persist-conflict-areas-during-harvest",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 597,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Protection of health care in armed conflict: UN Security Council Resoluti",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/protection-health-care-armed-conflict-un-security-council-resolution-2286-10-years",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 6465,
+    "level": "critical",
+    "country": "🌍",
+    "text": "In Gaza, the simplest of weddings are barely affordable",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 1208,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US president Trump restarts Pope feud ahead of Rubio visit to Vatican",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 2009,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
@@ -27,16 +81,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 4567,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Buses block off roads in Bolivia as transport workers strike over fuel",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/buses-block-off-roads-in-bolivia-as-transport-workers-strike-over-fuel?traffic_source=rss",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 7868,
+    "id": 7137,
     "level": "critical",
     "country": "🌍",
     "text": "La Russie frappe l'Ukraine alors que le cessez-le-feu de Kiev a commencé",
@@ -45,16 +90,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 9406,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Tchad : L'attaque d'une base militaire attribuée au groupe djihadiste Boko Haram",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260505-tchad-l-attaque-d-une-base-militaire-attribu%C3%A9e-au-groupe-djihadiste-boko-haram",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 653,
+    "id": 9208,
     "level": "high",
     "country": "🌍",
     "text": "US pauses plan to guide ships through the Strait of Hormuz",
@@ -63,16 +99,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 5253,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran - Emirats Arabes Unis : regain de tensions... et d'intox",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260505-iran-emirats-arabes-unis-regain-de-tensions-et-d-intox",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 890,
+    "id": 6852,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1109,
+    "id": 1302,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7831,
+    "id": 3631,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 720,
+    "id": 8122,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5853,
+    "id": 6429,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7423,
+    "id": 9688,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2895,
+    "id": 7209,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 1439,
+    "id": 618,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,39 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2970,
+    "id": 7602,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 8147,
-    "level": "medium",
-    "country": "🌍",
-    "text": "On the need to generate more questions than pleasant answers",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/05/on-the-need-to-generate-more-questions-than-pleasant-answers/",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 8472,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death/",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 4097,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Tracing the local impacts of global topics",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/04/tracing-the-local-impacts-of-global-topics/",
-    "time": "Mon, 04 May 2026"
   }
 ]
