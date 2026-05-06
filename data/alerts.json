@@ -1,15 +1,6 @@
 [
   {
-    "id": 3570,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-24T00:01"
-  },
-  {
-    "id": 6808,
+    "id": 6947,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +9,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1520,
+    "id": 7159,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
@@ -27,7 +18,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 9749,
+    "id": 5661,
     "level": "critical",
     "country": "🌍",
     "text": "Buses block off roads in Bolivia as transport workers strike over fuel",
@@ -36,7 +27,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 9924,
+    "id": 401,
     "level": "critical",
     "country": "🌍",
     "text": "Israel kills one boy, injures officers in strike on Gaza police station",
@@ -45,7 +36,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 4380,
+    "id": 6951,
     "level": "critical",
     "country": "🌍",
     "text": "Tchad : L'attaque d'une base militaire attribuée au groupe djihadiste Boko Haram",
@@ -54,7 +45,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 6137,
+    "id": 9919,
     "level": "high",
     "country": "🌍",
     "text": "Iran - Emirats Arabes Unis : regain de tensions... et d'intox",
@@ -63,88 +54,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 6403,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 22,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 7943,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 3919,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 2008,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 1894,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 8560,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 9771,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 9565,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 3445,
+    "id": 3538,
     "level": "medium",
     "country": "🌍",
     "text": "On the need to generate more questions than pleasant answers",
@@ -153,7 +63,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 9243,
+    "id": 7551,
     "level": "medium",
     "country": "🌍",
     "text": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her",
@@ -162,7 +72,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1506,
+    "id": 907,
     "level": "medium",
     "country": "🌍",
     "text": "Tracing the local impacts of global topics",
@@ -171,12 +81,102 @@
     "time": "Mon, 04 May 2026"
   },
   {
-    "id": 5004,
+    "id": 5652,
     "level": "medium",
     "country": "🌍",
     "text": "Sub-Saharan Africa: Why do less than 12 percent of Africans have AI access?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/04/sub-saharan-africa-why-do-less-than-12-percent-of-africans-have-ai-access/",
     "time": "Mon, 04 May 2026"
+  },
+  {
+    "id": 1944,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Educating for climate resilience: Anil Adhikari on conservation and community ac",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/01/educating-for-climate-resilience-anil-adhikari-on-conservation-and-community-action-in-nepal/",
+    "time": "Fri, 01 May 2026"
+  },
+  {
+    "id": 6391,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The hidden costs of Asia's data center rush",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/30/the-hidden-costs-of-asias-data-center-rush/",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 9992,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The Chinese lesson on the human rights approach to AI",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/30/the-chinese-lesson-on-the-human-rights-approach-to-ai/",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 7153,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Before the algorithm decides: Queer storytelling as resistance in Nigeria",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/30/before-the-algorithm-decides-queer-storytelling-as-resistance-in-nigeria/",
+    "time": "Thu, 30 Apr 2026"
+  },
+  {
+    "id": 5240,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The human cost of the data center push in Latin America",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/04/29/the-human-cost-of-the-data-center-push-in-latin-america/",
+    "time": "Wed, 29 Apr 2026"
+  },
+  {
+    "id": 8821,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Thai temples launch rockets in friendly festival rivalry",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/thai-temples-launch-rockets-in-friendly-festival-rivalry?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 6316,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Trump pauses US operation in Strait of Hormuz in push for deal with Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/trump-announces-pause-on-us-operation-to-unblock-strait-of-hormuz?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 1704,
+    "level": "medium",
+    "country": "🌍",
+    "text": "CENTCOM: ‘Safe path’ through Hormuz is US priority in ‘Project Freedom’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/5/centcom-safe-path-through-hormuz-is-us-priority-in-project?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 2703,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Arsenal beat Atletico to reach first Champions League final in 20 years",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/5/arsenal-beat-atletico-to-reach-first-champions-league-final-in-20-years?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
+  },
+  {
+    "id": 7185,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/5/before-vatican-trip-rubio-defends-trump-remarks-on-pope-leo-over-iran?traffic_source=rss",
+    "time": "Tue, 05 May 2026"
   }
 ]
