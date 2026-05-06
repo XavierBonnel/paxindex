@@ -1,6 +1,6 @@
 [
   {
-    "id": 3806,
+    "id": 6865,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5272,
+    "id": 1120,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,43 +18,43 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1994,
+    "id": 9062,
     "level": "critical",
     "country": "🌍",
-    "text": "‘A stress test’: US-Germany rift widens as Iran-war drags on",
+    "text": "Colombia tourist jewel plagued by violence",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/5/6/colombia-tourist-jewel-plagued-by-violence?traffic_source=rss",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 3012,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US petrol prices 50 percent higher than before war on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 2396,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘A stress test’: US-Germany rift widens as Iran war drags on",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on?traffic_source=rss",
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 6653,
+    "id": 9153,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over?traffic_source=rss",
+    "text": "Guerre en Ukraine : Kiev accuse Moscou d'avoir violé son cessez-le-feu unilatéra",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260506-guerre-en-ukraine-kiev-accuse-moscou-d-avoir-viol%C3%A9-son-cessez-le-feu-unilat%C3%A9ral",
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 6253,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Manipur’s ‘unknown’ killers: Three years of India’s bloody ethnic conflict",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/6/manipurs-unknown-killers-three-years-of-indias-bloody-ethnic-conflict?traffic_source=rss",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 7911,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Syria’s Suwayda: A new hub for the multibillion-dollar Captagon trade?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/6/syrias-suwayda-a-new-hub-for-the-multi-billion-dollar-captagon-trade?traffic_source=rss",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 5869,
+    "id": 9723,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Moscou attaque Zaporijjia et ne respecte pas la trêve",
@@ -63,16 +63,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 5359,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La Russie frappe l'Ukraine alors que le cessez-le-feu de Kiev a commencé",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260506-apr%C3%A8s-une-journ%C3%A9e-sanglante-en-ukraine-la-tr%C3%AAve-annonc%C3%A9e-par-kiev-entre-en-vigueur",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 9449,
+    "id": 7390,
     "level": "high",
     "country": "🌍",
     "text": "US must not insult IRGC during the World Cup: Iran’s football chief",
@@ -81,7 +72,16 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 2603,
+    "id": 598,
+    "level": "high",
+    "country": "🌍",
+    "text": "Les chefs de la diplomatie iranienne et chinoise s'entretiennent à Pékin",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260506-les-chefs-de-la-diplomatie-iranienne-et-chinoise-s-entretiennent-%C3%A0-p%C3%A9kin",
+    "time": "Wed, 06 May 2026"
+  },
+  {
+    "id": 6750,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8635,
+    "id": 4157,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6060,
+    "id": 8828,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4257,
+    "id": 5254,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9560,
+    "id": 9127,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6410,
+    "id": 6133,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1789,
+    "id": 1189,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7083,
+    "id": 2965,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1459,
+    "id": 376,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 1905,
+    "id": 4992,
     "level": "medium",
     "country": "🌍",
     "text": "The invisible migration: How urban refugees are powering Uganda’s economy",
@@ -171,7 +171,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 1065,
+    "id": 9568,
     "level": "medium",
     "country": "🌍",
     "text": "On the need to generate more questions than pleasant answers",
