@@ -1,6 +1,6 @@
 [
   {
-    "id": 9521,
+    "id": 7883,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 342,
+    "id": 8216,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,43 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 2305,
+    "id": 920,
+    "level": "critical",
+    "country": "🌍",
+    "text": "French warship moves towards Hormuz for possible defensive mission",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 3291,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The Gaza journalist killed on the day his daughter was born",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/5/7/the-gaza-journalist-killed-on-the-day-his-daughter-was-born?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 8415,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 6269,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Aid cuts, drought and conflict leave Somalis desperate",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 6975,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
@@ -27,7 +63,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 4091,
+    "id": 771,
     "level": "high",
     "country": "🌍",
     "text": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
@@ -36,7 +72,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 5289,
+    "id": 5193,
     "level": "high",
     "country": "🌍",
     "text": "En direct : \"hors de question\" de lever \"la moindre sanction\" tant qu'Ormuz est ",
@@ -45,16 +81,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 3228,
-    "level": "high",
-    "country": "🌍",
-    "text": "Des \"dauphins kamikazes\" iraniens bientôt déployés dans le détroit d'Ormuz ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260506-des-dauphins-kamikazes-iraniens-bient%C3%B4t-d%C3%A9ploy%C3%A9s-dans-le-d%C3%A9troit-d-ormuz",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 3338,
+    "id": 4645,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -63,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8705,
+    "id": 8065,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -72,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 659,
+    "id": 1013,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -81,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8464,
+    "id": 9893,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -90,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8111,
+    "id": 8984,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -99,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7549,
+    "id": 9652,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -108,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2293,
+    "id": 7971,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -117,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 6563,
+    "id": 8797,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -126,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1106,
+    "id": 6654,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -135,48 +162,21 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 6583,
+    "id": 2314,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The ordeal of an undocumented Haitian migrant in the Dominican Republic",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/07/the-ordeal-of-an-undocumented-haitian-migrant-in-the-dominican-republic/",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 2775,
     "level": "medium",
     "country": "🌍",
     "text": "How Tibetans became eco-guards of Asia’s water tower",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/06/how-tibetans-became-eco-guards-of-asias-water-tower/",
     "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 4113,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Meta removes Bangladeshi community archivists’ pages through false copyright cla",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/06/meta-removes-bangladeshi-community-archivists-pages-through-false-copyright-claims/",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 9275,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The invisible migration: How urban refugees are powering Uganda’s economy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/06/the-invisible-migration-how-urban-refugees-are-powering-ugandas-economy/",
-    "time": "Wed, 06 May 2026"
-  },
-  {
-    "id": 4261,
-    "level": "medium",
-    "country": "🌍",
-    "text": "On the need to generate more questions than pleasant answers",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/05/on-the-need-to-generate-more-questions-than-pleasant-answers/",
-    "time": "Tue, 05 May 2026"
-  },
-  {
-    "id": 4991,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ethiopian TikTok grieves a popular creator. Are TikTok and Meta complicit in her",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/05/ethiopian-tiktok-grieves-a-popular-creator-some-wonder-whether-tiktok-and-meta-are-complicit-in-her-death/",
-    "time": "Tue, 05 May 2026"
   }
 ]
