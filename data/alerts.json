@@ -1,6 +1,6 @@
 [
   {
-    "id": 4648,
+    "id": 7566,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2589,
+    "id": 3498,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,16 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 6272,
+    "id": 9059,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump calls for ‘incitement’ charges against top Democrat Hakeem Jeffries",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/7/trump-calls-for-incitement-charges-against-top-democrat-hakeem-jeffries?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 8592,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon Latest Israeli strikes Beirut despite ‘ceasefire’",
@@ -27,16 +36,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 9968,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US-Israel war on Iran leaves Jordan’s Petra nearly empty of tourists",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/5/7/us-israel-war-on-iran-leaves-jordans-petra-nearly-empty-of-tourists?traffic_source=rss",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 6044,
+    "id": 1010,
     "level": "critical",
     "country": "🌍",
     "text": "France : \"à qui appartiennent ces oeuvres ?\", le musée d’Orsay expose les biens ",
@@ -45,7 +45,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 5821,
+    "id": 9421,
     "level": "high",
     "country": "🌍",
     "text": "Crise des carburants et bénéfices de TotalEnergies : vers une taxation des \"supe",
@@ -54,7 +54,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 9867,
+    "id": 3231,
     "level": "high",
     "country": "🌍",
     "text": "Centrafrique : l’ONG Espérance aide les enfants soldats à surmonter la violence ",
@@ -63,7 +63,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 3642,
+    "id": 7198,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +72,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6109,
+    "id": 2019,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +81,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9899,
+    "id": 3546,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6538,
+    "id": 3008,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9623,
+    "id": 2226,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6838,
+    "id": 8127,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3562,
+    "id": 4558,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5795,
+    "id": 93,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 3859,
+    "id": 476,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 1463,
+    "id": 7406,
     "level": "medium",
     "country": "🌍",
     "text": "Buea, Cameroon is facing recurring floods despite a lack of rain",
@@ -153,7 +153,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 3991,
+    "id": 5999,
     "level": "medium",
     "country": "🌍",
     "text": "The ordeal of an undocumented Haitian migrant in the Dominican Republic",
@@ -162,7 +162,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 2925,
+    "id": 7869,
     "level": "medium",
     "country": "🌍",
     "text": "How Tibetans became eco-guards of Asia’s water tower",
@@ -171,7 +171,7 @@
     "time": "Wed, 06 May 2026"
   },
   {
-    "id": 4475,
+    "id": 3034,
     "level": "medium",
     "country": "🌍",
     "text": "Meta removes Bangladeshi community archivists’ pages through false copyright cla",
