@@ -1,6 +1,6 @@
 [
   {
-    "id": 7883,
+    "id": 619,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8216,
+    "id": 8181,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,25 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 920,
+    "id": 1905,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran’s stance on US war negotiations explained",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/irans-stance-on-us-war-negotiations-explained?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 9578,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 408,
     "level": "critical",
     "country": "🌍",
     "text": "French warship moves towards Hormuz for possible defensive mission",
@@ -27,7 +45,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 3291,
+    "id": 8022,
     "level": "critical",
     "country": "🌍",
     "text": "The Gaza journalist killed on the day his daughter was born",
@@ -36,7 +54,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 8415,
+    "id": 8889,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
@@ -45,7 +63,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 6269,
+    "id": 5554,
     "level": "critical",
     "country": "🌍",
     "text": "Aid cuts, drought and conflict leave Somalis desperate",
@@ -54,34 +72,43 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 6975,
+    "id": 4085,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 771,
-    "level": "high",
-    "country": "🌍",
-    "text": "Photo shows Israeli soldier desecrating Virgin Mary statue in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/7/israeli-soldier-desecrates-statue-of-virgin-mary-in-southern-lebanon?traffic_source=rss",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 5193,
-    "level": "high",
-    "country": "🌍",
-    "text": "En direct : \"hors de question\" de lever \"la moindre sanction\" tant qu'Ormuz est ",
+    "text": "Ormuz : quelle sécurité après‑guerre ? Le Charles de Gaulle prêt pour une missio",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260507-en-direct-moyen-orient-donald-trump-guerre-iran-liban-ormuz-israel",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260507-ormuz-quelle-s%C3%A9curit%C3%A9-apr%C3%A8s%E2%80%91guerre-le-charles-de-gaulle-pr%C3%AAt-pour-une-mission-dans-le-d%C3%A9troit",
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 4645,
+    "id": 4426,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran : un accord \"probable\" selon Trump, Washington étudie encore l’offre de Téh",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260507-iran-un-accord-probable-selon-trump-washington-%C3%A9tudie-encore-l-offre-de-t%C3%A9h%C3%A9ran",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 8142,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Dharavi, plus grand bidonville d’Inde, au cœur d’un vaste projet de réhabilitati",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260507-dharavi-plus-grand-bidonville-d-inde-au-c%C5%93ur-d-un-vaste-projet-de-r%C3%A9habilitation",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 1107,
+    "level": "high",
+    "country": "🌍",
+    "text": "What is China’s anti-sanctions law and how does it work?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 8598,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8065,
+    "id": 6315,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1013,
+    "id": 5111,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9893,
+    "id": 4172,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8984,
+    "id": 9951,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9652,
+    "id": 7844,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7971,
+    "id": 4257,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,39 +171,12 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 8797,
+    "id": 8147,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 6654,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 2314,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The ordeal of an undocumented Haitian migrant in the Dominican Republic",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/07/the-ordeal-of-an-undocumented-haitian-migrant-in-the-dominican-republic/",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 2775,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Tibetans became eco-guards of Asia’s water tower",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/06/how-tibetans-became-eco-guards-of-asias-water-tower/",
-    "time": "Wed, 06 May 2026"
   }
 ]
