@@ -1,6 +1,6 @@
 [
   {
-    "id": 5462,
+    "id": 2600,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1704,
+    "id": 871,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 5067,
+    "id": 9369,
     "level": "critical",
     "country": "🌍",
     "text": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
@@ -27,7 +27,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 8731,
+    "id": 8494,
     "level": "critical",
     "country": "🌍",
     "text": "Trump sets July 4 deadline for EU tariff hike decision",
@@ -36,7 +36,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 4286,
+    "id": 5550,
     "level": "critical",
     "country": "🌍",
     "text": "Armed fighters kill at least 30 people in attacks in central Mali",
@@ -45,16 +45,16 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 3751,
+    "id": 5220,
     "level": "critical",
     "country": "🌍",
-    "text": "Palestinian boy mourns father killed in Israeli strike on security post",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/palestinian-boy-mourns-father-killed-in-israeli-strike-on-security-post?traffic_source=rss",
+    "text": "Saviez-vous qu'en 1945, il y a eu deux capitulations en 24h ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260507-saviez-vous-qu-en-1945-il-y-a-eu-deux-capitulations-en-24h",
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 7823,
+    "id": 2947,
     "level": "critical",
     "country": "🌍",
     "text": "Sommet \"Africa Forward\" : Afrique anglophone, le pari français ?",
@@ -63,7 +63,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 5351,
+    "id": 2974,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Iran : l'échec de Donald Trump ?",
@@ -72,7 +72,16 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 7406,
+    "id": 4254,
+    "level": "high",
+    "country": "🌍",
+    "text": "Videos show interceptions over the skies of Tehran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 7771,
     "level": "high",
     "country": "🌍",
     "text": "Senators press US military on Israel’s displacement campaign in Lebanon",
@@ -81,7 +90,16 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 6410,
+    "id": 2168,
+    "level": "high",
+    "country": "🌍",
+    "text": "En direct : États-Unis et Iran s'accusent de violations du cessez-le-feu dans le",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260507-en-direct-etats-unis-iran-s-accusent-violations-cessez-le-feu-detroit-d-ormuz-trump-liban",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 2987,
     "level": "high",
     "country": "🌍",
     "text": "Sud-Liban : un soldat israélien fait fumer une statue de la Vierge Marie",
@@ -90,7 +108,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 8696,
+    "id": 153,
     "level": "high",
     "country": "🌍",
     "text": "En direct : plusieurs explosions en Iran, le port stratégique de Bandar Abbas to",
@@ -99,16 +117,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 1854,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ces images ne prouvent pas que l’Iran a dévoilé des drones dauphin kamikazes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260507-ces-images-ne-prouvent-pas-que-l-iran-a-d%C3%A9voil%C3%A9-des-drones-dauphin-kamikazes",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 4450,
+    "id": 4871,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4988,
+    "id": 1229,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4573,
+    "id": 6203,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5809,
+    "id": 354,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7259,
+    "id": 2901,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9168,
+    "id": 59,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,21 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3075,
+    "id": 1393,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 8727,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
   }
 ]
