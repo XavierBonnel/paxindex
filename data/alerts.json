@@ -1,6 +1,6 @@
 [
   {
-    "id": 3314,
+    "id": 5462,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6489,
+    "id": 1704,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,16 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 2885,
+    "id": 5067,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy?traffic_source=rss",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 8731,
     "level": "critical",
     "country": "🌍",
     "text": "Trump sets July 4 deadline for EU tariff hike decision",
@@ -27,7 +36,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 4930,
+    "id": 4286,
     "level": "critical",
     "country": "🌍",
     "text": "Armed fighters kill at least 30 people in attacks in central Mali",
@@ -36,7 +45,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 7735,
+    "id": 3751,
     "level": "critical",
     "country": "🌍",
     "text": "Palestinian boy mourns father killed in Israeli strike on security post",
@@ -45,34 +54,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 9867,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/7/us-issues-new-cuba-sanctions-as-un-experts-warn-of-energy-starvation?traffic_source=rss",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 3368,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gulf states urge UN action to ensure Strait of Hormuz safety",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/7/gulf-states-urge-un-action-to-ensure-strait-of-hormuz-safety?traffic_source=rss",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 9118,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Can China help end the Iran war?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/7/can-china-help-end-the-iran-war?traffic_source=rss",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 137,
+    "id": 7823,
     "level": "critical",
     "country": "🌍",
     "text": "Sommet \"Africa Forward\" : Afrique anglophone, le pari français ?",
@@ -81,7 +63,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 4302,
+    "id": 5351,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Iran : l'échec de Donald Trump ?",
@@ -90,7 +72,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 6046,
+    "id": 7406,
     "level": "high",
     "country": "🌍",
     "text": "Senators press US military on Israel’s displacement campaign in Lebanon",
@@ -99,7 +81,16 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 8099,
+    "id": 6410,
+    "level": "high",
+    "country": "🌍",
+    "text": "Sud-Liban : un soldat israélien fait fumer une statue de la Vierge Marie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260507-sud-liban-un-soldat-isra%C3%A9lien-fait-fumer-une-statue-de-la-vierge-marie",
+    "time": "Thu, 07 May 2026"
+  },
+  {
+    "id": 8696,
     "level": "high",
     "country": "🌍",
     "text": "En direct : plusieurs explosions en Iran, le port stratégique de Bandar Abbas to",
@@ -108,7 +99,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 4845,
+    "id": 1854,
     "level": "high",
     "country": "🌍",
     "text": "Ces images ne prouvent pas que l’Iran a dévoilé des drones dauphin kamikazes",
@@ -117,16 +108,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 4544,
-    "level": "high",
-    "country": "🌍",
-    "text": "Crise des carburants et bénéfices de TotalEnergies : vers une taxation des \"supe",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/politique/20260507-crise-des-carburants-et-b%C3%A9n%C3%A9fices-de-totalenergies-vers-une-taxation-des-superprofits",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 2534,
+    "id": 4450,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6912,
+    "id": 4988,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5890,
+    "id": 4573,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5952,
+    "id": 5809,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6879,
+    "id": 7259,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,12 +153,30 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7329,
+    "id": 9168,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 3075,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 8727,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-23T15:15"
   }
 ]
