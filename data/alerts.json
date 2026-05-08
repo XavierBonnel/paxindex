@@ -1,6 +1,6 @@
 [
   {
-    "id": 2034,
+    "id": 2553,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3654,
+    "id": 7985,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,43 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 5045,
+    "id": 9306,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Haiti: More than 1,600 people killed in the first quarter of 2026, a human right",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/haiti/haiti-more-1600-people-killed-first-quarter-2026-human-rights-situation-remains-extremely-worrying",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1573,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Protection of Civilians Week, May 2026",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/protection-civilians-week-may-2026",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1832,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump announces three-day ceasefire in Russia-Ukraine war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1390,
+    "level": "critical",
+    "country": "🌍",
+    "text": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/5/8/asean-summit-iran-war?traffic_source=rss",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 2601,
     "level": "critical",
     "country": "🌍",
     "text": "More than a dozen reported killed in Israeli attacks on south Lebanon",
@@ -27,16 +63,25 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 6078,
+    "id": 9888,
     "level": "critical",
     "country": "🌍",
-    "text": "Virginia Supreme Court strikes down Democrats’ redistricting plan in US",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/8/virginia-supreme-court-strikes-down-democrats-redistricting-plan-in-us?traffic_source=rss",
+    "text": "Nouveaux affrontements à Ormuz, les attaques russes et ukrainiennes continuent e",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260508-nouveaux-affrontements-%C3%A0-ormuz-les-attaques-russes-et-ukrainiennes-continuent-et-sommet-en-arm%C3%A9nie",
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 2382,
+    "id": 7790,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'essentiel du procès libyen en appel de Nicolas Sarkozy : face aux victimes de ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260508-l-essentiel-du-proc%C3%A8s-libyen-en-appel-de-nicolas-sarkozy-face-aux-victimes-de-l-attentat-du-dc-10",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 653,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine et désengagement américain : la course à l'armement s'accélère",
@@ -45,7 +90,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 3343,
+    "id": 665,
     "level": "high",
     "country": "🌍",
     "text": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
@@ -54,16 +99,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 430,
-    "level": "high",
-    "country": "🌍",
-    "text": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 7157,
+    "id": 6613,
     "level": "high",
     "country": "🌍",
     "text": "Législatives en Guinée : l'opposition dénonce des violations du code électoral",
@@ -72,16 +108,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 7254,
-    "level": "high",
-    "country": "🌍",
-    "text": "La Biennale de Venise, baromètre du monde",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260508-la-biennale-de-venise-barom%C3%A8tre-du-monde",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 7874,
+    "id": 7971,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3600,
+    "id": 6698,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4326,
+    "id": 9441,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3427,
+    "id": 4596,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7708,
+    "id": 8328,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9348,
+    "id": 547,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2424,
+    "id": 5631,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,39 +171,12 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3924,
+    "id": 7348,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 4725,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 879,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Pakistan’s Indigenous Torwali people are fighting to save the Swat River",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/08/pakistans-indigenous-torwali-people-are-fighting-to-save-the-swat-river/",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 5156,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Why we’re choosing to focus on climate solutions",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/07/why-were-choosing-to-focus-on-climate-solutions/",
-    "time": "Thu, 07 May 2026"
   }
 ]
