@@ -1,6 +1,6 @@
 [
   {
-    "id": 3438,
+    "id": 2694,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3575,
+    "id": 9680,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,16 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 2588,
+    "id": 1233,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Protection of Civilians Week, May 2026",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/protection-civilians-week-may-2026",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 9192,
     "level": "critical",
     "country": "🌍",
     "text": "Rubio meets Pope Leo: Can they heal White House-Vatican rift?",
@@ -27,25 +36,34 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 3387,
+    "id": 1789,
     "level": "critical",
     "country": "🌍",
-    "text": "Célébrations du 9-Mai en Russie : une mémoire au service de la guerre",
+    "text": "Mali : la population s'interroge après les attaques du 25 avril",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20260508-c%C3%A9l%C3%A9brations-du-9-mai-en-russie-une-m%C3%A9moire-au-service-de-la-guerre",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260508-mali-la-population-s-interroge-apr%C3%A8s-les-attaques-du-25-avril",
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 8231,
+    "id": 4321,
     "level": "critical",
     "country": "🌍",
-    "text": "La France se fait une place au Kenya en devenant le 4ème investisseur du pays",
+    "text": "Cérémonie des commémorations du 8 mai dans un contexte international de guerres",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260508-la-france-se-fait-un-place-au-kenya-en-devenant-le-4%C3%A8me-investisseur-du-pays",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260508-c%C3%A9r%C3%A9monie-des-comm%C3%A9morations-du-8-mai-dans-un-contexte-international-de-guerres",
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 355,
+    "id": 8425,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran : Donald Trump piégé dans la guerre ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260508-iran-donald-trump-pi%C3%A9g%C3%A9-dans-la-guerre",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 2726,
     "level": "high",
     "country": "🌍",
     "text": "What we know about Iran’s response to the latest US ceasefire proposal",
@@ -54,7 +72,16 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 5812,
+    "id": 3828,
+    "level": "high",
+    "country": "🌍",
+    "text": "Massacre de Sétif : Macron envoie la ministre déléguée aux Armées pour cet homma",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260508-massacre-de-s%C3%A9tif-macron-envoie-la-ministre-d%C3%A9l%C3%A9gu%C3%A9e-aux-arm%C3%A9es-pour-cet-hommage-alg%C3%A9rien",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1389,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -63,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 522,
+    "id": 733,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -72,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1839,
+    "id": 1346,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -81,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7106,
+    "id": 3990,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -90,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4040,
+    "id": 6293,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -99,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2110,
+    "id": 1846,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -108,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5306,
+    "id": 9355,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -117,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 456,
+    "id": 8301,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -126,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2846,
+    "id": 5771,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -135,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 1165,
+    "id": 7772,
     "level": "medium",
     "country": "🌍",
     "text": "Pakistan’s Indigenous Torwali people are fighting to save the Swat River",
@@ -144,39 +171,12 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 4778,
+    "id": 3965,
     "level": "medium",
     "country": "🌍",
     "text": "Why we’re choosing to focus on climate solutions",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/07/why-were-choosing-to-focus-on-climate-solutions/",
     "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 1601,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Buea, Cameroon is facing recurring floods despite a lack of rain",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/07/buea-cameroon-is-facing-recurring-floods-despite-the-lack-of-rain/",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 2423,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The ordeal of an undocumented Haitian migrant in the Dominican Republic",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/07/the-ordeal-of-an-undocumented-haitian-migrant-in-the-dominican-republic/",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 8034,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Tibetans became eco-guards of Asia’s water tower",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/06/how-tibetans-became-eco-guards-of-asias-water-tower/",
-    "time": "Wed, 06 May 2026"
   }
 ]
