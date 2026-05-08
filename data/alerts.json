@@ -1,6 +1,6 @@
 [
   {
-    "id": 2790,
+    "id": 4966,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7324,
+    "id": 4175,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,52 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 7871,
+    "id": 8654,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guatemala Actualización de la perspectiva de seguridad alimentaria: Temporada de",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/guatemala/guatemala-actualizacion-de-la-perspectiva-de-seguridad-alimentaria-temporada-de-escasez-marcada-por-una-alta-dependencia-del-mercado-abril-septiembre-2026",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 7278,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali: Mise à jour sur la sécurité alimentaire - L’accès réduit aux aliments aggr",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/mali/mali-mise-jour-sur-la-securite-alimentaire-lacces-reduit-aux-aliments-aggrave-linsecurite-alimentaire-au-centre-et-au-nord-avril-septembre-2026",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 6334,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Malawi Food Security Outlook Update: The main harvest is supporting food securit",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/malawi/malawi-food-security-outlook-update-main-harvest-supporting-food-security-improvements-across-country-april-september-2026",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 3091,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Burundi Food Security Outlook Update, April - September 2026: Fuel shortages, hi",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/burundi/burundi-food-security-outlook-update-april-september-2026-fuel-shortages-high-prices-and-pressure-refugees-and-returnees-drive-stressed",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1233,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Afghanistan Food Security Outlook Update, April - September 2026: Food access to",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/afghanistan/afghanistan-food-security-outlook-update-april-september-2026-food-access-improve-harvest-millions-starting-may",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 4397,
     "level": "critical",
     "country": "🌍",
     "text": "The Palestinian shot dead hours before his son was born",
@@ -27,25 +72,25 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 7914,
+    "id": 3887,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
+    "text": "Iran war live: UAE says intercepted attacks after Iran, US trade blows",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/8/iran-war-live-trump-says-ceasefire-still-in-effect-as-iran-us-clash?traffic_source=rss",
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 8702,
+    "id": 3222,
     "level": "critical",
     "country": "🌍",
-    "text": "Huge fire at Mexican fair kills five people",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/huge-fire-at-mexican-fair-kills-five-people?traffic_source=rss",
-    "time": "Thu, 07 May 2026"
+    "text": "Jour férié, ou pas ? L'histoire complexe du 8-Mai",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260508-jour-f%C3%A9ri%C3%A9-ou-pas-histoire-complexe-8-mai-jour-f%C3%A9ri%C3%A9-france-seconde-guerre-mondiale-ww2-wwii",
+    "time": "Fri, 08 May 2026"
   },
   {
-    "id": 4040,
+    "id": 1447,
     "level": "critical",
     "country": "🌍",
     "text": "Saviez-vous qu'en 1945, il y a eu deux capitulations en 24h ?",
@@ -54,16 +99,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 1106,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sommet \"Africa Forward\" : Afrique anglophone, le pari français ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260507-sommet-africa-forward-afrique-anglophone-le-pari-fran%C3%A7ais",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 9142,
+    "id": 3776,
     "level": "high",
     "country": "🌍",
     "text": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
@@ -72,16 +108,16 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 5417,
+    "id": 3741,
     "level": "high",
     "country": "🌍",
-    "text": "Videos show interceptions over the skies of Tehran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/7/videos-show-interceptions-over-the-skies-of-tehran?traffic_source=rss",
-    "time": "Thu, 07 May 2026"
+    "text": "Défilé du 9-Mai allégé : pourquoi Poutine a-t-il réduit la voilure ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260508-russie-defile-victoire-moscou-poutine-ukraine-drones-menaces-parade-9-mai",
+    "time": "Fri, 08 May 2026"
   },
   {
-    "id": 4518,
+    "id": 4359,
     "level": "high",
     "country": "🌍",
     "text": "Sud-Liban : un soldat israélien fait fumer une statue de la Vierge Marie",
@@ -90,16 +126,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 6460,
-    "level": "high",
-    "country": "🌍",
-    "text": "En direct : plusieurs explosions en Iran, le port stratégique de Bandar Abbas to",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260507-en-direct-moyen-orient-donald-trump-guerre-iran-liban-ormuz-israel",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 9548,
+    "id": 8597,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4677,
+    "id": 1742,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9720,
+    "id": 2897,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9472,
+    "id": 2952,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7416,
+    "id": 8353,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,39 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2966,
+    "id": 1592,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 3197,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 5001,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 1929,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
   }
 ]
