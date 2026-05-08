@@ -1,6 +1,6 @@
 [
   {
-    "id": 94,
+    "id": 1180,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8161,
+    "id": 4445,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,16 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1787,
+    "id": 4070,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/al-jazeera-reporter-witnesses-israeli-strikes-on-lebanon?traffic_source=rss",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1455,
     "level": "critical",
     "country": "🌍",
     "text": "Trump announces three-day ceasefire in Russia-Ukraine war",
@@ -27,7 +36,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 4881,
+    "id": 2270,
     "level": "critical",
     "country": "🌍",
     "text": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
@@ -36,16 +45,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 2417,
-    "level": "critical",
-    "country": "🌍",
-    "text": "More than a dozen reported killed in Israeli attacks on south Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 7206,
+    "id": 8351,
     "level": "critical",
     "country": "🌍",
     "text": "Nouveaux affrontements à Ormuz, les attaques russes et ukrainiennes continuent e",
@@ -54,7 +54,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 3750,
+    "id": 2296,
     "level": "critical",
     "country": "🌍",
     "text": "L'essentiel du procès libyen en appel de Nicolas Sarkozy : face aux victimes de ",
@@ -63,7 +63,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 6903,
+    "id": 5375,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine et désengagement américain : la course à l'armement s'accélère",
@@ -72,7 +72,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 3745,
+    "id": 2425,
     "level": "high",
     "country": "🌍",
     "text": "Libya’s largest oil refinery halts operations during fighting",
@@ -81,16 +81,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 3726,
-    "level": "high",
-    "country": "🌍",
-    "text": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 9378,
+    "id": 30,
     "level": "high",
     "country": "🌍",
     "text": "Législatives en Guinée : l'opposition dénonce des violations du code électoral",
@@ -99,7 +90,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 1590,
+    "id": 1997,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3938,
+    "id": 4448,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5012,
+    "id": 1791,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8831,
+    "id": 5950,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9699,
+    "id": 7513,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1030,
+    "id": 7915,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 684,
+    "id": 9495,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5168,
+    "id": 4866,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,12 +162,21 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1418,
+    "id": 9774,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 9505,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From blooms to bytes: Will Kenya’s data center boom repeat the ‘Greenhouse Effec",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/08/from-blooms-to-bytes-will-kenyas-data-center-boom-repeat-the-greenhouse-effect/",
+    "time": "Fri, 08 May 2026"
   }
 ]
