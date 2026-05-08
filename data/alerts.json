@@ -1,6 +1,6 @@
 [
   {
-    "id": 2553,
+    "id": 94,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7985,
+    "id": 8161,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,25 +18,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 9306,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Haiti: More than 1,600 people killed in the first quarter of 2026, a human right",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/haiti/haiti-more-1600-people-killed-first-quarter-2026-human-rights-situation-remains-extremely-worrying",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 1573,
-    "level": "critical",
-    "country": "🌍",
-    "text": "World: Protection of Civilians Week, May 2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/world/protection-civilians-week-may-2026",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 1832,
+    "id": 1787,
     "level": "critical",
     "country": "🌍",
     "text": "Trump announces three-day ceasefire in Russia-Ukraine war",
@@ -45,7 +27,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 1390,
+    "id": 4881,
     "level": "critical",
     "country": "🌍",
     "text": "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
@@ -54,7 +36,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 2601,
+    "id": 2417,
     "level": "critical",
     "country": "🌍",
     "text": "More than a dozen reported killed in Israeli attacks on south Lebanon",
@@ -63,7 +45,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 9888,
+    "id": 7206,
     "level": "critical",
     "country": "🌍",
     "text": "Nouveaux affrontements à Ormuz, les attaques russes et ukrainiennes continuent e",
@@ -72,7 +54,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 7790,
+    "id": 3750,
     "level": "critical",
     "country": "🌍",
     "text": "L'essentiel du procès libyen en appel de Nicolas Sarkozy : face aux victimes de ",
@@ -81,7 +63,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 653,
+    "id": 6903,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine et désengagement américain : la course à l'armement s'accélère",
@@ -90,7 +72,16 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 665,
+    "id": 3745,
+    "level": "high",
+    "country": "🌍",
+    "text": "Libya’s largest oil refinery halts operations during fighting",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/8/libyas-largest-oil-refinery-halts-operations-during-fighting?traffic_source=rss",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 3726,
     "level": "high",
     "country": "🌍",
     "text": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
@@ -99,7 +90,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 6613,
+    "id": 9378,
     "level": "high",
     "country": "🌍",
     "text": "Législatives en Guinée : l'opposition dénonce des violations du code électoral",
@@ -108,7 +99,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 7971,
+    "id": 1590,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6698,
+    "id": 3938,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9441,
+    "id": 5012,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4596,
+    "id": 8831,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8328,
+    "id": 9699,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 547,
+    "id": 1030,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5631,
+    "id": 684,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,12 +162,21 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7348,
+    "id": 5168,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 1418,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
   }
 ]
