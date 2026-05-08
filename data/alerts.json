@@ -1,6 +1,6 @@
 [
   {
-    "id": 5306,
+    "id": 9008,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6789,
+    "id": 2286,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,34 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 1715,
+    "id": 9658,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Haiti: More than 1,600 people killed in the first quarter of 2026, a human right",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/haiti/haiti-more-1600-people-killed-first-quarter-2026-human-rights-situation-remains-extremely-worrying",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 8305,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Protection of Civilians Week, May 2026",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/protection-civilians-week-may-2026",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1390,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Spain contributes €10 million to WFP to support people facing hunger dr",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/spain-contributes-eur10-million-wfp-support-people-facing-hunger-driven-conflict-and-violence-world-food-programme",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 240,
     "level": "critical",
     "country": "🌍",
     "text": "Virginia Supreme Court strikes down Democrats’ redistricting plan in US",
@@ -27,34 +54,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 7794,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Thousands run Palestine Marathon under shadow of Israel’s war on Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/5/8/thousands-run-palestine-marathon-under-shadow-of-israels-war-on-gaza?traffic_source=rss",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 8722,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What would prolonged war mean for Sudan?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/5/8/what-would-prolonged-war-mean-for-sudan?traffic_source=rss",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 7085,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Italy-US ties strained as pope and Iran war dominate talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/8/italy-us-ties-strained-as-pope-and-iran-war-dominate-talks?traffic_source=rss",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 3704,
+    "id": 7173,
     "level": "critical",
     "country": "🌍",
     "text": "Éruption du volcan Dukono en Indonésie : trois randonneurs morts et dix portés d",
@@ -63,25 +63,34 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 9995,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mali : la population s'interroge après les attaques du 25 avril",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260508-mali-la-population-s-interroge-apr%C3%A8s-les-attaques-du-25-avril",
-    "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 7643,
+    "id": 1985,
     "level": "high",
     "country": "🌍",
-    "text": "Massacre de Sétif : Macron envoie la ministre déléguée aux Armées pour cet homma",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260508-massacre-de-s%C3%A9tif-macron-envoie-la-ministre-d%C3%A9l%C3%A9gu%C3%A9e-aux-arm%C3%A9es-pour-cet-hommage-alg%C3%A9rien",
+    "text": "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/8/real-madrid-fine-valverde-and-tchouameni-for-dressing-room-fight?traffic_source=rss",
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 5386,
+    "id": 253,
+    "level": "high",
+    "country": "🌍",
+    "text": "Rubio says Iranian boats firing at Americans will be ‘blown up’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/rubio-says-iranian-boats-firing-at-americans-will-be-blown?traffic_source=rss",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1739,
+    "level": "high",
+    "country": "🌍",
+    "text": "La Biennale de Venise, baromètre du monde",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260508-la-biennale-de-venise-barom%C3%A8tre-du-monde",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 1410,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8245,
+    "id": 7961,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3358,
+    "id": 4661,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6983,
+    "id": 9275,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8922,
+    "id": 2567,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2461,
+    "id": 5030,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3559,
+    "id": 5175,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 8605,
+    "id": 2263,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2353,
+    "id": 16,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,21 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 2988,
+    "id": 884,
     "level": "medium",
     "country": "🌍",
     "text": "Pakistan’s Indigenous Torwali people are fighting to save the Swat River",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/08/pakistans-indigenous-torwali-people-are-fighting-to-save-the-swat-river/",
     "time": "Fri, 08 May 2026"
-  },
-  {
-    "id": 9239,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Why we’re choosing to focus on climate solutions",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/07/why-were-choosing-to-focus-on-climate-solutions/",
-    "time": "Thu, 07 May 2026"
   }
 ]
