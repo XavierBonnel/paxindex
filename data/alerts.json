@@ -1,6 +1,6 @@
 [
   {
-    "id": 6886,
+    "id": 2790,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8366,
+    "id": 7324,
     "level": "critical",
     "country": "🌍",
     "text": "Nepal becomes South Asia's priciest place to fill a tank as US war on Iran rattl",
@@ -18,7 +18,7 @@
     "time": "Tue, 05 May 2026"
   },
   {
-    "id": 3279,
+    "id": 7871,
     "level": "critical",
     "country": "🌍",
     "text": "The Palestinian shot dead hours before his son was born",
@@ -27,7 +27,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 1526,
+    "id": 7914,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
@@ -36,7 +36,7 @@
     "time": "Fri, 08 May 2026"
   },
   {
-    "id": 1468,
+    "id": 8702,
     "level": "critical",
     "country": "🌍",
     "text": "Huge fire at Mexican fair kills five people",
@@ -45,7 +45,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 1723,
+    "id": 4040,
     "level": "critical",
     "country": "🌍",
     "text": "Saviez-vous qu'en 1945, il y a eu deux capitulations en 24h ?",
@@ -54,7 +54,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 7964,
+    "id": 1106,
     "level": "critical",
     "country": "🌍",
     "text": "Sommet \"Africa Forward\" : Afrique anglophone, le pari français ?",
@@ -63,7 +63,16 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 9489,
+    "id": 9142,
+    "level": "high",
+    "country": "🌍",
+    "text": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 5417,
     "level": "high",
     "country": "🌍",
     "text": "Videos show interceptions over the skies of Tehran",
@@ -72,16 +81,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 8409,
-    "level": "high",
-    "country": "🌍",
-    "text": "En direct : Trump dit que le cessez-le-feu avec l'Iran est toujours en vigueur a",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260507-en-direct-etats-unis-iran-s-accusent-violations-cessez-le-feu-detroit-d-ormuz-trump-liban",
-    "time": "Thu, 07 May 2026"
-  },
-  {
-    "id": 1836,
+    "id": 4518,
     "level": "high",
     "country": "🌍",
     "text": "Sud-Liban : un soldat israélien fait fumer une statue de la Vierge Marie",
@@ -90,7 +90,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 5134,
+    "id": 6460,
     "level": "high",
     "country": "🌍",
     "text": "En direct : plusieurs explosions en Iran, le port stratégique de Bandar Abbas to",
@@ -99,7 +99,7 @@
     "time": "Thu, 07 May 2026"
   },
   {
-    "id": 1965,
+    "id": 9548,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 125,
+    "id": 4677,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1650,
+    "id": 9720,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 180,
+    "id": 9472,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6675,
+    "id": 7416,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7778,
+    "id": 2966,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8318,
+    "id": 3197,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 8425,
+    "id": 5001,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,7 +171,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5429,
+    "id": 1929,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
