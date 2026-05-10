@@ -1,6 +1,6 @@
 [
   {
-    "id": 8388,
+    "id": 8878,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,25 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9637,
+    "id": 8225,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 5554,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 1186,
     "level": "critical",
     "country": "🌍",
     "text": "US Jewish leader, Israel advocate Abe Foxman dies at 86",
@@ -18,7 +36,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 7660,
+    "id": 2102,
     "level": "critical",
     "country": "🌍",
     "text": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
@@ -27,16 +45,16 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 4039,
+    "id": 1122,
     "level": "critical",
     "country": "🌍",
-    "text": "Food inflation hammers households in war-hit Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
+    "text": "Sommet Africa Forward : l'ère du \"pré-carré français\" est terminée pour Emmanuel",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260510-sommet-africa-forward-l-%C3%A8re-du-pr%C3%A9-carr%C3%A9-fran%C3%A7ais-est-termin%C3%A9e-pour-emmanuel-macron",
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 9975,
+    "id": 887,
     "level": "critical",
     "country": "🌍",
     "text": "Walid Joumblatt : \" Israël frappe partout, n'importe où; le Sud-Liban est devenu",
@@ -45,7 +63,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 8295,
+    "id": 1694,
     "level": "critical",
     "country": "🌍",
     "text": "Trêve en Ukraine : Moscou veut relancer le dialogue",
@@ -54,7 +72,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 4989,
+    "id": 6253,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Kharkiv frappée par la Russie malgré le cessez-le-feu",
@@ -63,25 +81,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 4019,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Téhéran répond à Washington et évoque la sécurité maritime",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-t%C3%A9h%C3%A9ran-r%C3%A9pond-%C3%A0-washington-et-%C3%A9voque-la-s%C3%A9curit%C3%A9-maritime",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 1507,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : Berlin sceptique face à la proposition russe de nommer médiateur l'ex-",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260510-ukraine-berlin-sceptique-face-proposition-russe-nommer-ex-chancelier-schr%C3%B6der-m%C3%A9diateur",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 1509,
+    "id": 5361,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6375,
+    "id": 2545,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8844,
+    "id": 2782,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1596,
+    "id": 3141,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8579,
+    "id": 3613,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3267,
+    "id": 1906,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2512,
+    "id": 6140,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5818,
+    "id": 2929,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 234,
+    "id": 4962,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +162,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 2827,
+    "id": 185,
     "level": "medium",
     "country": "🌍",
     "text": "Archiving Nepal’s medicinal plants and Indigenous knowledge for future generatio",
@@ -171,7 +171,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 7191,
+    "id": 6990,
     "level": "medium",
     "country": "🌍",
     "text": "Woman journalist victim in Pakistan takes action against online harassment",

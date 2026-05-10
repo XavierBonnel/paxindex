@@ -72,18 +72,6 @@
     "rank": 6
   },
   {
-    "code": "BZ",
-    "flag": "🇧🇿",
-    "name": "Belize",
-    "region": "Amériques",
-    "score": 80.0,
-    "change": 0.0,
-    "wars": 0,
-    "trade": 119,
-    "gdelt_penalty": 0.0,
-    "rank": 7
-  },
-  {
     "code": "AM",
     "flag": "🇦🇲",
     "name": "Arménie",
@@ -93,7 +81,7 @@
     "wars": 1,
     "trade": 140,
     "gdelt_penalty": 0.0,
-    "rank": 8
+    "rank": 7
   },
   {
     "code": "BW",
@@ -105,7 +93,7 @@
     "wars": 1,
     "trade": 140,
     "gdelt_penalty": 0.0,
-    "rank": 9
+    "rank": 8
   },
   {
     "code": "BI",
@@ -117,7 +105,7 @@
     "wars": 1,
     "trade": 138,
     "gdelt_penalty": 0.0,
-    "rank": 10
+    "rank": 9
   },
   {
     "code": "BJ",
@@ -129,7 +117,7 @@
     "wars": 0,
     "trade": 112,
     "gdelt_penalty": 0.0,
-    "rank": 11
+    "rank": 10
   },
   {
     "code": "KH",
@@ -141,19 +129,19 @@
     "wars": 1,
     "trade": 136,
     "gdelt_penalty": 0.0,
-    "rank": 12
+    "rank": 11
   },
   {
-    "code": "CH",
-    "flag": "🇨🇭",
-    "name": "Suisse",
+    "code": "HU",
+    "flag": "🇭🇺",
+    "name": "Hongrie",
     "region": "Europe",
-    "score": 78.8,
+    "score": 78.6,
     "change": 0.0,
-    "wars": 0,
-    "trade": 110,
+    "wars": 1,
+    "trade": 133,
     "gdelt_penalty": 0.0,
-    "rank": 13
+    "rank": 12
   },
   {
     "code": "BT",
@@ -165,7 +153,7 @@
     "wars": 0,
     "trade": 107,
     "gdelt_penalty": 0.0,
-    "rank": 14
+    "rank": 13
   },
   {
     "code": "BY",
@@ -177,7 +165,7 @@
     "wars": 0,
     "trade": 107,
     "gdelt_penalty": 0.0,
-    "rank": 15
+    "rank": 14
   },
   {
     "code": "CV",
@@ -189,12 +177,24 @@
     "wars": 1,
     "trade": 128,
     "gdelt_penalty": 0.0,
-    "rank": 16
+    "rank": 15
   },
   {
     "code": "BE",
     "flag": "🇧🇪",
     "name": "Belgique",
+    "region": "Europe",
+    "score": 77.8,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 127,
+    "gdelt_penalty": 0.0,
+    "rank": 16
+  },
+  {
+    "code": "IE",
+    "flag": "🇮🇪",
+    "name": "Irlande",
     "region": "Europe",
     "score": 77.8,
     "change": 0.0,
@@ -264,6 +264,18 @@
     "rank": 22
   },
   {
+    "code": "BZ",
+    "flag": "🇧🇿",
+    "name": "Belize",
+    "region": "Amériques",
+    "score": 76.7,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 119,
+    "gdelt_penalty": 0.0,
+    "rank": 23
+  },
+  {
     "code": "KM",
     "flag": "🇰🇲",
     "name": "Comores",
@@ -273,7 +285,7 @@
     "wars": 1,
     "trade": 119,
     "gdelt_penalty": 0.0,
-    "rank": 23
+    "rank": 24
   },
   {
     "code": "TD",
@@ -285,7 +297,7 @@
     "wars": 1,
     "trade": 116,
     "gdelt_penalty": 0.0,
-    "rank": 24
+    "rank": 25
   },
   {
     "code": "GD",
@@ -297,7 +309,7 @@
     "wars": 2,
     "trade": 140,
     "gdelt_penalty": 0.0,
-    "rank": 25
+    "rank": 26
   },
   {
     "code": "GW",
@@ -309,7 +321,19 @@
     "wars": 2,
     "trade": 140,
     "gdelt_penalty": 0.0,
-    "rank": 26
+    "rank": 27
+  },
+  {
+    "code": "NO",
+    "flag": "🇳🇴",
+    "name": "Norvège",
+    "region": "Europe",
+    "score": 76.2,
+    "change": 0.0,
+    "wars": 0,
+    "trade": 90,
+    "gdelt_penalty": 0.0,
+    "rank": 28
   },
   {
     "code": "BN",
@@ -321,7 +345,7 @@
     "wars": 0,
     "trade": 89,
     "gdelt_penalty": 0.0,
-    "rank": 27
+    "rank": 29
   },
   {
     "code": "CR",
@@ -333,7 +357,7 @@
     "wars": 1,
     "trade": 114,
     "gdelt_penalty": 0.0,
-    "rank": 28
+    "rank": 30
   },
   {
     "code": "CU",
@@ -345,7 +369,19 @@
     "wars": 1,
     "trade": 113,
     "gdelt_penalty": 0.0,
-    "rank": 29
+    "rank": 31
+  },
+  {
+    "code": "AZ",
+    "flag": "🇦🇿",
+    "name": "Azerbaïdjan",
+    "region": "Asie",
+    "score": 75.9,
+    "change": 0.0,
+    "wars": 2,
+    "trade": 137,
+    "gdelt_penalty": 0.0,
+    "rank": 32
   },
   {
     "code": "HR",
@@ -357,7 +393,31 @@
     "wars": 1,
     "trade": 112,
     "gdelt_penalty": 0.0,
-    "rank": 30
+    "rank": 33
+  },
+  {
+    "code": "ML",
+    "flag": "🇲🇱",
+    "name": "Mali",
+    "region": "Afrique",
+    "score": 75.8,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 112,
+    "gdelt_penalty": 0.0,
+    "rank": 34
+  },
+  {
+    "code": "CH",
+    "flag": "🇨🇭",
+    "name": "Suisse",
+    "region": "Europe",
+    "score": 75.6,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 110,
+    "gdelt_penalty": 0.0,
+    "rank": 35
   },
   {
     "code": "EG",
@@ -369,7 +429,7 @@
     "wars": 1,
     "trade": 110,
     "gdelt_penalty": 0.0,
-    "rank": 31
+    "rank": 36
   },
   {
     "code": "AE",
@@ -381,7 +441,7 @@
     "wars": 1,
     "trade": 109,
     "gdelt_penalty": 0.0,
-    "rank": 32
+    "rank": 37
   },
   {
     "code": "AT",
@@ -393,7 +453,7 @@
     "wars": 0,
     "trade": 84,
     "gdelt_penalty": 0.0,
-    "rank": 33
+    "rank": 38
   },
   {
     "code": "CM",
@@ -405,7 +465,7 @@
     "wars": 0,
     "trade": 83,
     "gdelt_penalty": 0.0,
-    "rank": 34
+    "rank": 39
   },
   {
     "code": "EC",
@@ -417,31 +477,7 @@
     "wars": 1,
     "trade": 108,
     "gdelt_penalty": 0.0,
-    "rank": 35
-  },
-  {
-    "code": "HU",
-    "flag": "🇭🇺",
-    "name": "Hongrie",
-    "region": "Europe",
-    "score": 75.3,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 133,
-    "gdelt_penalty": 0.0,
-    "rank": 36
-  },
-  {
-    "code": "IE",
-    "flag": "🇮🇪",
-    "name": "Irlande",
-    "region": "Europe",
-    "score": 74.6,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 127,
-    "gdelt_penalty": 0.0,
-    "rank": 37
+    "rank": 40
   },
   {
     "code": "CF",
@@ -453,7 +489,7 @@
     "wars": 0,
     "trade": 77,
     "gdelt_penalty": 0.0,
-    "rank": 38
+    "rank": 41
   },
   {
     "code": "KG",
@@ -465,7 +501,7 @@
     "wars": 2,
     "trade": 126,
     "gdelt_penalty": 0.0,
-    "rank": 39
+    "rank": 42
   },
   {
     "code": "KI",
@@ -477,7 +513,7 @@
     "wars": 2,
     "trade": 124,
     "gdelt_penalty": 0.0,
-    "rank": 40
+    "rank": 43
   },
   {
     "code": "GA",
@@ -489,7 +525,7 @@
     "wars": 1,
     "trade": 98,
     "gdelt_penalty": 0.0,
-    "rank": 41
+    "rank": 44
   },
   {
     "code": "LS",
@@ -501,7 +537,7 @@
     "wars": 2,
     "trade": 122,
     "gdelt_penalty": 0.0,
-    "rank": 42
+    "rank": 45
   },
   {
     "code": "LV",
@@ -513,7 +549,7 @@
     "wars": 2,
     "trade": 122,
     "gdelt_penalty": 0.0,
-    "rank": 43
+    "rank": 46
   },
   {
     "code": "MM",
@@ -525,19 +561,7 @@
     "wars": 1,
     "trade": 97,
     "gdelt_penalty": 0.0,
-    "rank": 44
-  },
-  {
-    "code": "DE",
-    "flag": "🇩🇪",
-    "name": "Allemagne",
-    "region": "Europe",
-    "score": 73.6,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 120,
-    "gdelt_penalty": 0.0,
-    "rank": 45
+    "rank": 47
   },
   {
     "code": "TH",
@@ -549,7 +573,7 @@
     "wars": 1,
     "trade": 95,
     "gdelt_penalty": 0.0,
-    "rank": 46
+    "rank": 48
   },
   {
     "code": "UY",
@@ -561,7 +585,7 @@
     "wars": 1,
     "trade": 95,
     "gdelt_penalty": 0.0,
-    "rank": 47
+    "rank": 49
   },
   {
     "code": "GE",
@@ -573,7 +597,7 @@
     "wars": 1,
     "trade": 94,
     "gdelt_penalty": 0.0,
-    "rank": 48
+    "rank": 50
   },
   {
     "code": "ME",
@@ -585,7 +609,7 @@
     "wars": 3,
     "trade": 144,
     "gdelt_penalty": 0.0,
-    "rank": 49
+    "rank": 51
   },
   {
     "code": "MZ",
@@ -597,7 +621,7 @@
     "wars": 3,
     "trade": 144,
     "gdelt_penalty": 0.0,
-    "rank": 50
+    "rank": 52
   },
   {
     "code": "LI",
@@ -609,7 +633,7 @@
     "wars": 2,
     "trade": 118,
     "gdelt_penalty": 0.0,
-    "rank": 51
+    "rank": 53
   },
   {
     "code": "LY",
@@ -621,7 +645,7 @@
     "wars": 2,
     "trade": 118,
     "gdelt_penalty": 0.0,
-    "rank": 52
+    "rank": 54
   },
   {
     "code": "IS",
@@ -633,7 +657,7 @@
     "wars": 0,
     "trade": 68,
     "gdelt_penalty": 0.0,
-    "rank": 53
+    "rank": 55
   },
   {
     "code": "CG",
@@ -645,7 +669,7 @@
     "wars": 0,
     "trade": 67,
     "gdelt_penalty": 0.0,
-    "rank": 54
+    "rank": 56
   },
   {
     "code": "GH",
@@ -657,7 +681,7 @@
     "wars": 1,
     "trade": 92,
     "gdelt_penalty": 0.0,
-    "rank": 55
+    "rank": 57
   },
   {
     "code": "GR",
@@ -669,7 +693,7 @@
     "wars": 3,
     "trade": 141,
     "gdelt_penalty": 0.0,
-    "rank": 56
+    "rank": 58
   },
   {
     "code": "KP",
@@ -681,7 +705,7 @@
     "wars": 0,
     "trade": 67,
     "gdelt_penalty": 0.0,
-    "rank": 57
+    "rank": 59
   },
   {
     "code": "MK",
@@ -693,7 +717,7 @@
     "wars": 2,
     "trade": 116,
     "gdelt_penalty": 0.0,
-    "rank": 58
+    "rank": 60
   },
   {
     "code": "FR",
@@ -705,7 +729,7 @@
     "wars": 2,
     "trade": 115,
     "gdelt_penalty": 0.0,
-    "rank": 59
+    "rank": 61
   },
   {
     "code": "GN",
@@ -717,7 +741,7 @@
     "wars": 1,
     "trade": 90,
     "gdelt_penalty": 0.0,
-    "rank": 60
+    "rank": 62
   },
   {
     "code": "GQ",
@@ -729,19 +753,7 @@
     "wars": 1,
     "trade": 90,
     "gdelt_penalty": 0.0,
-    "rank": 61
-  },
-  {
-    "code": "NO",
-    "flag": "🇳🇴",
-    "name": "Norvège",
-    "region": "Europe",
-    "score": 73.0,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 90,
-    "gdelt_penalty": 0.0,
-    "rank": 62
+    "rank": 63
   },
   {
     "code": "MG",
@@ -752,18 +764,6 @@
     "change": 0.0,
     "wars": 2,
     "trade": 114,
-    "gdelt_penalty": 0.0,
-    "rank": 63
-  },
-  {
-    "code": "CA",
-    "flag": "🇨🇦",
-    "name": "Canada",
-    "region": "Amériques",
-    "score": 72.7,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 88,
     "gdelt_penalty": 0.0,
     "rank": 64
   },
@@ -792,18 +792,6 @@
     "rank": 66
   },
   {
-    "code": "AZ",
-    "flag": "🇦🇿",
-    "name": "Azerbaïdjan",
-    "region": "Asie",
-    "score": 72.6,
-    "change": 0.0,
-    "wars": 3,
-    "trade": 137,
-    "gdelt_penalty": 0.0,
-    "rank": 67
-  },
-  {
     "code": "BF",
     "flag": "🇧🇫",
     "name": "Burkina Faso",
@@ -813,7 +801,7 @@
     "wars": 1,
     "trade": 87,
     "gdelt_penalty": 0.0,
-    "rank": 68
+    "rank": 67
   },
   {
     "code": "BG",
@@ -825,7 +813,7 @@
     "wars": 1,
     "trade": 87,
     "gdelt_penalty": 0.0,
-    "rank": 69
+    "rank": 68
   },
   {
     "code": "CI",
@@ -837,19 +825,7 @@
     "wars": 0,
     "trade": 62,
     "gdelt_penalty": 0.0,
-    "rank": 70
-  },
-  {
-    "code": "ML",
-    "flag": "🇲🇱",
-    "name": "Mali",
-    "region": "Afrique",
-    "score": 72.6,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 112,
-    "gdelt_penalty": 0.0,
-    "rank": 71
+    "rank": 69
   },
   {
     "code": "MW",
@@ -861,19 +837,7 @@
     "wars": 2,
     "trade": 112,
     "gdelt_penalty": 0.0,
-    "rank": 72
-  },
-  {
-    "code": "NE",
-    "flag": "🇳🇪",
-    "name": "Niger",
-    "region": "Afrique",
-    "score": 72.6,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 87,
-    "gdelt_penalty": 0.0,
-    "rank": 73
+    "rank": 70
   },
   {
     "code": "DJ",
@@ -885,7 +849,7 @@
     "wars": 0,
     "trade": 61,
     "gdelt_penalty": 0.0,
-    "rank": 74
+    "rank": 71
   },
   {
     "code": "DM",
@@ -897,7 +861,7 @@
     "wars": 0,
     "trade": 61,
     "gdelt_penalty": 0.0,
-    "rank": 75
+    "rank": 72
   },
   {
     "code": "FI",
@@ -909,7 +873,7 @@
     "wars": 1,
     "trade": 85,
     "gdelt_penalty": 0.0,
-    "rank": 76
+    "rank": 73
   },
   {
     "code": "MR",
@@ -921,7 +885,7 @@
     "wars": 2,
     "trade": 110,
     "gdelt_penalty": 0.0,
-    "rank": 77
+    "rank": 74
   },
   {
     "code": "ER",
@@ -933,7 +897,7 @@
     "wars": 0,
     "trade": 58,
     "gdelt_penalty": 0.0,
-    "rank": 78
+    "rank": 75
   },
   {
     "code": "ES",
@@ -945,7 +909,7 @@
     "wars": 2,
     "trade": 107,
     "gdelt_penalty": 0.0,
-    "rank": 79
+    "rank": 76
   },
   {
     "code": "PA",
@@ -957,7 +921,19 @@
     "wars": 3,
     "trade": 131,
     "gdelt_penalty": 0.0,
-    "rank": 80
+    "rank": 77
+  },
+  {
+    "code": "PK",
+    "flag": "🇵🇰",
+    "name": "Pakistan",
+    "region": "Asie",
+    "score": 71.9,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 82,
+    "gdelt_penalty": 0.0,
+    "rank": 78
   },
   {
     "code": "EE",
@@ -968,6 +944,30 @@
     "change": 0.0,
     "wars": 0,
     "trade": 56,
+    "gdelt_penalty": 0.0,
+    "rank": 79
+  },
+  {
+    "code": "AU",
+    "flag": "🇦🇺",
+    "name": "Australie",
+    "region": "Océanie",
+    "score": 71.7,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 80,
+    "gdelt_penalty": 0.0,
+    "rank": 80
+  },
+  {
+    "code": "IQ",
+    "flag": "🇮🇶",
+    "name": "Irak",
+    "region": "Moyen-Orient",
+    "score": 71.7,
+    "change": 0.0,
+    "wars": 3,
+    "trade": 130,
     "gdelt_penalty": 0.0,
     "rank": 81
   },
@@ -1008,6 +1008,18 @@
     "rank": 84
   },
   {
+    "code": "PE",
+    "flag": "🇵🇪",
+    "name": "Pérou",
+    "region": "Amériques",
+    "score": 71.0,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 75,
+    "gdelt_penalty": 0.0,
+    "rank": 85
+  },
+  {
     "code": "LA",
     "flag": "🇱🇦",
     "name": "Laos",
@@ -1017,7 +1029,7 @@
     "wars": 1,
     "trade": 73,
     "gdelt_penalty": 0.0,
-    "rank": 85
+    "rank": 86
   },
   {
     "code": "SZ",
@@ -1029,7 +1041,7 @@
     "wars": 0,
     "trade": 48,
     "gdelt_penalty": 0.0,
-    "rank": 86
+    "rank": 87
   },
   {
     "code": "AO",
@@ -1041,7 +1053,7 @@
     "wars": 0,
     "trade": 47,
     "gdelt_penalty": 0.0,
-    "rank": 87
+    "rank": 88
   },
   {
     "code": "FJ",
@@ -1053,7 +1065,7 @@
     "wars": 0,
     "trade": 47,
     "gdelt_penalty": 0.0,
-    "rank": 88
+    "rank": 89
   },
   {
     "code": "JP",
@@ -1065,7 +1077,7 @@
     "wars": 2,
     "trade": 96,
     "gdelt_penalty": 0.0,
-    "rank": 89
+    "rank": 90
   },
   {
     "code": "MC",
@@ -1077,7 +1089,7 @@
     "wars": 2,
     "trade": 96,
     "gdelt_penalty": 0.0,
-    "rank": 90
+    "rank": 91
   },
   {
     "code": "CY",
@@ -1089,7 +1101,7 @@
     "wars": 1,
     "trade": 70,
     "gdelt_penalty": 0.0,
-    "rank": 91
+    "rank": 92
   },
   {
     "code": "MN",
@@ -1101,7 +1113,7 @@
     "wars": 2,
     "trade": 95,
     "gdelt_penalty": 0.0,
-    "rank": 92
+    "rank": 93
   },
   {
     "code": "NA",
@@ -1113,7 +1125,7 @@
     "wars": 2,
     "trade": 94,
     "gdelt_penalty": 0.0,
-    "rank": 93
+    "rank": 94
   },
   {
     "code": "CD",
@@ -1125,7 +1137,7 @@
     "wars": 1,
     "trade": 67,
     "gdelt_penalty": 0.0,
-    "rank": 94
+    "rank": 95
   },
   {
     "code": "LU",
@@ -1137,7 +1149,7 @@
     "wars": 1,
     "trade": 66,
     "gdelt_penalty": 0.0,
-    "rank": 95
+    "rank": 96
   },
   {
     "code": "NP",
@@ -1149,19 +1161,31 @@
     "wars": 2,
     "trade": 91,
     "gdelt_penalty": 0.0,
-    "rank": 96
+    "rank": 97
   },
   {
-    "code": "PT",
-    "flag": "🇵🇹",
-    "name": "Portugal",
-    "region": "Europe",
-    "score": 69.6,
+    "code": "GT",
+    "flag": "🇬🇹",
+    "name": "Guatemala",
+    "region": "Amériques",
+    "score": 69.7,
     "change": 0.0,
-    "wars": 1,
-    "trade": 64,
+    "wars": 0,
+    "trade": 40,
     "gdelt_penalty": 0.0,
-    "rank": 97
+    "rank": 98
+  },
+  {
+    "code": "CA",
+    "flag": "🇨🇦",
+    "name": "Canada",
+    "region": "Amériques",
+    "score": 69.5,
+    "change": 0.0,
+    "wars": 2,
+    "trade": 88,
+    "gdelt_penalty": 0.0,
+    "rank": 99
   },
   {
     "code": "RO",
@@ -1173,7 +1197,19 @@
     "wars": 1,
     "trade": 63,
     "gdelt_penalty": 0.0,
-    "rank": 98
+    "rank": 100
+  },
+  {
+    "code": "NE",
+    "flag": "🇳🇪",
+    "name": "Niger",
+    "region": "Afrique",
+    "score": 69.4,
+    "change": 0.0,
+    "wars": 2,
+    "trade": 87,
+    "gdelt_penalty": 0.0,
+    "rank": 101
   },
   {
     "code": "GY",
@@ -1185,7 +1221,7 @@
     "wars": 0,
     "trade": 37,
     "gdelt_penalty": 0.0,
-    "rank": 99
+    "rank": 102
   },
   {
     "code": "MA",
@@ -1197,7 +1233,7 @@
     "wars": 1,
     "trade": 62,
     "gdelt_penalty": 0.0,
-    "rank": 100
+    "rank": 103
   },
   {
     "code": "MV",
@@ -1209,7 +1245,7 @@
     "wars": 1,
     "trade": 62,
     "gdelt_penalty": 0.0,
-    "rank": 101
+    "rank": 104
   },
   {
     "code": "OM",
@@ -1221,7 +1257,7 @@
     "wars": 2,
     "trade": 86,
     "gdelt_penalty": 0.0,
-    "rank": 102
+    "rank": 105
   },
   {
     "code": "MH",
@@ -1233,7 +1269,7 @@
     "wars": 1,
     "trade": 60,
     "gdelt_penalty": 0.0,
-    "rank": 103
+    "rank": 106
   },
   {
     "code": "AL",
@@ -1245,7 +1281,19 @@
     "wars": 0,
     "trade": 35,
     "gdelt_penalty": 0.0,
-    "rank": 104
+    "rank": 107
+  },
+  {
+    "code": "HN",
+    "flag": "🇭🇳",
+    "name": "Honduras",
+    "region": "Amériques",
+    "score": 69.0,
+    "change": 0.0,
+    "wars": 0,
+    "trade": 35,
+    "gdelt_penalty": 0.0,
+    "rank": 108
   },
   {
     "code": "HT",
@@ -1257,7 +1305,7 @@
     "wars": 0,
     "trade": 35,
     "gdelt_penalty": 0.0,
-    "rank": 105
+    "rank": 109
   },
   {
     "code": "MU",
@@ -1269,7 +1317,7 @@
     "wars": 1,
     "trade": 59,
     "gdelt_penalty": 0.0,
-    "rank": 106
+    "rank": 110
   },
   {
     "code": "SV",
@@ -1281,7 +1329,7 @@
     "wars": 1,
     "trade": 59,
     "gdelt_penalty": 0.0,
-    "rank": 107
+    "rank": 111
   },
   {
     "code": "UZ",
@@ -1293,31 +1341,7 @@
     "wars": 2,
     "trade": 83,
     "gdelt_penalty": 0.0,
-    "rank": 108
-  },
-  {
-    "code": "PK",
-    "flag": "🇵🇰",
-    "name": "Pakistan",
-    "region": "Asie",
-    "score": 68.7,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 82,
-    "gdelt_penalty": 0.0,
-    "rank": 109
-  },
-  {
-    "code": "MX",
-    "flag": "🇲🇽",
-    "name": "Mexique",
-    "region": "Amériques",
-    "score": 68.6,
-    "change": 0.0,
-    "wars": 3,
-    "trade": 106,
-    "gdelt_penalty": 0.0,
-    "rank": 110
+    "rank": 112
   },
   {
     "code": "PY",
@@ -1329,31 +1353,19 @@
     "wars": 2,
     "trade": 81,
     "gdelt_penalty": 0.0,
-    "rank": 111
-  },
-  {
-    "code": "AU",
-    "flag": "🇦🇺",
-    "name": "Australie",
-    "region": "Océanie",
-    "score": 68.5,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 80,
-    "gdelt_penalty": 0.0,
-    "rank": 112
-  },
-  {
-    "code": "IQ",
-    "flag": "🇮🇶",
-    "name": "Irak",
-    "region": "Moyen-Orient",
-    "score": 68.5,
-    "change": 0.0,
-    "wars": 4,
-    "trade": 130,
-    "gdelt_penalty": 0.0,
     "rank": 113
+  },
+  {
+    "code": "ID",
+    "flag": "🇮🇩",
+    "name": "Indonésie",
+    "region": "Asie",
+    "score": 68.5,
+    "change": 0.0,
+    "wars": 0,
+    "trade": 31,
+    "gdelt_penalty": 0.0,
+    "rank": 114
   },
   {
     "code": "PW",
@@ -1365,7 +1377,19 @@
     "wars": 2,
     "trade": 80,
     "gdelt_penalty": 0.0,
-    "rank": 114
+    "rank": 115
+  },
+  {
+    "code": "IN",
+    "flag": "🇮🇳",
+    "name": "Inde",
+    "region": "Asie",
+    "score": 68.3,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 54,
+    "gdelt_penalty": 0.0,
+    "rank": 116
   },
   {
     "code": "VC",
@@ -1377,7 +1401,7 @@
     "wars": 3,
     "trade": 102,
     "gdelt_penalty": 0.0,
-    "rank": 115
+    "rank": 117
   },
   {
     "code": "FM",
@@ -1389,7 +1413,7 @@
     "wars": 1,
     "trade": 52,
     "gdelt_penalty": 0.0,
-    "rank": 116
+    "rank": 118
   },
   {
     "code": "KZ",
@@ -1401,19 +1425,7 @@
     "wars": 0,
     "trade": 27,
     "gdelt_penalty": 0.0,
-    "rank": 117
-  },
-  {
-    "code": "NL",
-    "flag": "🇳🇱",
-    "name": "Pays-Bas",
-    "region": "Europe",
-    "score": 67.9,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 76,
-    "gdelt_penalty": 0.0,
-    "rank": 118
+    "rank": 119
   },
   {
     "code": "SR",
@@ -1425,7 +1437,7 @@
     "wars": 4,
     "trade": 124,
     "gdelt_penalty": 0.0,
-    "rank": 119
+    "rank": 120
   },
   {
     "code": "VN",
@@ -1437,7 +1449,7 @@
     "wars": 2,
     "trade": 74,
     "gdelt_penalty": 0.0,
-    "rank": 120
+    "rank": 121
   },
   {
     "code": "KW",
@@ -1449,7 +1461,7 @@
     "wars": 0,
     "trade": 24,
     "gdelt_penalty": 0.0,
-    "rank": 121
+    "rank": 122
   },
   {
     "code": "ZA",
@@ -1461,7 +1473,7 @@
     "wars": 1,
     "trade": 48,
     "gdelt_penalty": 0.0,
-    "rank": 122
+    "rank": 123
   },
   {
     "code": "MD",
@@ -1473,7 +1485,31 @@
     "wars": 1,
     "trade": 47,
     "gdelt_penalty": 0.0,
-    "rank": 123
+    "rank": 124
+  },
+  {
+    "code": "DE",
+    "flag": "🇩🇪",
+    "name": "Allemagne",
+    "region": "Europe",
+    "score": 67.2,
+    "change": 0.0,
+    "wars": 4,
+    "trade": 120,
+    "gdelt_penalty": 0.0,
+    "rank": 125
+  },
+  {
+    "code": "LB",
+    "flag": "🇱🇧",
+    "name": "Liban",
+    "region": "Moyen-Orient",
+    "score": 67.1,
+    "change": 0.0,
+    "wars": 2,
+    "trade": 70,
+    "gdelt_penalty": 0.0,
+    "rank": 126
   },
   {
     "code": "CO",
@@ -1485,7 +1521,7 @@
     "wars": 2,
     "trade": 69,
     "gdelt_penalty": 0.0,
-    "rank": 124
+    "rank": 127
   },
   {
     "code": "LR",
@@ -1497,7 +1533,19 @@
     "wars": 0,
     "trade": 18,
     "gdelt_penalty": 0.0,
-    "rank": 125
+    "rank": 128
+  },
+  {
+    "code": "LT",
+    "flag": "🇱🇹",
+    "name": "Lituanie",
+    "region": "Europe",
+    "score": 66.8,
+    "change": 0.0,
+    "wars": 0,
+    "trade": 18,
+    "gdelt_penalty": 0.0,
+    "rank": 129
   },
   {
     "code": "TL",
@@ -1509,7 +1557,7 @@
     "wars": 5,
     "trade": 141,
     "gdelt_penalty": 0.0,
-    "rank": 126
+    "rank": 130
   },
   {
     "code": "NR",
@@ -1521,19 +1569,7 @@
     "wars": 1,
     "trade": 41,
     "gdelt_penalty": 0.0,
-    "rank": 127
-  },
-  {
-    "code": "GT",
-    "flag": "🇬🇹",
-    "name": "Guatemala",
-    "region": "Amériques",
-    "score": 66.5,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 40,
-    "gdelt_penalty": 0.0,
-    "rank": 128
+    "rank": 131
   },
   {
     "code": "US",
@@ -1545,7 +1581,7 @@
     "wars": 8,
     "trade": 214,
     "gdelt_penalty": 0.0,
-    "rank": 129
+    "rank": 132
   },
   {
     "code": "SI",
@@ -1557,19 +1593,19 @@
     "wars": 3,
     "trade": 89,
     "gdelt_penalty": 0.0,
-    "rank": 130
+    "rank": 133
   },
   {
-    "code": "MY",
-    "flag": "🇲🇾",
-    "name": "Malaisie",
-    "region": "Asie",
-    "score": 66.3,
+    "code": "GB",
+    "flag": "🇬🇧",
+    "name": "Royaume-Uni",
+    "region": "Europe",
+    "score": 66.1,
     "change": 0.0,
-    "wars": 0,
-    "trade": 14,
+    "wars": 2,
+    "trade": 62,
     "gdelt_penalty": 0.0,
-    "rank": 131
+    "rank": 134
   },
   {
     "code": "NI",
@@ -1581,7 +1617,7 @@
     "wars": 1,
     "trade": 37,
     "gdelt_penalty": 0.0,
-    "rank": 132
+    "rank": 135
   },
   {
     "code": "KN",
@@ -1593,19 +1629,7 @@
     "wars": 2,
     "trade": 61,
     "gdelt_penalty": 0.0,
-    "rank": 133
-  },
-  {
-    "code": "HN",
-    "flag": "🇭🇳",
-    "name": "Honduras",
-    "region": "Amériques",
-    "score": 65.8,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 35,
-    "gdelt_penalty": 0.0,
-    "rank": 134
+    "rank": 136
   },
   {
     "code": "UG",
@@ -1617,7 +1641,7 @@
     "wars": 1,
     "trade": 35,
     "gdelt_penalty": 0.0,
-    "rank": 135
+    "rank": 137
   },
   {
     "code": "DK",
@@ -1629,7 +1653,7 @@
     "wars": 3,
     "trade": 82,
     "gdelt_penalty": 0.0,
-    "rank": 136
+    "rank": 138
   },
   {
     "code": "SM",
@@ -1641,7 +1665,19 @@
     "wars": 2,
     "trade": 57,
     "gdelt_penalty": 0.0,
-    "rank": 137
+    "rank": 139
+  },
+  {
+    "code": "MX",
+    "flag": "🇲🇽",
+    "name": "Mexique",
+    "region": "Amériques",
+    "score": 65.4,
+    "change": 0.0,
+    "wars": 4,
+    "trade": 106,
+    "gdelt_penalty": 0.0,
+    "rank": 140
   },
   {
     "code": "CN",
@@ -1653,19 +1689,7 @@
     "wars": 5,
     "trade": 130,
     "gdelt_penalty": 0.0,
-    "rank": 138
-  },
-  {
-    "code": "ID",
-    "flag": "🇮🇩",
-    "name": "Indonésie",
-    "region": "Asie",
-    "score": 65.3,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 31,
-    "gdelt_penalty": 0.0,
-    "rank": 139
+    "rank": 141
   },
   {
     "code": "PG",
@@ -1677,19 +1701,7 @@
     "wars": 1,
     "trade": 31,
     "gdelt_penalty": 0.0,
-    "rank": 140
-  },
-  {
-    "code": "IN",
-    "flag": "🇮🇳",
-    "name": "Inde",
-    "region": "Asie",
-    "score": 65.1,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 54,
-    "gdelt_penalty": 0.0,
-    "rank": 141
+    "rank": 142
   },
   {
     "code": "VE",
@@ -1701,7 +1713,7 @@
     "wars": 1,
     "trade": 28,
     "gdelt_penalty": 0.0,
-    "rank": 142
+    "rank": 143
   },
   {
     "code": "KE",
@@ -1712,18 +1724,6 @@
     "change": 0.0,
     "wars": 1,
     "trade": 26,
-    "gdelt_penalty": 0.0,
-    "rank": 143
-  },
-  {
-    "code": "PE",
-    "flag": "🇵🇪",
-    "name": "Pérou",
-    "region": "Amériques",
-    "score": 64.6,
-    "change": 0.0,
-    "wars": 3,
-    "trade": 75,
     "gdelt_penalty": 0.0,
     "rank": 144
   },
@@ -1740,6 +1740,18 @@
     "rank": 145
   },
   {
+    "code": "ET",
+    "flag": "🇪🇹",
+    "name": "Éthiopie",
+    "region": "Afrique",
+    "score": 64.1,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 22,
+    "gdelt_penalty": 0.0,
+    "rank": 146
+  },
+  {
     "code": "PH",
     "flag": "🇵🇭",
     "name": "Philippines",
@@ -1749,7 +1761,7 @@
     "wars": 1,
     "trade": 22,
     "gdelt_penalty": 0.0,
-    "rank": 146
+    "rank": 147
   },
   {
     "code": "TT",
@@ -1760,18 +1772,6 @@
     "change": 0.0,
     "wars": 5,
     "trade": 120,
-    "gdelt_penalty": 0.0,
-    "rank": 147
-  },
-  {
-    "code": "LB",
-    "flag": "🇱🇧",
-    "name": "Liban",
-    "region": "Moyen-Orient",
-    "score": 63.9,
-    "change": 0.0,
-    "wars": 3,
-    "trade": 70,
     "gdelt_penalty": 0.0,
     "rank": 148
   },
@@ -1812,18 +1812,6 @@
     "rank": 151
   },
   {
-    "code": "LT",
-    "flag": "🇱🇹",
-    "name": "Lituanie",
-    "region": "Europe",
-    "score": 63.6,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 18,
-    "gdelt_penalty": 0.0,
-    "rank": 152
-  },
-  {
     "code": "RS",
     "flag": "🇷🇸",
     "name": "Serbie",
@@ -1833,7 +1821,7 @@
     "wars": 2,
     "trade": 43,
     "gdelt_penalty": 0.0,
-    "rank": 153
+    "rank": 152
   },
   {
     "code": "TZ",
@@ -1845,19 +1833,7 @@
     "wars": 3,
     "trade": 67,
     "gdelt_penalty": 0.0,
-    "rank": 154
-  },
-  {
-    "code": "PL",
-    "flag": "🇵🇱",
-    "name": "Pologne",
-    "region": "Europe",
-    "score": 63.4,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 16,
-    "gdelt_penalty": 0.0,
-    "rank": 155
+    "rank": 153
   },
   {
     "code": "SC",
@@ -1869,19 +1845,7 @@
     "wars": 2,
     "trade": 41,
     "gdelt_penalty": 0.0,
-    "rank": 156
-  },
-  {
-    "code": "DZ",
-    "flag": "🇩🇿",
-    "name": "Algérie",
-    "region": "Afrique",
-    "score": 63.2,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 15,
-    "gdelt_penalty": 0.0,
-    "rank": 157
+    "rank": 154
   },
   {
     "code": "SL",
@@ -1893,7 +1857,19 @@
     "wars": 2,
     "trade": 40,
     "gdelt_penalty": 0.0,
-    "rank": 158
+    "rank": 155
+  },
+  {
+    "code": "MY",
+    "flag": "🇲🇾",
+    "name": "Malaisie",
+    "region": "Asie",
+    "score": 63.1,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 14,
+    "gdelt_penalty": 0.0,
+    "rank": 156
   },
   {
     "code": "QA",
@@ -1905,7 +1881,7 @@
     "wars": 1,
     "trade": 14,
     "gdelt_penalty": 0.0,
-    "rank": 159
+    "rank": 157
   },
   {
     "code": "SK",
@@ -1917,7 +1893,7 @@
     "wars": 2,
     "trade": 39,
     "gdelt_penalty": 0.0,
-    "rank": 160
+    "rank": 158
   },
   {
     "code": "SO",
@@ -1929,7 +1905,19 @@
     "wars": 2,
     "trade": 39,
     "gdelt_penalty": 0.0,
-    "rank": 161
+    "rank": 159
+  },
+  {
+    "code": "AF",
+    "flag": "🇦🇫",
+    "name": "Afghanistan",
+    "region": "Asie",
+    "score": 62.8,
+    "change": 0.0,
+    "wars": 1,
+    "trade": 12,
+    "gdelt_penalty": 0.0,
+    "rank": 160
   },
   {
     "code": "RW",
@@ -1941,7 +1929,7 @@
     "wars": 1,
     "trade": 12,
     "gdelt_penalty": 0.0,
-    "rank": 162
+    "rank": 161
   },
   {
     "code": "SS",
@@ -1953,7 +1941,7 @@
     "wars": 2,
     "trade": 36,
     "gdelt_penalty": 0.0,
-    "rank": 163
+    "rank": 162
   },
   {
     "code": "TV",
@@ -1965,19 +1953,7 @@
     "wars": 5,
     "trade": 108,
     "gdelt_penalty": 0.0,
-    "rank": 164
-  },
-  {
-    "code": "SD",
-    "flag": "🇸🇩",
-    "name": "Soudan",
-    "region": "Afrique",
-    "score": 62.3,
-    "change": 0.0,
-    "wars": 1,
-    "trade": 8,
-    "gdelt_penalty": 0.0,
-    "rank": 165
+    "rank": 163
   },
   {
     "code": "LK",
@@ -1989,19 +1965,7 @@
     "wars": 2,
     "trade": 32,
     "gdelt_penalty": 0.0,
-    "rank": 166
-  },
-  {
-    "code": "IT",
-    "flag": "🇮🇹",
-    "name": "Italie",
-    "region": "Europe",
-    "score": 61.7,
-    "change": 0.0,
-    "wars": 4,
-    "trade": 78,
-    "gdelt_penalty": 0.0,
-    "rank": 167
+    "rank": 164
   },
   {
     "code": "TJ",
@@ -2013,19 +1977,7 @@
     "wars": 2,
     "trade": 23,
     "gdelt_penalty": 0.0,
-    "rank": 168
-  },
-  {
-    "code": "ET",
-    "flag": "🇪🇹",
-    "name": "Éthiopie",
-    "region": "Afrique",
-    "score": 60.9,
-    "change": 0.0,
-    "wars": 2,
-    "trade": 22,
-    "gdelt_penalty": 0.0,
-    "rank": 169
+    "rank": 165
   },
   {
     "code": "KR",
@@ -2037,7 +1989,7 @@
     "wars": 4,
     "trade": 68,
     "gdelt_penalty": 0.0,
-    "rank": 170
+    "rank": 166
   },
   {
     "code": "BR",
@@ -2049,7 +2001,31 @@
     "wars": 3,
     "trade": 42,
     "gdelt_penalty": 0.0,
-    "rank": 171
+    "rank": 167
+  },
+  {
+    "code": "PL",
+    "flag": "🇵🇱",
+    "name": "Pologne",
+    "region": "Europe",
+    "score": 60.1,
+    "change": 0.0,
+    "wars": 2,
+    "trade": 16,
+    "gdelt_penalty": 0.0,
+    "rank": 168
+  },
+  {
+    "code": "DZ",
+    "flag": "🇩🇿",
+    "name": "Algérie",
+    "region": "Afrique",
+    "score": 60.0,
+    "change": 0.0,
+    "wars": 2,
+    "trade": 15,
+    "gdelt_penalty": 0.0,
+    "rank": 169
   },
   {
     "code": "IR",
@@ -2061,7 +2037,7 @@
     "wars": 2,
     "trade": 15,
     "gdelt_penalty": 0.0,
-    "rank": 172
+    "rank": 170
   },
   {
     "code": "TG",
@@ -2073,7 +2049,19 @@
     "wars": 3,
     "trade": 40,
     "gdelt_penalty": 0.0,
-    "rank": 173
+    "rank": 171
+  },
+  {
+    "code": "PT",
+    "flag": "🇵🇹",
+    "name": "Portugal",
+    "region": "Europe",
+    "score": 59.9,
+    "change": 0.0,
+    "wars": 4,
+    "trade": 64,
+    "gdelt_penalty": 0.0,
+    "rank": 172
   },
   {
     "code": "CZ",
@@ -2085,19 +2073,19 @@
     "wars": 2,
     "trade": 13,
     "gdelt_penalty": 0.0,
-    "rank": 174
+    "rank": 173
   },
   {
-    "code": "AF",
-    "flag": "🇦🇫",
-    "name": "Afghanistan",
-    "region": "Asie",
-    "score": 59.6,
+    "code": "IT",
+    "flag": "🇮🇹",
+    "name": "Italie",
+    "region": "Europe",
+    "score": 58.5,
     "change": 0.0,
-    "wars": 2,
-    "trade": 12,
+    "wars": 5,
+    "trade": 78,
     "gdelt_penalty": 0.0,
-    "rank": 175
+    "rank": 174
   },
   {
     "code": "RU",
@@ -2109,7 +2097,31 @@
     "wars": 3,
     "trade": 28,
     "gdelt_penalty": 0.0,
+    "rank": 175
+  },
+  {
+    "code": "NL",
+    "flag": "🇳🇱",
+    "name": "Pays-Bas",
+    "region": "Europe",
+    "score": 58.3,
+    "change": 0.0,
+    "wars": 5,
+    "trade": 76,
+    "gdelt_penalty": 0.0,
     "rank": 176
+  },
+  {
+    "code": "UA",
+    "flag": "🇺🇦",
+    "name": "Ukraine",
+    "region": "Europe",
+    "score": 57.6,
+    "change": 0.0,
+    "wars": 4,
+    "trade": 46,
+    "gdelt_penalty": 0.0,
+    "rank": 177
   },
   {
     "code": "TO",
@@ -2121,7 +2133,7 @@
     "wars": 3,
     "trade": 20,
     "gdelt_penalty": 0.0,
-    "rank": 177
+    "rank": 178
   },
   {
     "code": "AR",
@@ -2133,7 +2145,7 @@
     "wars": 3,
     "trade": 18,
     "gdelt_penalty": 0.0,
-    "rank": 178
+    "rank": 179
   },
   {
     "code": "TW",
@@ -2145,7 +2157,7 @@
     "wars": 3,
     "trade": 18,
     "gdelt_penalty": 0.0,
-    "rank": 179
+    "rank": 180
   },
   {
     "code": "ZW",
@@ -2157,7 +2169,7 @@
     "wars": 5,
     "trade": 67,
     "gdelt_penalty": 0.0,
-    "rank": 180
+    "rank": 181
   },
   {
     "code": "VU",
@@ -2169,7 +2181,7 @@
     "wars": 4,
     "trade": 40,
     "gdelt_penalty": 0.0,
-    "rank": 181
+    "rank": 182
   },
   {
     "code": "VA",
@@ -2181,7 +2193,7 @@
     "wars": 4,
     "trade": 39,
     "gdelt_penalty": 0.0,
-    "rank": 182
+    "rank": 183
   },
   {
     "code": "TN",
@@ -2193,7 +2205,7 @@
     "wars": 3,
     "trade": 12,
     "gdelt_penalty": 0.0,
-    "rank": 183
+    "rank": 184
   },
   {
     "code": "TM",
@@ -2204,18 +2216,6 @@
     "change": 0.0,
     "wars": 3,
     "trade": 11,
-    "gdelt_penalty": 0.0,
-    "rank": 184
-  },
-  {
-    "code": "TR",
-    "flag": "🇹🇷",
-    "name": "Turquie",
-    "region": "Asie",
-    "score": 56.0,
-    "change": 0.0,
-    "wars": 5,
-    "trade": 59,
     "gdelt_penalty": 0.0,
     "rank": 185
   },
@@ -2232,6 +2232,18 @@
     "rank": 186
   },
   {
+    "code": "SY",
+    "flag": "🇸🇾",
+    "name": "Syrie",
+    "region": "Moyen-Orient",
+    "score": 55.5,
+    "change": 0.0,
+    "wars": 3,
+    "trade": 5,
+    "gdelt_penalty": 0.0,
+    "rank": 187
+  },
+  {
     "code": "YE",
     "flag": "🇾🇪",
     "name": "Yémen",
@@ -2241,7 +2253,7 @@
     "wars": 3,
     "trade": 4,
     "gdelt_penalty": 0.0,
-    "rank": 187
+    "rank": 188
   },
   {
     "code": "ZM",
@@ -2253,7 +2265,7 @@
     "wars": 4,
     "trade": 24,
     "gdelt_penalty": 0.0,
-    "rank": 188
+    "rank": 189
   },
   {
     "code": "SA",
@@ -2265,29 +2277,17 @@
     "wars": 5,
     "trade": 35,
     "gdelt_penalty": 0.0,
-    "rank": 189
-  },
-  {
-    "code": "SY",
-    "flag": "🇸🇾",
-    "name": "Syrie",
-    "region": "Moyen-Orient",
-    "score": 52.2,
-    "change": 0.0,
-    "wars": 4,
-    "trade": 5,
-    "gdelt_penalty": 0.0,
     "rank": 190
   },
   {
-    "code": "UA",
-    "flag": "🇺🇦",
-    "name": "Ukraine",
-    "region": "Europe",
-    "score": 51.1,
+    "code": "TR",
+    "flag": "🇹🇷",
+    "name": "Turquie",
+    "region": "Asie",
+    "score": 52.8,
     "change": 0.0,
     "wars": 6,
-    "trade": 46,
+    "trade": 59,
     "gdelt_penalty": 0.0,
     "rank": 191
   },
@@ -2296,22 +2296,22 @@
     "flag": "🇮🇱",
     "name": "Israël",
     "region": "Moyen-Orient",
-    "score": 49.1,
+    "score": 52.3,
     "change": 0.0,
-    "wars": 7,
+    "wars": 6,
     "trade": 55,
     "gdelt_penalty": 0.0,
     "rank": 192
   },
   {
-    "code": "GB",
-    "flag": "🇬🇧",
-    "name": "Royaume-Uni",
-    "region": "Europe",
-    "score": 27.4,
+    "code": "SD",
+    "flag": "🇸🇩",
+    "name": "Soudan",
+    "region": "Afrique",
+    "score": 46.2,
     "change": 0.0,
-    "wars": 14,
-    "trade": 62,
+    "wars": 6,
+    "trade": 8,
     "gdelt_penalty": 0.0,
     "rank": 193
   }
