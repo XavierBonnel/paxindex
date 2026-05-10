@@ -1,6 +1,6 @@
 [
   {
-    "id": 3186,
+    "id": 5303,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,34 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4642,
+    "id": 1665,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 7 May 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-7-may-2026",
+    "time": "Sat, 09 May 2026"
+  },
+  {
+    "id": 2898,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 6 May 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-6-may-2026",
+    "time": "Sat, 09 May 2026"
+  },
+  {
+    "id": 7407,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran military warns of ‘surprising’ methods of warfare if attacked again",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 4514,
     "level": "critical",
     "country": "🌍",
     "text": "Rebel fighters kill at least 69 people in northeastern DR Congo",
@@ -18,7 +45,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 170,
+    "id": 8075,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
@@ -27,7 +54,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 8180,
+    "id": 2012,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
@@ -36,7 +63,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 9851,
+    "id": 9114,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : au moins 8 morts dans une frappe israélienne dans le sud",
@@ -45,7 +72,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 8377,
+    "id": 6789,
     "level": "critical",
     "country": "🌍",
     "text": "Poutine annonce une possible fin du conflit en Ukraine",
@@ -54,16 +81,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 9099,
-    "level": "critical",
-    "country": "🌍",
-    "text": "\"Africa Forward\" : le sommet \"très économique\" d’Emmanuel Macron et William Ruto",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260510-africa-forward-sommet-tr%C3%A8s-%C3%A9conomique-emmanuel-macron-william-ruto-kenya-france",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 1164,
+    "id": 2032,
     "level": "high",
     "country": "🌍",
     "text": "Tensions dans le détroit d'Ormuz : le bras de fer continue",
@@ -72,7 +90,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 3901,
+    "id": 5997,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9691,
+    "id": 7945,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6015,
+    "id": 5220,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9345,
+    "id": 5935,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1082,
+    "id": 4687,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5841,
+    "id": 3382,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 596,
+    "id": 6769,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 1279,
+    "id": 6631,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 6329,
+    "id": 5225,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -153,30 +171,12 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 1992,
+    "id": 8999,
     "level": "medium",
     "country": "🌍",
     "text": "Archiving Nepal’s medicinal plants and Indigenous knowledge for future generatio",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/10/archiving-nepals-medicinal-plants-and-indigenous-knowledge-for-future-generations/",
     "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 7106,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Woman journalist victim in Pakistan takes action against online harassment",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/09/woman-journalist-victim-in-pakistan-takes-action-against-online-harassment/",
-    "time": "Sat, 09 May 2026"
-  },
-  {
-    "id": 9190,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From blooms to bytes: Will Kenya’s data center boom repeat the ‘Greenhouse Effec",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/08/from-blooms-to-bytes-will-kenyas-data-center-boom-repeat-the-greenhouse-effect/",
-    "time": "Fri, 08 May 2026"
   }
 ]
