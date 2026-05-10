@@ -1,6 +1,6 @@
 [
   {
-    "id": 3370,
+    "id": 3434,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9149,
+    "id": 8900,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Food inflation hammers households in war-hit Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 9982,
     "level": "critical",
     "country": "🌍",
     "text": "Putin hints at ending Russia’s war in Ukraine, but why now?",
@@ -18,7 +27,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 5831,
+    "id": 7586,
     "level": "critical",
     "country": "🌍",
     "text": "Iran sends response to US ceasefire proposal via Pakistan",
@@ -27,7 +36,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 3665,
+    "id": 3531,
     "level": "critical",
     "country": "🌍",
     "text": "Football on ruins: Gaza’s orphans find refuge on the pitch",
@@ -36,7 +45,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 6190,
+    "id": 9604,
     "level": "critical",
     "country": "🌍",
     "text": "Stories of those killed in a single day of Israeli strikes on Lebanon",
@@ -45,7 +54,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 1718,
+    "id": 9099,
     "level": "critical",
     "country": "🌍",
     "text": "‘Ukraine has momentum in war with Russia’",
@@ -54,16 +63,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 9986,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Can Asian economies cope with the fallout from the Iran war?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-asian-economies-cope-with-the-fallout-from-the-iran-war?traffic_source=rss",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 4811,
+    "id": 5968,
     "level": "critical",
     "country": "🌍",
     "text": "Trêve en Ukraine : Moscou veut relancer le dialogue",
@@ -72,7 +72,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 1800,
+    "id": 8503,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Kharkiv frappée par la Russie malgré le cessez-le-feu",
@@ -81,7 +81,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 1521,
+    "id": 2836,
     "level": "critical",
     "country": "🌍",
     "text": "Téhéran répond à Washington et évoque la sécurité maritime",
@@ -90,7 +90,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 8740,
+    "id": 1300,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Berlin sceptique face à la proposition russe de nommer médiateur l'ex-",
@@ -99,7 +99,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 7044,
+    "id": 1174,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7314,
+    "id": 2886,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5371,
+    "id": 5238,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1193,
+    "id": 9888,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6280,
+    "id": 9184,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1349,
+    "id": 713,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1429,
+    "id": 3925,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3548,
+    "id": 1406,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,7 +171,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1493,
+    "id": 7472,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
