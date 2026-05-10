@@ -1,6 +1,6 @@
 [
   {
-    "id": 1177,
+    "id": 3186,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 553,
+    "id": 4642,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rebel fighters kill at least 69 people in northeastern DR Congo",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/10/rebel-fighters-kill-at-least-69-people-in-northeastern-dr-congo?traffic_source=rss",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 170,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
@@ -18,7 +27,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 7128,
+    "id": 8180,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
@@ -27,16 +36,25 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 339,
+    "id": 9851,
     "level": "critical",
     "country": "🌍",
-    "text": "Dubois stops Wardley in 11th round to take WBO heavyweight boxing title",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/10/dubois-stops-wardley-in-11th-round-to-take-wbo-heavyweight-boxing-title?traffic_source=rss",
+    "text": "Liban : au moins 8 morts dans une frappe israélienne dans le sud",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-liban-au-moins-8-morts-dans-une-frappe-isra%C3%A9lienne-dans-le-sud",
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 8172,
+    "id": 8377,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Poutine annonce une possible fin du conflit en Ukraine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-poutine-annonce-une-possible-fin-du-conflit-en-ukraine",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 9099,
     "level": "critical",
     "country": "🌍",
     "text": "\"Africa Forward\" : le sommet \"très économique\" d’Emmanuel Macron et William Ruto",
@@ -45,43 +63,16 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 8690,
-    "level": "critical",
+    "id": 1164,
+    "level": "high",
     "country": "🌍",
-    "text": "Nouvelles attaques jihadistes dans le centre du Mali, des dizaines de morts",
+    "text": "Tensions dans le détroit d'Ormuz : le bras de fer continue",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260510-nouvelles-attaques-jihadistes-dans-le-centre-du-mali-des-dizaines-de-morts",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-tensions-dans-le-d%C3%A9troit-d-ormuz-le-bras-de-fer-continue",
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 2959,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : l'Iran menace d'une \"lourde riposte\" après l'attaque de ses pétrolie",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260510-en-direct-iran-menace-lourde-riposte-apres-attaque-de-ses-petroliers",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 5704,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sommet Afrique-France : qui financera l’avenir économique de l’Afrique ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260509-sommet-afrique-france-qui-financera-l-avenir-%C3%A9conomique-de-l-afrique",
-    "time": "Sat, 09 May 2026"
-  },
-  {
-    "id": 597,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Poutine assure que la guerre en Ukraine \"touche à sa fin\" malgré les violations ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260509-l-ukraine-et-la-russie-s-accusent-mutuellement-de-violer-la-tr%C3%AAve",
-    "time": "Sat, 09 May 2026"
-  },
-  {
-    "id": 4160,
+    "id": 3901,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2435,
+    "id": 9691,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 287,
+    "id": 6015,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4164,
+    "id": 9345,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3297,
+    "id": 1082,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1687,
+    "id": 5841,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 506,
+    "id": 596,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 656,
+    "id": 1279,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 6457,
+    "id": 6329,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -162,7 +153,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 776,
+    "id": 1992,
     "level": "medium",
     "country": "🌍",
     "text": "Archiving Nepal’s medicinal plants and Indigenous knowledge for future generatio",
@@ -171,12 +162,21 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 1580,
+    "id": 7106,
     "level": "medium",
     "country": "🌍",
     "text": "Woman journalist victim in Pakistan takes action against online harassment",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/09/woman-journalist-victim-in-pakistan-takes-action-against-online-harassment/",
     "time": "Sat, 09 May 2026"
+  },
+  {
+    "id": 9190,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From blooms to bytes: Will Kenya’s data center boom repeat the ‘Greenhouse Effec",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/08/from-blooms-to-bytes-will-kenyas-data-center-boom-repeat-the-greenhouse-effect/",
+    "time": "Fri, 08 May 2026"
   }
 ]
