@@ -1,6 +1,6 @@
 [
   {
-    "id": 5995,
+    "id": 20,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7308,
+    "id": 6213,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon: Conflict Intensity Snapshot (2 March - 7 May 2026)",
@@ -18,7 +18,7 @@
     "time": "Sat, 09 May 2026"
   },
   {
-    "id": 4429,
+    "id": 851,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon: Conflict Intensity Snapshot (2 March - 6 May 2026)",
@@ -27,7 +27,7 @@
     "time": "Sat, 09 May 2026"
   },
   {
-    "id": 5572,
+    "id": 8599,
     "level": "critical",
     "country": "🌍",
     "text": "Football on ruins: Gaza’s orphans find refuge on the pitch",
@@ -36,7 +36,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 7332,
+    "id": 7719,
     "level": "critical",
     "country": "🌍",
     "text": "Stories of those killed in a single day of Israeli strikes on Lebanon",
@@ -45,7 +45,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 5789,
+    "id": 7145,
     "level": "critical",
     "country": "🌍",
     "text": "‘Ukraine has momentum in war with Russia’",
@@ -54,7 +54,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 8148,
+    "id": 1518,
     "level": "critical",
     "country": "🌍",
     "text": "Can Asian economies cope with the fallout from the Iran war?",
@@ -63,7 +63,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 8314,
+    "id": 6289,
     "level": "critical",
     "country": "🌍",
     "text": "Iran sends response to US proposal to end war via mediator Pakistan",
@@ -72,7 +72,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 7057,
+    "id": 5965,
     "level": "critical",
     "country": "🌍",
     "text": "US-Iran ceasefire under strain as Gulf states report drone attacks",
@@ -81,7 +81,34 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 6091,
+    "id": 9672,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trêve en Ukraine : Moscou veut relancer le dialogue",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-tr%C3%AAve-en-ukraine-moscou-veut-relancer-le-dialogue",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 7964,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : Kharkiv frappée par la Russie malgré le cessez-le-feu",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-ukraine-kharkiv-frapp%C3%A9e-par-la-russie-malgr%C3%A9-le-cessez-le-feu",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 5417,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Téhéran répond à Washington et évoque la sécurité maritime",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-t%C3%A9h%C3%A9ran-r%C3%A9pond-%C3%A0-washington-et-%C3%A9voque-la-s%C3%A9curit%C3%A9-maritime",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 7333,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Berlin sceptique face à la proposition russe de nommer médiateur l'ex-",
@@ -90,16 +117,7 @@
     "time": "Sun, 10 May 2026"
   },
   {
-    "id": 2047,
-    "level": "high",
-    "country": "🌍",
-    "text": "Algérie : le journaliste français Christophe Gleizes va recevoir sa première vis",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-alg%C3%A9rie-le-journaliste-fran%C3%A7ais-christophe-gleizes-va-recevoir-sa-premi%C3%A8re-visite-consulaire",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 2203,
+    "id": 7772,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 607,
+    "id": 9971,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8214,
+    "id": 857,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9051,
+    "id": 8177,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1859,
+    "id": 108,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5583,
+    "id": 5907,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,30 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8410,
+    "id": 9904,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 7213,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 3303,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
   }
 ]
