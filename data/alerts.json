@@ -1,6 +1,6 @@
 [
   {
-    "id": 6744,
+    "id": 9478,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5478,
+    "id": 6131,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Timberwolves win, tie playoff series after Spurs’ Wembanyama ejected",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/11/timberwolves-win-tie-playoff-series-after-spurs-wembanyama-is-ejected?traffic_source=rss",
+    "time": "Mon, 11 May 2026"
+  },
+  {
+    "id": 8721,
     "level": "critical",
     "country": "🌍",
     "text": "Risks and rewards in France-Kenya partnership",
@@ -18,7 +27,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 6419,
+    "id": 8128,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza documentary dropped by the BBC wins BAFTA",
@@ -27,34 +36,16 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 5282,
+    "id": 6835,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/11/iran-war-live-trump-slams-tehrans-reply-israel-kills-2-medics-in-lebanon?traffic_source=rss",
+    "text": "Sommet \"Africa Forward\" : \"On se sent un peu mis à l’écart\", ironisent des acteu",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260511-sommet-afrique-france-africa-forward-on-se-sent-un-peu-mis-%C3%A0-l-ecart-ironisent-acteurs-de-la-societe-civile-macron-ruto-kenya",
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 2270,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump to discuss Iran with Xi Jinping during China visit: Officials",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/10/trump-to-discuss-iran-with-xi-jinping-during-china-visit-officials?traffic_source=rss",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 2841,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/israeli-weapon-fires-tiny-metal-cubes-into-people-in-lebanon-like-gaza?traffic_source=rss",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 7787,
+    "id": 5471,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : Netanyahu assure que la guerre \"n'est pas finie\", les tractations da",
@@ -63,43 +54,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 9498,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre : Donald Trump rejette la réponse de l'Iran aux propositions américaines",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260510-guerre-donald-trump-rejette-reponse-iran-aux-propositions-americaines-guerre-etats-unis-detroit-ormuz-pays-golfe-liban",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 3899,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient : la réponse de l'Iran aux propositions américaines",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260510-guerre-au-moyen-orient-la-r%C3%A9ponse-de-l-iran-aux-propositions-am%C3%A9ricaines",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 3697,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sommet Africa Forward : l'ère du \"pré-carré français\" est terminée pour Emmanuel",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260510-sommet-africa-forward-l-%C3%A8re-du-pr%C3%A9-carr%C3%A9-fran%C3%A7ais-est-termin%C3%A9e-pour-emmanuel-macron",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 9775,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Walid Joumblatt : \" Israël frappe partout, n'importe où; le Sud-Liban est devenu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260510-walid-joumblatt-isra%C3%ABl-frappe-partout-n-importe-o%C3%B9-le-sud-liban-est-devenu-un-petit-gaza",
-    "time": "Sun, 10 May 2026"
-  },
-  {
-    "id": 460,
+    "id": 3304,
     "level": "high",
     "country": "🌍",
     "text": "Russia and Ukraine accuse the other of ceasefire violations",
@@ -108,7 +63,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 6577,
+    "id": 1544,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +72,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6536,
+    "id": 1262,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +81,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5239,
+    "id": 9297,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2706,
+    "id": 1518,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2423,
+    "id": 1408,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2172,
+    "id": 7402,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1842,
+    "id": 5431,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,12 +126,57 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7630,
+    "id": 6129,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 9591,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 390,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Archiving Nepal’s medicinal plants and Indigenous knowledge for future generatio",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/10/archiving-nepals-medicinal-plants-and-indigenous-knowledge-for-future-generations/",
+    "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 930,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Woman journalist victim in Pakistan takes action against online harassment",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/09/woman-journalist-victim-in-pakistan-takes-action-against-online-harassment/",
+    "time": "Sat, 09 May 2026"
+  },
+  {
+    "id": 9600,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From blooms to bytes: Will Kenya’s data center boom repeat the ‘Greenhouse Effec",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/08/from-blooms-to-bytes-will-kenyas-data-center-boom-repeat-the-greenhouse-effect/",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 2395,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Pakistan’s Indigenous Torwali people are fighting to save the Swat River",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/08/pakistans-indigenous-torwali-people-are-fighting-to-save-the-swat-river/",
+    "time": "Fri, 08 May 2026"
   }
 ]
