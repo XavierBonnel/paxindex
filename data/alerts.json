@@ -1,6 +1,6 @@
 [
   {
-    "id": 5726,
+    "id": 1090,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,25 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9932,
+    "id": 7019,
+    "level": "critical",
+    "country": "🌍",
+    "text": "EU, UK sanction Russians over deportations of Ukrainian children",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss",
+    "time": "Mon, 11 May 2026"
+  },
+  {
+    "id": 5988,
+    "level": "critical",
+    "country": "🌍",
+    "text": "EU sanctions violent Israeli settlers after months of deadlock",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/eu-sanctions-violent-israeli-settlers-after-months-of-deadlock?traffic_source=rss",
+    "time": "Mon, 11 May 2026"
+  },
+  {
+    "id": 5925,
     "level": "critical",
     "country": "🌍",
     "text": "Could the latest violence in DR Congo undermine truce efforts?",
@@ -18,34 +36,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 8030,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UK sanctions network accused of planning attacks for Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 3067,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Philippine senator flees ICC arrest over role in Duterte’s drug war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 2898,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 1878,
+    "id": 2871,
     "level": "critical",
     "country": "🌍",
     "text": "Smmet Africa Forward : 23 milliards d'investissement pour l'Afrique",
@@ -54,25 +45,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 294,
-    "level": "high",
-    "country": "🌍",
-    "text": "Trump says he will discuss arms sales to Taiwan in meeting with China’s Xi",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-discuss-arms-sales-to-taiwan-in-meeting-with-chinas-xi?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 7738,
-    "level": "high",
-    "country": "🌍",
-    "text": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 5084,
+    "id": 4359,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +54,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7293,
+    "id": 4499,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +63,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5068,
+    "id": 9129,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +72,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8403,
+    "id": 7473,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +81,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6891,
+    "id": 5811,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +90,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 455,
+    "id": 7646,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +99,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7483,
+    "id": 9506,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +108,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 308,
+    "id": 4112,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +117,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2698,
+    "id": 8524,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -153,7 +126,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 5369,
+    "id": 6193,
     "level": "medium",
     "country": "🌍",
     "text": "Brazil opens investigation on Google over its AI’s impact on the journalism indu",
@@ -162,7 +135,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 7644,
+    "id": 1599,
     "level": "medium",
     "country": "🌍",
     "text": "How Nigerians are coping with heat waves amid crippling power outages",
@@ -171,12 +144,39 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 7412,
+    "id": 698,
     "level": "medium",
     "country": "🌍",
     "text": "Archiving Nepal’s medicinal plants and Indigenous knowledge for future generatio",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/10/archiving-nepals-medicinal-plants-and-indigenous-knowledge-for-future-generations/",
     "time": "Sun, 10 May 2026"
+  },
+  {
+    "id": 4332,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Woman journalist in Pakistan takes action against online harassment",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/09/woman-journalist-victim-in-pakistan-takes-action-against-online-harassment/",
+    "time": "Sat, 09 May 2026"
+  },
+  {
+    "id": 8941,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From blooms to bytes: Will Kenya’s data center boom repeat the ‘Greenhouse Effec",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/08/from-blooms-to-bytes-will-kenyas-data-center-boom-repeat-the-greenhouse-effect/",
+    "time": "Fri, 08 May 2026"
+  },
+  {
+    "id": 4267,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Pakistan’s Indigenous Torwali people are fighting to save the Swat River",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/08/pakistans-indigenous-torwali-people-are-fighting-to-save-the-swat-river/",
+    "time": "Fri, 08 May 2026"
   }
 ]
