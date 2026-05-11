@@ -1,6 +1,6 @@
 [
   {
-    "id": 3881,
+    "id": 2520,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7764,
+    "id": 7985,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Could the latest violence in DR Congo undermine truce efforts?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss",
+    "time": "Mon, 11 May 2026"
+  },
+  {
+    "id": 8999,
     "level": "critical",
     "country": "🌍",
     "text": "UK sanctions network accused of planning attacks for Iran",
@@ -18,7 +27,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 4828,
+    "id": 2546,
     "level": "critical",
     "country": "🌍",
     "text": "Philippine senator flees ICC arrest over role in Duterte’s drug war",
@@ -27,7 +36,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 5024,
+    "id": 8468,
     "level": "critical",
     "country": "🌍",
     "text": "How impunity in Shireen Abu Akleh’s case fuels Israeli attacks on the press",
@@ -36,34 +45,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 2014,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump says ceasefire on ‘life support’, slams Iran response to US proposal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 4237,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli attacks kill at least four in southern Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 6938,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran denies proposal sent to US contains ‘excessive demands’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 1957,
+    "id": 7298,
     "level": "critical",
     "country": "🌍",
     "text": "Sommet \"Africa Forward\" : Macron annonce 23 milliards d'euros d'investissements ",
@@ -72,7 +54,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 5848,
+    "id": 607,
     "level": "critical",
     "country": "🌍",
     "text": "Hantavirus : ce village argentin encore hanté par l’épidémie de 2018",
@@ -81,16 +63,25 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 2672,
-    "level": "critical",
+    "id": 153,
+    "level": "high",
     "country": "🌍",
-    "text": "Trêve au Liban : Israël poursuit ses frappes quotidiennes, un cessez-le-feu théo",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260511-tr%C3%AAve-au-liban-isra%C3%ABl-poursuit-ses-frappes-quotidiennes-un-cessez-le-feu-th%C3%A9orique",
+    "text": "Trump says he will discuss arms sales to Taiwan in meeting with China’s Xi",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-discuss-arms-sales-to-taiwan-in-meeting-with-chinas-xi?traffic_source=rss",
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 733,
+    "id": 6687,
+    "level": "high",
+    "country": "🌍",
+    "text": "EU agrees sanctions on Israeli West Bank settlers, Hamas leaders",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
+    "time": "Mon, 11 May 2026"
+  },
+  {
+    "id": 8394,
     "level": "high",
     "country": "🌍",
     "text": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
@@ -99,7 +90,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 7012,
+    "id": 9338,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4749,
+    "id": 7015,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9643,
+    "id": 5972,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2589,
+    "id": 9335,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8877,
+    "id": 6577,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9565,
+    "id": 5288,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6583,
+    "id": 4744,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 8278,
+    "id": 8292,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,12 +162,21 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 4228,
+    "id": 5996,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-21T00:01"
+  },
+  {
+    "id": 2883,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Brazil opens investigation on Google over its AI’s impact on the journalism indu",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/11/brazil-opens-investigation-on-google-over-its-ais-impact-on-the-journalism-industry/",
+    "time": "Mon, 11 May 2026"
   }
 ]
