@@ -1,6 +1,6 @@
 [
   {
-    "id": 6058,
+    "id": 9524,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8787,
+    "id": 3597,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran denies proposal sent to US contains ‘excessive demands’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
+    "time": "Mon, 11 May 2026"
+  },
+  {
+    "id": 1549,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli killings in Lebanon rise: Is even the pretence of a ceasefire over?",
@@ -18,7 +27,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 6726,
+    "id": 6400,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war effect: Why is Modi asking Indians to avoid foreign trips, gold?",
@@ -27,7 +36,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 2540,
+    "id": 3884,
     "level": "critical",
     "country": "🌍",
     "text": "Is the US empire in the middle of a long decline?",
@@ -36,7 +45,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 3046,
+    "id": 4184,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon Latest",
@@ -45,7 +54,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 1947,
+    "id": 5782,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanese civil defence worker captures moment of Israeli strike",
@@ -54,52 +63,34 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 2732,
+    "id": 6074,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Unacceptable’: What’s Iran’s peace proposal that Trump has rejected?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/11/unacceptable-whats-irans-peace-proposal-that-trump-has-rejected?traffic_source=rss",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 5218,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sommet Africa Forward au Kenya : le renouveau du lien Afrique-France",
+    "text": "Sommet \"Africa Forward\" : Macron annonce 23 milliards d'euros d'investissements ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260511-sommet-africa-forward-au-kenya-le-renouveau-du-lien-afrique-france",
+    "link": "https://www.france24.com/fr/afrique/20260511-sommet-africa-forward-emmanuel-macron-annonce-23-milliards-d-euros-d-investissements-en-afrique",
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 2800,
+    "id": 2369,
     "level": "critical",
     "country": "🌍",
-    "text": "Sommet Africa Forward : Macron et plus de 30 dirigeants africains lancent de nou",
+    "text": "Hantavirus : ce village argentin encore hanté par l’épidémie de 2018",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260511-sommet-africa-forward-macron-et-plus-de-30-dirigeants-africains-lancent-de-nouveaux-partenariats",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260511-hantavirus-ce-village-argentin-encore-hant%C3%A9-par-l-%C3%A9pid%C3%A9mie-de-2018",
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 1484,
+    "id": 4472,
     "level": "critical",
     "country": "🌍",
-    "text": "Ormuz : de centre touristique à cœur de la guerre, le tourisme paralysé",
+    "text": "Trêve au Liban : Israël poursuit ses frappes quotidiennes, un cessez-le-feu théo",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260511-ormuz-de-centre-touristique-%C3%A0-c%C5%93ur-de-la-guerre-le-tourisme-paralys%C3%A9",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260511-tr%C3%AAve-au-liban-isra%C3%ABl-poursuit-ses-frappes-quotidiennes-un-cessez-le-feu-th%C3%A9orique",
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 2926,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Téhéran exige \"la fin de la guerre et le dégel des avoirs\", une réponse \"inaccep",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260511-t%C3%A9h%C3%A9ran-exige-la-fin-de-la-guerre-et-le-d%C3%A9gel-des-avoirs-une-r%C3%A9ponse-inacceptable-pour-trump",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 959,
+    "id": 6218,
     "level": "high",
     "country": "🌍",
     "text": "Israel pushes for hangings and ‘show trials’ for ‘October 7 detainees’",
@@ -108,25 +99,7 @@
     "time": "Mon, 11 May 2026"
   },
   {
-    "id": 3110,
-    "level": "high",
-    "country": "🌍",
-    "text": "Nouvelle-Calédonie : deux ans après les émeutes, les tensions persistent",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260511-nouvelle-cal%C3%A9donie-deux-ans-apr%C3%A8s-%C3%A9meutes-tensions-persistent",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 4161,
-    "level": "high",
-    "country": "🌍",
-    "text": "L'Eurovision sort le grand jeu pour ses 70 ans… et faire oublier les tensions au",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/culture/20260511-eurovision-fete-70-ans-tensions-autour-israel-boycott-autriche",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 5740,
+    "id": 4765,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9577,
+    "id": 3279,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1849,
+    "id": 9281,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7445,
+    "id": 4475,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 193,
+    "id": 4055,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,12 +144,39 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2414,
+    "id": 1801,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 4266,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 8013,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-23T15:15"
+  },
+  {
+    "id": 2261,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Millions of U.S. Adults Microdosing Psychedelics",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-21T00:01"
   }
 ]
