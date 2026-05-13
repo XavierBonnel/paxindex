@@ -1,6 +1,6 @@
 [
   {
-    "id": 4434,
+    "id": 1731,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3151,
+    "id": 4576,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,16 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 2860,
+    "id": 4960,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least eight killed in Israeli drone strikes on highway south of Beirut",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 6250,
     "level": "critical",
     "country": "🌍",
     "text": "How Silicon Valley giants are turning into war contractors",
@@ -27,7 +36,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 3200,
+    "id": 7176,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf",
@@ -36,34 +45,25 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 8912,
+    "id": 925,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss",
-    "time": "Wed, 13 May 2026"
-  },
-  {
-    "id": 2907,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : deux frappes israéliennes visent une autoroute au sud de Beyrouth",
+    "text": "Le chômage dépasse 8 % et l'inflation s'accélère face aux conséquences de la gue",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260513-en-direct-moyen-orient-iran-donald-trump-arme-nucleaire-israel-liban-chine",
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260513-ch%C3%B4mage-d%C3%A9passe-8-inflation-acc%C3%A9l%C3%A8re-face-cons%C3%A9quences-guerre-moyen-orient",
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 6997,
-    "level": "high",
+    "id": 1944,
+    "level": "critical",
     "country": "🌍",
-    "text": "US-China head-to-head: Explained in 11 maps and charts",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/13/us-china-head-to-head-explained-in-11-maps-and-charts?traffic_source=rss",
+    "text": "Chine : Trump part à la rencontre de son \"bon ami\" Xi, l'Iran en toile de fond",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-chine-trump-part-%C3%A0-la-rencontre-de-son-bon-ami-xi-l-iran-en-toile-de-fond",
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 7170,
+    "id": 9664,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +72,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1195,
+    "id": 2051,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +81,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5424,
+    "id": 9579,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2244,
+    "id": 6394,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6743,
+    "id": 9622,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 105,
+    "id": 8184,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3074,
+    "id": 454,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7129,
+    "id": 317,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5919,
+    "id": 961,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -144,7 +144,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 8568,
+    "id": 8493,
     "level": "medium",
     "country": "🌍",
     "text": "Support the Global Voices Spotlight: Gender diversity",
@@ -153,7 +153,7 @@
     "time": "Tue, 12 May 2026"
   },
   {
-    "id": 3110,
+    "id": 4461,
     "level": "medium",
     "country": "🌍",
     "text": "Myanmar journalists across borders remain dedicated to truth despite risks",
@@ -162,7 +162,7 @@
     "time": "Tue, 12 May 2026"
   },
   {
-    "id": 5753,
+    "id": 6962,
     "level": "medium",
     "country": "🌍",
     "text": "Climate change: What Africa must demand at COP31 in Antalya",
@@ -171,7 +171,7 @@
     "time": "Tue, 12 May 2026"
   },
   {
-    "id": 2117,
+    "id": 6267,
     "level": "medium",
     "country": "🌍",
     "text": "Brazil opens investigation on Google over its AI’s impact on the journalism indu",
