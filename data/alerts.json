@@ -1,6 +1,6 @@
 [
   {
-    "id": 7519,
+    "id": 1943,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2555,
+    "id": 66,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,16 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 4123,
+    "id": 4153,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump-Xi summit: China’s help in Iran may require US concessions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions?traffic_source=rss",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 9168,
     "level": "critical",
     "country": "🌍",
     "text": "Church leaders killed in latest ethnic violence in India’s Manipur",
@@ -27,7 +36,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 6098,
+    "id": 4184,
     "level": "critical",
     "country": "🌍",
     "text": "Russia places UK ex-Defence Minister Ben Wallace on wanted list",
@@ -36,7 +45,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 5722,
+    "id": 5006,
     "level": "critical",
     "country": "🌍",
     "text": "‘One of the longest’ Russian attacks kills at least six people in Ukraine",
@@ -45,7 +54,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 2508,
+    "id": 4109,
     "level": "critical",
     "country": "🌍",
     "text": "Pourquoi l'Arabie saoudite et les Émirats arabes unis auraient-ils bombardé l'Ir",
@@ -54,7 +63,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 6909,
+    "id": 3700,
     "level": "critical",
     "country": "🌍",
     "text": "L'Ukraine frappée par au moins \"800 drones\" russes, plusieurs morts et blessés",
@@ -63,7 +72,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 6773,
+    "id": 9160,
     "level": "critical",
     "country": "🌍",
     "text": "Sommet \"Africa Forward\" : il \"faut changer le regard\" sur la question du finance",
@@ -72,7 +81,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 8849,
+    "id": 1691,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : des frappes israéliennes font 12 morts avant des pourparlers",
@@ -81,16 +90,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 5776,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Donald Trump en Chine : commerce, Iran, Taïwan… les enjeux de sa visite",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-donald-trump-en-chine-commerce-iran-ta%C3%AFwan-les-enjeux-de-sa-visite",
-    "time": "Wed, 13 May 2026"
-  },
-  {
-    "id": 6254,
+    "id": 8605,
     "level": "high",
     "country": "🌍",
     "text": "Iran, tensions commerciales, Taïwan : Donald Trump se rend en Chine pour une vis",
@@ -99,16 +99,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 500,
-    "level": "high",
-    "country": "🌍",
-    "text": "Chine : comment Pékin veut se passer du soja américain",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-chine-comment-p%C3%A9kin-veut-se-passer-du-soja-am%C3%A9ricain",
-    "time": "Wed, 13 May 2026"
-  },
-  {
-    "id": 152,
+    "id": 7757,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3090,
+    "id": 2941,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7098,
+    "id": 4352,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2562,
+    "id": 3372,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 859,
+    "id": 4539,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2236,
+    "id": 4245,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4322,
+    "id": 848,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,12 +162,21 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 4326,
+    "id": 3812,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 3030,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-23T15:15"
   }
 ]
