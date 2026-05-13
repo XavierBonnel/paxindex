@@ -1,6 +1,6 @@
 [
   {
-    "id": 2517,
+    "id": 7519,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9020,
+    "id": 2555,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,25 +18,61 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 460,
+    "id": 4123,
     "level": "critical",
     "country": "🌍",
-    "text": "12 killed by a series of Israeli strikes on cars in Lebanon",
+    "text": "Church leaders killed in latest ethnic violence in India’s Manipur",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/church-leaders-killed-in-latest-ethnic-violence-in-indias-manipur?traffic_source=rss",
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 9069,
+    "id": 6098,
     "level": "critical",
     "country": "🌍",
-    "text": "What Trump and Xi want from China visit",
+    "text": "Russia places UK ex-Defence Minister Ben Wallace on wanted list",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/13/russia-places-uk-former-minister-ben-wallace-on-wanted-list?traffic_source=rss",
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 8416,
+    "id": 5722,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘One of the longest’ Russian attacks kills at least six people in Ukraine",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/13/russian-attacks-across-ukraine-kill-at-least-six?traffic_source=rss",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 2508,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pourquoi l'Arabie saoudite et les Émirats arabes unis auraient-ils bombardé l'Ir",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260513-pourquoi-arabie-saoudite-%C3%A9mirats-arabes-unis-auraient-ils-bombard%C3%A9-iran-secret-guerre-moyen-orient",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 6909,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'Ukraine frappée par au moins \"800 drones\" russes, plusieurs morts et blessés",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260513-ukraine-frapp%C3%A9e-au-moins-800-drones-russes-plusieurs-morts-bless%C3%A9s-guerre-zelensky",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 6773,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Sommet \"Africa Forward\" : il \"faut changer le regard\" sur la question du finance",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260513-sommet-africa-forward-il-faut-changer-regard-sur-question-financement-afrique",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 8849,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : des frappes israéliennes font 12 morts avant des pourparlers",
@@ -45,7 +81,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 4321,
+    "id": 5776,
     "level": "critical",
     "country": "🌍",
     "text": "Donald Trump en Chine : commerce, Iran, Taïwan… les enjeux de sa visite",
@@ -54,16 +90,16 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 9506,
-    "level": "critical",
+    "id": 6254,
+    "level": "high",
     "country": "🌍",
-    "text": "🇨🇳 Chine : Donald Trump arrive à Pékin pour une visite historique",
+    "text": "Iran, tensions commerciales, Taïwan : Donald Trump se rend en Chine pour une vis",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-%F0%9F%87%A8%F0%9F%87%B3-chine-donald-trump-arrive-%C3%A0-p%C3%A9kin-pour-une-visite-historique",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-trump-xi-quels-sont-les-enjeux",
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 2641,
+    "id": 500,
     "level": "high",
     "country": "🌍",
     "text": "Chine : comment Pékin veut se passer du soja américain",
@@ -72,7 +108,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 5161,
+    "id": 152,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7820,
+    "id": 3090,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3590,
+    "id": 7098,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9923,
+    "id": 2562,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6923,
+    "id": 859,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9433,
+    "id": 2236,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7716,
+    "id": 4322,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,48 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6508,
+    "id": 4326,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 1204,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 716,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Who is defending Cuba’s threatened species?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/13/who-is-defending-cubas-threatened-species/",
-    "time": "Wed, 13 May 2026"
-  },
-  {
-    "id": 4280,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Support the Global Voices Spotlight: Gender diversity",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/12/support-the-global-voices-spotlight-gender-diversity/",
-    "time": "Tue, 12 May 2026"
-  },
-  {
-    "id": 5803,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Myanmar journalists across borders remain dedicated to truth despite risks",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/12/only-our-voices-left-myanmar-journalists-across-borders-speak-for-truth/",
-    "time": "Tue, 12 May 2026"
   }
 ]
