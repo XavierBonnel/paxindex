@@ -1,6 +1,6 @@
 [
   {
-    "id": 7140,
+    "id": 7891,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5437,
+    "id": 569,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,25 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 7612,
+    "id": 1442,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report?traffic_source=rss",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 3316,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN urges independent probes into deadly Nigeria, Chad air attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 5752,
     "level": "critical",
     "country": "🌍",
     "text": "At least eight killed in Israeli drone strikes on Lebanon highway",
@@ -27,25 +45,34 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 894,
+    "id": 3970,
     "level": "critical",
     "country": "🌍",
-    "text": "How Silicon Valley giants are turning into war contractors",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
-    "time": "Wed, 13 May 2026"
-  },
-  {
-    "id": 7838,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le chômage dépasse 8 % et l'inflation s'accélère face aux conséquences de la gue",
+    "text": "Africa Forward : une journée de clôture consacrée aux chefs d’État et de gouvern",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260513-ch%C3%B4mage-d%C3%A9passe-8-inflation-acc%C3%A9l%C3%A8re-face-cons%C3%A9quences-guerre-moyen-orient",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-africa-forward-une-journ%C3%A9e-de-cl%C3%B4ture-consacr%C3%A9e-aux-chefs-d-%C3%A9tat-et-de-gouvernement",
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 4051,
+    "id": 5848,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Donald Trump en Chine pour un sommet aux enjeux majeurs",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-donald-trump-en-chine-pour-un-sommet-aux-enjeux-majeurs",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 1291,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Africa Forward : Emmanuel Macron revient sur la réforme du franc CFA",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-africa-forward-emmanuel-macron-revient-sur-la-r%C3%A9forme-du-franc-cfa",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 759,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -54,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 859,
+    "id": 7775,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -63,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2746,
+    "id": 7949,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -72,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2319,
+    "id": 7655,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -81,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7526,
+    "id": 7760,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -90,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1591,
+    "id": 2696,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -99,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6394,
+    "id": 6733,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -108,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4120,
+    "id": 3864,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -117,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 8663,
+    "id": 9761,
     "level": "medium",
     "country": "🌍",
     "text": "Millions of U.S. Adults Microdosing Psychedelics",
@@ -126,7 +153,7 @@
     "time": "2026-01-21T00:01"
   },
   {
-    "id": 2176,
+    "id": 735,
     "level": "medium",
     "country": "🌍",
     "text": "Support the Global Voices Spotlight: Gender diversity",
@@ -135,7 +162,7 @@
     "time": "Tue, 12 May 2026"
   },
   {
-    "id": 1956,
+    "id": 1706,
     "level": "medium",
     "country": "🌍",
     "text": "Myanmar journalists across borders remain dedicated to truth despite risks",
@@ -144,39 +171,12 @@
     "time": "Tue, 12 May 2026"
   },
   {
-    "id": 6110,
+    "id": 788,
     "level": "medium",
     "country": "🌍",
     "text": "Climate change: What Africa must demand at COP31 in Antalya",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/12/climate-change-what-africa-must-demand-at-cop31-in-antalya/",
     "time": "Tue, 12 May 2026"
-  },
-  {
-    "id": 5458,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Brazil opens investigation on Google over its AI’s impact on the journalism indu",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/11/brazil-opens-investigation-on-google-over-its-ais-impact-on-the-journalism-industry/",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 974,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Nigerians are coping with heat waves amid crippling power outages",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/11/how-nigerians-are-coping-with-heat-waves-amid-crippling-power-outages/",
-    "time": "Mon, 11 May 2026"
-  },
-  {
-    "id": 528,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Archiving Nepal’s medicinal plants and Indigenous knowledge for future generatio",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/10/archiving-nepals-medicinal-plants-and-indigenous-knowledge-for-future-generations/",
-    "time": "Sun, 10 May 2026"
   }
 ]
