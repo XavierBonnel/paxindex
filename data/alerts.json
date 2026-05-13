@@ -1,6 +1,6 @@
 [
   {
-    "id": 7891,
+    "id": 3432,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 569,
+    "id": 3308,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,34 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 1442,
+    "id": 5814,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump needs Xi much more than Xi needs Trump",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 2614,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gunshots ring out at Philippine Senate where lawmaker is holed up",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up?traffic_source=rss",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 296,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Activist confronts Iran’s former crown prince over war on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss",
+    "time": "Wed, 13 May 2026"
+  },
+  {
+    "id": 1203,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
@@ -27,25 +54,16 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 3316,
+    "id": 7073,
     "level": "critical",
     "country": "🌍",
-    "text": "UN urges independent probes into deadly Nigeria, Chad air attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
+    "text": "Les Roumains aux portes de la guerre : le delta du Danube visé par les Russes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260513-les-roumains-aux-portes-de-la-guerre-le-delta-du-danube-vis%C3%A9-par-les-russes",
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 5752,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least eight killed in Israeli drone strikes on Lebanon highway",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut?traffic_source=rss",
-    "time": "Wed, 13 May 2026"
-  },
-  {
-    "id": 3970,
+    "id": 4308,
     "level": "critical",
     "country": "🌍",
     "text": "Africa Forward : une journée de clôture consacrée aux chefs d’État et de gouvern",
@@ -54,7 +72,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 5848,
+    "id": 3380,
     "level": "critical",
     "country": "🌍",
     "text": "Donald Trump en Chine pour un sommet aux enjeux majeurs",
@@ -63,16 +81,16 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 1291,
-    "level": "critical",
+    "id": 2028,
+    "level": "medium",
     "country": "🌍",
-    "text": "Africa Forward : Emmanuel Macron revient sur la réforme du franc CFA",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260513-africa-forward-emmanuel-macron-revient-sur-la-r%C3%A9forme-du-franc-cfa",
-    "time": "Wed, 13 May 2026"
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
   },
   {
-    "id": 759,
+    "id": 4874,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7775,
+    "id": 7928,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7949,
+    "id": 4493,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7655,
+    "id": 9671,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7760,
+    "id": 1245,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2696,
+    "id": 5149,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6733,
+    "id": 2136,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3864,
+    "id": 2433,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,16 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 9761,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Millions of U.S. Adults Microdosing Psychedelics",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-21T00:01"
-  },
-  {
-    "id": 735,
+    "id": 7878,
     "level": "medium",
     "country": "🌍",
     "text": "Support the Global Voices Spotlight: Gender diversity",
@@ -162,21 +171,12 @@
     "time": "Tue, 12 May 2026"
   },
   {
-    "id": 1706,
+    "id": 9036,
     "level": "medium",
     "country": "🌍",
     "text": "Myanmar journalists across borders remain dedicated to truth despite risks",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/12/only-our-voices-left-myanmar-journalists-across-borders-speak-for-truth/",
-    "time": "Tue, 12 May 2026"
-  },
-  {
-    "id": 788,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Climate change: What Africa must demand at COP31 in Antalya",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/12/climate-change-what-africa-must-demand-at-cop31-in-antalya/",
     "time": "Tue, 12 May 2026"
   }
 ]
