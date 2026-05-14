@@ -1,6 +1,6 @@
 [
   {
-    "id": 4812,
+    "id": 6124,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 181,
+    "id": 9394,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,16 +18,34 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 1155,
+    "id": 7685,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump-Xi summit live: US, China leaders to hold talks on trade, tech, Iran",
+    "text": "Kyiv building collapses after Russian strike, reportedly trapping residents",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526?traffic_source=rss",
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 9178,
+    "id": 4459,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump, Xi speak ahead of talks to make relations ‘better than ever’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-xi-speak-ahead-of-talks-to-make-relations-better-than?traffic_source=rss",
+    "time": "Thu, 14 May 2026"
+  },
+  {
+    "id": 2697,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war: Why the BRICS foreign ministers meeting in India matters",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/14/iran-war-why-the-brics-foreign-ministers-meeting-in-india-matters?traffic_source=rss",
+    "time": "Thu, 14 May 2026"
+  },
+  {
+    "id": 123,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE",
@@ -36,25 +54,16 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 4848,
+    "id": 8217,
     "level": "critical",
     "country": "🌍",
-    "text": "Funeral held for two Lebanese paramedics killed in Israeli attack",
+    "text": "Trump-Xi summit live: US, China leaders holding talks on trade, tech, Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
-    "time": "Wed, 13 May 2026"
-  },
-  {
-    "id": 5438,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Moyen-Orient en direct : Liban et Israël retentent un rapprochement à Washington",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260514-moyen-orient-en-direct-liban-israel-pourparlers-washington-iran-trump-xi-jinping",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/14/trump-xi-summit-live-us-china-leaders-to-hold-talks-on-trade-tech-iran?traffic_source=rss",
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 6174,
+    "id": 4327,
     "level": "critical",
     "country": "🌍",
     "text": "États-Unis : le Sénat valide la nomination de Kevin Warsh à la tête de la Fed",
@@ -63,7 +72,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 7224,
+    "id": 3187,
     "level": "critical",
     "country": "🌍",
     "text": "La France, cible privilégiée de la désinformation russe",
@@ -72,7 +81,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 9074,
+    "id": 7267,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2519,
+    "id": 9204,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 297,
+    "id": 2966,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9025,
+    "id": 1296,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5680,
+    "id": 5029,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 579,
+    "id": 9145,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -126,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7927,
+    "id": 6321,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -135,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6433,
+    "id": 8901,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -144,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 1003,
+    "id": 2464,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -153,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2997,
+    "id": 6135,
     "level": "medium",
     "country": "🌍",
     "text": "Who is defending Cuba’s threatened species?",
@@ -162,21 +171,12 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 9686,
+    "id": 9662,
     "level": "medium",
     "country": "🌍",
     "text": "Support the Global Voices Spotlight: Gender diversity",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/12/support-the-global-voices-spotlight-gender-diversity/",
-    "time": "Tue, 12 May 2026"
-  },
-  {
-    "id": 1330,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Myanmar journalists across borders remain dedicated to truth despite risks",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/12/only-our-voices-left-myanmar-journalists-across-borders-speak-for-truth/",
     "time": "Tue, 12 May 2026"
   }
 ]
