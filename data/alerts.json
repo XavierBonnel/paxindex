@@ -1,6 +1,6 @@
 [
   {
-    "id": 3777,
+    "id": 3212,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 821,
+    "id": 4362,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,25 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 4925,
+    "id": 7424,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Could Iran war trigger a hunger crisis?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+    "time": "Thu, 14 May 2026"
+  },
+  {
+    "id": 3020,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘China is gaining from what the US is doing in Iran’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
+    "time": "Thu, 14 May 2026"
+  },
+  {
+    "id": 787,
     "level": "critical",
     "country": "🌍",
     "text": "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
@@ -27,7 +45,7 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 545,
+    "id": 1854,
     "level": "critical",
     "country": "🌍",
     "text": "What does the US hope to achieve from Lebanon-Israel talks?",
@@ -36,25 +54,16 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 2936,
+    "id": 8446,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran expands tiered internet access amid continued online blackout",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
+    "text": "Kevin Warsh confirmé à la tête de la Fed",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260514-kevin-warsh-confirm%C3%A9-%C3%A0-la-t%C3%AAte-de-la-fed",
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 5100,
-    "level": "critical",
-    "country": "🌍",
-    "text": "FIFA warned ‘gruelling heat’ could impact a quarter of World Cup games",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
-    "time": "Thu, 14 May 2026"
-  },
-  {
-    "id": 3381,
+    "id": 5654,
     "level": "high",
     "country": "🌍",
     "text": "Cautious optimism in Lebanon as direct talks with Israel progress",
@@ -63,16 +72,7 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 1637,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
-    "time": "Thu, 14 May 2026"
-  },
-  {
-    "id": 2356,
+    "id": 1066,
     "level": "high",
     "country": "🌍",
     "text": "Liban : la paix avec Israël, lointain mirage ?",
@@ -81,7 +81,7 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 9275,
+    "id": 7855,
     "level": "high",
     "country": "🌍",
     "text": "\"L'objectif est d'effacer notre identité\" : au Sud-Liban, le patrimoine part en ",
@@ -90,7 +90,7 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 812,
+    "id": 428,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7922,
+    "id": 239,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5512,
+    "id": 7208,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5263,
+    "id": 5082,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1816,
+    "id": 3546,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8523,
+    "id": 4525,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2570,
+    "id": 2590,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 879,
+    "id": 7045,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4741,
+    "id": 7732,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,7 +171,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 6754,
+    "id": 2417,
     "level": "medium",
     "country": "🌍",
     "text": "How climate stress is reshaping the fishing sector in Barbados",
