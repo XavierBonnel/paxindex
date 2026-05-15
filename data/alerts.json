@@ -1,6 +1,6 @@
 [
   {
-    "id": 7400,
+    "id": 4293,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8052,
+    "id": 2489,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,16 +18,70 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 3411,
+    "id": 6525,
     "level": "critical",
     "country": "🌍",
-    "text": "Haiti: Drone attacks raise serious human rights concerns and threaten children",
+    "text": "oPt: Palestine: conflict - Global LTC Teleconference #46 Meeting Minutes (05/05/",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/haiti/haiti-drone-attacks-raise-serious-human-rights-concerns-and-threaten-children",
+    "link": "https://reliefweb.int/report/occupied-palestinian-territory/palestine-conflict-global-ltc-teleconference-46-meeting-minutes-05052026",
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 5706,
+    "id": 4394,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Rapport sur la stabilité financière dans le monde: Les marchés financiers",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/rapport-sur-la-stabilite-financiere-dans-le-monde-les-marches-financiers-mondiaux-face-la-guerre-au-moyen-orient-et-aux-risques-descalade-avril-2026",
+    "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 7650,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Global Financial Stability Report: Global Financial Markets Confront the ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/global-financial-stability-report-global-financial-markets-confront-war-middle-east-and-amplification-risks-april-2026-enarruzhjp",
+    "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 5680,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Benched Mbappe says he’s fourth-choice forward at Real Madrid under Arbeloa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/15/benched-mbappe-says-hes-fourth-choice-forward-at-real-madrid-under-arbeloa?traffic_source=rss",
+    "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 9940,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mitoma fails to make Japan’s 2026 World Cup squad due to hamstring injury",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/15/mitoma-fails-to-make-japans-2026-world-cup-squad-due-to-hamstring-injury?traffic_source=rss",
+    "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 4411,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss",
+    "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 3491,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why India’s RSS is lobbying the West amid attacks on minorities at home",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/15/why-indias-rss-is-lobbying-the-west-amid-attacks-on-minorities-at-home?traffic_source=rss",
+    "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 570,
     "level": "critical",
     "country": "🌍",
     "text": "Top US admiral: Strikes severely degraded Iran’s military, defence",
@@ -36,79 +90,16 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 5470,
+    "id": 3188,
     "level": "critical",
     "country": "🌍",
-    "text": "What happens to those who say no to fighting wars?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-happens-to-those-who-say-no-to-fighting-wars?traffic_source=rss",
-    "time": "Fri, 15 May 2026"
-  },
-  {
-    "id": 6596,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Eurovision braces for new protests over Israel’s participation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/eurovision-braces-for-new-protests-over-israels-participation?traffic_source=rss",
-    "time": "Fri, 15 May 2026"
-  },
-  {
-    "id": 9188,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trump’s visit to China shadowed by conflict with Tehran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran?traffic_source=rss",
-    "time": "Fri, 15 May 2026"
-  },
-  {
-    "id": 428,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss",
-    "time": "Thu, 14 May 2026"
-  },
-  {
-    "id": 6670,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Kevin Warsh confirmé à la tête de la Fed",
+    "text": "En Haïti, au moins 78 morts dans des affrontements entre gangs à Port-au-Prince",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260514-kevin-warsh-confirm%C3%A9-%C3%A0-la-t%C3%AAte-de-la-fed",
-    "time": "Thu, 14 May 2026"
-  },
-  {
-    "id": 6586,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israel-Lebanon talks held in Washington as expiration of ceasefire nears",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/israel-lebanon-talks-held-in-washington-as-expiration-of-ceasefire-nears?traffic_source=rss",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260515-en-ha%C3%AFti-au-moins-78-morts-dans-des-affrontements-entre-gangs-%C3%A0-port-au-prince",
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 720,
-    "level": "high",
-    "country": "🌍",
-    "text": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
-    "time": "Thu, 14 May 2026"
-  },
-  {
-    "id": 336,
-    "level": "high",
-    "country": "🌍",
-    "text": "Liban : la paix avec Israël, lointain mirage ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260514-liban-la-paix-avec-isra%C3%ABl-lointain-mirage",
-    "time": "Thu, 14 May 2026"
-  },
-  {
-    "id": 6098,
+    "id": 78,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1002,
+    "id": 2644,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3787,
+    "id": 3629,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4816,
+    "id": 1409,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2457,
+    "id": 2099,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8439,
+    "id": 9442,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9998,
+    "id": 579,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,12 +162,21 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6376,
+    "id": 3028,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 2906,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-23T15:15"
   }
 ]
