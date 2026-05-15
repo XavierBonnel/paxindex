@@ -1,6 +1,6 @@
 [
   {
-    "id": 6181,
+    "id": 7846,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7685,
+    "id": 2533,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,25 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 4459,
+    "id": 3455,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Risk of Famine persists as nearly 19.5 million people face acute food insecurity",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/risk-famine-persists-nearly-195-million-people-face-acute-food-insecurity-sudan-0",
+    "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 2517,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump calls journalist’s Iran reporting ‘treasonous’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
+    "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 2300,
     "level": "critical",
     "country": "🌍",
     "text": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
@@ -27,25 +45,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 5888,
-    "level": "critical",
-    "country": "🌍",
-    "text": "BRICS talks end without joint statement as divisions over Iran war deepen",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss",
-    "time": "Fri, 15 May 2026"
-  },
-  {
-    "id": 5652,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Iran, les petites entreprises s’effondrent sous l’effet de la guerre et de la",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260515-iran-entreprises-effondrent-guerre-coupure-internet",
-    "time": "Fri, 15 May 2026"
-  },
-  {
-    "id": 6787,
+    "id": 3446,
     "level": "high",
     "country": "🌍",
     "text": "États-Unis - Chine : le choc est-il inévitable ?",
@@ -54,7 +54,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 3063,
+    "id": 6164,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -63,7 +63,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7818,
+    "id": 8216,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +72,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7967,
+    "id": 2623,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +81,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 852,
+    "id": 3340,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +90,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8378,
+    "id": 9404,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +99,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2800,
+    "id": 9027,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +108,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1176,
+    "id": 2152,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +117,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9891,
+    "id": 368,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +126,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 9563,
+    "id": 1410,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +135,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 539,
+    "id": 946,
     "level": "medium",
     "country": "🌍",
     "text": "Philippine typhoon survivors file historic case against oil giant",
@@ -144,7 +144,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 3243,
+    "id": 1959,
     "level": "medium",
     "country": "🌍",
     "text": "Why were Russian disinformation, government propaganda and AI-generated campaign",
@@ -153,7 +153,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 8634,
+    "id": 8183,
     "level": "medium",
     "country": "🌍",
     "text": "How climate stress is reshaping the fishing sector in Barbados",
@@ -162,7 +162,7 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 7313,
+    "id": 5509,
     "level": "medium",
     "country": "🌍",
     "text": "How one Kenyan community is building a new future on reclaimed ground",
@@ -171,7 +171,7 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 4929,
+    "id": 419,
     "level": "medium",
     "country": "🌍",
     "text": "Who is defending Cuba’s threatened species?",
