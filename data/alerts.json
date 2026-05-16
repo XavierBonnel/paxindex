@@ -1,6 +1,6 @@
 [
   {
-    "id": 3476,
+    "id": 1347,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8335,
+    "id": 7887,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 2109,
+    "id": 657,
     "level": "critical",
     "country": "🌍",
     "text": "Risk of Famine persists as nearly 19.5 million people face acute food insecurity",
@@ -27,7 +27,16 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 9333,
+    "id": 3739,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel launches deadly air strikes on Gaza City apartment building",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 8904,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
@@ -36,7 +45,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 8868,
+    "id": 4350,
     "level": "critical",
     "country": "🌍",
     "text": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
@@ -45,7 +54,16 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 1468,
+    "id": 1575,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : cessez-le-feu prolongé entre Liban et Israël, malgré de",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260516-moyen-orient-direct-cessez-le-feu-liban-isra%C3%ABl-frappes-iran-trump-etats-unis",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 1144,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -54,7 +72,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6117,
+    "id": 5285,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -63,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1728,
+    "id": 821,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -72,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7308,
+    "id": 5687,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -81,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7137,
+    "id": 6254,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -90,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3743,
+    "id": 6537,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -99,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6737,
+    "id": 3838,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -108,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1162,
+    "id": 178,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -117,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7543,
+    "id": 6120,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -126,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 301,
+    "id": 6366,
     "level": "medium",
     "country": "🌍",
     "text": "Philippine typhoon survivors file historic case against oil giant",
@@ -135,7 +153,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 9404,
+    "id": 2341,
     "level": "medium",
     "country": "🌍",
     "text": "Why were Russian disinformation, government propaganda and AI-generated campaign",
@@ -144,7 +162,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 1842,
+    "id": 248,
     "level": "medium",
     "country": "🌍",
     "text": "How climate stress is reshaping the fishing sector in Barbados",
@@ -153,30 +171,12 @@
     "time": "Thu, 14 May 2026"
   },
   {
-    "id": 8092,
+    "id": 9858,
     "level": "medium",
     "country": "🌍",
     "text": "How one Kenyan community is building a new future on reclaimed ground",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/14/how-one-kenyan-community-is-building-a-new-future-on-reclaimed-ground/",
     "time": "Thu, 14 May 2026"
-  },
-  {
-    "id": 9143,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Who is defending Cuba’s threatened species?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/13/who-is-defending-cubas-threatened-species/",
-    "time": "Wed, 13 May 2026"
-  },
-  {
-    "id": 953,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Support the Global Voices Spotlight: Gender diversity",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/12/support-the-global-voices-spotlight-gender-diversity/",
-    "time": "Tue, 12 May 2026"
   }
 ]
