@@ -1,6 +1,6 @@
 [
   {
-    "id": 7649,
+    "id": 1613,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1680,
+    "id": 6021,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 7438,
+    "id": 1036,
     "level": "critical",
     "country": "🌍",
     "text": "Risk of Famine persists as nearly 19.5 million people face acute food insecurity",
@@ -27,7 +27,25 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 4666,
+    "id": 46,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least eight killed, 25 injured as train hits bus in Bangkok",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok?traffic_source=rss",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 4236,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 7499,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
@@ -36,34 +54,16 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 5586,
-    "level": "critical",
+    "id": 2845,
+    "level": "high",
     "country": "🌍",
-    "text": "Man killed in great white shark attack in western Australia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 8471,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban-Israël : la trêve prolongée de 45 jours malgré des frappes",
+    "text": "À Londres, une journée sous tension",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260516-liban-isra%C3%ABl-prolongation-de-la-tr%C3%AAve-de-45-jours-malgr%C3%A9-des-frappes",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260516-%C3%A0-londres-une-journ%C3%A9e-sous-tension",
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 6050,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban-Israël : trêve prolongée malgré des frappes dans le sud du Liban",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260516-liban-isra%C3%ABl-tr%C3%AAve-prolong%C3%A9e-malgr%C3%A9-des-frappes-dans-le-sud-du-liban",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 6690,
+    "id": 9365,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +72,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7576,
+    "id": 5826,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6037,
+    "id": 9644,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7332,
+    "id": 4905,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5750,
+    "id": 4833,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4003,
+    "id": 7859,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2798,
+    "id": 1007,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +126,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 49,
+    "id": 9603,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +135,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 8393,
+    "id": 8652,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +144,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 3647,
+    "id": 4712,
     "level": "medium",
     "country": "🌍",
     "text": "Anatomy of a coverage: The making of Global Voices Spotlight",
@@ -153,7 +153,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 8447,
+    "id": 356,
     "level": "medium",
     "country": "🌍",
     "text": "Philippine typhoon survivors file historic case against oil giant",
@@ -162,7 +162,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 9269,
+    "id": 4985,
     "level": "medium",
     "country": "🌍",
     "text": "Why were Russian disinformation, government propaganda and AI-generated campaign",
@@ -171,7 +171,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 6872,
+    "id": 5011,
     "level": "medium",
     "country": "🌍",
     "text": "How climate stress is reshaping the fishing sector in Barbados",
