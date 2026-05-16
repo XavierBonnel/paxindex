@@ -1,6 +1,6 @@
 [
   {
-    "id": 9940,
+    "id": 9329,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2696,
+    "id": 4754,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 8892,
+    "id": 4466,
     "level": "critical",
     "country": "🌍",
     "text": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
@@ -27,7 +27,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 8737,
+    "id": 3610,
     "level": "critical",
     "country": "🌍",
     "text": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
@@ -36,7 +36,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 3275,
+    "id": 8610,
     "level": "critical",
     "country": "🌍",
     "text": "Iran warns of readiness for war and economic costs as US talks falter",
@@ -45,16 +45,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 4638,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli army kills Palestinian man, raids homes in occupied West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/16/israeli-army-kills-palestinian-man-raids-homes-in-occupied-west-bank?traffic_source=rss",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 9654,
+    "id": 9172,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis et le Nigeria annoncent la mort d'un chef de l'EI dans une opérat",
@@ -63,7 +54,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 5144,
+    "id": 8929,
     "level": "critical",
     "country": "🌍",
     "text": "Le chef de la branche armée du Hamas tué par une frappe israélienne",
@@ -72,7 +63,16 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 6883,
+    "id": 5295,
+    "level": "high",
+    "country": "🌍",
+    "text": "Al Jazeera’s exclusive report from the Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 4618,
     "level": "high",
     "country": "🌍",
     "text": "Eurovision 2026 : une finale sous tension, plusieurs pays boycottent le concours",
@@ -81,7 +81,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 6557,
+    "id": 11,
     "level": "high",
     "country": "🌍",
     "text": "Le chef de la branche armée du Hamas tué à Gaza",
@@ -90,7 +90,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 973,
+    "id": 6355,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4662,
+    "id": 1278,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6908,
+    "id": 8818,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2924,
+    "id": 5055,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5391,
+    "id": 6440,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 590,
+    "id": 8319,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4168,
+    "id": 2856,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1453,
+    "id": 5953,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4448,
+    "id": 1643,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,7 +171,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1372,
+    "id": 4637,
     "level": "medium",
     "country": "🌍",
     "text": "Across Latin America, May Day protests highlight workers’ struggles and solidari",
