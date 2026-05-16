@@ -1,6 +1,6 @@
 [
   {
-    "id": 3041,
+    "id": 3433,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4150,
+    "id": 7449,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,34 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 9617,
+    "id": 7077,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 123,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/16/abu-bilal-al-minuki-isils-shadow-commander-in-west-africa?traffic_source=rss",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 3162,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran warns of readiness for war and economic costs as US talks falter",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 8958,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli army kills Palestinian man, raids homes in occupied West Bank",
@@ -27,7 +54,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 7411,
+    "id": 6518,
     "level": "critical",
     "country": "🌍",
     "text": "Moment of deadly train crash in Bangkok",
@@ -36,16 +63,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 2346,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Robert Lewandowski to leave Barcelona with his ‘mission complete’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/16/robert-lewandowski-to-leave-barcelona-with-his-mission-complete?traffic_source=rss",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 8690,
+    "id": 3457,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis et le Nigeria annoncent la mort d'un chef de l'EI dans une opérat",
@@ -54,7 +72,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 7754,
+    "id": 8701,
     "level": "critical",
     "country": "🌍",
     "text": "Le chef de la branche armée du Hamas tué par une frappe israélienne",
@@ -63,16 +81,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 5920,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Une nouvelle épidémie d'Ebola frappe la RD Congo, un décès en Ouganda",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260516-une-nouvelle-%C3%A9pid%C3%A9mie-d-ebola-frappe-la-rd-congo-un-d%C3%A9c%C3%A8s-en-ouganda",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 1828,
+    "id": 3551,
     "level": "high",
     "country": "🌍",
     "text": "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
@@ -81,7 +90,16 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 2130,
+    "id": 5263,
+    "level": "high",
+    "country": "🌍",
+    "text": "Eurovision 2026 : une finale sous tension, plusieurs pays boycottent le concours",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260516-eurovision-2026-une-finale-sous-tension-plusieurs-pays-boycottent-le-concours",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 8068,
     "level": "high",
     "country": "🌍",
     "text": "Le chef de la branche armée du Hamas tué à Gaza",
@@ -90,7 +108,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 7222,
+    "id": 832,
     "level": "high",
     "country": "🌍",
     "text": "Londres sous tension avec des manifestations anti-immigration et pro-Palestine s",
@@ -99,16 +117,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 7489,
-    "level": "high",
-    "country": "🌍",
-    "text": "Eurovision 2026 : une finale dans un climat de tensions",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260516-eurovision-2026-une-finale-dans-un-climat-de-manifestations-et-de-boycott",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 8628,
+    "id": 7924,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8449,
+    "id": 4884,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2429,
+    "id": 1210,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4291,
+    "id": 4665,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1397,
+    "id": 2404,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2213,
+    "id": 4172,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,21 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2413,
+    "id": 8368,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 5530,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
   }
 ]
