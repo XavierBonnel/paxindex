@@ -1,6 +1,6 @@
 [
   {
-    "id": 1706,
+    "id": 3104,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1502,
+    "id": 9790,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,7 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 8277,
+    "id": 1802,
     "level": "critical",
     "country": "🌍",
     "text": "Risk of Famine persists as nearly 19.5 million people face acute food insecurity",
@@ -27,7 +27,16 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 7738,
+    "id": 5072,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Man killed in great white shark attack in western Australia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 5151,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
@@ -36,7 +45,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 3310,
+    "id": 968,
     "level": "critical",
     "country": "🌍",
     "text": "Israel launches deadly air strikes on Gaza City apartment building",
@@ -45,16 +54,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 2478,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 523,
+    "id": 3748,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient en direct : cessez-le-feu prolongé entre Liban et Israël, malgré de",
@@ -63,7 +63,16 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 8782,
+    "id": 4229,
+    "level": "high",
+    "country": "🌍",
+    "text": "Camps de regroupement en Algérie : \"Une histoire extrêmement inhumaine\" et oubli",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260516-camps-regroupement-algerie-france-militaires-guerre-tragedie",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 7381,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3358,
+    "id": 6725,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5842,
+    "id": 3292,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6376,
+    "id": 4804,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7616,
+    "id": 2550,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6886,
+    "id": 8277,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7411,
+    "id": 6157,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7169,
+    "id": 1751,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3594,
+    "id": 7350,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 612,
+    "id": 8995,
     "level": "medium",
     "country": "🌍",
     "text": "Philippine typhoon survivors file historic case against oil giant",
@@ -153,7 +162,7 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 888,
+    "id": 7955,
     "level": "medium",
     "country": "🌍",
     "text": "Why were Russian disinformation, government propaganda and AI-generated campaign",
@@ -162,21 +171,12 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 6056,
+    "id": 6276,
     "level": "medium",
     "country": "🌍",
     "text": "How climate stress is reshaping the fishing sector in Barbados",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/14/how-climate-stress-is-reshaping-the-fishing-sector-in-barbados/",
-    "time": "Thu, 14 May 2026"
-  },
-  {
-    "id": 604,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How one Kenyan community is building a new future on reclaimed ground",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/14/how-one-kenyan-community-is-building-a-new-future-on-reclaimed-ground/",
     "time": "Thu, 14 May 2026"
   }
 ]
