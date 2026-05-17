@@ -1,6 +1,6 @@
 [
   {
-    "id": 5015,
+    "id": 5082,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6567,
+    "id": 8971,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,7 +18,25 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 5879,
+    "id": 3576,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 14 May 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-14-may-2026",
+    "time": "Sat, 16 May 2026"
+  },
+  {
+    "id": 4684,
+    "level": "critical",
+    "country": "🌍",
+    "text": "WHO declares Ebola outbreak in DRC a global health emergency",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/who-declares-ebola-outbreak-in-drc-a-global-health-emergency?traffic_source=rss",
+    "time": "Sun, 17 May 2026"
+  },
+  {
+    "id": 4479,
     "level": "critical",
     "country": "🌍",
     "text": "Israel comes second at Eurovision amid boycotts and backlash",
@@ -27,7 +45,7 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 9636,
+    "id": 7424,
     "level": "critical",
     "country": "🌍",
     "text": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
@@ -36,7 +54,7 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 6972,
+    "id": 4775,
     "level": "critical",
     "country": "🌍",
     "text": "The strike that changed the geometry of war",
@@ -45,16 +63,16 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 37,
+    "id": 4949,
     "level": "critical",
     "country": "🌍",
-    "text": "At least four killed in Ukrainian drone attacks on Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
+    "text": "La Russie attaquée par environ 600 drones ukrainiens, quatre morts",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260517-la-russie-attaqu%C3%A9e-par-environ-600-drones-ukrainiens-quatre-morts",
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 1739,
+    "id": 1526,
     "level": "critical",
     "country": "🌍",
     "text": "Attaque de drones en Russie, Kiev revendique",
@@ -63,7 +81,7 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 8363,
+    "id": 7772,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 245,
+    "id": 1861,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9546,
+    "id": 6851,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7560,
+    "id": 1770,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6735,
+    "id": 2630,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7999,
+    "id": 5354,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5356,
+    "id": 5241,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1708,
+    "id": 3171,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7650,
+    "id": 7179,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 7139,
+    "id": 6418,
     "level": "medium",
     "country": "🌍",
     "text": "How nature-based solutions can help vulnerable and marginalized communities over",
@@ -153,30 +171,12 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 3006,
+    "id": 1663,
     "level": "medium",
     "country": "🌍",
     "text": "Across Latin America, May Day protests highlight workers’ struggles and solidari",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/16/across-latin-america-may-day-protests-highlight-workers-struggles-and-solidarity/",
     "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 7083,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anatomy of a coverage: The making of Global Voices Spotlight",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/16/anatomy-of-a-coverage-the-making-of-global-voices-spotlight/",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 3167,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Philippine typhoon survivors file historic case against oil giant",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/15/philippine-typhoon-survivors-file-historic-case-against-oil-giant/",
-    "time": "Fri, 15 May 2026"
   }
 ]
