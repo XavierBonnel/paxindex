@@ -1,6 +1,6 @@
 [
   {
-    "id": 5082,
+    "id": 2562,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8971,
+    "id": 2020,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,16 +18,25 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 3576,
+    "id": 6464,
     "level": "critical",
     "country": "🌍",
-    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 14 May 2026)",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-14-may-2026",
-    "time": "Sat, 16 May 2026"
+    "text": "Drone strike sparks fire at UAE’s Barakah nuclear power plant",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
+    "time": "Sun, 17 May 2026"
   },
   {
-    "id": 4684,
+    "id": 8396,
+    "level": "critical",
+    "country": "🌍",
+    "text": "New wave of Israeli strikes pound Lebanon despite ceasefire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss",
+    "time": "Sun, 17 May 2026"
+  },
+  {
+    "id": 312,
     "level": "critical",
     "country": "🌍",
     "text": "WHO declares Ebola outbreak in DRC a global health emergency",
@@ -36,7 +45,7 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 4479,
+    "id": 403,
     "level": "critical",
     "country": "🌍",
     "text": "Israel comes second at Eurovision amid boycotts and backlash",
@@ -45,7 +54,7 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 7424,
+    "id": 3118,
     "level": "critical",
     "country": "🌍",
     "text": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
@@ -54,16 +63,25 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 4775,
+    "id": 6240,
     "level": "critical",
     "country": "🌍",
-    "text": "The strike that changed the geometry of war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss",
+    "text": "\"En termes de capacité de drones, l'Ukraine semble avoir franchi un cap suppléme",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260517-en-termes-de-capacit%C3%A9-de-drones-l-ukraine-semble-avoir-franchi-un-cap-suppl%C3%A9mentaire",
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 4949,
+    "id": 9211,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Liban : malgré la prolongation de la trêve, des frappes israéliennes dans l'est ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260517-liban-malgr%C3%A9-la-prolongation-de-la-tr%C3%AAve-des-frappes-isra%C3%A9liennes-dans-l-est-et-le-sud-du-pays",
+    "time": "Sun, 17 May 2026"
+  },
+  {
+    "id": 6014,
     "level": "critical",
     "country": "🌍",
     "text": "La Russie attaquée par environ 600 drones ukrainiens, quatre morts",
@@ -72,7 +90,7 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 1526,
+    "id": 7654,
     "level": "critical",
     "country": "🌍",
     "text": "Attaque de drones en Russie, Kiev revendique",
@@ -81,7 +99,16 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 7772,
+    "id": 4145,
+    "level": "high",
+    "country": "🌍",
+    "text": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
+    "time": "Sun, 17 May 2026"
+  },
+  {
+    "id": 3828,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1861,
+    "id": 1432,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6851,
+    "id": 926,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1770,
+    "id": 5377,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2630,
+    "id": 1875,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5354,
+    "id": 7877,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5241,
+    "id": 9749,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,39 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3171,
+    "id": 6536,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 7179,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 6418,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How nature-based solutions can help vulnerable and marginalized communities over",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/17/how-nature-based-solutions-can-help-vulnerable-and-marginalized-communities-overcome-climate-injustice/",
-    "time": "Sun, 17 May 2026"
-  },
-  {
-    "id": 1663,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Across Latin America, May Day protests highlight workers’ struggles and solidari",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/16/across-latin-america-may-day-protests-highlight-workers-struggles-and-solidarity/",
-    "time": "Sat, 16 May 2026"
   }
 ]
