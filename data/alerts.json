@@ -1,6 +1,6 @@
 [
   {
-    "id": 3043,
+    "id": 6589,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4446,
+    "id": 9510,
     "level": "critical",
     "country": "🌍",
     "text": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
@@ -18,7 +18,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 3925,
+    "id": 7134,
     "level": "critical",
     "country": "🌍",
     "text": "Four reported killed, 30 injured, in Kenyan fuel price protests",
@@ -27,25 +27,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 6476,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Protests over fuel price hikes turn deadly in Kenya",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protests-over-fuel-price-hikes-turn-deadly-in-kenya?traffic_source=rss",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 5798,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Could the Iran war trigger the next debt shock?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 2091,
+    "id": 1598,
     "level": "critical",
     "country": "🌍",
     "text": "Mort d'Ofer Bronchtein, infatigable militant pour la paix entre Israéliens et Pa",
@@ -54,7 +36,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 8399,
+    "id": 673,
     "level": "critical",
     "country": "🌍",
     "text": "RD Congo : l'inquiétante propagation d'une souche rare du virus Ebola, sans vacc",
@@ -63,7 +45,16 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 3080,
+    "id": 9594,
+    "level": "high",
+    "country": "🌍",
+    "text": "Will Cuba be forced to accept the US president’s demands?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/5/18/will-cuba-be-forced-to-accept-the-us-presidents-demands?traffic_source=rss",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 6367,
     "level": "high",
     "country": "🌍",
     "text": "Moyen-Orient : un risque d’embrasement ?",
@@ -72,7 +63,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 2959,
+    "id": 4586,
     "level": "high",
     "country": "🌍",
     "text": "France - Algérie : Gérald Darmanin à Alger pour relancer la coopération judiciai",
@@ -81,7 +72,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 8690,
+    "id": 2843,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2134,
+    "id": 331,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6003,
+    "id": 8614,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7635,
+    "id": 8784,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3642,
+    "id": 346,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 802,
+    "id": 1518,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 153,
+    "id": 5252,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3682,
+    "id": 1971,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7562,
+    "id": 8627,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 900,
+    "id": 2134,
     "level": "medium",
     "country": "🌍",
     "text": "How Russians used to protest and managed to prevent some ecological disasters",
@@ -171,12 +162,21 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 5476,
+    "id": 960,
     "level": "medium",
     "country": "🌍",
     "text": "Human rights concerns abound over China’s ‘state secrets’ regulation in the Uygh",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
     "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 7851,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How nature-based solutions can help vulnerable and marginalized communities over",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/17/how-nature-based-solutions-can-help-vulnerable-and-marginalized-communities-overcome-climate-injustice/",
+    "time": "Sun, 17 May 2026"
   }
 ]
