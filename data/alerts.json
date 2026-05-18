@@ -1,6 +1,6 @@
 [
   {
-    "id": 2969,
+    "id": 6021,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,16 +9,25 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9125,
+    "id": 7652,
     "level": "critical",
     "country": "🌍",
-    "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/13/can-great-nicobar-islands-survive-the-future-planned-for-it/",
-    "time": "Wed, 13 May 2026"
+    "text": "Israel built two military bases in Iraq before war on Iran: NYT",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
+    "time": "Mon, 18 May 2026"
   },
   {
-    "id": 6700,
+    "id": 6814,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali drone strikes kill at least 10 civilians at wedding",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/18/mali-drone-strikes-kill-at-least-10-civilians-at-wedding?traffic_source=rss",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 4356,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
@@ -27,16 +36,61 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 1866,
+    "id": 7041,
     "level": "critical",
     "country": "🌍",
-    "text": "Moyen-Orient en direct : les puissances du G7 discutent des conséquences économi",
+    "text": "Peine de mort : le nombre d’exécutions atteint un niveau record depuis 1981",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260518-en-direct-moyen-orient-iran-g7-petrole-ormuz-donald-trump-liban-israel",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260518-peine-de-mort-le-nombre-d-ex%C3%A9cutions-atteint-un-niveau-record-depuis-1981",
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 8293,
+    "id": 3269,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : plus de 30 blessés dans des frappes nocturnes russes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260518-guerre-en-ukraine-plus-de-30-bless%C3%A9s-dans-des-frappes-nocturnes-russes",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 3814,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre au Moyen-Orient : Donald Trump profère de nouvelles menaces d'anéantissem",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260518-guerre-au-moyen-orient-donald-trump-prof%C3%A8re-de-nouvelles-menaces-d-an%C3%A9antissement-de-l-iran",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 3724,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Peine de mort : hausse \"vertigineuse\" en Iran, record d'exécutions dans le monde",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260518-peine-de-mort-hausse-vertigineuse-en-iran-record-d-ex%C3%A9cutions-dans-le-monde-depuis-1981",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 5781,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Liban : les frappes israéliennes continuent malgré la prolongation de la trêve",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260518-liban-les-frappes-isra%C3%A9liennes-continuent-malgr%C3%A9-la-prolongation-de-la-tr%C3%AAve",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 1782,
+    "level": "high",
+    "country": "🌍",
+    "text": "Algérie : Gérald Darmanin à Alger pour contribuer au dégel des relations",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260518-alg%C3%A9rie-g%C3%A9rald-darmanin-%C3%A0-alger-pour-contribuer-au-d%C3%A9gel-des-relations",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 7236,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -45,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8246,
+    "id": 3322,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -54,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7188,
+    "id": 4159,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -63,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 667,
+    "id": 6900,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -72,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6753,
+    "id": 2679,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -81,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8629,
+    "id": 2574,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -90,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7157,
+    "id": 3619,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -99,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8929,
+    "id": 9866,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -108,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 8117,
+    "id": 7205,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -117,66 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 1988,
+    "id": 9866,
     "level": "medium",
     "country": "🌍",
-    "text": "Human rights concerns abound over China’s ‘state secrets’ regulation in the Uygh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
+    "text": "Why was Neymar angry at his substitution and will he play in the World Cup?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/18/why-was-neymar-angry-at-his-substitution-and-will-he-play-in-the-world-cup?traffic_source=rss",
     "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 6774,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How nature-based solutions can help vulnerable and marginalized communities over",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/17/how-nature-based-solutions-can-help-vulnerable-and-marginalized-communities-overcome-climate-injustice/",
-    "time": "Sun, 17 May 2026"
-  },
-  {
-    "id": 6668,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Across Latin America, May Day protests highlight workers’ struggles and solidari",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/16/across-latin-america-may-day-protests-highlight-workers-struggles-and-solidarity/",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 1488,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anatomy of a coverage: The making of Global Voices Spotlight",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/16/anatomy-of-a-coverage-the-making-of-global-voices-spotlight/",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 2816,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Philippine typhoon survivors file historic case against oil giant",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/15/philippine-typhoon-survivors-file-historic-case-against-oil-giant/",
-    "time": "Fri, 15 May 2026"
-  },
-  {
-    "id": 3814,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Why were Russian disinformation, government propaganda and AI-generated campaign",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/15/why-were-russian-disinformation-government-propaganda-and-ai-generated-campaigning-ineffective-in-hungarian-elections-2026/",
-    "time": "Fri, 15 May 2026"
-  },
-  {
-    "id": 7943,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How climate stress is reshaping the fishing sector in Barbados",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/14/how-climate-stress-is-reshaping-the-fishing-sector-in-barbados/",
-    "time": "Thu, 14 May 2026"
   }
 ]
