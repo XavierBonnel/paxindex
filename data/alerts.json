@@ -1,6 +1,6 @@
 [
   {
-    "id": 6021,
+    "id": 4053,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,34 +9,52 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7652,
+    "id": 3574,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel built two military bases in Iraq before war on Iran: NYT",
+    "text": "Attacks on Health Care in Sudan, 29 April - 12 May 2026",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/attacks-health-care-sudan-29-april-12-may-2026",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 2000,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian drone hits Chinese ship off Ukraine before Putin visits Xi Jinping",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/18/russian-drone-hits-chinese-ship-off-ukraine-before-putin-visits-xi-jinping?traffic_source=rss",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 9718,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How war affects civilians for generations",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/all-hail/2026/5/18/how-war-affects-civilians-for-generations?traffic_source=rss",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 6314,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US military carries out more strikes against ISIL fighters in Nigeria",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 3058,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel built two military bases in Iraq before war on Iran: New York Times",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 6814,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mali drone strikes kill at least 10 civilians at wedding",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/18/mali-drone-strikes-kill-at-least-10-civilians-at-wedding?traffic_source=rss",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 4356,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 7041,
+    "id": 6021,
     "level": "critical",
     "country": "🌍",
     "text": "Peine de mort : le nombre d’exécutions atteint un niveau record depuis 1981",
@@ -45,16 +63,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 3269,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : plus de 30 blessés dans des frappes nocturnes russes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260518-guerre-en-ukraine-plus-de-30-bless%C3%A9s-dans-des-frappes-nocturnes-russes",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 3814,
+    "id": 2929,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : Donald Trump profère de nouvelles menaces d'anéantissem",
@@ -63,7 +72,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 3724,
+    "id": 1752,
     "level": "critical",
     "country": "🌍",
     "text": "Peine de mort : hausse \"vertigineuse\" en Iran, record d'exécutions dans le monde",
@@ -72,16 +81,25 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 5781,
-    "level": "critical",
+    "id": 5925,
+    "level": "high",
     "country": "🌍",
-    "text": "Liban : les frappes israéliennes continuent malgré la prolongation de la trêve",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260518-liban-les-frappes-isra%C3%A9liennes-continuent-malgr%C3%A9-la-prolongation-de-la-tr%C3%AAve",
+    "text": "Video: US calls on G7 to impose US-led sanctions on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 1782,
+    "id": 7315,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ukraine : attaque de drones et missiles russes d'envergure, un cargo chinois tou",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260518-ukraine-attaque-de-drones-et-missiles-russes-d-envergure-un-cargo-chinois-touch%C3%A9-en-mer-noire",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 8776,
     "level": "high",
     "country": "🌍",
     "text": "Algérie : Gérald Darmanin à Alger pour contribuer au dégel des relations",
@@ -90,7 +108,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 7236,
+    "id": 6894,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3322,
+    "id": 2674,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4159,
+    "id": 9844,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6900,
+    "id": 1630,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2679,
+    "id": 1375,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2574,
+    "id": 372,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3619,
+    "id": 4543,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,30 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9866,
+    "id": 9310,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 7205,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 9866,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Why was Neymar angry at his substitution and will he play in the World Cup?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/18/why-was-neymar-angry-at-his-substitution-and-will-he-play-in-the-world-cup?traffic_source=rss",
-    "time": "Mon, 18 May 2026"
   }
 ]
