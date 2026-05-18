@@ -1,6 +1,6 @@
 [
   {
-    "id": 892,
+    "id": 2969,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8505,
+    "id": 9125,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Great Nicobar Islands survive India’s development aspirations?",
@@ -18,25 +18,16 @@
     "time": "Wed, 13 May 2026"
   },
   {
-    "id": 9148,
+    "id": 6700,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
+    "text": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 5716,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks?traffic_source=rss",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 9003,
+    "id": 1866,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient en direct : les puissances du G7 discutent des conséquences économi",
@@ -45,16 +36,7 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 6792,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les Émirats dénoncent une \"agression inacceptable\" après une frappe de drone sur",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260517-les-emirats-d%C3%A9noncent-une-agression-inacceptable-apr%C3%A8s-une-frappe-de-drone-sur-un-site-nucl%C3%A9aire",
-    "time": "Sun, 17 May 2026"
-  },
-  {
-    "id": 8657,
+    "id": 8293,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -63,7 +45,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5106,
+    "id": 8246,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +54,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7043,
+    "id": 7188,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +63,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3295,
+    "id": 667,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +72,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7864,
+    "id": 6753,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +81,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4912,
+    "id": 8629,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +90,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5315,
+    "id": 7157,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +99,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3290,
+    "id": 8929,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +108,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4498,
+    "id": 8117,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,7 +117,16 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5391,
+    "id": 1988,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Human rights concerns abound over China’s ‘state secrets’ regulation in the Uygh",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
+    "time": "Mon, 18 May 2026"
+  },
+  {
+    "id": 6774,
     "level": "medium",
     "country": "🌍",
     "text": "How nature-based solutions can help vulnerable and marginalized communities over",
@@ -144,7 +135,7 @@
     "time": "Sun, 17 May 2026"
   },
   {
-    "id": 7189,
+    "id": 6668,
     "level": "medium",
     "country": "🌍",
     "text": "Across Latin America, May Day protests highlight workers’ struggles and solidari",
@@ -153,7 +144,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 9094,
+    "id": 1488,
     "level": "medium",
     "country": "🌍",
     "text": "Anatomy of a coverage: The making of Global Voices Spotlight",
@@ -162,7 +153,7 @@
     "time": "Sat, 16 May 2026"
   },
   {
-    "id": 9470,
+    "id": 2816,
     "level": "medium",
     "country": "🌍",
     "text": "Philippine typhoon survivors file historic case against oil giant",
@@ -171,12 +162,21 @@
     "time": "Fri, 15 May 2026"
   },
   {
-    "id": 245,
+    "id": 3814,
     "level": "medium",
     "country": "🌍",
     "text": "Why were Russian disinformation, government propaganda and AI-generated campaign",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/15/why-were-russian-disinformation-government-propaganda-and-ai-generated-campaigning-ineffective-in-hungarian-elections-2026/",
     "time": "Fri, 15 May 2026"
+  },
+  {
+    "id": 7943,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How climate stress is reshaping the fishing sector in Barbados",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/14/how-climate-stress-is-reshaping-the-fishing-sector-in-barbados/",
+    "time": "Thu, 14 May 2026"
   }
 ]
