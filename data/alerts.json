@@ -1,6 +1,6 @@
 [
   {
-    "id": 8701,
+    "id": 4311,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,34 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8032,
+    "id": 8620,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel’s far-right Finance Minister Smotrich says ICC seeking his arrest",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/israels-far-right-finance-minister-smotrich-says-icc-seeking-his-arrest?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
+  },
+  {
+    "id": 5138,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tributes pour in for ‘hero’ guard killed in San Diego mosque shooting",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/tributes-pour-in-for-hero-guard-killed-in-san-diego-mosque-shooting?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
+  },
+  {
+    "id": 9345,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says Xi assured him China would not send weapons to Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
+  },
+  {
+    "id": 2442,
     "level": "critical",
     "country": "🌍",
     "text": "At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry",
@@ -18,34 +45,7 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 368,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Pakistan sentences man to death for killing TikTok star Sana Yousaf",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/19/death-sentence-handed-to-man-for-killing-tiktok-star-sana-yousaf?traffic_source=rss",
-    "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 5962,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Security guards face probe after last week’s Philippine Senate shooting",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/19/security-guards-face-probe-after-last-weeks-philippine-senate-shooting?traffic_source=rss",
-    "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 2290,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/19/at-least-one-killed-21-wounded-in-car-bomb-explosion-in-syrias-damascus?traffic_source=rss",
-    "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 2069,
+    "id": 4183,
     "level": "critical",
     "country": "🌍",
     "text": "Kenya : protestation contre la hausse du carburant, quatre morts et plus de tren",
@@ -54,7 +54,7 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 6746,
+    "id": 4179,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : Trump dit avoir annulé des frappes et se dit optimiste sur les négociatio",
@@ -63,7 +63,16 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 5065,
+    "id": 1541,
+    "level": "high",
+    "country": "🌍",
+    "text": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
+  },
+  {
+    "id": 2583,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1753,
+    "id": 9873,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3734,
+    "id": 9219,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9408,
+    "id": 751,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3562,
+    "id": 5676,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5508,
+    "id": 1182,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 174,
+    "id": 4173,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +135,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 6766,
+    "id": 229,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +144,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4246,
+    "id": 6697,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +153,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 4172,
+    "id": 1632,
     "level": "medium",
     "country": "🌍",
     "text": "Two-and-a-half centuries of rainforest protection in Tobago",
@@ -153,7 +162,7 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 7003,
+    "id": 7802,
     "level": "medium",
     "country": "🌍",
     "text": "How Russians used to protest and managed to prevent some ecological disasters",
@@ -162,21 +171,12 @@
     "time": "Mon, 18 May 2026"
   },
   {
-    "id": 1775,
+    "id": 1972,
     "level": "medium",
     "country": "🌍",
     "text": "Human rights concerns abound over China’s ‘state secrets’ regulation in the Uygh",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
     "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 2519,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How nature-based solutions can help vulnerable and marginalized communities over",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/17/how-nature-based-solutions-can-help-vulnerable-and-marginalized-communities-overcome-climate-injustice/",
-    "time": "Sun, 17 May 2026"
   }
 ]
