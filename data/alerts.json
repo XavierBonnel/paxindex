@@ -1,6 +1,6 @@
 [
   {
-    "id": 5987,
+    "id": 259,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,43 +9,79 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5426,
+    "id": 2920,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+    "text": "At least 10 dead as huge floods sweep southern and central China",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/19/at-least-10-dead-as-huge-floods-sweep-southern-and-central-china?traffic_source=rss",
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 3164,
+    "id": 3757,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+    "text": "San Diego mosque shooting: What we know about the victims and the attackers",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/19/san-diego-mosque-shooting-what-we-know-about-the-victims-and-the-attackers?traffic_source=rss",
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 908,
+    "id": 3771,
     "level": "critical",
     "country": "🌍",
-    "text": "US suspends joint defence effort with Canada dating back to World War II",
+    "text": "Gunmen abduct 39 students, 7 teachers in attacks on Nigeria schools",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
-    "time": "Mon, 18 May 2026"
+    "link": "https://www.aljazeera.com/news/2026/5/19/gunmen-abduct-39-students-7-teachers-in-attacks-on-nigeria-schools?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
   },
   {
-    "id": 2310,
+    "id": 8402,
     "level": "critical",
     "country": "🌍",
-    "text": "États-Unis : trois morts dans une mosquée de San Diego, les deux tireurs présumé",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260518-%C3%A9tats-unis-trois-morts-dans-une-mosqu%C3%A9e-de-san-diego-les-deux-tireurs-pr%C3%A9sum%C3%A9s-retrouv%C3%A9s-morts",
-    "time": "Mon, 18 May 2026"
+    "text": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
   },
   {
-    "id": 381,
+    "id": 277,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Los Angeles World Cup stadium workers threaten strike over ICE deployment",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/19/los-angeles-world-cup-stadium-workers-threaten-strike-over-ice-deployment?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
+  },
+  {
+    "id": 1655,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestine weekly wrap: Jerusalem Day, Nakba mark week of surging attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/19/palestine-weekly-wrap-jerusalem-day-nakba-surging-attacks?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
+  },
+  {
+    "id": 9360,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian strike damages Ukraine Danube port as Moscow intercepts drones",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/19/russian-strike-damages-ukraine-danube-port-as-moscow-intercepts-drones?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
+  },
+  {
+    "id": 4860,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+    "time": "Tue, 19 May 2026"
+  },
+  {
+    "id": 339,
     "level": "high",
     "country": "🌍",
     "text": "La Russie annonce trois jours d'exercices nucléaires du 19 au 21 mai",
@@ -54,7 +90,7 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 9052,
+    "id": 428,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -63,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1668,
+    "id": 2421,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9184,
+    "id": 9906,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 134,
+    "id": 2398,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8693,
+    "id": 7212,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 928,
+    "id": 4666,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1282,
+    "id": 8081,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5375,
+    "id": 6568,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -126,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 234,
+    "id": 6372,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -135,48 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5627,
+    "id": 3822,
     "level": "medium",
     "country": "🌍",
-    "text": "How Russians used to protest and managed to prevent some ecological disasters",
+    "text": "Two-and-a-half centuries of rainforest protection in Tobago",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/how-russians-used-to-protest-and-managed-to-prevent-some-ecological-disasters/",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 2873,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Human rights concerns abound over China’s ‘state secrets’ regulation in the Uygh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 872,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How nature-based solutions can help vulnerable and marginalized communities over",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/17/how-nature-based-solutions-can-help-vulnerable-and-marginalized-communities-overcome-climate-injustice/",
-    "time": "Sun, 17 May 2026"
-  },
-  {
-    "id": 9882,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Across Latin America, May Day protests highlight workers’ struggles and solidari",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/16/across-latin-america-may-day-protests-highlight-workers-struggles-and-solidarity/",
-    "time": "Sat, 16 May 2026"
-  },
-  {
-    "id": 9499,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anatomy of a coverage: The making of Global Voices Spotlight",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/16/anatomy-of-a-coverage-the-making-of-global-voices-spotlight/",
-    "time": "Sat, 16 May 2026"
+    "link": "https://globalvoices.org/2026/05/19/two-and-a-half-centuries-of-rainforest-protection-in-tobago/",
+    "time": "Tue, 19 May 2026"
   }
 ]
