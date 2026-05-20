@@ -1,6 +1,6 @@
 [
   {
-    "id": 93,
+    "id": 977,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 288,
+    "id": 9426,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nigeria says joint US strikes kill 175 ISIL fighters in country’s northeast",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/20/nigeria-says-joint-us-strikes-kill-175-isil-fighters-in-countrys-northeast?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 4062,
     "level": "critical",
     "country": "🌍",
     "text": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
@@ -18,7 +27,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 4726,
+    "id": 9852,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Tehran warns of ‘many more surprises’ if conflict resumes",
@@ -27,7 +36,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 740,
+    "id": 1014,
     "level": "critical",
     "country": "🌍",
     "text": "US authorities say missionary who contracted Ebola en route to Germany",
@@ -36,16 +45,16 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 7819,
+    "id": 9530,
     "level": "critical",
     "country": "🌍",
-    "text": "Video shows oil spill on Iranian island after refinery attack last month",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss",
-    "time": "Tue, 19 May 2026"
+    "text": "Moyen-Orient en direct : Donald Trump participera au sommet du G7 en France en j",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260520-moyen-orient-en-direct-donald-trump-participera-au-sommet-du-g7-en-france-en-juin",
+    "time": "Wed, 20 May 2026"
   },
   {
-    "id": 4773,
+    "id": 765,
     "level": "critical",
     "country": "🌍",
     "text": "Des frappes aériennes menées par le Nigeria avec les États-Unis tuent 175 membre",
@@ -54,7 +63,16 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 8799,
+    "id": 6070,
+    "level": "high",
+    "country": "🌍",
+    "text": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/vance-us-locked-and-loaded-for-military-action-if-iran-talks-fail?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 3540,
     "level": "high",
     "country": "🌍",
     "text": "Au G7, Washington fait cavalier seul pour une nouvelle dérogation sur les sancti",
@@ -63,7 +81,7 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 4012,
+    "id": 7489,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4461,
+    "id": 4995,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5489,
+    "id": 3563,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2301,
+    "id": 7432,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8994,
+    "id": 699,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8259,
+    "id": 9642,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9876,
+    "id": 5952,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9038,
+    "id": 8139,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +153,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7778,
+    "id": 68,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,7 +162,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 2918,
+    "id": 9083,
     "level": "medium",
     "country": "🌍",
     "text": "Reporting when the internet goes dark: How journalists find workarounds when cut",
@@ -153,30 +171,12 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 7384,
+    "id": 9973,
     "level": "medium",
     "country": "🌍",
     "text": "Two-and-a-half centuries of rainforest protection in Tobago",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/19/two-and-a-half-centuries-of-rainforest-protection-in-tobago/",
     "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 2421,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Russians used to protest and managed to prevent some ecological disasters",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/how-russians-used-to-protest-and-managed-to-prevent-some-ecological-disasters/",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 4349,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Human rights concerns abound over China’s ‘state secrets’ regulation in the Uygh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
-    "time": "Mon, 18 May 2026"
   }
 ]
