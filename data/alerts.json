@@ -1,6 +1,6 @@
 [
   {
-    "id": 2127,
+    "id": 9219,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,25 +9,61 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7067,
+    "id": 2556,
     "level": "critical",
     "country": "🌍",
-    "text": "Daughter honours security guard father killed while protecting mosque",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/daughter-honours-security-guard-father-killed-while-protecting-mosque?traffic_source=rss",
+    "text": "The illusion of online public opinion in Lebanon’s political conflicts",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/20/the-illusion-of-online-public-opinion-in-lebanons-political-conflicts/",
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 5965,
+    "id": 3597,
     "level": "critical",
     "country": "🌍",
-    "text": "Fear grips eastern DR Congo amid deadly Ebola outbreak",
+    "text": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/aje-onl-nf_sv_fear-grips-eastern-dr-congo-amid-ebola-outbreak-200526?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine?traffic_source=rss",
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 50,
+    "id": 5348,
+    "level": "critical",
+    "country": "🌍",
+    "text": "San Diego mosque shooting: Who were the victims?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/20/san-diego-mosque-shooting-who-were-the-victims?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 9207,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/20/at-least-87-gaza-aid-flotilla-activists-abducted-by-israel-on-hunger-strike?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 9175,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 8803,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 3853,
     "level": "critical",
     "country": "🌍",
     "text": "Endeuillée par la tuerie de San Diego, la communauté musulmane dans l'incompréhe",
@@ -36,7 +72,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 4666,
+    "id": 3249,
     "level": "critical",
     "country": "🌍",
     "text": "En Corée du sud, une grève géante chez Samsung qui bouscule toute la filière de ",
@@ -45,25 +81,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 8006,
-    "level": "critical",
+    "id": 3791,
+    "level": "high",
     "country": "🌍",
-    "text": "Xi Jinping reçoit Vladimir Poutine pour réaffirmer la solidité des relations sin",
+    "text": "Laetitia Saint-Paul (Horizons) : \"36 milliards d'euros pour les armées, un effor",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260520-chine-russie-xi-jinping-recoit-vladimir-poutine-trump",
+    "link": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20260520-laetitia-saint-paul-horizons-36-milliards-d-euros-pour-les-arm%C3%A9es-un-effort-indispensable",
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 7910,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Moyen-Orient en direct : trois pétroliers, ⁠chinois et sud-coréen, traversent le",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260520-moyen-orient-en-direct-donald-trump-participera-au-sommet-du-g7-en-france-en-juin",
-    "time": "Wed, 20 May 2026"
-  },
-  {
-    "id": 7620,
+    "id": 6529,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 473,
+    "id": 3301,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 198,
+    "id": 211,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1870,
+    "id": 4354,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3607,
+    "id": 793,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7314,
+    "id": 1306,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1910,
+    "id": 5680,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9821,
+    "id": 1421,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 5733,
+    "id": 3337,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -144,39 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 7421,
+    "id": 5513,
     "level": "medium",
     "country": "🌍",
     "text": "Reporting when the internet goes dark: How journalists find workarounds when cut",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/19/reporting-when-the-internet-goes-dark-how-journalists-find-workarounds-when-cut-off/",
     "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 3379,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Two-and-a-half centuries of rainforest protection in Tobago",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/19/two-and-a-half-centuries-of-rainforest-protection-in-tobago/",
-    "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 7302,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Russians used to protest and managed to prevent some ecological disasters",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/how-russians-used-to-protest-and-managed-to-prevent-some-ecological-disasters/",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 2553,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Human rights concerns abound over China’s ‘state secrets’ regulation in the Uygh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
-    "time": "Mon, 18 May 2026"
   }
 ]
