@@ -1,6 +1,6 @@
 [
   {
-    "id": 977,
+    "id": 8259,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,25 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9426,
+    "id": 117,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Daughter honours security guard father killed while protecting mosque",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/daughter-honours-security-guard-father-killed-while-protecting-mosque?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 8085,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fear grips eastern DR Congo amid deadly Ebola outbreak",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/aje-onl-nf_sv_fear-grips-eastern-dr-congo-amid-ebola-outbreak-200526?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 9222,
     "level": "critical",
     "country": "🌍",
     "text": "Nigeria says joint US strikes kill 175 ISIL fighters in country’s northeast",
@@ -18,7 +36,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 4062,
+    "id": 6653,
     "level": "critical",
     "country": "🌍",
     "text": "US Senate advances resolution to curb Trump’s power to wage war on Iran",
@@ -27,25 +45,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9852,
+    "id": 9647,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Tehran warns of ‘many more surprises’ if conflict resumes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes?traffic_source=rss",
+    "text": "Xi Jinping reçoit Vladimir Poutine pour réaffirmer la solidité des relations sin",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260520-chine-russie-xi-jinping-recoit-vladimir-poutine-trump",
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 1014,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US authorities say missionary who contracted Ebola en route to Germany",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/19/us-authorities-say-missionary-who-contracted-ebola-en-route-to-germany?traffic_source=rss",
-    "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 9530,
+    "id": 376,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient en direct : Donald Trump participera au sommet du G7 en France en j",
@@ -54,16 +63,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 765,
-    "level": "critical",
+    "id": 2380,
+    "level": "high",
     "country": "🌍",
-    "text": "Des frappes aériennes menées par le Nigeria avec les États-Unis tuent 175 membre",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260519-nigeria-175-membres-de-ei-tues-frappes-aeriennes-etats-unis-jihadistes-boko-haram-terrorisme",
-    "time": "Tue, 19 May 2026"
+    "text": "oPt: Gaza: Israel Curbs Aid, Kills Civilians During Ceasefire [EN/AR]",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-israel-curbs-aid-kills-civilians-during-ceasefire-enar",
+    "time": "Wed, 20 May 2026"
   },
   {
-    "id": 6070,
+    "id": 2079,
     "level": "high",
     "country": "🌍",
     "text": "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
@@ -72,7 +81,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 3540,
+    "id": 7888,
     "level": "high",
     "country": "🌍",
     "text": "Au G7, Washington fait cavalier seul pour une nouvelle dérogation sur les sancti",
@@ -81,7 +90,7 @@
     "time": "Tue, 19 May 2026"
   },
   {
-    "id": 7489,
+    "id": 4316,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4995,
+    "id": 3699,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3563,
+    "id": 8404,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7432,
+    "id": 6861,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 699,
+    "id": 8496,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9642,
+    "id": 809,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5952,
+    "id": 32,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8139,
+    "id": 6246,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 68,
+    "id": 2491,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -162,21 +171,12 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 9083,
+    "id": 341,
     "level": "medium",
     "country": "🌍",
     "text": "Reporting when the internet goes dark: How journalists find workarounds when cut",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/19/reporting-when-the-internet-goes-dark-how-journalists-find-workarounds-when-cut-off/",
-    "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 9973,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Two-and-a-half centuries of rainforest protection in Tobago",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/19/two-and-a-half-centuries-of-rainforest-protection-in-tobago/",
     "time": "Tue, 19 May 2026"
   }
 ]
