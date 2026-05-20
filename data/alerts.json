@@ -1,6 +1,6 @@
 [
   {
-    "id": 4546,
+    "id": 8424,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8795,
+    "id": 2089,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -18,7 +18,43 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 4378,
+    "id": 1191,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Ms. Edem Wosornu, Director, Crisis Response Division, OCHA, on behalf of ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/ms-edem-wosornu-director-crisis-response-division-ocha-behalf-mr-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-open-debate-protection-civilians-armed-conflict-20-may-2026",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 9995,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 19 May 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-19-may-2026",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 9033,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Strait of Hormuz conflict threatens global food prices as FAO warns time ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/strait-hormuz-conflict-threatens-global-food-prices-fao-warns-time-running-out",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 1622,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Controlled reopening ends Iran’s lengthy stock market shutdown",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 6070,
     "level": "critical",
     "country": "🌍",
     "text": "At least eight killed in Israel’s air attacks on southern Lebanon",
@@ -27,7 +63,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 7607,
+    "id": 7541,
     "level": "critical",
     "country": "🌍",
     "text": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
@@ -36,25 +72,43 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 8772,
+    "id": 5981,
     "level": "critical",
     "country": "🌍",
-    "text": "Families demand justice for victims killed in Israeli strikes on Beirut",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
-    "time": "Wed, 20 May 2026"
-  },
-  {
-    "id": 6593,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Chine centrale : pluies torrentielles et inondations, le bilan grimpe à 22 morts",
+    "text": "Cannes 2026 : la Seconde Guerre mondiale au cœur de la compétition",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260520-chine-centrale-pluies-torrentielles-et-inondations-le-bilan-grimpe-%C3%A0-22-morts-et-20-disparus",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260520-cannes-2026-la-seconde-guerre-mondiale-au-c%C5%93ur-de-la-comp%C3%A9tition",
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9359,
+    "id": 3407,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Charles de Gaulle et la Résistance : l'Histoire de France à l'honneur à Cannes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260520-charles-de-gaulle-et-la-r%C3%A9sistance-l-histoire-de-france-%C3%A0-l-honneur-%C3%A0-cannes",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 6987,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"Star Wars\" revient sur grand écran, loin du Festival de Cannes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260520-star-wars-revient-sur-grand-%C3%A9cran-loin-du-festival-de-cannes",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 8084,
+    "level": "high",
+    "country": "🌍",
+    "text": "Trump administration indicts Cuba’s Raul Castro over 1996 plane shootdown",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/20/trump-administration-indicts-cubas-raul-castro-over-1996-plane-shootdown?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 4293,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -63,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9670,
+    "id": 6808,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6445,
+    "id": 6666,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2571,
+    "id": 6271,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 983,
+    "id": 4562,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5024,
+    "id": 5073,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -108,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 581,
+    "id": 9592,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -117,66 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5559,
+    "id": 4746,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 9588,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 3847,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Dominican Republic: Is protecting your environment a way to love your country?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/20/dominican-republic-is-protecting-your-environment-a-way-to-love-your-country/",
-    "time": "Wed, 20 May 2026"
-  },
-  {
-    "id": 1454,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Reporting when the internet goes dark: How journalists find workarounds when cut",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/19/reporting-when-the-internet-goes-dark-how-journalists-find-workarounds-when-cut-off/",
-    "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 2744,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Two-and-a-half centuries of rainforest protection in Tobago",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/19/two-and-a-half-centuries-of-rainforest-protection-in-tobago/",
-    "time": "Tue, 19 May 2026"
-  },
-  {
-    "id": 2871,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Russians used to protest and managed to prevent some ecological disasters",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/how-russians-used-to-protest-and-managed-to-prevent-some-ecological-disasters/",
-    "time": "Mon, 18 May 2026"
-  },
-  {
-    "id": 7772,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Human rights concerns abound over China’s ‘state secrets’ regulation in the Uygh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/18/human-rights-concerns-abound-over-chinas-state-secrets-regulation-in-the-uyghur-region/",
-    "time": "Mon, 18 May 2026"
   }
 ]
