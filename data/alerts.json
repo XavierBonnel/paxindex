@@ -1,6 +1,6 @@
 [
   {
-    "id": 9219,
+    "id": 8291,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2556,
+    "id": 1863,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -18,7 +18,25 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 3597,
+    "id": 6181,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Philippines top court rejects bid to block arrest of senator wanted by ICC",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/20/philippines-top-court-rejects-bid-to-block-arrest-of-senator-wanted-by-icc?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 8242,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Kenya transport strike paused after deadly protests",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/5/20/kenya-transport-strike-paused-after-deadly-protests?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 3903,
     "level": "critical",
     "country": "🌍",
     "text": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
@@ -27,7 +45,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 5348,
+    "id": 6053,
     "level": "critical",
     "country": "🌍",
     "text": "San Diego mosque shooting: Who were the victims?",
@@ -36,7 +54,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9207,
+    "id": 1588,
     "level": "critical",
     "country": "🌍",
     "text": "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
@@ -45,52 +63,34 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9175,
+    "id": 6894,
     "level": "critical",
     "country": "🌍",
-    "text": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss",
-    "time": "Wed, 20 May 2026"
-  },
-  {
-    "id": 8803,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss",
-    "time": "Wed, 20 May 2026"
-  },
-  {
-    "id": 3853,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Endeuillée par la tuerie de San Diego, la communauté musulmane dans l'incompréhe",
+    "text": "États-Unis : le FBI évoque une radicalisation après l'attaque contre une mosquée",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260520-endeuill%C3%A9e-par-la-tuerie-de-san-diego-la-communaut%C3%A9-musulmane-dans-l-incompr%C3%A9hension",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260520-%C3%A9tats-unis-le-fbi-%C3%A9voque-une-radicalisation-apr%C3%A8s-l-attaque-contre-une-mosqu%C3%A9e",
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 3249,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Corée du sud, une grève géante chez Samsung qui bouscule toute la filière de ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260520-en-cor%C3%A9e-du-sud-une-gr%C3%A8ve-g%C3%A9ante-chez-samsung-qui-bouscule-toute-la-fili%C3%A8re-de-l-ia",
-    "time": "Wed, 20 May 2026"
-  },
-  {
-    "id": 3791,
+    "id": 3683,
     "level": "high",
     "country": "🌍",
-    "text": "Laetitia Saint-Paul (Horizons) : \"36 milliards d'euros pour les armées, un effor",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20260520-laetitia-saint-paul-horizons-36-milliards-d-euros-pour-les-arm%C3%A9es-un-effort-indispensable",
+    "text": "Lebanon: WeWorld Flash Update #4 – Humanitarian needs persist despite Ceasefire ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/weworld-flash-update-4-humanitarian-needs-persist-despite-ceasefire-19-may-2026",
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 6529,
+    "id": 6348,
+    "level": "high",
+    "country": "🌍",
+    "text": "UK eases sanctions on Russian oil imports as fuel prices soar",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/20/uk-eases-sanctions-on-russian-oil-imports-as-fuel-prices-soar?traffic_source=rss",
+    "time": "Wed, 20 May 2026"
+  },
+  {
+    "id": 534,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3301,
+    "id": 2911,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 211,
+    "id": 2263,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4354,
+    "id": 9977,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 793,
+    "id": 9029,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1306,
+    "id": 1485,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5680,
+    "id": 429,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1421,
+    "id": 3151,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3337,
+    "id": 6826,
     "level": "medium",
     "country": "🌍",
     "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
@@ -171,7 +171,7 @@
     "time": "2026-01-23T15:15"
   },
   {
-    "id": 5513,
+    "id": 5155,
     "level": "medium",
     "country": "🌍",
     "text": "Reporting when the internet goes dark: How journalists find workarounds when cut",
