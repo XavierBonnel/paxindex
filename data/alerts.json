@@ -1,6 +1,6 @@
 [
   {
-    "id": 2312,
+    "id": 202,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4512,
+    "id": 6502,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -18,7 +18,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 1072,
+    "id": 5262,
     "level": "critical",
     "country": "🌍",
     "text": "Indonesians sue government over deadly Sumatra flood response",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 421,
+    "id": 6110,
     "level": "critical",
     "country": "🌍",
     "text": "US lifts sanctions on Francesca Albanese, UN expert on Palestinian rights",
@@ -36,7 +36,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 6729,
+    "id": 519,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Tehran says no surrender to US, diplomacy ‘wiser’ than war",
@@ -45,7 +45,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 9022,
+    "id": 3628,
     "level": "critical",
     "country": "🌍",
     "text": "US police officers sue Trump over $1.8bn ‘anti-weaponisation’ fund",
@@ -54,7 +54,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 8174,
+    "id": 1652,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Drones et guerre hybride : pourquoi la Lettonie se retrouve dans le viseur des e",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260521-drones-et-guerre-hybride-pourquoi-la-lettonie-se-retrouve-dans-le-viseur-des-espions-russes",
+    "time": "Thu, 21 May 2026"
+  },
+  {
+    "id": 9956,
     "level": "critical",
     "country": "🌍",
     "text": "Cannes 2026 : la Seconde Guerre mondiale au cœur de la compétition",
@@ -63,25 +72,25 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9047,
+    "id": 6475,
     "level": "high",
     "country": "🌍",
-    "text": "US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss",
-    "time": "Wed, 20 May 2026"
-  },
-  {
-    "id": 8740,
-    "level": "high",
-    "country": "🌍",
-    "text": "Moyen-Orient en direct : Washington lève les sanctions contre la rapporteure de ",
+    "text": "Moyen-Orient en direct : Washington lève les sanctions contre la rapporteure de ",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260521-moyen-orient-en-direct-iran-donald-trump-gaza-liban-etats-unis",
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5968,
+    "id": 6394,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 9692,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9856,
+    "id": 8955,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6185,
+    "id": 1413,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8738,
+    "id": 9623,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1909,
+    "id": 2779,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9605,
+    "id": 9220,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9867,
+    "id": 1726,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 2703,
+    "id": 820,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,16 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 3782,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statement About Robert E. Hunter, Former U.S. Ambassador to NATO",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-23T15:15"
-  },
-  {
-    "id": 7364,
+    "id": 848,
     "level": "medium",
     "country": "🌍",
     "text": "Dominican Republic: Is protecting your environment a way to love your country?",
@@ -171,7 +171,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 6905,
+    "id": 8754,
     "level": "medium",
     "country": "🌍",
     "text": "Reporting when the internet goes dark: How journalists find workarounds when cut",
