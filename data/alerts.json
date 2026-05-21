@@ -1,6 +1,6 @@
 [
   {
-    "id": 5010,
+    "id": 4844,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4240,
+    "id": 3945,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 526,
+    "id": 9539,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 2645,
+    "id": 2517,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,25 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9258,
+    "id": 2833,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+    "time": "Thu, 21 May 2026"
+  },
+  {
+    "id": 3006,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
+    "time": "Thu, 21 May 2026"
+  },
+  {
+    "id": 6255,
     "level": "critical",
     "country": "🌍",
     "text": "US sanctions elected Hezbollah MPs and Lebanese security officials",
@@ -45,7 +63,16 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 2374,
+    "id": 9652,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali : Cet avion n'a pas été accidenté par une frappe de drone",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260521-mali-cet-avion-n-a-pas-%C3%A9t%C3%A9-accident%C3%A9-par-une-frappe-de-drone",
+    "time": "Thu, 21 May 2026"
+  },
+  {
+    "id": 2775,
     "level": "critical",
     "country": "🌍",
     "text": "Prix des carburants : le gouvernement français complète les aides face à la cris",
@@ -54,16 +81,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 7623,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Turquie : des inondations meurtrières dans le sud du pays",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260521-turquie-des-inondations-meurtri%C3%A8res-dans-le-sud-du-pays",
-    "time": "Thu, 21 May 2026"
-  },
-  {
-    "id": 9171,
+    "id": 4681,
     "level": "high",
     "country": "🌍",
     "text": "Ebola tensions rise as treatment centre torched in DR Congo’s Ituri",
@@ -72,7 +90,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 4490,
+    "id": 813,
     "level": "high",
     "country": "🌍",
     "text": "Non, Marc Rubio n’a pas annoncé le retrait total des troupes américaines d’Europ",
@@ -81,7 +99,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 3989,
+    "id": 7494,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1410,
+    "id": 6454,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9767,
+    "id": 6013,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 939,
+    "id": 6524,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1384,
+    "id": 1288,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3660,
+    "id": 5504,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9616,
+    "id": 8318,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9668,
+    "id": 6809,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,30 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1334,
+    "id": 1156,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 6390,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Dominican Republic: Is protecting your environment a way to love your country?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/20/dominican-republic-is-protecting-your-environment-a-way-to-love-your-country/",
-    "time": "Wed, 20 May 2026"
-  },
-  {
-    "id": 1391,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Reporting when the internet goes dark: How journalists find workarounds when cut",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/19/reporting-when-the-internet-goes-dark-how-journalists-find-workarounds-when-cut-off/",
-    "time": "Tue, 19 May 2026"
   }
 ]
