@@ -1,6 +1,6 @@
 [
   {
-    "id": 277,
+    "id": 314,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7978,
+    "id": 9058,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 3457,
+    "id": 3650,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 14,
+    "id": 145,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 4575,
+    "id": 9560,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon’s economy struggles under renewed war and global fuel crisis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/5/22/lebanons-economy-struggles-under-renewed-war-and-global-fuel-crisis?traffic_source=rss",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 9417,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 84: US-Iran talks advance amid mediation push",
@@ -45,7 +54,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 4997,
+    "id": 8343,
     "level": "critical",
     "country": "🌍",
     "text": "Monfils warms up for final French Open with star-studded farewell party",
@@ -54,7 +63,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 5020,
+    "id": 2352,
     "level": "critical",
     "country": "🌍",
     "text": "Thousands attend funeral prayers for San Diego mosque attack victims",
@@ -63,25 +72,25 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 1796,
+    "id": 7643,
     "level": "critical",
     "country": "🌍",
-    "text": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
+    "text": "Lettonie : la main tendue à l’Ukraine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/reporters/20260522-lettonie-la-main-tendue-%C3%A0-l-ukraine",
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 5140,
-    "level": "critical",
+    "id": 8458,
+    "level": "high",
     "country": "🌍",
-    "text": "Mali : Cet avion n'a pas été accidenté par une frappe de drone",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260521-mali-cet-avion-n-a-pas-%C3%A9t%C3%A9-accident%C3%A9-par-une-frappe-de-drone",
-    "time": "Thu, 21 May 2026"
+    "text": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/22/us-deepens-european-uncertainty-with-deployment-of-5000-troops-to-poland?traffic_source=rss",
+    "time": "Fri, 22 May 2026"
   },
   {
-    "id": 2916,
+    "id": 643,
     "level": "high",
     "country": "🌍",
     "text": "US raises threat of military action against Cuba",
@@ -90,7 +99,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 7065,
+    "id": 4918,
     "level": "high",
     "country": "🌍",
     "text": "Otan : les Européens en Suède pour tenter d’apaiser les tensions avec Washington",
@@ -99,7 +108,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 5886,
+    "id": 3813,
     "level": "high",
     "country": "🌍",
     "text": "Iran en direct : l'armée américaine en \"état d'alerte maximale\", le Pakistan pou",
@@ -108,7 +117,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 4556,
+    "id": 7613,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7259,
+    "id": 8544,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 986,
+    "id": 5628,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4105,
+    "id": 4687,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2588,
+    "id": 133,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2353,
+    "id": 9410,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8804,
+    "id": 4760,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 3677,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
   }
 ]
