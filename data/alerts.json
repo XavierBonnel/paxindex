@@ -1,6 +1,6 @@
 [
   {
-    "id": 314,
+    "id": 4527,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9058,
+    "id": 5424,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 3650,
+    "id": 2644,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 145,
+    "id": 2271,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9560,
+    "id": 851,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tuchel leaves Palmer and Foden out of England’s 2026 World Cup squad",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/22/tuchel-leaves-palmer-and-foden-out-of-englands-2026-world-cup-squad?traffic_source=rss",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 9341,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon’s economy struggles under renewed war and global fuel crisis",
@@ -45,7 +54,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 9417,
+    "id": 9332,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 84: US-Iran talks advance amid mediation push",
@@ -54,7 +63,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 8343,
+    "id": 529,
     "level": "critical",
     "country": "🌍",
     "text": "Monfils warms up for final French Open with star-studded farewell party",
@@ -63,25 +72,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 2352,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Thousands attend funeral prayers for San Diego mosque attack victims",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-attend-funeral-prayers-for-san-diego-mosque-attack-victims?traffic_source=rss",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 7643,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Lettonie : la main tendue à l’Ukraine",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/reporters/20260522-lettonie-la-main-tendue-%C3%A0-l-ukraine",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 8458,
+    "id": 3191,
     "level": "high",
     "country": "🌍",
     "text": "US deepens European uncertainty with deployment of 5,000 troops to Poland",
@@ -90,7 +81,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 643,
+    "id": 4446,
     "level": "high",
     "country": "🌍",
     "text": "US raises threat of military action against Cuba",
@@ -99,25 +90,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 4918,
-    "level": "high",
-    "country": "🌍",
-    "text": "Otan : les Européens en Suède pour tenter d’apaiser les tensions avec Washington",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260522-otan-les-europ%C3%A9ens-en-su%C3%A8de-pour-tenter-d-apaiser-les-tensions-avec-washington",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 3813,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran en direct : l'armée américaine en \"état d'alerte maximale\", le Pakistan pou",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260522-en-direct-moyen-orient-iran-etats-unis-espoir-progres-diplomatie-otan-trump",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 7613,
+    "id": 2746,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8544,
+    "id": 7692,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5628,
+    "id": 6861,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4687,
+    "id": 5833,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 133,
+    "id": 6170,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9410,
+    "id": 5233,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +144,39 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4760,
+    "id": 9785,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 9731,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 7613,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-01-29T08:00"
+  },
+  {
+    "id": 1538,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How AI is upgrading African dictatorship",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/22/how-ai-is-upgrading-african-dictatorship/",
+    "time": "Fri, 22 May 2026"
   }
 ]
