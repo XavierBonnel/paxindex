@@ -1,6 +1,6 @@
 [
   {
-    "id": 5294,
+    "id": 8624,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2528,
+    "id": 6249,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 2539,
+    "id": 8244,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5376,
+    "id": 3182,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,61 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 4979,
+    "id": 7489,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Chad - Food Security Outlook Update : Refugee impacts are driving income and con",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/chad/chad-food-security-outlook-update-refugee-impacts-are-driving-income-and-consumption-toward-crisis-ipc-phase-3-april-september-2026",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 3932,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mali: Food Security Outlook Update - Reduced food access worsening acute food in",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/mali/mali-food-security-outlook-update-reduced-food-access-worsening-acute-food-insecurity-north-and-center-april-september-2026",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 1195,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Niger - Food Security Outlook Update : Insecurity continues to deteriorate in Ti",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/niger/niger-food-security-outlook-update-insecurity-continues-deteriorate-tillabery-diffa-tahoua-and-dosso-regions-april-september-2026",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 3024,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Central African Republic - Food Security Outlook Update : Insecurity is prolongi",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/central-african-republic/central-african-republic-food-security-outlook-update-insecurity-prolonging-crisis-ipc-phase-lean-season-starts-south-april-september-2026",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 1870,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Togo - Key Message Update: Increasing food assistance needs in the north at the ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/togo/togo-key-message-update-increasing-food-assistance-needs-north-start-rainy-season-april-september-2026",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 47,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Democratic Republic of the Congo - Food Security Outlook Update: Escalation of v",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo-food-security-outlook-update-escalation-violence-continues-worsen-food-insecurity-conflict-affected-zones-april-september-2026",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 8528,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
@@ -45,7 +99,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 185,
+    "id": 1393,
     "level": "critical",
     "country": "🌍",
     "text": "US says it has not changed its stance on sanctioning Francesca Albanese",
@@ -54,7 +108,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5237,
+    "id": 7524,
     "level": "critical",
     "country": "🌍",
     "text": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
@@ -63,7 +117,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 734,
+    "id": 282,
     "level": "critical",
     "country": "🌍",
     "text": "At least 16 people killed in two attacks in northern Honduras",
@@ -72,7 +126,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5710,
+    "id": 3339,
     "level": "critical",
     "country": "🌍",
     "text": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
@@ -81,16 +135,16 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 3018,
+    "id": 5136,
     "level": "critical",
     "country": "🌍",
-    "text": "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss",
-    "time": "Thu, 21 May 2026"
+    "text": "Iran en direct : Washington dit son espoir de progrès avec les efforts diplomati",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260522-en-direct-moyen-orient-iran-etats-unis-espoir-progres-diplomatie-otan-trump",
+    "time": "Fri, 22 May 2026"
   },
   {
-    "id": 3703,
+    "id": 6515,
     "level": "critical",
     "country": "🌍",
     "text": "Mali : Cet avion n'a pas été accidenté par une frappe de drone",
@@ -99,7 +153,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 1198,
+    "id": 7667,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9671,
+    "id": 2300,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,66 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1638,
+    "id": 6362,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 8720,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 9587,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 2302,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 3562,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 6109,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 7178,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
   }
 ]
