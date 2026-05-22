@@ -1,6 +1,6 @@
 [
   {
-    "id": 9772,
+    "id": 2103,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9227,
+    "id": 2114,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 334,
+    "id": 8469,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 277,
+    "id": 4046,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,25 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9150,
+    "id": 1944,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russia labels Ukraine attack in occupied Luhansk ‘monstrous crime’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/22/russia-labels-ukraine-attack-in-occupied-luhansk-monstrous-crime?traffic_source=rss",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 7688,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attacks kill several in Lebanon, with health workers targeted",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/22/israeli-attacks-kill-several-in-lebanon-with-health-workers-targeted?traffic_source=rss",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 2008,
     "level": "critical",
     "country": "🌍",
     "text": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
@@ -45,43 +63,25 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 9434,
+    "id": 1064,
     "level": "critical",
     "country": "🌍",
-    "text": "Everest record holder warns of Nepal danger as two Indian mountaineers die",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/22/everest-record-holder-warns-of-nepal-danger-as-two-indian-mountaineers-die?traffic_source=rss",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 7961,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gang violence kills at least 25 in Honduras",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/22/gang-violence-kills-at-least-25-in-honduras?traffic_source=rss",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 1910,
-    "level": "critical",
-    "country": "🌍",
-    "text": "\"Un moment George Floyd\" : en Irlande, colère après la mort d'un Congolais",
+    "text": "Patrimoines en résistance : une exposition pour combattre l'effacement de la mém",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260522-irlande-dublin-la-mort-yves-sakila-rappelle-interpellation-mortelle-raciste-george-floyd-%C3%A9tats-unis",
+    "link": "https://www.france24.com/fr/culture/20260522-patrimoines-resistance-unesco-destruction-guerres-photographies",
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 6532,
+    "id": 7388,
     "level": "high",
     "country": "🌍",
-    "text": "Syrie : des témoins accusent l’armée israélienne d’interpellations arbitraires",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260522-syrie-t%C3%A9moins-accusent-arm%C3%A9e-isra%C3%A9lienne-interpellations-arbitraires-prisons-onu-tortures",
+    "text": "Why is Trump deploying 5,000 troops to Poland?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/22/why-is-trump-deploying-5000-troops-to-poland?traffic_source=rss",
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 2193,
+    "id": 3496,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5976,
+    "id": 2787,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7808,
+    "id": 684,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9832,
+    "id": 412,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9655,
+    "id": 7946,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9699,
+    "id": 4389,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4236,
+    "id": 1632,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9922,
+    "id": 8705,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 9677,
+    "id": 7387,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,21 +162,21 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4507,
+    "id": 2383,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Rosa Pachurí Paraba: How Indigenous women are leading Bolivia’s response to wild",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/22/rosa-pachuri-paraba-how-indigenous-women-are-leading-bolivias-response-to-wildfires/",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 9420,
     "level": "medium",
     "country": "🌍",
     "text": "How AI is upgrading African dictatorship",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/22/how-ai-is-upgrading-african-dictatorship/",
     "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 3939,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Dominican Republic: Is protecting your environment a way to love your country?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/20/dominican-republic-is-protecting-your-environment-a-way-to-love-your-country/",
-    "time": "Wed, 20 May 2026"
   }
 ]
