@@ -1,6 +1,6 @@
 [
   {
-    "id": 1000,
+    "id": 347,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7226,
+    "id": 3610,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 4547,
+    "id": 8727,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 7806,
+    "id": 72,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 5648,
+    "id": 814,
     "level": "critical",
     "country": "🌍",
     "text": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
@@ -45,7 +45,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 8127,
+    "id": 5448,
     "level": "critical",
     "country": "🌍",
     "text": "US Secretary of State kicks off India visit, invites Modi to White House",
@@ -54,7 +54,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 1775,
+    "id": 4713,
     "level": "critical",
     "country": "🌍",
     "text": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
@@ -63,16 +63,25 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 3312,
+    "id": 6268,
     "level": "critical",
     "country": "🌍",
-    "text": "Turkish and Syrian officials detain 10 individuals with alleged ISIL ties",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/23/turkish-and-syrian-officials-detain-10-individuals-with-alleged-isil-ties?traffic_source=rss",
+    "text": "Chine : au moins 82 morts liées à une explosion dans une mine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260523-chine-au-moins-82-morts-li%C3%A9es-%C3%A0-une-explosion-dans-une-mine",
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 5783,
+    "id": 747,
+    "level": "high",
+    "country": "🌍",
+    "text": "Les États-Unis vont continuer à réduire leur présence en Europe, prévient Rubio",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260523-les-%C3%A9tats-unis-vont-continuer-%C3%A0-r%C3%A9duire-leur-pr%C3%A9sence-en-europe-pr%C3%A9vient-rubio",
+    "time": "Sat, 23 May 2026"
+  },
+  {
+    "id": 7192,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6240,
+    "id": 5939,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 867,
+    "id": 6475,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2178,
+    "id": 1133,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9131,
+    "id": 3409,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8419,
+    "id": 2830,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8652,
+    "id": 7529,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1154,
+    "id": 497,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5573,
+    "id": 8100,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 9815,
+    "id": 5168,
     "level": "medium",
     "country": "🌍",
     "text": "When privacy disappears: What life looks like inside displacement shelters in Ga",
@@ -162,21 +171,12 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 1041,
+    "id": 1200,
     "level": "medium",
     "country": "🌍",
     "text": "Rosa Pachurí Paraba: How Monkox indigenous women are leading Bolivia’s response ",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/22/rosa-pachuri-paraba-how-indigenous-women-are-leading-bolivias-response-to-wildfires/",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 8029,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How AI is upgrading African dictatorship",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/22/how-ai-is-upgrading-african-dictatorship/",
     "time": "Fri, 22 May 2026"
   }
 ]
