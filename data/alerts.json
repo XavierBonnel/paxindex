@@ -1,6 +1,6 @@
 [
   {
-    "id": 1450,
+    "id": 7928,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 400,
+    "id": 3876,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 4379,
+    "id": 6352,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 1213,
+    "id": 7468,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,16 +36,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 2179,
+    "id": 8117,
     "level": "critical",
     "country": "🌍",
-    "text": "Colombia: Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/colombia/sembrar-vida-en-medio-del-conflicto-una-huerta-saberes-ancestrales-y-liderazgo-comunitario-en-caqueta",
-    "time": "Fri, 22 May 2026"
+    "text": "Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss",
+    "time": "Sat, 23 May 2026"
   },
   {
-    "id": 744,
+    "id": 8831,
     "level": "critical",
     "country": "🌍",
     "text": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
@@ -54,7 +54,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 1440,
+    "id": 5628,
     "level": "critical",
     "country": "🌍",
     "text": "Missiles to munitions: Does the US risk running out of key weapons?",
@@ -63,34 +63,34 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 7464,
+    "id": 7123,
     "level": "critical",
     "country": "🌍",
-    "text": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+    "text": "En RDC, le désarroi et la colère des proches des victimes d'Ebola",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260523-en-rdc-le-d%C3%A9sarroi-et-la-col%C3%A8re-des-proches-des-victimes-d-ebola",
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 8928,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war day 85: Tehran says major gaps remain in US talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
-    "time": "Sat, 23 May 2026"
-  },
-  {
-    "id": 3813,
+    "id": 2509,
     "level": "high",
     "country": "🌍",
-    "text": "Gas explosion at Chinese coal mine kills at least 90",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+    "text": "Ousmane Sonko limogé : \"Des partisans euphoriques sont venus lui apporter leur s",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260523-ousmane-sonko-limog%C3%A9-des-partisans-euphoriques-sont-venus-lui-apporter-leur-soutien",
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 2915,
+    "id": 7673,
+    "level": "high",
+    "country": "🌍",
+    "text": "En Californie, environ 40 000 personnes évacuées par crainte d'une explosion chi",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260523-californie-environ-40-000-personnes-%C3%A9vacu%C3%A9es-crainte-explosion-chimique",
+    "time": "Sat, 23 May 2026"
+  },
+  {
+    "id": 4214,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9098,
+    "id": 9244,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5374,
+    "id": 4763,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7951,
+    "id": 6227,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6034,
+    "id": 2874,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4116,
+    "id": 6916,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9602,
+    "id": 9603,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5674,
+    "id": 1895,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8927,
+    "id": 8276,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,7 +171,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 623,
+    "id": 8667,
     "level": "medium",
     "country": "🌍",
     "text": "When privacy disappears: What life looks like inside displacement shelters in Ga",
