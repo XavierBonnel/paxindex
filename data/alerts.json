@@ -1,6 +1,6 @@
 [
   {
-    "id": 4771,
+    "id": 6207,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4570,
+    "id": 3065,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 1779,
+    "id": 9799,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 8768,
+    "id": 7306,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 1432,
+    "id": 8878,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Colombia: Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/colombia/sembrar-vida-en-medio-del-conflicto-una-huerta-saberes-ancestrales-y-liderazgo-comunitario-en-caqueta",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 9247,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
@@ -45,7 +54,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 9025,
+    "id": 6777,
     "level": "critical",
     "country": "🌍",
     "text": "San Diego’s Muslims, a mosque, and a city shaken",
@@ -54,7 +63,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 9720,
+    "id": 7279,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : un médiateur pakistanais à Téhéran, des négociations da",
@@ -63,25 +72,16 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 2408,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Choc pétrolier vs déficit : l'impossible équation",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20260522-choc-p%C3%A9trolier-vs-d%C3%A9ficit-l-impossible-%C3%A9quation",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 2760,
+    "id": 8490,
     "level": "high",
     "country": "🌍",
-    "text": "What are the implications of US sanctions in Lebanon?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss",
-    "time": "Fri, 22 May 2026"
+    "text": "Sénégal : le Premier ministre Ousmane Sonko remercié par le président",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260523-s%C3%A9n%C3%A9gal-le-premier-ministre-ousmane-sonko-remerci%C3%A9-par-le-pr%C3%A9sident",
+    "time": "Sat, 23 May 2026"
   },
   {
-    "id": 2568,
+    "id": 4227,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5542,
+    "id": 4215,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3868,
+    "id": 3971,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9609,
+    "id": 5934,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8826,
+    "id": 7183,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1469,
+    "id": 4038,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1136,
+    "id": 8079,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9686,
+    "id": 8430,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 8959,
+    "id": 6560,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -162,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 7856,
+    "id": 2969,
     "level": "medium",
     "country": "🌍",
     "text": "Rosa Pachurí Paraba: How Indigenous women are leading Bolivia’s response to wild",
@@ -171,7 +171,7 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 467,
+    "id": 2304,
     "level": "medium",
     "country": "🌍",
     "text": "How AI is upgrading African dictatorship",
