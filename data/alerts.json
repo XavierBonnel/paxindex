@@ -1,6 +1,6 @@
 [
   {
-    "id": 1958,
+    "id": 1339,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4970,
+    "id": 4576,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 568,
+    "id": 1642,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 2440,
+    "id": 7794,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 2933,
+    "id": 4865,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Turkish and Syrian officials detain 10 individuals with alleged ISIL ties",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/23/turkish-and-syrian-officials-detain-10-individuals-with-alleged-isil-ties?traffic_source=rss",
+    "time": "Sat, 23 May 2026"
+  },
+  {
+    "id": 8297,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli air strike pounds southern Lebanon leaving many injured",
@@ -45,7 +54,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 2554,
+    "id": 6453,
     "level": "critical",
     "country": "🌍",
     "text": "The pollution that outlives war",
@@ -54,7 +63,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 3768,
+    "id": 326,
     "level": "critical",
     "country": "🌍",
     "text": "DR Congo will not change World Cup preparations despite US Ebola warning",
@@ -63,16 +72,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 1408,
-    "level": "critical",
-    "country": "🌍",
-    "text": "China coal mine blast kills at least 90, leaves nine missing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/china-coal-mine-blast-kills-at-least-90-leaves-nine-missing?traffic_source=rss",
-    "time": "Sat, 23 May 2026"
-  },
-  {
-    "id": 4879,
+    "id": 7808,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola : l'épidemie continue de progresser, déjà 177 morts",
@@ -81,7 +81,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 9222,
+    "id": 8144,
     "level": "high",
     "country": "🌍",
     "text": "Ousmane Sonko limogé : \"de nombreux soutiens\" à l'ex-Premier ministre",
@@ -90,7 +90,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 9539,
+    "id": 6861,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2512,
+    "id": 7285,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3232,
+    "id": 3272,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1244,
+    "id": 7888,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4467,
+    "id": 9928,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8153,
+    "id": 9294,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 191,
+    "id": 4858,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6873,
+    "id": 6596,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 4132,
+    "id": 8061,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,7 +171,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 959,
+    "id": 8722,
     "level": "medium",
     "country": "🌍",
     "text": "When privacy disappears: What life looks like inside displacement shelters in Ga",
