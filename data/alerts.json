@@ -1,6 +1,6 @@
 [
   {
-    "id": 7092,
+    "id": 1572,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4668,
+    "id": 4011,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 1712,
+    "id": 7212,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 3345,
+    "id": 7284,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 5561,
+    "id": 8695,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
+    "time": "Sat, 23 May 2026"
+  },
+  {
+    "id": 5581,
     "level": "critical",
     "country": "🌍",
     "text": "Is pragmatism replacing ideology in international affairs?",
@@ -45,7 +54,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 9862,
+    "id": 9654,
     "level": "critical",
     "country": "🌍",
     "text": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
@@ -54,7 +63,7 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 5470,
+    "id": 9926,
     "level": "critical",
     "country": "🌍",
     "text": "Jean Kaseya: \"si cette maladie était en Europe ou aux Etats-Unis, on aurait déjà",
@@ -63,34 +72,16 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 6881,
+    "id": 9586,
     "level": "critical",
     "country": "🌍",
-    "text": "Les États-Unis et l'Iran font état d'une percée dans leurs négociations sur la f",
+    "text": "Donald Trump et l'Iran font état d'une percée dans les négociations sur la fin d",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260523-les-%C3%A9tats-unis-et-l-iran-font-%C3%A9tat-d-une-perc%C3%A9e-dans-leurs-n%C3%A9gociations-sur-la-fin-de-la-guerre",
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 6549,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Chine : au moins 82 morts liées à une explosion dans une mine",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260523-chine-au-moins-82-morts-li%C3%A9es-%C3%A0-une-explosion-dans-une-mine",
-    "time": "Sat, 23 May 2026"
-  },
-  {
-    "id": 7885,
-    "level": "high",
-    "country": "🌍",
-    "text": "Les États-Unis vont continuer à réduire leur présence en Europe, prévient Rubio",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260523-les-%C3%A9tats-unis-vont-continuer-%C3%A0-r%C3%A9duire-leur-pr%C3%A9sence-en-europe-pr%C3%A9vient-rubio",
-    "time": "Sat, 23 May 2026"
-  },
-  {
-    "id": 4391,
+    "id": 9848,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5249,
+    "id": 441,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4776,
+    "id": 4128,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9329,
+    "id": 7184,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6002,
+    "id": 8142,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5961,
+    "id": 6676,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7621,
+    "id": 9161,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4629,
+    "id": 7241,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1281,
+    "id": 8234,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -171,12 +162,21 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 4314,
+    "id": 2183,
     "level": "medium",
     "country": "🌍",
     "text": "When privacy disappears: What life looks like inside displacement shelters in Ga",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/23/when-privacy-disappears-what-life-looks-like-inside-displacement-shelters-in-gaza/",
     "time": "Sat, 23 May 2026"
+  },
+  {
+    "id": 2542,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Rosa Pachurí Paraba: How Monkox indigenous women are leading Bolivia’s response ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/22/rosa-pachuri-paraba-how-indigenous-women-are-leading-bolivias-response-to-wildfires/",
+    "time": "Fri, 22 May 2026"
   }
 ]
