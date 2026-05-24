@@ -1,6 +1,6 @@
 [
   {
-    "id": 512,
+    "id": 2127,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 755,
+    "id": 6723,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 684,
+    "id": 3287,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 6853,
+    "id": 273,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,25 +36,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9720,
+    "id": 4723,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen: Agrometeorological Early Warning Bulletin (20 - 31 May 2026) [EN/AR]",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/yemen/yemen-agrometeorological-early-warning-bulletin-20-31-may-2026-enar",
+    "text": "Israeli attack on Gaza kills three family members, including infant",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 5146,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Colombia: Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/colombia/sembrar-vida-en-medio-del-conflicto-una-huerta-saberes-ancestrales-y-liderazgo-comunitario-en-caqueta",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 6533,
+    "id": 6885,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
@@ -63,7 +54,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 5695,
+    "id": 9623,
     "level": "critical",
     "country": "🌍",
     "text": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
@@ -72,7 +63,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 6036,
+    "id": 7283,
     "level": "critical",
     "country": "🌍",
     "text": "US, Iran inch closer to deal to end the war: What to know",
@@ -81,7 +72,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 5447,
+    "id": 8018,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says US and Iran deal to end war is ‘largely negotiated’",
@@ -90,16 +81,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 2138,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gunman shot dead by Secret Service agents near White House: What we know",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/24/gunman-shot-dead-by-secret-service-agents-near-white-house-what-we-know?traffic_source=rss",
-    "time": "Sun, 24 May 2026"
-  },
-  {
-    "id": 4140,
+    "id": 1008,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis et l'Iran cherchent à finaliser un accord pour la fin de la guerr",
@@ -108,7 +90,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 984,
+    "id": 6390,
     "level": "critical",
     "country": "🌍",
     "text": "Au Pakistan, un attentat à la bombe revendiqué par des militants séparatistes fa",
@@ -117,7 +99,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 2274,
+    "id": 7079,
     "level": "high",
     "country": "🌍",
     "text": "Russia pounds Ukraine’s capital with hypersonic missile",
@@ -126,7 +108,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 3077,
+    "id": 8646,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8890,
+    "id": 4553,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1870,
+    "id": 2973,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6267,
+    "id": 1152,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6820,
+    "id": 5919,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +153,30 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4456,
+    "id": 9748,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 3213,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 9911,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
   }
 ]
