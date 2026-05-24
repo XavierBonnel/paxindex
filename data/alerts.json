@@ -1,6 +1,6 @@
 [
   {
-    "id": 1253,
+    "id": 512,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3560,
+    "id": 755,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 2127,
+    "id": 684,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 8757,
+    "id": 6853,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,34 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 5204,
+    "id": 9720,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen: Agrometeorological Early Warning Bulletin (20 - 31 May 2026) [EN/AR]",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/yemen-agrometeorological-early-warning-bulletin-20-31-may-2026-enar",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 5146,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Colombia: Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/colombia/sembrar-vida-en-medio-del-conflicto-una-huerta-saberes-ancestrales-y-liderazgo-comunitario-en-caqueta",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 6533,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 5695,
     "level": "critical",
     "country": "🌍",
     "text": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
@@ -45,7 +72,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 6370,
+    "id": 6036,
     "level": "critical",
     "country": "🌍",
     "text": "US, Iran inch closer to deal to end the war: What to know",
@@ -54,7 +81,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 8221,
+    "id": 5447,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says US and Iran deal to end war is ‘largely negotiated’",
@@ -63,7 +90,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 5267,
+    "id": 2138,
     "level": "critical",
     "country": "🌍",
     "text": "Gunman shot dead by Secret Service agents near White House: What we know",
@@ -72,34 +99,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 7697,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Yemen war sees scramble for scant resources between displaced and locals",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
-    "time": "Sun, 24 May 2026"
-  },
-  {
-    "id": 958,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Toxic gases hinder rescue efforts inside deadly China mine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/toxic-gases-hinder-rescue-efforts-inside-deadly-china-mine?traffic_source=rss",
-    "time": "Sun, 24 May 2026"
-  },
-  {
-    "id": 2252,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian attacks on Ukraine’s Kyiv kill at least four people",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
-    "time": "Sun, 24 May 2026"
-  },
-  {
-    "id": 1725,
+    "id": 4140,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis et l'Iran cherchent à finaliser un accord pour la fin de la guerr",
@@ -108,16 +108,16 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 8193,
+    "id": 984,
     "level": "critical",
     "country": "🌍",
-    "text": "Au Pakistan, une attaque à la voiture piégée contre un train fait au moins 24 mo",
+    "text": "Au Pakistan, un attentat à la bombe revendiqué par des militants séparatistes fa",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260524-pakistan-au-moins-24-morts-dans-l-attaque-%C3%A0-l-explosif-d-un-train",
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 2855,
+    "id": 2274,
     "level": "high",
     "country": "🌍",
     "text": "Russia pounds Ukraine’s capital with hypersonic missile",
@@ -126,7 +126,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 9157,
+    "id": 3077,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5770,
+    "id": 8890,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6897,
+    "id": 1870,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4403,
+    "id": 6267,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9044,
+    "id": 6820,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,7 +171,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8112,
+    "id": 4456,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
