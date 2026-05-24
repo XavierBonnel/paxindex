@@ -1,6 +1,6 @@
 [
   {
-    "id": 6103,
+    "id": 2370,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8645,
+    "id": 8524,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 7224,
+    "id": 847,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 4549,
+    "id": 8319,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,25 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 4682,
+    "id": 9684,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen: Agrometeorological Early Warning Bulletin (20 - 31 May 2026) [EN/AR]",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/yemen-agrometeorological-early-warning-bulletin-20-31-may-2026-enar",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 5154,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Colombia: Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/colombia/sembrar-vida-en-medio-del-conflicto-una-huerta-saberes-ancestrales-y-liderazgo-comunitario-en-caqueta",
+    "time": "Fri, 22 May 2026"
+  },
+  {
+    "id": 9099,
     "level": "critical",
     "country": "🌍",
     "text": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
@@ -45,16 +63,16 @@
     "time": "Sat, 23 May 2026"
   },
   {
-    "id": 5727,
+    "id": 2639,
     "level": "critical",
     "country": "🌍",
-    "text": "Is pragmatism replacing ideology in international affairs?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international?traffic_source=rss",
-    "time": "Sat, 23 May 2026"
+    "text": "Plus de 1,5 million de pèlerins attendus à La Mecque malgré la guerre en Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260524-p%C3%A8lerinage-%C3%A0-la-mecque-plus-de-1-5-millions-de-personnes-sont-arriv%C3%A9s-%C3%A0-riyad-malgr%C3%A9-la-guerre-en-iran",
+    "time": "Sun, 24 May 2026"
   },
   {
-    "id": 7177,
+    "id": 8478,
     "level": "critical",
     "country": "🌍",
     "text": "Iran en direct : le Pakistan espère accueillir \"très bientôt\" une prochaine séan",
@@ -63,7 +81,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 2987,
+    "id": 2614,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : la capitale Kiev touchée par d'intenses bombardements russes",
@@ -72,16 +90,16 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 371,
-    "level": "critical",
+    "id": 5377,
+    "level": "high",
     "country": "🌍",
-    "text": "Jean Kaseya: \"si cette maladie était en Europe ou aux Etats-Unis, on aurait déjà",
+    "text": "En Colombie, la violence armée domine la campagne à l'approche de la présidentie",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260523-jean-kaseya-si-cette-maladie-%C3%A9tait-en-europe-ou-aux-etats-unis-on-aurait-d%C3%A9j%C3%A0-des-vaccins",
-    "time": "Sat, 23 May 2026"
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260524-colombie-violence-arm%C3%A9e-domine-campagne-approche-premier-tour-de-la-pr%C3%A9sidentielle-narcotrafic-cocaine-farc",
+    "time": "Sun, 24 May 2026"
   },
   {
-    "id": 7218,
+    "id": 9019,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 477,
+    "id": 6197,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 132,
+    "id": 9676,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4137,
+    "id": 9378,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6011,
+    "id": 9249,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9301,
+    "id": 9594,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 625,
+    "id": 8244,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9473,
+    "id": 4170,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,30 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5651,
+    "id": 2028,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 5460,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When privacy disappears: What life looks like inside displacement shelters in Ga",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/23/when-privacy-disappears-what-life-looks-like-inside-displacement-shelters-in-gaza/",
-    "time": "Sat, 23 May 2026"
-  },
-  {
-    "id": 3345,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Rosa Pachurí Paraba: How Monkox indigenous women are leading Bolivia’s response ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/22/rosa-pachuri-paraba-how-indigenous-women-are-leading-bolivias-response-to-wildfires/",
-    "time": "Fri, 22 May 2026"
   }
 ]
