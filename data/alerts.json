@@ -1,6 +1,6 @@
 [
   {
-    "id": 3274,
+    "id": 9137,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4929,
+    "id": 807,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 6084,
+    "id": 6177,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 8732,
+    "id": 5511,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,16 +36,25 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 3362,
+    "id": 9586,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strikes kill six in southern Lebanon, amid fresh evacuation orders",
+    "text": "How will Iran war fallout impact upcoming US elections?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 5493,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss",
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 9087,
+    "id": 5007,
     "level": "critical",
     "country": "🌍",
     "text": "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
@@ -54,7 +63,16 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 5230,
+    "id": 5250,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Anwar Abu Eisheh: \"tout est fait pour expulser les Palestiniens et leur rendre l",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260524-anwar-abu-eisheh-tout-est-fait-pour-expulser-les-palestiniens-et-leur-rendre-la-vie-impossible",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 4282,
     "level": "critical",
     "country": "🌍",
     "text": "Donald Trump tempère les espoirs d'un accord rapide avec l'Iran",
@@ -63,16 +81,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 8953,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ben Gvir banni de France : \"Ce n'est pas une sanction suffisante\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260524-ben-gvir-banni-de-france-ce-n-est-pas-une-sanction-suffisante",
-    "time": "Sun, 24 May 2026"
-  },
-  {
-    "id": 2074,
+    "id": 9685,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5564,
+    "id": 7137,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 406,
+    "id": 2347,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8778,
+    "id": 8925,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1098,
+    "id": 1221,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6934,
+    "id": 1548,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6167,
+    "id": 5256,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6586,
+    "id": 9264,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,7 +153,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1623,
+    "id": 4758,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -153,7 +162,7 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 1602,
+    "id": 9082,
     "level": "medium",
     "country": "🌍",
     "text": "For most Nigeriens, France has no place in Niger",
@@ -162,21 +171,12 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 8294,
+    "id": 7934,
     "level": "medium",
     "country": "🌍",
     "text": "When privacy disappears: What life looks like inside displacement shelters in Ga",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/23/when-privacy-disappears-what-life-looks-like-inside-displacement-shelters-in-gaza/",
     "time": "Sat, 23 May 2026"
-  },
-  {
-    "id": 8458,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Rosa Pachurí Paraba: How Monkox indigenous women are leading Bolivia’s response ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/22/rosa-pachuri-paraba-how-indigenous-women-are-leading-bolivias-response-to-wildfires/",
-    "time": "Fri, 22 May 2026"
   }
 ]
