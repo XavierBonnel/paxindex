@@ -1,6 +1,6 @@
 [
   {
-    "id": 2370,
+    "id": 8179,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8524,
+    "id": 6828,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 847,
+    "id": 89,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 8319,
+    "id": 3305,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,7 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 9684,
+    "id": 7632,
     "level": "critical",
     "country": "🌍",
     "text": "Yemen: Agrometeorological Early Warning Bulletin (20 - 31 May 2026) [EN/AR]",
@@ -45,7 +45,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 5154,
+    "id": 4720,
     "level": "critical",
     "country": "🌍",
     "text": "Colombia: Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y",
@@ -54,43 +54,79 @@
     "time": "Fri, 22 May 2026"
   },
   {
-    "id": 9099,
+    "id": 8645,
     "level": "critical",
     "country": "🌍",
-    "text": "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+    "text": "Toxic gases hinder rescue efforts inside deadly China mine",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/funerals-for-medics-killed-in-israeli-air-strikes-in-southern-lebanon?traffic_source=rss",
-    "time": "Sat, 23 May 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/toxic-gases-hinder-rescue-efforts-inside-deadly-china-mine?traffic_source=rss",
+    "time": "Sun, 24 May 2026"
   },
   {
-    "id": 2639,
+    "id": 6710,
     "level": "critical",
     "country": "🌍",
-    "text": "Plus de 1,5 million de pèlerins attendus à La Mecque malgré la guerre en Iran",
+    "text": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 9909,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bomb attack in Pakistan’s Balochistan province kills more than 20 people",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/24/bomb-attack-in-pakistans-balochistan-province-kills-more-than-20-people?traffic_source=rss",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 8025,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 5967,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Man dies in northeast Australia after shark attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
+    "time": "Sun, 24 May 2026"
+  },
+  {
+    "id": 7707,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Plus de 1,5 million de pèlerins attendus à La Mecque malgré la guerre en Iran",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260524-p%C3%A8lerinage-%C3%A0-la-mecque-plus-de-1-5-millions-de-personnes-sont-arriv%C3%A9s-%C3%A0-riyad-malgr%C3%A9-la-guerre-en-iran",
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 8478,
+    "id": 4381,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran en direct : le Pakistan espère accueillir \"très bientôt\" une prochaine séan",
+    "text": "Iran en direct : Marco Rubio dit qu'une \"bonne nouvelle\" pourrait être annoncée ",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260524-en-direct-moyen-orient-iran-donald-trump-etats-unis-negociations-accord-detroit-dormuz-pakistan",
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 2614,
+    "id": 8302,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine : la capitale Kiev touchée par d'intenses bombardements russes",
+    "text": "Ukraine : plusieurs morts et des dizaines de blessés après d'intenses bombardeme",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260524-ukraine-la-capitale-kiev-touch%C3%A9e-par-d-intenses-bombardements-russes",
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 5377,
+    "id": 9485,
     "level": "high",
     "country": "🌍",
     "text": "En Colombie, la violence armée domine la campagne à l'approche de la présidentie",
@@ -99,7 +135,7 @@
     "time": "Sun, 24 May 2026"
   },
   {
-    "id": 9019,
+    "id": 5818,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6197,
+    "id": 7380,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9676,
+    "id": 7183,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9378,
+    "id": 1768,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,48 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9249,
+    "id": 8483,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 9594,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 8244,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 4170,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 2028,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
   }
 ]
