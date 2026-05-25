@@ -1,6 +1,6 @@
 [
   {
-    "id": 4544,
+    "id": 8105,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7745,
+    "id": 477,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 12,
+    "id": 9039,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 7730,
+    "id": 1827,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,43 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 6,
+    "id": 4430,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 8987,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Father mourns daughter killed in Israeli strike on Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 6823,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon marks Liberation Day under Israeli bombardment",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 3098,
+    "level": "critical",
+    "country": "🌍",
+    "text": "In Lebanon, everything and nothing has changed since 2000",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 1516,
     "level": "critical",
     "country": "🌍",
     "text": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
@@ -45,7 +81,7 @@
     "time": "Mon, 25 May 2026"
   },
   {
-    "id": 871,
+    "id": 3446,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Liban : le patrimoine en péril",
@@ -54,7 +90,7 @@
     "time": "Mon, 25 May 2026"
   },
   {
-    "id": 4519,
+    "id": 9726,
     "level": "critical",
     "country": "🌍",
     "text": "Philippines : effondrement sur un chantier, au moins quatre morts et quinze disp",
@@ -63,16 +99,16 @@
     "time": "Mon, 25 May 2026"
   },
   {
-    "id": 9258,
+    "id": 1762,
     "level": "high",
     "country": "🌍",
-    "text": "Over 1.5 million pilgrims begin Hajj amid regional tensions",
+    "text": "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/5/25/over-1-5-million-pilgrims-begin-hajj-amid-regional-tensions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/25/mexico-says-it-will-host-iranian-team-during-2026-fifa-world-cup?traffic_source=rss",
     "time": "Mon, 25 May 2026"
   },
   {
-    "id": 2958,
+    "id": 3377,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4923,
+    "id": 5347,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5364,
+    "id": 2587,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5061,
+    "id": 8045,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2382,
+    "id": 8891,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4385,
+    "id": 1833,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1355,
+    "id": 6301,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,48 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9512,
+    "id": 9176,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 5157,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 8730,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hong Kong NGOs call for policy interventions to help vulnerable groups withstand",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/25/hong-kong-ngos-call-for-policy-interventions-to-help-vulnerable-groups-withstand-heat-hazards/",
-    "time": "Mon, 25 May 2026"
-  },
-  {
-    "id": 8750,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The death of a relentless mother reopens the wound of Venezuela’s political repr",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/25/the-death-of-a-relentless-mother-reopens-the-wound-of-venezuelas-political-repression/",
-    "time": "Mon, 25 May 2026"
-  },
-  {
-    "id": 7580,
-    "level": "medium",
-    "country": "🌍",
-    "text": "For most Nigeriens, France has no place in Niger",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/24/for-most-nigeriens-france-has-no-place-in-niger/",
-    "time": "Sun, 24 May 2026"
   }
 ]
