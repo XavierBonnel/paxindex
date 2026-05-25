@@ -1,6 +1,6 @@
 [
   {
-    "id": 7786,
+    "id": 9701,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6683,
+    "id": 4677,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 8334,
+    "id": 5555,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 7085,
+    "id": 7940,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,16 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 1146,
+    "id": 1695,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 1860,
     "level": "critical",
     "country": "🌍",
     "text": "Singapore’s economy beats expectations as gov’t warns of Iran war fallout",
@@ -45,16 +54,43 @@
     "time": "Mon, 25 May 2026"
   },
   {
-    "id": 9465,
+    "id": 812,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre au Moyen-Orient : que contient le protocole d'accord entre les États-unis",
+    "text": "Ukraine-Russie : deux morts côté russe après des bombardements à Kiev",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260524-guerre-au-moyen-orient-que-contient-le-protocole-d-accord-entre-les-%C3%A9tats-unis-et-l-iran",
-    "time": "Sun, 24 May 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-ukraine-russie-deux-morts-c%C3%B4t%C3%A9-russe-apr%C3%A8s-des-bombardements-%C3%A0-kiev",
+    "time": "Mon, 25 May 2026"
   },
   {
-    "id": 9993,
+    "id": 1876,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hajj : plus de 1,5 million de pèlerins à La Mecque malgré la guerre en Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-hajj-plus-de-1-5-million-de-p%C3%A8lerins-%C3%A0-la-mecque-malgr%C3%A9-la-guerre-en-iran",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 8978,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Liban : deux morts dans des frappes israéliennes dans le sud du pays",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-liban-deux-morts-dans-des-frappes-isra%C3%A9liennes-dans-le-sud-du-pays",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 3690,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ormuz, nucléaire, sanctions : ce que l'on sait du possible accord entre l'Iran e",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260525-ormuz-nucleaire-sanctions-liban-ce-que-l-on-sait-possible-accord-iran-etats-unis",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 9771,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -63,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4013,
+    "id": 3549,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7393,
+    "id": 2278,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 118,
+    "id": 5006,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1611,
+    "id": 4830,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9917,
+    "id": 6122,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7750,
+    "id": 1496,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 627,
+    "id": 886,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -126,7 +162,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 4474,
+    "id": 6476,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
@@ -135,48 +171,12 @@
     "time": "2026-01-29T08:00"
   },
   {
-    "id": 458,
+    "id": 6158,
     "level": "medium",
     "country": "🌍",
     "text": "The death of a relentless mother reopens the wound of Venezuela’s political repr",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/25/the-death-of-a-relentless-mother-reopens-the-wound-of-venezuelas-political-repression/",
     "time": "Mon, 25 May 2026"
-  },
-  {
-    "id": 2419,
-    "level": "medium",
-    "country": "🌍",
-    "text": "For most Nigeriens, France has no place in Niger",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/24/for-most-nigeriens-france-has-no-place-in-niger/",
-    "time": "Sun, 24 May 2026"
-  },
-  {
-    "id": 1845,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When privacy disappears: What life looks like inside displacement shelters in Ga",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/23/when-privacy-disappears-what-life-looks-like-inside-displacement-shelters-in-gaza/",
-    "time": "Sat, 23 May 2026"
-  },
-  {
-    "id": 8977,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Rosa Pachurí Paraba: How Monkox indigenous women are leading Bolivia’s response ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/22/rosa-pachuri-paraba-how-indigenous-women-are-leading-bolivias-response-to-wildfires/",
-    "time": "Fri, 22 May 2026"
-  },
-  {
-    "id": 117,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How AI is upgrading African dictatorship",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/22/how-ai-is-upgrading-african-dictatorship/",
-    "time": "Fri, 22 May 2026"
   }
 ]
