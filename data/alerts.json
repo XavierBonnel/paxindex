@@ -1,6 +1,6 @@
 [
   {
-    "id": 3010,
+    "id": 2463,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7267,
+    "id": 9735,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2693,
+    "id": 1374,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 6549,
+    "id": 2194,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -36,43 +36,70 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5743,
+    "id": 3169,
     "level": "critical",
     "country": "🌍",
-    "text": "Bodies with names: Inside Gaza’s cemetery of the missing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/5/26/bodies-with-names-inside-gazas-cemetery-of-the-missing?traffic_source=rss",
+    "text": "Government of Zambia, WFP and UK Met Office launch USD 3.6 million initiative to",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/zambia/government-zambia-wfp-and-uk-met-office-launch-usd-36-million-initiative-strengthen-climate-monitoring-and-early-warning-systems",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2036,
+    "id": 8635,
     "level": "critical",
     "country": "🌍",
-    "text": "US strikes Iran again: What we know, and is the ceasefire over?",
+    "text": "Israeli air attacks kill seven Palestinians in Gaza",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/26/us-strikes-iran-again-what-we-know-and-is-the-ceasefire-over?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/26/israeli-air-attacks-kill-seven-palestinians-in-gaza?traffic_source=rss",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3744,
+    "id": 5749,
     "level": "critical",
     "country": "🌍",
-    "text": "As Trump woos China, the Quad grouping drifts towards irrelevance",
+    "text": "Israeli attacks on eastern Lebanon village kill at least 11 people",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/26/as-trump-woos-china-the-quad-alliance-drifts-toward-irrelevance?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/26/israeli-attacks-on-eastern-lebanon-village-kill-at-least-12-people?traffic_source=rss",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2669,
+    "id": 7120,
     "level": "critical",
     "country": "🌍",
-    "text": "Les États-Unis frappent l'Iran malgré les progrès des négociations",
+    "text": "Frappes en Iran : Téhéran accuse Washington de violation du cessez-le-feu",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260526-les-%C3%A9tats-unis-frappent-l-iran-malgr%C3%A9-les-progr%C3%A8s-des-n%C3%A9gociations",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260526-frappes-en-iran-t%C3%A9h%C3%A9ran-accuse-washington-de-violation-du-cessez-le-feu",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 1433,
+    "id": 2654,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Belgique : quatre morts, dont deux enfants, dans une collision entre un car scol",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260526-belgique-quatre-morts-dont-deux-enfants-dans-un-accident-entre-un-car-scolaire-et-un-train",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 5002,
+    "level": "high",
+    "country": "🌍",
+    "text": "Can the US and India repair ties over trade and China?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/26/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 9701,
+    "level": "high",
+    "country": "🌍",
+    "text": "Tabaski en Guinée : inquiétude des ménages face à la hausse des prix du bétail",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260526-tabaski-en-guin%C3%A9e-inqui%C3%A9tude-des-m%C3%A9nages-face-%C3%A0-la-hausse-des-prix-du-b%C3%A9tail",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 981,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 434,
+    "id": 9256,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 217,
+    "id": 825,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7666,
+    "id": 8619,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9222,
+    "id": 8185,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3593,
+    "id": 2071,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9789,
+    "id": 4763,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1938,
+    "id": 2479,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -144,39 +171,12 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 7444,
+    "id": 7155,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Wraps Up Decade of Gun Policy Research with New Online Tool, Updated Data a",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-01-29T08:00"
-  },
-  {
-    "id": 8740,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hong Kong NGOs call for policy interventions to help vulnerable groups withstand",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/25/hong-kong-ngos-call-for-policy-interventions-to-help-vulnerable-groups-withstand-heat-hazards/",
-    "time": "Mon, 25 May 2026"
-  },
-  {
-    "id": 6494,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The death of a relentless mother reopens the wound of Venezuela’s political repr",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/25/the-death-of-a-relentless-mother-reopens-the-wound-of-venezuelas-political-repression/",
-    "time": "Mon, 25 May 2026"
-  },
-  {
-    "id": 8148,
-    "level": "medium",
-    "country": "🌍",
-    "text": "For most Nigeriens, France has no place in Niger",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/24/for-most-nigeriens-france-has-no-place-in-niger/",
-    "time": "Sun, 24 May 2026"
   }
 ]
