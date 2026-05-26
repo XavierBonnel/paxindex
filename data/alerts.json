@@ -1,6 +1,6 @@
 [
   {
-    "id": 9117,
+    "id": 9600,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1018,
+    "id": 7092,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 9453,
+    "id": 8463,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 3615,
+    "id": 7581,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -36,7 +36,16 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5853,
+    "id": 6108,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Aftermath of deadly Israeli strikes in southern Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 1919,
     "level": "critical",
     "country": "🌍",
     "text": "Four people killed after minibus collides with train in Belgium",
@@ -45,7 +54,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3384,
+    "id": 9376,
     "level": "critical",
     "country": "🌍",
     "text": "US picks potential partners for using Cold War-era plutonium as fuel",
@@ -54,7 +63,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4466,
+    "id": 1776,
     "level": "critical",
     "country": "🌍",
     "text": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
@@ -63,7 +72,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4119,
+    "id": 9646,
     "level": "critical",
     "country": "🌍",
     "text": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
@@ -72,7 +81,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3344,
+    "id": 267,
     "level": "critical",
     "country": "🌍",
     "text": "Donbass : quand des frappes ukrainiennes viennent alimenter la machine à propaga",
@@ -81,7 +90,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 9299,
+    "id": 727,
     "level": "critical",
     "country": "🌍",
     "text": "Mali : des réfugiés témoignent de tortures et d'assassinats par l'armée et des c",
@@ -90,7 +99,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8927,
+    "id": 9556,
     "level": "critical",
     "country": "🌍",
     "text": "En Iran, l'accès à Internet partiellement rétabli après trois mois de coupure",
@@ -99,7 +108,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7065,
+    "id": 2118,
     "level": "critical",
     "country": "🌍",
     "text": "Belgique : un car scolaire percuté par un train, quatre morts dont deux enfants",
@@ -108,7 +117,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5852,
+    "id": 2328,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : au moins 11 morts dans une frappe israélienne dans l'est du pays",
@@ -117,7 +126,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5286,
+    "id": 4480,
     "level": "high",
     "country": "🌍",
     "text": "Did Trump oversell a broken Iran ceasefire deal?",
@@ -126,16 +135,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 929,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ebola en RD Congo : comment l’IA peut aider à contenir l’épidémie",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260526-ebola-en-rd-congo-comment-l-ia-peut-aider-%C3%A0-contenir-l-%C3%A9pid%C3%A9mie",
-    "time": "Tue, 26 May 2026"
-  },
-  {
-    "id": 4175,
+    "id": 3427,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8925,
+    "id": 2597,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2661,
+    "id": 8165,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8239,
+    "id": 8566,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,7 +171,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7261,
+    "id": 1700,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
