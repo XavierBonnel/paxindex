@@ -1,6 +1,6 @@
 [
   {
-    "id": 1585,
+    "id": 1500,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3922,
+    "id": 1393,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2784,
+    "id": 3618,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 1464,
+    "id": 8054,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -36,52 +36,61 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 6866,
+    "id": 5271,
     "level": "critical",
     "country": "🌍",
-    "text": "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
+    "text": "World Cup broadcast hopes boosted in India as Zee Entertainment in talks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/5/26/world-cup-broadcast-hopes-boosted-in-india-as-zee-entertainment-in-talks?traffic_source=rss",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2637,
+    "id": 7888,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel is no longer ‘shooting and crying’",
+    "text": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/5/26/israel-is-no-longer-shooting-and-crying?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8120,
+    "id": 4852,
     "level": "critical",
     "country": "🌍",
-    "text": "Hajj pilgrims gather at Mount Arafat under scorching desert sun",
+    "text": "What has Pope Leo warned about AI – and why that’s significant",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/5/26/hajj-pilgrims-gather-at-mount-arafat-under-scorching-desert-sun?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5518,
+    "id": 4054,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss",
+    "text": "Donbass : quand des frappes ukrainiennes viennent alimenter la machine à propaga",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260526-donbass-ukraine-frappe-presumee-louhansk-dortoir-%C3%A9tudiant-propagande-russie-accusations",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5016,
+    "id": 3382,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran’s president praises military after US strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/irans-president-praises-military-after-us-strikes?traffic_source=rss",
+    "text": "Mali : des réfugiés témoignent de tortures et d'assassinats par l'armée et des c",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260526-mali-des-r%C3%A9fugi%C3%A9s-t%C3%A9moignent-de-tortures-et-d-assassinats-par-l-arm%C3%A9e-et-des-combattants-russes",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8702,
+    "id": 2384,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En Iran, l'accès à Internet partiellement rétabli après trois mois de coupure",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260526-en-iran-l-acc%C3%A8s-%C3%A0-internet-partiellement-r%C3%A9tabli-apr%C3%A8s-trois-mois-de-coupure",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 8905,
     "level": "critical",
     "country": "🌍",
     "text": "Belgique : un car scolaire percuté par un train, quatre morts dont deux enfants",
@@ -90,7 +99,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4156,
+    "id": 9972,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : au moins 11 morts dans une frappe israélienne dans l'est du pays",
@@ -99,16 +108,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 163,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Frappes américaines : le cessez-le-feu \"violé\" selon l'Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260526-frappes-am%C3%A9ricaines-le-cessez-le-feu-viol%C3%A9-selon-l-iran",
-    "time": "Tue, 26 May 2026"
-  },
-  {
-    "id": 8434,
+    "id": 7004,
     "level": "high",
     "country": "🌍",
     "text": "Ebola en RD Congo : comment l’IA peut aider à contenir l’épidémie",
@@ -117,7 +117,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 6751,
+    "id": 3439,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7023,
+    "id": 3887,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9342,
+    "id": 3057,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2713,
+    "id": 7885,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6203,
+    "id": 1106,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 625,
+    "id": 7335,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9930,
+    "id": 7525,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
