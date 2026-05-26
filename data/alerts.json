@@ -1,6 +1,6 @@
 [
   {
-    "id": 6417,
+    "id": 1931,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4564,
+    "id": 1168,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7488,
+    "id": 7338,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 8254,
+    "id": 4922,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -36,7 +36,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5114,
+    "id": 120,
     "level": "critical",
     "country": "🌍",
     "text": "World Cup broadcast hopes boosted in India as Zee Entertainment in talks",
@@ -45,7 +45,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3696,
+    "id": 4450,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
@@ -54,7 +54,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 6889,
+    "id": 7604,
     "level": "critical",
     "country": "🌍",
     "text": "What has Pope Leo warned about AI – and why that’s significant",
@@ -63,7 +63,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8936,
+    "id": 5270,
     "level": "critical",
     "country": "🌍",
     "text": "Donbass : quand des frappes ukrainiennes viennent alimenter la machine à propaga",
@@ -72,7 +72,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 1928,
+    "id": 7330,
     "level": "critical",
     "country": "🌍",
     "text": "Mali : des réfugiés témoignent de tortures et d'assassinats par l'armée et des c",
@@ -81,7 +81,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4799,
+    "id": 5733,
     "level": "critical",
     "country": "🌍",
     "text": "En Iran, l'accès à Internet partiellement rétabli après trois mois de coupure",
@@ -90,7 +90,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3910,
+    "id": 198,
     "level": "critical",
     "country": "🌍",
     "text": "Belgique : un car scolaire percuté par un train, quatre morts dont deux enfants",
@@ -99,7 +99,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7688,
+    "id": 2298,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : au moins 11 morts dans une frappe israélienne dans l'est du pays",
@@ -108,7 +108,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 6019,
+    "id": 199,
+    "level": "high",
+    "country": "🌍",
+    "text": "Did Trump oversell a broken Iran ceasefire deal?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 7425,
     "level": "high",
     "country": "🌍",
     "text": "Ebola en RD Congo : comment l’IA peut aider à contenir l’épidémie",
@@ -117,7 +126,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 1927,
+    "id": 3380,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6806,
+    "id": 1178,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9897,
+    "id": 5550,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9075,
+    "id": 1414,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5675,
+    "id": 9986,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,21 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3042,
+    "id": 38,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 7503,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
