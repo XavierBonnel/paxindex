@@ -1,6 +1,6 @@
 [
   {
-    "id": 1931,
+    "id": 9117,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1168,
+    "id": 1018,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7338,
+    "id": 9453,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 4922,
+    "id": 3615,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -36,34 +36,43 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 120,
+    "id": 5853,
     "level": "critical",
     "country": "🌍",
-    "text": "World Cup broadcast hopes boosted in India as Zee Entertainment in talks",
+    "text": "Four people killed after minibus collides with train in Belgium",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/5/26/world-cup-broadcast-hopes-boosted-in-india-as-zee-entertainment-in-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4450,
+    "id": 3384,
     "level": "critical",
     "country": "🌍",
-    "text": "Lebanon latest: Netanyahu vows escalation against Hezbollah",
+    "text": "US picks potential partners for using Cold War-era plutonium as fuel",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/lebanon-latest-netanyahu-vows-escalation-against-hezbollah?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7604,
+    "id": 4466,
     "level": "critical",
     "country": "🌍",
-    "text": "What has Pope Leo warned about AI – and why that’s significant",
+    "text": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5270,
+    "id": 4119,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US Senate confirms veteran naval officer Frank Garcia as top Africa envoy",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 3344,
     "level": "critical",
     "country": "🌍",
     "text": "Donbass : quand des frappes ukrainiennes viennent alimenter la machine à propaga",
@@ -72,7 +81,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7330,
+    "id": 9299,
     "level": "critical",
     "country": "🌍",
     "text": "Mali : des réfugiés témoignent de tortures et d'assassinats par l'armée et des c",
@@ -81,7 +90,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5733,
+    "id": 8927,
     "level": "critical",
     "country": "🌍",
     "text": "En Iran, l'accès à Internet partiellement rétabli après trois mois de coupure",
@@ -90,7 +99,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 198,
+    "id": 7065,
     "level": "critical",
     "country": "🌍",
     "text": "Belgique : un car scolaire percuté par un train, quatre morts dont deux enfants",
@@ -99,7 +108,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2298,
+    "id": 5852,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : au moins 11 morts dans une frappe israélienne dans l'est du pays",
@@ -108,7 +117,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 199,
+    "id": 5286,
     "level": "high",
     "country": "🌍",
     "text": "Did Trump oversell a broken Iran ceasefire deal?",
@@ -117,7 +126,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7425,
+    "id": 929,
     "level": "high",
     "country": "🌍",
     "text": "Ebola en RD Congo : comment l’IA peut aider à contenir l’épidémie",
@@ -126,7 +135,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3380,
+    "id": 4175,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1178,
+    "id": 8925,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5550,
+    "id": 2661,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1414,
+    "id": 8239,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9986,
+    "id": 7261,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 38,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
