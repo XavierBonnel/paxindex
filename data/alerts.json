@@ -1,6 +1,6 @@
 [
   {
-    "id": 7822,
+    "id": 8704,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8576,
+    "id": 7635,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -18,7 +18,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 9947,
+    "id": 7438,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 882,
+    "id": 1116,
     "level": "critical",
     "country": "🌍",
     "text": "The illusion of online public opinion in Lebanon’s political conflicts",
@@ -36,7 +36,25 @@
     "time": "Wed, 20 May 2026"
   },
   {
-    "id": 6307,
+    "id": 8396,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rubio says Iran deal could take days after US forces launch new attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/26/rubio-says-iran-deal-could-take-days-after-us-forces-launch-new-attacks?traffic_source=rss",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 4772,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar?traffic_source=rss",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 3115,
     "level": "critical",
     "country": "🌍",
     "text": "US strikes southern Iran in ‘self defence’ targeting Iranian mine boats",
@@ -45,7 +63,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 1588,
+    "id": 771,
     "level": "critical",
     "country": "🌍",
     "text": "US military launches strikes on southern Iran amid talks in Qatar",
@@ -54,25 +72,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5196,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Tensions rise in Bolivia as protesters march toward presidential palace",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_report-bolivia-protesters-presidential-palace-250526?traffic_source=rss",
-    "time": "Tue, 26 May 2026"
-  },
-  {
-    "id": 1894,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: US strikes Iran’s south, Tehran officials in Qatar for talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks?traffic_source=rss",
-    "time": "Tue, 26 May 2026"
-  },
-  {
-    "id": 8199,
+    "id": 129,
     "level": "critical",
     "country": "🌍",
     "text": "Le saxophoniste Sonny Rollins, dernier \"colosse\" du jazz, est mort à 95 ans",
@@ -81,7 +81,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7141,
+    "id": 8667,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : l'armée américaine annonce avoir attaqué des sites de lancement de m",
@@ -90,16 +90,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4782,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israël veut \"intensifier\" son offensive au Liban pour écraser le Hezbollah",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260525-liban-israel-veut-intensifier-offensive-hezbollah-frappes-netanyahu",
-    "time": "Mon, 25 May 2026"
-  },
-  {
-    "id": 6680,
+    "id": 1824,
     "level": "high",
     "country": "🌍",
     "text": "Pape Léon XIV: \"L'intelligence artificielle doit être désarmée\"",
@@ -108,7 +99,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7534,
+    "id": 3235,
     "level": "high",
     "country": "🌍",
     "text": "En direct : les États-Unis ont frappé des sites de missiles dans le sud de l'Ira",
@@ -117,7 +108,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 1189,
+    "id": 8229,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7046,
+    "id": 5448,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 799,
+    "id": 6152,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7560,
+    "id": 1182,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4179,
+    "id": 7167,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7416,
+    "id": 9291,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7058,
+    "id": 3464,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 3780,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
   }
 ]
