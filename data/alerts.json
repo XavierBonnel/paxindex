@@ -1,6 +1,6 @@
 [
   {
-    "id": 8138,
+    "id": 5262,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8093,
+    "id": 2773,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3956,
+    "id": 2273,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 6031,
+    "id": 950,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -36,7 +36,43 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5582,
+    "id": 2450,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 4621,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 7280,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 2560,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘No livestock but still hope’: Palestinians prepare for Eid al-Adha in Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/5/27/no-livestock-but-still-hope-palestinians-prepare-for-eid-al-adha-in-gaza?traffic_source=rss",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 4435,
     "level": "critical",
     "country": "🌍",
     "text": "Israel ‘intensifies’ attacks in Lebanon killing at least 31 people",
@@ -45,34 +81,16 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 6460,
+    "id": 6439,
     "level": "critical",
     "country": "🌍",
-    "text": "UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_clip_-un-chief-deeply-concerned-kyiv-strikes-260526?traffic_source=rss",
+    "text": "\"Extension\" de la guerre au Liban Sud: \"Le traumatisme silencieux des Libanais\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260527-extension-de-la-guerre-au-liban-sud-le-traumatisme-silencieux-des-libanais",
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 90,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 5844,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Is the viral ‘Cockroach Janta Party’ a threat to Modi’s government?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_dnrexp-260526-warrinera-modi_05-260526?traffic_source=rss",
-    "time": "Tue, 26 May 2026"
-  },
-  {
-    "id": 7472,
+    "id": 135,
     "level": "critical",
     "country": "🌍",
     "text": "\"Ils venaient de tout l'Empire français\" : des résistants issus des colonies ret",
@@ -81,7 +99,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 6649,
+    "id": 8308,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : les cessez-le-feu en Iran et au Liban menacés",
@@ -90,7 +108,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 6244,
+    "id": 5067,
     "level": "critical",
     "country": "🌍",
     "text": "La France continue de suffoquer sous le \"dôme de chaleur\"",
@@ -99,7 +117,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 4634,
+    "id": 6593,
     "level": "high",
     "country": "🌍",
     "text": "La Corée du Nord teste un nouveau système de lance-missile polyvalent",
@@ -108,7 +126,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 8588,
+    "id": 6929,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6650,
+    "id": 840,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 506,
+    "id": 6912,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2232,
+    "id": 3134,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6172,
+    "id": 9348,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9694,
+    "id": 6032,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 9347,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 821,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
