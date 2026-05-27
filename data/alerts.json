@@ -1,6 +1,6 @@
 [
   {
-    "id": 1451,
+    "id": 2470,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3575,
+    "id": 6577,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 991,
+    "id": 4147,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -27,70 +27,43 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 5089,
+    "id": 3770,
     "level": "critical",
     "country": "🌍",
-    "text": "US, Iran have launched multiple attacks during ceasefire: A timeline",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 25 May 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-25-may-2026",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 2528,
+    "level": "critical",
+    "country": "🌍",
+    "text": "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-have-launched-multiple-attacks-during-ceasefire-a-timeline?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/5/27/drc-facing-catastrophic-collision-of-ebola-and-war-who-chief-warns?traffic_source=rss",
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 8713,
+    "id": 7794,
     "level": "critical",
     "country": "🌍",
-    "text": "US strike on alleged drug boat in Pacific kills one",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/27/us-strike-on-alleged-drug-boat-in-pacific-kills-one?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 664,
-    "level": "critical",
-    "country": "🌍",
-    "text": "\"Extension\" de la guerre dans le sud du Liban : \"Le traumatisme silencieux des L",
+    "text": "Ebola en RD Congo : un \"choc catastrophique entre maladie et conflit\", selon le ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260527-extension-de-la-guerre-au-liban-sud-le-traumatisme-silencieux-des-libanais",
+    "link": "https://www.france24.com/fr/afrique/20260527-ebola-en-rd-congo-un-choc-catastrophique-entre-maladie-et-conflit-selon-le-chef-de-l-oms",
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 6253,
+    "id": 1623,
     "level": "critical",
     "country": "🌍",
-    "text": "\"Ils venaient de tout l'Empire français\" : des résistants issus des colonies ret",
+    "text": "Israël affirme avoir tué le nouveau chef de la branche armée du Hamas",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260527-resistance-colonies-empire-francais-oublies-histoire-seconde-guerre-mondiale-patriotisme",
+    "link": "https://www.france24.com/fr/moyen-orient/20260527-isra%C3%ABl-affirme-avoir-tu%C3%A9-le-nouveau-chef-de-la-branche-arm%C3%A9e-du-hamas",
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 3473,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : les Gardiens de la révolution jugent \"faible\" la probabilité d'une r",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260527-en-direct-moyen-orient-iran-liban-cessez-le-feu-menaces-etats-unis-israel",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 6359,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La France continue de suffoquer sous le \"dôme de chaleur\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260527-la-france-continue-de-suffoquer-sous-le-d%C3%B4me-de-chaleur",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 2185,
-    "level": "high",
-    "country": "🌍",
-    "text": "Sanctions fears as Krygyzstan shutters companies suspected of aiding Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/27/kyrgyzstan-russia-tensions?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 4668,
+    "id": 2521,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 960,
+    "id": 4878,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9968,
+    "id": 9542,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9163,
+    "id": 2691,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7984,
+    "id": 9743,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9906,
+    "id": 1868,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6582,
+    "id": 7571,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 842,
+    "id": 2619,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8491,
+    "id": 1285,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -171,12 +144,39 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 3847,
+    "id": 7549,
     "level": "medium",
     "country": "🌍",
     "text": "Tuvalu aims to become a ‘Digital Nation’ amid rising sea levels",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/27/tuvalu-aims-to-become-a-digital-nation-amid-rising-sea-levels/",
     "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 6090,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Songs of resistance: Nepal’s Indigenous communities fight to preserve their musi",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/26/songs-of-resistance-nepals-indigenous-communities-fight-to-preserve-their-musical-heritage/",
+    "time": "Tue, 26 May 2026"
+  },
+  {
+    "id": 8617,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hong Kong NGOs call for policy interventions to help vulnerable groups withstand",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/25/hong-kong-ngos-call-for-policy-interventions-to-help-vulnerable-groups-withstand-heat-hazards/",
+    "time": "Mon, 25 May 2026"
+  },
+  {
+    "id": 6645,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The death of a relentless mother reopens the wound of Venezuela’s political repr",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/25/the-death-of-a-relentless-mother-reopens-the-wound-of-venezuelas-political-repression/",
+    "time": "Mon, 25 May 2026"
   }
 ]
