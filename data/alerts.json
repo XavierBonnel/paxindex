@@ -1,6 +1,6 @@
 [
   {
-    "id": 1592,
+    "id": 8675,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2393,
+    "id": 2064,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3161,
+    "id": 142,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 8771,
     "level": "critical",
     "country": "🌍",
     "text": "Canada chooses Swedish early warning planes rather than US model",
@@ -27,43 +36,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 738,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 1686,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Eid celebrations in Gaza overshadowed by Israeli attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 9968,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Will the AI race fuel another boom or another bubble?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 9564,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Family mourn ‘Hamas leader’ killed in Israeli attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 4091,
+    "id": 6805,
     "level": "critical",
     "country": "🌍",
     "text": "Sénégal : Faye/Sonko, guerre ouverte ?",
@@ -72,25 +45,25 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 7835,
-    "level": "critical",
+    "id": 4069,
+    "level": "high",
     "country": "🌍",
-    "text": "Gaza : un nouvel Aïd dans les gravats de la guerre",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260527-gaza-un-nouvel-a%C3%AFd-dans-les-gravats-de-la-guerre",
+    "text": "Can the US and India repair ties over trade and China?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 9051,
-    "level": "critical",
+    "id": 3808,
+    "level": "high",
     "country": "🌍",
-    "text": "Vladimir Poutine, déterminé à intimider ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260527-vladimir-poutine-d%C3%A9termin%C3%A9-%C3%A0-intimider",
+    "text": "India orders demolition drive along border as Pakistan tensions simmer",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/27/india-orders-demolition-drive-along-border-as-pakistan-tensions-simmer?traffic_source=rss",
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 3504,
+    "id": 8127,
     "level": "high",
     "country": "🌍",
     "text": "EU states summon Russian envoys over Kyiv threat",
@@ -99,7 +72,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 5061,
+    "id": 7171,
     "level": "high",
     "country": "🌍",
     "text": "Iran government sells subsidised meat for Eid al-Adha under blockade",
@@ -108,7 +81,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 1932,
+    "id": 6978,
     "level": "high",
     "country": "🌍",
     "text": "Sénégal : « il n’y a pas de raison que Sonko provoque une tension plus forte », ",
@@ -117,7 +90,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 4494,
+    "id": 1096,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3302,
+    "id": 8617,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5196,
+    "id": 6865,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7993,
+    "id": 6328,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8055,
+    "id": 1530,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9798,
+    "id": 4204,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +144,39 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3987,
+    "id": 1263,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 3094,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 9236,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 6150,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Central Asia takes on smog",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
+    "time": "Wed, 27 May 2026"
   }
 ]
