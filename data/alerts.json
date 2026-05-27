@@ -1,6 +1,6 @@
 [
   {
-    "id": 8004,
+    "id": 624,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7184,
+    "id": 6245,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5347,
+    "id": 8011,
     "level": "critical",
     "country": "🌍",
     "text": "Solidarity fields in Syria: Reviving local seed production",
@@ -27,7 +27,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 7697,
+    "id": 9290,
     "level": "critical",
     "country": "🌍",
     "text": "Attacks on trans identities become a strategic political tool in Brazil",
@@ -36,7 +36,7 @@
     "time": "Thu, 21 May 2026"
   },
   {
-    "id": 8064,
+    "id": 6625,
     "level": "critical",
     "country": "🌍",
     "text": "UN chief ‘deeply concerned’ by Moscow plan for Kyiv strikes",
@@ -45,7 +45,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 4977,
+    "id": 1439,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
@@ -54,7 +54,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 8805,
+    "id": 4623,
     "level": "critical",
     "country": "🌍",
     "text": "Is the viral ‘Cockroach Janta Party’ a threat to Modi’s government?",
@@ -63,7 +63,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2887,
+    "id": 508,
     "level": "critical",
     "country": "🌍",
     "text": "Aftermath of deadly Israeli strikes in southern Lebanon",
@@ -72,7 +72,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 6348,
+    "id": 3508,
     "level": "critical",
     "country": "🌍",
     "text": "Four people killed after minibus collides with train in Belgium",
@@ -81,25 +81,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3528,
+    "id": 2273,
     "level": "critical",
     "country": "🌍",
-    "text": "US picks potential partners for using Cold War-era plutonium as fuel",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
-    "time": "Tue, 26 May 2026"
+    "text": "En direct : les cessez-le-feu en Iran et au Liban menacés",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260527-en-direct-moyen-orient-iran-liban-cessez-le-feu-menaces-etats-unis-israel",
+    "time": "Wed, 27 May 2026"
   },
   {
-    "id": 160,
+    "id": 7717,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump-led push to redraw Congress maps faces setbacks in Southern states",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
-    "time": "Tue, 26 May 2026"
+    "text": "La France continue de suffoquer sous le \"dôme de chaleur\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260527-la-france-continue-de-suffoquer-sous-le-d%C3%B4me-de-chaleur",
+    "time": "Wed, 27 May 2026"
   },
   {
-    "id": 7693,
+    "id": 4723,
     "level": "critical",
     "country": "🌍",
     "text": "Donbass : quand des frappes ukrainiennes viennent alimenter la machine à propaga",
@@ -108,7 +108,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 300,
+    "id": 291,
     "level": "critical",
     "country": "🌍",
     "text": "Mali : des réfugiés témoignent de tortures et d'assassinats par l'armée et des c",
@@ -117,25 +117,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5949,
-    "level": "critical",
+    "id": 2320,
+    "level": "high",
     "country": "🌍",
-    "text": "En Iran, l'accès à Internet partiellement rétabli après trois mois de coupure",
+    "text": "La Corée du Nord teste un nouveau système de lance-missile polyvalent",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260526-en-iran-l-acc%C3%A8s-%C3%A0-internet-partiellement-r%C3%A9tabli-apr%C3%A8s-trois-mois-de-coupure",
-    "time": "Tue, 26 May 2026"
+    "link": "https://www.france24.com/fr/asie-pacifique/20260527-coree-du-nord-teste-nouveau-systeme-lance-missile-polyvalent-nucleaire",
+    "time": "Wed, 27 May 2026"
   },
   {
-    "id": 5615,
-    "level": "critical",
+    "id": 5463,
+    "level": "medium",
     "country": "🌍",
-    "text": "Belgique : un car scolaire percuté par un train, quatre morts dont deux enfants",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260526-belgique-un-car-scolaire-percut%C3%A9-par-un-train-quatre-morts-dont-deux-enfants",
-    "time": "Tue, 26 May 2026"
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
   },
   {
-    "id": 6369,
+    "id": 3435,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4264,
+    "id": 3760,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8700,
+    "id": 4112,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4935,
+    "id": 8732,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,7 +171,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4158,
+    "id": 2363,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
