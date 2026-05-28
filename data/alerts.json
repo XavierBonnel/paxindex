@@ -1,6 +1,6 @@
 [
   {
-    "id": 6652,
+    "id": 6488,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5981,
+    "id": 6645,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/28/somalia-drought-fuel-prices-and-conflicts-heighten-famine-risk/",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 146,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,52 +27,79 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4994,
+    "id": 8711,
     "level": "critical",
     "country": "🌍",
-    "text": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
+    "text": "Smoke rises over Beirut after Israeli strike",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 2006,
+    "id": 553,
     "level": "critical",
     "country": "🌍",
-    "text": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+    "text": "Fire kills 16 students at Kenyan girls’ boarding school",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/28/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/fire-kills-16-students-at-kenyan-girls-boarding-school?traffic_source=rss",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 2113,
+    "id": 5323,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre au Moyen-Orient : escalade inédite depuis le cessz-le-feu",
+    "text": "Israël continue d'avancer au Sud-Liban",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-guerre-au-moyen-orient-escalade-in%C3%A9dite-depuis-le-cessz-le-feu",
+    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260528-isra%C3%ABl-continue-d-avancer-au-sud-liban",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 1194,
+    "id": 6481,
     "level": "critical",
     "country": "🌍",
-    "text": "Dix ans après la mort du roi de la rumba congolaise, Papa Wemba",
+    "text": "Placé sur la \"liste noire\" des violences sexuelles, Israël met scène sa rupture ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-dix-ans-apr%C3%A8s-la-mort-du-roi-de-la-rumba-congolaise-papa-wemba",
+    "link": "https://www.france24.com/fr/moyen-orient/20260528-plac%C3%A9-sur-la-liste-noire-des-violences-sexuelles-isra%C3%ABl-met-sc%C3%A8ne-sa-rupture-avec-l-onu",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5145,
+    "id": 3703,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pourquoi Trump veut-il transférer du plutonium de la Guerre froide à des start-u",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260528-plutonium-guerre-froide-pourquoi-trump-transfert-plutonium-guerre-froide-start-up-nucl%C3%A9aire",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 8501,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Regain des tensions après multiples violations des cessez-le-feu au Moyen-Orient",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-regain-des-tensions-apr%C3%A8s-multiples-violations-des-cessez-le-feu-au-moyen-orient",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 7496,
     "level": "high",
     "country": "🌍",
-    "text": "Tchad : colère des magistrats après des propos du ministre de la sécurité publiq",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-tchad-col%C3%A8re-des-magistrats-apr%C3%A8s-des-propos-du-ministre-de-la-s%C3%A9curit%C3%A9-publique",
+    "text": "US inflation surges to three-year high amid tensions with Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5007,
+    "id": 7570,
+    "level": "high",
+    "country": "🌍",
+    "text": "US Treasury threatens Oman with sanctions over Hormuz Strait",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 2695,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6427,
+    "id": 6188,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9282,
+    "id": 6490,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4365,
+    "id": 2277,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 48,
+    "id": 3388,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1597,
+    "id": 8209,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 374,
+    "id": 3610,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 640,
+    "id": 7294,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,48 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7348,
+    "id": 9304,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 743,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Countless endangered species are making a comeback due to global conservation ef",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/28/countless-endangered-species-are-making-a-comeback-due-to-global-conservation-efforts/",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 1624,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Central Asia takes on smog",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 5445,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Tuvalu aims to become a ‘Digital Nation’ amid rising sea levels",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/27/tuvalu-aims-to-become-a-digital-nation-amid-rising-sea-levels/",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 9024,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Songs of resistance: Nepal’s Indigenous communities fight to preserve their musi",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/26/songs-of-resistance-nepals-indigenous-communities-fight-to-preserve-their-musical-heritage/",
-    "time": "Tue, 26 May 2026"
   }
 ]
