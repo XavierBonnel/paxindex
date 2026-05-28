@@ -1,6 +1,6 @@
 [
   {
-    "id": 7005,
+    "id": 3480,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2037,
+    "id": 2104,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8873,
+    "id": 3780,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4794,
+    "id": 9771,
     "level": "critical",
     "country": "🌍",
     "text": "Iran: World Health Organization - Middle East Escalation of Conflict, Global Sit",
@@ -36,7 +36,16 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 6337,
+    "id": 8050,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tense protests erupt outside Delaney Hall immigrant detention centre in US",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 8915,
     "level": "critical",
     "country": "🌍",
     "text": "Guatemala denies agreeing to US strikes against drug traffickers",
@@ -45,7 +54,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 2439,
+    "id": 24,
     "level": "critical",
     "country": "🌍",
     "text": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
@@ -54,7 +63,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5546,
+    "id": 2600,
     "level": "critical",
     "country": "🌍",
     "text": "Europe hit by record-breaking heatwave",
@@ -63,7 +72,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 9563,
+    "id": 2597,
     "level": "critical",
     "country": "🌍",
     "text": "Frappe sur Starobilsk : Entre Kiev et Moscou, chacun sa version",
@@ -72,7 +81,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 4679,
+    "id": 7489,
     "level": "critical",
     "country": "🌍",
     "text": "L'Allemagne restitue à la famille de Marc Bloch des livres volés, un mois avant ",
@@ -81,7 +90,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 4235,
+    "id": 1622,
     "level": "critical",
     "country": "🌍",
     "text": "Quand la chaleur tue: les limites du corps humain",
@@ -90,16 +99,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 2002,
-    "level": "high",
-    "country": "🌍",
-    "text": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 5837,
+    "id": 315,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9446,
+    "id": 6136,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6416,
+    "id": 2585,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8973,
+    "id": 7824,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2350,
+    "id": 2362,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8339,
+    "id": 6758,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2479,
+    "id": 4196,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9524,
+    "id": 9301,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,7 +171,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7184,
+    "id": 588,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
