@@ -1,6 +1,6 @@
 [
   {
-    "id": 7619,
+    "id": 27,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8337,
+    "id": 8902,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,52 +18,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 872,
+    "id": 1563,
     "level": "critical",
     "country": "🌍",
-    "text": "A season of death: How rains turn deadly in northern Nigeria",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/nigeria/season-death-how-rains-turn-deadly-northern-nigeria",
-    "time": "Wed, 27 May 2026"
+    "text": "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
   },
   {
-    "id": 4666,
+    "id": 9731,
     "level": "critical",
     "country": "🌍",
-    "text": "Conflict-Related Sexual Violence (CRSV) in the Southern Ukraine Key Findings and",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/ukraine/conflict-related-sexual-violence-crsv-southern-ukraine-key-findings-and-recommendations-consultations-crsv-response-actors",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 7766,
-    "level": "critical",
-    "country": "🌍",
-    "text": "oPt: MAP aid worker and baby son injured during Israeli strikes on Gaza City",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/occupied-palestinian-territory/map-aid-worker-and-baby-son-injured-during-israeli-strikes-gaza-city",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 4399,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 25 May 2026)",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-25-may-2026",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 8659,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Israel orders mass forced displacement for all south Lebanon",
+    "text": "Iran war live: US strikes Iranian site as tensions rise in Strait of Hormuz",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 1738,
+    "id": 3205,
     "level": "critical",
     "country": "🌍",
     "text": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
@@ -72,16 +45,25 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 1252,
+    "id": 5322,
     "level": "critical",
     "country": "🌍",
-    "text": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
+    "text": "Israël déclare \"zone de combat\" une grande partie du sud du Liban",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260528-isra%C3%ABl-d%C3%A9clare-zone-de-combat-une-grande-partie-du-sud-du-liban",
+    "time": "Thu, 28 May 2026"
   },
   {
-    "id": 1099,
+    "id": 3886,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : nouvelles frappes américaines en Iran, le Koweït fait face à des att",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260528-en-direct-moyen-orient-iran-etats-unis-nouvelles-frappes-israel-liban-donald-trump",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 7489,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Iran : combien a déjà coûté l'opération \"Epic Fury\" ?",
@@ -90,16 +72,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 1635,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sénégal : Faye/Sonko, guerre ouverte ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260527-s%C3%A9n%C3%A9gal-faye-sonko-guerre-ouverte",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 1279,
+    "id": 8349,
     "level": "high",
     "country": "🌍",
     "text": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
@@ -108,7 +81,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 2188,
+    "id": 8258,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8452,
+    "id": 1928,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4667,
+    "id": 270,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6152,
+    "id": 9191,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2247,
+    "id": 5541,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5646,
+    "id": 1192,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9309,
+    "id": 4281,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +144,39 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3135,
+    "id": 3004,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 7396,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 3221,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Central Asia takes on smog",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 5821,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Tuvalu aims to become a ‘Digital Nation’ amid rising sea levels",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/27/tuvalu-aims-to-become-a-digital-nation-amid-rising-sea-levels/",
+    "time": "Wed, 27 May 2026"
   }
 ]
