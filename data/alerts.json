@@ -1,6 +1,6 @@
 [
   {
-    "id": 8837,
+    "id": 6652,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5668,
+    "id": 5981,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,25 +18,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8475,
+    "id": 4994,
     "level": "critical",
     "country": "🌍",
-    "text": "World: Care in the crosshairs: Violence Against Health Care in Conflict 2025",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/world/care-crosshairs-violence-against-health-care-conflict-2025",
+    "text": "US attacks Bandar Abbas again: Why is the port so important for Iran?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8553,
-    "level": "critical",
-    "country": "🌍",
-    "text": "World: Humanitarian Diplomacy Re-Imagined | Towards a community-driven and justi",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/world/humanitarian-diplomacy-re-imagined-towards-community-driven-and-justice-oriented-approach-protect-civilians",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 5312,
+    "id": 2006,
     "level": "critical",
     "country": "🌍",
     "text": "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
@@ -45,43 +36,34 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8825,
+    "id": 2113,
     "level": "critical",
     "country": "🌍",
-    "text": "Hottest year on record almost certain to occur by end of 2030, UN warns",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/28/hottest-year-in-history-almost-certain-to-occur-by-end-of-2030-un-warns?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 4153,
-    "level": "critical",
-    "country": "🌍",
-    "text": "For Gaza, Eid joy is now a form of resistance",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 6781,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 6187,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Iran : Trois mois après le lancement de l'opération \"Epic Fury\"",
+    "text": "Guerre au Moyen-Orient : escalade inédite depuis le cessz-le-feu",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-guerre-en-iran-trois-mois-apr%C3%A8s-le-lancement-de-l-op%C3%A9ration-epic-fury",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-guerre-au-moyen-orient-escalade-in%C3%A9dite-depuis-le-cessz-le-feu",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5844,
+    "id": 1194,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Dix ans après la mort du roi de la rumba congolaise, Papa Wemba",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-dix-ans-apr%C3%A8s-la-mort-du-roi-de-la-rumba-congolaise-papa-wemba",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 5145,
+    "level": "high",
+    "country": "🌍",
+    "text": "Tchad : colère des magistrats après des propos du ministre de la sécurité publiq",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-tchad-col%C3%A8re-des-magistrats-apr%C3%A8s-des-propos-du-ministre-de-la-s%C3%A9curit%C3%A9-publique",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 5007,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2293,
+    "id": 6427,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8706,
+    "id": 9282,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8874,
+    "id": 4365,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8520,
+    "id": 48,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9501,
+    "id": 1597,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1442,
+    "id": 374,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8635,
+    "id": 640,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1712,
+    "id": 7348,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -162,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 1595,
+    "id": 743,
     "level": "medium",
     "country": "🌍",
     "text": "Countless endangered species are making a comeback due to global conservation ef",
@@ -171,12 +153,30 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8087,
+    "id": 1624,
     "level": "medium",
     "country": "🌍",
     "text": "Central Asia takes on smog",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
     "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 5445,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Tuvalu aims to become a ‘Digital Nation’ amid rising sea levels",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/27/tuvalu-aims-to-become-a-digital-nation-amid-rising-sea-levels/",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 9024,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Songs of resistance: Nepal’s Indigenous communities fight to preserve their musi",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/26/songs-of-resistance-nepals-indigenous-communities-fight-to-preserve-their-musical-heritage/",
+    "time": "Tue, 26 May 2026"
   }
 ]
