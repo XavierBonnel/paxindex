@@ -1,6 +1,6 @@
 [
   {
-    "id": 1046,
+    "id": 7619,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6158,
+    "id": 8337,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 4480,
+    "id": 872,
+    "level": "critical",
+    "country": "🌍",
+    "text": "A season of death: How rains turn deadly in northern Nigeria",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/nigeria/season-death-how-rains-turn-deadly-northern-nigeria",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 4666,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-Related Sexual Violence (CRSV) in the Southern Ukraine Key Findings and",
@@ -27,7 +36,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 8072,
+    "id": 7766,
     "level": "critical",
     "country": "🌍",
     "text": "oPt: MAP aid worker and baby son injured during Israeli strikes on Gaza City",
@@ -36,7 +45,7 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 8390,
+    "id": 4399,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon: Conflict Intensity Snapshot (2 March - 25 May 2026)",
@@ -45,7 +54,25 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 5822,
+    "id": 8659,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Israel orders mass forced displacement for all south Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 1738,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/bolivias-president-warns-time-is-running-out-amid-protest-crisis?traffic_source=rss",
+    "time": "Wed, 27 May 2026"
+  },
+  {
+    "id": 1252,
     "level": "critical",
     "country": "🌍",
     "text": "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
@@ -54,25 +81,16 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 8257,
+    "id": 1099,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump appears to threaten Oman over Strait of Hormuz impasse",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
+    "text": "Guerre en Iran : combien a déjà coûté l'opération \"Epic Fury\" ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260527-guerre-en-iran-combien-a-d%C3%A9j%C3%A0-co%C3%BBt%C3%A9-l-op%C3%A9ration-epic-fury",
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 7149,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel orders evacuation of the Lebanese city of Tyre amid bombardment",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/israel-orders-evacuation-of-the-lebanese-city-of-tyre-amid-bombardment?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 440,
+    "id": 1635,
     "level": "critical",
     "country": "🌍",
     "text": "Sénégal : Faye/Sonko, guerre ouverte ?",
@@ -81,16 +99,16 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 441,
+    "id": 1279,
     "level": "high",
     "country": "🌍",
-    "text": "Can the US and India repair ties over trade and China?",
+    "text": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/can-the-us-and-india-repair-ties-over-trade-and-china?traffic_source=rss",
-    "time": "Wed, 27 May 2026"
+    "link": "https://www.aljazeera.com/news/2026/5/28/us-returns-palestinian-rights-expert-francesca-albanese-to-sanctions-list?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
   },
   {
-    "id": 4934,
+    "id": 2188,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8519,
+    "id": 8452,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9796,
+    "id": 4667,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8451,
+    "id": 6152,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3733,
+    "id": 2247,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3965,
+    "id": 5646,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8026,
+    "id": 9309,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1875,
+    "id": 3135,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 7971,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 3251,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Central Asia takes on smog",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
-    "time": "Wed, 27 May 2026"
   }
 ]
