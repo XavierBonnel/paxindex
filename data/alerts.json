@@ -1,6 +1,6 @@
 [
   {
-    "id": 27,
+    "id": 7499,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8902,
+    "id": 6783,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -18,7 +18,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 1563,
+    "id": 2518,
     "level": "critical",
     "country": "🌍",
     "text": "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
@@ -27,16 +27,16 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 9731,
+    "id": 6634,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: US strikes Iranian site as tensions rise in Strait of Hormuz",
+    "text": "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3205,
+    "id": 4057,
     "level": "critical",
     "country": "🌍",
     "text": "Bolivia’s president warns ‘time is running out’ amid protest crisis",
@@ -45,25 +45,43 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 5322,
+    "id": 9698,
     "level": "critical",
     "country": "🌍",
-    "text": "Israël déclare \"zone de combat\" une grande partie du sud du Liban",
+    "text": "Pourquoi est-ce qu'on pense que la Suisse est toujours neutre ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260528-isra%C3%ABl-d%C3%A9clare-zone-de-combat-une-grande-partie-du-sud-du-liban",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-pourquoi-suisse-est-toujours-neutre-neutralit%C3%A9-guerre-europe-histoire-culture-prime",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3886,
+    "id": 4349,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : nouvelles frappes américaines en Iran, le Koweït fait face à des att",
+    "text": "Iran en direct : les Gardiens de la Révolution visent une base américaine en rep",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260528-en-direct-moyen-orient-iran-etats-unis-nouvelles-frappes-israel-liban-donald-trump",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 7489,
+    "id": 7992,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israël bombarde Tyr après avoir déclaré \"zone de combat\" une grande partie du su",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260528-isra%C3%ABl-d%C3%A9clare-zone-de-combat-une-grande-partie-du-sud-du-liban",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 4349,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran en direct : les Gardiens de la Révolution visent une base américaine en rep",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260528-en-direct-moyen-orient-iran-etats-unis-nouvelles-frappes-israel-liban-donald-trump",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 9832,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Iran : combien a déjà coûté l'opération \"Epic Fury\" ?",
@@ -72,7 +90,16 @@
     "time": "Wed, 27 May 2026"
   },
   {
-    "id": 8349,
+    "id": 2131,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ghana welcomes home citizens evacuated from South Africa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/ghana-welcomes-home-citizens-evacuated-from-south-africa?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 1739,
     "level": "high",
     "country": "🌍",
     "text": "US returns Palestinian rights expert Francesca Albanese to sanctions list",
@@ -81,7 +108,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8258,
+    "id": 8202,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1928,
+    "id": 5416,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 270,
+    "id": 1951,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9191,
+    "id": 5194,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5541,
+    "id": 3129,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1192,
+    "id": 1172,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4281,
+    "id": 402,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,39 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3004,
+    "id": 1854,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 7396,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 3221,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Central Asia takes on smog",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
-    "time": "Wed, 27 May 2026"
-  },
-  {
-    "id": 5821,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Tuvalu aims to become a ‘Digital Nation’ amid rising sea levels",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/27/tuvalu-aims-to-become-a-digital-nation-amid-rising-sea-levels/",
-    "time": "Wed, 27 May 2026"
   }
 ]
