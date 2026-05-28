@@ -1,6 +1,6 @@
 [
   {
-    "id": 6488,
+    "id": 2615,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6645,
+    "id": 3125,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 146,
+    "id": 2581,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8711,
+    "id": 7912,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How War Changed Eid in Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/how-war-changed-eid-in-lebanon?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 5030,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 9996,
     "level": "critical",
     "country": "🌍",
     "text": "Smoke rises over Beirut after Israeli strike",
@@ -36,7 +54,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 553,
+    "id": 5171,
     "level": "critical",
     "country": "🌍",
     "text": "Fire kills 16 students at Kenyan girls’ boarding school",
@@ -45,7 +63,25 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5323,
+    "id": 9782,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'Allemagne restitue à la famille de Marc Bloch des livres volés, un mois avant ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260528-l-allemagne-restitue-%C3%A0-la-famille-de-marc-bloch-des-livres-vol%C3%A9s-un-mois-avant-sa-panth%C3%A9onisation",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 6510,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Quand la chaleur tue: les limites du corps humain",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260528-quand-la-chaleur-tue-les-limites-du-corps-humain",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 1305,
     "level": "critical",
     "country": "🌍",
     "text": "Israël continue d'avancer au Sud-Liban",
@@ -54,16 +90,16 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 6481,
+    "id": 2106,
     "level": "critical",
     "country": "🌍",
-    "text": "Placé sur la \"liste noire\" des violences sexuelles, Israël met scène sa rupture ",
+    "text": "Placé sur la \"liste noire\" des violences sexuelles, Israël met en scène sa ruptu",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260528-plac%C3%A9-sur-la-liste-noire-des-violences-sexuelles-isra%C3%ABl-met-sc%C3%A8ne-sa-rupture-avec-l-onu",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3703,
+    "id": 2695,
     "level": "critical",
     "country": "🌍",
     "text": "Pourquoi Trump veut-il transférer du plutonium de la Guerre froide à des start-u",
@@ -72,16 +108,25 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8501,
-    "level": "critical",
+    "id": 3187,
+    "level": "high",
     "country": "🌍",
-    "text": "Regain des tensions après multiples violations des cessez-le-feu au Moyen-Orient",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260528-regain-des-tensions-apr%C3%A8s-multiples-violations-des-cessez-le-feu-au-moyen-orient",
+    "text": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 7496,
+    "id": 1101,
+    "level": "high",
+    "country": "🌍",
+    "text": "US and Iran reach tentative deal for 60-day truce extension, officials say",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/28/us-and-iran-reach-tentative-deal-for-60-day-truce-extension-officials-say?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 6044,
     "level": "high",
     "country": "🌍",
     "text": "US inflation surges to three-year high amid tensions with Iran",
@@ -90,16 +135,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 7570,
-    "level": "high",
-    "country": "🌍",
-    "text": "US Treasury threatens Oman with sanctions over Hormuz Strait",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 2695,
+    "id": 7236,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6188,
+    "id": 7763,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6490,
+    "id": 7861,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2277,
+    "id": 5287,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,48 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3388,
+    "id": 6842,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 8209,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 3610,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 7294,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 9304,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
   }
 ]
