@@ -1,6 +1,6 @@
 [
   {
-    "id": 9694,
+    "id": 7005,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6429,
+    "id": 2037,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8267,
+    "id": 8873,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 5200,
+    "id": 4794,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran: World Health Organization - Middle East Escalation of Conflict, Global Sit",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/iran-islamic-republic/world-health-organization-middle-east-escalation-conflict-global-situation-report-8-28-may-2026",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 6337,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guatemala denies agreeing to US strikes against drug traffickers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers?traffic_source=rss",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 2439,
     "level": "critical",
     "country": "🌍",
     "text": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
@@ -36,7 +54,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 442,
+    "id": 5546,
     "level": "critical",
     "country": "🌍",
     "text": "Europe hit by record-breaking heatwave",
@@ -45,16 +63,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 1484,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 5739,
+    "id": 9563,
     "level": "critical",
     "country": "🌍",
     "text": "Frappe sur Starobilsk : Entre Kiev et Moscou, chacun sa version",
@@ -63,7 +72,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 9837,
+    "id": 4679,
     "level": "critical",
     "country": "🌍",
     "text": "L'Allemagne restitue à la famille de Marc Bloch des livres volés, un mois avant ",
@@ -72,7 +81,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5254,
+    "id": 4235,
     "level": "critical",
     "country": "🌍",
     "text": "Quand la chaleur tue: les limites du corps humain",
@@ -81,7 +90,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8414,
+    "id": 2002,
     "level": "high",
     "country": "🌍",
     "text": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
@@ -90,16 +99,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 6191,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 6536,
+    "id": 5837,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4010,
+    "id": 9446,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8810,
+    "id": 6416,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8440,
+    "id": 8973,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3259,
+    "id": 2350,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3614,
+    "id": 8339,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7413,
+    "id": 2479,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3958,
+    "id": 9524,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,7 +171,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5486,
+    "id": 7184,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
