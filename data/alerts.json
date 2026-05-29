@@ -1,6 +1,6 @@
 [
   {
-    "id": 3480,
+    "id": 4827,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2104,
+    "id": 7749,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3780,
+    "id": 8892,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,16 +27,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 9771,
+    "id": 956,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran: World Health Organization - Middle East Escalation of Conflict, Global Sit",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/iran-islamic-republic/world-health-organization-middle-east-escalation-conflict-global-situation-report-8-28-may-2026",
-    "time": "Thu, 28 May 2026"
+    "text": "Iran war live: Tehran, Trump yet to comment on 60-day truce extension plan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/5/29/iran-war-live-tehran-trump-yet-to-comment-on-60-day-truce-extension-plan?traffic_source=rss",
+    "time": "Fri, 29 May 2026"
   },
   {
-    "id": 8050,
+    "id": 9439,
     "level": "critical",
     "country": "🌍",
     "text": "Tense protests erupt outside Delaney Hall immigrant detention centre in US",
@@ -45,7 +45,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8915,
+    "id": 4680,
     "level": "critical",
     "country": "🌍",
     "text": "Guatemala denies agreeing to US strikes against drug traffickers",
@@ -54,25 +54,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 24,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Defiant Lebanese families refuse to leave Tyre after homes bombed",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/defiant-lebanese-families-refuse-to-leave-tyre-after-homes-bombed?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 2600,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Europe hit by record-breaking heatwave",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/europe-hit-by-record-breaking-heatwave?traffic_source=rss",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 2597,
+    "id": 7837,
     "level": "critical",
     "country": "🌍",
     "text": "Frappe sur Starobilsk : Entre Kiev et Moscou, chacun sa version",
@@ -81,25 +63,25 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 7489,
-    "level": "critical",
+    "id": 1989,
+    "level": "high",
     "country": "🌍",
-    "text": "L'Allemagne restitue à la famille de Marc Bloch des livres volés, un mois avant ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260528-l-allemagne-restitue-%C3%A0-la-famille-de-marc-bloch-des-livres-vol%C3%A9s-un-mois-avant-sa-panth%C3%A9onisation",
+    "text": "US to designate two Brazilian gangs as ‘terrorist’ organisations",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/29/us-to-designate-two-brazilian-gangs-as-terrorist-organisations?traffic_source=rss",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 993,
+    "level": "high",
+    "country": "🌍",
+    "text": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 1622,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Quand la chaleur tue: les limites du corps humain",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260528-quand-la-chaleur-tue-les-limites-du-corps-humain",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 315,
+    "id": 5166,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6136,
+    "id": 2323,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2585,
+    "id": 5283,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7824,
+    "id": 5476,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2362,
+    "id": 7505,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6758,
+    "id": 8980,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4196,
+    "id": 9316,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9301,
+    "id": 5928,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,12 +153,30 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 588,
+    "id": 9571,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 4674,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Countless endangered species are making a comeback due to global conservation ef",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/28/countless-endangered-species-are-making-a-comeback-due-to-global-conservation-efforts/",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 1965,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Central Asia takes on smog",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
+    "time": "Wed, 27 May 2026"
   }
 ]
