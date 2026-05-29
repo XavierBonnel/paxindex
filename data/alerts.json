@@ -1,6 +1,6 @@
 [
   {
-    "id": 6962,
+    "id": 3088,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9899,
+    "id": 7338,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3780,
+    "id": 4447,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 1879,
+    "id": 9025,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Polish president threatens to strip Ukraine’s Zelenskyy of top state honour",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/29/polish-president-threatens-to-strip-ukraines-zelenskyy-of-top-state-honour?traffic_source=rss",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 2673,
     "level": "critical",
     "country": "🌍",
     "text": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
@@ -36,34 +45,16 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 8117,
-    "level": "critical",
+    "id": 8889,
+    "level": "high",
     "country": "🌍",
-    "text": "Russian rate of losses in Ukraine almost triples in one year",
+    "text": "Iran denies ceasefire deal with US is “finalised”",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 8916,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Romania to expel Russian consul after residential drone strike",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike?traffic_source=rss",
-    "time": "Fri, 29 May 2026"
-  },
-  {
-    "id": 9601,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli fighter jets strike village in south Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss",
-    "time": "Fri, 29 May 2026"
-  },
-  {
-    "id": 6119,
+    "id": 2106,
     "level": "high",
     "country": "🌍",
     "text": "Canada sidelined in USMCA renegotiations as domestic economy dips",
@@ -72,7 +63,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 4794,
+    "id": 3021,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5632,
+    "id": 9629,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2891,
+    "id": 2777,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6256,
+    "id": 9272,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5063,
+    "id": 5939,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8000,
+    "id": 5736,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4589,
+    "id": 2632,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6901,
+    "id": 9770,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6847,
+    "id": 4290,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
@@ -153,7 +144,7 @@
     "time": "2026-02-05T14:19"
   },
   {
-    "id": 5649,
+    "id": 9533,
     "level": "medium",
     "country": "🌍",
     "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
@@ -162,7 +153,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 9910,
+    "id": 5868,
     "level": "medium",
     "country": "🌍",
     "text": "How Kazakhstan resurrected the North Aral Sea",
@@ -171,12 +162,21 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 9759,
+    "id": 290,
     "level": "medium",
     "country": "🌍",
     "text": "Countless endangered species are making a comeback due to global conservation ef",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/05/28/countless-endangered-species-are-making-a-comeback-due-to-global-conservation-efforts/",
     "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 8388,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Central Asia takes on smog",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
+    "time": "Wed, 27 May 2026"
   }
 ]
