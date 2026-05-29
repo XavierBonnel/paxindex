@@ -1,6 +1,6 @@
 [
   {
-    "id": 8456,
+    "id": 3965,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9324,
+    "id": 7339,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5670,
+    "id": 6705,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,16 +27,43 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8579,
+    "id": 8920,
     "level": "critical",
     "country": "🌍",
-    "text": "oPt: Attacks on Gaza over Eid kill 26, as Israeli forces push deeper into the st",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/occupied-palestinian-territory/attacks-gaza-over-eid-kill-26-israeli-forces-push-deeper-strip",
+    "text": "Russian rate of losses in Ukraine almost triples in one year",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss",
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 4480,
+    "id": 3974,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Romania to expel Russian consul after residential drone strike",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike?traffic_source=rss",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 9244,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli fighter jets strike village in south Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 6930,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Eight students arrested in deadly Kenyan school dorm fire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/eight-students-arrested-in-deadly-kenyan-school-dorm-fire?traffic_source=rss",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 2100,
     "level": "critical",
     "country": "🌍",
     "text": "Will the AI race fuel another boom or another bubble?",
@@ -45,7 +72,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 3747,
+    "id": 8296,
     "level": "critical",
     "country": "🌍",
     "text": "Vance says US, Iran have made “a lot of progress” towards deal",
@@ -54,7 +81,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 5048,
+    "id": 9965,
     "level": "critical",
     "country": "🌍",
     "text": "Five killed in Lebanon as Israeli forces advance across key Litani River",
@@ -63,16 +90,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 8408,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel strikes building in Gaza’s Shati refugee camp",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israel-strikes-building-in-gazas-shati-refugee-camp?traffic_source=rss",
-    "time": "Fri, 29 May 2026"
-  },
-  {
-    "id": 8863,
+    "id": 4186,
     "level": "high",
     "country": "🌍",
     "text": "Gaza : avec la \"ligne orange\", Israël a déjà commencé à étendre son contrôle ter",
@@ -81,16 +99,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 7181,
-    "level": "high",
-    "country": "🌍",
-    "text": "Liban : Netanyahu dit que l'armée israélienne a traversé le fleuve Litani",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260529-liban-netanyahu-dit-que-l-arm%C3%A9e-isra%C3%A9lienne-a-travers%C3%A9-le-fleuve-litani",
-    "time": "Fri, 29 May 2026"
-  },
-  {
-    "id": 2981,
+    "id": 3760,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5293,
+    "id": 1595,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6980,
+    "id": 4922,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9800,
+    "id": 7378,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3541,
+    "id": 8880,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5238,
+    "id": 6861,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6837,
+    "id": 5357,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6799,
+    "id": 4859,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,21 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3532,
+    "id": 2165,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 9200,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
-    "time": "Fri, 29 May 2026"
   }
 ]
