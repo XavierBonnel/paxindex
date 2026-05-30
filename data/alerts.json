@@ -1,6 +1,6 @@
 [
   {
-    "id": 6835,
+    "id": 8505,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6915,
+    "id": 2038,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8523,
+    "id": 2084,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,61 +27,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2942,
+    "id": 3572,
     "level": "critical",
     "country": "🌍",
-    "text": "World: Counting every life: Why mortality evidence can't be optional in humanita",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/world/counting-every-life-why-mortality-evidence-cant-be-optional-humanitarian-crises",
+    "text": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 7870,
+    "id": 6854,
     "level": "critical",
     "country": "🌍",
-    "text": "DR Congo: What might it take to increase leadership of local actors in humanitar",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/democratic-republic-congo/what-might-it-take-increase-leadership-local-actors-humanitarian-mortality-estimation",
+    "text": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss",
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 6506,
-    "level": "critical",
-    "country": "🌍",
-    "text": "DR Congo: The metric of life and death: How local and technical experts are stre",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/democratic-republic-congo/metric-life-and-death-how-local-and-technical-experts-are-strengthening-mortality-measurement-eastern-drc",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 4212,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Burundi Key Message Update May - September 2026: Seasonal improvements being slo",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/burundi/burundi-key-message-update-may-september-2026-seasonal-improvements-being-slowed-high-food-prices-and-bean-crop-loss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 678,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Zimbabwe Key Message Update May - September 2026: Food access improves with harv",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/zimbabwe/zimbabwe-key-message-update-may-september-2026-food-access-improves-harvests-grain-prices-remain-high-deficit-areas",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 6767,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Yemen - Key Message Update May - September 2026: Price fluctuations and above-av",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/yemen/yemen-key-message-update-may-september-2026-price-fluctuations-and-above-average-temperatures-negatively-impact-incomes",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 6888,
+    "id": 2562,
     "level": "critical",
     "country": "🌍",
     "text": "Truck carrying Afghan returnees from Pakistan flips on highway, killing 18",
@@ -90,16 +54,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 6264,
-    "level": "critical",
-    "country": "🌍",
-    "text": "The Iran war is dividing Muslims in the Philippines",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 1664,
+    "id": 5967,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes israéliennes au Liban : deux soldats libanais grièvement bless",
@@ -108,7 +63,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 1596,
+    "id": 32,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -117,7 +72,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5266,
+    "id": 1410,
     "level": "high",
     "country": "🌍",
     "text": "Israeli soldiers reach Nabatieh, one of southern Lebanon’s biggest cities",
@@ -126,16 +81,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 2504,
-    "level": "high",
-    "country": "🌍",
-    "text": "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/cuba-calls-guantanamo-talks-with-u-s-general-positive?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 1561,
+    "id": 1864,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3703,
+    "id": 8804,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8117,
+    "id": 6997,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3069,
+    "id": 396,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +117,66 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4405,
+    "id": 6968,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 386,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 2377,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 7881,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 5142,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 4232,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 8469,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How Kazakhstan resurrected the North Aral Sea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/how-kazakhstan-resurrected-the-north-aral-sea/",
+    "time": "Fri, 29 May 2026"
   }
 ]
