@@ -1,6 +1,6 @@
 [
   {
-    "id": 8035,
+    "id": 3371,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7115,
+    "id": 6670,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 4461,
+    "id": 2948,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,61 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 9476,
+    "id": 1271,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Counting every life: Why mortality evidence can't be optional in humanita",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/counting-every-life-why-mortality-evidence-cant-be-optional-humanitarian-crises",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 4392,
+    "level": "critical",
+    "country": "🌍",
+    "text": "DR Congo: What might it take to increase leadership of local actors in humanitar",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/democratic-republic-congo/what-might-it-take-increase-leadership-local-actors-humanitarian-mortality-estimation",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 2246,
+    "level": "critical",
+    "country": "🌍",
+    "text": "DR Congo: The metric of life and death: How local and technical experts are stre",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/democratic-republic-congo/metric-life-and-death-how-local-and-technical-experts-are-strengthening-mortality-measurement-eastern-drc",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 3862,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Burundi Key Message Update May - September 2026: Seasonal improvements being slo",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/burundi/burundi-key-message-update-may-september-2026-seasonal-improvements-being-slowed-high-food-prices-and-bean-crop-loss",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 8574,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Zimbabwe Key Message Update May - September 2026: Food access improves with harv",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/zimbabwe/zimbabwe-key-message-update-may-september-2026-food-access-improves-harvests-grain-prices-remain-high-deficit-areas",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 8965,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen - Key Message Update May - September 2026: Price fluctuations and above-av",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/yemen-key-message-update-may-september-2026-price-fluctuations-and-above-average-temperatures-negatively-impact-incomes",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 1868,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
@@ -36,7 +90,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5760,
+    "id": 7873,
     "level": "critical",
     "country": "🌍",
     "text": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
@@ -45,7 +99,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 5141,
+    "id": 2944,
     "level": "critical",
     "country": "🌍",
     "text": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
@@ -54,7 +108,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 6301,
+    "id": 7415,
     "level": "high",
     "country": "🌍",
     "text": "Iran denies ceasefire deal with US is “finalised”",
@@ -63,7 +117,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 1573,
+    "id": 132,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5050,
+    "id": 1171,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 193,
+    "id": 328,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3546,
+    "id": 6871,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 997,
+    "id": 2808,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6929,
+    "id": 5395,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,66 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5351,
+    "id": 1828,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 3357,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 1499,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 2630,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
-    "time": "Fri, 29 May 2026"
-  },
-  {
-    "id": 9763,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Kazakhstan resurrected the North Aral Sea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/29/how-kazakhstan-resurrected-the-north-aral-sea/",
-    "time": "Fri, 29 May 2026"
-  },
-  {
-    "id": 4945,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Countless endangered species are making a comeback due to global conservation ef",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/28/countless-endangered-species-are-making-a-comeback-due-to-global-conservation-efforts/",
-    "time": "Thu, 28 May 2026"
-  },
-  {
-    "id": 3787,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Central Asia takes on smog",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/27/central-asia-takes-on-smog/",
-    "time": "Wed, 27 May 2026"
   }
 ]
