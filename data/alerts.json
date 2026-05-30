@@ -1,6 +1,6 @@
 [
   {
-    "id": 3478,
+    "id": 7626,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6157,
+    "id": 6018,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5331,
+    "id": 5543,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,7 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2079,
+    "id": 3931,
     "level": "critical",
     "country": "🌍",
     "text": "Frustration in Lebanon as Israel expands invasion",
@@ -36,7 +36,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 7480,
+    "id": 2094,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
@@ -45,7 +45,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 6047,
+    "id": 8986,
     "level": "critical",
     "country": "🌍",
     "text": "Trump pledges to withdraw from Kennedy Center after court strikes his name",
@@ -54,7 +54,7 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 2401,
+    "id": 4271,
     "level": "critical",
     "country": "🌍",
     "text": "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
@@ -63,16 +63,43 @@
     "time": "Fri, 29 May 2026"
   },
   {
-    "id": 6307,
+    "id": 2549,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : les États-Unis \"plus que capables\" de redémarrer la guerre avec l'Ir",
+    "text": "Le sociologue et philosophe français Edgar Morin est mort à l'âge de 104 ans",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260530-sociologue-philosophe-edgar-morin-mort-104-ans",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 3279,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le sociologue et philosophe Edgar Morin est mort à l'âge de 104 ans",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260530-sociologue-philosophe-edgar-morin-mort-104-ans",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 3527,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La vague de chaleur qui frappe la France régresse, des questions sur la préparat",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260530-la-vague-de-chaleur-qui-frappe-la-france-r%C3%A9gresse-des-questions-sur-la-pr%C3%A9paration-aux-prochaines",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 5044,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : les États-Unis \"plus que capables\" de relancer la guerre avec l'Iran",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260530-en-direct-etats-unis-guerre-iran-trump-accord-liban-israel-hezbollah-ormuz",
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 4456,
+    "id": 8971,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -81,16 +108,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 1488,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran denies ceasefire deal with US is “finalised”",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
-    "time": "Fri, 29 May 2026"
-  },
-  {
-    "id": 8831,
+    "id": 8565,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4807,
+    "id": 4971,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5582,
+    "id": 5070,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3279,
+    "id": 3716,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4093,
+    "id": 7381,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8553,
+    "id": 1428,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1181,
+    "id": 4812,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8607,
+    "id": 9756,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 9892,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 2746,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
-    "time": "Fri, 29 May 2026"
   }
 ]
