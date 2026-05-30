@@ -1,6 +1,6 @@
 [
   {
-    "id": 5442,
+    "id": 6725,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 764,
+    "id": 394,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8782,
+    "id": 5748,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,61 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 6102,
+    "id": 7526,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: Counting every life: Why mortality evidence can't be optional in humanita",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/counting-every-life-why-mortality-evidence-cant-be-optional-humanitarian-crises",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 1923,
+    "level": "critical",
+    "country": "🌍",
+    "text": "DR Congo: What might it take to increase leadership of local actors in humanitar",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/democratic-republic-congo/what-might-it-take-increase-leadership-local-actors-humanitarian-mortality-estimation",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 2177,
+    "level": "critical",
+    "country": "🌍",
+    "text": "DR Congo: The metric of life and death: How local and technical experts are stre",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/democratic-republic-congo/metric-life-and-death-how-local-and-technical-experts-are-strengthening-mortality-measurement-eastern-drc",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 4818,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Burundi Key Message Update May - September 2026: Seasonal improvements being slo",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/burundi/burundi-key-message-update-may-september-2026-seasonal-improvements-being-slowed-high-food-prices-and-bean-crop-loss",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 9933,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Zimbabwe Key Message Update May - September 2026: Food access improves with harv",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/zimbabwe/zimbabwe-key-message-update-may-september-2026-food-access-improves-harvests-grain-prices-remain-high-deficit-areas",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 4021,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen - Key Message Update May - September 2026: Price fluctuations and above-av",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/yemen-key-message-update-may-september-2026-price-fluctuations-and-above-average-temperatures-negatively-impact-incomes",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 6288,
     "level": "critical",
     "country": "🌍",
     "text": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
@@ -36,7 +90,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5491,
+    "id": 9924,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
@@ -45,7 +99,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 8952,
+    "id": 24,
     "level": "critical",
     "country": "🌍",
     "text": "Is the war in Ukraine entering a new phase?",
@@ -54,7 +108,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 3762,
+    "id": 1513,
     "level": "critical",
     "country": "🌍",
     "text": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
@@ -63,16 +117,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 8079,
-    "level": "critical",
-    "country": "🌍",
-    "text": "22 killed as truck carrying refugees overturns in Afghanistan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/22-killed-as-truck-carrying-refugees-overturns-in-afghanistan?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 9446,
+    "id": 7481,
     "level": "critical",
     "country": "🌍",
     "text": "En RDC, le patron de l'OMS appelle à la mobilisation contre Ebola",
@@ -81,7 +126,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 398,
+    "id": 2850,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes israéliennes au Liban : deux soldats libanais grièvement bless",
@@ -90,7 +135,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 248,
+    "id": 2314,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -99,7 +144,16 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5633,
+    "id": 7507,
+    "level": "high",
+    "country": "🌍",
+    "text": "US Congress advances American-Israeli military integration plan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 3839,
     "level": "high",
     "country": "🌍",
     "text": "Plus de 20 000 personnes sur les Champs-Élysées après le sacre du PSG, 45 person",
@@ -108,7 +162,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 975,
+    "id": 1020,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,66 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1859,
+    "id": 9956,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 7622,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 1131,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 1636,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 3254,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 1661,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 2726,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
