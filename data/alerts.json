@@ -1,6 +1,6 @@
 [
   {
-    "id": 7214,
+    "id": 3579,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1969,
+    "id": 248,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 9102,
+    "id": 5847,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7065,
+    "id": 3437,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Damage seen in northern Israel after Hezbollah launches rocket barrages",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/damage-seen-in-northern-israel-after-hezbollah-launches-rocket-barrages?traffic_source=rss",
+    "time": "Sat, 30 May 2026"
+  },
+  {
+    "id": 58,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
@@ -36,7 +45,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 7930,
+    "id": 9977,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
@@ -45,16 +54,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 6291,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Frustration in Lebanon as Israel expands invasion",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 541,
+    "id": 2089,
     "level": "critical",
     "country": "🌍",
     "text": "Présidentielle en Colombie : l'enjeu de la lutte contre la violence des groupes ",
@@ -63,7 +63,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 4622,
+    "id": 332,
     "level": "critical",
     "country": "🌍",
     "text": "Ligue des champions : entre Paris et Arsenal, la guerre des étoiles",
@@ -72,7 +72,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 996,
+    "id": 4751,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : les désaccords persistent entre l'Iran et les Etats-Uni",
@@ -81,25 +81,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 1331,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Edgar Morin, sociologue, philosophe et résistant, est mort l'âge de 104 ans",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260530-edgar-morin-sociologue-philosophe-et-r%C3%A9sistant-est-mort-l-%C3%A2ge-de-104-ans",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 112,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le sociologue et philosophe français Edgar Morin est mort à l'âge de 104 ans",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260530-sociologue-philosophe-edgar-morin-mort-104-ans",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 6393,
+    "id": 2911,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -108,7 +90,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 2460,
+    "id": 6780,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2722,
+    "id": 3024,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5364,
+    "id": 5191,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7160,
+    "id": 1955,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 135,
+    "id": 931,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9931,
+    "id": 8532,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5068,
+    "id": 4167,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +153,30 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1464,
+    "id": 7397,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 7000,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 5567,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
+    "time": "Fri, 29 May 2026"
   }
 ]
