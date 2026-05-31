@@ -1,6 +1,6 @@
 [
   {
-    "id": 7821,
+    "id": 4166,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6151,
+    "id": 1969,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 4985,
+    "id": 8071,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 2413,
+    "id": 8375,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Juan Manuel Santos on Colombia’s peace process, 10 years on",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/31/juan-manuel-santos-on-colombias-peace-process-10-years-on?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 679,
     "level": "critical",
     "country": "🌍",
     "text": "What are the chances for the Iran-US ‘Declaration of Principles’?",
@@ -36,7 +45,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 4028,
+    "id": 4596,
     "level": "critical",
     "country": "🌍",
     "text": "Not just the US: How 51 countries armed Israel during Gaza war",
@@ -45,7 +54,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 3628,
+    "id": 8023,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli airstrikes devastate Lebanon’s Tyre",
@@ -54,16 +63,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 6247,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/31/israeli-forces-push-past-lebanons-litani-river-how-significant-is-it?traffic_source=rss",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 1714,
+    "id": 5817,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : la centrale nucléaire de Zaporijjia touchée par un drone, af",
@@ -72,7 +72,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 1454,
+    "id": 9683,
     "level": "critical",
     "country": "🌍",
     "text": "Doublé européen du PSG : une nuit d'incidents marquée par un mort, Paris reste s",
@@ -81,7 +81,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 8072,
+    "id": 5358,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -90,16 +90,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 4875,
-    "level": "high",
-    "country": "🌍",
-    "text": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/31/satellite-imagery-shows-erasure-of-southern-gaza-as-israel-expands-control?traffic_source=rss",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 7386,
+    "id": 5715,
     "level": "high",
     "country": "🌍",
     "text": "Au Liban, Israël s'empare du château de Beaufort : \"un tournant décisif\" pour Be",
@@ -108,7 +99,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 5403,
+    "id": 8696,
     "level": "high",
     "country": "🌍",
     "text": "Israël poursuit son offensive au Liban malgré la trêve",
@@ -117,7 +108,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 6617,
+    "id": 1056,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6680,
+    "id": 9702,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6684,
+    "id": 4551,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7351,
+    "id": 8491,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3696,
+    "id": 2377,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 533,
+    "id": 72,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +162,21 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 42,
+    "id": 7992,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 3816,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
   }
 ]
