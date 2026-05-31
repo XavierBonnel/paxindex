@@ -1,6 +1,6 @@
 [
   {
-    "id": 9060,
+    "id": 1477,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4331,
+    "id": 9732,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 168,
+    "id": 9997,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 3256,
+    "id": 2935,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukrainian drone attacks hit multiple Russian targets, including refinery",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/31/ukrainian-drone-attacks-hit-multiple-russian-targets-including-refinery?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 5685,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump tightens terms on Iran war deal, US media say",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 9339,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
@@ -36,7 +54,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 9629,
+    "id": 7991,
     "level": "critical",
     "country": "🌍",
     "text": "Missing Syrian chess champion’s children likely dead, authorities say",
@@ -45,7 +63,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 2327,
+    "id": 9830,
     "level": "critical",
     "country": "🌍",
     "text": "Panic on beach in northern Israel during Hezbollah strikes",
@@ -54,7 +72,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 4240,
+    "id": 9801,
     "level": "critical",
     "country": "🌍",
     "text": "Mexico beat Australia 1-0 before World Cup squad submission deadline",
@@ -63,16 +81,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 2161,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En RDC, le patron de l'OMS appelle à la mobilisation contre Ebola",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260530-en-rdc-le-patron-de-l-oms-appelle-%C3%A0-la-mobilisation-contre-ebola",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 4481,
+    "id": 1118,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -81,25 +90,16 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5340,
+    "id": 9461,
     "level": "high",
     "country": "🌍",
-    "text": "En direct : l'armée israélienne annonce étendre son offensive dans le sud du Lib",
+    "text": "En direct : l'armée israélienne hisse son drapeau sur le château stratégique de ",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260531-en-direct-iran-trump-israel-etats-unis-sud-liban-hezbollah-khamenei",
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 4652,
-    "level": "high",
-    "country": "🌍",
-    "text": "Doublé du PSG : tensions et violences à Paris, plusieurs centaines d'interpellat",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260530-plus-de-20-000-personnes-sur-les-champs-%C3%A9lys%C3%A9es-apr%C3%A8s-le-sacre-du-psg-45-personnes-en-garde-%C3%A0-vue",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 726,
+    "id": 9170,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5400,
+    "id": 9412,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2567,
+    "id": 9576,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 967,
+    "id": 7056,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8091,
+    "id": 4385,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6648,
+    "id": 1765,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7758,
+    "id": 5607,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3043,
+    "id": 7130,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,7 +171,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8096,
+    "id": 4523,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
