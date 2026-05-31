@@ -1,6 +1,6 @@
 [
   {
-    "id": 8633,
+    "id": 9060,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5742,
+    "id": 4331,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 764,
+    "id": 168,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 7576,
+    "id": 3256,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 9629,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Missing Syrian chess champion’s children likely dead, authorities say",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 2327,
     "level": "critical",
     "country": "🌍",
     "text": "Panic on beach in northern Israel during Hezbollah strikes",
@@ -36,7 +54,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 128,
+    "id": 4240,
     "level": "critical",
     "country": "🌍",
     "text": "Mexico beat Australia 1-0 before World Cup squad submission deadline",
@@ -45,16 +63,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 9397,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 2001,
+    "id": 2161,
     "level": "critical",
     "country": "🌍",
     "text": "En RDC, le patron de l'OMS appelle à la mobilisation contre Ebola",
@@ -63,7 +72,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 2509,
+    "id": 4481,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -72,7 +81,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5643,
+    "id": 5340,
     "level": "high",
     "country": "🌍",
     "text": "En direct : l'armée israélienne annonce étendre son offensive dans le sud du Lib",
@@ -81,16 +90,16 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 266,
+    "id": 4652,
     "level": "high",
     "country": "🌍",
-    "text": "Ligue des champions : débordements dans Paris après le sacre du PSG, 416 interpe",
+    "text": "Doublé du PSG : tensions et violences à Paris, plusieurs centaines d'interpellat",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/sports/20260530-plus-de-20-000-personnes-sur-les-champs-%C3%A9lys%C3%A9es-apr%C3%A8s-le-sacre-du-psg-45-personnes-en-garde-%C3%A0-vue",
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5338,
+    "id": 726,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8466,
+    "id": 5400,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2052,
+    "id": 2567,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6592,
+    "id": 967,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8076,
+    "id": 8091,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3283,
+    "id": 6648,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 785,
+    "id": 7758,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3711,
+    "id": 3043,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,21 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 244,
+    "id": 8096,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 5560,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
-    "time": "Fri, 29 May 2026"
   }
 ]
