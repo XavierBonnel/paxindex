@@ -1,6 +1,6 @@
 [
   {
-    "id": 266,
+    "id": 7584,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8569,
+    "id": 256,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 1506,
+    "id": 6827,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,16 +27,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8473,
+    "id": 9846,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
+    "text": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 8150,
+    "id": 2504,
     "level": "critical",
     "country": "🌍",
     "text": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
@@ -45,7 +45,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 3595,
+    "id": 3816,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
@@ -54,16 +54,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 7185,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Is the war in Ukraine entering a new phase?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/5/30/is-the-war-in-ukraine-entering-a-new-phase-2?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 7682,
+    "id": 5921,
     "level": "critical",
     "country": "🌍",
     "text": "En RDC, le patron de l'OMS appelle à la mobilisation contre Ebola",
@@ -72,7 +63,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 3218,
+    "id": 3707,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -81,7 +72,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 8159,
+    "id": 4623,
     "level": "high",
     "country": "🌍",
     "text": "US Congress advances American-Israeli military integration plan",
@@ -90,16 +81,25 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 9900,
+    "id": 5430,
     "level": "high",
     "country": "🌍",
-    "text": "Plus de 20 000 personnes sur les Champs-Élysées après le sacre du PSG, 45 person",
+    "text": "En direct : l'armée israélienne annonce étendre son offensive dans le sud du Lib",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260531-en-direct-iran-trump-israel-etats-unis-sud-liban-hezbollah-khamenei",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 3710,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ligue des champions : débordements dans Paris après le sacre du PSG, 416 interpe",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/sports/20260530-plus-de-20-000-personnes-sur-les-champs-%C3%A9lys%C3%A9es-apr%C3%A8s-le-sacre-du-psg-45-personnes-en-garde-%C3%A0-vue",
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 2603,
+    "id": 4434,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9279,
+    "id": 1995,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9548,
+    "id": 8202,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2753,
+    "id": 5516,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 54,
+    "id": 7355,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8026,
+    "id": 11,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4867,
+    "id": 2349,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 73,
+    "id": 4542,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,7 +171,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6699,
+    "id": 177,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
