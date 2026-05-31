@@ -1,6 +1,6 @@
 [
   {
-    "id": 4166,
+    "id": 9882,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1969,
+    "id": 4226,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8071,
+    "id": 8510,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 8375,
+    "id": 9854,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran ⁠restores some gas production at South Pars facility",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 4740,
     "level": "critical",
     "country": "🌍",
     "text": "Juan Manuel Santos on Colombia’s peace process, 10 years on",
@@ -36,7 +45,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 679,
+    "id": 8212,
     "level": "critical",
     "country": "🌍",
     "text": "What are the chances for the Iran-US ‘Declaration of Principles’?",
@@ -45,25 +54,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 4596,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Not just the US: How 51 countries armed Israel during Gaza war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 8023,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli airstrikes devastate Lebanon’s Tyre",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 5817,
+    "id": 5033,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : la centrale nucléaire de Zaporijjia touchée par un drone, af",
@@ -72,7 +63,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 9683,
+    "id": 7215,
     "level": "critical",
     "country": "🌍",
     "text": "Doublé européen du PSG : une nuit d'incidents marquée par un mort, Paris reste s",
@@ -81,7 +72,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 5358,
+    "id": 5847,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -90,7 +81,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5715,
+    "id": 285,
     "level": "high",
     "country": "🌍",
     "text": "Au Liban, Israël s'empare du château de Beaufort : \"un tournant décisif\" pour Be",
@@ -99,7 +90,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 8696,
+    "id": 6885,
     "level": "high",
     "country": "🌍",
     "text": "Israël poursuit son offensive au Liban malgré la trêve",
@@ -108,7 +99,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 1056,
+    "id": 3457,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9702,
+    "id": 1143,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4551,
+    "id": 4375,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8491,
+    "id": 1751,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2377,
+    "id": 1891,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 72,
+    "id": 3163,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7992,
+    "id": 6028,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3816,
+    "id": 354,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 9507,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
   }
 ]
