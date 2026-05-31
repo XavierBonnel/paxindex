@@ -1,6 +1,6 @@
 [
   {
-    "id": 7584,
+    "id": 8633,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 256,
+    "id": 5742,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 6827,
+    "id": 764,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,25 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 9846,
+    "id": 7576,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Panic on beach in northern Israel during Hezbollah strikes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 128,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mexico beat Australia 1-0 before World Cup squad submission deadline",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/5/31/mexico-beat-australia-1-0-a-day-before-world-cup-squad-submission-deadline?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 9397,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
@@ -36,25 +54,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 2504,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 3816,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 5921,
+    "id": 2001,
     "level": "critical",
     "country": "🌍",
     "text": "En RDC, le patron de l'OMS appelle à la mobilisation contre Ebola",
@@ -63,7 +63,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 3707,
+    "id": 2509,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -72,16 +72,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 4623,
-    "level": "high",
-    "country": "🌍",
-    "text": "US Congress advances American-Israeli military integration plan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 5430,
+    "id": 5643,
     "level": "high",
     "country": "🌍",
     "text": "En direct : l'armée israélienne annonce étendre son offensive dans le sud du Lib",
@@ -90,7 +81,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 3710,
+    "id": 266,
     "level": "high",
     "country": "🌍",
     "text": "Ligue des champions : débordements dans Paris après le sacre du PSG, 416 interpe",
@@ -99,7 +90,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 4434,
+    "id": 5338,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1995,
+    "id": 8466,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8202,
+    "id": 2052,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5516,
+    "id": 6592,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7355,
+    "id": 8076,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 11,
+    "id": 3283,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2349,
+    "id": 785,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4542,
+    "id": 3711,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,12 +162,21 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 177,
+    "id": 244,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 5560,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
+    "time": "Fri, 29 May 2026"
   }
 ]
