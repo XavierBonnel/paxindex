@@ -1,6 +1,6 @@
 [
   {
-    "id": 3794,
+    "id": 266,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1551,
+    "id": 8569,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5839,
+    "id": 1506,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,16 +27,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 9235,
+    "id": 8473,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Lebanon accuses Israel of pursuing a ‘scorched earth policy’",
+    "text": "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 2030,
+    "id": 8150,
     "level": "critical",
     "country": "🌍",
     "text": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
@@ -45,7 +45,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 6303,
+    "id": 3595,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
@@ -54,7 +54,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 6346,
+    "id": 7185,
     "level": "critical",
     "country": "🌍",
     "text": "Is the war in Ukraine entering a new phase?",
@@ -63,16 +63,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 516,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
-    "time": "Sat, 30 May 2026"
-  },
-  {
-    "id": 8800,
+    "id": 7682,
     "level": "critical",
     "country": "🌍",
     "text": "En RDC, le patron de l'OMS appelle à la mobilisation contre Ebola",
@@ -81,7 +72,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 7314,
+    "id": 3218,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -90,7 +81,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 462,
+    "id": 8159,
     "level": "high",
     "country": "🌍",
     "text": "US Congress advances American-Israeli military integration plan",
@@ -99,7 +90,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 357,
+    "id": 9900,
     "level": "high",
     "country": "🌍",
     "text": "Plus de 20 000 personnes sur les Champs-Élysées après le sacre du PSG, 45 person",
@@ -108,7 +99,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 890,
+    "id": 2603,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 733,
+    "id": 9279,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1008,
+    "id": 9548,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8331,
+    "id": 2753,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8755,
+    "id": 54,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5272,
+    "id": 8026,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2536,
+    "id": 4867,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8057,
+    "id": 73,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 6699,
+    "level": "medium",
+    "country": "🌍",
+    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-05T14:19"
   }
 ]
