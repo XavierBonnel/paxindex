@@ -1,6 +1,6 @@
 [
   {
-    "id": 8796,
+    "id": 7821,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 197,
+    "id": 6151,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 404,
+    "id": 4985,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,34 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 9011,
+    "id": 2413,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What are the chances for the Iran-US ‘Declaration of Principles’?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/31/what-are-the-chances-for-the-iran-us-declaration-of?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 4028,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Not just the US: How 51 countries armed Israel during Gaza war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 3628,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli airstrikes devastate Lebanon’s Tyre",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-airstrikes-devastate-lebanons-tyre?traffic_source=rss",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 6247,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli forces push past Lebanon’s Litani River: How significant is it?",
@@ -36,16 +63,16 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 5284,
+    "id": 1714,
     "level": "critical",
     "country": "🌍",
-    "text": "Rio’s Forever War",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
+    "text": "Guerre en Ukraine : la centrale nucléaire de Zaporijjia touchée par un drone, af",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260531-guerre-ukraine-centrale-nucl%C3%A9aire-zaporijjia-touch%C3%A9e-drone-affirme-aiea-territoire-occup%C3%A9-russie",
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 5093,
+    "id": 1454,
     "level": "critical",
     "country": "🌍",
     "text": "Doublé européen du PSG : une nuit d'incidents marquée par un mort, Paris reste s",
@@ -54,7 +81,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 2880,
+    "id": 8072,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -63,7 +90,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5738,
+    "id": 4875,
     "level": "high",
     "country": "🌍",
     "text": "Satellite imagery shows erasure of southern Gaza as Israel expands control",
@@ -72,16 +99,16 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 8632,
+    "id": 7386,
     "level": "high",
     "country": "🌍",
-    "text": "Japan rejects ‘new militarism’, says China is rapidly arming",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss",
+    "text": "Au Liban, Israël s'empare du château de Beaufort : \"un tournant décisif\" pour Be",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260531-au-liban-isra%C3%ABl-s-empare-du-ch%C3%A2teau-de-beaufort-un-tournant-d%C3%A9cisif-pour-benjamin-netanyahu",
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 5962,
+    "id": 5403,
     "level": "high",
     "country": "🌍",
     "text": "Israël poursuit son offensive au Liban malgré la trêve",
@@ -90,7 +117,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 1371,
+    "id": 6617,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 647,
+    "id": 6680,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8325,
+    "id": 6684,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5360,
+    "id": 7351,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 631,
+    "id": 3696,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1300,
+    "id": 533,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,39 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7643,
+    "id": 42,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 3981,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 4298,
-    "level": "medium",
-    "country": "🌍",
-    "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-05T14:19"
-  },
-  {
-    "id": 4042,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The seed guardian of Brazil’s Caatinga",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
-    "time": "Sun, 31 May 2026"
   }
 ]
