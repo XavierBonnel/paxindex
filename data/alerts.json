@@ -1,6 +1,6 @@
 [
   {
-    "id": 5472,
+    "id": 5173,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3990,
+    "id": 2938,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 6908,
+    "id": 2652,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,7 +27,16 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3708,
+    "id": 845,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss",
+    "time": "Mon, 01 Jun 2026"
+  },
+  {
+    "id": 6203,
     "level": "critical",
     "country": "🌍",
     "text": "Kuwait condemns Iranian attack as Iran-US trade new strikes",
@@ -36,43 +45,16 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 8042,
+    "id": 5296,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel bombs a beloved Lebanese landmark, chef Husen Fayad’s restaurant",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israel-bombs-a-beloved-lebanese-landmark-chef-husen-fayads-restaurant?traffic_source=rss",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 4292,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US, Iran trade new attacks amid talks: Here’s what we know",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know?traffic_source=rss",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 6576,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran’s IRGC launches retaliatory strike after US attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 9111,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Moyen-Orient : le Koweït de nouveau visé par des attaques de missiles et de dron",
+    "text": "Kenya : huit arrestations après l'incendie mortel dans un dortoir de filles",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-moyen-orient-le-kowe%C3%AFt-de-nouveau-vis%C3%A9-par-des-attaques-de-missiles-et-de-drones",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-kenya-huit-arrestations-apr%C3%A8s-l-incendie-mortel-dans-un-dortoir-de-filles",
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 1696,
+    "id": 7705,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -81,7 +63,16 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 4546,
+    "id": 8402,
+    "level": "high",
+    "country": "🌍",
+    "text": "What is Lebanon’s Beaufort Castle, and why has Israel captured it?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/1/what-is-lebanons-beaufort-castle-and-why-has-israel-captured-it?traffic_source=rss",
+    "time": "Mon, 01 Jun 2026"
+  },
+  {
+    "id": 7746,
     "level": "high",
     "country": "🌍",
     "text": "French navy, backed by the UK, intercepts Russian oil tanker",
@@ -90,16 +81,16 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 5915,
+    "id": 9898,
     "level": "high",
     "country": "🌍",
-    "text": "Gaza : l'extension du contrôle israélien menace un cessez-le-feu déjà fragile",
+    "text": "Flotte fantôme russe : un quatrième pétrolier arraisonné par la Marine française",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-gaza-l-extension-du-contr%C3%B4le-isra%C3%A9lien-menace-un-cessez-le-feu-d%C3%A9j%C3%A0-fragile",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-flotte-fant%C3%B4me-russe-un-quatri%C3%A8me-p%C3%A9trolier-arraisonn%C3%A9-par-la-marine-fran%C3%A7aise-en-atlantique",
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 6219,
+    "id": 21,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6297,
+    "id": 1518,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7151,
+    "id": 4455,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5388,
+    "id": 3537,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4203,
+    "id": 4198,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7193,
+    "id": 5197,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6769,
+    "id": 14,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6022,
+    "id": 8896,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,12 +162,21 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2155,
+    "id": 9665,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 4544,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The seed guardian of Brazil’s Caatinga",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
+    "time": "Sun, 31 May 2026"
   }
 ]
