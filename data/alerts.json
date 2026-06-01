@@ -1,6 +1,6 @@
 [
   {
-    "id": 5368,
+    "id": 2684,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8201,
+    "id": 5879,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 2048,
+    "id": 7145,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,7 +27,16 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3740,
+    "id": 5931,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike damages hospital in southern Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss",
+    "time": "Mon, 01 Jun 2026"
+  },
+  {
+    "id": 3219,
     "level": "critical",
     "country": "🌍",
     "text": "Activists plaster missing posters around Mexico stadiums ahead of World Cup",
@@ -36,43 +45,16 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 8775,
+    "id": 3639,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks?traffic_source=rss",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 9952,
-    "level": "critical",
-    "country": "🌍",
-    "text": "As Israel pushes past the Litani, Lebanese question the purpose of UNIFIL",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/6/1/as-israel-pushes-past-the-litani-lebanese-question-the-purpose-of-unifil?traffic_source=rss",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 6653,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au Liban, la forteresse de Beaufort, un lieu symbolique des conflits dans la rég",
+    "text": "Israël/Liban : un tournant dans le sud ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260601-liban-forteresse-beaufort-lieu-symbole-conflits-r%C3%A9gion-isra%C3%ABl-guerre",
+    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260601-isra%C3%ABl-liban-un-tournant-dans-le-sud",
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 8345,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Des mois après la répression en Iran, la traque sans relâche des manifestants",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260601-en-iran-la-traque-des-manifestants-de-janvier-se-poursuit-prison-enfants-peine-de-mort-pendaison-gardiens-revolution-arrestation-ong-bilan-victime-repression",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 8701,
+    "id": 626,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -81,34 +63,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 756,
-    "level": "high",
-    "country": "🌍",
-    "text": "La France et la Russie à couteaux tirés ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260601-la-france-et-la-russie-%C3%A0-couteaux-tir%C3%A9s",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 3626,
-    "level": "high",
-    "country": "🌍",
-    "text": "Malte : explosion dans une usine de feux d'artifice",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-malte-explosion-dans-une-usine-de-feux-d-artifice",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 6948,
-    "level": "high",
-    "country": "🌍",
-    "text": "Liban : le drapeau israélien flotte au-dessus de la forteresse de Beaufort",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-liban-le-drapeau-isra%C3%A9lien-flotte-au-dessus-de-la-forteresse-de-beaufort",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 6463,
+    "id": 5510,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5627,
+    "id": 9468,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1894,
+    "id": 8035,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7745,
+    "id": 5758,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1602,
+    "id": 1883,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2249,
+    "id": 6423,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4167,
+    "id": 1495,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +126,57 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5435,
+    "id": 8188,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 6231,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 8277,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ugandan activists make the case for ecofeminism",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
+    "time": "Mon, 01 Jun 2026"
+  },
+  {
+    "id": 5108,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The seed guardian of Brazil’s Caatinga",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 4076,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 9256,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How Kazakhstan resurrected the North Aral Sea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/how-kazakhstan-resurrected-the-north-aral-sea/",
+    "time": "Fri, 29 May 2026"
   }
 ]
