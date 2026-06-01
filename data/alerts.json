@@ -1,6 +1,6 @@
 [
   {
-    "id": 8061,
+    "id": 6359,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9409,
+    "id": 4321,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -18,7 +18,7 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8578,
+    "id": 1607,
     "level": "critical",
     "country": "🌍",
     "text": "Disease, drought, and conflict: How Yemenis are adapting to a compounding crisis",
@@ -27,7 +27,16 @@
     "time": "Tue, 26 May 2026"
   },
   {
-    "id": 6682,
+    "id": 976,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
+    "time": "Mon, 01 Jun 2026"
+  },
+  {
+    "id": 9664,
     "level": "critical",
     "country": "🌍",
     "text": "Ethiopia to vote in first elections since Tigray peace deal",
@@ -36,34 +45,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 892,
-    "level": "critical",
-    "country": "🌍",
-    "text": "As Ethiopia votes, its deepening human rights crisis must be addressed",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed?traffic_source=rss",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 9475,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ethiopia’s election is about affirming national commitment to democracy",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/5/31/ethiopias-election-is-about-affirming-national-commitment-to-democracy-2?traffic_source=rss",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 905,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/5/31/newark-mayor-imposes-curfew-at-delaney-hall-immigration-detention-centre?traffic_source=rss",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 5270,
+    "id": 1608,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : la centrale nucléaire de Zaporijjia touchée par un drone, af",
@@ -72,7 +54,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 9437,
+    "id": 4979,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -81,7 +63,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5922,
+    "id": 6196,
     "level": "high",
     "country": "🌍",
     "text": "Au Liban, Israël s'empare du château de Beaufort : \"un tournant décisif\" pour Be",
@@ -90,7 +72,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 6545,
+    "id": 5274,
     "level": "high",
     "country": "🌍",
     "text": "Israël poursuit son offensive au Liban malgré la trêve",
@@ -99,7 +81,7 @@
     "time": "Sun, 31 May 2026"
   },
   {
-    "id": 2919,
+    "id": 6324,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3289,
+    "id": 6297,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1220,
+    "id": 7707,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3776,
+    "id": 3874,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6173,
+    "id": 8735,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8511,
+    "id": 5593,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5180,
+    "id": 6815,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9427,
+    "id": 3610,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,12 +153,30 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 533,
+    "id": 818,
     "level": "medium",
     "country": "🌍",
     "text": "NDSU, RAND Launch Research Partnership Focusing on Issues Faced in North Dakota'",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-05T14:19"
+  },
+  {
+    "id": 4410,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The seed guardian of Brazil’s Caatinga",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 125,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
+    "time": "Fri, 29 May 2026"
   }
 ]
