@@ -1,6 +1,6 @@
 [
   {
-    "id": 9161,
+    "id": 2851,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9712,
+    "id": 4522,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 1967,
+    "id": 5472,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,43 +27,61 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8802,
+    "id": 3374,
     "level": "critical",
     "country": "🌍",
-    "text": "At least nine people killed, dozens wounded in Russian attacks on Ukraine",
+    "text": "France World Cup 2026 preview: Players to watch, group matches and squad",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/2/at-least-nine-people-killed-dozens-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/6/2/france-world-cup-2026-preview-players-to-watch-group-matches-and-squad?traffic_source=rss",
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 3432,
+    "id": 958,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks",
+    "text": "Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/2/mozambique-says-5-citizens-killed-in-xenophobic-attacks-in-south-africa?traffic_source=rss",
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 7362,
+    "id": 3505,
     "level": "critical",
     "country": "🌍",
-    "text": "Mexican protesters clash with police ahead of the 2026 World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/mexican-protesters-clash-with-police-ahead-of-the-2026-world-cup?traffic_source=rss",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 8377,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Ukraine, des attaques russes meurtrières visent Kiev, Dnipro et Kharkiv",
+    "text": "Internement des Tsiganes : la mémoire des survivants, un combat pour la dignité",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260602-en-ukraine-des-attaques-russes-meurtri%C3%A8res-visent-kiev-dnipro-et-kharkiv",
+    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260602-internement-des-tsiganes-la-m%C3%A9moire-des-survivants-un-combat-pour-la-dignit%C3%A9",
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 9637,
+    "id": 7434,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bombardements intenses en Ukraine : au moins quatre morts à Kiev",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-bombardements-intenses-en-ukraine-au-moins-quatre-morts-%C3%A0-kiev",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 8375,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ebola : deux morts dans des manifestations au Kenya contre des centres d'isoleme",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-ebola-deux-morts-dans-des-manifestations-au-kenya-contre-des-centres-d-isolement-am%C3%A9ricains",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 2244,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : au moins quatre morts à Kiev après des frappes de missiles r",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-guerre-en-ukraine-au-moins-quatre-morts-%C3%A0-kiev-apr%C3%A8s-des-frappes-de-missiles-russes",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 4430,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -72,25 +90,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 6723,
-    "level": "high",
-    "country": "🌍",
-    "text": "US Defense Department bars journalists from its press office",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/2/us-defense-department-bars-journalists-from-its-press-office?traffic_source=rss",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 3797,
-    "level": "high",
-    "country": "🌍",
-    "text": "Forteresse de Beaufort : l'histoire va-t-elle bégayer au Liban ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260601-forteresse-de-beaufort-l-histoire-va-t-elle-b%C3%A9gayer-au-liban",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 9535,
+    "id": 635,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 328,
+    "id": 781,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8392,
+    "id": 3734,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5455,
+    "id": 9073,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9015,
+    "id": 9419,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6837,
+    "id": 6738,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3484,
+    "id": 5676,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3111,
+    "id": 5502,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1903,
+    "id": 9098,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,7 +171,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1119,
+    "id": 612,
     "level": "medium",
     "country": "🌍",
     "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
