@@ -1,6 +1,6 @@
 [
   {
-    "id": 3959,
+    "id": 420,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9053,
+    "id": 9484,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 6842,
+    "id": 31,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,7 +27,16 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3262,
+    "id": 7318,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mexican protesters clash with police ahead of the 2026 World Cup",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/mexican-protesters-clash-with-police-ahead-of-the-2026-world-cup?traffic_source=rss",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 3172,
     "level": "critical",
     "country": "🌍",
     "text": "President Trump attempts to end hostilities in Lebanon",
@@ -36,7 +45,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 7458,
+    "id": 7463,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
@@ -45,16 +54,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 9681,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Who attended this year’s Israel Day Parade in New York?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/who-attended-this-years-israel-day-parade-in-new-york?traffic_source=rss",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 509,
+    "id": 263,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -63,7 +63,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 814,
+    "id": 3402,
     "level": "high",
     "country": "🌍",
     "text": "US Defense Department bars journalists from its press office",
@@ -72,25 +72,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 2618,
-    "level": "high",
-    "country": "🌍",
-    "text": "US court upholds injunction against Trump policy banning transgender troops",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/1/us-court-upholds-injunction-against-trump-policy-banning-transgender-troops?traffic_source=rss",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 962,
-    "level": "high",
-    "country": "🌍",
-    "text": "En direct : le Hezbollah dit attaquer l'armée israélienne dans le sud du Liban",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260602-en-direct-moyen-orient-liban-hezbollah-attaque-israel-trump",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 2319,
+    "id": 6490,
     "level": "high",
     "country": "🌍",
     "text": "Forteresse de Beaufort : l'histoire va-t-elle bégayer au Liban ?",
@@ -99,7 +81,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 1331,
+    "id": 6497,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9895,
+    "id": 1547,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6829,
+    "id": 3819,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1101,
+    "id": 4037,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5789,
+    "id": 2833,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5681,
+    "id": 889,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6904,
+    "id": 4425,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4231,
+    "id": 1274,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +153,30 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4130,
+    "id": 4865,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 826,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ugandan activists make the case for ecofeminism",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
+    "time": "Mon, 01 Jun 2026"
+  },
+  {
+    "id": 1076,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The seed guardian of Brazil’s Caatinga",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
+    "time": "Sun, 31 May 2026"
   }
 ]
