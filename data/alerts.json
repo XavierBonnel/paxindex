@@ -1,6 +1,6 @@
 [
   {
-    "id": 2851,
+    "id": 4801,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4522,
+    "id": 1760,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 5472,
+    "id": 9115,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,25 +27,70 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 3374,
+    "id": 8872,
     "level": "critical",
     "country": "🌍",
-    "text": "France World Cup 2026 preview: Players to watch, group matches and squad",
+    "text": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/2/france-world-cup-2026-preview-players-to-watch-group-matches-and-squad?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss",
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 958,
+    "id": 9565,
     "level": "critical",
     "country": "🌍",
-    "text": "Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa",
+    "text": "Trump says Israel, Hezbollah to stop fighting: What we know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/2/mozambique-says-5-citizens-killed-in-xenophobic-attacks-in-south-africa?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know?traffic_source=rss",
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 3505,
+    "id": 5366,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How the war has made Iran’s water crisis worse",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 3122,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israël : la guerre pour seul horizon ? Parlons-en avec Sylvaine Bulle, Tamar Seb",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260602-isra%C3%ABl-la-guerre-pour-seul-horizon-parlons-en-avec-sylvaine-bulle-tamar-sebok-et-anne-corpet",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 3416,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fatoumata Diawara : le Mali, ses combats et son dernier album \"Massa\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260602-fatoumata-diawara-le-mali-ses-combats-et-son-dernier-album-massa",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 7820,
+    "level": "critical",
+    "country": "🌍",
+    "text": "RD Congo, quinze civils et un militaire tués dans une attaque à Beni",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-rd-congo-quinze-civils-et-un-militaire-tu%C3%A9s-dans-une-attaque-%C3%A0-beni",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 3508,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : au moins 18 morts et 73 missiles tirés par la Russie la nuit",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-guerre-en-ukraine-au-moins-18-morts-et-73-missiles-tir%C3%A9s-par-la-russie-la-nuit-derni%C3%A8re",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 6670,
     "level": "critical",
     "country": "🌍",
     "text": "Internement des Tsiganes : la mémoire des survivants, un combat pour la dignité",
@@ -54,34 +99,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 7434,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Bombardements intenses en Ukraine : au moins quatre morts à Kiev",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-bombardements-intenses-en-ukraine-au-moins-quatre-morts-%C3%A0-kiev",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 8375,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ebola : deux morts dans des manifestations au Kenya contre des centres d'isoleme",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-ebola-deux-morts-dans-des-manifestations-au-kenya-contre-des-centres-d-isolement-am%C3%A9ricains",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 2244,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : au moins quatre morts à Kiev après des frappes de missiles r",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-guerre-en-ukraine-au-moins-quatre-morts-%C3%A0-kiev-apr%C3%A8s-des-frappes-de-missiles-russes",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 4430,
+    "id": 7074,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -90,7 +108,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 635,
+    "id": 2919,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 781,
+    "id": 5185,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3734,
+    "id": 879,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9073,
+    "id": 3119,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9419,
+    "id": 6820,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6738,
+    "id": 5997,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5676,
+    "id": 3974,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,30 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5502,
+    "id": 5982,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9098,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 612,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
-    "time": "Tue, 02 Jun 2026"
   }
 ]
