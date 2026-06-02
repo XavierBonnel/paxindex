@@ -1,6 +1,6 @@
 [
   {
-    "id": 412,
+    "id": 1237,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1040,
+    "id": 3825,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 956,
+    "id": 7291,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,7 +27,34 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8182,
+    "id": 2454,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli settlers torch Palestinian homes in village near Ramallah",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/israeli-settlers-torch-palestinian-homes-in-village-near-ramallah?traffic_source=rss",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 5085,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine’s Kostyuk blasts Russia stars in French Open outburst over war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war?traffic_source=rss",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 347,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Norway supports ethics complaint against FIFA’s Infantino on World Cup eve",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/2/norwegian-fa-supports-ethics-complaint-against-fifa-chief-infantino?traffic_source=rss",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 1804,
     "level": "critical",
     "country": "🌍",
     "text": "Scene of damaged hospital after Israeli strike in southern Lebanon",
@@ -36,34 +63,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 4019,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US university sells dead bodies to navy for Israeli military training",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/longform/2026/6/2/us-university-sells-dead-bodies-to-navy-for-israeli-military-training?traffic_source=rss",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 9314,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UN tells world to brace for extreme weather as El Nino looms",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms?traffic_source=rss",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 7397,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap?traffic_source=rss",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 5405,
+    "id": 2866,
     "level": "critical",
     "country": "🌍",
     "text": "Malgré les promesses de désescalade, Israël mène des attaques meurtrières au Sud",
@@ -72,7 +72,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 4305,
+    "id": 5852,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -81,7 +81,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 8712,
+    "id": 4231,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7334,
+    "id": 5360,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8351,
+    "id": 2388,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4571,
+    "id": 9118,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8865,
+    "id": 7100,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1840,
+    "id": 5572,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9292,
+    "id": 9060,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9343,
+    "id": 580,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8377,
+    "id": 5630,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,21 +162,21 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7340,
+    "id": 8831,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Rubbish as a resource: How communities in Mozambique transform waste into climat",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 5727,
     "level": "medium",
     "country": "🌍",
     "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
     "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 2908,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ugandan activists make the case for ecofeminism",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
-    "time": "Mon, 01 Jun 2026"
   }
 ]
