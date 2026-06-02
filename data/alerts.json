@@ -1,6 +1,6 @@
 [
   {
-    "id": 4801,
+    "id": 3129,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1760,
+    "id": 8481,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 9115,
+    "id": 649,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,7 +27,16 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 8872,
+    "id": 5613,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen: Agrometeorological Early Warning Bulletin (01 - 10 June 2026) [EN/AR]",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/yemen-agrometeorological-early-warning-bulletin-01-10-june-2026-enar",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 9620,
     "level": "critical",
     "country": "🌍",
     "text": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
@@ -36,7 +45,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 9565,
+    "id": 6301,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says Israel, Hezbollah to stop fighting: What we know",
@@ -45,7 +54,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 5366,
+    "id": 3500,
     "level": "critical",
     "country": "🌍",
     "text": "How the war has made Iran’s water crisis worse",
@@ -54,7 +63,25 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 3122,
+    "id": 4320,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attaque massive en Ukraine par la Russie : au moins 18 morts dans le pays",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-attaque-massive-en-ukraine-par-la-russie-au-moins-18-morts-dans-le-pays",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 6917,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au Liban, six morts dans une frappe israélienne",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-au-liban-six-morts-dans-une-frappe-isra%C3%A9lienne",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 5337,
     "level": "critical",
     "country": "🌍",
     "text": "Israël : la guerre pour seul horizon ? Parlons-en avec Sylvaine Bulle, Tamar Seb",
@@ -63,7 +90,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 3416,
+    "id": 9033,
     "level": "critical",
     "country": "🌍",
     "text": "Fatoumata Diawara : le Mali, ses combats et son dernier album \"Massa\"",
@@ -72,7 +99,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 7820,
+    "id": 8913,
     "level": "critical",
     "country": "🌍",
     "text": "RD Congo, quinze civils et un militaire tués dans une attaque à Beni",
@@ -81,25 +108,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 3508,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : au moins 18 morts et 73 missiles tirés par la Russie la nuit",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260602-guerre-en-ukraine-au-moins-18-morts-et-73-missiles-tir%C3%A9s-par-la-russie-la-nuit-derni%C3%A8re",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 6670,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Internement des Tsiganes : la mémoire des survivants, un combat pour la dignité",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260602-internement-des-tsiganes-la-m%C3%A9moire-des-survivants-un-combat-pour-la-dignit%C3%A9",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 7074,
+    "id": 4844,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -108,7 +117,16 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 2919,
+    "id": 8972,
+    "level": "high",
+    "country": "🌍",
+    "text": "Lebanon: Children Remain at Risk Despite Ceasefire",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-children-remain-risk-despite-ceasefire",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 6076,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5185,
+    "id": 3402,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 879,
+    "id": 1161,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3119,
+    "id": 6979,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6820,
+    "id": 8729,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,30 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5997,
+    "id": 383,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 3974,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 5982,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
