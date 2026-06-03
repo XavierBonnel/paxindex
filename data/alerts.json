@@ -1,6 +1,6 @@
 [
   {
-    "id": 4810,
+    "id": 5762,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 10,
+    "id": 2123,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,52 +18,43 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 8787,
+    "id": 4327,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strikes near Tyre hospital put youngest patient at risk",
+    "text": "US House of Representatives passes war powers resolution in rebuke to Trump",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 6280,
+    "id": 4866,
     "level": "critical",
     "country": "🌍",
-    "text": "Dalai Lama receives Grammy award for spoken-word album",
+    "text": "Kuwait labels Iran attack ‘heinous aggression’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/dalai-lama-receives-grammy-award-for-spoken-word-album?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-labels-iran-attack-heinous?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 2954,
+    "id": 2390,
     "level": "critical",
     "country": "🌍",
-    "text": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
+    "text": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5205,
+    "id": 1723,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran faces a new energy imbalance, but its options are limited",
+    "text": "Deadly fire rips through New Delhi hotel",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/deadly-fire-rips-through-new-delhi-hotel?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 6825,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 9930,
+    "id": 2018,
     "level": "critical",
     "country": "🌍",
     "text": "Opération \"ville morte\" à Kinshasa, initiée par la coalition d'opposition C64",
@@ -72,7 +63,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 7324,
+    "id": 4877,
     "level": "critical",
     "country": "🌍",
     "text": "La croissance mondiale menacée par le conflit au Moyen-Orient",
@@ -81,7 +72,16 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 3455,
+    "id": 8279,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Liban : nouvelles frappes israéliennes meurtrières, le Hezbollah dit avoir visé ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260603-liban-nouvelles-frappes-isra%C3%A9liennes-meurtri%C3%A8res-le-hezbollah-dit-avoir-vis%C3%A9-isra%C3%ABl",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 6705,
     "level": "critical",
     "country": "🌍",
     "text": "Royaume-Uni : l'indignation monte autour de l'arrestation d'un étudiant poignard",
@@ -90,7 +90,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 9524,
+    "id": 6129,
     "level": "critical",
     "country": "🌍",
     "text": "Roland-Garros : Kostyuk contre Andreeva, une demi-finale sur fond de guerre en U",
@@ -99,16 +99,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5012,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'aéroport de Koweït City en feu après un attaque iranienne, au moins un mort et",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-l-a%C3%A9roport-de-kowe%C3%AFt-city-en-feu-apr%C3%A8s-un-attaque-iranienne-au-moins-un-mort-et-63-bless%C3%A9s",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 3193,
+    "id": 1414,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -117,7 +108,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5072,
+    "id": 9370,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4897,
+    "id": 6534,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7516,
+    "id": 633,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 231,
+    "id": 5612,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3281,
+    "id": 8238,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1584,
+    "id": 8766,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +162,21 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8179,
+    "id": 2139,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 8069,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
   }
 ]
