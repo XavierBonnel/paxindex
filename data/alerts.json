@@ -1,6 +1,6 @@
 [
   {
-    "id": 5636,
+    "id": 6868,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5022,
+    "id": 6353,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 8449,
+    "id": 3789,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,106 +27,52 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 6633,
+    "id": 7553,
     "level": "critical",
     "country": "🌍",
-    "text": "Attacks on Health Care in Sudan, 13 - 26 May 2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/sudan/attacks-health-care-sudan-13-26-may-2026",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 2991,
-    "level": "critical",
-    "country": "🌍",
-    "text": "oPt: UN Human Rights condemns repeated Israeli attacks on police personnel in Ga",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/occupied-palestinian-territory/un-human-rights-condemns-repeated-israeli-attacks-police-personnel-gaza",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 1118,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel’s invasion of southern Lebanon devastates centuries of history",
+    "text": "DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/3/israels-invasion-of-southern-lebanon-devastates-centuries-of-history?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/6/3/dr-congo-to-offset-ebola-threat-with-behind-closed-doors-world-cup-warm-up?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5364,
+    "id": 8351,
     "level": "critical",
     "country": "🌍",
-    "text": "Remembering Muhammad Ali’s message of peace",
+    "text": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/6/3/remembering-muhammad-alis-message-of-peace?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 8465,
+    "id": 2883,
     "level": "critical",
     "country": "🌍",
-    "text": "How social media changes the way we see war",
+    "text": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/all-hail/2026/6/3/how-social-media-changes-the-way-we-see-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 8901,
+    "id": 659,
     "level": "critical",
     "country": "🌍",
-    "text": "Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 5416,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : visite surprise du chef de l'Otan Mark Rutte à Kiev après une nuit de ",
+    "text": "Ukraine : attaques de drones sur Saint-Pétersbourg et contre un navire de guerre",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-ukraine-visite-surprise-du-chef-de-l-otan-mark-rutte-%C3%A0-kiev-apr%C3%A8s-une-nuit-de-frappes",
+    "link": "https://www.france24.com/fr/europe/20260603-ukraine-attaques-drones-sur-saint-p%C3%A9tersbourg-navire-de-guerre-kronstadt",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5150,
+    "id": 8959,
     "level": "critical",
     "country": "🌍",
-    "text": "Un bus frappé par un drone ukrainien dans l'est du pays, sept personnes tuées",
+    "text": "Au Liban, la guerre ravive les tensions entre communautés et la méfiance envers ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-un-bus-frapp%C3%A9-par-un-drone-ukrainien-dans-l-est-du-pays-sept-personnes-tu%C3%A9es",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-au-liban-la-guerre-ravive-les-tensions-entre-communaut%C3%A9s-et-la-m%C3%A9fiance-envers-le-hezbollah",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 8562,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Une attaque de drone ukrainiens frappe Saint-Pétersbourg au premier jour du Foru",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-une-attaque-de-drone-ukrainiens-frappe-saint-p%C3%A9tersbourg-au-premier-jour-du-forum-%C3%A9conomique-russe",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 1750,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Hommage national à Edgar Morin, \"un destin exceptionnel dans le siècle\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260603-hommage-national-%C3%A0-edgar-morin-un-destin-exceptionnel-du-si%C3%A8cle",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 5726,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'Ukraine frappe Saint-Pétersbourg, la Russie dit avoir abattu 354 drones sur so",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-l-ukraine-frappe-saint-p%C3%A9tersbourg-la-russie-dit-avoir-abattu-354-drones-sur-son-territoire",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 2399,
+    "id": 1686,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -135,7 +81,16 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 7215,
+    "id": 854,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israel is building more military posts in Gaza, satellite imagery shows",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/3/israel-is-building-more-military-posts-in-gaza-satellite-imagery-shows?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 2034,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2421,
+    "id": 8505,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1415,
+    "id": 6556,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5429,
+    "id": 91,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +126,57 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3130,
+    "id": 3670,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 9532,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 6654,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 6,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 6605,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 3687,
+    "level": "medium",
+    "country": "🌍",
+    "text": "AI cameras are surveilling the roads in Dhaka, Bangladesh",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/03/ai-cameras-are-surveilling-the-roads-in-dhaka-bangladesh/",
+    "time": "Wed, 03 Jun 2026"
   }
 ]
