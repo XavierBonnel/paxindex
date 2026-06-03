@@ -1,15 +1,6 @@
 [
   {
-    "id": 5955,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-24T00:01"
-  },
-  {
-    "id": 6968,
+    "id": 4665,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +9,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 5745,
+    "id": 3144,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,7 +18,16 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 5206,
+    "id": 8753,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine drone attack kills 7 in Russian-held territory in new escalation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/3/ukraine-drone-attack-kills-7-in-russian-held-territory-in-new-escalation?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 9518,
     "level": "critical",
     "country": "🌍",
     "text": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
@@ -36,7 +36,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5807,
+    "id": 1164,
     "level": "critical",
     "country": "🌍",
     "text": "Kyiv residents seek shelter during renewed Russian attacks",
@@ -45,34 +45,16 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 3688,
+    "id": 4250,
     "level": "critical",
     "country": "🌍",
-    "text": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss",
+    "text": "En direct : des drones ukrainiens visent Saint-Pétersbourg, une frappe meurtrièr",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260603-en-direct-drones-ukrainiens-visent-saint-p%C3%A9tersbourg-frappe-meurtri%C3%A8re-pr%C3%A8s-donetsk",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5440,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain?traffic_source=rss",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 9033,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Why women go to war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/all-hail/2026/6/3/why-women-go-to-war?traffic_source=rss",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 1770,
+    "id": 9888,
     "level": "critical",
     "country": "🌍",
     "text": "Trump - Netanyahou : je t'aime, moi non plus !",
@@ -81,7 +63,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 1509,
+    "id": 6138,
     "level": "critical",
     "country": "🌍",
     "text": "À Paris, deux morts dans la Seine en marge des célébrations du sacre du PSG",
@@ -90,7 +72,7 @@
     "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 4451,
+    "id": 3651,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -99,16 +81,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 5104,
-    "level": "high",
-    "country": "🌍",
-    "text": "Accident on Kuwait motorway as Iranian missiles fly overhead",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead?traffic_source=rss",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 6492,
+    "id": 9025,
     "level": "high",
     "country": "🌍",
     "text": "En direct : l'armée américaine dit avoir repoussé des attaques de missiles irani",
@@ -117,66 +90,93 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 6622,
+    "id": 5264,
     "level": "high",
     "country": "🌍",
-    "text": "En direct : l'armée américaine dit avoir repoussé des attaques iraniennes dans l",
+    "text": "Moyen-Orient en direct : l'aéroport du Koweït touché par des drones iraniens, le",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260603-en-direct-moyen-orient-iran-attaques-missiles-golfe-etats-unis-trump-liban-israel",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 3188,
+    "id": 9288,
     "level": "medium",
     "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
+    "text": "Rubbish as a resource: How communities in Mozambique transform waste into climat",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
+    "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 7006,
+    "id": 8856,
     "level": "medium",
     "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
+    "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
+    "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 2042,
+    "id": 323,
     "level": "medium",
     "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
+    "text": "Ugandan activists make the case for ecofeminism",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
+    "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 187,
+    "id": 6932,
     "level": "medium",
     "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
+    "text": "The seed guardian of Brazil’s Caatinga",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
+    "time": "Sun, 31 May 2026"
   },
   {
-    "id": 2691,
+    "id": 5529,
     "level": "medium",
     "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
+    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
+    "time": "Fri, 29 May 2026"
   },
   {
-    "id": 6112,
+    "id": 7687,
     "level": "medium",
     "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
+    "text": "How Kazakhstan resurrected the North Aral Sea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/how-kazakhstan-resurrected-the-north-aral-sea/",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 6283,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Countless endangered species are making a comeback due to global conservation ef",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/28/countless-endangered-species-are-making-a-comeback-due-to-global-conservation-efforts/",
+    "time": "Thu, 28 May 2026"
+  },
+  {
+    "id": 6236,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘Service is the rent we pay’: Muhammad Ali remembered 10 years on",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/6/3/service-is-the-rent-we-pay-muhammad-ali-remembered-10-years-on?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 7256,
+    "level": "medium",
+    "country": "🌍",
+    "text": "US broadcaster CBS fires 60 Minutes’s Scott Pelley after clash with bosses",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/3/us-broadcaster-cbs-fires-60-minutess-scott-pelley-after-clash-with-bosses?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
   }
 ]
