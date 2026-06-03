@@ -1,6 +1,6 @@
 [
   {
-    "id": 3810,
+    "id": 9274,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3077,
+    "id": 1280,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,16 +18,34 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 8580,
+    "id": 4361,
     "level": "critical",
     "country": "🌍",
-    "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/28/somalia-drought-fuel-prices-and-conflicts-heighten-famine-risk/",
-    "time": "Thu, 28 May 2026"
+    "text": "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 4442,
+    "id": 978,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran faces a new energy imbalance, but its options are limited",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 8261,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 1353,
     "level": "critical",
     "country": "🌍",
     "text": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
@@ -36,7 +54,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 4494,
+    "id": 3732,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli settlers are driving Palestinian shepherds from their grazing lands",
@@ -45,25 +63,25 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5477,
+    "id": 901,
     "level": "critical",
     "country": "🌍",
-    "text": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss",
+    "text": "La croissance mondiale menacée par le conflit au Moyen-Orient",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260603-la-croissance-mondiale-menac%C3%A9e-par-le-conflit-au-moyen-orient",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 2950,
+    "id": 8221,
     "level": "critical",
     "country": "🌍",
-    "text": "The Ebola outbreak the world isn’t paying attention to",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/3/aje-onl-tt_glb_ebola26_video-030626?traffic_source=rss",
+    "text": "Royaume-Uni : l'indignation monte autour de l'arrestation d'un étudiant poignard",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-royaume-uni-l-indignation-monte-autour-de-l-arrestation-d-un-%C3%A9tudiant-poignard%C3%A9-%C3%A0-mort",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 7019,
+    "id": 8808,
     "level": "critical",
     "country": "🌍",
     "text": "Roland-Garros : Kostyuk contre Andreeva, une demi-finale sur fond de guerre en U",
@@ -72,7 +90,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5748,
+    "id": 462,
     "level": "critical",
     "country": "🌍",
     "text": "L'aéroport de Koweït City en feu après un attaque iranienne, au moins un mort et",
@@ -81,7 +99,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 321,
+    "id": 7757,
     "level": "critical",
     "country": "🌍",
     "text": "Deux secouristes tués dans une frappes israélienne sur le sud du Liban",
@@ -90,7 +108,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 7343,
+    "id": 3649,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -99,7 +117,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 9485,
+    "id": 5127,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8889,
+    "id": 1057,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6576,
+    "id": 1597,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 150,
+    "id": 1266,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9058,
+    "id": 4938,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8390,
+    "id": 4954,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5958,
+    "id": 7763,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 9969,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 5746,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
