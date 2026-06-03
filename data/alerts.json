@@ -1,6 +1,6 @@
 [
   {
-    "id": 1366,
+    "id": 3810,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 712,
+    "id": 3077,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 53,
+    "id": 8580,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia: Drought, fuel prices, and conflicts heighten famine risk",
@@ -27,43 +27,61 @@
     "time": "Thu, 28 May 2026"
   },
   {
-    "id": 2909,
+    "id": 4442,
     "level": "critical",
     "country": "🌍",
-    "text": "Middle East Conflict: Lebanon Response Situation Report #6 | June 3, 2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/middle-east-conflict-lebanon-response-situation-report-6-june-3-2026",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 4950,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Life for Relief and Development (LIFE) Launches Emergency Response for Families ",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/life-relief-and-development-life-launches-emergency-response-families-displaced-escalating-conflict-lebanon",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 6376,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Three British navy personnel killed in helicopter crash in England",
+    "text": "Netanyahu downplays US-Israel rift after Trump confirms criticism",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/3/three-british-navy-personnel-killed-in-helicopter-crash-in-england?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/3/netanyahu-downplays-us-israel-rift-after-trump-confirms-criticism?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 3380,
+    "id": 4494,
     "level": "critical",
     "country": "🌍",
-    "text": "DRC suggests behind-closed-doors World Cup warm-up to offset Ebola threat",
+    "text": "Israeli settlers are driving Palestinian shepherds from their grazing lands",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/3/dr-congo-to-offset-ebola-threat-with-behind-closed-doors-world-cup-warm-up?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/6/3/israeli-settlers-are-driving-palestinian-shepherds-from-their-grazing-lands?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 7202,
+    "id": 5477,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 2950,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The Ebola outbreak the world isn’t paying attention to",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/6/3/aje-onl-tt_glb_ebola26_video-030626?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 7019,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Roland-Garros : Kostyuk contre Andreeva, une demi-finale sur fond de guerre en U",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/sports/20260603-roland-garros-kostyuk-andreeva-demi-finale-guerre-ukraine",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 5748,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'aéroport de Koweït City en feu après un attaque iranienne, au moins un mort et",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-l-a%C3%A9roport-de-kowe%C3%AFt-city-en-feu-apr%C3%A8s-un-attaque-iranienne-au-moins-un-mort-et-63-bless%C3%A9s",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 321,
     "level": "critical",
     "country": "🌍",
     "text": "Deux secouristes tués dans une frappes israélienne sur le sud du Liban",
@@ -72,34 +90,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 6173,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russie : des drones ukrainiens endommagent des sites militaires à Saint-Pétersbo",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-russie-des-drones-ukrainiens-endommagent-des-sites-militaires-%C3%A0-saint-p%C3%A9tersbourg",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 6918,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israël bombarde le Sud du Liban et Beyrouth, au moins 6 morts près de Tyr",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-isra%C3%ABl-bombarde-le-sud-du-liban-et-beyrouth-au-moins-6-morts-pr%C3%A8s-de-tyr",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 2566,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le forum économique russe perturbé par des frappes ukrainiennes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-le-forum-%C3%A9conomique-russe-perturb%C3%A9-par-des-frappes-ukrainiennes",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 7807,
+    "id": 7343,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -108,16 +99,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 745,
-    "level": "high",
-    "country": "🌍",
-    "text": "Lebanon’s humanitarian crisis demands a lasting ceasefire",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/lebanons-humanitarian-crisis-demands-lasting-ceasefire",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 2515,
+    "id": 9485,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1903,
+    "id": 8889,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5107,
+    "id": 6576,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6310,
+    "id": 150,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7962,
+    "id": 9058,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3856,
+    "id": 8390,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +153,30 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1496,
+    "id": 5958,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 9969,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 5746,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
   }
 ]
