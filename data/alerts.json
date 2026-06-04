@@ -1,6 +1,15 @@
 [
   {
-    "id": 8515,
+    "id": 705,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-24T00:01"
+  },
+  {
+    "id": 3599,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -9,7 +18,43 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 1603,
+    "id": 6553,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine Key Message Update, May - September 2026: Elevated fuel and input costs ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/ukraine/ukraine-key-message-update-may-september-2026-elevated-fuel-and-input-costs-constrain-food-access-frontline-areas",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 3112,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ethiopia Key Message Update, May - June 2026: Early lean season food price surge",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/ethiopia/ethiopia-key-message-update-may-june-2026-early-lean-season-food-price-surge-reduces-food-access-except-belg-areas",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 8846,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tensions simmer after latest US-Iran clashes in Gulf",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
+  },
+  {
+    "id": 2222,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 9740,
     "level": "critical",
     "country": "🌍",
     "text": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
@@ -18,16 +63,16 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 7914,
+    "id": 1699,
     "level": "critical",
     "country": "🌍",
-    "text": "US House passes Iran war powers resolution in rare moment of Trump backlash",
+    "text": "US House passes Iran war powers resolution in rare pushback against Trump",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 2349,
+    "id": 8185,
     "level": "critical",
     "country": "🌍",
     "text": "Kuwait labels Iran attack ‘heinous aggression’",
@@ -36,7 +81,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 7687,
+    "id": 1241,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
@@ -45,7 +90,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 5920,
+    "id": 571,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly fire rips through New Delhi hotel",
@@ -54,7 +99,16 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 8173,
+    "id": 9844,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Khamenei : Trump souhaite rencontrer l'homme dont il a fait tuer la famille",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260603-khamenei-trump-souhaite-rencontrer-l-homme-dont-il-a-fait-tuer-la-famille",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 20,
     "level": "critical",
     "country": "🌍",
     "text": "Opération \"ville morte\" à Kinshasa, initiée par la coalition d'opposition C64",
@@ -63,7 +117,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 696,
+    "id": 749,
     "level": "critical",
     "country": "🌍",
     "text": "La croissance mondiale menacée par le conflit au Moyen-Orient",
@@ -72,7 +126,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 9184,
+    "id": 7475,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : nouvelles frappes israéliennes meurtrières, le Hezbollah dit avoir visé ",
@@ -81,25 +135,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 379,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Royaume-Uni : l'indignation monte autour de l'arrestation d'un étudiant poignard",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260603-royaume-uni-l-indignation-monte-autour-de-l-arrestation-d-un-%C3%A9tudiant-poignard%C3%A9-%C3%A0-mort",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 8567,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Roland-Garros : Kostyuk contre Andreeva, une demi-finale sur fond de guerre en U",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260603-roland-garros-kostyuk-andreeva-demi-finale-guerre-ukraine",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 5205,
+    "id": 7820,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -108,75 +144,39 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 8937,
+    "id": 4868,
     "level": "medium",
     "country": "🌍",
-    "text": "Cinemas offer a platform for stories of resistance amid shrinking civic spaces i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/04/cinemas-offer-a-platform-for-stories-of-resistance-amid-shrinking-civic-spaces-in-africa/",
-    "time": "Wed, 03 Jun 2026"
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
   },
   {
-    "id": 7785,
+    "id": 1023,
     "level": "medium",
     "country": "🌍",
-    "text": "AI cameras are surveilling the roads in Dhaka, Bangladesh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/03/ai-cameras-are-surveilling-the-roads-in-dhaka-bangladesh/",
-    "time": "Wed, 03 Jun 2026"
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
   },
   {
-    "id": 7957,
+    "id": 4802,
     "level": "medium",
     "country": "🌍",
-    "text": "Rubbish as a resource: How communities in Mozambique transform waste into climat",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
-    "time": "Tue, 02 Jun 2026"
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
   },
   {
-    "id": 8818,
+    "id": 9488,
     "level": "medium",
     "country": "🌍",
-    "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 732,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ugandan activists make the case for ecofeminism",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 5036,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The seed guardian of Brazil’s Caatinga",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
-    "time": "Sun, 31 May 2026"
-  },
-  {
-    "id": 1566,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
-    "time": "Fri, 29 May 2026"
-  },
-  {
-    "id": 2225,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Kazakhstan resurrected the North Aral Sea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/05/29/how-kazakhstan-resurrected-the-north-aral-sea/",
-    "time": "Fri, 29 May 2026"
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
   }
 ]
