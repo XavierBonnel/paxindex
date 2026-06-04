@@ -1,15 +1,6 @@
 [
   {
-    "id": 3432,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-24T00:01"
-  },
-  {
-    "id": 4825,
+    "id": 8394,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,43 +9,25 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 5604,
+    "id": 559,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strikes on residential buildings kill nine in Gaza City",
+    "text": "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss",
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 3963,
+    "id": 7520,
     "level": "critical",
     "country": "🌍",
-    "text": "Indonesia’s rupiah falls to record low against US dollar",
+    "text": "What the US-Israel war on Iran will not change in the Middle East",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east?traffic_source=rss",
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 6990,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/4/iran-war-live-tensions-simmer-after-latest-us-iran-clashes-in-gulf?traffic_source=rss",
-    "time": "Thu, 04 Jun 2026"
-  },
-  {
-    "id": 7674,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump seeks to split Lebanon talks from war on Iran negotiations",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 1800,
+    "id": 3943,
     "level": "critical",
     "country": "🌍",
     "text": "Trois personnes tuées en Crimée annexée, l'Ukraine dit se \"rapprocher\" d'une adh",
@@ -63,16 +36,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 2617,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Moyen-Orient en direct : Israël lance de nouvelle frappes meurtrières sur Gaza",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260603-en-direct-moyen-orient-guerre-iran-congres-americain-donald-trump-liban-hezbollah-cessez-le-feu",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 4440,
+    "id": 3391,
     "level": "critical",
     "country": "🌍",
     "text": "Khamenei : Trump souhaite rencontrer l'homme dont il a fait tuer la famille",
@@ -81,16 +45,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 1538,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Opération \"ville morte\" à Kinshasa, initiée par la coalition d'opposition C64",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260603-op%C3%A9ration-ville-morte-%C3%A0-kinshasa-initi%C3%A9e-par-la-coalition-d-opposition-c64",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 402,
+    "id": 8829,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -99,84 +54,129 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 4521,
-    "level": "medium",
+    "id": 1534,
+    "level": "high",
     "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
+    "text": "Israel and Lebanon agree to conditional ceasefire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 5147,
-    "level": "medium",
+    "id": 109,
+    "level": "high",
     "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
+    "text": "En direct : malgré l'accord de cessez-le-feu, Israël dit qu'il continuera ses ti",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260603-en-direct-moyen-orient-guerre-iran-congres-americain-donald-trump-liban-hezbollah-cessez-le-feu",
+    "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 3264,
+    "id": 5968,
     "level": "medium",
     "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
+    "text": "Cinemas offer a platform for stories of resistance amid shrinking civic spaces i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/04/cinemas-offer-a-platform-for-stories-of-resistance-amid-shrinking-civic-spaces-in-africa/",
+    "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 6409,
+    "id": 2923,
     "level": "medium",
     "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
+    "text": "AI cameras are surveilling the roads in Dhaka, Bangladesh",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/03/ai-cameras-are-surveilling-the-roads-in-dhaka-bangladesh/",
+    "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 6374,
+    "id": 1655,
     "level": "medium",
     "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
+    "text": "Rubbish as a resource: How communities in Mozambique transform waste into climat",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
+    "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 2811,
+    "id": 7596,
     "level": "medium",
     "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
+    "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
+    "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 2739,
+    "id": 9783,
     "level": "medium",
     "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
+    "text": "Ugandan activists make the case for ecofeminism",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
+    "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 9027,
+    "id": 8539,
     "level": "medium",
     "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
+    "text": "The seed guardian of Brazil’s Caatinga",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
+    "time": "Sun, 31 May 2026"
   },
   {
-    "id": 657,
+    "id": 3567,
     "level": "medium",
     "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
+    "text": "In Barra do Turvo, Brazil, women promote biodiversity and harvest healthy food a",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/in-barra-do-turvo-brazil-women-promote-biodiversity-and-harvest-healthy-food-at-fair-prices/",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 5731,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How Kazakhstan resurrected the North Aral Sea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/29/how-kazakhstan-resurrected-the-north-aral-sea/",
+    "time": "Fri, 29 May 2026"
+  },
+  {
+    "id": 7921,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indonesia arrests officials in crackdown on corruption",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/4/indonesia-arrests-officials-in-crackdown-on-corruption?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
+  },
+  {
+    "id": 2025,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Gaza is being offered coercion, not reconstruction",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/6/4/gaza-is-being-offered-coercion-not-reconstruction?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
+  },
+  {
+    "id": 1085,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What’s behind the White House’s ‘Alien.gov’ website?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/whats-behind-the-white-houses-alien-gov-website?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
+  },
+  {
+    "id": 459,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What are the Ebola vaccines under research, and when will they be ready?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/4/what-are-the-ebola-vaccines-under-research-and-when-will-they-be-ready?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
   }
 ]
