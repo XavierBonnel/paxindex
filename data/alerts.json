@@ -1,6 +1,6 @@
 [
   {
-    "id": 5998,
+    "id": 1248,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9559,
+    "id": 1867,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -18,7 +18,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 3086,
+    "id": 3197,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -27,7 +27,16 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 7046,
+    "id": 8463,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
+  },
+  {
+    "id": 6074,
     "level": "critical",
     "country": "🌍",
     "text": "Ecuador’s disappeared: Inside one family’s search for answers",
@@ -36,7 +45,16 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 5636,
+    "id": 940,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Liban : huit morts dans des frappes israéliennes dans le sud et l'est",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260604-liban-huit-morts-dans-des-frappes-isra%C3%A9liennes-dans-le-sud-et-l-est",
+    "time": "Thu, 04 Jun 2026"
+  },
+  {
+    "id": 9173,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Guerre en Ukraine : Volodymyr Zelensky propose une rencontre en tête-à-tête à ",
@@ -45,7 +63,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 6096,
+    "id": 2674,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient : des guerres sans fin ?",
@@ -54,7 +72,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 9786,
+    "id": 2618,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -63,7 +81,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 9401,
+    "id": 8067,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4009,
+    "id": 731,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9877,
+    "id": 646,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2251,
+    "id": 2036,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2618,
+    "id": 563,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1286,
+    "id": 4652,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 555,
+    "id": 3586,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5112,
+    "id": 4455,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1200,
+    "id": 5809,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5122,
+    "id": 9867,
     "level": "medium",
     "country": "🌍",
     "text": "Cinemas offer a platform for stories of resistance amid shrinking civic spaces i",
@@ -153,30 +171,12 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 7783,
+    "id": 6847,
     "level": "medium",
     "country": "🌍",
     "text": "AI cameras are surveilling the roads in Dhaka, Bangladesh",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/03/ai-cameras-are-surveilling-the-roads-in-dhaka-bangladesh/",
     "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 2492,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Rubbish as a resource: How communities in Mozambique transform waste into climat",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 3188,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
-    "time": "Tue, 02 Jun 2026"
   }
 ]
