@@ -1,6 +1,6 @@
 [
   {
-    "id": 4699,
+    "id": 3432,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1565,
+    "id": 4825,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -18,7 +18,25 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 487,
+    "id": 5604,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strikes on residential buildings kill nine in Gaza City",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israeli-strikes-on-residential-buildings-kill-nine-in-gaza-city?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
+  },
+  {
+    "id": 3963,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Indonesia’s rupiah falls to record low against US dollar",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar?traffic_source=rss",
+    "time": "Thu, 04 Jun 2026"
+  },
+  {
+    "id": 6990,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
@@ -27,7 +45,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 6812,
+    "id": 7674,
     "level": "critical",
     "country": "🌍",
     "text": "Trump seeks to split Lebanon talks from war on Iran negotiations",
@@ -36,25 +54,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 9827,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 6431,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US House passes Iran war powers resolution in rare pushback against Trump",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 6918,
+    "id": 1800,
     "level": "critical",
     "country": "🌍",
     "text": "Trois personnes tuées en Crimée annexée, l'Ukraine dit se \"rapprocher\" d'une adh",
@@ -63,7 +63,16 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 1078,
+    "id": 2617,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : Israël lance de nouvelle frappes meurtrières sur Gaza",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260603-en-direct-moyen-orient-guerre-iran-congres-americain-donald-trump-liban-hezbollah-cessez-le-feu",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 4440,
     "level": "critical",
     "country": "🌍",
     "text": "Khamenei : Trump souhaite rencontrer l'homme dont il a fait tuer la famille",
@@ -72,7 +81,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 6052,
+    "id": 1538,
     "level": "critical",
     "country": "🌍",
     "text": "Opération \"ville morte\" à Kinshasa, initiée par la coalition d'opposition C64",
@@ -81,25 +90,7 @@
     "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 8644,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La croissance mondiale menacée par le conflit au Moyen-Orient",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260603-la-croissance-mondiale-menac%C3%A9e-par-le-conflit-au-moyen-orient",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 9335,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban : nouvelles frappes israéliennes meurtrières, le Hezbollah dit avoir visé ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260603-liban-nouvelles-frappes-isra%C3%A9liennes-meurtri%C3%A8res-le-hezbollah-dit-avoir-vis%C3%A9-isra%C3%ABl",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 2225,
+    "id": 402,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -108,7 +99,7 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 1765,
+    "id": 4521,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7158,
+    "id": 5147,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 464,
+    "id": 3264,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7454,
+    "id": 6409,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2887,
+    "id": 6374,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3821,
+    "id": 2811,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9132,
+    "id": 2739,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +162,21 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6400,
+    "id": 9027,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 657,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
   }
 ]
