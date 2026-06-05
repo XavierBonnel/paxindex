@@ -1,15 +1,6 @@
 [
   {
-    "id": 7562,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-24T00:01"
-  },
-  {
-    "id": 1626,
+    "id": 2992,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -18,7 +9,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 9927,
+    "id": 7894,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -27,16 +18,43 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 6062,
+    "id": 3313,
     "level": "critical",
     "country": "🌍",
-    "text": "WFP warning becomes a reality for millions as Middle East crisis pushes poorest ",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/world/wfp-warning-becomes-reality-millions-middle-east-crisis-pushes-poorest-families-further-hunger-world-food-programme",
+    "text": "UN boosts Lebanon aid appeal as Israeli war drives humanitarian crisis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/5/un-boosts-lebanon-aid-appeal-as-israeli-war-drives-humanitarian-crisis?traffic_source=rss",
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 7589,
+    "id": 5480,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US-Iran war pushing millions into food crisis, warns UN",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/5/us-iran-war-pushing-millions-into-food-crisis-warns-un?traffic_source=rss",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 5301,
+    "level": "critical",
+    "country": "🌍",
+    "text": "IAEA brokers Ukraine ceasefire to allow nuclear plant repairs",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/5/iaea-brokers-ukraine-ceasefire-to-allow-nuclear-plant-repairs?traffic_source=rss",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 8916,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/5/zelenskyy-asks-putin-for-meeting-whats-he-offering-could-russia-accept?traffic_source=rss",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 8895,
     "level": "critical",
     "country": "🌍",
     "text": "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
@@ -45,43 +63,25 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 3367,
+    "id": 957,
     "level": "critical",
     "country": "🌍",
-    "text": "US visa rejections, war on Iran keep fans away from World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/5/us-visa-rejections-war-on-iran-keep-fans-away-from-world-cup?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 7101,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran beat Mali in final warm-up before heading to World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/5/iran-beat-mali-in-final-warm-up-before-heading-to-world-cup?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 9377,
-    "level": "critical",
-    "country": "🌍",
-    "text": "French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 2535,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban : l’espoir d’un retour dans le sud du pays s’amenuise pour les réfugiés li",
+    "text": "Cent ans après sa naissance, Marylin Monroe fascine encore et toujours",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260605-liban-l-espoir-d-un-retour-dans-le-sud-du-pays-s-amenuise-pour-les-r%C3%A9fugi%C3%A9s-libanais",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260605-cent-ans-apr%C3%A8s-sa-naissance-marylin-monroe-fascine-encore-et-toujours",
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 2473,
+    "id": 4549,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Journée internationale de l'environnement : la guerre, un désastre écologique ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260605-journ%C3%A9e-internationale-de-l-environnement-la-guerre-un-d%C3%A9sastre-%C3%A9cologique",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 9493,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -90,25 +90,16 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 847,
+    "id": 9329,
     "level": "high",
     "country": "🌍",
-    "text": "US raises pressure on Cuba as it sanctions President Diaz-Canel",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/5/us-raises-pressure-on-cuba-as-it-sanctions-president-diaz-canel?traffic_source=rss",
+    "text": "L'actu en dessin : la forteresse de Beaufort et les ruines de la discorde",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260605-l-actu-en-dessin-la-forteresse-de-beaufort-et-les-ruines-de-la-discorde-liban-hezbollah-israel",
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 6613,
-    "level": "high",
-    "country": "🌍",
-    "text": "Fireball seen after explosion at Mexico gas facility",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/fireball-seen-after-explosion-at-mexico-gas-facility?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 7084,
+    "id": 1417,
     "level": "high",
     "country": "🌍",
     "text": "Cette vidéo ne prouve pas que des soldats israéliens ont saccagé une église",
@@ -117,66 +108,75 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 2013,
+    "id": 7766,
     "level": "medium",
     "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
+    "text": "The signal we cannot ignore: What the LONDA 2025 report reveals about Africa’s d",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/05/the-signal-we-cannot-ignore-what-the-londa-2025-report-reveals-about-africas-digital-rights/",
+    "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 2052,
+    "id": 3238,
     "level": "medium",
     "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
+    "text": "Cinemas offer a platform for stories of resistance amid shrinking civic spaces i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/04/cinemas-offer-a-platform-for-stories-of-resistance-amid-shrinking-civic-spaces-in-africa/",
+    "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 6064,
+    "id": 4963,
     "level": "medium",
     "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
+    "text": "AI cameras are surveilling the roads in Dhaka, Bangladesh",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/03/ai-cameras-are-surveilling-the-roads-in-dhaka-bangladesh/",
+    "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 8310,
+    "id": 6386,
     "level": "medium",
     "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
+    "text": "Rubbish as a resource: How communities in Mozambique transform waste into climat",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
+    "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 2082,
+    "id": 4833,
     "level": "medium",
     "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
+    "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
+    "time": "Tue, 02 Jun 2026"
   },
   {
-    "id": 2312,
+    "id": 2961,
     "level": "medium",
     "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
+    "text": "Ugandan activists make the case for ecofeminism",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
+    "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 8239,
+    "id": 2550,
     "level": "medium",
     "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
+    "text": "The seed guardian of Brazil’s Caatinga",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/05/31/the-seed-guardian-of-brazils-caatinga/",
+    "time": "Sun, 31 May 2026"
+  },
+  {
+    "id": 3092,
+    "level": "medium",
+    "country": "🌍",
+    "text": "South Korean police break up 35-hour polling station protest",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/south-korean-police-break-up-35-hour-polling-station-protest?traffic_source=rss",
+    "time": "Fri, 05 Jun 2026"
   }
 ]
