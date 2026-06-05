@@ -1,6 +1,6 @@
 [
   {
-    "id": 8685,
+    "id": 3021,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9246,
+    "id": 4334,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -18,7 +18,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 1696,
+    "id": 1118,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -27,7 +27,16 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 7628,
+    "id": 7356,
+    "level": "critical",
+    "country": "🌍",
+    "text": "French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 5857,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
@@ -36,7 +45,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 2737,
+    "id": 6040,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
@@ -45,34 +54,25 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 3420,
+    "id": 9618,
     "level": "critical",
     "country": "🌍",
-    "text": "Ivory Coast beats France in World Cup warning to one of the favourites",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites?traffic_source=rss",
-    "time": "Thu, 04 Jun 2026"
-  },
-  {
-    "id": 2460,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Kenyan president defends US Ebola facility amid deadly protests",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/clip-kenyan-president-ebola-facility?traffic_source=rss",
-    "time": "Thu, 04 Jun 2026"
-  },
-  {
-    "id": 4984,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban : un cessez-le-feu mort-né ?",
+    "text": "Dans le désert du Niger, 49 personnes meurent de soif après une panne de camion",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260604-liban-un-cessez-le-feu-mort-n%C3%A9",
-    "time": "Thu, 04 Jun 2026"
+    "link": "https://www.france24.com/fr/afrique/20260605-dans-le-d%C3%A9sert-du-niger-49-personnes-meurent-de-soif-apr%C3%A8s-une-panne-de-camion",
+    "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 4413,
+    "id": 2070,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : sept personnes tuées à Tyr dans le sud du Liban",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/live/20260605-moyen-orient-en-direct-sept-personnes-tu%C3%A9es-%C3%A0-tyr-dans-le-sud-du-liban",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 3173,
     "level": "high",
     "country": "🌍",
     "text": "Who is talking about artificial intelligence in Ecuador?",
@@ -81,7 +81,16 @@
     "time": "Sat, 30 May 2026"
   },
   {
-    "id": 1023,
+    "id": 6343,
+    "level": "high",
+    "country": "🌍",
+    "text": "Fireball seen after explosion at Mexico gas facility",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/fireball-seen-after-explosion-at-mexico-gas-facility?traffic_source=rss",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 4658,
     "level": "high",
     "country": "🌍",
     "text": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
@@ -90,34 +99,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 3658,
-    "level": "high",
-    "country": "🌍",
-    "text": "Democrat fails to block US measure to deepen Israel military cooperation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss",
-    "time": "Thu, 04 Jun 2026"
-  },
-  {
-    "id": 4094,
-    "level": "high",
-    "country": "🌍",
-    "text": "En direct : la Chambre des représentants américaine adopte une résolution en sou",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260605-en-direct-ukraine-russie-chambre-representants-americaine-resolution-soutien-saint-petersbourg-poutine-zelensky",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 3394,
-    "level": "high",
-    "country": "🌍",
-    "text": "Cuba : les États-Unis sanctionnent le président Diaz-Canel et des membres de la ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260604-cuba-etats-unis-sanctions-miguel-diaz-canel-famille-raul-castro",
-    "time": "Thu, 04 Jun 2026"
-  },
-  {
-    "id": 7830,
+    "id": 2853,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7866,
+    "id": 9106,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 351,
+    "id": 7480,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9970,
+    "id": 7621,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8234,
+    "id": 7619,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5991,
+    "id": 751,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +153,30 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7160,
+    "id": 7915,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 476,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 5849,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
   }
 ]
