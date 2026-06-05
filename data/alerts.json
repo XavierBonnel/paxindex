@@ -1,15 +1,6 @@
 [
   {
-    "id": 5765,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-24T00:01"
-  },
-  {
-    "id": 8941,
+    "id": 4380,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +9,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 7194,
+    "id": 7412,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +18,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 3314,
+    "id": 331,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -36,7 +27,25 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 7474,
+    "id": 1784,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 4437,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss",
+    "time": "Fri, 05 Jun 2026"
+  },
+  {
+    "id": 4259,
     "level": "critical",
     "country": "🌍",
     "text": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
@@ -45,7 +54,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 3096,
+    "id": 9763,
     "level": "critical",
     "country": "🌍",
     "text": "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
@@ -54,7 +63,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 2655,
+    "id": 5283,
     "level": "critical",
     "country": "🌍",
     "text": "Families clear rubble after overnight Israeli strikes in Gaza",
@@ -63,7 +72,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 2686,
+    "id": 640,
     "level": "critical",
     "country": "🌍",
     "text": "Anthropic urges AI labs to pause, warns humans risk losing control",
@@ -72,7 +81,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 7462,
+    "id": 8424,
     "level": "critical",
     "country": "🌍",
     "text": "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
@@ -81,25 +90,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 564,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Huge fire erupts at Honda warehouse in Barcelona",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/huge-fire-erupts-at-honda-warehouse-in-barcelona?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 2505,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine and Russia exchange 185 prisoners of war each",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukraine-and-russia-exchange-185-prisoners-of-war-each?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 4700,
+    "id": 6920,
     "level": "critical",
     "country": "🌍",
     "text": "Vincent Jauvert: \" Vladimir Poutine vit la période la plus difficile de son règn",
@@ -108,7 +99,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 8764,
+    "id": 3507,
     "level": "critical",
     "country": "🌍",
     "text": "Frappes israéliennes sur le Liban, guerre en Ukraine, législatives cruciales en ",
@@ -117,7 +108,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 2249,
+    "id": 4338,
     "level": "critical",
     "country": "🌍",
     "text": "Tiananmen : non, la majorité des victimes n'étaient pas des soldats tués par les",
@@ -126,25 +117,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 43,
-    "level": "high",
-    "country": "🌍",
-    "text": "Is the latest US ceasefire deal for Lebanon meaningless?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 6530,
-    "level": "high",
-    "country": "🌍",
-    "text": "Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 378,
+    "id": 8304,
     "level": "high",
     "country": "🌍",
     "text": "L'Iran a tiré des \"missiles d'avertissement\" contre deux navires américains, sel",
@@ -153,30 +126,57 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 7629,
+    "id": 467,
     "level": "medium",
     "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
+    "text": "The signal we cannot ignore: What the LONDA 2025 report reveals about Africa’s d",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/05/the-signal-we-cannot-ignore-what-the-londa-2025-report-reveals-about-africas-digital-rights/",
+    "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 719,
+    "id": 7377,
     "level": "medium",
     "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
+    "text": "Cinemas offer a platform for stories of resistance amid shrinking civic spaces i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/04/cinemas-offer-a-platform-for-stories-of-resistance-amid-shrinking-civic-spaces-in-africa/",
+    "time": "Wed, 03 Jun 2026"
   },
   {
-    "id": 128,
+    "id": 9273,
     "level": "medium",
     "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
+    "text": "AI cameras are surveilling the roads in Dhaka, Bangladesh",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/03/ai-cameras-are-surveilling-the-roads-in-dhaka-bangladesh/",
+    "time": "Wed, 03 Jun 2026"
+  },
+  {
+    "id": 1140,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Rubbish as a resource: How communities in Mozambique transform waste into climat",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 862,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
+    "time": "Tue, 02 Jun 2026"
+  },
+  {
+    "id": 5266,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ugandan activists make the case for ecofeminism",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
+    "time": "Mon, 01 Jun 2026"
   }
 ]
