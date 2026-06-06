@@ -1,6 +1,15 @@
 [
   {
-    "id": 5469,
+    "id": 2592,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-24T00:01"
+  },
+  {
+    "id": 9131,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -9,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 8467,
+    "id": 2782,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -18,7 +27,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 7472,
+    "id": 2225,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -27,7 +36,16 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 9737,
+    "id": 8947,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 831,
     "level": "critical",
     "country": "🌍",
     "text": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
@@ -36,7 +54,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 7558,
+    "id": 6687,
     "level": "critical",
     "country": "🌍",
     "text": "Man dies in Western Australia after shark attack",
@@ -45,7 +63,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 1767,
+    "id": 3131,
     "level": "critical",
     "country": "🌍",
     "text": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
@@ -54,16 +72,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 4717,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US says Iranian radar sites hit in Goruk and Qeshm Island",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
-    "time": "Sat, 06 Jun 2026"
-  },
-  {
-    "id": 1214,
+    "id": 2582,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : les Gardiens de la Révolution annoncent avoir frappé des bases \"ennemies\"",
@@ -72,16 +81,88 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 5286,
-    "level": "high",
+    "id": 6218,
+    "level": "medium",
     "country": "🌍",
-    "text": "North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/6/north-koreas-kim-orders-navy-to-build-10000-tonne-destroyer-state-media?traffic_source=rss",
-    "time": "Sat, 06 Jun 2026"
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
   },
   {
-    "id": 8232,
+    "id": 6330,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 2103,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 6058,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 5663,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 3926,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 4841,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 4030,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 3466,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 408,
     "level": "medium",
     "country": "🌍",
     "text": "The daughters who were raised to be everything under China’s one-child policy",
@@ -90,93 +171,12 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 7268,
+    "id": 2871,
     "level": "medium",
     "country": "🌍",
     "text": "The signal we cannot ignore: What the LONDA 2025 report reveals about Africa’s d",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/05/the-signal-we-cannot-ignore-what-the-londa-2025-report-reveals-about-africas-digital-rights/",
     "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 1498,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cinemas offer a platform for stories of resistance amid shrinking civic spaces i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/04/cinemas-offer-a-platform-for-stories-of-resistance-amid-shrinking-civic-spaces-in-africa/",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 4136,
-    "level": "medium",
-    "country": "🌍",
-    "text": "AI cameras are surveilling the roads in Dhaka, Bangladesh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/03/ai-cameras-are-surveilling-the-roads-in-dhaka-bangladesh/",
-    "time": "Wed, 03 Jun 2026"
-  },
-  {
-    "id": 3635,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Rubbish as a resource: How communities in Mozambique transform waste into climat",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 1359,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The serpent in the code: What allegations of AI usage in the Commonwealth Short ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/",
-    "time": "Tue, 02 Jun 2026"
-  },
-  {
-    "id": 3354,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ugandan activists make the case for ecofeminism",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/01/ugandan-activists-make-the-case-for-ecofeminism/",
-    "time": "Mon, 01 Jun 2026"
-  },
-  {
-    "id": 5399,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ebola border shutdown leaves goods rotting between Uganda and DRC",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/ebola-border-shutdown-leaves-goods-rotting-between-uganda-and-drc?traffic_source=rss",
-    "time": "Sat, 06 Jun 2026"
-  },
-  {
-    "id": 9172,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
-    "time": "Sat, 06 Jun 2026"
-  },
-  {
-    "id": 4348,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Mexico zoo animals predict World Cup winners",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/mexico-zoo-animals-predict-world-cup-winners?traffic_source=rss",
-    "time": "Sat, 06 Jun 2026"
-  },
-  {
-    "id": 1717,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What’s new at World Cup 2026? From match ball sensors to AI and robot dogs",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/6/fifa-world-cup-2026-what-is-new-sensor-match-ball-ai-player-avatar?traffic_source=rss",
-    "time": "Sat, 06 Jun 2026"
   }
 ]
