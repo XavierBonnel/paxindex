@@ -1,6 +1,6 @@
 [
   {
-    "id": 7176,
+    "id": 4379,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2184,
+    "id": 4279,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 3543,
+    "id": 6084,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,25 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 4947,
+    "id": 1547,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pentagon said to raise threat level on Israel spying to ‘critical’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/6/pentagon-said-to-raise-threat-level-on-israel-spying-to-critical?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 274,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rights group says drone strike kills 11 in central Sudan market",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 8127,
     "level": "critical",
     "country": "🌍",
     "text": "Palestinian father buries baby killed by Israeli gunfire in West Bank",
@@ -36,7 +54,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 3643,
+    "id": 6692,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli attack on Gaza City tent camp kills several Palestinians",
@@ -45,16 +63,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 7598,
-    "level": "critical",
-    "country": "🌍",
-    "text": "100 days into the war on Iran, Trump fails to rally US support",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss",
-    "time": "Sat, 06 Jun 2026"
-  },
-  {
-    "id": 1534,
+    "id": 9044,
     "level": "critical",
     "country": "🌍",
     "text": "Jad Tabet : \"ce qu'il se passe au Liban Sud, c'est une table rase, une politique",
@@ -63,7 +72,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 3921,
+    "id": 3537,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran cible le Koweït et Bahreïn en riposte à des frappes américaines",
@@ -72,7 +81,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 7946,
+    "id": 4675,
     "level": "critical",
     "country": "🌍",
     "text": "Sur les plages du Débarquement, Pete Hegseth évoque une \"invasion\" d'immigrés",
@@ -81,7 +90,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 854,
+    "id": 3197,
     "level": "critical",
     "country": "🌍",
     "text": "Le sud du Liban bombardé par Israël, trois militaires libanais tués",
@@ -90,16 +99,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 5447,
-    "level": "high",
-    "country": "🌍",
-    "text": "Activists disrupt German military exhibit over arms sales to Israel",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
-    "time": "Sat, 06 Jun 2026"
-  },
-  {
-    "id": 9072,
+    "id": 3476,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8133,
+    "id": 6753,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1222,
+    "id": 1208,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9123,
+    "id": 2459,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3821,
+    "id": 4314,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5319,
+    "id": 8247,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5049,
+    "id": 5250,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9681,
+    "id": 1470,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1109,
+    "id": 8169,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
