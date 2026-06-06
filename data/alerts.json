@@ -1,6 +1,6 @@
 [
   {
-    "id": 3761,
+    "id": 3481,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1058,
+    "id": 1302,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 7837,
+    "id": 7447,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 7625,
+    "id": 8011,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -36,16 +36,25 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 3548,
+    "id": 7628,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strike kills at least six people at wedding in Gaza",
+    "text": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 8092,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike kills at least six people during wedding in Gaza",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 6151,
+    "id": 8719,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon and Israel’s perpetual war machine",
@@ -54,7 +63,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 2938,
+    "id": 5413,
     "level": "critical",
     "country": "🌍",
     "text": "Le sud du Liban bombardé par Israël, trois militaires libanais tués",
@@ -63,7 +72,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 4306,
+    "id": 4216,
     "level": "critical",
     "country": "🌍",
     "text": "Frappes US contre des radars iraniens, l'Iran cible le Koweït et Bahreïn",
@@ -72,7 +81,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 1625,
+    "id": 9798,
     "level": "critical",
     "country": "🌍",
     "text": "Bernadette Chirac est morte à 93 ans : d'épouse discrète à femme d'influence",
@@ -81,7 +90,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 9554,
+    "id": 8363,
     "level": "critical",
     "country": "🌍",
     "text": "Le Liban annonce la mort de plusieurs militaires dans une frappe israélienne",
@@ -90,7 +99,16 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 9088,
+    "id": 7024,
+    "level": "high",
+    "country": "🌍",
+    "text": "Activists disrupt German military exhibit over arms sales to Israel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/activists-disrupt-german-military-exhibit-over-arms-sales-to-israel?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 274,
     "level": "high",
     "country": "🌍",
     "text": "Videos show Kuwait intercepting ballistic missiles from Iran",
@@ -99,7 +117,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 3109,
+    "id": 4394,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8572,
+    "id": 5015,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9775,
+    "id": 834,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8996,
+    "id": 150,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2474,
+    "id": 9036,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9217,
+    "id": 1153,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9812,
+    "id": 9564,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 1863,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 549,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
