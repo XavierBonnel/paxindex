@@ -1,6 +1,6 @@
 [
   {
-    "id": 2682,
+    "id": 3761,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2390,
+    "id": 1058,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 6096,
+    "id": 7837,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 207,
+    "id": 7625,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -36,7 +36,16 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 5541,
+    "id": 3548,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike kills at least six people at wedding in Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 6151,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon and Israel’s perpetual war machine",
@@ -45,16 +54,16 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 192,
+    "id": 2938,
     "level": "critical",
     "country": "🌍",
-    "text": "Groom killed hours before his wedding in Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss",
+    "text": "Le sud du Liban bombardé par Israël, trois militaires libanais tués",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-le-sud-du-liban-bombard%C3%A9-par-isra%C3%ABl-trois-militaires-libanais-tu%C3%A9s",
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 7269,
+    "id": 4306,
     "level": "critical",
     "country": "🌍",
     "text": "Frappes US contre des radars iraniens, l'Iran cible le Koweït et Bahreïn",
@@ -63,7 +72,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 165,
+    "id": 1625,
     "level": "critical",
     "country": "🌍",
     "text": "Bernadette Chirac est morte à 93 ans : d'épouse discrète à femme d'influence",
@@ -72,7 +81,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 3566,
+    "id": 9554,
     "level": "critical",
     "country": "🌍",
     "text": "Le Liban annonce la mort de plusieurs militaires dans une frappe israélienne",
@@ -81,16 +90,16 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 1591,
-    "level": "critical",
+    "id": 9088,
+    "level": "high",
     "country": "🌍",
-    "text": "L'Ukraine frappe un dépôt pétrolier russe à Krasnodar et une base militaire à Sa",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260606-l-ukraine-frappe-un-d%C3%A9p%C3%B4t-p%C3%A9trolier-russe-%C3%A0-krasnodar-et-une-base-militaire-%C3%A0-saint-p%C3%A9tersbourg",
+    "text": "Videos show Kuwait intercepting ballistic missiles from Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss",
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 2783,
+    "id": 3109,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 499,
+    "id": 8572,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4556,
+    "id": 9775,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9441,
+    "id": 8996,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6174,
+    "id": 2474,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2799,
+    "id": 9217,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4227,
+    "id": 9812,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9592,
+    "id": 1863,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 380,
+    "id": 549,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 5703,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The daughters who were raised to be everything under China’s one-child policy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/06/the-daughters-who-were-raised-to-be-everything-under-chinas-one-child-policy/",
-    "time": "Sat, 06 Jun 2026"
   }
 ]
