@@ -1,6 +1,6 @@
 [
   {
-    "id": 8017,
+    "id": 1789,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9577,
+    "id": 8818,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 7441,
+    "id": 1837,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 7957,
+    "id": 4089,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -36,7 +36,7 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 518,
+    "id": 8802,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
@@ -45,7 +45,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 3957,
+    "id": 7736,
     "level": "critical",
     "country": "🌍",
     "text": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
@@ -54,7 +54,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 6960,
+    "id": 6956,
     "level": "critical",
     "country": "🌍",
     "text": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
@@ -63,7 +63,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 9452,
+    "id": 2293,
     "level": "critical",
     "country": "🌍",
     "text": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
@@ -72,7 +72,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 9689,
+    "id": 7082,
     "level": "critical",
     "country": "🌍",
     "text": "Vincent Jauvert: \" Vladimir Poutine vit la période la plus difficile de son règn",
@@ -81,7 +81,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 83,
+    "id": 5288,
     "level": "critical",
     "country": "🌍",
     "text": "Frappes israéliennes sur le Liban, guerre en Ukraine, législatives cruciales en ",
@@ -90,7 +90,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 1931,
+    "id": 3422,
     "level": "critical",
     "country": "🌍",
     "text": "Tiananmen : non, la majorité des victimes n'étaient pas des soldats tués par les",
@@ -99,7 +99,16 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 2565,
+    "id": 7898,
+    "level": "high",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : sept missiles iraniens tirés sur le Koweït et Bahreïn, ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260606-moyen-orient-en-direct-sept-missiles-iraniens-tir%C3%A9s-sur-le-kowe%C3%AFt-et-bahre%C3%AFn-six-intercept%C3%A9s",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 8268,
     "level": "high",
     "country": "🌍",
     "text": "L'Iran a tiré des \"missiles d'avertissement\" contre deux navires américains, sel",
@@ -108,7 +117,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 4296,
+    "id": 723,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3378,
+    "id": 6610,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7181,
+    "id": 112,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9888,
+    "id": 7305,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5508,
+    "id": 5650,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3533,
+    "id": 2809,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1902,
+    "id": 3886,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 3924,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
