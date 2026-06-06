@@ -1,6 +1,6 @@
 [
   {
-    "id": 1789,
+    "id": 5753,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8818,
+    "id": 2847,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 1837,
+    "id": 7587,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,7 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 4089,
+    "id": 7306,
     "level": "critical",
     "country": "🌍",
     "text": "A global shift from gender movements is directly impacting LBQT communities",
@@ -36,7 +36,25 @@
     "time": "Mon, 01 Jun 2026"
   },
   {
-    "id": 8802,
+    "id": 9960,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US says Iranian radar sites hit in Goruk and Qeshm Island",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 7905,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli soldier shoots Palestinian baby dead near Hebron",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_idf-kills-palestinian-baby-in-occupied-west-bank-060626?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 5252,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
@@ -45,7 +63,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 7736,
+    "id": 9867,
     "level": "critical",
     "country": "🌍",
     "text": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
@@ -54,25 +72,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 6956,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 2293,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
-    "time": "Fri, 05 Jun 2026"
-  },
-  {
-    "id": 7082,
+    "id": 4858,
     "level": "critical",
     "country": "🌍",
     "text": "Vincent Jauvert: \" Vladimir Poutine vit la période la plus difficile de son règn",
@@ -81,7 +81,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 5288,
+    "id": 681,
     "level": "critical",
     "country": "🌍",
     "text": "Frappes israéliennes sur le Liban, guerre en Ukraine, législatives cruciales en ",
@@ -90,16 +90,16 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 3422,
-    "level": "critical",
+    "id": 511,
+    "level": "high",
     "country": "🌍",
-    "text": "Tiananmen : non, la majorité des victimes n'étaient pas des soldats tués par les",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260605-tiananmen-non-majorit%C3%A9-des-victimes-n-%C3%A9taient-pas-soldats-tu%C3%A9s-par-manifestants-massacre-1989-chine",
-    "time": "Fri, 05 Jun 2026"
+    "text": "North Korea’s Kim orders navy to build 10,000-tonne destroyer: State media",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/6/north-koreas-kim-orders-navy-to-build-10000-tonne-destroyer-state-media?traffic_source=rss",
+    "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 7898,
+    "id": 4439,
     "level": "high",
     "country": "🌍",
     "text": "Moyen-Orient en direct : sept missiles iraniens tirés sur le Koweït et Bahreïn, ",
@@ -108,7 +108,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 8268,
+    "id": 9049,
     "level": "high",
     "country": "🌍",
     "text": "L'Iran a tiré des \"missiles d'avertissement\" contre deux navires américains, sel",
@@ -117,7 +117,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 723,
+    "id": 6062,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6610,
+    "id": 1673,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 112,
+    "id": 3043,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7305,
+    "id": 2885,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5650,
+    "id": 6272,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2809,
+    "id": 1507,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,7 +171,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3886,
+    "id": 6933,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
