@@ -1,6 +1,6 @@
 [
   {
-    "id": 6528,
+    "id": 3550,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4349,
+    "id": 9572,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 3433,
+    "id": 4618,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,25 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 5275,
+    "id": 7133,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 4 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-4-june-2026",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 79,
+    "level": "critical",
+    "country": "🌍",
+    "text": "One killed, five wounded in shooting attack in Israel: Medics",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/7/one-killed-five-wounded-in-shooting-attack-in-israel-medics?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 1481,
     "level": "critical",
     "country": "🌍",
     "text": "1 killed and 5 injured in Israel shootings",
@@ -36,7 +54,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 7531,
+    "id": 1571,
     "level": "critical",
     "country": "🌍",
     "text": "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
@@ -45,7 +63,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 3555,
+    "id": 8202,
     "level": "critical",
     "country": "🌍",
     "text": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
@@ -54,25 +72,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 4396,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How have countries around the world responded to the US-Israel war on Iran?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran?traffic_source=rss",
-    "time": "Sun, 07 Jun 2026"
-  },
-  {
-    "id": 4038,
-    "level": "critical",
-    "country": "🌍",
-    "text": "100 days of the US–Israel war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
-    "time": "Sun, 07 Jun 2026"
-  },
-  {
-    "id": 1277,
+    "id": 3762,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : Beyrouth condamne les attaques israéliennes \"incessantes\"",
@@ -81,7 +81,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 5432,
+    "id": 6264,
     "level": "high",
     "country": "🌍",
     "text": "Un nourrisson palestinien tué par des tirs israéliens en Cisjordanie",
@@ -90,7 +90,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 5538,
+    "id": 3561,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6627,
+    "id": 4473,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6577,
+    "id": 4300,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 104,
+    "id": 5393,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5554,
+    "id": 2273,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2688,
+    "id": 2453,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2576,
+    "id": 9725,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4030,
+    "id": 1179,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6465,
+    "id": 1192,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,7 +171,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3804,
+    "id": 8703,
     "level": "medium",
     "country": "🌍",
     "text": "Climate success stories: A pleasant surprise",
