@@ -1,6 +1,6 @@
 [
   {
-    "id": 1984,
+    "id": 8030,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3053,
+    "id": 7699,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 1391,
+    "id": 3276,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,34 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 3408,
+    "id": 9090,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 3969,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Police say two suspects have been shot and killed in Israel gun attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 8315,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Al Jazeera reports from Beirut after Israeli attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 6311,
     "level": "critical",
     "country": "🌍",
     "text": "From online class to Revolution Square: A Tehran teacher’s routine amid war",
@@ -36,16 +63,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 8552,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss",
-    "time": "Sun, 07 Jun 2026"
-  },
-  {
-    "id": 1615,
+    "id": 8315,
     "level": "critical",
     "country": "🌍",
     "text": "Au 100e jour de la guerre, les Etats-Unis abattent des drones iraniens",
@@ -54,7 +72,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 6771,
+    "id": 1562,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : Israël bombarde la banlieue sud de Beyrouth",
@@ -63,7 +81,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 8474,
+    "id": 6141,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de Lyhanna : \"ce meurtre aurait certainement pu être évité\"",
@@ -72,7 +90,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 8056,
+    "id": 6882,
     "level": "critical",
     "country": "🌍",
     "text": "Marche blanche en hommage à Lyhanna, près de 5000 personnes attendues",
@@ -81,7 +99,16 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 0,
+    "id": 8736,
+    "level": "high",
+    "country": "🌍",
+    "text": "Bolivia’s legislature passes law allowing use of troops against protesters",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 1531,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8373,
+    "id": 2223,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3557,
+    "id": 7833,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9296,
+    "id": 712,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3324,
+    "id": 2672,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 156,
+    "id": 1390,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7762,
+    "id": 1887,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,39 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5602,
+    "id": 1401,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 703,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 5078,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Climate success stories: A pleasant surprise",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/07/climate-success-stories-a-pleasant-surprise/",
-    "time": "Sun, 07 Jun 2026"
-  },
-  {
-    "id": 8228,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Bangladeshi migrant recruitment networks built a quarter-billion-dollar smug",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/06/how-bangladeshi-migrant-recruitment-networks-built-a-quarter-billion-dollar-smuggling-economy/",
-    "time": "Sat, 06 Jun 2026"
   }
 ]
