@@ -1,6 +1,6 @@
 [
   {
-    "id": 9926,
+    "id": 9612,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5406,
+    "id": 1284,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 8729,
+    "id": 1178,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,52 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 8429,
+    "id": 2517,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 4 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-4-june-2026",
+    "time": "Sat, 06 Jun 2026"
+  },
+  {
+    "id": 8569,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/7/pakistans-naqvi-visits-iran-with-special-letter-for-supreme-leader?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 2618,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least a dozen injured from shooting attack near Ohio festival",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/at-least-a-dozen-injured-from-shooting-attack-near-ohio-festival?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 543,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/7/lebanon-army-chief-in-pakistan-funeral-planned-for-troops-killed-by-israel?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 2267,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 1924,
     "level": "critical",
     "country": "🌍",
     "text": "By the numbers: 100 days of the US-Israel war on Iran",
@@ -36,7 +81,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 2398,
+    "id": 8752,
     "level": "critical",
     "country": "🌍",
     "text": "How many times were the US and Iran on the verge of a deal?",
@@ -45,16 +90,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 3660,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: US forces shoot down Iranian drones in Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war?traffic_source=rss",
-    "time": "Sun, 07 Jun 2026"
-  },
-  {
-    "id": 274,
+    "id": 1253,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : les États-Unis disent avoir abattu deux drones iraniens",
@@ -63,7 +99,16 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 2096,
+    "id": 8710,
+    "level": "critical",
+    "country": "🌍",
+    "text": "À Fleurance, une marche blanche pour un dernier hommage à Lyhanna",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260607-%C3%A0-fleurance-une-marche-blanche-pour-un-dernier-hommage-%C3%A0-lyhanna",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 9424,
     "level": "critical",
     "country": "🌍",
     "text": "Ethiopie : attaque de drones sur la ville de Sheraro, crainte d'une reprise de l",
@@ -72,7 +117,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 3816,
+    "id": 1134,
     "level": "critical",
     "country": "🌍",
     "text": "Jad Tabet : \"ce qu'il se passe au Liban Sud, c'est une table rase, une politique",
@@ -81,25 +126,7 @@
     "time": "Sat, 06 Jun 2026"
   },
   {
-    "id": 4512,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'Iran cible le Koweït et Bahreïn en riposte à des frappes américaines",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260606-l-iran-cible-le-kowe%C3%AFt-et-bahre%C3%AFn-en-riposte-%C3%A0-des-frappes-am%C3%A9ricaines",
-    "time": "Sat, 06 Jun 2026"
-  },
-  {
-    "id": 2200,
-    "level": "high",
-    "country": "🌍",
-    "text": "Why is Chinese President Xi Jinping visiting North Korea now?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss",
-    "time": "Sun, 07 Jun 2026"
-  },
-  {
-    "id": 9716,
+    "id": 7408,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 61,
+    "id": 8122,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8643,
+    "id": 7497,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 43,
+    "id": 5377,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3309,
+    "id": 2927,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,39 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2647,
+    "id": 3041,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 2953,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 9550,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 763,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
