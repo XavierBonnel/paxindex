@@ -1,6 +1,6 @@
 [
   {
-    "id": 7157,
+    "id": 3713,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 702,
+    "id": 166,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 5480,
+    "id": 9440,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,34 +27,25 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 6013,
+    "id": 3701,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+    "text": "Iran fires missiles at Israel after it attacked Beirut",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 1811,
+    "id": 6251,
     "level": "critical",
     "country": "🌍",
-    "text": "Police say two suspects have been shot and killed in Israel gun attack",
+    "text": "Iranian World Cup excitement dulled by war and economic crisis",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/police-say-two-suspects-have-been-shot-and-killed-in-israel-gun-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 3957,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Al Jazeera reports from Beirut after Israeli attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/al-jazeera-reports-from-beirut-after-israeli-attack?traffic_source=rss",
-    "time": "Sun, 07 Jun 2026"
-  },
-  {
-    "id": 2035,
+    "id": 5533,
     "level": "critical",
     "country": "🌍",
     "text": "Au 100e jour de la guerre, les Etats-Unis abattent des drones iraniens",
@@ -63,7 +54,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 7816,
+    "id": 5766,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : Israël bombarde la banlieue sud de Beyrouth",
@@ -72,7 +63,7 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 8561,
+    "id": 4020,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de Lyhanna : \"ce meurtre aurait certainement pu être évité\"",
@@ -81,16 +72,16 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 2867,
-    "level": "critical",
+    "id": 4923,
+    "level": "high",
     "country": "🌍",
-    "text": "Marche blanche en hommage à Lyhanna, près de 5000 personnes attendues",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-marche-blanche-en-hommage-%C3%A0-lyhanna-pr%C3%A8s-de-5000-personnes-attendues",
+    "text": "Iran losing patience with Israel and US over ceasefire violations",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 7713,
+    "id": 4892,
     "level": "high",
     "country": "🌍",
     "text": "Bolivia’s legislature passes law allowing use of troops against protesters",
@@ -99,7 +90,25 @@
     "time": "Sun, 07 Jun 2026"
   },
   {
-    "id": 5705,
+    "id": 6345,
+    "level": "high",
+    "country": "🌍",
+    "text": "Focus JTA Sénégal : Sonko reprend le Pastef, Diomaye gouverne seul",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-focus-jta-s%C3%A9n%C3%A9gal-sonko-reprend-le-pastef-diomaye-gouverne-seul",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 9990,
+    "level": "high",
+    "country": "🌍",
+    "text": "🔴 En direct : Israël signale des tirs de missiles iraniens, les premiers depuis ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260607-guerre-au-moyen-orient-les-%C3%A9tats-unis-disent-avoir-abattu-deux-drones-iraniens",
+    "time": "Sun, 07 Jun 2026"
+  },
+  {
+    "id": 1474,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3228,
+    "id": 7529,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1105,
+    "id": 2091,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8522,
+    "id": 1591,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6915,
+    "id": 7620,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7775,
+    "id": 8905,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2004,
+    "id": 6802,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,21 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 129,
+    "id": 4138,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9529,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
