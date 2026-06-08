@@ -1,6 +1,6 @@
 [
   {
-    "id": 2171,
+    "id": 9527,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4756,
+    "id": 1386,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 8085,
+    "id": 2368,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,43 +27,61 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 1802,
+    "id": 806,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel’s strikes on Iran expose Trump’s failure to restrain Netanyahu",
+    "text": "Smoke rises in illegal Israeli settlement after Iranian missile attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israels-strikes-on-iran-expose-trumps-failure-to-restrain-netanyahu?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/smoke-rises-in-illegal-israeli-settlement-after-iranian-missile-attack?traffic_source=rss",
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 7233,
+    "id": 811,
     "level": "critical",
     "country": "🌍",
-    "text": "Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters",
+    "text": "Video: Israel claims strike on Iranian petrochemical complex",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/video-israel-claims-strike-on-iranian-petrochemical-complex?traffic_source=rss",
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 7262,
+    "id": 8664,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine, Russia trade fire as Zelenskyy allies back call for direct talks",
+    "text": "Iran and Israel bomb each other: Is the ceasefire over?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/8/iran-and-israel-bomb-each-other-is-the-ceasefire-over?traffic_source=rss",
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 2736,
+    "id": 9922,
     "level": "critical",
     "country": "🌍",
-    "text": "Magnitude 7.8 earthquake rocks southern Philippines",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/magnitude-7-8-earthquake-rocks-southern-philippines?traffic_source=rss",
+    "text": "🔴 En direct : l'Iran annonce une \"cessation\" des frappes contre Israël",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260607-en-direct-armee-israel-frappera-iran-avec-force-feu-vert-sera-donne-liban-syrie-hezbollah-donald-trump-etats-unis-ormuz",
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 3430,
+    "id": 262,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mort de Lyhanna : symbole des failles de la justice française",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-mort-de-lyhanna-symbole-des-failles-de-la-justice-fran%C3%A7aise",
+    "time": "Mon, 08 Jun 2026"
+  },
+  {
+    "id": 2821,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Philippines : un puissant séisme de magnitude 7,8 fait au moins 15 morts",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-philippines-un-puissant-s%C3%A9isme-de-magnitude-7-8-fait-au-moins-15-morts",
+    "time": "Mon, 08 Jun 2026"
+  },
+  {
+    "id": 2357,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelle flambée de tensions entre l’Iran et Israël",
@@ -72,25 +90,7 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 4439,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban : Nabatiyé, nouvelle cible de l'armée israélienne ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-liban-nabatiy%C3%A9-nouvelle-cible-de-l-arm%C3%A9e-isra%C3%A9lienne",
-    "time": "Mon, 08 Jun 2026"
-  },
-  {
-    "id": 6817,
-    "level": "critical",
-    "country": "🌍",
-    "text": "100 jours de guerre au Moyen-Orient : une facture économique de plus en plus lou",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260608-100-jours-de-guerre-au-moyen-orient-une-facture-%C3%A9conomique-de-plus-en-plus-lourde",
-    "time": "Mon, 08 Jun 2026"
-  },
-  {
-    "id": 7609,
+    "id": 2361,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -99,7 +99,25 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 1291,
+    "id": 9697,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israël : le pays à l'arrêt après des tirs de missiles iraniens",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-isra%C3%ABl-le-pays-%C3%A0-l-arr%C3%AAt-apr%C3%A8s-des-tirs-de-missiles-iraniens",
+    "time": "Mon, 08 Jun 2026"
+  },
+  {
+    "id": 2271,
+    "level": "high",
+    "country": "🌍",
+    "text": "Un drone s'écrase en Moldavie, un autre abattu par l'Otan en Lettonie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260608-un-drone-s-%C3%A9crase-en-moldavie-un-autre-abattu-par-l-otan-en-lettonie",
+    "time": "Mon, 08 Jun 2026"
+  },
+  {
+    "id": 3216,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3101,
+    "id": 8532,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 852,
+    "id": 3863,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9218,
+    "id": 5211,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8811,
+    "id": 4429,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1229,
+    "id": 5961,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4321,
+    "id": 1953,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 4075,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 2862,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
