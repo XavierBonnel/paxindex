@@ -1,6 +1,6 @@
 [
   {
-    "id": 2165,
+    "id": 3410,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1379,
+    "id": 162,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,25 +18,34 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 6733,
+    "id": 7917,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/04/galician-identity-and-literature-are-deeply-rooted-in-land-award-winning-galician-writer-explains/",
-    "time": "Thu, 04 Jun 2026"
-  },
-  {
-    "id": 6545,
-    "level": "critical",
-    "country": "🌍",
-    "text": "xLebanon: Conflict Intensity Snapshot (2 March - 8 June 2026)",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 8 June 2026)",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/xlebanon-conflict-intensity-snapshot-2-march-8-june-2026",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-8-june-2026",
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 8354,
+    "id": 6358,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/9/israel-preventing-more-than-16500-palestinians-from-accessing-medical-treatment?traffic_source=rss",
+    "time": "Tue, 09 Jun 2026"
+  },
+  {
+    "id": 7092,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war?traffic_source=rss",
+    "time": "Tue, 09 Jun 2026"
+  },
+  {
+    "id": 3255,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
@@ -45,43 +54,7 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 111,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/9/did-netanyahu-really-defy-trump-in-bombing-iran?traffic_source=rss",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 4727,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/9/deadly-protests-in-pakistan-administered-kashmir-whats-going-on?traffic_source=rss",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 9251,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre?traffic_source=rss",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 5717,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Shackled, bleeding, raped: Palestinians describe abuse in Israel’s prisons",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/6/9/shackled-bleeding-raped-palestinians-describe-abuse-in-israels-prisons?traffic_source=rss",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 839,
+    "id": 12,
     "level": "critical",
     "country": "🌍",
     "text": "EXCLUSIF : Nous avons pu entrer dans un bastion du Hezbollah fermé aux journalis",
@@ -90,16 +63,7 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 4454,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Affaire Lyhanna : que contient la \"loi intégrale\" contre les violences sexuelles",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260609-affaire-lyhanna-que-contient-la-loi-int%C3%A9grale-contre-les-violences-sexuelles",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 2574,
+    "id": 1120,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -108,7 +72,7 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 8095,
+    "id": 9619,
     "level": "high",
     "country": "🌍",
     "text": "Six countries sanction enablers of settler violence in occupied West Bank",
@@ -117,7 +81,7 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 721,
+    "id": 5155,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2455,
+    "id": 3029,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8327,
+    "id": 5891,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7095,
+    "id": 7812,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 0,
+    "id": 4544,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4063,
+    "id": 653,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +135,48 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3387,
+    "id": 1841,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 8693,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 7324,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 2287,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Meet three young people driving ecological activism in the Dominican Republic",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic/",
+    "time": "Tue, 09 Jun 2026"
+  },
+  {
+    "id": 1043,
+    "level": "medium",
+    "country": "🌍",
+    "text": "UN study shows Hong Kong data centres have some of the world’s worst carbon foot",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/09/un-study-shows-hong-kong-data-centres-have-some-of-the-worlds-worst-carbon-footprints/",
+    "time": "Tue, 09 Jun 2026"
   }
 ]
