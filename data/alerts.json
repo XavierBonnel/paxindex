@@ -1,6 +1,6 @@
 [
   {
-    "id": 7307,
+    "id": 5625,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2318,
+    "id": 8341,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 5783,
+    "id": 541,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,7 +27,16 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 7956,
+    "id": 3710,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran’s lakes are vanishing: Satellite images show a deepening water crisis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/6/9/irans-lakes-are-vanishing-satellite-images-show-a-deepening-water-crisis-2?traffic_source=rss",
+    "time": "Tue, 09 Jun 2026"
+  },
+  {
+    "id": 3169,
     "level": "critical",
     "country": "🌍",
     "text": "FIFA drops Somali World Cup referee after US denies him entry",
@@ -36,7 +45,7 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 4871,
+    "id": 4614,
     "level": "critical",
     "country": "🌍",
     "text": "Israel kills 14 in southern Lebanon after trading fire with Iran",
@@ -45,43 +54,34 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 6352,
+    "id": 5706,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel intensifies strikes in southern Lebanon killing 12 people",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/9/aje-onl-nf_israel-strikes-lebanon-moments-before-on-air-090626?traffic_source=rss",
+    "text": "Kim Jong-un, \"la transformation miraculeuse\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260609-kim-jong-un-la-transformation-miraculeuse",
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 9115,
+    "id": 2495,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump warns Netanyahu: ‘You’ll be on your own’ if attacks on Iran continue",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue?traffic_source=rss",
+    "text": "Le monde s'installe dans une nouvelle ère de violence élevée, selon une étude",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260609-le-monde-s-installe-dans-une-nouvelle-%C3%A8re-de-violence-%C3%A9lev%C3%A9e-selon-une-%C3%A9tude",
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 1536,
+    "id": 4010,
     "level": "critical",
     "country": "🌍",
-    "text": "Moyen-Orient en direct : 14 morts dans des frappes israéliennes sur le sud du Li",
+    "text": "Moyen-Orient en direct : 14 morts dans des frappes israéliennes dans le sud du L",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260609-moyen-orient-en-direct-iran-israel-liban-hezbollah-donald-trump-netanyahu",
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 7951,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient : les compagnies aériennes affichent tarifs en hausse et ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260608-guerre-au-moyen-orient-les-compagnies-a%C3%A9riennes-affichent-tarifs-en-hausse-et-b%C3%A9n%C3%A9fices-en-baisse",
-    "time": "Mon, 08 Jun 2026"
-  },
-  {
-    "id": 9944,
+    "id": 1914,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -90,16 +90,7 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 5408,
-    "level": "high",
-    "country": "🌍",
-    "text": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 794,
+    "id": 4670,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6465,
+    "id": 9515,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 207,
+    "id": 8207,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7709,
+    "id": 3,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5189,
+    "id": 1550,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1667,
+    "id": 2578,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1791,
+    "id": 3473,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8717,
+    "id": 2949,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7685,
+    "id": 8633,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 3798,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Kazakhstan’s stray animal reforms reignite debate over public safety and humane ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/08/kazakhstans-stray-animal-reforms-reignite-debate-over-public-safety-and-humane-policy/",
+    "time": "Mon, 08 Jun 2026"
   }
 ]
