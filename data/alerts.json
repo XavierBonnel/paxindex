@@ -1,6 +1,6 @@
 [
   {
-    "id": 3397,
+    "id": 2165,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5558,
+    "id": 1379,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -18,7 +18,7 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 5648,
+    "id": 6733,
     "level": "critical",
     "country": "🌍",
     "text": "‘Galician identity and literature are deeply rooted in land,’ award-winning Gali",
@@ -27,16 +27,25 @@
     "time": "Thu, 04 Jun 2026"
   },
   {
-    "id": 2585,
+    "id": 6545,
     "level": "critical",
     "country": "🌍",
-    "text": "Children surviving on leaves and water lilies as conflict drives parts of South ",
+    "text": "xLebanon: Conflict Intensity Snapshot (2 March - 8 June 2026)",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/south-sudan/children-surviving-leaves-and-water-lilies-conflict-drives-parts-south-sudan-brink-famine-save-children",
+    "link": "https://reliefweb.int/report/lebanon/xlebanon-conflict-intensity-snapshot-2-march-8-june-2026",
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 9579,
+    "id": 8354,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss",
+    "time": "Tue, 09 Jun 2026"
+  },
+  {
+    "id": 111,
     "level": "critical",
     "country": "🌍",
     "text": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
@@ -45,7 +54,7 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 7641,
+    "id": 4727,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
@@ -54,7 +63,7 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 7823,
+    "id": 9251,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
@@ -63,7 +72,7 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 5831,
+    "id": 5717,
     "level": "critical",
     "country": "🌍",
     "text": "Shackled, bleeding, raped: Palestinians describe abuse in Israel’s prisons",
@@ -72,16 +81,7 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 1185,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Why are Nigeria-South Africa tensions rising amid xenophobic attacks?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/9/why-are-nigeria-south-africa-tensions-rising-amid-xenophobic-attacks?traffic_source=rss",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 7638,
+    "id": 839,
     "level": "critical",
     "country": "🌍",
     "text": "EXCLUSIF : Nous avons pu entrer dans un bastion du Hezbollah fermé aux journalis",
@@ -90,34 +90,16 @@
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 2716,
+    "id": 4454,
     "level": "critical",
     "country": "🌍",
-    "text": "Affaire Lyhanna : Que contient la \"loi intégrale\" contre les violences sexuelles",
+    "text": "Affaire Lyhanna : que contient la \"loi intégrale\" contre les violences sexuelles",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/vid%C3%A9o/20260609-affaire-lyhanna-que-contient-la-loi-int%C3%A9grale-contre-les-violences-sexuelles",
     "time": "Tue, 09 Jun 2026"
   },
   {
-    "id": 9828,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gérald Darmanin dénonce \"de graves dysfonctionnements\" dans l'affaire Lyhanna",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260609-g%C3%A9rald-darmanin-d%C3%A9nonce-de-graves-dysfonctionnements-dans-l-affaire-lyhanna",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 1230,
-    "level": "critical",
-    "country": "🌍",
-    "text": "RDC : l'interdiction de vols commerciaux en Ituri prolongée",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260609-rdc-l-interdiction-de-vols-commerciaux-en-ituri-prolong%C3%A9e",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 1491,
+    "id": 2574,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -126,7 +108,16 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 4751,
+    "id": 8095,
+    "level": "high",
+    "country": "🌍",
+    "text": "Six countries sanction enablers of settler violence in occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/9/six-countries-sanction-networks-enabling-settler-violence-in-west-bank?traffic_source=rss",
+    "time": "Tue, 09 Jun 2026"
+  },
+  {
+    "id": 721,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3107,
+    "id": 2455,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3805,
+    "id": 8327,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9529,
+    "id": 7095,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6154,
+    "id": 0,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8885,
+    "id": 4063,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 3387,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
   }
 ]
