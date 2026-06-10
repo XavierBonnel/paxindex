@@ -1,6 +1,15 @@
 [
   {
-    "id": 8135,
+    "id": 4577,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-24T00:01"
+  },
+  {
+    "id": 3264,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -9,7 +18,61 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 6016,
+    "id": 5479,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Anti-immigration protests break out in Belfast after knife attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/6/10/anti-immigration-protests-break-out-in-belfast-after-knife-attack?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 7765,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/10/rising-from-the-rubble-a-gaza-tech-incubator-defies-israels-war?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 6367,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/10/twelve-killed-in-johannesburg-mass-shooting-manhunt-under-way?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 9286,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Baltic states fear Russia-Ukraine war spillover after drone incursions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/longform/2026/6/10/baltic-states-fear-russia-ukraine-war-spillover-after-drone-incursions?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 6612,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Explosion in Bahrain as Iran attacks US bases",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 512,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Messi comes off the bench to score in Argentina’s final World Cup warm-up",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/10/messi-comes-off-the-bench-to-score-in-argentinas-final-world-cup-warm-up?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 1755,
     "level": "critical",
     "country": "🌍",
     "text": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
@@ -18,52 +81,16 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 836,
+    "id": 5047,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss",
+    "text": "Nadège Abomangoli (LFI) : \"La justice s'est clochardisée\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20260610-nad%C3%A8ge-abomangoli-lfi-justice-clochardis%C3%A9e-affaire-lyhanna",
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 7226,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Indonesia jails four military officers for acid attack on rights activist",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/10/indonesia-jails-four-military-officers-for-acid-attack-on-rights-activist?traffic_source=rss",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 5176,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trita Parsi: Iran is pursuing a doctrine of swift retaliation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_trita-parsi_iran-doctrine-of-swift-retaliation-100626?traffic_source=rss",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 6897,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Afghanistan says Pakistan air raids killed 13 people, including children",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children?traffic_source=rss",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 295,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UN report: Israeli forces shield settlers during attacks on Palestinians",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/un-report-israeli-forces-shield-settlers-during-attacks-on-palestinians?traffic_source=rss",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 3858,
+    "id": 2864,
     "level": "critical",
     "country": "🌍",
     "text": "Le \"Match de la mort\" : un match de football mythique... au cœur de la propagand",
@@ -72,16 +99,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 872,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : l'Iran annonce avoir ciblé des bases américaines à Bahreïn et en Jor",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260610-en-direct-moyen-orient-iran-etats-unis-frappes-bases-americaines-bahrein-jordanie-helicoptere-trump",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 5332,
+    "id": 9897,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -90,93 +108,75 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 7938,
-    "level": "high",
-    "country": "🌍",
-    "text": "Jordan intercepts Iranian missiles over its airspace",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 1767,
-    "level": "high",
-    "country": "🌍",
-    "text": "Pourquoi le Pentagone a-t-il réduit sa liste de religions pour les soldats améri",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260610-pourquoi-le-pentagone-a-t-il-r%C3%A9duit-sa-liste-de-religions-pour-les-soldats-am%C3%A9ricains-pete-hegseth",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 9002,
+    "id": 4046,
     "level": "medium",
     "country": "🌍",
-    "text": "Meet three young people driving ecological activism in the Dominican Republic",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic/",
-    "time": "Tue, 09 Jun 2026"
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
   },
   {
-    "id": 3923,
+    "id": 4889,
     "level": "medium",
     "country": "🌍",
-    "text": "UN study shows Hong Kong data centres have some of the world’s worst carbon foot",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/09/un-study-shows-hong-kong-data-centres-have-some-of-the-worlds-worst-carbon-footprints/",
-    "time": "Tue, 09 Jun 2026"
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
   },
   {
-    "id": 1546,
+    "id": 7006,
     "level": "medium",
     "country": "🌍",
-    "text": "Kazakhstan’s stray animal reforms reignite debate over public safety and humane ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/08/kazakhstans-stray-animal-reforms-reignite-debate-over-public-safety-and-humane-policy/",
-    "time": "Mon, 08 Jun 2026"
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
   },
   {
-    "id": 1404,
+    "id": 4096,
     "level": "medium",
     "country": "🌍",
-    "text": "Climate success stories: A pleasant surprise",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/07/climate-success-stories-a-pleasant-surprise/",
-    "time": "Sun, 07 Jun 2026"
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
   },
   {
-    "id": 3202,
+    "id": 714,
     "level": "medium",
     "country": "🌍",
-    "text": "How Bangladeshi migrant recruitment networks built a quarter of a billion dollar",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/06/how-bangladeshi-migrant-recruitment-networks-built-a-quarter-billion-dollar-smuggling-economy/",
-    "time": "Sat, 06 Jun 2026"
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
   },
   {
-    "id": 2967,
+    "id": 1689,
     "level": "medium",
     "country": "🌍",
-    "text": "The daughters who were raised to be everything under China’s one-child policy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/06/the-daughters-who-were-raised-to-be-everything-under-chinas-one-child-policy/",
-    "time": "Sat, 06 Jun 2026"
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
   },
   {
-    "id": 6059,
+    "id": 7618,
     "level": "medium",
     "country": "🌍",
-    "text": "The signal we cannot ignore: What the LONDA 2025 report reveals about Africa’s d",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/05/the-signal-we-cannot-ignore-what-the-londa-2025-report-reveals-about-africas-digital-rights/",
-    "time": "Fri, 05 Jun 2026"
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
   },
   {
-    "id": 876,
+    "id": 7178,
     "level": "medium",
     "country": "🌍",
-    "text": "Cinemas offer a platform for stories of resistance amid shrinking civic spaces i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/04/cinemas-offer-a-platform-for-stories-of-resistance-amid-shrinking-civic-spaces-in-africa/",
-    "time": "Wed, 03 Jun 2026"
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
   }
 ]
