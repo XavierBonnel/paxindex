@@ -1,6 +1,6 @@
 [
   {
-    "id": 8332,
+    "id": 4075,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 499,
+    "id": 9180,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 5929,
+    "id": 4073,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -27,7 +27,43 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 7694,
+    "id": 2079,
+    "level": "critical",
+    "country": "🌍",
+    "text": "After a Democrat standoff, Trump signs $70bn immigration enforcement bill",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 9437,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump warns of more attacks on Iran after US Apache helicopter downing",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-warns-of-more-attacks-on-iran-after-us-apache-helicopter-downing?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 5392,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US military chief Hegseth warns Cuba against acquiring military arms",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/10/us-military-chief-hegseth-warns-cuba-against-acquiring-military-arms?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 841,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/uk-pm-starmer-slams-unjustified-anti-immigration-violence-in-belfast?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 6215,
     "level": "critical",
     "country": "🌍",
     "text": "LIVE: Portugal vs Nigeria – World Cup 2026 international friendly",
@@ -36,7 +72,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 1174,
+    "id": 8132,
     "level": "critical",
     "country": "🌍",
     "text": "Mass shooting with at least 10 attackers in Johannesburg",
@@ -45,43 +81,16 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 6110,
+    "id": 7033,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump hardens tone against Iran, says ‘may keep going’ with strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/10/trump-hardens-tone-against-iran-says-may-keep-going-with-strikes?traffic_source=rss",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 1583,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US diplomat found dead in Myanmar, Thai woman in custody",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar?traffic_source=rss",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 195,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : pourquoi des camions russes arborent un camouflage zébré",
+    "text": "Mort de Lyhanna : un échec national ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260610-guerre-ukraine-camions-russes-camouflage-z%C3%A9br%C3%A9-dazzle",
+    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260610-mort-de-lyhanna-un-%C3%A9chec-national",
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 2970,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le rôle central de la société turque \"Sadat\" dans les arcanes du pouvoir malien",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-le-r%C3%B4le-central-de-la-soci%C3%A9t%C3%A9-turque-sadat-dans-les-arcanes-du-pouvoir-malien",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 8846,
+    "id": 4094,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -90,25 +99,7 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 1778,
-    "level": "high",
-    "country": "🌍",
-    "text": "Sanctions on settlers not enough: Target Israeli gov’t, say campaigners",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/10/sanctions-on-settlers-not-enough-target-israeli-govt-say-campaigners?traffic_source=rss",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 94,
-    "level": "high",
-    "country": "🌍",
-    "text": "Mondial 2026 : Le silence de la FIFA à propos de la politique de Trump interogge",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-mondial-2026-le-silence-de-la-fifa-%C3%A0-propos-de-la-politique-de-trump-interogge",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 617,
+    "id": 1494,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3069,
+    "id": 3034,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4673,
+    "id": 7360,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1186,
+    "id": 4749,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6657,
+    "id": 3462,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 0,
+    "id": 7462,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1335,
+    "id": 9150,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +162,21 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5811,
+    "id": 1921,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 8959,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
   }
 ]
