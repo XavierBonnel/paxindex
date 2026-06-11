@@ -1,6 +1,6 @@
 [
   {
-    "id": 6303,
+    "id": 7574,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1258,
+    "id": 7309,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 9317,
+    "id": 556,
     "level": "critical",
     "country": "🌍",
     "text": "Gender diversity under pressure: Resistance, community, and the politics of belo",
@@ -27,7 +27,25 @@
     "time": "Fri, 05 Jun 2026"
   },
   {
-    "id": 5881,
+    "id": 4032,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran retaliates after US launches attacks across Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets?traffic_source=rss",
+    "time": "Thu, 11 Jun 2026"
+  },
+  {
+    "id": 6999,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran attacks Bahrain, Kuwait, closes Hormuz Strait after fresh US strikes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/10/us-bombs-iran-after-trump-threat-tehran-closes-hormuz-strait-to-all-ships?traffic_source=rss",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 5935,
     "level": "critical",
     "country": "🌍",
     "text": "Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria",
@@ -36,7 +54,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 1415,
+    "id": 1378,
     "level": "critical",
     "country": "🌍",
     "text": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
@@ -45,7 +63,16 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 8921,
+    "id": 1533,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : l'Iran annonce fermer le détroit d'Ormuz à tout type de navire, Wash",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260611-en-direct-moyen-orient-etats-unis-iran-frappes-detroit-d-ormuz-donald-trump",
+    "time": "Thu, 11 Jun 2026"
+  },
+  {
+    "id": 6433,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : l'armée américaine dit mener des \"frappes défensives\" contre l'Iran",
@@ -54,7 +81,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 5120,
+    "id": 3710,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -63,7 +90,16 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 2386,
+    "id": 2847,
+    "level": "high",
+    "country": "🌍",
+    "text": "Mexico braces for celebrations, protests as World Cup opens amid tensions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/11/mexico-braced-for-celebrations-protests-as-world-cup-opens-amid-tensions?traffic_source=rss",
+    "time": "Thu, 11 Jun 2026"
+  },
+  {
+    "id": 2401,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6936,
+    "id": 260,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5540,
+    "id": 3194,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4257,
+    "id": 5910,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3819,
+    "id": 6716,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2607,
+    "id": 5887,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9206,
+    "id": 6970,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5368,
+    "id": 475,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,48 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8028,
+    "id": 1706,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 6935,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From Ciudad Juárez to Latin America: The legacy of Ni Una Menos",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/10/from-ciudad-juarez-to-latin-america-the-legacy-of-ni-una-menos/",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 4709,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Meet three young people driving ecological activism in the Dominican Republic",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/09/meet-three-young-people-driving-ecological-activism-in-the-dominican-republic/",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 2675,
-    "level": "medium",
-    "country": "🌍",
-    "text": "UN study shows Hong Kong data centres have some of the world’s worst carbon foot",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/09/un-study-shows-hong-kong-data-centres-have-some-of-the-worlds-worst-carbon-footprints/",
-    "time": "Tue, 09 Jun 2026"
-  },
-  {
-    "id": 2911,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Kazakhstan’s stray animal reforms reignite debate over public safety and humane ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/08/kazakhstans-stray-animal-reforms-reignite-debate-over-public-safety-and-humane-policy/",
-    "time": "Mon, 08 Jun 2026"
   }
 ]
