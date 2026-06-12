@@ -1,6 +1,6 @@
 [
   {
-    "id": 4006,
+    "id": 3578,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5352,
+    "id": 7755,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,52 +18,61 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 6922,
+    "id": 9178,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 11 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-11-june-2026",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 2209,
+    "level": "critical",
+    "country": "🌍",
+    "text": "IOM Transhumance Tracking Tool (TTT) CRR-S, CRR-N, NBR, LRR REGIONS, The Gambia ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/gambia/iom-transhumance-tracking-tool-ttt-crr-s-crr-n-nbr-lrr-regions-gambia-early-warning-and-early-response-dashboard-1-november-2025-march-2026",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 5999,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 8456,
+    "id": 2150,
     "level": "critical",
     "country": "🌍",
-    "text": "Le Mondial de football, un événement foncièrement géopolitique",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-le-mondial-de-football-un-%C3%A9v%C3%A9nement-fonci%C3%A8rement-g%C3%A9opolitique",
+    "text": "Alarm as Ebola spreads into new areas of DR Congo",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/12/alarm-as-ebola-spreads-into-new-areas-of-dr-congo?traffic_source=rss",
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 3302,
+    "id": 2167,
     "level": "critical",
     "country": "🌍",
-    "text": "Affaire Lyhanna : plusieurs plaintes visant le père du suspect refont surface",
+    "text": "Accord \"imminent\" avec l’Iran ? Trump brouille les pistes avec ses revirements i",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-affaire-lyhanna-plusieurs-plaintes-visant-le-p%C3%A8re-du-suspect-refont-surface",
+    "link": "https://www.france24.com/fr/moyen-orient/20260612-accord-imminent-avec-l-iran-trump-brouille-les-pistes-avec-ses-revirements-incessants",
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 3550,
+    "id": 5379,
     "level": "critical",
     "country": "🌍",
-    "text": "Pourquoi la Fifa a demandé à Haïti de changer ses maillots avant le Mondial 2026",
+    "text": "VSS : la France face aux dysfonctionnements de sa justice",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-pourquoi-la-fifa-a-demand%C3%A9-%C3%A0-ha%C3%AFti-de-changer-ses-maillots-avant-le-mondial-2026",
+    "link": "https://www.france24.com/fr/%C3%A9missions/actuelles/20260612-vss-la-france-face-aux-dysfonctionnements-de-sa-justice",
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 5576,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le peintre britannique David Hockney est décédé à 88 ans",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-le-peintre-britannique-david-hockney-est-d%C3%A9c%C3%A9d%C3%A9-%C3%A0-88-ans",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 6427,
+    "id": 8103,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -72,7 +81,7 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 9660,
+    "id": 786,
     "level": "high",
     "country": "🌍",
     "text": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
@@ -81,7 +90,7 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 4182,
+    "id": 2952,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3419,
+    "id": 4470,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9740,
+    "id": 7948,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4433,
+    "id": 4612,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8997,
+    "id": 9505,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2764,
+    "id": 1810,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 683,
+    "id": 4621,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1916,
+    "id": 4884,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 766,
+    "id": 4180,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,21 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2001,
+    "id": 6347,
     "level": "medium",
     "country": "🌍",
     "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
     "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 3415,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Brazil will feature the number 24 on the pitch during World Cup 2026. And that c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/11/brazil-will-feature-the-number-24-on-the-pitch-during-world-cup-2026-and-that-carries-a-message/",
-    "time": "Thu, 11 Jun 2026"
   }
 ]
