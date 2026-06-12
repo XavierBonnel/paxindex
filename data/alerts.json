@@ -1,6 +1,6 @@
 [
   {
-    "id": 3009,
+    "id": 4006,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2396,
+    "id": 5352,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,52 +18,52 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 5279,
+    "id": 6922,
     "level": "critical",
     "country": "🌍",
-    "text": "One injured as Israel hits southern Lebanon with air raids, artillery",
+    "text": "Ukraine reclaims territory as it doubles attacks on Russian logistics",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/12/ukraine-reclaims-territory-in-may-as-it-doubles-strikes-on-russian-logistic?traffic_source=rss",
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 5542,
+    "id": 8456,
     "level": "critical",
     "country": "🌍",
-    "text": "A year after Air India crash killed 260: Do we know what happened?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/12/a-year-after-air-india-crash-killed-260-do-we-know-what-happened?traffic_source=rss",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 7430,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/12/nigeria-killed-more-than-13000-terrorists-in-past-year-president-says?traffic_source=rss",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 6048,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Riots, violence, hate: Anti-immigrant unrest spells danger in Belfast",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast?traffic_source=rss",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 8448,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mort de David Hockney : hommage au peintre des piscines californiennes",
+    "text": "Le Mondial de football, un événement foncièrement géopolitique",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260612-mort-de-david-hockney-hommage-au-peintre-des-piscines-californiennes",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-le-mondial-de-football-un-%C3%A9v%C3%A9nement-fonci%C3%A8rement-g%C3%A9opolitique",
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 6616,
+    "id": 3302,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Affaire Lyhanna : plusieurs plaintes visant le père du suspect refont surface",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-affaire-lyhanna-plusieurs-plaintes-visant-le-p%C3%A8re-du-suspect-refont-surface",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 3550,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pourquoi la Fifa a demandé à Haïti de changer ses maillots avant le Mondial 2026",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-pourquoi-la-fifa-a-demand%C3%A9-%C3%A0-ha%C3%AFti-de-changer-ses-maillots-avant-le-mondial-2026",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 5576,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le peintre britannique David Hockney est décédé à 88 ans",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-le-peintre-britannique-david-hockney-est-d%C3%A9c%C3%A9d%C3%A9-%C3%A0-88-ans",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 6427,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -72,25 +72,16 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 8275,
+    "id": 9660,
     "level": "high",
     "country": "🌍",
-    "text": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
+    "text": "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/12/dishonorable-trump-says-leaked-iran-ceasefire-terms-fake?traffic_source=rss",
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 364,
-    "level": "high",
-    "country": "🌍",
-    "text": "Tunisie : les épreuves du baccalauréat agitées, entre coupures d'internet et sou",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-tunisie-les-%C3%A9preuves-du-baccalaur%C3%A9at-agit%C3%A9es-entre-coupures-d-internet-et-soup%C3%A7ons-de-fraude",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 1079,
+    "id": 4182,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9611,
+    "id": 3419,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3713,
+    "id": 9740,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1375,
+    "id": 4433,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3509,
+    "id": 8997,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7659,
+    "id": 2764,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1547,
+    "id": 683,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9247,
+    "id": 1916,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3709,
+    "id": 766,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,12 +162,21 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6771,
+    "id": 2001,
     "level": "medium",
     "country": "🌍",
     "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
     "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 3415,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Brazil will feature the number 24 on the pitch during World Cup 2026. And that c",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/11/brazil-will-feature-the-number-24-on-the-pitch-during-world-cup-2026-and-that-carries-a-message/",
+    "time": "Thu, 11 Jun 2026"
   }
 ]
