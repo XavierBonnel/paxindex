@@ -1,6 +1,6 @@
 [
   {
-    "id": 5641,
+    "id": 7237,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5145,
+    "id": 6720,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,16 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 1181,
+    "id": 1441,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 11 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-11-june-2026",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 581,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
@@ -27,7 +36,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 2486,
+    "id": 7618,
     "level": "critical",
     "country": "🌍",
     "text": "Mother sues OpenAI in US after daughter’s death linked to ChatGPT use",
@@ -36,7 +45,7 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 2973,
+    "id": 3325,
     "level": "critical",
     "country": "🌍",
     "text": "Will there be a deal to end the Iran war this time?",
@@ -45,7 +54,7 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 9397,
+    "id": 9080,
     "level": "critical",
     "country": "🌍",
     "text": "Conflit israélo-palestinien : la perspective d'une solution à deux États \"se rét",
@@ -54,7 +63,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 3726,
+    "id": 2935,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Iran, affaire Lyhanna et une Coupe du Monde controversée",
@@ -63,16 +72,7 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 7914,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Accord \"imminent\" avec l’Iran ? Trump brouille les pistes avec ses revirements i",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260612-accord-imminent-avec-l-iran-trump-brouille-les-pistes-avec-ses-revirements-incessants",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 4253,
+    "id": 3401,
     "level": "high",
     "country": "🌍",
     "text": "Migrant workers in the Gulf states: They came to build cities, not to be buried ",
@@ -81,7 +81,7 @@
     "time": "Mon, 08 Jun 2026"
   },
   {
-    "id": 8909,
+    "id": 3201,
     "level": "high",
     "country": "🌍",
     "text": "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
@@ -90,7 +90,16 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 1276,
+    "id": 3940,
+    "level": "high",
+    "country": "🌍",
+    "text": "En direct : les États-Unis abattent des drones iraniens qui ciblaient des navire",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260613-en-direct-moyen-orient-iran-etats-unis-accord-paix-drones-detroit-ormuz-trump",
+    "time": "Sat, 13 Jun 2026"
+  },
+  {
+    "id": 7078,
     "level": "high",
     "country": "🌍",
     "text": "RDC : Fayulu et Sesanga blessés, l'opposition dénonce une dérive du pouvoir",
@@ -99,7 +108,7 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 6647,
+    "id": 6800,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2521,
+    "id": 9716,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4943,
+    "id": 4390,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6850,
+    "id": 1428,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7087,
+    "id": 4190,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1302,
+    "id": 7949,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8261,
+    "id": 3400,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,21 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8740,
+    "id": 3446,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 3821,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
