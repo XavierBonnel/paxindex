@@ -1,6 +1,6 @@
 [
   {
-    "id": 3375,
+    "id": 4000,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1482,
+    "id": 6357,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,43 +18,34 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 1345,
+    "id": 4906,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 11 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-11-june-2026",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 7877,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine to keep targeting Russian energy after hitting sea terminal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/13/gaza-post-ceasefire-deaths-hit-983-as-israeli-attack-targets-refugee-camp?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/13/ukraine-to-keep-targeting-russian-energy-after-hitting-sea-terminal?traffic_source=rss",
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 1401,
+    "id": 4464,
     "level": "critical",
     "country": "🌍",
-    "text": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+    "text": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 9235,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Thousands attend anti-racism rallies following unrest in Belfast",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/13/thousands-attend-anti-racism-rallies-following-unrest-in-belfast?traffic_source=rss",
-    "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 2120,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iranians divided on peace prospects after US-Iran say a deal is near",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
-    "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 7912,
+    "id": 6160,
     "level": "critical",
     "country": "🌍",
     "text": "Confusions autour des tractations américano-iraniennes : l'Iran exclut un accord",
@@ -63,7 +54,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 6771,
+    "id": 4963,
     "level": "critical",
     "country": "🌍",
     "text": "Violences sexuelles sur mineurs : la Ciivise évalue l'action du gouvernement",
@@ -72,16 +63,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 5134,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Frappes israéliennes dans le sud du Liban : pourquoi la région de Nabatieh est-e",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-frappes-isra%C3%A9liennes-dans-le-sud-du-liban-pourquoi-la-r%C3%A9gion-de-nabatieh-est-elle-convoit%C3%A9e",
-    "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 9760,
+    "id": 8374,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3177,
+    "id": 1981,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 725,
+    "id": 5439,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5490,
+    "id": 2702,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5080,
+    "id": 8890,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6247,
+    "id": 5851,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4692,
+    "id": 9348,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5227,
+    "id": 4333,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3069,
+    "id": 7045,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6177,
+    "id": 2505,
     "level": "medium",
     "country": "🌍",
     "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
@@ -171,12 +153,30 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 405,
+    "id": 4261,
     "level": "medium",
     "country": "🌍",
     "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
     "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 545,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 6372,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Brazil will feature the number 24 on the pitch during World Cup 2026. And that c",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/11/brazil-will-feature-the-number-24-on-the-pitch-during-world-cup-2026-and-that-carries-a-message/",
+    "time": "Thu, 11 Jun 2026"
   }
 ]
