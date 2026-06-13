@@ -1,6 +1,6 @@
 [
   {
-    "id": 6223,
+    "id": 1097,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5380,
+    "id": 8598,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,16 +18,16 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 2148,
+    "id": 9000,
     "level": "critical",
     "country": "🌍",
-    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 11 June 2026)",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-11-june-2026",
-    "time": "Fri, 12 Jun 2026"
+    "text": "‘Lots of things can still go wrong’ with US-Iran deal to end the war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
+    "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 6403,
+    "id": 6266,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly military plane crash in India’s Assam",
@@ -36,7 +36,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 931,
+    "id": 3435,
     "level": "critical",
     "country": "🌍",
     "text": "Five Indian air force staff killed as transport plane crashes in Assam",
@@ -45,7 +45,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 2054,
+    "id": 4216,
     "level": "critical",
     "country": "🌍",
     "text": "Israel attacks Lebanon despite being included in potential peace deal",
@@ -54,7 +54,34 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 2660,
+    "id": 1221,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Violences sexuelles sur mineurs : la Ciivise évalue l'action du gouvernement",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-violences-sexuelles-sur-mineurs-la-ciivise-%C3%A9value-l-action-du-gouvernement",
+    "time": "Sat, 13 Jun 2026"
+  },
+  {
+    "id": 592,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Frappes israéliennes dans le sud du Liban : pourquoi la région de Nabatieh est-e",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-frappes-isra%C3%A9liennes-dans-le-sud-du-liban-pourquoi-la-r%C3%A9gion-de-nabatieh-est-elle-convoit%C3%A9e",
+    "time": "Sat, 13 Jun 2026"
+  },
+  {
+    "id": 2540,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les États-Unis et l'Iran sur le point de finaliser un accord, annonce le médiate",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-les-%C3%A9tats-unis-et-l-iran-sur-le-point-de-finaliser-un-accord-annonce-le-m%C3%A9diateur-pakistanais",
+    "time": "Sat, 13 Jun 2026"
+  },
+  {
+    "id": 8721,
     "level": "critical",
     "country": "🌍",
     "text": "Iran-Israël : la \"guerre des 12 jours\" de juin 2025, le début d'une guerre ouver",
@@ -63,25 +90,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 1263,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Irlande du Nord, des violences anti-immigrés dans une province marquée par le",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260613-en-irlande-du-nord-des-violences-anti-immigr%C3%A9s-dans-une-province-marqu%C3%A9e-par-les-divisions",
-    "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 8973,
-    "level": "high",
-    "country": "🌍",
-    "text": "RD Congo : Fayulu et Sesanga blessés après un sit-in contre la réforme constitut",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-rd-congo-fayulu-et-sesanga-bless%C3%A9s-apr%C3%A8s-un-sit-in-contre-la-r%C3%A9forme-constitutionnelle",
-    "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 9277,
+    "id": 353,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5102,
+    "id": 9554,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 178,
+    "id": 1151,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1981,
+    "id": 3911,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3747,
+    "id": 4016,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6586,
+    "id": 2141,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7140,
+    "id": 9695,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 433,
+    "id": 5294,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1236,
+    "id": 1479,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,21 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5125,
+    "id": 9136,
     "level": "medium",
     "country": "🌍",
     "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/13/what-explains-the-global-stardom-of-dimash-qudaibergen-kazakhstans-cultural-phenomenon/",
     "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 5133,
-    "level": "medium",
-    "country": "🌍",
-    "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
-    "time": "Fri, 12 Jun 2026"
   }
 ]
