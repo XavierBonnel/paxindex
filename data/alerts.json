@@ -1,6 +1,6 @@
 [
   {
-    "id": 4870,
+    "id": 4390,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 1855,
+    "id": 7321,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,16 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 607,
+    "id": 4163,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump condemns Israel attack on Beirut, says Iran deal still close",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 7929,
     "level": "critical",
     "country": "🌍",
     "text": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
@@ -27,34 +36,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 9469,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 9305,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least three killed as Israel attacks southern Beirut",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 4779,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Will the US-Iran deal be signed on Sunday? What we know so far",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 3420,
+    "id": 2630,
     "level": "critical",
     "country": "🌍",
     "text": "Au Liban, une série de frappes israéliennes sur la banlieue sud de Beyrouth dima",
@@ -63,7 +45,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 6185,
+    "id": 2274,
     "level": "critical",
     "country": "🌍",
     "text": "\"Adieu mon amour\" : les dernières lettres de fusillés par les nazis enfin remise",
@@ -72,7 +54,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 790,
+    "id": 6137,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : frappes israéliennes sur la banlieue sud de Beyrouth pour la deuxième fo",
@@ -81,7 +63,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 3814,
+    "id": 9773,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7828,
+    "id": 5737,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3512,
+    "id": 7909,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7985,
+    "id": 2705,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9686,
+    "id": 3623,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5430,
+    "id": 1546,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1547,
+    "id": 7276,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 959,
+    "id": 5334,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4304,
+    "id": 4136,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -162,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8895,
+    "id": 5614,
     "level": "medium",
     "country": "🌍",
     "text": "Palestinians are being locked out of the digital economy",
@@ -171,12 +153,30 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 5693,
+    "id": 4971,
     "level": "medium",
     "country": "🌍",
     "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/13/what-explains-the-global-stardom-of-dimash-qudaibergen-kazakhstans-cultural-phenomenon/",
     "time": "Sat, 13 Jun 2026"
+  },
+  {
+    "id": 3748,
+    "level": "medium",
+    "country": "🌍",
+    "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 2813,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
+    "time": "Fri, 12 Jun 2026"
   }
 ]
