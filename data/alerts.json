@@ -1,6 +1,6 @@
 [
   {
-    "id": 3472,
+    "id": 394,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3042,
+    "id": 212,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 5918,
+    "id": 9610,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza mourns four killed in Israeli strike",
@@ -27,16 +27,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 5779,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/14/six-people-killed-as-helicopters-collide-over-brazils-rio-de-janeiro?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 7819,
+    "id": 1031,
     "level": "critical",
     "country": "🌍",
     "text": "Focus sur l'homosexualité en Afrique : la criminalisation s'accentue",
@@ -45,7 +36,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 2273,
+    "id": 9827,
     "level": "critical",
     "country": "🌍",
     "text": "Collision de deux hélicoptères à Rio : six morts, dont l’artiste américain Olive",
@@ -54,16 +45,25 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 1137,
-    "level": "critical",
+    "id": 7402,
+    "level": "high",
     "country": "🌍",
-    "text": "Ukraine : Poutine et Zelensky ont appelé Trump pour son anniversaire et parler d",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260614-ukraine-poutine-et-zelensky-ont-appele-trump-pour-son-anniversaire-parler-du-conflit",
+    "text": "BREAKING: US, Iran announce ceasefire agreement",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 7436,
+    "id": 8962,
+    "level": "high",
+    "country": "🌍",
+    "text": "US-Iran ceasefire deal announced, Trump says Strait of Hormuz reopening",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 1677,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9203,
+    "id": 7443,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4383,
+    "id": 8814,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4141,
+    "id": 8602,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5627,
+    "id": 4233,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5548,
+    "id": 7165,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9909,
+    "id": 7551,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8565,
+    "id": 1157,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7013,
+    "id": 7218,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6459,
+    "id": 1379,
     "level": "medium",
     "country": "🌍",
     "text": "Palestinians are being locked out of the digital economy",
@@ -153,7 +153,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 2514,
+    "id": 2689,
     "level": "medium",
     "country": "🌍",
     "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
@@ -162,7 +162,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 2138,
+    "id": 7579,
     "level": "medium",
     "country": "🌍",
     "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
@@ -171,7 +171,7 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 481,
+    "id": 4909,
     "level": "medium",
     "country": "🌍",
     "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
