@@ -1,6 +1,6 @@
 [
   {
-    "id": 7282,
+    "id": 6634,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 169,
+    "id": 8134,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,25 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 1100,
+    "id": 9581,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Twelve killed in plane crash in US state of Missouri",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/14/twelve-killed-in-plane-crash-in-us-state-of-missouri?traffic_source=rss",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 8898,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 3874,
     "level": "critical",
     "country": "🌍",
     "text": "Al Jazeera reports from Israeli attack site in southern Beirut",
@@ -27,34 +45,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 3695,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 6225,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 8085,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump condemns Israel’s attack on Beirut, says Iran deal still close",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 3177,
+    "id": 2945,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Poutine et Zelensky ont appelé Trump pour son anniversaire et parler d",
@@ -63,7 +54,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 9824,
+    "id": 8694,
     "level": "critical",
     "country": "🌍",
     "text": "Israël se prépare à une attaque \"potentielle\" vers son territoire (communiqué mi",
@@ -72,7 +63,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 109,
+    "id": 567,
     "level": "critical",
     "country": "🌍",
     "text": "Au Liban, une série de frappes israéliennes sur la banlieue sud de Beyrouth dima",
@@ -81,7 +72,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 3090,
+    "id": 9085,
     "level": "critical",
     "country": "🌍",
     "text": "\"Adieu mon amour\" : les dernières lettres de fusillés par les nazis enfin remise",
@@ -90,7 +81,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 4731,
+    "id": 7069,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : frappes israéliennes sur la banlieue sud de Beyrouth pour la deuxième fo",
@@ -99,7 +90,16 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 2482,
+    "id": 7994,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 4193,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7299,
+    "id": 2801,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8490,
+    "id": 2867,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8332,
+    "id": 1957,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6191,
+    "id": 6877,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7811,
+    "id": 8581,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9408,
+    "id": 7755,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4959,
+    "id": 5129,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1872,
+    "id": 4510,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
