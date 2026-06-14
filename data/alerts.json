@@ -1,6 +1,6 @@
 [
   {
-    "id": 2011,
+    "id": 58,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7377,
+    "id": 6201,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,16 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 155,
+    "id": 3782,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaza mourns four killed in Israeli strike",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/gaza-mourns-four-killed-in-israeli-strike?traffic_source=rss",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 3269,
     "level": "critical",
     "country": "🌍",
     "text": "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
@@ -27,7 +36,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 2867,
+    "id": 1331,
     "level": "critical",
     "country": "🌍",
     "text": "Twelve killed in plane crash in US state of Missouri",
@@ -36,16 +45,25 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 5895,
+    "id": 3415,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
+    "text": "Focus sur l'homosexualité en Afrique : la criminalisation s'accentue",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-focus-sur-l-homosexualit%C3%A9-en-afrique-la-criminalisation-s-accentue",
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 4225,
+    "id": 532,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Collision de deux hélicoptères à Rio : six morts, dont l’artiste américain Olive",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260614-collision-helicopteres-rio-six-morts-dont-artiste-americain-oliver-tree",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 8163,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Poutine et Zelensky ont appelé Trump pour son anniversaire et parler d",
@@ -54,7 +72,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 2827,
+    "id": 5808,
     "level": "critical",
     "country": "🌍",
     "text": "Israël se prépare à une attaque \"potentielle\" vers son territoire (communiqué mi",
@@ -63,34 +81,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 6688,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au Liban, une série de frappes israéliennes sur la banlieue sud de Beyrouth dima",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-au-liban-une-s%C3%A9rie-de-frappes-isra%C3%A9liennes-sur-la-banlieue-sud-de-beyrouth-dimanche",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 5422,
-    "level": "critical",
-    "country": "🌍",
-    "text": "\"Adieu mon amour\" : les dernières lettres de fusillés par les nazis enfin remise",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260614-adieu-amour-dernieres-lettres-fusilles-par-nazis-enfin-remises-famille-archives-allemagne-seconde-guerre-mondiale",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 1625,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/14/israel-expands-military-control-in-gaza-lebanon-and-syria-by-1000sq-km?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 8430,
+    "id": 5112,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2645,
+    "id": 7394,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8607,
+    "id": 5581,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3750,
+    "id": 7942,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4601,
+    "id": 5055,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2550,
+    "id": 5629,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6241,
+    "id": 422,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7700,
+    "id": 1589,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4163,
+    "id": 7110,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -171,12 +162,21 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8952,
+    "id": 9453,
     "level": "medium",
     "country": "🌍",
     "text": "Palestinians are being locked out of the digital economy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
     "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 4992,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/13/what-explains-the-global-stardom-of-dimash-qudaibergen-kazakhstans-cultural-phenomenon/",
+    "time": "Sat, 13 Jun 2026"
   }
 ]
