@@ -1,6 +1,6 @@
 [
   {
-    "id": 4359,
+    "id": 3937,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6405,
+    "id": 8666,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,16 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 7786,
+    "id": 1645,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/6/14/lion-of-mesopotamia-how-aymen-hussein-beat-tragedy-to-reach-world-cup?traffic_source=rss",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 2843,
     "level": "critical",
     "country": "🌍",
     "text": "Two killed in Israeli strike on Gaza",
@@ -27,7 +36,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 9865,
+    "id": 4534,
     "level": "critical",
     "country": "🌍",
     "text": "After battling armed attacks, Mauritania attempts to revive tourism",
@@ -36,7 +45,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 9383,
+    "id": 7877,
     "level": "critical",
     "country": "🌍",
     "text": "Why is the price of gold trending down?",
@@ -45,25 +54,16 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 2027,
+    "id": 8948,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+    "text": "En direct : Trump assure qu'un accord sera signé dimanche avec l'Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260614-en-direct-moyen-orient-trump-assure-accord-sign%C3%A9-dimanche-iran-etats-unis",
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 2208,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israël multiplie ses frappes dans le sud et l'est du Liban, le festival de Baalb",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260613-isra%C3%ABl-multiplie-ses-frappes-dans-le-sud-et-l-est-du-liban-le-festival-de-baalbeck-report%C3%A9",
-    "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 169,
+    "id": 6250,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6296,
+    "id": 5008,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9130,
+    "id": 616,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4501,
+    "id": 4862,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8196,
+    "id": 332,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 799,
+    "id": 7302,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1232,
+    "id": 7423,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5670,
+    "id": 5720,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3362,
+    "id": 3851,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 295,
+    "id": 8380,
     "level": "medium",
     "country": "🌍",
     "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
@@ -153,7 +153,7 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 4636,
+    "id": 6386,
     "level": "medium",
     "country": "🌍",
     "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
@@ -162,7 +162,7 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 5419,
+    "id": 9727,
     "level": "medium",
     "country": "🌍",
     "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
@@ -171,7 +171,7 @@
     "time": "Fri, 12 Jun 2026"
   },
   {
-    "id": 2586,
+    "id": 7315,
     "level": "medium",
     "country": "🌍",
     "text": "Brazil will feature the number 24 on the pitch during World Cup 2026. And that c",
