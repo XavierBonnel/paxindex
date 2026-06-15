@@ -1,6 +1,6 @@
 [
   {
-    "id": 3155,
+    "id": 1309,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6781,
+    "id": 7668,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 2159,
+    "id": 5495,
     "level": "critical",
     "country": "🌍",
     "text": "World: G7 energy billionaires pocket $300 million a day since start of unlawful ",
@@ -27,7 +27,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 151,
+    "id": 5877,
     "level": "critical",
     "country": "🌍",
     "text": "World: Les milliardaires de l’énergie du G7 empochent 300 millions de dollars pa",
@@ -36,7 +36,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 4519,
+    "id": 311,
     "level": "critical",
     "country": "🌍",
     "text": "Niger - Key Message Update: Food consumption deficits persist in areas affected ",
@@ -45,7 +45,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 8573,
+    "id": 9734,
     "level": "critical",
     "country": "🌍",
     "text": "Chad - Key Message Update: Persistent insecurity deteriorating food security con",
@@ -54,7 +54,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 9371,
+    "id": 8715,
     "level": "critical",
     "country": "🌍",
     "text": "Iran’s Ghalenoei, Taremi decry US treatment before first World Cup game",
@@ -63,7 +63,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 4948,
+    "id": 9201,
     "level": "critical",
     "country": "🌍",
     "text": "Stock markets soar, oil falls as US, Iran confirm deal to end war",
@@ -72,7 +72,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 2695,
+    "id": 112,
     "level": "critical",
     "country": "🌍",
     "text": "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
@@ -81,7 +81,16 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 7796,
+    "id": 159,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Des attaques russes frappent l'Ukraine, une église orthodoxe en feu à Kiev",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260615-une-attaque-massive-russe-frappe-kiev-une-%C3%A9glise-orthodoxe-ukrainienne-en-feu",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 8875,
     "level": "critical",
     "country": "🌍",
     "text": "\"La guerre au Moyen-Orient est peut-être terminée, mais pas la crise\", selon Mat",
@@ -90,25 +99,16 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 7566,
+    "id": 8244,
     "level": "high",
     "country": "🌍",
-    "text": "BREAKING: US, Iran announce ceasefire agreement",
+    "text": "Lebanese remain sceptical despite US-Iran ceasefire announcement",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/lebanese-remain-sceptical-despite-us-iran-ceasefire-announcement?traffic_source=rss",
+    "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 5453,
-    "level": "high",
-    "country": "🌍",
-    "text": "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 5254,
+    "id": 9800,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2276,
+    "id": 5230,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4834,
+    "id": 1959,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5367,
+    "id": 6514,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9541,
+    "id": 6491,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7947,
+    "id": 4313,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9907,
+    "id": 9369,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,7 +171,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 15,
+    "id": 5615,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
