@@ -1,6 +1,6 @@
 [
   {
-    "id": 9720,
+    "id": 1345,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7035,
+    "id": 9077,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,88 +18,43 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 4831,
+    "id": 1684,
     "level": "critical",
     "country": "🌍",
-    "text": "Does the G7 still shape the global economy?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/15/does-the-g7-still-shape-the-global-economy?traffic_source=rss",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 14 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-14-june-2026",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 72,
+    "id": 7759,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran says Lebanon, assets release key parts of peace deal with US",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/iran-says-lebanon-assets-release-key-parts-of-peace-deal-with-us?traffic_source=rss",
+    "text": "Ukraine: Another Night of Deadly Attacks Kills Civilians and Damages a UNESCO Wo",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/ukraine/another-night-deadly-attacks-kills-civilians-and-damages-unesco-world-heritage-site-enruuk",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 8390,
+    "id": 1482,
     "level": "critical",
     "country": "🌍",
-    "text": "Oxford Union’s first Palestinian president faces down smear campaign",
+    "text": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/oxford-unions-first-palestinian-president-faces-down-smear-campaign?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 9282,
+    "id": 2476,
     "level": "critical",
     "country": "🌍",
-    "text": "World welcomes US-Iran ‘peace deal’ criticised by Israel",
+    "text": "Singer Oliver Tree among six killed in Brazil helicopter collision",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/world-welcomes-us-iran-peace-deal-criticised-by-israel?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/singer-oliver-tree-among-six-killed-in-brazil-helicopter-collision?traffic_source=rss",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 2502,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 2934,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Protocole d'accord au Moyen-Orient : \"L’Iran a tenu tête et imposé son calendrie",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260615-m%C3%A9morandum-accord-iran-a-tenu-t%C3%AAte-impos%C3%A9-calendrier-conditions-%C3%A9tats-unis-trump-isra%C3%ABl-liban",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 9113,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'étoile montante du RnB : Ocevne",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260615-l-%C3%A9toile-montante-du-rnb-ocevne",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 455,
-    "level": "high",
-    "country": "🌍",
-    "text": "Is Lebanon included? Country hopeful for US-Iran ceasefire, despite doubts",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/is-lebanon-included-country-hopeful-for-us-iran-ceasefire-despite-doubts?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 3755,
-    "level": "high",
-    "country": "🌍",
-    "text": "Trump says ships ‘starting to move’ through Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 9502,
+    "id": 1107,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6117,
+    "id": 8391,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 565,
+    "id": 9736,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3895,
+    "id": 481,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6908,
+    "id": 8536,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4414,
+    "id": 6115,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6512,
+    "id": 7601,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4955,
+    "id": 5349,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +126,57 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5907,
+    "id": 2216,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 1054,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘The Eternaut’ and civil resistance in the algorithmic age",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/15/the-eternaut-and-civil-resistance-in-the-algorithmic-age/",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 5949,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/15/ghanas-queer-movement-is-losing-a-fight-it-could-be-winning/",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 2818,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Palestinians are being locked out of the digital economy",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
+    "time": "Sun, 14 Jun 2026"
+  },
+  {
+    "id": 6417,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/13/what-explains-the-global-stardom-of-dimash-qudaibergen-kazakhstans-cultural-phenomenon/",
+    "time": "Sat, 13 Jun 2026"
+  },
+  {
+    "id": 4777,
+    "level": "medium",
+    "country": "🌍",
+    "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
+    "time": "Fri, 12 Jun 2026"
   }
 ]
