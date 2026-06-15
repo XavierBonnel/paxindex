@@ -1,6 +1,6 @@
 [
   {
-    "id": 2623,
+    "id": 9720,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4455,
+    "id": 7035,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +18,43 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 7742,
+    "id": 4831,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Does the G7 still shape the global economy?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/15/does-the-g7-still-shape-the-global-economy?traffic_source=rss",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 72,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran says Lebanon, assets release key parts of peace deal with US",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/iran-says-lebanon-assets-release-key-parts-of-peace-deal-with-us?traffic_source=rss",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 8390,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Oxford Union’s first Palestinian president faces down smear campaign",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/oxford-unions-first-palestinian-president-faces-down-smear-campaign?traffic_source=rss",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 9282,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World welcomes US-Iran ‘peace deal’ criticised by Israel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/world-welcomes-us-iran-peace-deal-criticised-by-israel?traffic_source=rss",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 2502,
     "level": "critical",
     "country": "🌍",
     "text": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
@@ -27,61 +63,43 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 6693,
+    "id": 2934,
     "level": "critical",
     "country": "🌍",
-    "text": "How Pakistan mediated a US-Iran agreement after more than 100 days of war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/how-pakistan-mediated-a-us-iran-agreement-after-more-than-100-days-of-war?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 385,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ebola risk for World Cup is ‘extremely low’, but US is ready, experts say",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/15/ebola-risk-for-world-cup-is-extremely-low-but-us-is-ready-experts-say?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 5382,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘Island surrounded by war’: Crimeans panic amid Ukrainian attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/island-surrounded-by-war-crimeans-panic-amid-ukrainian-strikes?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 5247,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 5093,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran/États-Unis : ce que l'on sait de l'accord pour cesser la guerre",
+    "text": "Protocole d'accord au Moyen-Orient : \"L’Iran a tenu tête et imposé son calendrie",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260615-iran-%C3%A9tats-unis-ce-que-l-on-sait-de-l-accord-pour-cesser-la-guerre",
+    "link": "https://www.france24.com/fr/moyen-orient/20260615-m%C3%A9morandum-accord-iran-a-tenu-t%C3%AAte-impos%C3%A9-calendrier-conditions-%C3%A9tats-unis-trump-isra%C3%ABl-liban",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 1890,
+    "id": 9113,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran : quelles réactions après l’accord avec les États-Unis ?",
+    "text": "L'étoile montante du RnB : Ocevne",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260615-iran-quelles-r%C3%A9actions-apr%C3%A8s-l-accord-avec-les-%C3%A9tats-unis",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260615-l-%C3%A9toile-montante-du-rnb-ocevne",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 6936,
+    "id": 455,
+    "level": "high",
+    "country": "🌍",
+    "text": "Is Lebanon included? Country hopeful for US-Iran ceasefire, despite doubts",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/15/is-lebanon-included-country-hopeful-for-us-iran-ceasefire-despite-doubts?traffic_source=rss",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 3755,
+    "level": "high",
+    "country": "🌍",
+    "text": "Trump says ships ‘starting to move’ through Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/15/trump-says-ships-starting-to-move-through-strait-of-hormuz?traffic_source=rss",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 9502,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 960,
+    "id": 6117,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 534,
+    "id": 565,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6994,
+    "id": 3895,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9392,
+    "id": 6908,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2513,
+    "id": 4414,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7275,
+    "id": 6512,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5742,
+    "id": 4955,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3089,
+    "id": 5907,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 7240,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/15/ghanas-queer-movement-is-losing-a-fight-it-could-be-winning/",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 4964,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Palestinians are being locked out of the digital economy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
-    "time": "Sun, 14 Jun 2026"
   }
 ]
