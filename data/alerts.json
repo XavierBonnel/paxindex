@@ -1,6 +1,6 @@
 [
   {
-    "id": 1859,
+    "id": 2623,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2454,
+    "id": 4455,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,61 +18,70 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 1327,
+    "id": 7742,
     "level": "critical",
     "country": "🌍",
-    "text": "Britain announces sweeping social media ban for under-16s",
+    "text": "Historic Kyiv monastery set ablaze in deadly Russian air attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/historic-kyiv-monastery-set-ablaze-in-deadly-russian-air-attack?traffic_source=rss",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 5865,
+    "id": 6693,
     "level": "critical",
     "country": "🌍",
-    "text": "The slow death of Goldsmiths is a warning to British universities",
+    "text": "How Pakistan mediated a US-Iran agreement after more than 100 days of war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/6/15/the-slow-death-of-goldsmiths-is-a-warning-to-british-universities?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/15/how-pakistan-mediated-a-us-iran-agreement-after-more-than-100-days-of-war?traffic_source=rss",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 6175,
+    "id": 385,
     "level": "critical",
     "country": "🌍",
-    "text": "Détroit d'Ormuz, retrait du Liban... Ce que l'on sait de l'accord entre les État",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260615-d%C3%A9troit-ormuz-retrait-liban-accord-%C3%A9tats-unis-iran-isra%C3%ABl-nucl%C3%A9aire-trump",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 5589,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : attaque massive sur Kiev, un joyau orthodoxe en feu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260615-guerre-en-ukraine-attaque-massive-sur-kiev-un-joyau-orthodoxe-en-feu",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 5197,
-    "level": "high",
-    "country": "🌍",
-    "text": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
+    "text": "Ebola risk for World Cup is ‘extremely low’, but US is ready, experts say",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/6/15/ebola-risk-for-world-cup-is-extremely-low-but-us-is-ready-experts-say?traffic_source=rss",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 9467,
-    "level": "high",
+    "id": 5382,
+    "level": "critical",
     "country": "🌍",
-    "text": "Eurosatory : ouverture du salon de la défense et de la sécurité près de Paris",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260615-eurosatory-ouverture-du-salon-de-la-d%C3%A9fense-et-de-la-s%C3%A9curit%C3%A9-pr%C3%A8s-de-paris",
+    "text": "‘Island surrounded by war’: Crimeans panic amid Ukrainian attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/15/island-surrounded-by-war-crimeans-panic-amid-ukrainian-strikes?traffic_source=rss",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 3420,
+    "id": 5247,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 5093,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran/États-Unis : ce que l'on sait de l'accord pour cesser la guerre",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260615-iran-%C3%A9tats-unis-ce-que-l-on-sait-de-l-accord-pour-cesser-la-guerre",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 1890,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran : quelles réactions après l’accord avec les États-Unis ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260615-iran-quelles-r%C3%A9actions-apr%C3%A8s-l-accord-avec-les-%C3%A9tats-unis",
+    "time": "Mon, 15 Jun 2026"
+  },
+  {
+    "id": 6936,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1442,
+    "id": 960,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4715,
+    "id": 534,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4252,
+    "id": 6994,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7943,
+    "id": 9392,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5343,
+    "id": 2513,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8279,
+    "id": 7275,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7237,
+    "id": 5742,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 645,
+    "id": 3089,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -153,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8007,
+    "id": 7240,
     "level": "medium",
     "country": "🌍",
     "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
@@ -162,21 +171,12 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 6374,
+    "id": 4964,
     "level": "medium",
     "country": "🌍",
     "text": "Palestinians are being locked out of the digital economy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
     "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 3500,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/13/what-explains-the-global-stardom-of-dimash-qudaibergen-kazakhstans-cultural-phenomenon/",
-    "time": "Sat, 13 Jun 2026"
   }
 ]
