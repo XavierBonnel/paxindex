@@ -1,6 +1,15 @@
 [
   {
-    "id": 4167,
+    "id": 9131,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-24T00:01"
+  },
+  {
+    "id": 7754,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -9,7 +18,25 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 9038,
+    "id": 8744,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/16/us-fuel-prices-to-take-months-to-normalise-after-us-iran-deal-to-end-war?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 2206,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump says MoU with Tehran signed electronically",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 2706,
     "level": "critical",
     "country": "🌍",
     "text": "Journalist hit by Israeli strike while reporting in Lebanon",
@@ -18,34 +45,97 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 6264,
+    "id": 9765,
     "level": "critical",
     "country": "🌍",
-    "text": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+    "text": "Un bombardier B-52 américain s'écrase en Californie avec huit personnes à bord",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260615-etats-unis-bombardier-b-52-americain-s-ecrase-californie-huit-personnes-a-bord-morts",
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 9729,
-    "level": "critical",
+    "id": 6620,
+    "level": "medium",
     "country": "🌍",
-    "text": "EU officially launches Ukraine and Moldova accession process",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/eu-officially-launches-ukraine-and-moldova-accession-processes?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
   },
   {
-    "id": 1203,
-    "level": "critical",
+    "id": 5809,
+    "level": "medium",
     "country": "🌍",
-    "text": "Trump touts Iran deal and Ukraine ambition as he arrives at G7",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/trump-touts-iran-deal-and-ukraine-ambition-as-he-arrives-at-g7?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
   },
   {
-    "id": 1416,
+    "id": 7242,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 9448,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 2026,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 2443,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 9454,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 6204,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 1793,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 9328,
     "level": "medium",
     "country": "🌍",
     "text": "‘The Eternaut’ and civil resistance in the algorithmic age",
@@ -54,7 +144,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 1566,
+    "id": 7657,
     "level": "medium",
     "country": "🌍",
     "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
@@ -63,7 +153,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 5412,
+    "id": 5753,
     "level": "medium",
     "country": "🌍",
     "text": "Palestinians are being locked out of the digital economy",
@@ -72,7 +162,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 4090,
+    "id": 8702,
     "level": "medium",
     "country": "🌍",
     "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
@@ -81,102 +171,12 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 5748,
+    "id": 7494,
     "level": "medium",
     "country": "🌍",
     "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
     "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 8107,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 4239,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Brazil will feature the number 24 on the pitch during World Cup 2026. And that c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/11/brazil-will-feature-the-number-24-on-the-pitch-during-world-cup-2026-and-that-carries-a-message/",
-    "time": "Thu, 11 Jun 2026"
-  },
-  {
-    "id": 1297,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The youth of Croatia, Serbia, and Bosnia and Herzegovina as bearers of collectiv",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/11/the-youth-of-croatia-serbia-and-bosnia-and-herzegovina-as-bearers-of-collective-change/",
-    "time": "Thu, 11 Jun 2026"
-  },
-  {
-    "id": 9108,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From Ciudad Juárez to Latin America: The legacy of Ni Una Menos",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/10/from-ciudad-juarez-to-latin-america-the-legacy-of-ni-una-menos/",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 6503,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Egypt draw 1–1 with Belgium at World Cup group game",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 979,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Iran vs New Zealand live: World Cup 2026",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 6557,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can a social media ban protect young users?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/6/15/can-a-social-media-ban-protect-young-users?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 1935,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hungarian MPs approve PM limits to block potential return of Orban",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/hungarian-mps-approve-pm-limits-to-block-potential-return-of-orban?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 6114,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Netanyahu says Israel won’t leave occupied land in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 6310,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What Israeli leaders are saying about US-Iran ‘peace deal’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-israeli-leaders-are-saying-about-us-iran-peace?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
   }
 ]
