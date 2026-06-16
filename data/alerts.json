@@ -1,6 +1,6 @@
 [
   {
-    "id": 4854,
+    "id": 9095,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,52 +9,61 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8240,
+    "id": 9024,
     "level": "critical",
     "country": "🌍",
-    "text": "US B-52 bomber crashes in California: What we know",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/16/us-b-52-bomber-crashes-in-california-what-we-know?traffic_source=rss",
+    "text": "Lebanon: Supporting enterprises in crisis economies: A comprehensive program imp",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/supporting-enterprises-crisis-economies-comprehensive-program-impact-and-context-analysis-following-hezbollah-israel-conflict",
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 9798,
+    "id": 8914,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war day 109: Tehran, Washington, sign MoU electronically",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 15 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/map/lebanon/lebanon-conflict-intensity-snapshot-2-march-15-june-2026",
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 8253,
+    "id": 9064,
     "level": "critical",
     "country": "🌍",
-    "text": "Accord entre les Etats-Unis et l'Iran : \"Trump nous a trahis\"",
+    "text": "Preventing the Quiet Deaths of Sudan’s War",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/preventing-quiet-deaths-sudans-war",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 8450,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump warns ‘all hell will rain down’ if Iran tries to get a nuclear weapon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/16/trump-warns-all-hell-will-rain-down-if-iran-tries-to-get-a-nuclear-weapon?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 7986,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Australia warns El Nino weather pattern set to be strongest in decades",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/16/australia-warns-el-nino-weather-pattern-set-to-be-strongest-in-decades?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 6777,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran/États-Unis : le protocole d'accord est \"un accord équitable\", selon Donald ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260616-accord-entre-les-etats-unis-et-l-iran-trump-nous-a-trahis",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260616-iran-%C3%A9tats-unis-le-protocole-d-accord-est-un-accord-%C3%A9quitable-selon-donald-trump",
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 5830,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Antonio Guterres en visite de \"solidarité\" en Haïti",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260616-antonio-guterres-en-visite-de-solidarit%C3%A9-en-ha%C3%AFti",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 6395,
-    "level": "high",
-    "country": "🌍",
-    "text": "Palestine weekly wrap: World sanctions settlers, Israel funds settlements",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/16/palestine-weekly-wrap-world-sanctions-settlers-israel-funds-settlements?traffic_source=rss",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 3713,
+    "id": 8703,
     "level": "high",
     "country": "🌍",
     "text": "L'Iran, l'équipe \"la plus maltraitée\" du Mondial selon son sélectionneur",
@@ -63,7 +72,7 @@
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 9012,
+    "id": 2257,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9153,
+    "id": 7690,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1827,
+    "id": 8483,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1149,
+    "id": 2088,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2242,
+    "id": 8879,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 221,
+    "id": 9795,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1441,
+    "id": 6187,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8775,
+    "id": 2458,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8353,
+    "id": 8813,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -144,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5409,
+    "id": 6252,
     "level": "medium",
     "country": "🌍",
     "text": "The rights left behind: The future of LGBTQI+ organizing in post-uprising Bangla",
@@ -153,7 +162,7 @@
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 3104,
+    "id": 5075,
     "level": "medium",
     "country": "🌍",
     "text": "‘The Eternaut’ and civil resistance in the algorithmic age",
@@ -162,21 +171,12 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 1718,
+    "id": 2821,
     "level": "medium",
     "country": "🌍",
     "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/15/ghanas-queer-movement-is-losing-a-fight-it-could-be-winning/",
     "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 7327,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Palestinians are being locked out of the digital economy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
-    "time": "Sun, 14 Jun 2026"
   }
 ]
