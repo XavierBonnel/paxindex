@@ -1,42 +1,150 @@
 [
   {
-    "id": 5295,
+    "id": 8416,
     "level": "critical",
     "country": "🌍",
-    "text": "Red Cross warns Ebola outbreak in DRC not yet peaked, could last a year",
+    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-24T00:01"
+  },
+  {
+    "id": 54,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Suriname advances toward a national early warning system that protects everyone,",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/suriname/suriname-advances-toward-national-early-warning-system-protects-everyone-time",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 633,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel went to war with Iran, but Netanyahu may be the loser",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/16/red-cross-warns-ebola-outbreak-in-drc-not-yet-peaked-could-last-a-year?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/16/israel-went-to-war-with-iran-netanyahu-may-be-loser?traffic_source=rss",
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 7243,
+    "id": 2797,
     "level": "critical",
     "country": "🌍",
-    "text": "Jour J pour les Bleus. Entrée en lice face au Sénégal",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260616-jour-j-pour-les-bleus-entr%C3%A9e-en-lice-face-au-s%C3%A9n%C3%A9gal",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 8689,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le G7 fait monter la pression sur Poutine pour arrêter la guerre avec l'Ukraine",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260616-g7-pression-russie-poutine-trump-arreter-la-guerre-avec-ukraine",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 2199,
-    "level": "high",
-    "country": "🌍",
-    "text": "Families return to shattered towns as fragile ceasefire holds in Lebanon",
+    "text": "FBI says it foiled ‘planned attacks’ targeting White House UFC event",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/6/16/families-return-to-shattered-towns-as-fragile-ceasefire-holds-in-lebanon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/16/fbi-says-it-foiled-planned-attacks-targeting-white-house-ufc-event?traffic_source=rss",
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 5437,
+    "id": 6579,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre au Moyen-Orient : la très inconfortable perspective de paix pour Netanyah",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260616-guerre-moyen-orient-tr%C3%A8s-inconfortable-perspective-paix-pour-netanyahu-isra%C3%ABl-iran-%C3%A9tats-unis-trump",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 4484,
+    "level": "critical",
+    "country": "🌍",
+    "text": "G7 : un sommet qui fait briller Donald Trump ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260616-g7-un-sommet-qui-fait-briller-donald-trump",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 4866,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le G7 fait monter la pression contre Moscou pour arrêter la guerre avec l'Ukrain",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260616-le-g7-fait-monter-la-pression-contre-moscou-pour-arr%C3%AAter-la-guerre-avec-l-ukraine",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 6816,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 5995,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 4877,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 3924,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 2481,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 9022,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 6613,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 5131,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 3237,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 7829,
     "level": "medium",
     "country": "🌍",
     "text": "The rights left behind: The future of LGBTQI+ organizing in post-uprising Bangla",
@@ -45,7 +153,7 @@
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 1304,
+    "id": 9529,
     "level": "medium",
     "country": "🌍",
     "text": "‘The Eternaut’ and civil resistance in the algorithmic age",
@@ -54,7 +162,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 4484,
+    "id": 5997,
     "level": "medium",
     "country": "🌍",
     "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
@@ -63,120 +171,12 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 9246,
+    "id": 334,
     "level": "medium",
     "country": "🌍",
     "text": "Palestinians are being locked out of the digital economy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
     "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 5742,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/13/what-explains-the-global-stardom-of-dimash-qudaibergen-kazakhstans-cultural-phenomenon/",
-    "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 6538,
-    "level": "medium",
-    "country": "🌍",
-    "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 4704,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 3246,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Brazil will feature the number 24 on the pitch during World Cup 2026. And that c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/11/brazil-will-feature-the-number-24-on-the-pitch-during-world-cup-2026-and-that-carries-a-message/",
-    "time": "Thu, 11 Jun 2026"
-  },
-  {
-    "id": 4058,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The youth of Croatia, Serbia, and Bosnia and Herzegovina as bearers of collectiv",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/11/the-youth-of-croatia-serbia-and-bosnia-and-herzegovina-as-bearers-of-collective-change/",
-    "time": "Thu, 11 Jun 2026"
-  },
-  {
-    "id": 7573,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From Ciudad Juárez to Latin America: The legacy of Ni Una Menos",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/10/from-ciudad-juarez-to-latin-america-the-legacy-of-ni-una-menos/",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 300,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Lebanese rush back to their devastated homes in south after US-Iran deal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/6/16/lebanese-rush-back-to-their-devastated-homes-in-south-after-us-iran-deal?traffic_source=rss",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 7960,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Iran coach says team ‘oppressed’ by travel chaos after World Cup NZ draw",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/16/iran-coach-says-team-oppressed-by-travel-chaos-after-world-cup-nz-draw?traffic_source=rss",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 130,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Mistrust’ leaves ebola patients receiving treatment too late",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/mistrust-leaves-ebola-patients-receiving-treatment-too-late?traffic_source=rss",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 6184,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Israeli court rules to keep prominent Palestinian doctor in detention",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/16/israeli-court-rules-to-keep-prominent-palestinian-doctor-in-detention?traffic_source=rss",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 4815,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘There’s divergence between US and Israeli objectives in the region’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/theres-divergence-between-us-and-israeli-objectives-in-the?traffic_source=rss",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 9056,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Geneva to host Iran-US deal event: What other pacts have been signed there?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/16/geneva-to-host-iran-us-deal-event-what-other-pacts-have-been-signed-there?traffic_source=rss",
-    "time": "Tue, 16 Jun 2026"
   }
 ]
