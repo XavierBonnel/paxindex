@@ -1,15 +1,6 @@
 [
   {
-    "id": 9131,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-24T00:01"
-  },
-  {
-    "id": 7754,
+    "id": 4017,
     "level": "critical",
     "country": "🌍",
     "text": "Melanesian nations vow to connect and expand marine protected areas",
@@ -18,7 +9,7 @@
     "time": "Wed, 10 Jun 2026"
   },
   {
-    "id": 8744,
+    "id": 6257,
     "level": "critical",
     "country": "🌍",
     "text": "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
@@ -27,7 +18,7 @@
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 2206,
+    "id": 5180,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump says MoU with Tehran signed electronically",
@@ -36,16 +27,7 @@
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 2706,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Journalist hit by Israeli strike while reporting in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 9765,
+    "id": 3720,
     "level": "critical",
     "country": "🌍",
     "text": "Un bombardier B-52 américain s'écrase en Californie avec huit personnes à bord",
@@ -54,88 +36,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 6620,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 5809,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 7242,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 9448,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 2026,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 2443,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 9454,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 6204,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 1793,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 9328,
+    "id": 3709,
     "level": "medium",
     "country": "🌍",
     "text": "‘The Eternaut’ and civil resistance in the algorithmic age",
@@ -144,7 +45,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 7657,
+    "id": 6286,
     "level": "medium",
     "country": "🌍",
     "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
@@ -153,7 +54,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 5753,
+    "id": 1041,
     "level": "medium",
     "country": "🌍",
     "text": "Palestinians are being locked out of the digital economy",
@@ -162,7 +63,7 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 8702,
+    "id": 9591,
     "level": "medium",
     "country": "🌍",
     "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
@@ -171,12 +72,111 @@
     "time": "Sat, 13 Jun 2026"
   },
   {
-    "id": 7494,
+    "id": 2144,
     "level": "medium",
     "country": "🌍",
     "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
     "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 9650,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
+    "time": "Fri, 12 Jun 2026"
+  },
+  {
+    "id": 3138,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Brazil will feature the number 24 on the pitch during World Cup 2026. And that c",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/11/brazil-will-feature-the-number-24-on-the-pitch-during-world-cup-2026-and-that-carries-a-message/",
+    "time": "Thu, 11 Jun 2026"
+  },
+  {
+    "id": 6600,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The youth of Croatia, Serbia, and Bosnia and Herzegovina as bearers of collectiv",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/11/the-youth-of-croatia-serbia-and-bosnia-and-herzegovina-as-bearers-of-collective-change/",
+    "time": "Thu, 11 Jun 2026"
+  },
+  {
+    "id": 2076,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From Ciudad Juárez to Latin America: The legacy of Ni Una Menos",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/10/from-ciudad-juarez-to-latin-america-the-legacy-of-ni-una-menos/",
+    "time": "Wed, 10 Jun 2026"
+  },
+  {
+    "id": 7462,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who is Vozinha, Cape Verde’s viral goalkeeper at the World Cup?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 2337,
+    "level": "medium",
+    "country": "🌍",
+    "text": "US stock market climbs as US-Iran deal stirs hopes for end to energy chaos",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/16/us-stock-market-climbs-as-us-iran-deal-stirs-hopes-for-end-to-energy-chaos?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 7197,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Saudi Arabia draw 1–1 against Uruguay in World Cup opening game",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/16/saudi-arabia-draw-1-1-against-uruguay-in-world-cup-opening?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 9903,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/netanyahu-says-israel-will-remain-in-lebanon-syria-and-gaza?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 2235,
+    "level": "medium",
+    "country": "🌍",
+    "text": "South Sudan’s Jonglei: Who burned homes and silenced hospitals?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/16/south-sudans-jonglei-who-burned-homes-and-silenced-hospitals?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 772,
+    "level": "medium",
+    "country": "🌍",
+    "text": "US Air Force B-52 crashes in California",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/us-air-force-b-52-crashes-in-california?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
+  },
+  {
+    "id": 8931,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Gavin Newsom says he’s being investigated by Trump",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gavin-newsom-says-hes-being-investigated-by-trump?traffic_source=rss",
+    "time": "Tue, 16 Jun 2026"
   }
 ]
