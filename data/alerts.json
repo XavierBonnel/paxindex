@@ -1,6 +1,6 @@
 [
   {
-    "id": 8572,
+    "id": 1666,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4219,
+    "id": 4076,
     "level": "critical",
     "country": "🌍",
     "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
@@ -18,25 +18,79 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 4219,
+    "id": 2872,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
+    "text": "UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/17/uks-starmer-says-russian-warships-warning-shots-in-channel-reckless?traffic_source=rss",
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 1853,
+    "id": 5688,
     "level": "critical",
     "country": "🌍",
-    "text": "Mort de Jeffrey Epstein: \"La thèse du suicide est la plus plausible\"",
+    "text": "Inside the ‘unacceptable’ UK fair selling property in Israeli settlements",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/17/unacceptable-london-property-fair?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 7942,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iranian tankers exit US blockade zone before talks to end war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 8856,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 8591,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"Surréaliste\" : les propriétaires du yacht britannique visé par des tirs de semo",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260617-surr%C3%A9aliste-propri%C3%A9taires-yacht-britannique-vis%C3%A9-tirs-semonce-russes-t%C3%A9moignent-manche",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 3029,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient : Israël continue de frapper le Liban dans le sud du pays",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260617-moyen-orient-isra%C3%ABl-continue-de-frapper-le-liban-dans-le-sud-du-pays",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 8512,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mort de Jeffrey Epstein : \"La thèse du suicide est la plus plausible\"",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260617-mort-de-jeffrey-epstein-la-th%C3%A8se-du-suicide-est-la-plus-plausible",
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 9671,
+    "id": 5552,
+    "level": "high",
+    "country": "🌍",
+    "text": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 3299,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -45,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5759,
+    "id": 3389,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -54,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8535,
+    "id": 6280,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -63,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 692,
+    "id": 9175,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9330,
+    "id": 1961,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 621,
+    "id": 5929,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3823,
+    "id": 4420,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 710,
+    "id": 9542,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9787,
+    "id": 3024,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,66 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9331,
+    "id": 6751,
     "level": "medium",
     "country": "🌍",
-    "text": "The rights left behind: The future of LGBTQI+ organizing in post-uprising Bangla",
+    "text": "Support Global Voices’ Spotlight: Statelessness",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/16/the-rights-left-behind-the-future-of-lgbtqi-organizing-in-post-uprising-bangladesh/",
-    "time": "Tue, 16 Jun 2026"
-  },
-  {
-    "id": 5042,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘The Eternaut’ and civil resistance in the algorithmic age",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/15/the-eternaut-and-civil-resistance-in-the-algorithmic-age/",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 5639,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/15/ghanas-queer-movement-is-losing-a-fight-it-could-be-winning/",
-    "time": "Mon, 15 Jun 2026"
-  },
-  {
-    "id": 1316,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Palestinians are being locked out of the digital economy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/14/palestinians-are-being-locked-out-of-the-digital-economy/",
-    "time": "Sun, 14 Jun 2026"
-  },
-  {
-    "id": 7581,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/13/what-explains-the-global-stardom-of-dimash-qudaibergen-kazakhstans-cultural-phenomenon/",
-    "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 8788,
-    "level": "medium",
-    "country": "🌍",
-    "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 9159,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
-    "time": "Fri, 12 Jun 2026"
+    "link": "https://globalvoices.org/2026/06/17/support-global-voices-spotlight-statelessness/",
+    "time": "Wed, 17 Jun 2026"
   }
 ]
