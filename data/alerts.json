@@ -1,6 +1,33 @@
 [
   {
-    "id": 4739,
+    "id": 8031,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-24T00:01"
+  },
+  {
+    "id": 3455,
+    "level": "critical",
+    "country": "🌍",
+    "text": "CAR: « L’éducation est une lumière que le conflit ne peut éteindre»",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/central-african-republic/leducation-est-une-lumiere-que-le-conflit-ne-peut-eteindre",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 6412,
+    "level": "critical",
+    "country": "🌍",
+    "text": "CAR: Education is a light that cannot be extinguished by conflict",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/central-african-republic/education-light-cannot-be-extinguished-conflict",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 2438,
     "level": "critical",
     "country": "🌍",
     "text": "Russian drone strikes residential building in Ukraine",
@@ -9,7 +36,7 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 9923,
+    "id": 7244,
     "level": "critical",
     "country": "🌍",
     "text": "Haaland scores two goals as Norway beat Iraq 4-1 on World Cup return",
@@ -18,16 +45,97 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 6424,
+    "id": 4966,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Israel kills 4 in Lebanon as Trump criticises Netanyahu",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/17/iran-war-live-israel-kills-four-in-lebanon-as-trump-criticises-netanyahu?traffic_source=rss",
+    "text": "En direct : l'armée israélienne mène plusieurs frappes dans le sud du Liban",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260617-en-direct-moyen-orient-memorandum-etats-unis-iran-donald-trump-liban",
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 4612,
+    "id": 3090,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 2197,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 5874,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 2322,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 1,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 3471,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 612,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 2319,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 276,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 8739,
     "level": "medium",
     "country": "🌍",
     "text": "The rights left behind: The future of LGBTQI+ organizing in post-uprising Bangla",
@@ -36,7 +144,7 @@
     "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 6525,
+    "id": 3882,
     "level": "medium",
     "country": "🌍",
     "text": "‘The Eternaut’ and civil resistance in the algorithmic age",
@@ -45,7 +153,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 9018,
+    "id": 3537,
     "level": "medium",
     "country": "🌍",
     "text": "Ghana’s queer movement is losing a fight it could be ‘winning’",
@@ -54,7 +162,7 @@
     "time": "Mon, 15 Jun 2026"
   },
   {
-    "id": 1889,
+    "id": 922,
     "level": "medium",
     "country": "🌍",
     "text": "Palestinians are being locked out of the digital economy",
@@ -63,120 +171,12 @@
     "time": "Sun, 14 Jun 2026"
   },
   {
-    "id": 900,
+    "id": 7045,
     "level": "medium",
     "country": "🌍",
     "text": "What explains the global stardom of Dimash Qudaibergen, Kazakhstan’s cultural ph",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/13/what-explains-the-global-stardom-of-dimash-qudaibergen-kazakhstans-cultural-phenomenon/",
     "time": "Sat, 13 Jun 2026"
-  },
-  {
-    "id": 3757,
-    "level": "medium",
-    "country": "🌍",
-    "text": "For LGBTQ+ people in Egypt, the internet is both a lifeline and a trap",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/12/for-lgbtq-people-in-egypt-the-internet-is-both-a-lifeline-and-a-trap/",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 63,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trash and dignity: The rise of inclusive recycling projects in Latin America",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/12/trash-and-dignity-the-rise-of-inclusive-recycling-projects-in-latin-america/",
-    "time": "Fri, 12 Jun 2026"
-  },
-  {
-    "id": 8489,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Brazil will feature the number 24 on the pitch during World Cup 2026. And that c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/11/brazil-will-feature-the-number-24-on-the-pitch-during-world-cup-2026-and-that-carries-a-message/",
-    "time": "Thu, 11 Jun 2026"
-  },
-  {
-    "id": 526,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The youth of Croatia, Serbia, and Bosnia and Herzegovina as bearers of collectiv",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/11/the-youth-of-croatia-serbia-and-bosnia-and-herzegovina-as-bearers-of-collective-change/",
-    "time": "Thu, 11 Jun 2026"
-  },
-  {
-    "id": 9750,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From Ciudad Juárez to Latin America: The legacy of Ni Una Menos",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/10/from-ciudad-juarez-to-latin-america-the-legacy-of-ni-una-menos/",
-    "time": "Wed, 10 Jun 2026"
-  },
-  {
-    "id": 7544,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Messi hat-trick fires holders Argentina to win over Algeria at World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/17/messi-fires-argentina-to-win-against-algeria-in-world-cup-defence-opener?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 3600,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Smotrich says Israel taking control of Hebron",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/smotrich-says-israel-taking-control-of-hebron?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 7235,
-    "level": "medium",
-    "country": "🌍",
-    "text": "UN reports decline in cross-border fire in southern Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/un-reports-decline-in-cross-border-fire-in-southern-lebanon?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 7507,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ebola patients recover in DRC amid claims of outbreak hoax",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/ebola-patients-recover-in-drc-amid-claims-of-outbreak-hoax?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 554,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ghosts of empire: A quarantine centre and Laikipia’s colonial past",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/17/ghosts-of-empire-a-quarantine-centre-and-laikipias-colonial-past?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 2598,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Democrat calls for Cape Verde goalkeeper Vozinha’s mother to get US visa",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/17/democrat-calls-for-cape-verde-goalkeeper-vozinhas-mother-to-get-us-visa?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 2883,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Which France and World Cup records did Mbappe break against Senegal?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/17/which-france-and-world-cup-records-did-mbappe-break-against-senegal?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
   }
 ]
