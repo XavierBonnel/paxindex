@@ -1,6 +1,24 @@
 [
   {
-    "id": 5966,
+    "id": 4413,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-24T00:01"
+  },
+  {
+    "id": 4953,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Al Jazeera journalist reunited with family in Khartoum after years of war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 2839,
     "level": "critical",
     "country": "🌍",
     "text": "Why was India’s Cockroach Janta Party founder attacked?",
@@ -9,25 +27,7 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 7903,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukrainian rescuers killed in Russian secondary strike laid to rest",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/ukrainian-rescuers-killed-in-russian-secondary-strike-laid-to-rest?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 639,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Angleterre - Croatie en direct : Harry Kane frappe deux fois",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260617-angleterre-croatie-live-direct-coupe-monde",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 6950,
+    "id": 7693,
     "level": "critical",
     "country": "🌍",
     "text": "Donald Trump assure que l'accord avec l'Iran sera \"bientôt\" signé",
@@ -36,7 +36,7 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 6967,
+    "id": 4671,
     "level": "high",
     "country": "🌍",
     "text": "Read the US account of unreleased 14-point Iran ceasefire memorandum",
@@ -45,138 +45,138 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 2172,
+    "id": 2828,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 1840,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 5932,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 4388,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 6921,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 6828,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 110,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 3804,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 7167,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 917,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Huawei CFO’s admissions can be used at criminal trial, US judge rules",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 3639,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Thieves with bulldozer carry out ATM heist in 4 minutes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thieves-with-bulldozer-carry-out-atm-heist-in-4-minutes?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 5753,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 7080,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Gilgo Beach killer sentenced to life without parole",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/gilgo-beach-killer-sentenced-to-life-without-parole?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 1765,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Croatia fans rock cowboy style in Dallas parade ahead of match with England",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/aje-onl-nf_croatia-fans-parade-dallas-ahead-of-england-match-170626?traffic_source=rss",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 3469,
     "level": "medium",
     "country": "🌍",
     "text": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/6/17/dont-meddle-lula-calls-on-trump-to-stay-out-of-brazils-elections?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 7566,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Palestinian residents shocked by devastation in West Bank refugee camp",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/palestinian-residents-shocked-by-devastation-in-west-bank-refugee-camp?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 2103,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Send them back’ chants in EU Parliament after anti-migrant bill passes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/send-them-back-chants-in-eu-parliament-after-anti-migrant-bill-passes?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 1953,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cape Verde goalkeeper Vozinha’s mother gets visa to attend World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/17/cape-verde-goalkeeper-vozinhas-mother-gets-visa-to-attend-world-cup?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 5278,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Portugal held to draw by DR Congo in World Cup 2026 opener",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/17/portugal-held-to-1-1-draw-by-dr-congo-in-their-world-cup-2026-opener?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 6740,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Freed Palestinian prisoner meets son conceived with smuggled sperm",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/freed-palestinian-prisoner-meets-son-conceived-with-smuggled-sperm?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 284,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trump eyes US-Iran ‘peace deal’ signing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-eyes-us-iran-peace-deal-signing?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 2711,
-    "level": "medium",
-    "country": "🌍",
-    "text": "\"Biolabs\" en Ukraine : Tulsi Gabbard relance la rumeur",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260617-biolabs-en-ukraine-tulsi-gabbard-relance-la-rumeur",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 8535,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Le concert de LFI pour la Fête de la musique interdit par la préfecture de polic",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260617-concert-lfi-f%C3%AAte-musique-interdit-pr%C3%A9fecture-police-paris-r%C3%A9publique",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 1109,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ce que contient l'accord négocié entre l'Iran et les États-Unis",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260617-ce-que-contient-accord-n%C3%A9goci%C3%A9-entre-iran-%C3%A9tats-unis",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 5052,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Coupe du monde : la RD Congo écrit son histoire en tenant en échec le Portugal e",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260617-coupe-monde-rd-congo-portugal-ronaldo",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 5544,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Coupe du monde : la RD Congo écrit son histoire en tenant en échec le Portugal e",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260617-coupe-monde-rd-congo-portugal-ronaldo",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 4405,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trump et Macron à Versailles : un dîner pour quoi faire ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260617-trump-et-macron-%C3%A0-versailles-un-d%C3%AEner-pour-quoi-faire",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 8655,
-    "level": "medium",
-    "country": "🌍",
-    "text": "La bulle IA va-t-elle éclater ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260617-la-bulle-ia-va-t-elle-%C3%A9clater",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 9364,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Donald Trump défend l'accord de cessez-le-feu avec l'Iran au sommet du G7",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260617-donald-trump-d%C3%A9fend-l-accord-de-cessez-le-feu-avec-l-iran-au-sommet-du-g7",
     "time": "Wed, 17 Jun 2026"
   }
 ]
