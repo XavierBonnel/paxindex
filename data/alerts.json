@@ -1,6 +1,6 @@
 [
   {
-    "id": 1141,
+    "id": 6630,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,16 +9,43 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 9646,
+    "id": 3852,
     "level": "critical",
     "country": "🌍",
-    "text": "Who are the women working on the frontlines of Sudan war’s sexual violence epide",
+    "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/17/meet-myat-moe-thu-a-woman-journalist-in-myanmars-conflict-zones/",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 186,
+    "level": "critical",
+    "country": "🌍",
+    "text": "oPt: Medical Aid for Palestinians marks 1,000 Palestinians killed in Gaza since ",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/sudan/who-are-women-working-frontlines-sudan-wars-sexual-violence-epidemic",
+    "link": "https://reliefweb.int/report/occupied-palestinian-territory/medical-aid-palestinians-marks-1000-palestinians-killed-gaza-ceasefire-came-effect",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 4660,
+    "id": 9944,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump-Netanyahu tensions: Have Israeli and US leaders clashed before?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/6/18/trump-netanyahu-tensions-have-israeli-and-us-leaders-clashed-before?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 2923,
+    "level": "critical",
+    "country": "🌍",
+    "text": "These are the Palestinians that Israel has killed during Gaza’s ‘ceasefire’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/these-are-the-palestinians-that-israel-has-killed-during-gazas?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 995,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
@@ -27,34 +54,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 7895,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Greece’s ‘war on Roma’ is Europe’s new blueprint for discrimination",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/6/18/greeces-war-on-roma-is-europes-new-blueprint-for-discrimination?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 1277,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Apple CEO warns price rises ‘unavoidable’ amid AI boom",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/18/apple-ceo-warns-price-rises-unavoidable-amid-ai-boom?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 2179,
-    "level": "high",
-    "country": "🌍",
-    "text": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 2465,
+    "id": 7974,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6064,
+    "id": 8180,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1297,
+    "id": 3669,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3813,
+    "id": 2801,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8125,
+    "id": 4752,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8894,
+    "id": 6861,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7808,
+    "id": 9315,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5835,
+    "id": 3151,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1626,
+    "id": 9495,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -135,48 +135,48 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6864,
+    "id": 6592,
     "level": "medium",
     "country": "🌍",
-    "text": "Crisis response reveals governance differences in Kenya",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/kenya/crisis-response-reveals-governance-differences-kenya",
+    "text": "Bunk’Art: Dealing with the legacy of Albania’s communist regime",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/18/bunkart-dealing-with-the-legacy-of-albanias-communist-regime/",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 6241,
+    "id": 9633,
     "level": "medium",
     "country": "🌍",
-    "text": "oPt: Beyond Temporary Shelter: Pathways to Adequate Transitional Shelter in Gaza",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/occupied-palestinian-territory/beyond-temporary-shelter-pathways-adequate-transitional-shelter-gaza-june-2026",
-    "time": "Thu, 18 Jun 2026"
+    "text": "Invisible strategies: How fear of being outed shapes LGBTQ+ life online in Serbi",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/17/invisible-strategies-how-fear-of-being-outed-shapes-lgbtq-life-online-in-serbia/",
+    "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 1390,
+    "id": 9959,
     "level": "medium",
     "country": "🌍",
-    "text": "AMDA Emergency Relief #1: Mindanao Earthquake, Philippines",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/philippines/amda-emergency-relief-1-mindanao-earthquake-philippines",
-    "time": "Thu, 18 Jun 2026"
+    "text": "Support Global Voices’ Spotlight: Statelessness",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/17/support-global-voices-spotlight-statelessness/",
+    "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 4650,
+    "id": 6219,
     "level": "medium",
     "country": "🌍",
-    "text": "DR Congo: Africa CDC Welcomes Pandemic Fund’s US$220m Support for Bundibugyo Vir",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/democratic-republic-congo/africa-cdc-welcomes-pandemic-funds-us220m-support-bundibugyo-virus-outbreak-response",
-    "time": "Thu, 18 Jun 2026"
+    "text": "The rights left behind: The future of LGBTQI+ organizing in post-uprising Bangla",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/16/the-rights-left-behind-the-future-of-lgbtqi-organizing-in-post-uprising-bangladesh/",
+    "time": "Tue, 16 Jun 2026"
   },
   {
-    "id": 4527,
+    "id": 7557,
     "level": "medium",
     "country": "🌍",
-    "text": "DR Congo: Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 18 - J",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/democratic-republic-congo/bundibugyo-virus-disease-outbreak-situation-report-issue-no-18-june-4-2026",
-    "time": "Thu, 18 Jun 2026"
+    "text": "‘The Eternaut’ and civil resistance in the algorithmic age",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/15/the-eternaut-and-civil-resistance-in-the-algorithmic-age/",
+    "time": "Mon, 15 Jun 2026"
   }
 ]
