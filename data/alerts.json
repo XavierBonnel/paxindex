@@ -1,24 +1,51 @@
 [
   {
-    "id": 202,
+    "id": 6533,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump, Pezeshkian sign MoU to end fighting, reopen Hormuz",
+    "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-24T00:01"
+  },
+  {
+    "id": 7359,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ghalibaf says talks delivered more results than war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/ghalibaf-says-talks-delivered-more-results-than-war?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 9739,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US and Iran sign Memorandum of Understanding to end war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 9363,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Pakistan says MoU in effect after Trump, Pezeshkian signing",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/6/18/iran-war-live-trump-pezeshkian-sign-mou-to-end-fighting-reopen-hormuz?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 2004,
+    "id": 128,
     "level": "critical",
     "country": "🌍",
-    "text": "Al Jazeera journalist reunited with family in Khartoum after years of war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
+    "text": "Guerre en Ukraine : Kiev visée par des attaques de missiles russes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260618-guerre-ukraine-kiev-visee-attaques-missiles-russes-zelensky-trump",
+    "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 4336,
+    "id": 3243,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran et les États-Unis ont signé le protocole d'entente pour mettre fin à la g",
@@ -27,156 +54,129 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 6914,
-    "level": "high",
-    "country": "🌍",
-    "text": "Trump says it’s ‘unfair’ for Iran to lack ballistic missiles",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-says-its-unfair-for-iran-to-lack-ballistic-missiles?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 8853,
+    "id": 5132,
     "level": "medium",
     "country": "🌍",
-    "text": "US transfers immigrants out of Florida Alligator Alcatraz detention centre",
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 5518,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 4044,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 2400,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 7499,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 8985,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 7902,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 817,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 2382,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 9792,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Netanyahu under pressure in Israel after US-Iran agreement",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/18/us-transfers-immigrants-out-of-florida-alligator-alcatraz-detention-centre?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 2361,
+    "id": 4546,
     "level": "medium",
     "country": "🌍",
-    "text": "Trump to Netanyahu: Use a ‘softer’ touch on Lebanon",
+    "text": "Who benefits from Zimbabwe’s lithium boom?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-to-netanyahu-use-a-softer-touch-on-lebanon?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 9969,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Diplomat confirms that US and Iran have signed MoU electronically",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 9393,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Kane double fires England past Croatia in World Cup thriller",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/17/kane-double-fires-england-past-croatia-in-world-cup-thriller?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 7898,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Huawei CFO’s admissions can be used at criminal trial, US judge rules",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 4824,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Thieves with bulldozer carry out ATM heist in 4 minutes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thieves-with-bulldozer-carry-out-atm-heist-in-4-minutes?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 306,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 4359,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Mondial 2026 : France, Maroc… Les équipes à surveiller selon Adil Rami",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260618-mondial-2026-france-maroc-les-%C3%A9quipes-%C3%A0-surveiller-selon-adil-rami",
+    "link": "https://www.aljazeera.com/news/2026/6/18/who-benefits-from-zimbabwes-lithium-boom?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 570,
+    "id": 7289,
     "level": "medium",
     "country": "🌍",
-    "text": "Mondial 2026 : sans briller, le Ghana s'impose sur le fil face au Panama",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260618-mondial-2026-r%C3%A9sum%C3%A9-ghana-panama",
+    "text": "Greta Thunberg joins Brussels protest against Israel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 6591,
+    "id": 3907,
     "level": "medium",
     "country": "🌍",
-    "text": "Scandale du périscolaire : le parquet de Paris fait appel de la relaxe d'un anim",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260618-scandale-periscolaire-parquet-paris-fait-appel-relaxe-animateur-justice-agressions-sexuelles",
+    "text": "South Africa coach tells critics to ‘shut up’ before second World Cup match",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/18/south-africa-coach-tells-critics-to-shut-up-before-second-world-cup-match?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 4579,
+    "id": 5483,
     "level": "medium",
     "country": "🌍",
-    "text": "En direct : l'Iran et les États-Unis ont signé à distance le protocole d'entente",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260617-en-direct-iran-etats-unis-signature-distance-protocole-entente-guerre-moyen-orient-detroit-ormuz-negociations-liban-hezbollah-donald-trump",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 5859,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Mondial 2026 : l'Angleterre prend le meilleur sur la Croatie à l'issue d'un matc",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260617-angleterre-croatie",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 8164,
-    "level": "medium",
-    "country": "🌍",
-    "text": "L'Angleterre prend le meilleur sur la Croatie à l'issue d'un match endiablé",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260617-angleterre-croatie",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 2871,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RD Congo : au cœur du premier foyer d’Ebola à Mongbwalu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260617-rd-congo-au-c%C5%93ur-du-premier-foyer-d-ebola-%C3%A0-mongbwalu",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 6476,
-    "level": "medium",
-    "country": "🌍",
-    "text": "\"Biolabs\" en Ukraine : Tulsi Gabbard relance la rumeur",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260617-biolabs-en-ukraine-tulsi-gabbard-relance-la-rumeur",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 4080,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Le concert de LFI pour la Fête de la musique interdit par la préfecture de polic",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260617-concert-lfi-f%C3%AAte-musique-interdit-pr%C3%A9fecture-police-paris-r%C3%A9publique",
-    "time": "Wed, 17 Jun 2026"
+    "text": "Ghana beat Panama 1–0 in chaotic, charged World Cup Group L match",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/18/ghana-beat-panama-1-0-in-chaotic-charged-world-cup-group-l?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
   }
 ]
