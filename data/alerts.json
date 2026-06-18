@@ -1,6 +1,6 @@
 [
   {
-    "id": 5107,
+    "id": 1541,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7130,
+    "id": 7403,
     "level": "critical",
     "country": "🌍",
     "text": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
@@ -18,25 +18,25 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 3412,
+    "id": 5184,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre en Ukraine : Kiev visée par des attaques de missiles russes",
+    "text": "Déficit commercial européen: \"La Chine, c'est Voldemort\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260618-d%C3%A9ficit-commercial-europ%C3%A9en-la-chine-c-est-voldemort",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 9953,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : Moscou visée par une attaque de drones \"à grande échelle\"",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260618-guerre-ukraine-kiev-visee-attaques-missiles-russes-zelensky-trump",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 4265,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'Iran et les États-Unis ont signé le protocole d'entente pour mettre fin à la g",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260617-en-direct-moyen-orient-memorandum-etats-unis-iran-donald-trump-liban",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 2018,
+    "id": 4774,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -45,7 +45,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7140,
+    "id": 4625,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -54,7 +54,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 780,
+    "id": 7535,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -63,7 +63,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5928,
+    "id": 500,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +72,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 922,
+    "id": 9016,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2098,
+    "id": 4034,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4127,
+    "id": 9101,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8062,
+    "id": 7567,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 68,
+    "id": 7817,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Budgets to Decline by Hundreds of Billions over the Next Decade; ",
@@ -117,16 +117,25 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4588,
+    "id": 7591,
     "level": "medium",
     "country": "🌍",
-    "text": "Lius Diaz dazzles as Colombia beat World Cup 2026 debutants Uzbekistan 3-1",
+    "text": "How Sweden’s far right went from political pariah to powerbroker",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/18/colombia-uzbekistan-fifa-world-cup-2026-luis-diaz-munoz-campaz-fayzullaev?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/6/18/how-swedens-far-right-went-from-political-pariah-to-powerbroker?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 3761,
+    "id": 4485,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Luis Diaz, Colombia defeat World Cup 2026 debutants Uzbekistan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/18/luis-diaz-colombia-defeat-world-cup-2026-debutants-uzbekistan?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 3234,
     "level": "medium",
     "country": "🌍",
     "text": "Despair and delight in England-Croatia grudge match",
@@ -135,7 +144,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 553,
+    "id": 156,
     "level": "medium",
     "country": "🌍",
     "text": "Activist praises Algeria’s support for Gaza orphans following World Cup def",
@@ -144,7 +153,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 4949,
+    "id": 7220,
     "level": "medium",
     "country": "🌍",
     "text": "US must ‘force’ Israel to change its policy on Lebanon",
@@ -153,7 +162,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 6157,
+    "id": 2104,
     "level": "medium",
     "country": "🌍",
     "text": "Trump’s MoU with Iran draws backlash from some Republicans",
@@ -162,21 +171,12 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 8393,
+    "id": 5755,
     "level": "medium",
     "country": "🌍",
     "text": "Netanyahu under pressure in Israel after US-Iran agreement",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 787,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Who benefits from Zimbabwe’s lithium boom?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/18/who-benefits-from-zimbabwes-lithium-boom?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   }
 ]
