@@ -1,6 +1,6 @@
 [
   {
-    "id": 4142,
+    "id": 8021,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,16 +9,34 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 6610,
+    "id": 1568,
     "level": "critical",
     "country": "🌍",
-    "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/17/meet-myat-moe-thu-a-woman-journalist-in-myanmars-conflict-zones/",
-    "time": "Wed, 17 Jun 2026"
+    "text": "Myanmar military airstrike kills seven civilians in Rakhine state",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 887,
+    "id": 8578,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Brazil executes warrant against Lula ally in widening financial scandal",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 2852,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ivory Coast’s Elye Wahi granted Canadian visa hours after denial",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/18/ivory-coasts-elye-wahi-granted-canadian-visa-hours-after-denial?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 636,
     "level": "critical",
     "country": "🌍",
     "text": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
@@ -27,34 +45,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 3990,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gaza fans chase World Cup joy amid blackout, displacement and war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/gaza-fans-chase-world-cup-joy-amid-blackout-displacement-and-war?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 4685,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least 29 countries raise alarm about atrocities in Sudan’s el-Obeid",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/18/dozens-of-countries-warn-of-atrocities-amid-escalation-in-sudans-el-obeid?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 6026,
-    "level": "high",
-    "country": "🌍",
-    "text": "US military says it has lifted naval blockade of Iranian ports",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 5972,
+    "id": 4627,
     "level": "high",
     "country": "🌍",
     "text": "Accord États-Unis-Iran : l'armée américaine dit avoir levé son blocus des ports ",
@@ -63,7 +54,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 9008,
+    "id": 6792,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7098,
+    "id": 9668,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4795,
+    "id": 6037,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4308,
+    "id": 1234,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8520,
+    "id": 1819,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5064,
+    "id": 8635,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5240,
+    "id": 7481,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1070,
+    "id": 6456,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1334,
+    "id": 9333,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,39 +135,48 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4586,
+    "id": 8966,
     "level": "medium",
     "country": "🌍",
-    "text": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs/",
+    "text": "Are prices really dropping in the US, as Trump claims?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 6558,
+    "id": 5796,
     "level": "medium",
     "country": "🌍",
-    "text": "Bunk’Art: Dealing with the legacy of Albania’s communist regime",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/18/bunkart-dealing-with-the-legacy-of-albanias-communist-regime/",
+    "text": "Cuba’s Communist Party approves opening economy in unprecedented move",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 27,
+    "id": 2270,
     "level": "medium",
     "country": "🌍",
-    "text": "Invisible strategies: How fear of being outed shapes LGBTQ+ life online in Serbi",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/17/invisible-strategies-how-fear-of-being-outed-shapes-lgbtq-life-online-in-serbia/",
-    "time": "Wed, 17 Jun 2026"
+    "text": "Conjoined twins separated after surgery in Saudi Arabia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/conjoined-twins-separated-after-surgery-in-saudi-arabia?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 6026,
+    "id": 569,
     "level": "medium",
     "country": "🌍",
-    "text": "Support Global Voices’ Spotlight: Statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/17/support-global-voices-spotlight-statelessness/",
-    "time": "Wed, 17 Jun 2026"
+    "text": "Neymar will not play in Brazil’s World Cup match against Haiti due to injury",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/6/18/neymar-will-not-play-in-brazils-world-cup-match-against-haiti-due-to-injury?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 5488,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Netanyahu says Israel must protect relationship with US",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-says-israel-must-protect-relationship-with-us?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
   }
 ]
