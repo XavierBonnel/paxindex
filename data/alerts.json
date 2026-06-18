@@ -1,6 +1,6 @@
 [
   {
-    "id": 3280,
+    "id": 531,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 7048,
+    "id": 5693,
     "level": "critical",
     "country": "🌍",
     "text": "Myanmar military airstrike kills seven civilians in Rakhine state",
@@ -18,7 +18,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 2102,
+    "id": 5224,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil executes warrant against Lula ally in widening financial scandal",
@@ -27,7 +27,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 1919,
+    "id": 6780,
     "level": "critical",
     "country": "🌍",
     "text": "Ivory Coast’s Elye Wahi granted Canadian visa hours after denial",
@@ -36,7 +36,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 6229,
+    "id": 6429,
     "level": "critical",
     "country": "🌍",
     "text": "Un mois après le début d'Ebola en RD Congo, l'agence sanitaire de l'UA déplore p",
@@ -45,7 +45,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 1135,
+    "id": 8228,
     "level": "high",
     "country": "🌍",
     "text": "Accord États-Unis-Iran : l'armée américaine dit avoir levé son blocus des ports ",
@@ -54,7 +54,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 3646,
+    "id": 9563,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9983,
+    "id": 9,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1874,
+    "id": 8474,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3812,
+    "id": 7894,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6868,
+    "id": 3657,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3653,
+    "id": 6073,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1645,
+    "id": 1175,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3486,
+    "id": 5013,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4492,
+    "id": 6872,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +135,16 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9642,
+    "id": 682,
+    "level": "medium",
+    "country": "🌍",
+    "text": "US judge orders release of Palestinian rights advocate detained by ICE",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 9830,
     "level": "medium",
     "country": "🌍",
     "text": "Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup",
@@ -144,7 +153,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 8708,
+    "id": 7078,
     "level": "medium",
     "country": "🌍",
     "text": "Mamdani gives New York Knicks keys to city after NBA title",
@@ -153,7 +162,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 6967,
+    "id": 7019,
     "level": "medium",
     "country": "🌍",
     "text": "Are prices really dropping in the US, as Trump claims?",
@@ -162,21 +171,12 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 7787,
+    "id": 4125,
     "level": "medium",
     "country": "🌍",
     "text": "Cuba’s Communist Party approves opening economy in unprecedented move",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 2656,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Conjoined twins separated after surgery in Saudi Arabia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/conjoined-twins-separated-after-surgery-in-saudi-arabia?traffic_source=rss",
     "time": "Thu, 18 Jun 2026"
   }
 ]
