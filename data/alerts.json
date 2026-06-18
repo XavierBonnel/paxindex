@@ -1,6 +1,6 @@
 [
   {
-    "id": 4471,
+    "id": 9373,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 2321,
+    "id": 590,
     "level": "critical",
     "country": "🌍",
     "text": "Pakistan signs US-Iran MoU",
@@ -18,7 +18,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 3818,
+    "id": 7784,
     "level": "critical",
     "country": "🌍",
     "text": "Somalia warns Israel against meddling in Somaliland",
@@ -27,7 +27,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 7041,
+    "id": 2897,
     "level": "critical",
     "country": "🌍",
     "text": "Grief, tears as families hold rites for Indian sailors killed in US strike",
@@ -36,7 +36,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 5039,
+    "id": 3983,
     "level": "critical",
     "country": "🌍",
     "text": "Southern Lebanon residents doubt US-Iran agreement will bring lasting calm",
@@ -45,25 +45,16 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 1022,
-    "level": "critical",
+    "id": 6264,
+    "level": "high",
     "country": "🌍",
-    "text": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/18/jd-vance-tells-israel-you-cant-kill-your-way-out-of-security-problems?traffic_source=rss",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 3017,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Bombardements de Moscou : quand l'Ukraine veut priver la Russie de son or noir",
+    "text": "Accord États-Unis-Iran : l'armée américaine dit avoir levé son blocus des ports ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260618-bombardement-raffinerie-moscou-ukraine-veut-priver-p%C3%A9trole-russie-or-noir",
+    "link": "https://www.france24.com/fr/moyen-orient/20260618-accord-%C3%A9tats-unis-iran-arm%C3%A9e-am%C3%A9ricaine-dit-avoir-lev%C3%A9-blocus-ports-iraniens",
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 8882,
+    "id": 6180,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5343,
+    "id": 2784,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1648,
+    "id": 3881,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4087,
+    "id": 1439,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9531,
+    "id": 3630,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 976,
+    "id": 4835,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2273,
+    "id": 5777,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3775,
+    "id": 5501,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7730,
+    "id": 8299,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +135,25 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6475,
+    "id": 8994,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela 5W - Presencia Operativa Humanitaria 2026 - ¿Quién hace qué, dónde, cu",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-5w-presencia-operativa-humanitaria-2026-quien-hace-que-donde-cuando-y-para-quien-hasta-el-31-de-mayo-de-2026",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 7892,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela 5W - Humanitarian Operational Presence 2026 - Who does What Where When",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-5w-humanitarian-operational-presence-2026-who-does-what-where-when-whom-31-may-2026",
+    "time": "Thu, 18 Jun 2026"
+  },
+  {
+    "id": 1150,
     "level": "medium",
     "country": "🌍",
     "text": "Cuba: Monitoreo Mensual - Plan de Acción de Naciones Unidas (abril - mayo 2026)",
@@ -153,7 +162,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 5249,
+    "id": 9932,
     "level": "medium",
     "country": "🌍",
     "text": "Central African Republic: Situation Report No. 72, as of 16 June, 2026",
@@ -162,21 +171,12 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 6866,
+    "id": 1947,
     "level": "medium",
     "country": "🌍",
     "text": "WFP Mali Country Brief, June 2026",
     "source": "ReliefWeb — Conflits",
     "link": "https://reliefweb.int/report/mali/wfp-mali-country-brief-june-2026",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 4106,
-    "level": "medium",
-    "country": "🌍",
-    "text": "CAR: République centrafricaine : Rapport de situation N°72, au 16 juin 2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/central-african-republic/republique-centrafricaine-rapport-de-situation-ndeg72-au-16-juin-2026",
     "time": "Thu, 18 Jun 2026"
   }
 ]
