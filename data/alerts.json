@@ -1,6 +1,6 @@
 [
   {
-    "id": 3071,
+    "id": 6492,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4767,
+    "id": 2842,
     "level": "critical",
     "country": "🌍",
     "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
@@ -18,43 +18,61 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 730,
+    "id": 7200,
     "level": "critical",
     "country": "🌍",
-    "text": "Bolivia: Conflictividad Social - Flash Update No. 01 (Al 16 de junio de 2026)",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/bolivia-plurinational-state/bolivia-conflictividad-social-flash-update-no-01-al-16-de-junio-de-2026",
-    "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 7218,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: JD Vance delays trip to Switzerland for talks with Tehran",
+    "text": "Behind the noise of an ‘Iran deal’, Palestine continues to burn",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 8464,
+    "id": 738,
     "level": "critical",
     "country": "🌍",
-    "text": "Un mois après le début d'Ebola en RD Congo, l'agence sanitaire de l'UA déplore p",
+    "text": "Ukraine urges EU to pressure Russia to end war before winter",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/ukraine-urges-eu-to-pressure-russia-to-end-war-before-winter?traffic_source=rss",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 7799,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 4363,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Après l'affaire Lyhanna, le site \"Classés sans suite\" cristallise la colère des ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260618-un-mois-debut-ebola-rd-congo-agence-sanitaire-union-africaine-deplore-plus-200-morts-epidemie-virus",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 9339,
-    "level": "high",
-    "country": "🌍",
-    "text": "EU won’t lift key Iran sanctions until formal nuclear deal reached",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss",
+    "link": "https://www.france24.com/fr/france/20260619-apr%C3%A8s-affaire-lyhanna-site-class%C3%A9s-sans-suite-cristallise-la-col%C3%A8re-des-victimes-vss-justice",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 8654,
+    "id": 7282,
+    "level": "critical",
+    "country": "🌍",
+    "text": "🔴En direct : pourparlers États-Unis-Iran en Suisse annulés, frappes israéliennes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260619-en-direct-premieres-negociations-iran-etats-unis-guerre-moyen-orient-detroit-ormuz-jd-vance-hezbollah-nucleaire-protocole-entente-liban",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 6435,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : pourparlers États-Unis-Iran en Suisse annulés, frappes israéliennes ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260619-en-direct-premieres-negociations-iran-etats-unis-guerre-moyen-orient-detroit-ormuz-jd-vance-hezbollah-nucleaire-protocole-entente-liban",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 1321,
     "level": "high",
     "country": "🌍",
     "text": "Un accord de paix trouvé en Colombie, une centaine de guérilleros déposent leurs",
@@ -63,7 +81,7 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 2151,
+    "id": 3561,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3360,
+    "id": 933,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5868,
+    "id": 7758,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8452,
+    "id": 5557,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6119,
+    "id": 824,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8705,
+    "id": 3985,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5319,
+    "id": 7279,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3496,
+    "id": 9541,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2496,
+    "id": 6820,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7052,
+    "id": 1957,
     "level": "medium",
     "country": "🌍",
     "text": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
@@ -153,30 +171,12 @@
     "time": "Thu, 18 Jun 2026"
   },
   {
-    "id": 9873,
+    "id": 4149,
     "level": "medium",
     "country": "🌍",
     "text": "Bunk’Art: Dealing with the legacy of Albania’s communist regime",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/18/bunkart-dealing-with-the-legacy-of-albanias-communist-regime/",
     "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 4094,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Invisible strategies: How fear of being outed shapes LGBTQ+ life online in Serbi",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/17/invisible-strategies-how-fear-of-being-outed-shapes-lgbtq-life-online-in-serbia/",
-    "time": "Wed, 17 Jun 2026"
-  },
-  {
-    "id": 1077,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Support Global Voices’ Spotlight: Statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/17/support-global-voices-spotlight-statelessness/",
-    "time": "Wed, 17 Jun 2026"
   }
 ]
