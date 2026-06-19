@@ -1,6 +1,6 @@
 [
   {
-    "id": 9662,
+    "id": 7069,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,52 +9,70 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 5210,
+    "id": 8411,
     "level": "critical",
     "country": "🌍",
-    "text": "US-Iran talks postponed as Israel attacks Lebanon",
+    "text": "Israel continues attacks on Lebanon despite US-Iran deal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/19/us-iran-talks-postponed-as-israel-attacks-lebanon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-continues-attacks-on-lebanon-despite-us-iran-deal?traffic_source=rss",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 860,
+    "id": 9479,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
+    "text": "For one Yemeni, World Cup serves as a marker of war and peace",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/6/19/for-one-yemeni-world-cup-serves-as-a-marker-of-war-and-peace?traffic_source=rss",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 6608,
+    "id": 3508,
     "level": "critical",
     "country": "🌍",
-    "text": "Behind the noise of an ‘Iran deal’, Palestine continues to burn",
+    "text": "US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 4583,
+    "id": 5153,
     "level": "critical",
     "country": "🌍",
-    "text": "Après l'affaire Lyhanna, le site \"Classés sans suite\" cristallise la colère des ",
+    "text": "\"Tout le Liban doit brûler\", dit un ministre israélien après la mort de quatre s",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260619-apr%C3%A8s-affaire-lyhanna-site-class%C3%A9s-sans-suite-cristallise-la-col%C3%A8re-des-victimes-vss-justice",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260619-tout-le-liban-doit-br%C3%BBler-dit-un-ministre-isra%C3%A9lien-apr%C3%A8s-la-mort-de-quatre-soldats",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 8588,
+    "id": 9181,
     "level": "critical",
     "country": "🌍",
-    "text": "🔴En direct : pourparlers États-Unis-Iran en Suisse annulés, frappes israéliennes",
+    "text": "Guerre en Ukraine : la \"leçon de drones\" de Kiev",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260619-en-direct-premieres-negociations-iran-etats-unis-guerre-moyen-orient-detroit-ormuz-jd-vance-hezbollah-nucleaire-protocole-entente-liban",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260619-guerre-en-ukraine-la-le%C3%A7on-de-drones-de-kiev",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 8142,
+    "id": 779,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient : de nouvelles frappes au Liban, les pourparlers en Suisse annulés",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260619-moyen-orient-de-nouvelles-frappes-au-liban-les-pourparlers-en-suisse-annul%C3%A9s",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 5267,
+    "level": "high",
+    "country": "🌍",
+    "text": "Côte d’Ivoire - Burkina Faso : une frontière sous tension",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/reporters/20260619-c%C3%B4te-d-ivoire-burkina-faso-une-fronti%C3%A8re-sous-tension",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 7104,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6456,
+    "id": 3290,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6900,
+    "id": 1772,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1813,
+    "id": 638,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2129,
+    "id": 8228,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1822,
+    "id": 9619,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1870,
+    "id": 9148,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4303,
+    "id": 8722,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8739,
+    "id": 2005,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,48 +153,30 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4281,
+    "id": 4680,
     "level": "medium",
     "country": "🌍",
-    "text": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
+    "text": "Syrian activist Hassan Akkad detained in Damascus",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/19/syrian-activist-hassan-akkad-detained-in-damascus?traffic_source=rss",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 6358,
+    "id": 4048,
     "level": "medium",
     "country": "🌍",
-    "text": "Iran to lodge complaint with FIFA over World Cup 2026 travel restrictions",
+    "text": "Indian court rejects appeal over ban on Telegram app",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/19/iran-to-lodge-complaint-with-fifa-over-world-cup-2026-travel-restrictions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/19/indian-court-rejects-appeal-over-ban-on-telegram-app?traffic_source=rss",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 3579,
+    "id": 3207,
     "level": "medium",
     "country": "🌍",
-    "text": "A world on trial: How lawyers documenting Israeli abuse pay a price",
+    "text": "Achraf Hakimi, Morocco’s World Cup captain, to stand trial on rape charge",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/6/19/a-world-on-trial-how-lawyers-documenting-israeli-abuse-pay-a-price?traffic_source=rss",
-    "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 9163,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cape Verde goalkeeper Vozinha happy his mother will attend World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/cape-verde-goalkeeper-vozinha-happy-his-mother-will-attend-world-cup?traffic_source=rss",
-    "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 6621,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Burnham by-election victory raises stakes for Starmer",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/burnham-by-election-victory-raises-stakes-for-starmer?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/6/19/achraf-hakimi-moroccos-world-cup-captain-to-stand-trial-on-rape-charge?traffic_source=rss",
     "time": "Fri, 19 Jun 2026"
   }
 ]
