@@ -1,6 +1,6 @@
 [
   {
-    "id": 6221,
+    "id": 2873,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 4100,
+    "id": 4079,
     "level": "critical",
     "country": "🌍",
     "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
@@ -18,7 +18,25 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 6621,
+    "id": 5593,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
+    "time": "Sat, 20 Jun 2026"
+  },
+  {
+    "id": 3352,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike kills children in Gaza despite ceasefire claims",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/israeli-strike-kills-children-in-gaza-despite-ceasefire-claims?traffic_source=rss",
+    "time": "Sat, 20 Jun 2026"
+  },
+  {
+    "id": 8782,
     "level": "critical",
     "country": "🌍",
     "text": "Trump insists Italy’s Meloni sought photos with him to boost popularity",
@@ -27,7 +45,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 2088,
+    "id": 3949,
     "level": "critical",
     "country": "🌍",
     "text": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
@@ -36,7 +54,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 9486,
+    "id": 7444,
     "level": "critical",
     "country": "🌍",
     "text": "Nine left in critical condition after UK train collision that killed driver",
@@ -45,16 +63,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 6073,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Zelenskyy and top Ukrainian officials return Polish awards in WWII dispute",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/20/top-ukrainian-officials-return-polish-awards-in-wwii-dispute?traffic_source=rss",
-    "time": "Sat, 20 Jun 2026"
-  },
-  {
-    "id": 9707,
+    "id": 2529,
     "level": "critical",
     "country": "🌍",
     "text": "Reprise des frappes au Liban : \"Israël utilise le Hezbollah comme variable d'aju",
@@ -63,7 +72,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 9220,
+    "id": 5009,
     "level": "critical",
     "country": "🌍",
     "text": "Violation du cessez-le-feu entre Israël et le Liban",
@@ -72,7 +81,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 7719,
+    "id": 5936,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : le cessez-le-feu déjà violé, comment mettre fin aux attaques ?",
@@ -81,16 +90,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 2734,
-    "level": "high",
-    "country": "🌍",
-    "text": "UK condemns Israeli minister over inflammatory Lebanon remarks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/20/uk-condemns-israeli-minister-over-inflammatory-lebanon-remarks?traffic_source=rss",
-    "time": "Sat, 20 Jun 2026"
-  },
-  {
-    "id": 7477,
+    "id": 8135,
     "level": "high",
     "country": "🌍",
     "text": "Le détroit d'Ormuz à nouveau fermé : l'accord entre Téhéran et Washington compro",
@@ -99,7 +99,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 9796,
+    "id": 2498,
     "level": "high",
     "country": "🌍",
     "text": "Tensions Trump-Meloni : le président américain enfonce le clou, Rome en colère",
@@ -108,7 +108,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 4021,
+    "id": 3458,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 217,
+    "id": 5910,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3820,
+    "id": 6353,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4411,
+    "id": 3761,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2111,
+    "id": 3908,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5791,
+    "id": 3371,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 556,
+    "id": 8208,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,7 +171,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7236,
+    "id": 4984,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
