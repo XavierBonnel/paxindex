@@ -1,6 +1,6 @@
 [
   {
-    "id": 3608,
+    "id": 4452,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,16 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 330,
+    "id": 8538,
+    "level": "critical",
+    "country": "🌍",
+    "text": "One dead and 89 injured following train collision in Bedford, UK",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/one-dead-and-89-injured-following-train-collision-in-bedford-uk?traffic_source=rss",
+    "time": "Sat, 20 Jun 2026"
+  },
+  {
+    "id": 1688,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanese influencer organises World Cup event amid Israel’s attack on Leban",
@@ -18,7 +27,7 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 7083,
+    "id": 5614,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
@@ -27,16 +36,16 @@
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 5777,
+    "id": 8625,
     "level": "critical",
     "country": "🌍",
-    "text": "Thirty dead at DRC displacement camp as Ebola threat grows",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/aje-onl-nf_thirty-dead-at-drc-displacement-camp-ebola-threat-190626?traffic_source=rss",
+    "text": "Une collision entre deux trains fait un mort et des dizaines de blessés près de ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260619-une-collision-entre-deux-trains-fait-un-mort-et-des-dizaines-de-bless%C3%A9s-pr%C3%A8s-de-londres",
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 24,
+    "id": 8230,
     "level": "high",
     "country": "🌍",
     "text": "Niger: l'attaque sur l'aéroport revendiqué par le JNIM, les autorités accusent l",
@@ -45,7 +54,7 @@
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 8421,
+    "id": 6367,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -54,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6271,
+    "id": 8138,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -63,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7540,
+    "id": 7589,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -72,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5142,
+    "id": 4401,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2843,
+    "id": 4495,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4007,
+    "id": 2595,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 998,
+    "id": 7737,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6737,
+    "id": 4340,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2132,
+    "id": 8458,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -126,57 +135,48 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5588,
+    "id": 314,
     "level": "medium",
     "country": "🌍",
-    "text": "Cunha hits Brazil double against Haiti to seal first World Cup 2026 win",
+    "text": "Inferno rips through Dominican Republic beach resort",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/20/cunha-hits-brazil-double-against-haiti-to-seal-first-world-cup-2026-win?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/inferno-rips-through-dominican-republic-beach-resort?traffic_source=rss",
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 8940,
+    "id": 469,
     "level": "medium",
     "country": "🌍",
-    "text": "Morocco beat Scotland 1–0 as Saibari scores fastest World Cup 2026 goal",
+    "text": "Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/20/morocco-beat-scotland-1-0-as-saibari-scores-fastest-world-cup-2026?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/20/israel-fetes-somalilands-leader-as-it-seeks-to-expand-red-sea-influence?traffic_source=rss",
     "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 2886,
+    "id": 5064,
     "level": "medium",
     "country": "🌍",
-    "text": "US judge rejects Joe Biden’s lawsuit asking to withhold memoir recordings",
+    "text": "UN meeting erupts over sexual violence allegations against Israel",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/19/us-judge-rejects-joe-bidens-lawsuit-asking-to-withhold-memoir-recordings?traffic_source=rss",
-    "time": "Fri, 19 Jun 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/un-meeting-erupts-over-sexual-violence-allegations-against-israel?traffic_source=rss",
+    "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 4156,
+    "id": 7717,
     "level": "medium",
     "country": "🌍",
-    "text": "USA beat Australia 2–0 to book knockout spot at World Cup",
+    "text": "Mexico City looks to rein in street drinking after massive World Cup party",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/19/usa-beat-australia-2-0-to-book-knockout-spot-at-world?traffic_source=rss",
-    "time": "Fri, 19 Jun 2026"
+    "link": "https://www.aljazeera.com/sports/2026/6/20/mexico-city-looks-to-rein-in-street-drinking-after-massive-world-cup-party?traffic_source=rss",
+    "time": "Sat, 20 Jun 2026"
   },
   {
-    "id": 5184,
+    "id": 6113,
     "level": "medium",
     "country": "🌍",
-    "text": "Spain’s Yamal says ‘very early, unnecessary’ to play full World Cup match",
+    "text": "Hydration break boos: How FIFA united players, fans, coaches at World Cup",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/19/spains-yamal-says-very-early-unnecessary-to-play-full-world-cup-match?traffic_source=rss",
-    "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 2152,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Canada’s Kone undergoes major leg surgery; to miss rest of World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/19/canadas-kone-undergoes-major-leg-surgery-to-miss-rest-of-world-cup?traffic_source=rss",
-    "time": "Fri, 19 Jun 2026"
+    "link": "https://www.aljazeera.com/sports/2026/6/20/hydration-break-boos-how-fifa-united-players-fans-coaches-at-world-cup?traffic_source=rss",
+    "time": "Sat, 20 Jun 2026"
   }
 ]
