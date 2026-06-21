@@ -1,6 +1,6 @@
 [
   {
-    "id": 8383,
+    "id": 3385,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 510,
+    "id": 1505,
     "level": "critical",
     "country": "🌍",
     "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
@@ -18,34 +18,88 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 5540,
+    "id": 8713,
     "level": "critical",
     "country": "🌍",
-    "text": "Vance arrives in Switzerland for US-Iran talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss",
+    "text": "Yemen Agrometeorological Update: Food Security and Early Warning Information Sys",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/yemen-agrometeorological-update-food-security-and-early-warning-information-system-01-31-may-2026-enar",
     "time": "Sun, 21 Jun 2026"
   },
   {
-    "id": 7677,
+    "id": 6937,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war day 114: US, Iranian delegations in Switzerland for key talks",
+    "text": "Messi, Argentina play Austria in World Cup group match: All to know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/6/21/messi-argentina-play-austria-in-world-cup-group-match-all-to-know?traffic_source=rss",
     "time": "Sun, 21 Jun 2026"
   },
   {
-    "id": 7191,
+    "id": 4367,
     "level": "critical",
     "country": "🌍",
-    "text": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
+    "text": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
     "time": "Sun, 21 Jun 2026"
   },
   {
-    "id": 3893,
+    "id": 7859,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Kind, principled’: Palestinian journalists remember slain Gaza journalist",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
+    "time": "Sun, 21 Jun 2026"
+  },
+  {
+    "id": 9509,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Stop ‘Greater Israel’ to make peace",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss",
+    "time": "Sun, 21 Jun 2026"
+  },
+  {
+    "id": 5347,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon’s ancient monuments remain at risk from Israeli attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/lebanons-ancient-monuments-remain-at-risk-from-israeli-attack?traffic_source=rss",
+    "time": "Sun, 21 Jun 2026"
+  },
+  {
+    "id": 25,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mother of Al Jazeera’s Ahmed Wishah mourns his killing",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/mother-of-al-jazeeras-ahmed-wishah-mourns-his-killing?traffic_source=rss",
+    "time": "Sun, 21 Jun 2026"
+  },
+  {
+    "id": 5045,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The deal with Iran may be imperfect but it is what the American people want",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/6/21/the-deal-with-iran-may-be-imperfect-but-it-is-what-the-american-people-want?traffic_source=rss",
+    "time": "Sun, 21 Jun 2026"
+  },
+  {
+    "id": 9278,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La distribution de carburant suspendue en Crimée après une attaque ukrainienne d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260621-russie-distribution-carburant-suspendue-en-crim%C3%A9e-apr%C3%A8s-attaque-ukraine-drones",
+    "time": "Sun, 21 Jun 2026"
+  },
+  {
+    "id": 3727,
     "level": "critical",
     "country": "🌍",
     "text": "Un journaliste d'Al Jazeera tué à Gaza dans une frappe israélienne",
@@ -54,16 +108,7 @@
     "time": "Sun, 21 Jun 2026"
   },
   {
-    "id": 6154,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Marc Bloch : un historien, un combattant, un résistant mort pour la France entre",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260621-marc-bloch-historien-combattant-r%C3%A9sistant-entre-pantheon-histoire-guerre",
-    "time": "Sun, 21 Jun 2026"
-  },
-  {
-    "id": 3677,
+    "id": 7541,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5039,
+    "id": 8225,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8490,
+    "id": 1235,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8960,
+    "id": 3999,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5116,
+    "id": 2871,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6981,
+    "id": 5770,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8704,
+    "id": 3561,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,57 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1499,
+    "id": 3056,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 5122,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 8337,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/19/planes-dont-fly-on-masculinity-why-society-views-women-in-transportation-as-an-anomaly/",
-    "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 7215,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s/",
-    "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 7376,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs/",
-    "time": "Thu, 18 Jun 2026"
-  },
-  {
-    "id": 5606,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Bunk’Art: Dealing with the legacy of Albania’s communist regime",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/18/bunkart-dealing-with-the-legacy-of-albanias-communist-regime/",
-    "time": "Thu, 18 Jun 2026"
   }
 ]
