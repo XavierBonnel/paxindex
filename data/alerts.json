@@ -1,6 +1,6 @@
 [
   {
-    "id": 8340,
+    "id": 2720,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,16 +9,34 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8314,
+    "id": 8515,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Mediators hail ‘encouraging progress’ in US-Tehran talks",
+    "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/17/meet-myat-moe-thu-a-woman-journalist-in-myanmars-conflict-zones/",
+    "time": "Wed, 17 Jun 2026"
+  },
+  {
+    "id": 8175,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Encouraging progress’ made as first round US-Iran talks end",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/encouraging-progress-made-as-first-round-us-iran-talks-end?traffic_source=rss",
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 9490,
+    "id": 7152,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Crimea halts fuel sales after Ukraine strikes cause shortages",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/crimea-halts-fuel-sales-after-ukraine-strikes-cause-shortages?traffic_source=rss",
+    "time": "Mon, 22 Jun 2026"
+  },
+  {
+    "id": 2138,
     "level": "critical",
     "country": "🌍",
     "text": "Ce qu'il faut retenir de la première session de négociations Iran-États-Unis",
@@ -27,7 +45,16 @@
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 4236,
+    "id": 312,
+    "level": "high",
+    "country": "🌍",
+    "text": "Qatar LNG factory explosion injures 54, leaves 18 missing, gov’t says",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/22/qatar-lng-factory-explosion-injures-54-leaves-18-missing-govt-says?traffic_source=rss",
+    "time": "Mon, 22 Jun 2026"
+  },
+  {
+    "id": 4368,
     "level": "high",
     "country": "🌍",
     "text": "US and Iran meet for ‘tense’ but ‘constructive’ ceasefire talks",
@@ -36,7 +63,16 @@
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 7652,
+    "id": 5830,
+    "level": "high",
+    "country": "🌍",
+    "text": "La Chine sanctionne des dizaines d'entreprises stratégiques américaines",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260622-chine-sanctionne-dizaines-entreprises-americaines-liste-noire",
+    "time": "Mon, 22 Jun 2026"
+  },
+  {
+    "id": 7252,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -45,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8759,
+    "id": 3586,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -54,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8287,
+    "id": 9204,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -63,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1508,
+    "id": 3167,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7647,
+    "id": 6559,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4261,
+    "id": 2941,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4030,
+    "id": 1243,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9972,
+    "id": 25,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1999,
+    "id": 8597,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -117,66 +153,30 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5267,
+    "id": 7039,
     "level": "medium",
     "country": "🌍",
-    "text": "Colombia’s De La Espriella claims victory on preliminary results",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/colombias-de-la-espriella-claims-victory-on-preliminary-results?traffic_source=rss",
+    "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 1400,
+    "id": 3118,
     "level": "medium",
     "country": "🌍",
-    "text": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss",
-    "time": "Mon, 22 Jun 2026"
+    "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/planes-dont-fly-on-masculinity-why-society-views-women-in-transportation-as-an-anomaly/",
+    "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 4728,
+    "id": 1296,
     "level": "medium",
     "country": "🌍",
-    "text": "No pressure to pass the ball to Ronaldo in World Cup: Portugal’s Conceicao",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/22/no-pressure-to-pass-the-ball-to-ronaldo-in-world-cup-portugals-conceicao?traffic_source=rss",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 7644,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ebola closure cuts off a lifeline between DRC’s Goma and Rwanda",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/22/ebola-closure-cuts-off-a-lifeline-between-drcs-goma-and-rwanda?traffic_source=rss",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 8115,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cape Verde fight back for second World Cup draw 2-2 against Uruguay",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/22/cape-verde-fight-back-for-second-world-cup-draw-2-2-against-uruguay?traffic_source=rss",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 4818,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Egyptian football fans chant for Palestine in Vancouver",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/egyptian-football-fans-chant-for-palestine-in-vancouver?traffic_source=rss",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 9421,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Iranians gather in Tehran to support team in critical draw against Belgium",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
-    "time": "Mon, 22 Jun 2026"
+    "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s/",
+    "time": "Fri, 19 Jun 2026"
   }
 ]
