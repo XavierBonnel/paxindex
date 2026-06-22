@@ -1,6 +1,6 @@
 [
   {
-    "id": 4889,
+    "id": 7814,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 3081,
+    "id": 8870,
     "level": "critical",
     "country": "🌍",
     "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
@@ -18,88 +18,52 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 3262,
+    "id": 3226,
     "level": "critical",
     "country": "🌍",
-    "text": "Médecins Sans Frontières (MSF) warns of deadly conditions in Nabatiyeh, southern",
+    "text": "Italy: World Refugee Day: Salesian Missions highlights social programs for refug",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/medecins-sans-frontieres-msf-warns-deadly-conditions-nabatiyeh-southern-lebanon-and-calls-immediate-protection-civilians-and-medical-and-rescue-workers-relentless-israeli-attacks-hit-governorate",
+    "link": "https://reliefweb.int/report/italy/world-refugee-day-salesian-missions-highlights-social-programs-refugees-and-people-displaced-conflict",
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 3573,
+    "id": 1606,
     "level": "critical",
     "country": "🌍",
-    "text": "Sudan: INGOs Warn of Catastrophic Humanitarian Consequences for Civilians in El ",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/sudan/sudan-ingos-warn-catastrophic-humanitarian-consequences-civilians-el-obeid",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 7343,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel kills turtle conservationist Mona Khalil",
+    "text": "Pakistan issues nationwide alert over fears of heavy rains, floods",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/israel-kills-turtle-conservationist-mona-khalil?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/22/pakistan-issues-nationwide-alert-over-fears-of-heavy-rains-floods?traffic_source=rss",
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 8128,
+    "id": 1065,
     "level": "critical",
     "country": "🌍",
-    "text": "Why Coca-Cola and the US taxman are at war over a $20bn tax bill",
+    "text": "US strike on an alleged drug boat in eastern Pacific kills two",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/22/why-coca-cola-and-the-us-taxman-are-at-war-over-a-20bn-tax-bill?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/22/us-strike-on-an-alleged-drug-boat-in-eastern-pacific-kills-two?traffic_source=rss",
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 3882,
+    "id": 1240,
     "level": "critical",
     "country": "🌍",
-    "text": "Vance’s warning to Israel signals a new phase in US-Israeli relations",
+    "text": "Gaza’s surfers seek solace from war in the Mediterranean Sea",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/6/22/vances-warning-to-israel-signals-a-new-phase-in-us-israeli-relations?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/6/22/gazas-surfers-seek-solace-from-war-in-the-mediterranean-sea?traffic_source=rss",
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 2613,
-    "level": "critical",
+    "id": 8441,
+    "level": "high",
     "country": "🌍",
-    "text": "Marc et Simonne Bloch au Panthéon : unis dans la guerre et dans la mort",
+    "text": "Mondial 2026 : sélectionneur sans contrat, primes non versées… le Sénégal sous t",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260622-marc-bloch-simonne-vidal-couple-resistance-guerre-pantheon",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260622-mondial-2026-s%C3%A9lectionneur-sans-contrat-primes-non-vers%C3%A9es-le-s%C3%A9n%C3%A9gal-sous-tension",
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 743,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient : fin du premier cycle des pourparlers États-Unis/Iran en",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260622-guerre-au-moyen-orient-fin-du-premier-cycle-des-pourparlers-%C3%A9tats-unis-iran-en-suisse",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 5471,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La propagande russe affirme que la \"libération\" du Donbass est proche",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/vu-de-russie/20260622-la-propagande-russe-affirme-que-la-lib%C3%A9ration-du-donbass-est-proche",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 8355,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'UE cherche à contrer la crise énergétique",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260622-l-ue-cherche-%C3%A0-contrer-la-crise-%C3%A9nerg%C3%A9tique",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 4354,
+    "id": 4978,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9332,
+    "id": 272,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9547,
+    "id": 8434,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7500,
+    "id": 4530,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5905,
+    "id": 3818,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3571,
+    "id": 280,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8325,
+    "id": 2126,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5306,
+    "id": 8055,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +135,48 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8844,
+    "id": 2705,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 425,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
+    "time": "Mon, 22 Jun 2026"
+  },
+  {
+    "id": 8148,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/planes-dont-fly-on-masculinity-why-society-views-women-in-transportation-as-an-anomaly/",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 6545,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s/",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 4162,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs/",
+    "time": "Thu, 18 Jun 2026"
   }
 ]
