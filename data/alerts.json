@@ -1,6 +1,6 @@
 [
   {
-    "id": 7292,
+    "id": 262,
     "level": "critical",
     "country": "🌍",
     "text": "Lebanon: Conflict Intensity Snapshot (2 March - 22 June 2026)",
@@ -9,7 +9,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 4580,
+    "id": 135,
     "level": "critical",
     "country": "🌍",
     "text": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
@@ -18,43 +18,16 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 1870,
-    "level": "critical",
+    "id": 8662,
+    "level": "high",
     "country": "🌍",
-    "text": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
+    "text": "Trump allies reassure Israelis amid tensions on US-Iran deal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/23/sanchez-warns-he-will-not-recognise-fujimori-victory-in-peru-election?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 4722,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US Senate votes to pass Iran war powers resolution, in blow to Trump",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 7294,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canicule : va-t-on enfin se réveiller ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260623-canicule-va-t-on-enfin-se-r%C3%A9veiller",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 7475,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canicule: la flore et la faune souffrent aussi de la chaleur",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260623-canicule-la-flore-et-la-faune-souffrent-aussi-de-la-chaleur",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 8311,
+    "id": 3105,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues US military over labelling it a ‘Chinese military company’",
@@ -63,7 +36,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 6591,
+    "id": 2076,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6008,
+    "id": 6546,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2604,
+    "id": 9715,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4745,
+    "id": 8258,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4361,
+    "id": 9237,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3442,
+    "id": 3839,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4819,
+    "id": 8460,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5967,
+    "id": 3875,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1957,
+    "id": 4191,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9323,
+    "id": 2548,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1221,
+    "id": 7759,
     "level": "medium",
     "country": "🌍",
     "text": "Digital surveillance is breaking activist mental health",
@@ -162,7 +135,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 8829,
+    "id": 1358,
     "level": "medium",
     "country": "🌍",
     "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
@@ -171,12 +144,39 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 9242,
+    "id": 8900,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/22/hong-kongs-lgbtq-communities-strike-to-survive/",
     "time": "Mon, 22 Jun 2026"
+  },
+  {
+    "id": 6935,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
+    "time": "Mon, 22 Jun 2026"
+  },
+  {
+    "id": 8867,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/planes-dont-fly-on-masculinity-why-society-views-women-in-transportation-as-an-anomaly/",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 727,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s/",
+    "time": "Fri, 19 Jun 2026"
   }
 ]
