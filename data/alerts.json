@@ -1,6 +1,24 @@
 [
   {
-    "id": 602,
+    "id": 7292,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 22 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-22-june-2026",
+    "time": "Tue, 23 Jun 2026"
+  },
+  {
+    "id": 4580,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
+    "time": "Tue, 23 Jun 2026"
+  },
+  {
+    "id": 1870,
     "level": "critical",
     "country": "🌍",
     "text": "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
@@ -9,7 +27,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 4365,
+    "id": 4722,
     "level": "critical",
     "country": "🌍",
     "text": "US Senate votes to pass Iran war powers resolution, in blow to Trump",
@@ -18,16 +36,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 7702,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Displaced Lebanese return south under fragile ceasefire deal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 3712,
+    "id": 7294,
     "level": "critical",
     "country": "🌍",
     "text": "Canicule : va-t-on enfin se réveiller ?",
@@ -36,7 +45,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 1913,
+    "id": 7475,
     "level": "critical",
     "country": "🌍",
     "text": "Canicule: la flore et la faune souffrent aussi de la chaleur",
@@ -45,7 +54,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 5459,
+    "id": 8311,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues US military over labelling it a ‘Chinese military company’",
@@ -54,7 +63,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 7843,
+    "id": 6591,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2993,
+    "id": 6008,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2840,
+    "id": 2604,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6160,
+    "id": 4745,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4277,
+    "id": 4361,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3474,
+    "id": 3442,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8801,
+    "id": 4819,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8196,
+    "id": 5967,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 857,
+    "id": 1957,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 940,
+    "id": 9323,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2823,
+    "id": 1221,
     "level": "medium",
     "country": "🌍",
     "text": "Digital surveillance is breaking activist mental health",
@@ -153,7 +162,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 975,
+    "id": 8829,
     "level": "medium",
     "country": "🌍",
     "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
@@ -162,21 +171,12 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 9035,
+    "id": 9242,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/22/hong-kongs-lgbtq-communities-strike-to-survive/",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 6017,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
     "time": "Mon, 22 Jun 2026"
   }
 ]
