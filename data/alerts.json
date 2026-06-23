@@ -1,6 +1,6 @@
 [
   {
-    "id": 5597,
+    "id": 9233,
     "level": "critical",
     "country": "🌍",
     "text": "Nearly One in Four Americans Support Legal Use of Psilocybin 'Magic' Mushrooms; ",
@@ -9,7 +9,7 @@
     "time": "2026-02-24T00:01"
   },
   {
-    "id": 8861,
+    "id": 8083,
     "level": "critical",
     "country": "🌍",
     "text": "Meet Myat Moe Thu, a woman journalist in Myanmar’s conflict zones",
@@ -18,7 +18,25 @@
     "time": "Wed, 17 Jun 2026"
   },
   {
-    "id": 9526,
+    "id": 7348,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
+    "time": "Tue, 23 Jun 2026"
+  },
+  {
+    "id": 89,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike kills Palestinian girl on her way to sit exam",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-strike-kills-palestinian-girl-on-her-way-to-sit-exam?traffic_source=rss",
+    "time": "Tue, 23 Jun 2026"
+  },
+  {
+    "id": 4896,
     "level": "critical",
     "country": "🌍",
     "text": "How women steer youths away from gang violence in northeastern Nigeria",
@@ -27,7 +45,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 6693,
+    "id": 9586,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
@@ -36,25 +54,16 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 2963,
+    "id": 1247,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza surfers seek solace from war in the sea",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/gaza-surfers-seek-solace-from-war-in-the-sea?traffic_source=rss",
-    "time": "Mon, 22 Jun 2026"
+    "text": "En direct : le négociateur en chef iranien affirme qu'Ormuz sera administré par ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260623-en-direct-iran-detroit-dormuz-etats-unis-petrole-sanctions-liban-israel",
+    "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 7431,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Video shows deadly shooting in Montreal, Canada",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/video-shows-deadly-shooting-in-montreal-canada?traffic_source=rss",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 347,
+    "id": 7786,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4649,
+    "id": 3339,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8814,
+    "id": 6765,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 96,
+    "id": 4568,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4341,
+    "id": 8273,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6358,
+    "id": 2629,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2106,
+    "id": 1475,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4363,
+    "id": 7044,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5075,
+    "id": 5589,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8242,
+    "id": 4493,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
@@ -144,7 +153,7 @@
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 9278,
+    "id": 6519,
     "level": "medium",
     "country": "🌍",
     "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
@@ -153,7 +162,7 @@
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 7170,
+    "id": 8693,
     "level": "medium",
     "country": "🌍",
     "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
@@ -162,21 +171,12 @@
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 5693,
+    "id": 8633,
     "level": "medium",
     "country": "🌍",
     "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s/",
     "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 5745,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs/",
-    "time": "Thu, 18 Jun 2026"
   }
 ]
