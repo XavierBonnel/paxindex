@@ -1,6 +1,15 @@
 [
   {
-    "id": 7575,
+    "id": 8539,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US Senate votes to pause Iran war in rare rebuke to Trump",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 7239,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
@@ -9,16 +18,7 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 2597,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel’s deliberate targeting of Palestinian children",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 9630,
+    "id": 5993,
     "level": "critical",
     "country": "🌍",
     "text": "En Corée du Nord, Kim Jong-un annonce équiper la marine d'armes nucléaires",
@@ -27,7 +27,7 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 4047,
+    "id": 7056,
     "level": "critical",
     "country": "🌍",
     "text": "Enlevée en février, la mère de Savannah Guthrie serait décédée, selon une note d",
@@ -36,7 +36,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 2771,
+    "id": 2365,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6175,
+    "id": 8602,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -54,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2749,
+    "id": 4680,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -63,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7977,
+    "id": 8405,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -72,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9726,
+    "id": 7771,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1700,
+    "id": 4997,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5128,
+    "id": 8431,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9304,
+    "id": 3299,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7187,
+    "id": 5496,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6861,
+    "id": 8337,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -126,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4210,
+    "id": 65,
     "level": "medium",
     "country": "🌍",
     "text": "Digital surveillance is breaking activist mental health",
@@ -135,7 +135,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 4625,
+    "id": 7827,
     "level": "medium",
     "country": "🌍",
     "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
@@ -144,7 +144,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 8154,
+    "id": 9608,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
@@ -153,7 +153,7 @@
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 8643,
+    "id": 1265,
     "level": "medium",
     "country": "🌍",
     "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
@@ -162,7 +162,7 @@
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 4385,
+    "id": 4998,
     "level": "medium",
     "country": "🌍",
     "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
@@ -171,7 +171,7 @@
     "time": "Fri, 19 Jun 2026"
   },
   {
-    "id": 1116,
+    "id": 8641,
     "level": "medium",
     "country": "🌍",
     "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
