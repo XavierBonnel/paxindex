@@ -1,6 +1,24 @@
 [
   {
-    "id": 6293,
+    "id": 4183,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine attacks on Russian-occupied Crimea trigger power cuts in Sevastopol",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/24/ukraine-attacks-on-russian-occupied-crimea-trigger-power-cuts-in-sevastopol?traffic_source=rss",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 6523,
+    "level": "critical",
+    "country": "🌍",
+    "text": "North Korea commissions largest-ever warship",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/north-korea-commissions-largest-ever-warship?traffic_source=rss",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 5506,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine strikes strategic Russian bridge in Crimea",
@@ -9,61 +27,7 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 7160,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 3648,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 7530,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Diabetes patients in Gaza face survival battle amid war shortages",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 3496,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Deadly heatwave grips Europe as temperatures soar across continent",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_deadly-heatwave-grips-europe-as-temperatures-soars-240626?traffic_source=rss",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 2576,
-    "level": "high",
-    "country": "🌍",
-    "text": "Canicule en France : explosion des appels au SAMU et hausse des admissions aux u",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-canicule-en-france-explosion-des-appels-au-samu-et-hausse-des-admissions-aux-urgences",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 4868,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israël et le Liban engagent des discussions sur un transfert de zones à l'armée ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260624-israel-liban-discutent-un-transfert-de-zones-arm%C3%A9e-libanaise-guerre-usa",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 8867,
+    "id": 2085,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +36,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5446,
+    "id": 308,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +45,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8487,
+    "id": 2834,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +54,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8076,
+    "id": 8879,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +63,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2456,
+    "id": 2466,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +72,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8974,
+    "id": 2912,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +81,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3059,
+    "id": 2662,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +90,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 471,
+    "id": 4886,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +99,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9455,
+    "id": 6423,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +108,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2179,
+    "id": 7565,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,7 +117,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 473,
+    "id": 8996,
     "level": "medium",
     "country": "🌍",
     "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
@@ -162,7 +126,7 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 6440,
+    "id": 3899,
     "level": "medium",
     "country": "🌍",
     "text": "Digital surveillance is breaking activist mental health",
@@ -171,12 +135,48 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 5819,
+    "id": 9194,
     "level": "medium",
     "country": "🌍",
     "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/23/malaysian-government-replaces-the-term-lgbt-with-deviant-culture/",
     "time": "Tue, 23 Jun 2026"
+  },
+  {
+    "id": 2096,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/22/hong-kongs-lgbtq-communities-strike-to-survive/",
+    "time": "Mon, 22 Jun 2026"
+  },
+  {
+    "id": 8494,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
+    "time": "Mon, 22 Jun 2026"
+  },
+  {
+    "id": 6109,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/planes-dont-fly-on-masculinity-why-society-views-women-in-transportation-as-an-anomaly/",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 1569,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s/",
+    "time": "Fri, 19 Jun 2026"
   }
 ]
