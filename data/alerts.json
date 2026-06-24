@@ -1,6 +1,15 @@
 [
   {
-    "id": 8970,
+    "id": 7575,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 2597,
     "level": "critical",
     "country": "🌍",
     "text": "Israel’s deliberate targeting of Palestinian children",
@@ -9,16 +18,16 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 6809,
+    "id": 9630,
     "level": "critical",
     "country": "🌍",
-    "text": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/23/un-starts-evacuating-11000-stranded-sailors-from-strait-of-hormuz?traffic_source=rss",
-    "time": "Tue, 23 Jun 2026"
+    "text": "En Corée du Nord, Kim Jong-un annonce équiper la marine d'armes nucléaires",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260624-coree-du-nord-kim-jong-un-annonce-equiper-marine-armes-nucleaires",
+    "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 2744,
+    "id": 4047,
     "level": "critical",
     "country": "🌍",
     "text": "Enlevée en février, la mère de Savannah Guthrie serait décédée, selon une note d",
@@ -27,25 +36,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 2152,
-    "level": "high",
-    "country": "🌍",
-    "text": "Trump allies reassure Israelis amid tensions on US-Iran deal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 7100,
-    "level": "high",
-    "country": "🌍",
-    "text": "Alibaba sues US military over labelling it a ‘Chinese military company’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 2414,
+    "id": 2771,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2064,
+    "id": 6175,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7647,
+    "id": 2749,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1634,
+    "id": 7977,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4728,
+    "id": 9726,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 910,
+    "id": 1700,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4036,
+    "id": 5128,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6422,
+    "id": 9304,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8502,
+    "id": 7187,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8967,
+    "id": 6861,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7525,
+    "id": 4210,
     "level": "medium",
     "country": "🌍",
     "text": "Digital surveillance is breaking activist mental health",
@@ -144,7 +135,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 4856,
+    "id": 4625,
     "level": "medium",
     "country": "🌍",
     "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
@@ -153,7 +144,7 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 6858,
+    "id": 8154,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
@@ -162,7 +153,7 @@
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 3312,
+    "id": 8643,
     "level": "medium",
     "country": "🌍",
     "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
@@ -171,12 +162,21 @@
     "time": "Mon, 22 Jun 2026"
   },
   {
-    "id": 1177,
+    "id": 4385,
     "level": "medium",
     "country": "🌍",
     "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/19/planes-dont-fly-on-masculinity-why-society-views-women-in-transportation-as-an-anomaly/",
+    "time": "Fri, 19 Jun 2026"
+  },
+  {
+    "id": 1116,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s/",
     "time": "Fri, 19 Jun 2026"
   }
 ]
