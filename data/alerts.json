@@ -1,6 +1,33 @@
 [
   {
-    "id": 6002,
+    "id": 448,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-kill-2-in-southern-lebanon-despite-ongoing-washington-talks?traffic_source=rss",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 1655,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What The Elephant Knows | Ep 7 – Sri Lanka",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/making-peace/2026/6/24/what-the-elephant-knows-ep-7-sri?traffic_source=rss",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 6865,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 6747,
     "level": "critical",
     "country": "🌍",
     "text": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
@@ -9,16 +36,34 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 8659,
-    "level": "high",
+    "id": 2962,
+    "level": "critical",
     "country": "🌍",
-    "text": "Japan weighs deploying forces to demine the Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
+    "text": "L'épidémie d'Ebola \"est sérieuse\" mais \"pas hors de contrôle\", dit le chef de l'",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20260624-l-%C3%A9pid%C3%A9mie-d-ebola-est-s%C3%A9rieuse-mais-pas-hors-de-contr%C3%B4le-dit-le-chef-de-l-africa-cdc",
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 114,
+    "id": 8646,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Une cathédrale à Kiev incendiée : les pro-russes accusent l’Ukraine avec de faus",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260624-une-cath%C3%A9drale-%C3%A0-kiev-incendi%C3%A9e-les-pro-russes-accusent-l-ukraine-avec-de-fausses-preuves",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 847,
+    "level": "high",
+    "country": "🌍",
+    "text": "France : face à la canicule, l'Armée du salut lance l'opération \"Chaleur solidai",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-france-face-%C3%A0-la-canicule-l-arm%C3%A9e-du-salut-lance-op%C3%A9ration-chaleur-solidaire",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 7422,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -27,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1188,
+    "id": 9801,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -36,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6091,
+    "id": 8413,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -45,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5014,
+    "id": 8025,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -54,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1393,
+    "id": 3921,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -63,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8910,
+    "id": 4575,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1399,
+    "id": 5261,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9560,
+    "id": 7829,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5154,
+    "id": 2302,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 127,
+    "id": 4016,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -108,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6399,
+    "id": 5859,
     "level": "medium",
     "country": "🌍",
     "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
@@ -117,7 +162,7 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 2412,
+    "id": 8826,
     "level": "medium",
     "country": "🌍",
     "text": "Digital surveillance is breaking activist mental health",
@@ -126,57 +171,12 @@
     "time": "Tue, 23 Jun 2026"
   },
   {
-    "id": 3173,
+    "id": 1922,
     "level": "medium",
     "country": "🌍",
     "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/23/malaysian-government-replaces-the-term-lgbt-with-deviant-culture/",
     "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 7845,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/22/hong-kongs-lgbtq-communities-strike-to-survive/",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 1719,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 8692,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Planes don't fly on masculinity: Why society views women in transportation as an",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/19/planes-dont-fly-on-masculinity-why-society-views-women-in-transportation-as-an-anomaly/",
-    "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 411,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The case of Shakira Galíndez highlights a growing crisis for trans Venezuelan as",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/19/the-case-of-shakira-galindez-highlights-a-growing-crisis-for-trans-venezuelan-asylum-seekers-in-the-u-s/",
-    "time": "Fri, 19 Jun 2026"
-  },
-  {
-    "id": 7780,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can the Special Seats Bill deliver the gender parity Nigeria needs?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/18/can-the-special-seats-bill-deliver-the-gender-parity-nigeria-needs/",
-    "time": "Thu, 18 Jun 2026"
   }
 ]
