@@ -1,6 +1,6 @@
 [
   {
-    "id": 8006,
+    "id": 5017,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -9,7 +9,34 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 4020,
+    "id": 555,
+    "level": "critical",
+    "country": "🌍",
+    "text": "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 2053,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Oil prices back to pre-war levels on rising Middle East supply",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 9298,
+    "level": "critical",
+    "country": "🌍",
+    "text": "In pictures: Aftermath of twin earthquakes in Venezuela",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/6/25/in-pictures-aftermath-of-the-twin-earthquakes-in-venezuela?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 3698,
     "level": "critical",
     "country": "🌍",
     "text": "Iran warns against Hormuz crossings without authorisation",
@@ -18,7 +45,7 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 8355,
+    "id": 3329,
     "level": "critical",
     "country": "🌍",
     "text": "Magnitude 6.9 earthquake strikes northern Japan",
@@ -27,88 +54,34 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 9666,
+    "id": 181,
     "level": "critical",
     "country": "🌍",
-    "text": "Moments of panic as earthquakes strike Venezuela",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/moments-of-panic-as-earthquakes-strike-venezuela?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 1475,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 1929,
-    "level": "critical",
-    "country": "🌍",
-    "text": "ICC judges sue Trump over sanctions, call measures unlawful",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 2630,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘We hugged each other and ran’: Venezuelans recount earthquake horror",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/we-hugged-each-other-and-ran-venezuelans-recount-earthquake-horror?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 1365,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La canicule se poursuit en France, un enfant de trois ans retrouvé mort dans une",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260625-canicule-se-poursuit-france-enfant-mort-voiture-climat-record",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 5873,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Deux puissants séismes frappent le Venezuela et provoquent des dégâts considérab",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-deux-puissants-s%C3%A9ismes-frappent-le-venezuela-et-provoquent-des-d%C3%A9g%C3%A2ts-consid%C3%A9rables",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 459,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Séismes au Venezuela en direct : les États-Unis vont \"immédiatement\" déployer de",
+    "text": "🔴 Séismes au Venezuela en direct : au moins 164 morts et 1000 blessés, selon Del",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/am%C3%A9riques/20260625-en-direct-s%C3%A9isme-venezuela",
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 5265,
+    "id": 4851,
     "level": "critical",
     "country": "🌍",
-    "text": "En images : deux puissants séismes au Venezuela causent de graves dégâts",
+    "text": "Manifestations au Kenya : deux ans après, la peur d'un nouveau drame",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260625-images-venezuela-puissants-s%C3%A9ismes-d%C3%A9g%C3%A2ts",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-manifestations-au-kenya-deux-ans-apr%C3%A8s-la-peur-d-un-nouveau-drame",
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 4195,
+    "id": 4773,
     "level": "high",
     "country": "🌍",
-    "text": "Ukraine : Zelensky absent de la conférence sur la reconstruction en Pologne",
+    "text": "Emmanuel Macron reçoit la Première ministre italienne pour mettre en scène leur ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-ukraine-zelensky-absent-de-la-conf%C3%A9rence-sur-la-reconstruction-en-pologne",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-emmanuel-macron-re%C3%A7oit-la-premi%C3%A8re-ministre-italienne-pour-mettre-en-sc%C3%A8ne-leur-bonne-entente",
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 1065,
+    "id": 2466,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6577,
+    "id": 6878,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9683,
+    "id": 4537,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3392,
+    "id": 9820,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6052,
+    "id": 1178,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9369,
+    "id": 5035,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5757,
+    "id": 5400,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +144,39 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1209,
+    "id": 943,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 9070,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 7964,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 8014,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Japan’s turning point for LGBTQ+ rights",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/25/japans-turning-point-for-lgbtq-rights/",
+    "time": "Thu, 25 Jun 2026"
   }
 ]
