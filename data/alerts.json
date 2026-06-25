@@ -1,6 +1,6 @@
 [
   {
-    "id": 5017,
+    "id": 9139,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -9,7 +9,25 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 555,
+    "id": 3232,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Explosive Remnants of War – Lasting Harm in Deir Ez-Zor, Syria",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/syrian-arab-republic/explosive-remnants-war-lasting-harm-deir-ez-zor-syria",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 4105,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 9583,
     "level": "critical",
     "country": "🌍",
     "text": "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
@@ -18,43 +36,7 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 2053,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Oil prices back to pre-war levels on rising Middle East supply",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 9298,
-    "level": "critical",
-    "country": "🌍",
-    "text": "In pictures: Aftermath of twin earthquakes in Venezuela",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/6/25/in-pictures-aftermath-of-the-twin-earthquakes-in-venezuela?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 3698,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran warns against Hormuz crossings without authorisation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 3329,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Magnitude 6.9 earthquake strikes northern Japan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/magnitude-6-9-earthquake-strikes-northern-japan?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 181,
+    "id": 8900,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Séismes au Venezuela en direct : au moins 164 morts et 1000 blessés, selon Del",
@@ -63,25 +45,7 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 4851,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Manifestations au Kenya : deux ans après, la peur d'un nouveau drame",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-manifestations-au-kenya-deux-ans-apr%C3%A8s-la-peur-d-un-nouveau-drame",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 4773,
-    "level": "high",
-    "country": "🌍",
-    "text": "Emmanuel Macron reçoit la Première ministre italienne pour mettre en scène leur ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-emmanuel-macron-re%C3%A7oit-la-premi%C3%A8re-ministre-italienne-pour-mettre-en-sc%C3%A8ne-leur-bonne-entente",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 2466,
+    "id": 6078,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6878,
+    "id": 6190,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4537,
+    "id": 989,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9820,
+    "id": 1863,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1178,
+    "id": 7917,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5035,
+    "id": 708,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5400,
+    "id": 2139,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 943,
+    "id": 4247,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9070,
+    "id": 7277,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7964,
+    "id": 8028,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -171,12 +135,48 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8014,
+    "id": 6586,
     "level": "medium",
     "country": "🌍",
     "text": "Japan’s turning point for LGBTQ+ rights",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/25/japans-turning-point-for-lgbtq-rights/",
     "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 243,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/24/three-years-of-pride-santiago-mendez-visual-archive-of-queer-venezuela/",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 2297,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Digital surveillance is breaking activist mental health",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/",
+    "time": "Tue, 23 Jun 2026"
+  },
+  {
+    "id": 7212,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/23/malaysian-government-replaces-the-term-lgbt-with-deviant-culture/",
+    "time": "Tue, 23 Jun 2026"
+  },
+  {
+    "id": 9152,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/22/hong-kongs-lgbtq-communities-strike-to-survive/",
+    "time": "Mon, 22 Jun 2026"
   }
 ]
