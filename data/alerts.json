@@ -1,6 +1,6 @@
 [
   {
-    "id": 8697,
+    "id": 3153,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -9,7 +9,16 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 962,
+    "id": 3824,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuela earthquakes live: At least 188 dead as rescue efforts intensify",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-at-least-188-dead-as-rescue-efforts-intensify?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 9879,
     "level": "critical",
     "country": "🌍",
     "text": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
@@ -18,7 +27,7 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 1616,
+    "id": 3838,
     "level": "critical",
     "country": "🌍",
     "text": "Ashura ceremonies intertwine faith and support for state in Iran",
@@ -27,52 +36,16 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 6652,
+    "id": 9514,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 4146,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Kenya arrests more than 350 as people mark anniversary of deadly protests",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 9630,
-    "level": "critical",
-    "country": "🌍",
-    "text": "🔴 Séismes au Venezuela en direct : le bilan s'alourdit à 188 morts, Delcy Rodrig",
+    "text": "Kenya : hommage aux victimes de la répression des manifestations de juin 2024",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260625-en-direct-s%C3%A9isme-venezuela",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-kenya-hommage-aux-victimes-de-la-r%C3%A9pression-des-manifestations-de-juin-2024",
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 9429,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dans les prisons françaises, la canicule aggrave une \"catastrophe pénitentiaire\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260625-dans-les-prisons-fran%C3%A7aises-la-canicule-aggrave-une-catastrophe-p%C3%A9nitentiaire",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 3631,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Politique : Affaire Lyhanna, Marc Bloch au Panthéon et autonomie de la Corse",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/politique/20260625-politique-affaire-lyhanna-marc-bloch-au-panth%C3%A9on-et-autonomie-de-la-corse",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 4173,
+    "id": 9732,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5395,
+    "id": 761,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8177,
+    "id": 9434,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5301,
+    "id": 251,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1436,
+    "id": 3049,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4682,
+    "id": 8048,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2740,
+    "id": 8576,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 39,
+    "id": 1737,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3912,
+    "id": 4586,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6204,
+    "id": 2023,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -162,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8397,
+    "id": 4771,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti: Fleeing is not enough in Port-au-Prince and other major cities",
@@ -171,12 +144,39 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 1276,
+    "id": 8856,
     "level": "medium",
     "country": "🌍",
     "text": "Denied by the State, demanded by the streets: Japan's LGBTQ+ turning point",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/25/japans-turning-point-for-lgbtq-rights/",
     "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 428,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/24/three-years-of-pride-santiago-mendez-visual-archive-of-queer-venezuela/",
+    "time": "Wed, 24 Jun 2026"
+  },
+  {
+    "id": 2660,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Digital surveillance is breaking activist mental health",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/",
+    "time": "Tue, 23 Jun 2026"
+  },
+  {
+    "id": 1008,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/23/malaysian-government-replaces-the-term-lgbt-with-deviant-culture/",
+    "time": "Tue, 23 Jun 2026"
   }
 ]
