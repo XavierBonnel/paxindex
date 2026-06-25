@@ -1,6 +1,6 @@
 [
   {
-    "id": 7796,
+    "id": 305,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -9,7 +9,52 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 3782,
+    "id": 3532,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Togo - Key Message Update : Household livelihoods are strained as peak of lean s",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/togo/togo-key-message-update-household-livelihoods-are-strained-peak-lean-season-approaches-may-september-2026",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 5562,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Three Years Too Long: Analysis of Trends and the Devastating Human Rights Impact",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/three-years-too-long-analysis-trends-and-devastating-human-rights-impacts-conflict-related-sexual-violence-sudan-15-april-2023-15-april-2026",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 853,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Thousands feared dead as twin earthquakes cause devastation across Venezuel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 2731,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/iranians-mark-first-ashura-since-khameneis-killing-in-the-us-iran-war?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 3232,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Migrants left to endure deadly Paris heat with little shelter or aid",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/migrants-left-to-endure-deadly-paris-heat-with-little-shelter-or-aid?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 1139,
     "level": "critical",
     "country": "🌍",
     "text": "Russian opposition leader jailed over anti-war social media posts",
@@ -18,52 +63,25 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 6316,
+    "id": 7789,
     "level": "critical",
     "country": "🌍",
-    "text": "Two years on, Kenyan families still seek justice after Gen Z protests",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/two-years-on-kenyan-families-still-seek-justice-after-gen-z-protests?traffic_source=rss",
+    "text": "Des dizaines de morts au Venezuela après deux puissants séismes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260625-venezuela-caracas-deux-puissants-seismes-degats-victimes-bilan",
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 9231,
+    "id": 4903,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 6510,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 4708,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : la Maison Blanche demande 88 milliards, \"en grande partie\" pour la g",
+    "text": "En direct : la Maison Blanche demande 88 milliards, \"en grande partie\" pour la g",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260625-en-direct-moyen-orient-iran-etats-unis-donald-trump-liban-israel-ormuz-golfe",
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 2932,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Une conférence sur l'Ukraine s'ouvre à Gdansk, en Pologne, sans Volodymyr Zelens",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260624-une-conf%C3%A9rence-sur-l-ukraine-s-ouvre-%C3%A0-gdansk-en-pologne-sans-volodymyr-zelensky",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 8556,
+    "id": 2460,
     "level": "high",
     "country": "🌍",
     "text": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
@@ -72,7 +90,7 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 9576,
+    "id": 1401,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4539,
+    "id": 95,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3688,
+    "id": 9627,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4233,
+    "id": 582,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 986,
+    "id": 4639,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1814,
+    "id": 6382,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2067,
+    "id": 2897,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6298,
+    "id": 8977,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8010,
+    "id": 5537,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1071,
+    "id": 2116,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 1687,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/24/three-years-of-pride-santiago-mendez-visual-archive-of-queer-venezuela/",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 7599,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Digital surveillance is breaking activist mental health",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/",
-    "time": "Tue, 23 Jun 2026"
   }
 ]
