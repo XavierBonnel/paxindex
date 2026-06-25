@@ -1,6 +1,6 @@
 [
   {
-    "id": 7684,
+    "id": 1437,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -9,7 +9,34 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 8034,
+    "id": 5867,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran accuses NATO of ‘complicity’ in US war: What role did EU nations play?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 9126,
+    "level": "critical",
+    "country": "🌍",
+    "text": "IRGC warns against new Hormuz route for ships: What we know",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 9344,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Deconfliction and disarmament: Can both be pursued in Lebanon?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/25/deconfliction-and-disarmament-can-both-be-pursued-in-lebanon?traffic_source=rss",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 1200,
     "level": "critical",
     "country": "🌍",
     "text": "Iran, Israel and the Bomb",
@@ -18,25 +45,34 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 2251,
+    "id": 6892,
     "level": "critical",
     "country": "🌍",
-    "text": "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss",
+    "text": "Venezuela : plus gros séismes depuis 126 ans, l'aide internationale s'organise",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-venezuela-plus-gros-s%C3%A9ismes-depuis-126-ans-l-aide-internationale-s-organise",
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 3850,
+    "id": 8929,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Colombie : recruter sur TikTok, la nouvelle stratégie des groupes armés",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20260625-colombie-comment-les-groupes-armes-recrutent-les-jeunes-sur-tiktok",
+    "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 5173,
     "level": "high",
     "country": "🌍",
-    "text": "Venezuela quakes: How will sanctions impact aid operations?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-quakes-how-will-sanctions-impact-aid-operations?traffic_source=rss",
+    "text": "Conférence sur l'Ukraine : après les tensions, Kiev et Varsovie jouent l'apaisem",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260625-conf%C3%A9rence-sur-l-ukraine-apr%C3%A8s-les-tensions-kiev-et-varsovie-jouent-l-apaisement",
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 8343,
+    "id": 1074,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2903,
+    "id": 9746,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -54,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4637,
+    "id": 5267,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -63,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6847,
+    "id": 3362,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -72,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8583,
+    "id": 9514,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2062,
+    "id": 432,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2297,
+    "id": 4532,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2361,
+    "id": 8674,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1348,
+    "id": 2001,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7378,
+    "id": 6111,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -126,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6481,
+    "id": 91,
     "level": "medium",
     "country": "🌍",
     "text": "Japan’s turning point for LGBTQ+ rights",
@@ -135,48 +171,12 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 7563,
+    "id": 7321,
     "level": "medium",
     "country": "🌍",
     "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/24/three-years-of-pride-santiago-mendez-visual-archive-of-queer-venezuela/",
     "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 4847,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Digital surveillance is breaking activist mental health",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 2188,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/23/malaysian-government-replaces-the-term-lgbt-with-deviant-culture/",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 1832,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/22/hong-kongs-lgbtq-communities-strike-to-survive/",
-    "time": "Mon, 22 Jun 2026"
-  },
-  {
-    "id": 9775,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Brazil’s former First Lady juggles Christian conservatism, cracks open the far r",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/22/brazils-former-first-lady-juggles-christian-conservatism-cracks-open-the-far-rights-gender-contradictions/",
-    "time": "Mon, 22 Jun 2026"
   }
 ]
