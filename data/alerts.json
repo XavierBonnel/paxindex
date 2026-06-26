@@ -1,6 +1,6 @@
 [
   {
-    "id": 708,
+    "id": 6984,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -9,43 +9,34 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 4274,
+    "id": 9201,
     "level": "critical",
     "country": "🌍",
-    "text": "Thousands of children at risk after powerful earthquakes strike Venezuela",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/venezuela-bolivarian-republic/thousands-children-risk-after-powerful-earthquakes-strike-venezuela",
+    "text": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 1451,
+    "id": 1769,
     "level": "critical",
     "country": "🌍",
-    "text": "Preaching, coercion, and sectarianism: How the Islamic State is building a stron",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/mozambique/preaching-coercion-and-sectarianism-how-islamic-state-building-stronghold-mozambique",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 1300,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+    "text": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 8242,
+    "id": 6904,
     "level": "critical",
     "country": "🌍",
-    "text": "Venezuela earthquakes live: At least 188 dead as rescue efforts intensify",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-at-least-188-dead-as-rescue-efforts-intensify?traffic_source=rss",
-    "time": "Thu, 25 Jun 2026"
+    "text": "Séismes au Venezuela en direct : au moins 235 morts, la recherche effrénée des d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260626-en-direct-seismes-venezuela-bilan-morts-recherche-disparus-aide-humanitaire",
+    "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 2245,
+    "id": 7858,
     "level": "critical",
     "country": "🌍",
     "text": "Kenya : hommage aux victimes de la répression des manifestations de juin 2024",
@@ -54,7 +45,16 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 2879,
+    "id": 3571,
+    "level": "high",
+    "country": "🌍",
+    "text": "Mondial 2026 : les Ivoiriens en joie à Philadelphie après la qualification histo",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260626-mondial-2026-les-ivoiriens-en-joie-%C3%A0-philadelphie-apr%C3%A8s-la-qualification-historique-des-%C3%A9l%C3%A9phants",
+    "time": "Fri, 26 Jun 2026"
+  },
+  {
+    "id": 3836,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6512,
+    "id": 1460,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7938,
+    "id": 4798,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4008,
+    "id": 8701,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5256,
+    "id": 9735,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4200,
+    "id": 9488,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6563,
+    "id": 4908,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3142,
+    "id": 9073,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 828,
+    "id": 4823,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1011,
+    "id": 7983,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +144,16 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9314,
+    "id": 2189,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The lakes that should not exist in Pakistan’s mountain ranges",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/26/the-lakes-that-should-not-exist-in-pakistans-mountain-ranges/",
+    "time": "Fri, 26 Jun 2026"
+  },
+  {
+    "id": 9913,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti: Fleeing is not enough in Port-au-Prince and other major cities",
@@ -153,7 +162,7 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 592,
+    "id": 7548,
     "level": "medium",
     "country": "🌍",
     "text": "Denied by the State, demanded by the streets: Japan's LGBTQ+ turning point",
@@ -162,21 +171,12 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 5288,
+    "id": 1922,
     "level": "medium",
     "country": "🌍",
     "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/24/three-years-of-pride-santiago-mendez-visual-archive-of-queer-venezuela/",
     "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 7378,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Digital surveillance is breaking activist mental health",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/",
-    "time": "Tue, 23 Jun 2026"
   }
 ]
