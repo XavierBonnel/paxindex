@@ -1,6 +1,6 @@
 [
   {
-    "id": 9291,
+    "id": 8025,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 3784,
+    "id": 4799,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,16 +18,43 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 9972,
+    "id": 6303,
     "level": "critical",
     "country": "🌍",
-    "text": "US strikes on Iran test fragile ceasefire",
+    "text": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 4374,
+    "id": 9366,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Belgium reach World Cup knockouts as New Zealand exit tournament",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 5449,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 9944,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : comment Volodymyr Zelensky peut-il évoquer une fin du conflit dans 40 ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260627-ukraine-russie-volodymyr-zelensky-sbu-fin-du-conflit-dans-40-jours-communication-guerre",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 4306,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -36,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3455,
+    "id": 4094,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -45,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3086,
+    "id": 3256,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -54,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2074,
+    "id": 2946,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -63,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1613,
+    "id": 8812,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1059,
+    "id": 2118,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6159,
+    "id": 118,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7431,
+    "id": 2305,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -99,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3569,
+    "id": 4827,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -108,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8157,
+    "id": 651,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -117,7 +144,16 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2829,
+    "id": 5898,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When surveillance becomes part of the landscape",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/27/when-surveillance-becomes-part-of-the-landscape/",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 1573,
     "level": "medium",
     "country": "🌍",
     "text": "The lakes that should not exist in Pakistan’s mountain ranges",
@@ -126,7 +162,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 512,
+    "id": 1190,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti: Fleeing is not enough in Port-au-Prince and other major cities",
@@ -135,48 +171,12 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 2608,
+    "id": 1421,
     "level": "medium",
     "country": "🌍",
     "text": "Denied by the State, demanded by the streets: Japan's LGBTQ+ turning point",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/25/japans-turning-point-for-lgbtq-rights/",
     "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 3285,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/24/three-years-of-pride-santiago-mendez-visual-archive-of-queer-venezuela/",
-    "time": "Wed, 24 Jun 2026"
-  },
-  {
-    "id": 3835,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Digital surveillance is breaking activist mental health",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/23/digital-surveillance-is-breaking-activist-mental-health/",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 5017,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Malaysian government replaces the term ‘LGBT’ with ‘deviant culture’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/23/malaysian-government-replaces-the-term-lgbt-with-deviant-culture/",
-    "time": "Tue, 23 Jun 2026"
-  },
-  {
-    "id": 4466,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hong Kong’s LGBTQ+ communities struggle to survive amid shrinking civic spaces",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/22/hong-kongs-lgbtq-communities-strike-to-survive/",
-    "time": "Mon, 22 Jun 2026"
   }
 ]
