@@ -1,6 +1,6 @@
 [
   {
-    "id": 8122,
+    "id": 8277,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 6362,
+    "id": 2162,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,25 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 2094,
+    "id": 9725,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 8779,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Kenya rights groups say protesters found dumped, tortured after arrests",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 6195,
     "level": "critical",
     "country": "🌍",
     "text": "Three security personnel killed in attack in Pakistan’s Karachi",
@@ -27,7 +45,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 6902,
+    "id": 1377,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli drone attack kills young girl in Gaza ‘safe zone’",
@@ -36,16 +54,16 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 1192,
+    "id": 3014,
     "level": "critical",
     "country": "🌍",
-    "text": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
+    "text": "Vague de chaleur, négociations au Moyen-Orient, guerre au Soudan et démission de",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260627-vague-de-chaleur-n%C3%A9gociations-au-moyen-orient-guerre-au-soudan-et-d%C3%A9mission-de-keir-starmer",
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 320,
+    "id": 2693,
     "level": "critical",
     "country": "🌍",
     "text": "Venezuela : le bilan des deux séismes dépasse les 1 400 morts, selon les autorit",
@@ -54,7 +72,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 3627,
+    "id": 7854,
     "level": "critical",
     "country": "🌍",
     "text": "Iran-États-Unis : Téhéran dénonce \"une violation flagrante\" de l'accord",
@@ -63,16 +81,16 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 9388,
-    "level": "critical",
+    "id": 7993,
+    "level": "high",
     "country": "🌍",
-    "text": "Séismes au Venezuela : plus de 1400 morts, sept millions de personnes potentiell",
+    "text": "Le ministre israélien de la Défense averti que l'armée va rester au Liban, malgr",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260627-venezuela-pr%C3%A8s-de-7-millions-de-personnes-pourraient-%C3%AAtre-affect%C3%A9es-par-les-deux-s%C3%A9ismes",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260627-le-ministre-isra%C3%A9lien-de-la-d%C3%A9fense-averti-que-l-arm%C3%A9e-va-rester-au-liban-malgr%C3%A9-l-accord-cadre",
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 1267,
+    "id": 1150,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6553,
+    "id": 1783,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1426,
+    "id": 8147,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7645,
+    "id": 3113,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2410,
+    "id": 2651,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8299,
+    "id": 4017,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 883,
+    "id": 8314,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6672,
+    "id": 1125,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4127,
+    "id": 990,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1909,
+    "id": 3682,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 8291,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Haiti’s ‘Grenadiers’ bring hope and joyful moments at World Cup 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/haitis-grenadiers-bring-hope-and-joyful-moments-at-world-cup-2026/",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 8542,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When surveillance becomes part of the landscape",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/when-surveillance-becomes-part-of-the-landscape/",
-    "time": "Sat, 27 Jun 2026"
   }
 ]
