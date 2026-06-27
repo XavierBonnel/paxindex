@@ -1,6 +1,6 @@
 [
   {
-    "id": 8025,
+    "id": 1695,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 4799,
+    "id": 706,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,25 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 6303,
+    "id": 2071,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 298,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuelans dig for earthquake survivors as 72-hour rescue window nears end",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 4791,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
@@ -27,34 +45,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 9366,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Belgium reach World Cup knockouts as New Zealand exit tournament",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/belgium-new-zealand-fifa-world-cup-2026-trossard-lukaku-de-bruyne-saelemaekers?traffic_source=rss",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 5449,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 9944,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : comment Volodymyr Zelensky peut-il évoquer une fin du conflit dans 40 ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260627-ukraine-russie-volodymyr-zelensky-sbu-fin-du-conflit-dans-40-jours-communication-guerre",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 4306,
+    "id": 2152,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4094,
+    "id": 2468,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3256,
+    "id": 1513,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2946,
+    "id": 5658,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8812,
+    "id": 1665,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2118,
+    "id": 9132,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 118,
+    "id": 7577,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2305,
+    "id": 5291,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4827,
+    "id": 2369,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 651,
+    "id": 2137,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5898,
+    "id": 354,
     "level": "medium",
     "country": "🌍",
     "text": "When surveillance becomes part of the landscape",
@@ -153,7 +144,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 1573,
+    "id": 2131,
     "level": "medium",
     "country": "🌍",
     "text": "The lakes that should not exist in Pakistan’s mountain ranges",
@@ -162,7 +153,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 1190,
+    "id": 1718,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti: Fleeing is not enough in Port-au-Prince and other major cities",
@@ -171,12 +162,21 @@
     "time": "Thu, 25 Jun 2026"
   },
   {
-    "id": 1421,
+    "id": 798,
     "level": "medium",
     "country": "🌍",
     "text": "Denied by the State, demanded by the streets: Japan's LGBTQ+ turning point",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/25/japans-turning-point-for-lgbtq-rights/",
     "time": "Thu, 25 Jun 2026"
+  },
+  {
+    "id": 6616,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/24/three-years-of-pride-santiago-mendez-visual-archive-of-queer-venezuela/",
+    "time": "Wed, 24 Jun 2026"
   }
 ]
