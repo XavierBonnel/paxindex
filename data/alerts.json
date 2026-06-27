@@ -1,6 +1,6 @@
 [
   {
-    "id": 8277,
+    "id": 4416,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 2162,
+    "id": 1612,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,16 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 9725,
+    "id": 6406,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why is Crimea critical to the Russia–Ukraine war?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 2901,
     "level": "critical",
     "country": "🌍",
     "text": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
@@ -27,7 +36,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 8779,
+    "id": 5361,
     "level": "critical",
     "country": "🌍",
     "text": "Kenya rights groups say protesters found dumped, tortured after arrests",
@@ -36,25 +45,16 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 6195,
+    "id": 1916,
     "level": "critical",
     "country": "🌍",
-    "text": "Three security personnel killed in attack in Pakistan’s Karachi",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi?traffic_source=rss",
+    "text": "Lucile Grosjean: \"cette guerre au Soudan, c'est aussi une guerre contre les enfa",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260627-lucile-grosjean-cette-guerre-au-soudan-c-est-aussi-une-guerre-contre-les-enfants",
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 1377,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli drone attack kills young girl in Gaza ‘safe zone’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 3014,
+    "id": 8994,
     "level": "critical",
     "country": "🌍",
     "text": "Vague de chaleur, négociations au Moyen-Orient, guerre au Soudan et démission de",
@@ -63,7 +63,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 2693,
+    "id": 1414,
     "level": "critical",
     "country": "🌍",
     "text": "Venezuela : le bilan des deux séismes dépasse les 1 400 morts, selon les autorit",
@@ -72,7 +72,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 7854,
+    "id": 6771,
     "level": "critical",
     "country": "🌍",
     "text": "Iran-États-Unis : Téhéran dénonce \"une violation flagrante\" de l'accord",
@@ -81,7 +81,16 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 7993,
+    "id": 6304,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israel orders troops to prepare for ‘extended stay’ in Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/israel-orders-troops-to-prepare-for-extended-stay-in-lebanon?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 5656,
     "level": "high",
     "country": "🌍",
     "text": "Le ministre israélien de la Défense averti que l'armée va rester au Liban, malgr",
@@ -90,7 +99,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 1150,
+    "id": 9874,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1783,
+    "id": 4880,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8147,
+    "id": 989,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3113,
+    "id": 2702,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2651,
+    "id": 608,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4017,
+    "id": 494,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8314,
+    "id": 9652,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1125,
+    "id": 6528,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,21 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 990,
+    "id": 4955,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 3682,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
