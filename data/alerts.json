@@ -1,6 +1,6 @@
 [
   {
-    "id": 3150,
+    "id": 5995,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 7919,
+    "id": 8015,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,7 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 5405,
+    "id": 4300,
     "level": "critical",
     "country": "🌍",
     "text": "Three killed as Ukraine and Russia trade attacks overnight",
@@ -27,25 +27,16 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 9824,
+    "id": 9521,
     "level": "critical",
     "country": "🌍",
-    "text": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+    "text": "Venezuela : près de 7 millions de personnes pourraient être affectées par les de",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260627-venezuela-pr%C3%A8s-de-7-millions-de-personnes-pourraient-%C3%AAtre-affect%C3%A9es-par-les-deux-s%C3%A9ismes",
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 9160,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Venezuelans dig for earthquake survivors as 72-hour rescue window nears end",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end?traffic_source=rss",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 3299,
+    "id": 6437,
     "level": "critical",
     "country": "🌍",
     "text": "Des échanges de frappes entre l'Ukraine et la Russie font cinq morts et des diza",
@@ -54,16 +45,25 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 5304,
+    "id": 0,
     "level": "high",
     "country": "🌍",
-    "text": "Des images inédites révèlent comment la Russie recycle en Afrique les drones du ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260627-des-images-in%C3%A9dites-r%C3%A9v%C3%A8lent-comment-la-russie-recycle-en-afrique-les-drones-du-front-ukrainien",
+    "text": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 6566,
+    "id": 8254,
+    "level": "high",
+    "country": "🌍",
+    "text": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 4847,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5013,
+    "id": 9048,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9132,
+    "id": 1569,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6462,
+    "id": 4752,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5701,
+    "id": 2084,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3517,
+    "id": 536,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4280,
+    "id": 4191,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1430,
+    "id": 8734,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4411,
+    "id": 8321,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5680,
+    "id": 8584,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3934,
+    "id": 939,
     "level": "medium",
     "country": "🌍",
     "text": "When surveillance becomes part of the landscape",
@@ -162,7 +162,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 7463,
+    "id": 5147,
     "level": "medium",
     "country": "🌍",
     "text": "The lakes that should not exist in Pakistan’s mountain ranges",
@@ -171,7 +171,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 6326,
+    "id": 2841,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti: Fleeing is not enough in Port-au-Prince and other major cities",
