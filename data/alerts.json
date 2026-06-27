@@ -1,6 +1,6 @@
 [
   {
-    "id": 9778,
+    "id": 5131,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 5287,
+    "id": 8585,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,16 +18,34 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 3044,
+    "id": 5321,
     "level": "critical",
     "country": "🌍",
-    "text": "4.9 earthquake detected in Venezuela just days after major quakes",
+    "text": "Trump justifies strikes on Iran amid ceasefire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 7021,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 5126,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss",
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 710,
+    "id": 5482,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : les États-Unis frappent des cibles en Iran en réponse à l'attaque d'",
@@ -36,16 +54,16 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 710,
+    "id": 1092,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : les États-Unis frappent des cibles en Iran en réponse à l'attaque d'",
+    "text": "En direct : les États-Unis annoncent des frappes contre l'Iran, qui dit avoir ré",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260626-en-direct-moyen-orient-iran-etats-unis-frappes-attaques-navire-detroit-dormuz",
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 6008,
+    "id": 4136,
     "level": "critical",
     "country": "🌍",
     "text": "Washington sanctionne le Rwanda accusé de faire de la contrebande d'or",
@@ -54,7 +72,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 2850,
+    "id": 9650,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9212,
+    "id": 1602,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3101,
+    "id": 4677,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8284,
+    "id": 1380,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2248,
+    "id": 342,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2764,
+    "id": 995,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8665,
+    "id": 2729,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 753,
+    "id": 4897,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4160,
+    "id": 3569,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5538,
+    "id": 4847,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2678,
+    "id": 7014,
     "level": "medium",
     "country": "🌍",
     "text": "The lakes that should not exist in Pakistan’s mountain ranges",
@@ -153,30 +171,12 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 8884,
+    "id": 3163,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti: Fleeing is not enough in Port-au-Prince and other major cities",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/25/haiti-fleeing-is-not-enough-in-port-au-prince-and-other-major-cities/",
     "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 8600,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Denied by the State, demanded by the streets: Japan's LGBTQ+ turning point",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/25/japans-turning-point-for-lgbtq-rights/",
-    "time": "Thu, 25 Jun 2026"
-  },
-  {
-    "id": 2779,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Three years of Pride: Santiago Méndez’s visual archive of queer Venezuela",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/24/three-years-of-pride-santiago-mendez-visual-archive-of-queer-venezuela/",
-    "time": "Wed, 24 Jun 2026"
   }
 ]
