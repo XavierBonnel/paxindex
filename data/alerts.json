@@ -1,6 +1,6 @@
 [
   {
-    "id": 2376,
+    "id": 6555,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 5245,
+    "id": 5876,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,25 +18,34 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 6795,
+    "id": 2531,
     "level": "critical",
     "country": "🌍",
-    "text": "Three killed as Ukraine and Russia trade attacks overnight",
+    "text": "Israeli drone attack kills young girl in Gaza safe zone",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 7894,
+    "id": 583,
     "level": "critical",
     "country": "🌍",
-    "text": "Moyen-Orient : l'armée américaine frappe en Iran, qui dit avoir riposté",
+    "text": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south?traffic_source=rss",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 8981,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran-États-Unis : Téhéran dénonce \"une violation flagrante\" de l'accord",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/vid%C3%A9o/20260627-moyen-orient-l-arm%C3%A9e-am%C3%A9ricaine-frappe-en-iran-qui-dit-avoir-ripost%C3%A9",
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 3859,
+    "id": 6194,
     "level": "critical",
     "country": "🌍",
     "text": "Venezuela : près de 7 millions de personnes pourraient être affectées par les de",
@@ -45,7 +54,16 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 1969,
+    "id": 192,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La canicule place les hôpitaux sous tension extrême",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260627-la-canicule-place-les-h%C3%B4pitaux-sous-tension-extr%C3%AAme",
+    "time": "Sat, 27 Jun 2026"
+  },
+  {
+    "id": 2431,
     "level": "high",
     "country": "🌍",
     "text": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
@@ -54,16 +72,7 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 8095,
-    "level": "high",
-    "country": "🌍",
-    "text": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/27/pick-up-the-phone-irgc-appears-to-rebuff-us-strait-of-hormuz-hotline?traffic_source=rss",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 2516,
+    "id": 8195,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7258,
+    "id": 7885,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4821,
+    "id": 8055,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 862,
+    "id": 6683,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9183,
+    "id": 1109,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7734,
+    "id": 4096,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4131,
+    "id": 2258,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4430,
+    "id": 9142,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5648,
+    "id": 6358,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7525,
+    "id": 1729,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6540,
+    "id": 1696,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti’s ‘Grenadiers’ bring hope and joyful moments at World Cup 2026",
@@ -162,21 +171,12 @@
     "time": "Sat, 27 Jun 2026"
   },
   {
-    "id": 3335,
+    "id": 607,
     "level": "medium",
     "country": "🌍",
     "text": "When surveillance becomes part of the landscape",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/27/when-surveillance-becomes-part-of-the-landscape/",
     "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 8325,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The lakes that should not exist in Pakistan’s mountain ranges",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/26/the-lakes-that-should-not-exist-in-pakistans-mountain-ranges/",
-    "time": "Fri, 26 Jun 2026"
   }
 ]
