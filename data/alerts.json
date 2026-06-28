@@ -1,6 +1,6 @@
 [
   {
-    "id": 5292,
+    "id": 1367,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 3638,
+    "id": 1068,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,25 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 846,
+    "id": 657,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran attacks Kuwait and Bahrain in response to US strikes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
+    "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 2987,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
+    "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 54,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
@@ -27,43 +45,43 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 7253,
+    "id": 4246,
     "level": "critical",
     "country": "🌍",
-    "text": "Gulf countries attacked after US launches second round of strikes on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
+    "text": "Venezuela : 72 heures après les séismes meurtriers, la quête de survivants conti",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260628-venezuela-72-heures-apr%C3%A8s-les-s%C3%A9ismes-meurtriers-la-qu%C3%AAte-de-survivants-continue",
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 4933,
+    "id": 2538,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : le Golfe une nouvelle fois visé par des attaques iraniennes",
+    "text": "L'Iran cible le Koweït et Bahreïn après des frappes américaines sur son sol",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260628-l-iran-cible-le-kowe%C3%AFt-et-bahre%C3%AFn-apr%C3%A8s-des-frappes-am%C3%A9ricaines-sur-son-sol",
+    "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 2400,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuela : la quête éperdue de survivants trois jours après les séismes meurtri",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260628-venezuela-la-recherche-eperdue-de-survivants-trois-jours-apres-les-s%C3%A9ismes-meurtriers",
+    "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 2043,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : l'Iran cible le Koweït et Bahreïn après des frappes américaines sur ",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260628-en-direct-nouvel-%C3%A9change-de-frappes-entre-les-%C3%A9tats-unis-et-l-iran",
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 8470,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nouvelles frappes des États-Unis contre l'Iran, qui réplique en visant le Koweït",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260628-moyen-orient-nouvelles-frappes-etats-unis-iran-replique-koweit-bahre%C3%AFn-donald-trump",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 8470,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nouvelles frappes des États-Unis contre l'Iran, qui réplique en visant le Koweït",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260628-moyen-orient-nouvelles-frappes-etats-unis-iran-replique-koweit-bahre%C3%AFn-donald-trump",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 5954,
+    "id": 2021,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3495,
+    "id": 3112,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6422,
+    "id": 6017,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6146,
+    "id": 7454,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8649,
+    "id": 9795,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7458,
+    "id": 2898,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7772,
+    "id": 2860,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 538,
+    "id": 8459,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 447,
+    "id": 5018,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5198,
+    "id": 1300,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,30 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5064,
+    "id": 8998,
     "level": "medium",
     "country": "🌍",
-    "text": "Haiti’s ‘Grenadiers’ bring hope and joyful moments at World Cup 2026",
+    "text": "How Europe ships its waste to Morocco and calls it ‘recycling’",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/haitis-grenadiers-bring-hope-and-joyful-moments-at-world-cup-2026/",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 6526,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When surveillance becomes part of the landscape",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/when-surveillance-becomes-part-of-the-landscape/",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 9484,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The lakes that should not exist in Pakistan’s mountain ranges",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/26/the-lakes-that-should-not-exist-in-pakistans-mountain-ranges/",
-    "time": "Fri, 26 Jun 2026"
+    "link": "https://globalvoices.org/2026/06/28/how-europe-ships-its-waste-to-morocco-and-calls-it-recycling/",
+    "time": "Sun, 28 Jun 2026"
   }
 ]
