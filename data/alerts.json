@@ -1,6 +1,6 @@
 [
   {
-    "id": 9620,
+    "id": 6046,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 8421,
+    "id": 8526,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,7 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 8216,
+    "id": 6336,
     "level": "critical",
     "country": "🌍",
     "text": "‘US trying to find its way out of MoU with Iran’",
@@ -27,7 +27,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 880,
+    "id": 3656,
     "level": "critical",
     "country": "🌍",
     "text": "Iran attacks Kuwait and Bahrain in response to US strikes",
@@ -36,7 +36,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 5480,
+    "id": 1226,
     "level": "critical",
     "country": "🌍",
     "text": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
@@ -45,7 +45,16 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 2056,
+    "id": 9517,
+    "level": "critical",
+    "country": "🌍",
+    "text": "États-Unis et Iran poursuivent leurs bombardements et s'accusent mutuellement",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260628-%C3%A9tats-unis-et-iran-poursuivent-leurs-bombardements-et-s-accusent-mutuellement",
+    "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 161,
     "level": "critical",
     "country": "🌍",
     "text": "Canicule : les craintes se confirment sur de nombreux décès en France",
@@ -54,34 +63,16 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 408,
-    "level": "critical",
+    "id": 8188,
+    "level": "high",
     "country": "🌍",
-    "text": "Venezuela : 72 heures après les séismes meurtriers, la quête de survivants conti",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260628-venezuela-72-heures-apr%C3%A8s-les-s%C3%A9ismes-meurtriers-la-qu%C3%AAte-de-survivants-continue",
+    "text": "Uganda’s military chief orders shutdown of two media outlets",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/28/ugandas-military-chief-orders-shutdown-of-two-media-outlets?traffic_source=rss",
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 2275,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'Iran cible le Koweït et Bahreïn après des frappes américaines sur son sol",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260628-l-iran-cible-le-kowe%C3%AFt-et-bahre%C3%AFn-apr%C3%A8s-des-frappes-am%C3%A9ricaines-sur-son-sol",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 6096,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Venezuela : la quête éperdue de survivants trois jours après les séismes meurtri",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260628-venezuela-la-recherche-eperdue-de-survivants-trois-jours-apres-les-s%C3%A9ismes-meurtriers",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 4676,
+    "id": 6107,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3817,
+    "id": 7662,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1517,
+    "id": 5634,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5720,
+    "id": 9328,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5599,
+    "id": 6829,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7752,
+    "id": 3799,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7600,
+    "id": 3670,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6398,
+    "id": 892,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8792,
+    "id": 8582,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7063,
+    "id": 3147,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -171,12 +162,21 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2943,
+    "id": 4419,
     "level": "medium",
     "country": "🌍",
     "text": "How Europe ships its waste to Morocco and calls it ‘recycling’",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/28/how-europe-ships-its-waste-to-morocco-and-calls-it-recycling/",
     "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 120,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Haiti’s ‘Grenadiers’ bring hope and joyful moments at World Cup 2026",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/27/haitis-grenadiers-bring-hope-and-joyful-moments-at-world-cup-2026/",
+    "time": "Sat, 27 Jun 2026"
   }
 ]
