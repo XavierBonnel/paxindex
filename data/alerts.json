@@ -1,6 +1,6 @@
 [
   {
-    "id": 8965,
+    "id": 6323,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 3727,
+    "id": 8841,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,25 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 6805,
+    "id": 4640,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/pope-leo-prays-for-venezuelas-recovery-after-deadly-quakes?traffic_source=rss",
+    "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 8520,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel kills four Palestinians in Gaza as attacks on tents continue",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
+    "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 7061,
     "level": "critical",
     "country": "🌍",
     "text": "Can the ICJ help end the war in the eastern DRC?",
@@ -27,7 +45,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 2000,
+    "id": 3314,
     "level": "critical",
     "country": "🌍",
     "text": "US and Iran trade strikes days after peace agreement",
@@ -36,25 +54,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 8232,
-    "level": "critical",
-    "country": "🌍",
-    "text": "In Lebanon, framework agreement signed with Israel spurs protest, criticism",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/6/28/in-lebanon-framework-agreement-signed-with-israel-spurs-protest-criticism?traffic_source=rss",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 8664,
-    "level": "critical",
-    "country": "🌍",
-    "text": "The aftermath of Venezuela’s deadly earthquake",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/the-aftermath-of-venezuelas-deadly-earthquake?traffic_source=rss",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 8142,
+    "id": 8627,
     "level": "critical",
     "country": "🌍",
     "text": "France : onze personnes décèdent lors d'un accident d'avion près de Nancy",
@@ -63,7 +63,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 5958,
+    "id": 4223,
     "level": "critical",
     "country": "🌍",
     "text": "Poutine évoque une \"période difficile\", promet d'\"assurer\" la sécurité de la Rus",
@@ -72,7 +72,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 8343,
+    "id": 6098,
     "level": "critical",
     "country": "🌍",
     "text": "Venezuela : des secouristes argentins arrivent en renforts",
@@ -81,16 +81,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 7679,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Frappes Iran - États-Unis : les deux pays cherchent-ils à gagner du temps ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260628-iran-%C3%A9tats-unis-les-frappes-se-poursuivent",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 913,
+    "id": 1003,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7887,
+    "id": 891,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3510,
+    "id": 7054,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3218,
+    "id": 5564,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8444,
+    "id": 840,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2427,
+    "id": 3039,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2222,
+    "id": 331,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5633,
+    "id": 9564,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4927,
+    "id": 6826,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5906,
+    "id": 7869,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 1117,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/28/fortress-europe-the-new-pact-on-migration-and-asylum-will-further-deteriorate-chances-for-lgbtq-refugees/",
+    "time": "Sun, 28 Jun 2026"
   }
 ]
