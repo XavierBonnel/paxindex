@@ -1,6 +1,6 @@
 [
   {
-    "id": 9085,
+    "id": 8793,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 1120,
+    "id": 1236,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,34 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 898,
+    "id": 1335,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuela earthquake rescues: Five heart-warming moments",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/29/venezuela-earthquake-rescues-five-heart-warming-moments?traffic_source=rss",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 642,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attack in Gaza kills three, including a child",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child?traffic_source=rss",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 4411,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nigerians return home after fleeing xenophobic attacks in South Africa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/nigerians-return-home-after-fleeing-xenophobic-attacks-in-south-africa?traffic_source=rss",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 6994,
     "level": "critical",
     "country": "🌍",
     "text": "‘Tit-for-tat US-Iran attacks appear to be over’",
@@ -27,7 +54,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 7315,
+    "id": 5160,
     "level": "critical",
     "country": "🌍",
     "text": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
@@ -36,7 +63,34 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 3865,
+    "id": 9994,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au moins cinq morts dans une fusillade à Stade, dans le nord de l'Allemagne, sel",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260629-allemagne-plusieurs-morts-dans-une-fusillade-%C3%A0-stade-dans-le-nord-du-pays",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 2688,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Allemagne : plusieurs morts dans une fusillade à Stade, dans le nord du pays",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260629-allemagne-plusieurs-morts-dans-une-fusillade-%C3%A0-stade-dans-le-nord-du-pays",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 5280,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La canicule qui peut tout changer ? Parlons-en avec Selma Huart et Philippe Drob",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260629-la-canicule-qui-peut-tout-changer-parlons-en-avec-selma-huart-et-philippe-drobinski",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 1194,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes israéliennes au Liban, le Hezbollah se réserve le droit de rép",
@@ -45,61 +99,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 2337,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le Pakistan dit avoir mené de nouvelles frappes dans l'est de l'Afghanistan",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260629-le-pakistan-dit-avoir-men%C3%A9-de-nouvelles-frappes-dans-l-est-de-l-afghanistan",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 2149,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient : les États-Unis et l'Iran cessent les hostilités \"pour l",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260629-guerre-au-moyen-orient-les-%C3%A9tats-unis-et-l-iran-cessent-les-hostilit%C3%A9s-pour-le-moment",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 2950,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canicule : des records de chaleur enregistrés en Europe",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260629-canicule-des-records-de-chaleur-enregistr%C3%A9s-en-europe",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 7521,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Wimbledon : les joueurs réclament une plus grande part du gâteau",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260629-wimbledon-les-joueurs-r%C3%A9clament-une-plus-grande-part-du-g%C3%A2teau",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 1025,
-    "level": "high",
-    "country": "🌍",
-    "text": "Australia and Vanuatu sign deal to block foreign military bases",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 9799,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israel triggers huge explosion in southern Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 9579,
+    "id": 4407,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4486,
+    "id": 9728,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5738,
+    "id": 1108,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8343,
+    "id": 2179,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4555,
+    "id": 5735,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2400,
+    "id": 646,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3078,
+    "id": 8602,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1128,
+    "id": 1401,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,7 +171,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9007,
+    "id": 6982,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
