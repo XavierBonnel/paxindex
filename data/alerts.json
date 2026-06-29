@@ -1,6 +1,6 @@
 [
   {
-    "id": 3640,
+    "id": 6449,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 8535,
+    "id": 161,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,16 +18,25 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 2387,
+    "id": 6410,
     "level": "critical",
     "country": "🌍",
-    "text": "Supporting Women’s Economic Recovery in Conflict-Affected Ethiopia",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/ethiopia/supporting-womens-economic-recovery-conflict-affected-ethiopia",
+    "text": "Skydiving plane crash kills 11 in northeastern France",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_skydiving-plane-crash-kills-11-in-france-290626?traffic_source=rss",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 6404,
+    "id": 5417,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 4153,
     "level": "critical",
     "country": "🌍",
     "text": "Putin says Ukraine proposed halt to deep strikes",
@@ -36,7 +45,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 1059,
+    "id": 5536,
     "level": "critical",
     "country": "🌍",
     "text": "Pakistan says its security forces killed 29 fighters along Afghan border",
@@ -45,25 +54,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 4830,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks?traffic_source=rss",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 5845,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Heightened emotions in Iran after Team Melli knocked out of World Cup",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/6/28/heightened-emotions-in-iran-after-team-melli-knocked-out-of-world-cup?traffic_source=rss",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 8147,
+    "id": 5076,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : les États-Unis annoncent une suspension mutuelle des attaques avec l",
@@ -72,7 +63,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 774,
+    "id": 8576,
     "level": "critical",
     "country": "🌍",
     "text": "Le Pakistan annonce avoir à nouveau frappé l'Afghanistan, faisant des dizaines d",
@@ -81,7 +72,16 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 4135,
+    "id": 9596,
+    "level": "high",
+    "country": "🌍",
+    "text": "World: Military Escalation in the Middle East: Cushioning the Global Shock, 24 J",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/military-escalation-middle-east-cushioning-global-shock-24-june-2026",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 3533,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7520,
+    "id": 7427,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3952,
+    "id": 3220,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8782,
+    "id": 7205,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7244,
+    "id": 5471,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5572,
+    "id": 2787,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6321,
+    "id": 7498,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7731,
+    "id": 9426,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9355,
+    "id": 4044,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 809,
+    "id": 5556,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -171,7 +171,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7852,
+    "id": 4624,
     "level": "medium",
     "country": "🌍",
     "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
