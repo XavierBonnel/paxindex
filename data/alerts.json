@@ -1,6 +1,6 @@
 [
   {
-    "id": 2636,
+    "id": 9085,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 5889,
+    "id": 1120,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,70 +18,88 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 9308,
+    "id": 898,
     "level": "critical",
     "country": "🌍",
-    "text": "Skydiving plane crash kills 11 in northeastern France",
+    "text": "‘Tit-for-tat US-Iran attacks appear to be over’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-nf_skydiving-plane-crash-kills-11-in-france-290626?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 8997,
+    "id": 7315,
     "level": "critical",
     "country": "🌍",
-    "text": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+    "text": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 1559,
+    "id": 3865,
     "level": "critical",
     "country": "🌍",
-    "text": "Putin says Ukraine proposed halt to deep strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 3927,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Séismes au Venezuela : au moins 1 450 morts et des dizaines de milliers de dispa",
+    "text": "Nouvelles frappes israéliennes au Liban, le Hezbollah se réserve le droit de rép",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260629-s%C3%A9ismes-au-venezuela-au-moins-1-450-morts-et-des-dizaines-de-milliers-de-disparus",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260629-nouvelles-frappes-isra%C3%A9liennes-au-liban-le-hezbollah-se-r%C3%A9serve-le-droit-de-r%C3%A9pondre",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 2281,
+    "id": 2337,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : les États-Unis annoncent une suspension mutuelle des attaques avec l",
+    "text": "Le Pakistan dit avoir mené de nouvelles frappes dans l'est de l'Afghanistan",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260629-en-direct-parlement-libanais-enterre-accord-cadre-hezbollah-d%C3%A9fendre-patrie-moyen-orient-detroit-ormuz-israel-iran",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260629-le-pakistan-dit-avoir-men%C3%A9-de-nouvelles-frappes-dans-l-est-de-l-afghanistan",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 8338,
+    "id": 2149,
     "level": "critical",
     "country": "🌍",
-    "text": "Le Pakistan annonce avoir à nouveau frappé l'Afghanistan, faisant des dizaines d",
+    "text": "Guerre au Moyen-Orient : les États-Unis et l'Iran cessent les hostilités \"pour l",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260629-pakistan-annonce-avoir-frappe-afghanistan-faisant-dizaines-morts-asie-taliban",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260629-guerre-au-moyen-orient-les-%C3%A9tats-unis-et-l-iran-cessent-les-hostilit%C3%A9s-pour-le-moment",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 4488,
+    "id": 2950,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Canicule : des records de chaleur enregistrés en Europe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260629-canicule-des-records-de-chaleur-enregistr%C3%A9s-en-europe",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 7521,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Wimbledon : les joueurs réclament une plus grande part du gâteau",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260629-wimbledon-les-joueurs-r%C3%A9clament-une-plus-grande-part-du-g%C3%A2teau",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 1025,
     "level": "high",
     "country": "🌍",
-    "text": "World: Military Escalation in the Middle East: Cushioning the Global Shock, 24 J",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/world/military-escalation-middle-east-cushioning-global-shock-24-june-2026",
+    "text": "Australia and Vanuatu sign deal to block foreign military bases",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/29/australia-and-vanuatu-sign-deal-to-block-foreign-military-bases?traffic_source=rss",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 3539,
+    "id": 9799,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israel triggers huge explosion in southern Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 9579,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8423,
+    "id": 4486,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6276,
+    "id": 5738,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8850,
+    "id": 8343,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8442,
+    "id": 4555,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8712,
+    "id": 2400,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1210,
+    "id": 3078,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6984,
+    "id": 1128,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,30 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8046,
+    "id": 9007,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 3779,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 3180,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/29/fighting-western-imports-the-justification-of-the-anti-lgbtq-agenda-in-africa/",
-    "time": "Mon, 29 Jun 2026"
   }
 ]
