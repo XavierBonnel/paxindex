@@ -1,6 +1,6 @@
 [
   {
-    "id": 9505,
+    "id": 1281,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -9,7 +9,7 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 2521,
+    "id": 3398,
     "level": "critical",
     "country": "🌍",
     "text": "Fake visuals, defamed civilians, and fabricated wars: How Indian mainstream medi",
@@ -18,7 +18,16 @@
     "time": "Wed, 24 Jun 2026"
   },
   {
-    "id": 2561,
+    "id": 5306,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuela earthquake victims shelter at golf course",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-earthquake-victims-shelter-at-golf-course?traffic_source=rss",
+    "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 6801,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly heatwave grips Italy and Balkans as wildfire fears grow",
@@ -27,7 +36,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 6202,
+    "id": 5672,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
@@ -36,7 +45,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 6717,
+    "id": 3420,
     "level": "critical",
     "country": "🌍",
     "text": "Pakistani strikes kill dozens of Afghan villagers",
@@ -45,34 +54,25 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 7842,
+    "id": 6226,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel launches attacks and incursions inside southern Syria",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-launches-attacks-and-incursions-inside-southern-syria?traffic_source=rss",
+    "text": "La Corée du sud lance un plan d’investissement à 1000 milliards € dans l’IA",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260629-la-cor%C3%A9e-du-sud-lance-un-plan-d-investissement-%C3%A0-1000-milliards-%E2%82%AC-dans-l-ia",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 6062,
+    "id": 5770,
     "level": "critical",
     "country": "🌍",
-    "text": "🔴 Séismes au Venezuela : le bilan grimpe à 1 719 morts",
+    "text": "Une explosion volontaire fait plusieurs blessés à Monaco, le gouvernement évoque",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260629-s%C3%A9ismes-au-venezuela-au-moins-1-450-morts-et-des-dizaines-de-milliers-de-disparus",
+    "link": "https://www.france24.com/fr/europe/20260629-explosion-volontaire-plusieurs-blesses-monaco-gouvernement-evoque-attentat-suspect",
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 43,
-    "level": "high",
-    "country": "🌍",
-    "text": "Canicule : un système sous tension ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260629-canicule-un-syst%C3%A8me-sous-tension",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 534,
+    "id": 7509,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 388,
+    "id": 9036,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6145,
+    "id": 2382,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4712,
+    "id": 2153,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2549,
+    "id": 2275,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9304,
+    "id": 5758,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1487,
+    "id": 436,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9699,
+    "id": 2784,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 796,
+    "id": 3835,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9769,
+    "id": 6795,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -162,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9178,
+    "id": 7464,
     "level": "medium",
     "country": "🌍",
     "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
@@ -171,7 +171,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 4555,
+    "id": 6730,
     "level": "medium",
     "country": "🌍",
     "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
