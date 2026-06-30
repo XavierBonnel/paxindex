@@ -1,6 +1,6 @@
 [
   {
-    "id": 6355,
+    "id": 2432,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 3722,
+    "id": 5137,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -18,7 +18,25 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 6678,
+    "id": 2107,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pakistan-administered Kashmir returns to daily life after deadly protests",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/pakistan-administered-kashmir-returns-to-daily-life-after-deadly-protests?traffic_source=rss",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 5355,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump tells US petrol retailers to reduce prices ‘immediately’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/6/30/trump-tells-us-petrol-retailers-to-reduce-prices-immediately?traffic_source=rss",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 1516,
     "level": "critical",
     "country": "🌍",
     "text": "Mourners light candles after deadly German shelter shooting",
@@ -27,52 +45,25 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 3487,
-    "level": "critical",
+    "id": 6682,
+    "level": "high",
     "country": "🌍",
-    "text": "UN ordering 10,000 body bags for Venezuela as death toll expected to rise",
+    "text": "Police hunt for suspect after three wounded in Monaco blast",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/un-ordering-10000-body-bags-for-venezuela-as-death-toll-expected-to-rise?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss",
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 9822,
-    "level": "critical",
+    "id": 947,
+    "level": "high",
     "country": "🌍",
-    "text": "Fear grows in Johannesburg market as anti-migrant ‘deadline’ looms",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/fear-grows-in-johannesburg-market-as-anti-migrant-deadline-looms?traffic_source=rss",
-    "time": "Tue, 30 Jun 2026"
-  },
-  {
-    "id": 2384,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Migrants in South Africa fear violence ahead of June 30 deadline",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/30/migrants-in-south-africa-fear-violence-ahead-of-june-30-deadline?traffic_source=rss",
-    "time": "Tue, 30 Jun 2026"
-  },
-  {
-    "id": 1026,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Tehran denies Trump’s claim of meeting in Doha",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
-    "time": "Tue, 30 Jun 2026"
-  },
-  {
-    "id": 3354,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La Corée du sud lance un plan d’investissement à 1000 milliards € dans l’IA",
+    "text": "Après les séismes au Venezuela, le port de La Guaira est à nouveau opérationnel",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260629-la-cor%C3%A9e-du-sud-lance-un-plan-d-investissement-%C3%A0-1000-milliards-%E2%82%AC-dans-l-ia",
-    "time": "Mon, 29 Jun 2026"
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260630-seismes-venezuela-port-la-guaira-nouveau-operationnel-aide-humanitaire-etats-unis-morts",
+    "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 1501,
+    "id": 1005,
     "level": "high",
     "country": "🌍",
     "text": "Explosion à Monaco : la traque du suspect est lancée dans la principauté et en F",
@@ -81,7 +72,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 2686,
+    "id": 9082,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 84,
+    "id": 7789,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6365,
+    "id": 5245,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4553,
+    "id": 4786,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4993,
+    "id": 3973,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 366,
+    "id": 6088,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 673,
+    "id": 2457,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4763,
+    "id": 1327,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5269,
+    "id": 2846,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2498,
+    "id": 1488,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -171,12 +162,21 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 244,
+    "id": 307,
     "level": "medium",
     "country": "🌍",
     "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/29/fighting-western-imports-the-justification-of-the-anti-lgbtq-agenda-in-africa/",
     "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 8053,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/28/fortress-europe-the-new-pact-on-migration-and-asylum-will-further-deteriorate-chances-for-lgbtq-refugees/",
+    "time": "Sun, 28 Jun 2026"
   }
 ]
