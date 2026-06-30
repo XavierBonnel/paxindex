@@ -1,6 +1,6 @@
 [
   {
-    "id": 9889,
+    "id": 4313,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 8658,
+    "id": 6538,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -18,7 +18,16 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 331,
+    "id": 4836,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Are US and Iranian negotiators meeting in Doha? What we know about talks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/30/are-us-and-iranian-negotiators-meeting-in-doha-what-we-know-about-talks?traffic_source=rss",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 4780,
     "level": "critical",
     "country": "🌍",
     "text": "Man in Gaza survives double tap Israeli strike on vehicle",
@@ -27,34 +36,25 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 7545,
+    "id": 1902,
     "level": "critical",
     "country": "🌍",
-    "text": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
-    "time": "Tue, 30 Jun 2026"
-  },
-  {
-    "id": 630,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Séismes au Venezuela : vers une crise humanitaire ?",
+    "text": "Ingérences numériques : des étrangers qui déstabilisent la démocratie et l'écono",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-s%C3%A9ismes-au-venezuela-vers-une-crise-humanitaire",
+    "link": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20260630-ing%C3%A9rences-num%C3%A9riques-des-%C3%A9trangers-qui-d%C3%A9stabilisent-la-d%C3%A9mocratie-et-l-%C3%A9conomie",
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 4539,
+    "id": 2863,
     "level": "high",
     "country": "🌍",
-    "text": "Afrique du Sud : inquiétudes et tensions autour de la campagne anti-immigration",
+    "text": "Sénégal: la réforme constitutionnelle controversée sera soumise à un référendum",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-afrique-du-sud-inqui%C3%A9tudes-et-tensions-autour-de-la-campagne-anti-immigration",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-s%C3%A9n%C3%A9gal-la-r%C3%A9forme-constitutionnelle-controvers%C3%A9e-sera-soumise-%C3%A0-un-r%C3%A9f%C3%A9rendum",
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 9691,
+    "id": 4408,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7174,
+    "id": 5571,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7638,
+    "id": 6404,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2222,
+    "id": 0,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7857,
+    "id": 1836,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8790,
+    "id": 9726,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4167,
+    "id": 9416,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8299,
+    "id": 7604,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8850,
+    "id": 6161,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1978,
+    "id": 3998,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9338,
+    "id": 8495,
     "level": "medium",
     "country": "🌍",
     "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
@@ -153,7 +153,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 4992,
+    "id": 822,
     "level": "medium",
     "country": "🌍",
     "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
@@ -162,7 +162,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 8311,
+    "id": 3315,
     "level": "medium",
     "country": "🌍",
     "text": "How Europe ships its waste to Morocco and calls it ‘recycling’",
@@ -171,7 +171,7 @@
     "time": "Sun, 28 Jun 2026"
   },
   {
-    "id": 8502,
+    "id": 9710,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti’s ‘Grenadiers’ bring hope and joyful moments at World Cup 2026",
