@@ -1,6 +1,6 @@
 [
   {
-    "id": 8804,
+    "id": 6501,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 51,
+    "id": 3173,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,7 +18,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 2101,
+    "id": 2741,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -27,7 +27,16 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 4117,
+    "id": 273,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuelans the US deported hours before earthquakes still missing",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/venezuelans-the-us-deported-hours-before-earthquakes-still-missing?traffic_source=rss",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 8126,
     "level": "critical",
     "country": "🌍",
     "text": "What is birthright citizenship, and what does the Supreme Court ruling say?",
@@ -36,7 +45,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 9715,
+    "id": 7814,
     "level": "critical",
     "country": "🌍",
     "text": "More than 30 students remain missing after Nigeria school attack",
@@ -45,25 +54,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 1789,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Five humanitarian workers killed in convoy ambush in South Sudan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
-    "time": "Tue, 30 Jun 2026"
-  },
-  {
-    "id": 6861,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/6/30/evolution-under-fire-irans-axis-of-resistance-in-a-post-war-era?traffic_source=rss",
-    "time": "Tue, 30 Jun 2026"
-  },
-  {
-    "id": 493,
+    "id": 3469,
     "level": "critical",
     "country": "🌍",
     "text": "Des milliers de Sud-Africains défilent pour exiger le départ des sans-papiers",
@@ -72,16 +63,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 7598,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Venezuela : le bilan des séismes passe à 1 900 décès, un enfant de trois ans sec",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260630-venezuela-bilan-double-s%C3%A9isme-augmente-1-943-d%C3%A9c%C3%A8s-secours-catastrophe-naturemme-morts-disparus",
-    "time": "Tue, 30 Jun 2026"
-  },
-  {
-    "id": 1377,
+    "id": 4374,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 916,
+    "id": 2317,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5189,
+    "id": 9533,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4649,
+    "id": 8350,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5888,
+    "id": 1036,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8642,
+    "id": 2950,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5393,
+    "id": 3990,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1972,
+    "id": 6733,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 533,
+    "id": 405,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3077,
+    "id": 2549,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -171,12 +153,30 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 6321,
+    "id": 5722,
     "level": "medium",
     "country": "🌍",
     "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/29/fighting-western-imports-the-justification-of-the-anti-lgbtq-agenda-in-africa/",
     "time": "Mon, 29 Jun 2026"
+  },
+  {
+    "id": 3386,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/28/fortress-europe-the-new-pact-on-migration-and-asylum-will-further-deteriorate-chances-for-lgbtq-refugees/",
+    "time": "Sun, 28 Jun 2026"
+  },
+  {
+    "id": 1631,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How Europe ships its waste to Morocco and calls it ‘recycling’",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/06/28/how-europe-ships-its-waste-to-morocco-and-calls-it-recycling/",
+    "time": "Sun, 28 Jun 2026"
   }
 ]
