@@ -1,6 +1,6 @@
 [
   {
-    "id": 9276,
+    "id": 8613,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 1229,
+    "id": 662,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,7 +18,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 5867,
+    "id": 3196,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -27,7 +27,52 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 5576,
+    "id": 7573,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attacks on Health Care in Sudan, 10 - 23 June 2026",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/sudan/attacks-health-care-sudan-10-23-june-2026",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 205,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mr. Ramanathan Balakrishnan, UN Humanitarian Coordinator in South Sudan: Stateme",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/south-sudan/mr-ramanathan-balakrishnan-un-humanitarian-coordinator-south-sudan-statement-attack-john-dau-foundation-humanitarian-convoy-duk-county-jonglei-state",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 2696,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Supreme Court strikes down US campaign spending limits in landmark ruling",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/30/supreme-court-strikes-down-us-campaign-spending-limits-in-landmark-ruling?traffic_source=rss",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 1138,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US heatwave to test power grid amid soaring AI-driven energy demand",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand?traffic_source=rss",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 5633,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN warns Ebola could cost Africa $3.6bn and jobs",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/6/30/un-warns-ebola-could-cost-africa-3-6bn-and-jobs?traffic_source=rss",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 2728,
     "level": "critical",
     "country": "🌍",
     "text": "How severe is Russia’s energy shortage because of Ukrainian strikes?",
@@ -36,16 +81,34 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 4103,
-    "level": "high",
+    "id": 6135,
+    "level": "critical",
     "country": "🌍",
-    "text": "Mali : HRW dénonce de graves abus contre des civils depuis les attaques d'avril",
+    "text": "Frappes sur la Russie : le vent tourne-t-il en faveur de Kiev ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-mali-hrw-d%C3%A9nonce-de-graves-abus-contre-des-civils-depuis-les-attaques-d-avril",
+    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260630-frappes-sur-la-russie-le-vent-tourne-t-il-en-faveur-de-kiev",
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 7626,
+    "id": 4880,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mondial 2026 : Le coach de la Corée du Sud hué et menacé de mort",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-mondial-2026-le-coach-de-la-cor%C3%A9e-du-sud-hu%C3%A9-et-menac%C3%A9-de-mort",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 986,
+    "level": "high",
+    "country": "🌍",
+    "text": "Au Mali, Human Rights Watch dénonce des exactions contre les civils",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-au-mali-human-rights-watch-d%C3%A9nonce-des-exactions-contre-les-civils",
+    "time": "Tue, 30 Jun 2026"
+  },
+  {
+    "id": 1405,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7759,
+    "id": 2835,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5627,
+    "id": 8127,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7625,
+    "id": 7352,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7450,
+    "id": 5842,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4814,
+    "id": 2241,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8612,
+    "id": 5715,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,75 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5745,
+    "id": 5490,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 7613,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 7521,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 424,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/29/fighting-western-imports-the-justification-of-the-anti-lgbtq-agenda-in-africa/",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 6631,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/28/fortress-europe-the-new-pact-on-migration-and-asylum-will-further-deteriorate-chances-for-lgbtq-refugees/",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 1320,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Europe ships its waste to Morocco and calls it ‘recycling’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/28/how-europe-ships-its-waste-to-morocco-and-calls-it-recycling/",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 3326,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Haiti’s ‘Grenadiers’ bring hope and joyful moments at World Cup 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/haitis-grenadiers-bring-hope-and-joyful-moments-at-world-cup-2026/",
-    "time": "Sat, 27 Jun 2026"
-  },
-  {
-    "id": 739,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When surveillance becomes part of the landscape",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/when-surveillance-becomes-part-of-the-landscape/",
-    "time": "Sat, 27 Jun 2026"
   }
 ]
