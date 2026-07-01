@@ -1,6 +1,6 @@
 [
   {
-    "id": 7394,
+    "id": 4479,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 7559,
+    "id": 6242,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,7 +18,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 1253,
+    "id": 6135,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -27,43 +27,61 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 3925,
+    "id": 3893,
     "level": "critical",
     "country": "🌍",
-    "text": "oPt: Wattan Media Network Concludes Training Programme for Journalists in Partne",
+    "text": "World: Les lois discriminatoires sur la famille compromettent les droits des fem",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/occupied-palestinian-territory/wattan-media-network-concludes-training-programme-journalists-partnership-ministry-justice-promote-awareness-alternative-dispute-resolution-palestine",
+    "link": "https://reliefweb.int/report/world/les-lois-discriminatoires-sur-la-famille-compromettent-les-droits-des-femmes-et-la-reconstruction-post-conflit-au-moyen-orient-et-en-afrique-du-nord",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9691,
+    "id": 2699,
     "level": "critical",
     "country": "🌍",
-    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 29 June 2026)",
+    "text": "World: Discriminatory family laws undermine women's rights and post-conflict rec",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-29-june-2026",
+    "link": "https://reliefweb.int/report/world/discriminatory-family-laws-undermine-womens-rights-and-post-conflict-recovery-middle-east-and-north-africa-enar",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9224,
+    "id": 4729,
     "level": "critical",
     "country": "🌍",
-    "text": "The Lebanon-Israel agreement is paving the way for the next war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/7/1/the-lebanon-israel-agreement-is-paving-the-way-for-the-next-war?traffic_source=rss",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 30 June 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/map/lebanon/lebanon-conflict-intensity-snapshot-2-march-30-june-2026",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9150,
+    "id": 6571,
     "level": "critical",
     "country": "🌍",
-    "text": "Pakistan says it intercepted four drones fired from Afghanistan",
+    "text": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/pakistan-says-it-intercepted-four-drones-fired-from-afghanistan?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 1326,
+    "id": 9735,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Séismes au Venezuela : à La Guaira, la recherche des morts et des survivants con",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260701-seismes-venezuela-la-guaira-recherche-morts-survivants-continue",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 6709,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le chanteur disco de Village People, Victor Willis, est mort à l'âge de 74 ans",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260701-le-chanteur-disco-de-village-people-victor-willis-est-mort-%C3%A0-l-%C3%A2ge-de-74-ans",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 3883,
     "level": "critical",
     "country": "🌍",
     "text": "Poussant en zone contaminée, le miscanthus géant testé en Ukraine pour dépolluer",
@@ -72,16 +90,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9036,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Des milliers de Sud-Africains défilent pour exiger le départ des sans-papiers",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-des-milliers-de-sud-africains-d%C3%A9filent-pour-exiger-le-d%C3%A9part-des-sans-papiers",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 3103,
+    "id": 5029,
     "level": "high",
     "country": "🌍",
     "text": "En Chine, Xi Jinping s'engage à renforcer l'armée et à éradiquer la corruption",
@@ -90,7 +99,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9923,
+    "id": 7354,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 357,
+    "id": 9164,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3173,
+    "id": 9960,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1070,
+    "id": 8882,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3401,
+    "id": 7220,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7737,
+    "id": 3781,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8750,
+    "id": 5078,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5664,
+    "id": 9115,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,21 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4097,
+    "id": 4299,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 6739,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
