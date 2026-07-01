@@ -1,6 +1,6 @@
 [
   {
-    "id": 5444,
+    "id": 9639,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 5699,
+    "id": 3298,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,7 +18,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 6140,
+    "id": 9301,
     "level": "critical",
     "country": "🌍",
     "text": "Living better, living hidden: The struggle of trans women in Syria",
@@ -27,7 +27,34 @@
     "time": "Fri, 26 Jun 2026"
   },
   {
-    "id": 1033,
+    "id": 4529,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Myanmar: Dooplaya District Incident Report: Burma Army drone strike killed two v",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/myanmar/dooplaya-district-incident-report-burma-army-drone-strike-killed-two-villagers-injured-one-child-and-destroyed-property-noh-tkaw-township-march-2026-enkarenmy",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 5662,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tutoring centre roof collapses killing 14 children in Pakistan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 7168,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World’s oceans experience hottest June ever, scientists say more heat ahead",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/1/worlds-oceans-experience-hottest-june-ever-scientists-say-more-heat-ahead?traffic_source=rss",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 3747,
     "level": "critical",
     "country": "🌍",
     "text": "Mercury’s Thomas says received online abuse following WNBA suspension",
@@ -36,25 +63,16 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9049,
-    "level": "critical",
+    "id": 5360,
+    "level": "high",
     "country": "🌍",
-    "text": "Who is leading the race for the FIFA World Cup 2026 Golden Boot award?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/1/who-is-leading-the-race-for-the-fifa-world-cup-2026-golden-boot-award?traffic_source=rss",
+    "text": "Israël pointe la menace du Hezbollah",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-isra%C3%ABl-pointe-la-menace-du-hezbollah",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9401,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran leaves World Cup with warm send-off from Mexican fans",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-leaves-world-cup-with-warm-send-off-from-mexican-fans?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 8456,
+    "id": 8600,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1468,
+    "id": 575,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6737,
+    "id": 2233,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 522,
+    "id": 9577,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3231,
+    "id": 3181,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8957,
+    "id": 8960,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2192,
+    "id": 923,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8748,
+    "id": 6359,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3383,
+    "id": 2376,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3218,
+    "id": 953,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9327,
+    "id": 2262,
     "level": "medium",
     "country": "🌍",
     "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
@@ -153,30 +171,12 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 3547,
+    "id": 1309,
     "level": "medium",
     "country": "🌍",
     "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/06/28/fortress-europe-the-new-pact-on-migration-and-asylum-will-further-deteriorate-chances-for-lgbtq-refugees/",
     "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 7232,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Europe ships its waste to Morocco and calls it ‘recycling’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/28/how-europe-ships-its-waste-to-morocco-and-calls-it-recycling/",
-    "time": "Sun, 28 Jun 2026"
-  },
-  {
-    "id": 7418,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Haiti’s ‘Grenadiers’ bring hope and joyful moments at World Cup 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/haitis-grenadiers-bring-hope-and-joyful-moments-at-world-cup-2026/",
-    "time": "Sat, 27 Jun 2026"
   }
 ]
