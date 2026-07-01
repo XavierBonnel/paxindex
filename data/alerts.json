@@ -1,6 +1,6 @@
 [
   {
-    "id": 2273,
+    "id": 4304,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 6333,
+    "id": 3941,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,43 +18,61 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 199,
+    "id": 4642,
     "level": "critical",
     "country": "🌍",
-    "text": "Living better, living hidden: The struggle of trans women in Syria",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/26/living-better-living-hidden-the-struggle-of-trans-women-in-syria/",
-    "time": "Fri, 26 Jun 2026"
-  },
-  {
-    "id": 7260,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Warmest June on record for England, second-warmest for UK, says Met Office",
+    "text": "One week on from Venezuela’s deadly earthquakes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/warmest-june-on-record-for-england-second-warmest-for-uk-says-met-office?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/one-week-on-from-venezuelas-deadly-earthquakes?traffic_source=rss",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 1560,
+    "id": 3921,
     "level": "critical",
     "country": "🌍",
-    "text": "Amnesty says RSF committed ethnic cleansing in Sudan’s el-Fasher",
+    "text": "Three dead after massive World Cup celebrations in Mexico City",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/amnesty-says-rsf-committed-ethnic-cleansing-in-sudans-el-fasher?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 7943,
+    "id": 5838,
     "level": "critical",
     "country": "🌍",
-    "text": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
+    "text": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/secretive-gaza-meetings-in-cyprus-as-plan-to-isolate-hamas-gathers-pace?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 5488,
+    "id": 9402,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au Liban, la guerre continue de peser sur le quotidien des habitants",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-au-liban-la-guerre-continue-de-peser-sur-le-quotidien-des-habitants",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 9697,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Séismes au Venezuela : entre manque de nourriture et risque d'épidémies",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-s%C3%A9ismes-au-venezuela-entre-manque-de-nourriture-et-risque-d-%C3%A9pid%C3%A9mies",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 739,
+    "level": "high",
+    "country": "🌍",
+    "text": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 1496,
     "level": "high",
     "country": "🌍",
     "text": "What military capabilities does Iran possess as it negotiates with US?",
@@ -63,120 +81,102 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 5209,
-    "level": "medium",
+    "id": 5544,
+    "level": "high",
     "country": "🌍",
-    "text": "Selling identities: The commercialization of Mayan culture",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/a-sales-narrative-the-commercialization-of-mayan-identities/",
+    "text": "\"Des tensions très fortes au sein du système iranien\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-des-tensions-tr%C3%A8s-fortes-au-sein-du-syst%C3%A8me-iranien",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 3307,
+    "id": 6776,
     "level": "medium",
     "country": "🌍",
-    "text": "The meme that became a movement: Inside India’s Cockroach Janta Party",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/the-meme-that-became-a-movement-inside-indias-cockroach-janta-party/",
-    "time": "Wed, 01 Jul 2026"
+    "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-23T00:01"
   },
   {
-    "id": 4557,
+    "id": 8946,
     "level": "medium",
     "country": "🌍",
-    "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/29/fighting-western-imports-the-justification-of-the-anti-lgbtq-agenda-in-africa/",
-    "time": "Mon, 29 Jun 2026"
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
   },
   {
-    "id": 4287,
+    "id": 1884,
     "level": "medium",
     "country": "🌍",
-    "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/28/fortress-europe-the-new-pact-on-migration-and-asylum-will-further-deteriorate-chances-for-lgbtq-refugees/",
-    "time": "Sun, 28 Jun 2026"
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
   },
   {
-    "id": 4209,
+    "id": 8718,
     "level": "medium",
     "country": "🌍",
-    "text": "How Europe ships its waste to Morocco and calls it ‘recycling’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/28/how-europe-ships-its-waste-to-morocco-and-calls-it-recycling/",
-    "time": "Sun, 28 Jun 2026"
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
   },
   {
-    "id": 3345,
+    "id": 4180,
     "level": "medium",
     "country": "🌍",
-    "text": "Haiti’s ‘Grenadiers’ bring hope and joyful moments at World Cup 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/haitis-grenadiers-bring-hope-and-joyful-moments-at-world-cup-2026/",
-    "time": "Sat, 27 Jun 2026"
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
   },
   {
-    "id": 8179,
+    "id": 4174,
     "level": "medium",
     "country": "🌍",
-    "text": "When surveillance becomes part of the landscape",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/27/when-surveillance-becomes-part-of-the-landscape/",
-    "time": "Sat, 27 Jun 2026"
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
   },
   {
-    "id": 9149,
+    "id": 6315,
     "level": "medium",
     "country": "🌍",
-    "text": "The Iran talks expose the collapse of US diplomacy",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
   },
   {
-    "id": 1097,
+    "id": 3691,
     "level": "medium",
     "country": "🌍",
-    "text": "What is a heat dome? The US heatwave explained",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/what-is-a-heat-dome-the-us-heatwave-explained?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
   },
   {
-    "id": 2559,
+    "id": 8552,
     "level": "medium",
     "country": "🌍",
-    "text": "Trump takes first flight on new Qatar-gifted Air Force One",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/trump-takes-first-flight-on-new-qatar-gifted-air-force-one?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
   },
   {
-    "id": 3893,
+    "id": 584,
     "level": "medium",
     "country": "🌍",
-    "text": "Cape Verde: All to know before FIFA World Cup knockout against Argentina",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/cape-verde-fifa-world-cup-2026-vozinha-argentina-round-of-32-knockouts?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 3528,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Is Ukraine’s campaign of targeting Russian refineries working?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/7/1/is-ukraines-campaign-of-targeting-russian-refineries-working?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 9794,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Will not leave’: Is Israel killing the US-Iran MoU by staying in Lebanon?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/will-not-leave-is-israel-killing-the-us-iran-mou-by-staying-in-lebanon?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
+    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
   }
 ]
