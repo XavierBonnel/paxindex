@@ -1,6 +1,6 @@
 [
   {
-    "id": 4304,
+    "id": 2280,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 3941,
+    "id": 3544,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,7 +18,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 4642,
+    "id": 2506,
     "level": "critical",
     "country": "🌍",
     "text": "One week on from Venezuela’s deadly earthquakes",
@@ -27,7 +27,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 3921,
+    "id": 4330,
     "level": "critical",
     "country": "🌍",
     "text": "Three dead after massive World Cup celebrations in Mexico City",
@@ -36,7 +36,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 5838,
+    "id": 7371,
     "level": "critical",
     "country": "🌍",
     "text": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
@@ -45,25 +45,16 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9402,
+    "id": 150,
     "level": "critical",
     "country": "🌍",
-    "text": "Au Liban, la guerre continue de peser sur le quotidien des habitants",
+    "text": "🔴 Venezuela : le bilan passe à 2 295 morts, sept jours de deuil national décrété",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-au-liban-la-guerre-continue-de-peser-sur-le-quotidien-des-habitants",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260701-venezuela-apr%C3%A8s-le-double-s%C3%A9isme-manque-de-nourriture-et-menace-d-%C3%A9pid%C3%A9mies",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 9697,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Séismes au Venezuela : entre manque de nourriture et risque d'épidémies",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-s%C3%A9ismes-au-venezuela-entre-manque-de-nourriture-et-risque-d-%C3%A9pid%C3%A9mies",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 739,
+    "id": 8186,
     "level": "high",
     "country": "🌍",
     "text": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
@@ -72,7 +63,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 1496,
+    "id": 7328,
     "level": "high",
     "country": "🌍",
     "text": "What military capabilities does Iran possess as it negotiates with US?",
@@ -81,7 +72,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 5544,
+    "id": 8388,
     "level": "high",
     "country": "🌍",
     "text": "\"Des tensions très fortes au sein du système iranien\"",
@@ -90,7 +81,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 6776,
+    "id": 5122,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8946,
+    "id": 814,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1884,
+    "id": 4547,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8718,
+    "id": 9296,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4180,
+    "id": 1009,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4174,
+    "id": 625,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6315,
+    "id": 7777,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3691,
+    "id": 7386,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8552,
+    "id": 8825,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 584,
+    "id": 5535,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 9723,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Beyond the binary: Global traditions of gender fluidity",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/01/beyond-the-binary-global-traditions-of-gender-fluidity/",
+    "time": "Wed, 01 Jul 2026"
   }
 ]
