@@ -1,6 +1,6 @@
 [
   {
-    "id": 2280,
+    "id": 3439,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 3544,
+    "id": 4756,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,7 +18,16 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 2506,
+    "id": 581,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 9606,
     "level": "critical",
     "country": "🌍",
     "text": "One week on from Venezuela’s deadly earthquakes",
@@ -27,7 +36,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 4330,
+    "id": 3140,
     "level": "critical",
     "country": "🌍",
     "text": "Three dead after massive World Cup celebrations in Mexico City",
@@ -36,16 +45,16 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 7371,
+    "id": 4463,
     "level": "critical",
     "country": "🌍",
-    "text": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
+    "text": "L'IA fait mourir Donald Trump de la rage",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260701-l-ia-fait-mourir-donald-trump-de-la-rage",
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 150,
+    "id": 2364,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Venezuela : le bilan passe à 2 295 morts, sept jours de deuil national décrété",
@@ -54,34 +63,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 8186,
-    "level": "high",
-    "country": "🌍",
-    "text": "Can Sudan’s Rapid Support Forces take control of el-Obeid?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 7328,
-    "level": "high",
-    "country": "🌍",
-    "text": "What military capabilities does Iran possess as it negotiates with US?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 8388,
-    "level": "high",
-    "country": "🌍",
-    "text": "\"Des tensions très fortes au sein du système iranien\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260701-des-tensions-tr%C3%A8s-fortes-au-sein-du-syst%C3%A8me-iranien",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 5122,
+    "id": 7634,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 814,
+    "id": 2561,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4547,
+    "id": 4254,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9296,
+    "id": 343,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1009,
+    "id": 4067,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 625,
+    "id": 7639,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7777,
+    "id": 3842,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7386,
+    "id": 5459,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8825,
+    "id": 7159,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5535,
+    "id": 3449,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -171,12 +153,30 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9723,
+    "id": 398,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the binary: Global traditions of gender fluidity",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/01/beyond-the-binary-global-traditions-of-gender-fluidity/",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 1990,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Selling identities: The commercialization of Mayan culture",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/01/a-sales-narrative-the-commercialization-of-mayan-identities/",
+    "time": "Wed, 01 Jul 2026"
+  },
+  {
+    "id": 2545,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The meme that became a movement: Inside India’s Cockroach Janta Party",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/01/the-meme-that-became-a-movement-inside-indias-cockroach-janta-party/",
     "time": "Wed, 01 Jul 2026"
   }
 ]
