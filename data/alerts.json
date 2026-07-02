@@ -1,6 +1,6 @@
 [
   {
-    "id": 3292,
+    "id": 2378,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 7151,
+    "id": 8658,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,52 +18,70 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 135,
+    "id": 9956,
     "level": "critical",
     "country": "🌍",
-    "text": "LTC (Telecoms) Ukraine | Conflict | June 2026",
+    "text": "Ukraine: Killing of Civilians Should Never Be Normalized in War",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/map/ukraine/ltc-telecoms-ukraine-conflict-june-2026",
+    "link": "https://reliefweb.int/report/ukraine/killing-civilians-should-never-be-normalized-war",
     "time": "Thu, 02 Jul 2026"
   },
   {
-    "id": 4739,
+    "id": 9105,
     "level": "critical",
     "country": "🌍",
-    "text": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
+    "text": "Lebanon: 100,000s unable to return amid continued military activity despite agre",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-100000s-unable-return-amid-continued-military-activity-despite-agreements-nrc",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 9004,
+    "level": "critical",
+    "country": "🌍",
+    "text": "A PALESTINIAN HOME INSIDE A CAGE",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss",
     "time": "Thu, 02 Jul 2026"
   },
   {
-    "id": 7130,
+    "id": 867,
     "level": "critical",
     "country": "🌍",
-    "text": "Séismes au Venezuela : le bilan révisé à la hausse de 2 295 morts",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-s%C3%A9ismes-au-venezuela-le-bilan-r%C3%A9vis%C3%A9-%C3%A0-la-hausse-de-2-295-morts",
-    "time": "Thu, 02 Jul 2026"
-  },
-  {
-    "id": 8916,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Côte d'Ivoire : plusieurs dizaines de morts depuis le début de la saison des plu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260702-59-morts-inondations-debut-saison-pluies-cote-ivoire-afrique-abidjan",
-    "time": "Thu, 02 Jul 2026"
-  },
-  {
-    "id": 251,
-    "level": "high",
-    "country": "🌍",
-    "text": "More than 900 arrested during South Africa’s antimigrant protests",
+    "text": "Eight Thai monks killed after child drives truck into procession",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss",
     "time": "Thu, 02 Jul 2026"
   },
   {
-    "id": 5750,
+    "id": 6195,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Two reported killed, dozens hurt in hospital fire in Germany",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/2/two-reported-killed-dozens-hurt-in-hospital-fire-in-germany?traffic_source=rss",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 9056,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Vladimir Poutine, plus fragilisé que jamais ? L'Ukraine vise le pétrole russe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-vladimir-poutine-plus-fragilis%C3%A9-que-jamais-l-ukraine-vise-le-p%C3%A9trole-russe",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 6521,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'Ukraine s'attendait-elle à cette attaque record lancée par la Russie ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-l-ukraine-s-attendait-elle-%C3%A0-cette-attaque-record-lanc%C3%A9e-par-la-russie",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 692,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3072,
+    "id": 9933,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3017,
+    "id": 3675,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7179,
+    "id": 2083,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4205,
+    "id": 8202,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1101,
+    "id": 8148,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7140,
+    "id": 3102,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2283,
+    "id": 2236,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3208,
+    "id": 8659,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4227,
+    "id": 8806,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,30 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 691,
+    "id": 7669,
     "level": "medium",
     "country": "🌍",
-    "text": "Beyond the binary: Global traditions of gender fluidity",
+    "text": "I learned the feeling of statelessness in my Uyghur homeland",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/beyond-the-binary-global-traditions-of-gender-fluidity/",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 6235,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Selling identities: The commercialization of Mayan culture",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/a-sales-narrative-the-commercialization-of-mayan-identities/",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 95,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The meme that became a movement: Inside India’s Cockroach Janta Party",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/the-meme-that-became-a-movement-inside-indias-cockroach-janta-party/",
-    "time": "Wed, 01 Jul 2026"
+    "link": "https://globalvoices.org/2026/07/02/i-learned-the-feeling-of-statelessness-in-my-uyghur-homeland/",
+    "time": "Thu, 02 Jul 2026"
   }
 ]
