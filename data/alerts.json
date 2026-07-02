@@ -1,6 +1,6 @@
 [
   {
-    "id": 1104,
+    "id": 3933,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 124,
+    "id": 9453,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,52 +18,70 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 4217,
+    "id": 5671,
     "level": "critical",
     "country": "🌍",
-    "text": "A Palestinian home inside a cage",
+    "text": "Gaza’s first women’s amputee football team reclaims the pitch after war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/gazas-first-womens-amputee-football-team-reclaims-the-pitch-after-war?traffic_source=rss",
     "time": "Thu, 02 Jul 2026"
   },
   {
-    "id": 292,
+    "id": 2421,
     "level": "critical",
     "country": "🌍",
-    "text": "Eight Thai monks killed after child drives truck into procession",
+    "text": "Guerre en Ukraine : la Russie au défi du brouillage de Starlink",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260702-guerre-ukraine-russie-d%C3%A9fi-brouillage-starlink-reseau-spacex",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 9529,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuela : un survivant coincé huit jours sous les décombres, suite aux séismes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-venezuela-un-survivant-coinc%C3%A9-huit-jours-sous-les-d%C3%A9combres-suite-aux-s%C3%A9ismes-a-%C3%A9t%C3%A9-sauv%C3%A9",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 4643,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La Russie pilonne Kiev et promet \"d'augmenter la pression\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-la-russie-pilonne-kiev-et-promet-d-augmenter-la-pression",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 3104,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : attaque massive russe sur Kiev",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-ukraine-attaque-massive-russe-sur-kiev",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 1028,
+    "level": "high",
+    "country": "🌍",
+    "text": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/2/eight-thai-monks-killed-after-child-drives-truck-into-procession?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss",
     "time": "Thu, 02 Jul 2026"
   },
   {
-    "id": 813,
-    "level": "critical",
+    "id": 6132,
+    "level": "high",
     "country": "🌍",
-    "text": "Kiev subit la pire attaque russe depuis le début de la guerre, selon la mairie",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-kiev-subit-la-pire-attaque-russe-depuis-le-d%C3%A9but-de-la-guerre-selon-la-mairie",
+    "text": "Explosion in Damascus cafe causes casualties",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss",
     "time": "Thu, 02 Jul 2026"
   },
   {
-    "id": 2780,
-    "level": "critical",
-    "country": "🌍",
-    "text": "1000 jours après les attaques du 7-octobre, Israël rend hommage à ses victimes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-1000-jours-apr%C3%A8s-les-attaques-du-7-octobre-isra%C3%ABl-rend-hommage-%C3%A0-ses-victimes",
-    "time": "Thu, 02 Jul 2026"
-  },
-  {
-    "id": 9363,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'Iran se prépare pour les funérailles de Khamenei, plusieurs millions de person",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-l-iran-se-pr%C3%A9pare-pour-les-fun%C3%A9railles-de-khamenei-plusieurs-millions-de-personnes-attendues",
-    "time": "Thu, 02 Jul 2026"
-  },
-  {
-    "id": 1087,
+    "id": 1795,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2767,
+    "id": 1213,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4564,
+    "id": 2504,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2502,
+    "id": 8509,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7361,
+    "id": 7296,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3187,
+    "id": 1346,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8011,
+    "id": 8284,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7589,
+    "id": 5177,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4605,
+    "id": 6227,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9423,
+    "id": 5562,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,30 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7671,
+    "id": 2213,
     "level": "medium",
     "country": "🌍",
     "text": "I learned the feeling of statelessness in my Uyghur homeland",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/02/i-learned-the-feeling-of-statelessness-in-my-uyghur-homeland/",
     "time": "Thu, 02 Jul 2026"
-  },
-  {
-    "id": 6184,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Beyond the binary: Global traditions of gender fluidity",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/beyond-the-binary-global-traditions-of-gender-fluidity/",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 2002,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Selling identities: The commercialization of Mayan culture",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/a-sales-narrative-the-commercialization-of-mayan-identities/",
-    "time": "Wed, 01 Jul 2026"
   }
 ]
