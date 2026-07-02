@@ -1,6 +1,6 @@
 [
   {
-    "id": 5658,
+    "id": 1200,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 4439,
+    "id": 2644,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,7 +18,25 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 6205,
+    "id": 3069,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 9782,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/2/a-war-zone-venezuela-aid-workers-fear-health-crisis-after-earthquakes?traffic_source=rss",
+    "time": "Thu, 02 Jul 2026"
+  },
+  {
+    "id": 6830,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
@@ -27,25 +45,7 @@
     "time": "Thu, 02 Jul 2026"
   },
   {
-    "id": 8357,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'IA fait mourir Donald Trump de la rage",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260701-l-ia-fait-mourir-donald-trump-de-la-rage",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 1036,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ukraine : Kiev ciblée par des barrages de missiles, plusieurs incendies déclarés",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260701-ukraine-incendie-centre-kiev-explosion-russie-guerre-attaque-alerte-aerienne",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 3692,
+    "id": 418,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6365,
+    "id": 5422,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7807,
+    "id": 2981,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6098,
+    "id": 4710,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7302,
+    "id": 580,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2236,
+    "id": 4139,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1337,
+    "id": 3153,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 569,
+    "id": 9477,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6956,
+    "id": 8841,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 19,
+    "id": 3221,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 656,
+    "id": 2509,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the binary: Global traditions of gender fluidity",
@@ -144,7 +144,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 1810,
+    "id": 5429,
     "level": "medium",
     "country": "🌍",
     "text": "Selling identities: The commercialization of Mayan culture",
@@ -153,7 +153,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 3845,
+    "id": 6640,
     "level": "medium",
     "country": "🌍",
     "text": "The meme that became a movement: Inside India’s Cockroach Janta Party",
@@ -162,7 +162,7 @@
     "time": "Wed, 01 Jul 2026"
   },
   {
-    "id": 6321,
+    "id": 9629,
     "level": "medium",
     "country": "🌍",
     "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
@@ -171,7 +171,7 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 5900,
+    "id": 3009,
     "level": "medium",
     "country": "🌍",
     "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
