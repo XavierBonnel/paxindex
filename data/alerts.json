@@ -1,6 +1,6 @@
 [
   {
-    "id": 7201,
+    "id": 8473,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 8814,
+    "id": 9889,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,25 +18,16 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 5757,
+    "id": 612,
     "level": "critical",
     "country": "🌍",
-    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 2 July 2026)",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/map/lebanon/lebanon-conflict-intensity-snapshot-2-march-2-july-2026",
+    "text": "Pakistan bus crash kills 40",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 7744,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Attacks on Health Care in Myanmar: 10 - 23 June 2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/myanmar/attacks-health-care-myanmar-10-23-june-2026",
-    "time": "Fri, 03 Jul 2026"
-  },
-  {
-    "id": 2982,
+    "id": 4652,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza sports community pledges to continue legacy of killed goalkeeper",
@@ -45,7 +36,7 @@
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 8024,
+    "id": 7419,
     "level": "critical",
     "country": "🌍",
     "text": "Mourners bury victims of Damascus cafe bombing with six lawyers among dead",
@@ -54,25 +45,25 @@
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 1514,
+    "id": 4419,
     "level": "critical",
     "country": "🌍",
-    "text": "Russia’s advance collapses in Ukraine, ‘40,000’ troops killed in June",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/3/russian-advance-collapses-in-ukraine-as-anxiety-rises-in-moscow?traffic_source=rss",
+    "text": "Taxes américaines, déferlante chinoise : la guerre commerciale de retour ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20260703-taxes-am%C3%A9ricaines-d%C3%A9ferlante-chinoise-la-guerre-commerciale-de-retour",
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 8630,
+    "id": 4729,
     "level": "critical",
     "country": "🌍",
-    "text": "Interpol names Ukrainian woman as suspect in Monaco bombing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/3/interpol-names-ukrainian-woman-as-suspect-in-monaco-bombing?traffic_source=rss",
+    "text": "Au Bénin, des potagers scolaires pour lutter contre le changement climatique",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-au-b%C3%A9nin-des-potagers-scolaires-pour-lutter-contre-le-changement-climatique",
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 3367,
+    "id": 5072,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : pourquoi les bombardements stratégiques éclipsent la ligne d",
@@ -81,34 +72,16 @@
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 7963,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran : à la veille des funérailles de Khamenei, qui détient les rennes du pays ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-iran-%C3%A0-la-veille-des-fun%C3%A9railles-de-khamenei-qui-d%C3%A9tient-les-rennes-du-pays",
-    "time": "Fri, 03 Jul 2026"
-  },
-  {
-    "id": 3868,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : Kiev en deuil après les frappes russes les plus meurtrières de l’année",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-ukraine-kiev-en-deuil-apr%C3%A8s-les-frappes-russes-les-plus-meurtri%C3%A8res-de-l-ann%C3%A9e",
-    "time": "Fri, 03 Jul 2026"
-  },
-  {
-    "id": 5953,
+    "id": 7916,
     "level": "high",
     "country": "🌍",
-    "text": "Monaco : une Ukrainienne de 39 ans, principale suspecte dans l'explosion d'un co",
+    "text": "Iran : les funérailles d’Ali Khamenei se préparent",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-monaco-une-ukrainienne-de-39-ans-principale-suspecte-dans-l-explosion-d-un-colis-pi%C3%A9g%C3%A9",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-iran-les-fun%C3%A9railles-d-ali-khamenei-se-pr%C3%A9parent",
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 6848,
+    "id": 3899,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4266,
+    "id": 152,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1302,
+    "id": 3695,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5377,
+    "id": 870,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 191,
+    "id": 5719,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6844,
+    "id": 8332,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6476,
+    "id": 6052,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +144,39 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6979,
+    "id": 3362,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 222,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 4954,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 3282,
+    "level": "medium",
+    "country": "🌍",
+    "text": "After repeal of anti-gay sex law, LGBTQ+ individuals continue to face discrimina",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/03/after-repeal-of-anti-gay-sex-law-lgbtq-individuals-continue-to-face-discrimination-in-singapore/",
+    "time": "Fri, 03 Jul 2026"
   }
 ]
