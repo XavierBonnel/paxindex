@@ -1,6 +1,6 @@
 [
   {
-    "id": 9280,
+    "id": 1400,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 7934,
+    "id": 7593,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,16 +18,79 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 6234,
+    "id": 8087,
     "level": "critical",
     "country": "🌍",
-    "text": "Could water become a flashpoint between Islamabad and New Delhi?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
-    "time": "Thu, 02 Jul 2026"
+    "text": "Haiti - Seasonal Monitor: Reduced rainfall and high temperatures are increasing ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/haiti/haiti-seasonal-monitor-reduced-rainfall-and-high-temperatures-are-increasing-moisture-stress-july-1-2026",
+    "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 9404,
+    "id": 7289,
+    "level": "critical",
+    "country": "🌍",
+    "text": "World: West Africa Seasonal Monitor: The rainy season continues normally in bimo",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/world/west-africa-seasonal-monitor-rainy-season-continues-normally-bimodal-areas-and-expands-gradually-sahel-june-26-2026",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 1125,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Zimbabwe Food Security Outlook: Despite above-average national harvest, food gap",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/zimbabwe/zimbabwe-food-security-outlook-despite-above-average-national-harvest-food-gaps-likely-deficit-areas-late-2026-june-2026-january-2027",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 2402,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Canada’s Carney secures deal for pipeline to expand oil exports beyond US",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 8916,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Papua rebels claim to have killed US pilot in Indonesia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/papua-rebels-claim-to-have-killed-us-pilot-in-indonesia?traffic_source=rss",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 2803,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran warns ships against using unapproved routes in Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 8160,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : le corps du guide suprême Khamenei est arrivé à la grande Mosalla à ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260703-en-direct-iran-prepare-funerailles-guide-supreme-ali-khamenei-liban-guerre-israel-etats-unis-negociations",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 5460,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ebola a fait plus de 400 morts en RD Congo, l'OMS annonce le lancement d'un essa",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260703-ebola-400-morts-rd-congo-oms-annonce-lancement-essai-clinique-epidemie-virus-sante-traitement",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 84,
     "level": "critical",
     "country": "🌍",
     "text": "Le président Aoun assure que le Liban ne cèdera \"pas un pouce\" du territoire à I",
@@ -36,7 +99,16 @@
     "time": "Thu, 02 Jul 2026"
   },
   {
-    "id": 852,
+    "id": 6999,
+    "level": "high",
+    "country": "🌍",
+    "text": "Powerful explosion as firefighters probe smoke at Tacoma apartment",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/powerful-explosion-as-firefighters-probe-smoke-at-tacoma-apartment?traffic_source=rss",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 1207,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3397,
+    "id": 7892,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -54,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4440,
+    "id": 3245,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -63,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5022,
+    "id": 26,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -72,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6825,
+    "id": 9593,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8811,
+    "id": 9697,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8606,
+    "id": 4628,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,84 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6560,
+    "id": 4320,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 1842,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 3494,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 3053,
-    "level": "medium",
-    "country": "🌍",
-    "text": "I learned the feeling of statelessness in my Uyghur homeland",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/02/i-learned-the-feeling-of-statelessness-in-my-uyghur-homeland/",
-    "time": "Thu, 02 Jul 2026"
-  },
-  {
-    "id": 2162,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Beyond the binary: Global traditions of gender fluidity",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/beyond-the-binary-global-traditions-of-gender-fluidity/",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 9455,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Selling identities: The commercialization of Mayan culture",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/a-sales-narrative-the-commercialization-of-mayan-identities/",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 813,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The meme that became a movement: Inside India’s Cockroach Janta Party",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/01/the-meme-that-became-a-movement-inside-indias-cockroach-janta-party/",
-    "time": "Wed, 01 Jul 2026"
-  },
-  {
-    "id": 9468,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Fighting Western imports: The justification of the anti-LGBTQ+ agenda in Africa",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/29/fighting-western-imports-the-justification-of-the-anti-lgbtq-agenda-in-africa/",
-    "time": "Mon, 29 Jun 2026"
-  },
-  {
-    "id": 4529,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Fortress Europe: the new pact on migration and asylum will further deteriorate c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/06/28/fortress-europe-the-new-pact-on-migration-and-asylum-will-further-deteriorate-chances-for-lgbtq-refugees/",
-    "time": "Sun, 28 Jun 2026"
   }
 ]
