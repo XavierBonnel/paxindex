@@ -1,6 +1,6 @@
 [
   {
-    "id": 8473,
+    "id": 6176,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 9889,
+    "id": 8198,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,34 +18,88 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 612,
+    "id": 7408,
     "level": "critical",
     "country": "🌍",
-    "text": "Pakistan bus crash kills 40",
+    "text": "Is China’s new ethnic unity law a step towards forced assimilation?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 4652,
+    "id": 8101,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza sports community pledges to continue legacy of killed goalkeeper",
+    "text": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/3/gaza-sports-community-pledges-to-continue-legacy-of-killed-goalkeeper?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/3/lebanon-israel-deal-betrays-victims-of-war-crimes-rights-groups-say?traffic_source=rss",
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 7419,
+    "id": 4526,
     "level": "critical",
     "country": "🌍",
-    "text": "Mourners bury victims of Damascus cafe bombing with six lawyers among dead",
+    "text": "Settlers attack activists, Palestinians trying to access their land",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/3/mourners-bury-victims-of-damascus-cafe-bombing-with-six-lawyers-among-dead?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss",
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 4419,
+    "id": 1006,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 3905,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 2269,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukrainian woman identified as main suspect in Monaco bombing",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/ukrainian-woman-identified-as-main-suspect-in-monaco-bombing?traffic_source=rss",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 5452,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La France va-t-elle connaître une canicule allant jusqu'à 45°C à partir du 6 jui",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260703-france-va-t-elle-conna%C3%AEtre-canicule-45%C2%B0c-%C3%A0-partir-6-juillet-meteo",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 126,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"10 000 morts\" : d'où vient ce chiffre évoqué par des élus Écologistes suite à l",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260703-10-000-morts-d-o%C3%B9-vient-ce-chiffre-%C3%A9voqu%C3%A9-par-des-%C3%A9lus-%C3%A9cologistes-suite-%C3%A0-la-canicule",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 3423,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine, 250ème anniversaire des USA, manifestations en Afrique du Sud",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260703-guerre-en-ukraine-250%C3%A8me-anniversaire-des-usa-manifestations-en-afrique-du-sud-et-coupe-du-monde",
+    "time": "Fri, 03 Jul 2026"
+  },
+  {
+    "id": 494,
     "level": "critical",
     "country": "🌍",
     "text": "Taxes américaines, déferlante chinoise : la guerre commerciale de retour ?",
@@ -54,7 +108,7 @@
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 4729,
+    "id": 7401,
     "level": "critical",
     "country": "🌍",
     "text": "Au Bénin, des potagers scolaires pour lutter contre le changement climatique",
@@ -63,16 +117,7 @@
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 5072,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : pourquoi les bombardements stratégiques éclipsent la ligne d",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260703-guerre-en-ukraine-pourquoi-les-bombardements-strat%C3%A9giques-%C3%A9clipsent-la-ligne-de-front",
-    "time": "Fri, 03 Jul 2026"
-  },
-  {
-    "id": 7916,
+    "id": 9899,
     "level": "high",
     "country": "🌍",
     "text": "Iran : les funérailles d’Ali Khamenei se préparent",
@@ -81,7 +126,7 @@
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 3899,
+    "id": 9126,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 152,
+    "id": 1877,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3695,
+    "id": 1601,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 870,
+    "id": 5118,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5719,
+    "id": 285,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,57 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8332,
+    "id": 6930,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 6052,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 3362,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 222,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 4954,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 3282,
-    "level": "medium",
-    "country": "🌍",
-    "text": "After repeal of anti-gay sex law, LGBTQ+ individuals continue to face discrimina",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/03/after-repeal-of-anti-gay-sex-law-lgbtq-individuals-continue-to-face-discrimination-in-singapore/",
-    "time": "Fri, 03 Jul 2026"
   }
 ]
