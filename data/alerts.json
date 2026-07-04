@@ -1,6 +1,6 @@
 [
   {
-    "id": 8774,
+    "id": 3908,
     "level": "critical",
     "country": "🌍",
     "text": "Why gender diversity matters in technology",
@@ -9,7 +9,7 @@
     "time": "Tue, 30 Jun 2026"
   },
   {
-    "id": 457,
+    "id": 6783,
     "level": "critical",
     "country": "🌍",
     "text": "Gender-bending in Balkan history and folklore: Sworn virgins, ritual roles and w",
@@ -18,7 +18,25 @@
     "time": "Mon, 29 Jun 2026"
   },
   {
-    "id": 8440,
+    "id": 1404,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Armed fighters attack multiple towns across Mali",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
+    "time": "Sat, 04 Jul 2026"
+  },
+  {
+    "id": 9235,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Saudi-led coalition pledges ‘unprecedented’ force against Houthi threats",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/4/saudi-led-coalition-pledges-unprecedented-force-against-houthi-threats?traffic_source=rss",
+    "time": "Sat, 04 Jul 2026"
+  },
+  {
+    "id": 4257,
     "level": "critical",
     "country": "🌍",
     "text": "Trump praises army, rails against communism in US 250th anniversary speech",
@@ -27,43 +45,7 @@
     "time": "Sat, 04 Jul 2026"
   },
   {
-    "id": 9942,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Could Israel really build settlements in Gaza?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss",
-    "time": "Sat, 04 Jul 2026"
-  },
-  {
-    "id": 9617,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump calls communism a ‘mortal threat’ at US 250th birthday event",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event?traffic_source=rss",
-    "time": "Sat, 04 Jul 2026"
-  },
-  {
-    "id": 4178,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘El Obeid crisis could be worse than El Fasher,’ warns ex-UN official",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/el-obeid-crisis-could-be-worse-than-el-fasher-warns-ex-un-official?traffic_source=rss",
-    "time": "Sat, 04 Jul 2026"
-  },
-  {
-    "id": 9798,
-    "level": "critical",
-    "country": "🌍",
-    "text": "250 ans d'indépendance des États-Unis : comment la France a contribué à faire ba",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260704-250-ans-d-ind%C3%A9pendance-des-%C3%A9tats-unis-comment-la-france-a-contribu%C3%A9-%C3%A0-faire-basculer-la-guerre",
-    "time": "Sat, 04 Jul 2026"
-  },
-  {
-    "id": 2533,
+    "id": 46,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9954,
+    "id": 5460,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5823,
+    "id": 1722,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4810,
+    "id": 749,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9641,
+    "id": 8288,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8983,
+    "id": 6416,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9502,
+    "id": 8647,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5470,
+    "id": 5338,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4606,
+    "id": 3956,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5008,
+    "id": 7098,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,7 +135,25 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 3912,
+    "id": 4002,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What the ending of the U.S.’ Temporary Protection Status could mean for Haiti",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/04/what-the-ending-of-the-u-s-temporary-protection-status-could-mean-for-haiti/",
+    "time": "Sat, 04 Jul 2026"
+  },
+  {
+    "id": 1290,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hate on the ballot: Transphobia and elections",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/04/hate-on-the-ballot-transphobia-and-elections/",
+    "time": "Sat, 04 Jul 2026"
+  },
+  {
+    "id": 5365,
     "level": "medium",
     "country": "🌍",
     "text": "No safety, no way out: The Rohingya girls caught between aid cuts and child marr",
@@ -162,7 +162,7 @@
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 2629,
+    "id": 2896,
     "level": "medium",
     "country": "🌍",
     "text": "After repeal of anti-gay sex law, LGBTQ+ individuals continue to face discrimina",
@@ -171,7 +171,7 @@
     "time": "Fri, 03 Jul 2026"
   },
   {
-    "id": 8707,
+    "id": 4130,
     "level": "medium",
     "country": "🌍",
     "text": "I learned the feeling of statelessness in my Uyghur homeland",
