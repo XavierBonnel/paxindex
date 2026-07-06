@@ -1,60 +1,60 @@
 [
   {
-    "id": 5670,
+    "id": 1015,
     "level": "critical",
     "country": "🌍",
-    "text": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+    "text": "At least 19 people killed in Sri Lanka prison clashes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/6/at-least-19-people-killed-in-sri-lanka-prison-clashes?traffic_source=rss",
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 8823,
+    "id": 9358,
     "level": "critical",
     "country": "🌍",
-    "text": "Neymar quits international football after Brazil’s World Cup knockout loss",
+    "text": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/6/neymar-quits-international-football-after-brazils-world-cup-knockout-loss?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 9830,
+    "id": 7390,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+    "text": "Sudan’s maternity wards reopen, bringing hope amid war struggles",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/7/6/sudans-maternity-wards-reopen-bringing-hope-amid-post-war-struggles?traffic_source=rss",
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 7581,
+    "id": 6067,
     "level": "critical",
     "country": "🌍",
-    "text": "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest?traffic_source=rss",
-    "time": "Sun, 05 Jul 2026"
-  },
-  {
-    "id": 5020,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine en direct : huit morts dans la région de Kiev, visée par des frappes rus",
+    "text": "Des bombardements russes font au moins 10 morts dans la région de Kiev",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260706-ukraine-en-direct-huit-morts-dans-la-r%C3%A9gion-de-kiev-vis%C3%A9e-par-des-frappes-russes",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260706-des-bombardements-russes-font-au-moins-10-morts-dans-la-r%C3%A9gion-de-kiev",
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 1421,
+    "id": 5014,
     "level": "critical",
     "country": "🌍",
-    "text": "Venezuela : le bilan des séismes dépasse les 3 300 morts, des milliers de dispar",
+    "text": "Féminicide : Cédric Jubillar finit par confesser le meurtre de son épouse Delphi",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260706-venezuela-le-bilan-des-s%C3%A9ismes-d%C3%A9passe-les-3-300-morts-des-milliers-de-disparus",
+    "link": "https://www.france24.com/fr/france/20260706-f%C3%A9minicide-c%C3%A9dric-jubillar-finit-par-reconnaitre-le-meurtre-de-son-%C3%A9pouse-delphine",
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 5678,
+    "id": 3027,
+    "level": "high",
+    "country": "🌍",
+    "text": "China missile test draws criticism from Australia, New Zealand, Japan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss",
+    "time": "Mon, 06 Jul 2026"
+  },
+  {
+    "id": 5807,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5090,
+    "id": 3078,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 256,
+    "id": 401,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6610,
+    "id": 5607,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1231,
+    "id": 5045,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4671,
+    "id": 3389,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2602,
+    "id": 5482,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9962,
+    "id": 7629,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9053,
+    "id": 5527,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9552,
+    "id": 1496,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1136,
+    "id": 9571,
     "level": "medium",
     "country": "🌍",
     "text": "Colombia becomes the first Latin American country to ban female genital mutilati",
@@ -153,7 +153,7 @@
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 2106,
+    "id": 3664,
     "level": "medium",
     "country": "🌍",
     "text": "Online visibility becomes currency for young Cameroonians",
@@ -162,7 +162,7 @@
     "time": "Sun, 05 Jul 2026"
   },
   {
-    "id": 8341,
+    "id": 148,
     "level": "medium",
     "country": "🌍",
     "text": "What the ending of the U.S.’ Temporary Protection Status could mean for Haiti",
@@ -171,7 +171,7 @@
     "time": "Sat, 04 Jul 2026"
   },
   {
-    "id": 3820,
+    "id": 6363,
     "level": "medium",
     "country": "🌍",
     "text": "Hate on the ballot: Transphobia and elections",
