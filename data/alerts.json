@@ -1,69 +1,42 @@
 [
   {
-    "id": 7129,
+    "id": 3184,
     "level": "critical",
     "country": "🌍",
-    "text": "NATO summit begins in Turkiye’s Ankara: Who is attending, what is at stake?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake?traffic_source=rss",
+    "text": "Colis piégé à Monaco : l'Ukrainienne suspectée a été retrouvée morte près de Kie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260707-colis-pi%C3%A9g%C3%A9-monaco-ukrainienne-suspect%C3%A9e-retrouv%C3%A9e-morte-pr%C3%A8s-kiev-torture-anastasia-berezovska",
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 2468,
+    "id": 3463,
     "level": "critical",
     "country": "🌍",
-    "text": "Palestine weekly: One thousand days of genocide in Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 5662,
-    "level": "high",
-    "country": "🌍",
-    "text": "Explosions heard in Syria’s Damascus during French President Macron’s visit",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 6351,
-    "level": "high",
-    "country": "🌍",
-    "text": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 3443,
-    "level": "high",
-    "country": "🌍",
-    "text": "En Allemagne, l'armée attire les jeunes",
+    "text": "Syrie : Emmanuel Macron maintient sa visite malgré deux explosions à Damas",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260707-en-allemagne-l-arm%C3%A9e-attire-les-jeunes",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260707-syrie-emmanuel-macron-maintient-sa-visite-malgr%C3%A9-deux-explosions-%C3%A0-damas",
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 8013,
+    "id": 4428,
     "level": "high",
     "country": "🌍",
-    "text": "🔴 Syrie : plusieurs explosions entendues à Damas, au second jour de la visite du",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260707-emmanuel-macron-retrouve-ahmed-al-chareh-pour-sa-visite-historique-en-syrie",
+    "text": "Explosions in Damascus during Macron visit: What we know",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 9293,
+    "id": 6346,
     "level": "high",
     "country": "🌍",
-    "text": "Syrie : explosions à Damas au second jour de la visite d'Emmanuel Macron",
+    "text": "Syrie : la reconstruction attire les entreprises françaises",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260707-emmanuel-macron-retrouve-ahmed-al-chareh-pour-sa-visite-historique-en-syrie",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260707-syrie-la-reconstruction-attire-les-entreprises-fran%C3%A7aises",
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 2069,
+    "id": 743,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4196,
+    "id": 9477,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5933,
+    "id": 4731,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8282,
+    "id": 1961,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7882,
+    "id": 6164,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7305,
+    "id": 9811,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1551,
+    "id": 1114,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8650,
+    "id": 5497,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5407,
+    "id": 5656,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9969,
+    "id": 4063,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7502,
+    "id": 5885,
     "level": "medium",
     "country": "🌍",
     "text": "What the world misses when it doesn’t understand statelessness",
@@ -162,7 +135,7 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 6202,
+    "id": 9816,
     "level": "medium",
     "country": "🌍",
     "text": "Citizens lead relief efforts after major twin quakes in Venezuela",
@@ -171,12 +144,39 @@
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 1610,
+    "id": 9193,
     "level": "medium",
     "country": "🌍",
     "text": "Colombia becomes the first Latin American country to ban female genital mutilati",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/06/colombia-becomes-the-first-latin-american-country-to-ban-female-genital-mutilation/",
     "time": "Mon, 06 Jul 2026"
+  },
+  {
+    "id": 809,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Online visibility becomes currency for young Cameroonians",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/05/online-visibility-becomes-currency-for-young-cameroonians/",
+    "time": "Sun, 05 Jul 2026"
+  },
+  {
+    "id": 5752,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What the ending of the U.S.’ Temporary Protection Status could mean for Haiti",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/04/what-the-ending-of-the-u-s-temporary-protection-status-could-mean-for-haiti/",
+    "time": "Sat, 04 Jul 2026"
+  },
+  {
+    "id": 6365,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hate on the ballot: Transphobia and elections",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/04/hate-on-the-ballot-transphobia-and-elections/",
+    "time": "Sat, 04 Jul 2026"
   }
 ]
