@@ -1,42 +1,42 @@
 [
   {
-    "id": 3184,
+    "id": 6677,
     "level": "critical",
     "country": "🌍",
-    "text": "Colis piégé à Monaco : l'Ukrainienne suspectée a été retrouvée morte près de Kie",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260707-colis-pi%C3%A9g%C3%A9-monaco-ukrainienne-suspect%C3%A9e-retrouv%C3%A9e-morte-pr%C3%A8s-kiev-torture-anastasia-berezovska",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 6 July 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/map/lebanon/lebanon-conflict-intensity-snapshot-2-march-6-july-2026",
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 3463,
+    "id": 3832,
     "level": "critical",
     "country": "🌍",
-    "text": "Syrie : Emmanuel Macron maintient sa visite malgré deux explosions à Damas",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260707-syrie-emmanuel-macron-maintient-sa-visite-malgr%C3%A9-deux-explosions-%C3%A0-damas",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 4428,
-    "level": "high",
-    "country": "🌍",
-    "text": "Explosions in Damascus during Macron visit: What we know",
+    "text": "At least nine police officers killed in southwestern Pakistan attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/7/explosions-in-damascus-during-macron-visit-what-we-know?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss",
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 6346,
-    "level": "high",
+    "id": 7248,
+    "level": "critical",
     "country": "🌍",
-    "text": "Syrie : la reconstruction attire les entreprises françaises",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260707-syrie-la-reconstruction-attire-les-entreprises-fran%C3%A7aises",
+    "text": "Displaced Gaza farmers turn to dirt near tents to grow crops",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 743,
+    "id": 5642,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En Syrie, Emmanuel Macron réaffirme son soutien à Ahmed al-Charaa pour stabilise",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260707-syrie-emmanuel-macron-r%C3%A9affirme-soutien-ahmed-al-charaa-pour-stabiliser-pays",
+    "time": "Tue, 07 Jul 2026"
+  },
+  {
+    "id": 4682,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9477,
+    "id": 2331,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -54,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4731,
+    "id": 9564,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -63,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1961,
+    "id": 4802,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -72,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6164,
+    "id": 8859,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9811,
+    "id": 4258,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1114,
+    "id": 2100,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5497,
+    "id": 5562,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5656,
+    "id": 7874,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4063,
+    "id": 7117,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -126,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5885,
+    "id": 8480,
     "level": "medium",
     "country": "🌍",
     "text": "What the world misses when it doesn’t understand statelessness",
@@ -135,7 +135,7 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 9816,
+    "id": 711,
     "level": "medium",
     "country": "🌍",
     "text": "Citizens lead relief efforts after major twin quakes in Venezuela",
@@ -144,7 +144,7 @@
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 9193,
+    "id": 6604,
     "level": "medium",
     "country": "🌍",
     "text": "Colombia becomes the first Latin American country to ban female genital mutilati",
@@ -153,7 +153,7 @@
     "time": "Mon, 06 Jul 2026"
   },
   {
-    "id": 809,
+    "id": 6212,
     "level": "medium",
     "country": "🌍",
     "text": "Online visibility becomes currency for young Cameroonians",
@@ -162,7 +162,7 @@
     "time": "Sun, 05 Jul 2026"
   },
   {
-    "id": 5752,
+    "id": 7916,
     "level": "medium",
     "country": "🌍",
     "text": "What the ending of the U.S.’ Temporary Protection Status could mean for Haiti",
@@ -171,7 +171,7 @@
     "time": "Sat, 04 Jul 2026"
   },
   {
-    "id": 6365,
+    "id": 7631,
     "level": "medium",
     "country": "🌍",
     "text": "Hate on the ballot: Transphobia and elections",
