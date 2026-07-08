@@ -1,6 +1,42 @@
 [
   {
-    "id": 7325,
+    "id": 7663,
+    "level": "critical",
+    "country": "🌍",
+    "text": "South Sudan | Conflict, fragilities and population displacement June 2026 - DG E",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/map/south-sudan/south-sudan-conflict-fragilities-and-population-displacement-june-2026-dg-echo-daily-map-08072026",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 7978,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 7952,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Family demands investigation after US man killed by ICE agent in Texas",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/8/family-demands-investigation-after-us-man-killed-by-ice-agent-in-texas?traffic_source=rss",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 6452,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Deadly strikes in Gaza leave 5 dead, children wounded",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/deadly-strikes-in-gaza-leave-5-dead-children-wounded?traffic_source=rss",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 5384,
     "level": "critical",
     "country": "🌍",
     "text": "Former rebel turned government ally proposes a path to peace for Sudan",
@@ -9,16 +45,7 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 777,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US says conducting new wave of strikes on Iran as ceasefire falters",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss",
-    "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 7221,
+    "id": 6826,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 L'armée américaine annonce avoir lancé de nouvelles frappes contre l'Iran, sui",
@@ -27,7 +54,7 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 4252,
+    "id": 759,
     "level": "critical",
     "country": "🌍",
     "text": "Élevages décimés, récoltes réduites : l'agriculture forcée de s'adapter aux cani",
@@ -36,7 +63,16 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 7650,
+    "id": 4206,
+    "level": "high",
+    "country": "🌍",
+    "text": "Yemen: When kidnapping kills more than bullets: operational lessons from civil–m",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/when-kidnapping-kills-more-bullets-operational-lessons-civil-military-coordination-humanitarian-crises",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 6410,
     "level": "high",
     "country": "🌍",
     "text": "Les États-Unis vont autoriser l'Ukraine à fabriquer des missiles Patriot",
@@ -45,7 +81,7 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 7777,
+    "id": 869,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2173,
+    "id": 9954,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6275,
+    "id": 1210,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 234,
+    "id": 531,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2065,
+    "id": 9657,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8374,
+    "id": 8538,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3577,
+    "id": 7127,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 31,
+    "id": 2065,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5355,
+    "id": 2980,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 685,
+    "id": 5890,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,48 +171,12 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7318,
+    "id": 213,
     "level": "medium",
     "country": "🌍",
     "text": "The gap in the archives: Preserving the history of everyday objects",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/08/the-gap-in-the-archives-preserving-the-history-of-everyday-objects/",
     "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 2725,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Feelings of statelessness: Watching the Cantonese opera ‘The Flower Princess’ in",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/08/feelings-of-statelessness-watching-the-cantonese-opera-the-flower-princess-in-the-uk/",
-    "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 9607,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Labour Day under a state of emergency in Trinidad and Tobago",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/labour-day-under-a-state-of-emergency-in-trinidad-and-tobago/",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 3760,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What the world misses when it doesn’t understand statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/what-the-world-misses-when-it-doesnt-understand-statelessness/",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 4855,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Citizens lead relief efforts after major twin quakes in Venezuela",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/06/citizens-lead-relief-efforts-after-major-twin-quakes-in-venezuela/",
-    "time": "Mon, 06 Jul 2026"
   }
 ]
