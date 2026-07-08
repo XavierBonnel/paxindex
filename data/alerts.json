@@ -1,6 +1,15 @@
 [
   {
-    "id": 7846,
+    "id": 1244,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
+    "time": "Tue, 07 Jul 2026"
+  },
+  {
+    "id": 2336,
     "level": "critical",
     "country": "🌍",
     "text": "US says strikes launched as explosions heard in southern Iran",
@@ -9,7 +18,7 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 9953,
+    "id": 6871,
     "level": "critical",
     "country": "🌍",
     "text": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
@@ -18,25 +27,7 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 5450,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye?traffic_source=rss",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 5674,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Deadly  landslide buries tunnel construction site in India",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/deadly-landslide-buries-tunnel-construction-site-in-india?traffic_source=rss",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 3127,
+    "id": 6165,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : les États-Unis ont lancé des \"frappes puissantes\" contre l'Iran aprè",
@@ -45,16 +36,16 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 3127,
+    "id": 49,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : les États-Unis ont lancé des \"frappes puissantes\" contre l'Iran aprè",
+    "text": "En direct : les États-Unis ont lancé des \"frappes puissantes\" contre l'Iran",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260707-en-direct-armee-americaine-annonce-avoir-lancement-frappes-puissantes-contre-iran-ormuz-detroit-etats-unis-liban",
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 3981,
+    "id": 1915,
     "level": "critical",
     "country": "🌍",
     "text": "Emmanuel Macron en Syrie : un pays à reconstruire, des marchés à saisir",
@@ -63,16 +54,7 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 8210,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le séisme au Venezuela, déclenché par des rayons lasers américains ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260707-le-s%C3%A9isme-au-venezuela-d%C3%A9clench%C3%A9-par-des-rayons-lasers-am%C3%A9ricains",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 6189,
+    "id": 9266,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4883,
+    "id": 4116,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5364,
+    "id": 9249,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6518,
+    "id": 8337,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2525,
+    "id": 4086,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3214,
+    "id": 2589,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4644,
+    "id": 4862,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 87,
+    "id": 8919,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7342,
+    "id": 4582,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7507,
+    "id": 4541,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -162,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2375,
+    "id": 4987,
     "level": "medium",
     "country": "🌍",
     "text": "Labour Day under a state of emergency in Trinidad and Tobago",
@@ -171,12 +153,30 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 7083,
+    "id": 4158,
     "level": "medium",
     "country": "🌍",
     "text": "What the world misses when it doesn’t understand statelessness",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/07/what-the-world-misses-when-it-doesnt-understand-statelessness/",
     "time": "Tue, 07 Jul 2026"
+  },
+  {
+    "id": 6023,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Citizens lead relief efforts after major twin quakes in Venezuela",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/06/citizens-lead-relief-efforts-after-major-twin-quakes-in-venezuela/",
+    "time": "Mon, 06 Jul 2026"
+  },
+  {
+    "id": 4672,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Colombia becomes the first Latin American country to ban female genital mutilati",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/06/colombia-becomes-the-first-latin-american-country-to-ban-female-genital-mutilation/",
+    "time": "Mon, 06 Jul 2026"
   }
 ]
