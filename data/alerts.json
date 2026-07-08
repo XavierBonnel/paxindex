@@ -1,33 +1,78 @@
 [
   {
-    "id": 1244,
+    "id": 8628,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
-    "time": "Tue, 07 Jul 2026"
+    "text": "Colombia - Food Security Outlook (June 2026 - January 2027): Multiple shocks dri",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/colombia/colombia-food-security-outlook-june-2026-january-2027-multiple-shocks-drive-crisis-ipc-phase-3-outcomes-la-guajira-and-choco",
+    "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 2336,
+    "id": 9114,
     "level": "critical",
     "country": "🌍",
-    "text": "US says strikes launched as explosions heard in southern Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
-    "time": "Tue, 07 Jul 2026"
+    "text": "South Sudan: Food Security Outlook Update: Conflict and poor rains to sustain Em",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/south-sudan/south-sudan-food-security-outlook-update-conflict-and-poor-rains-sustain-emergency-and-risk-famine-through-harvest-june-2026-january-2027",
+    "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 6871,
+    "id": 3428,
     "level": "critical",
     "country": "🌍",
-    "text": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
+    "text": "FIFA condemns fan’s racist attack on IShowSpeed at Argentina World Cup match",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss",
-    "time": "Tue, 07 Jul 2026"
+    "link": "https://www.aljazeera.com/sports/2026/7/8/fifa-condemns-fans-racist-attack-on-ishowspeed-at-argentina-world-cup-match?traffic_source=rss",
+    "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 6165,
+    "id": 4474,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Experts warn Trump is playing politics with US intelligence",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/experts-warn-trump-is-playing-politics-with-us-intelligence?traffic_source=rss",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 7250,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US immigration officer shoots and kills man in Texas",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 1902,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US strikes Iran despite promised pause for Khamenei funeral",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/us-strikes-iran-despite-promised-pause-for-khamenei-funeral?traffic_source=rss",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 4884,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 3723,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les États-Unis passent de nouveau à l'action contre l'Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-les-%C3%A9tats-unis-passent-de-nouveau-%C3%A0-l-action-contre-l-iran",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 1742,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : les États-Unis ont lancé des \"frappes puissantes\" contre l'Iran aprè",
@@ -36,16 +81,7 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 49,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : les États-Unis ont lancé des \"frappes puissantes\" contre l'Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260707-en-direct-armee-americaine-annonce-avoir-lancement-frappes-puissantes-contre-iran-ormuz-detroit-etats-unis-liban",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 1915,
+    "id": 1292,
     "level": "critical",
     "country": "🌍",
     "text": "Emmanuel Macron en Syrie : un pays à reconstruire, des marchés à saisir",
@@ -54,7 +90,16 @@
     "time": "Tue, 07 Jul 2026"
   },
   {
-    "id": 9266,
+    "id": 4145,
+    "level": "high",
+    "country": "🌍",
+    "text": "En direct : les États-Unis ont frappé plus de 80 cibles en Iran, Téhéran riposte",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260707-en-direct-armee-americaine-annonce-avoir-lancement-frappes-puissantes-contre-iran-ormuz-detroit-etats-unis-liban",
+    "time": "Tue, 07 Jul 2026"
+  },
+  {
+    "id": 545,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4116,
+    "id": 486,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9249,
+    "id": 6449,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8337,
+    "id": 6855,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4086,
+    "id": 5400,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2589,
+    "id": 2104,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4862,
+    "id": 7289,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8919,
+    "id": 5538,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,57 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4582,
+    "id": 6501,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 4541,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 4987,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Labour Day under a state of emergency in Trinidad and Tobago",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/labour-day-under-a-state-of-emergency-in-trinidad-and-tobago/",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 4158,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What the world misses when it doesn’t understand statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/what-the-world-misses-when-it-doesnt-understand-statelessness/",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 6023,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Citizens lead relief efforts after major twin quakes in Venezuela",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/06/citizens-lead-relief-efforts-after-major-twin-quakes-in-venezuela/",
-    "time": "Mon, 06 Jul 2026"
-  },
-  {
-    "id": 4672,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Colombia becomes the first Latin American country to ban female genital mutilati",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/06/colombia-becomes-the-first-latin-american-country-to-ban-female-genital-mutilation/",
-    "time": "Mon, 06 Jul 2026"
   }
 ]
