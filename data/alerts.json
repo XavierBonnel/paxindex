@@ -1,60 +1,69 @@
 [
   {
-    "id": 9712,
+    "id": 4300,
     "level": "critical",
     "country": "🌍",
-    "text": "Mozambique: Life-saving humanitarian assistance for conflict-affected communitie",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/mozambique/mozambique-life-saving-humanitarian-assistance-conflict-affected-communities",
-    "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 2521,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
+    "text": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/8/syria-says-one-killed-36-wounded-after-damascus-blasts-during-macron-visit?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 4949,
+    "id": 113,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
+    "text": "Why can’t we count our dead?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 3102,
+    "id": 26,
     "level": "critical",
     "country": "🌍",
-    "text": "Nigeria’s counterterrorism gains carry a warning",
+    "text": "Syria in tough balancing act as it tightens security after Damascus blasts",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/7/8/nigerias-counterterrorism-gains-carry-a-warning?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts?traffic_source=rss",
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 5832,
+    "id": 3186,
     "level": "critical",
     "country": "🌍",
-    "text": "Why have US-Iran strikes resumed and what does it mean for peace?",
+    "text": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/8/why-have-us-iran-strikes-resumed-and-what-does-it-mean-for-peace-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes?traffic_source=rss",
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 6999,
+    "id": 5803,
     "level": "critical",
     "country": "🌍",
-    "text": "Ebola en RDC : le bilan dépasse désormais les 500 morts selon les autorités et l",
+    "text": "REPLAY - Ukraine, Iran : Trump et Zelensky s’expriment au sommet de l’OTAN",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-ebola-en-rdc-le-bilan-d%C3%A9passe-d%C3%A9sormais-les-500-morts-selon-les-autorit%C3%A9s-et-l-oms",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-replay-ukraine-iran-trump-et-zelensky-s-expriment-au-sommet-de-l-otan",
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 4092,
+    "id": 4850,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les États-Unis vont autoriser l'Ukraine à fabriquer des missiles Patriot",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-trump-dit-que-les-etats-unis-vont-autoriser-l-ukraine-%C3%A0-fabriquer-des-missiles-patriot",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 2170,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre au Moyen-Orient : Trump juge la trêve avec l’Iran \"terminée\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-guerre-au-moyen-orient-trump-juge-la-tr%C3%AAve-avec-l-iran-termin%C3%A9e",
+    "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 1993,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2823,
+    "id": 9082,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8085,
+    "id": 5987,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2450,
+    "id": 2273,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1205,
+    "id": 4134,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3565,
+    "id": 5756,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8784,
+    "id": 4836,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9126,
+    "id": 4312,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6734,
+    "id": 6916,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1161,
+    "id": 5768,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +153,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4740,
+    "id": 2367,
     "level": "medium",
     "country": "🌍",
     "text": "The gap in the archives: Preserving the history of everyday objects",
@@ -153,7 +162,7 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 7307,
+    "id": 9923,
     "level": "medium",
     "country": "🌍",
     "text": "Feelings of statelessness: Watching the Cantonese opera ‘The Flower Princess’ in",
@@ -162,21 +171,12 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 4282,
+    "id": 7609,
     "level": "medium",
     "country": "🌍",
     "text": "Labour Day under a state of emergency in Trinidad and Tobago",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/07/labour-day-under-a-state-of-emergency-in-trinidad-and-tobago/",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 4070,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What the world misses when it doesn’t understand statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/what-the-world-misses-when-it-doesnt-understand-statelessness/",
     "time": "Tue, 07 Jul 2026"
   }
 ]
