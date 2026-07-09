@@ -1,6 +1,24 @@
 [
   {
-    "id": 9303,
+    "id": 6173,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Syria says cell behind ‘terrorist bombings’ in Damascus arrested",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+    "time": "Thu, 09 Jul 2026"
+  },
+  {
+    "id": 5938,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US military denies involvement after explosions heard in Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
+    "time": "Thu, 09 Jul 2026"
+  },
+  {
+    "id": 2133,
     "level": "critical",
     "country": "🌍",
     "text": "South African protesters intimidate migrants as aid group issues warning",
@@ -9,25 +27,34 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 3479,
+    "id": 4503,
     "level": "critical",
     "country": "🌍",
-    "text": "Two more men plead guilty in US for deadly 2021 human-smuggling truck crash",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/9/two-more-men-plead-guilty-in-us-for-deadly-2021-human-smuggling-truck-crash?traffic_source=rss",
+    "text": "Massif échange de frappes entre l'Iran et les États-Unis avant l'inhumation d'Al",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260709-massif-echange-frappe-iran-etats-unis-inhumation-ali-khamenei-detroit-ormuz-koweit-qatar-bahrein-donald-trump-israel",
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 498,
+    "id": 6616,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly fire breaks out at shoe factory in China",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-fire-breaks-out-at-shoe-factory-in-china?traffic_source=rss",
+    "text": "Iran : des frappes et des funérailles",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260709-iran-des-frappes-et-des-fun%C3%A9railles",
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 4462,
+    "id": 6602,
+    "level": "high",
+    "country": "🌍",
+    "text": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss",
+    "time": "Thu, 09 Jul 2026"
+  },
+  {
+    "id": 5922,
     "level": "high",
     "country": "🌍",
     "text": "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
@@ -36,7 +63,7 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 7596,
+    "id": 970,
     "level": "high",
     "country": "🌍",
     "text": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
@@ -45,7 +72,7 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 6887,
+    "id": 467,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8758,
+    "id": 9391,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2881,
+    "id": 1932,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 465,
+    "id": 6414,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9842,
+    "id": 1159,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2664,
+    "id": 574,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4006,
+    "id": 8833,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9335,
+    "id": 6923,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3449,
+    "id": 1748,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9367,
+    "id": 3245,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 432,
+    "id": 3233,
     "level": "medium",
     "country": "🌍",
     "text": "Statelessness in the region of former Yugoslavia: unfinished nationality rights,",
@@ -144,39 +171,12 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 9502,
+    "id": 8818,
     "level": "medium",
     "country": "🌍",
     "text": "The gap in the archives: Preserving the history of everyday objects",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/08/the-gap-in-the-archives-preserving-the-history-of-everyday-objects/",
     "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 6533,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Feelings of statelessness: Watching the Cantonese opera ‘The Flower Princess’ in",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/08/feelings-of-statelessness-watching-the-cantonese-opera-the-flower-princess-in-the-uk/",
-    "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 690,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Labour Day under a state of emergency in Trinidad and Tobago",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/labour-day-under-a-state-of-emergency-in-trinidad-and-tobago/",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 9236,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What the world misses when it doesn’t understand statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/what-the-world-misses-when-it-doesnt-understand-statelessness/",
-    "time": "Tue, 07 Jul 2026"
   }
 ]
