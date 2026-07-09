@@ -1,33 +1,51 @@
 [
   {
-    "id": 7133,
+    "id": 2959,
     "level": "critical",
     "country": "🌍",
-    "text": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout?traffic_source=rss",
+    "text": "Lebanon: Israeli attacks killing children, wiping out families must be investiga",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-israeli-attacks-killing-children-wiping-out-families-must-be-investigated-war-crimes-enar",
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 8645,
+    "id": 8007,
     "level": "critical",
     "country": "🌍",
-    "text": "Would the US protect NATO allies if they were attacked?",
+    "text": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/aje-onl-nf_would-the-us-protect-nato-allies-080726?traffic_source=rss",
+    "link": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 9751,
+    "id": 8410,
     "level": "critical",
     "country": "🌍",
-    "text": "Eight killed as landslide hits Rohingya school in Bangladesh",
+    "text": "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/eight-killed-as-landslide-hits-rohingya-school-in-bangladesh?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/9/double-cross-first-class-why-indias-modi-wins-so-many-foreign-awards?traffic_source=rss",
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 9887,
+    "id": 7429,
+    "level": "critical",
+    "country": "🌍",
+    "text": "🔴 En direct : l’armée américaine dit avoir mené une nouvelle série de frappes su",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260709-en-direct-cessez-le-feu-fini-koweit-bahrein-vises-frappes-iran-etats-unis-pays-golfe-detroit-ormuz-israel-liban-gardiens-revolution",
+    "time": "Thu, 09 Jul 2026"
+  },
+  {
+    "id": 1904,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les Etats-Unis frappent à nouveau l'Iran, qui riposte dans le Golfe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/info-en-continu/20260709-les-etats-unis-frappent-%C3%A0-nouveau-l-iran-qui-riposte-dans-le-golfe",
+    "time": "Thu, 09 Jul 2026"
+  },
+  {
+    "id": 4997,
     "level": "critical",
     "country": "🌍",
     "text": "Des échanges de frappes au Moyen-Orient, une escalade entre l'Iran et les États-",
@@ -36,34 +54,16 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 2757,
+    "id": 5550,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : le cessez-le-feu \"fini\", les Gardiens de la Révolution frappent le K",
+    "text": "En direct : l'armée américaine dit avoir visé 90 cibles en Iran, Téhéran répliqu",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260709-en-direct-cessez-le-feu-fini-koweit-bahrein-vises-frappes-iran-etats-unis-pays-golfe-detroit-ormuz-israel-liban-gardiens-revolution",
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 1797,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les États-Unis ont lancé de nouvelles frappes contre l'Iran, Donald Trump menace",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260708-etats-unis-lance-nouvelles-frappes-contre-iran-donald-trump-menace-bien-pire-detroit-ormuz-petrolier-attaques-qatar-pakistan-onu-protocole-accord-fini",
-    "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 8374,
-    "level": "critical",
-    "country": "🌍",
-    "text": "🔴 L'armée américaine annonce avoir lancé de nouvelles frappes contre l'Iran, sui",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260707-en-direct-armee-americaine-annonce-avoir-lancement-frappes-puissantes-contre-iran-ormuz-detroit-etats-unis-liban",
-    "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 7198,
+    "id": 5755,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2431,
+    "id": 2146,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7668,
+    "id": 2535,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7872,
+    "id": 6667,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3669,
+    "id": 2332,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5956,
+    "id": 8519,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2437,
+    "id": 9410,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6728,
+    "id": 2373,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5435,
+    "id": 1777,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5617,
+    "id": 7391,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -153,7 +153,16 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7159,
+    "id": 4760,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Statelessness in the region of former Yugoslavia: unfinished nationality rights,",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/09/statelessness-in-the-region-of-former-yugoslavia-unfinished-nationality-rights-legal-identity-and-roma-exclusion/",
+    "time": "Thu, 09 Jul 2026"
+  },
+  {
+    "id": 5742,
     "level": "medium",
     "country": "🌍",
     "text": "The gap in the archives: Preserving the history of everyday objects",
@@ -162,21 +171,12 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 8087,
+    "id": 5884,
     "level": "medium",
     "country": "🌍",
     "text": "Feelings of statelessness: Watching the Cantonese opera ‘The Flower Princess’ in",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/08/feelings-of-statelessness-watching-the-cantonese-opera-the-flower-princess-in-the-uk/",
     "time": "Wed, 08 Jul 2026"
-  },
-  {
-    "id": 2614,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Labour Day under a state of emergency in Trinidad and Tobago",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/labour-day-under-a-state-of-emergency-in-trinidad-and-tobago/",
-    "time": "Tue, 07 Jul 2026"
   }
 ]
