@@ -1,24 +1,42 @@
 [
   {
-    "id": 7022,
+    "id": 779,
     "level": "critical",
     "country": "🌍",
-    "text": "South Sudan at 15: A humanitarian journey through conflict, resilience and hope",
+    "text": "Haiti — Emergency Tracking Tool (ETT) 100.1 — Updates on Displacements following",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/south-sudan/south-sudan-15-humanitarian-journey-through-conflict-resilience-and-hope",
-    "time": "Thu, 09 Jul 2026"
+    "link": "https://reliefweb.int/report/haiti/haiti-emergency-tracking-tool-ett-1001-updates-displacements-following-armed-attacks-municipality-kenscoff-west-department-4-9-july-2026",
+    "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 2862,
+    "id": 3012,
     "level": "critical",
     "country": "🌍",
-    "text": "Lesotho Food Security Outlook June 2026 - January 2027: Households expected to m",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lesotho/lesotho-food-security-outlook-june-2026-january-2027-households-expected-meet-food-needs-following-favorable-harvest",
-    "time": "Thu, 09 Jul 2026"
+    "text": "Iran says strikes hit southern areas, but US denies it carried attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/iran-says-strikes-hit-southern-areas-but-us-denies-it-carried-attacks?traffic_source=rss",
+    "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 3879,
+    "id": 8812,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup?traffic_source=rss",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 1678,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 4401,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: New attacks on Iran as US says talks still on",
@@ -27,34 +45,52 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 3053,
+    "id": 4378,
     "level": "critical",
     "country": "🌍",
-    "text": "Waiting for Moses: Africa’s sons in Russia’s war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/7/9/waiting-for-moses-africas-sons-in-russias-war?traffic_source=rss",
+    "text": "Un feu de forêt fait au moins 12 morts près d'Almeria, dans le sud de l'Espagne",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260710-incendie-feu-foret-12-morts-pres-almeria-sud-espagne-rechauffement-climatique-pompiers-vague-chaleur-andalousie",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 5803,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Kylian Mbappé revient sur son penalty et le contexte de sa frappe captée par le ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260710-kylian-mbapp%C3%A9-revient-penalty-et-contexte-frappe-capt%C3%A9e-par-gardien-marocain-france-mondial-coupe-du-monde-2026-football",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 3954,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"Il y a beaucoup de choses à améliorer\" : après le Maroc, les Bleus veulent rest",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/sports/20260710-mondial-2026-france-beaucoup-choses-ameliorer-maroc-bleus-concentres-dembele-mbappe",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 6621,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : le guide suprême Khamenei inhumé sur fond de frappes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260709-en-direct-guide-supreme-khamenei-inhume-sur-fond-frappes-etats-unis-iran-donald-trump-detroit-ormuz-israel-netanyahu",
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 2717,
+    "id": 9213,
     "level": "critical",
     "country": "🌍",
-    "text": "Syria says captured Damascus bombing suspects are affiliated with ISIL",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/9/syria-says-cell-behind-terrorist-bombings-in-damascus-arrested?traffic_source=rss",
+    "text": "La Syrie annonce l'arrestation de responsables des explosions à Damas, une cellu",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260709-syrie-affirme-cellule-responsable-explosions-damas-affiliee-organisation-etat-islamique-emmanuel-macron-arrestations",
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 5252,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US military denies involvement after explosions heard in Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
-    "time": "Thu, 09 Jul 2026"
-  },
-  {
-    "id": 1284,
+    "id": 7117,
     "level": "critical",
     "country": "🌍",
     "text": "\"Je crois en moi\" : Warren Zaïre-Emery prêt à rentrer plus longtemps sur le terr",
@@ -63,7 +99,7 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 1663,
+    "id": 9192,
     "level": "critical",
     "country": "🌍",
     "text": "Regain des hostilités entre l'Iran et les États-Unis avant l'inhumation d'Ali Kh",
@@ -72,25 +108,34 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 9306,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran : des frappes et des funérailles",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260709-iran-des-frappes-et-des-fun%C3%A9railles",
-    "time": "Thu, 09 Jul 2026"
-  },
-  {
-    "id": 3663,
+    "id": 1746,
     "level": "high",
     "country": "🌍",
-    "text": "NYT-led group asks court to sanction OpenAI in US copyright dispute",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/7/9/nyt-led-group-asks-court-to-sanction-openai-in-us-copyright-dispute?traffic_source=rss",
-    "time": "Thu, 09 Jul 2026"
+    "text": "Haiti: Haïti — Suivi des Urgences (ETT) 100.1 — Mise à jour sur les Déplacements",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/haiti/haiti-suivi-des-urgences-ett-1001-mise-jour-sur-les-deplacements-lies-des-attaques-armees-dans-la-commune-de-kenscoff-departement-de-louest-4-9-juillet-2026",
+    "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 6427,
+    "id": 347,
+    "level": "high",
+    "country": "🌍",
+    "text": "Zelenskyy urges urgent efforts in Ukraine to start Patriot production",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/10/zelenskyy-urges-urgent-efforts-in-ukraine-to-start-patriot-production?traffic_source=rss",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 5024,
+    "level": "high",
+    "country": "🌍",
+    "text": "China expands anti-sanctions toolkit, raising risks for foreign firms",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/10/china-expands-anti-sanctions-toolkit-raising-risks-for-foreign-firms?traffic_source=rss",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 4688,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 867,
+    "id": 1419,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4058,
+    "id": 3904,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7835,
+    "id": 2994,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,57 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1001,
+    "id": 4236,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 291,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 7126,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 896,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 8451,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 5054,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
   }
 ]
