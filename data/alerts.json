@@ -1,33 +1,42 @@
 [
   {
-    "id": 7337,
+    "id": 2799,
     "level": "critical",
     "country": "🌍",
-    "text": "Cameroon: Violence Against Health Care in Conflict 2025",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/cameroon/cameroon-violence-against-health-care-conflict-2025",
-    "time": "Fri, 10 Jul 2026"
-  },
-  {
-    "id": 2476,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
+    "text": "Can the agreement between Iran and the US be rescued?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss",
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 5696,
+    "id": 4575,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+    "text": "UK police arrest man suspected of murdering former MP Ann Widdecombe",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss",
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 2318,
+    "id": 4078,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 9121,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Soudan : l'ONU appuie les enquêtes de la CPI sur les crimes de guerre au Darfour",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260710-soudan-l-onu-appuie-les-enqu%C3%AAtes-de-la-cpi-sur-les-crimes-de-guerre-au-darfour",
+    "time": "Fri, 10 Jul 2026"
+  },
+  {
+    "id": 9751,
     "level": "critical",
     "country": "🌍",
     "text": "À la frontière irakienne, l'Iran multiplie les attaques contre les groupes dissi",
@@ -36,25 +45,7 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 9850,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Crimes de guerre au Soudan : l'ONU enquête dans les camps de réfugiés du Tchad",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260710-crimes-de-guerre-au-soudan-l-onu-enqu%C3%AAte-au-tchad",
-    "time": "Fri, 10 Jul 2026"
-  },
-  {
-    "id": 4260,
-    "level": "high",
-    "country": "🌍",
-    "text": "RD Congo : l'opposition rentre du Burundi après des consultations pour sortir le",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260710-rd-congo-l-opposition-rentre-du-burundi-apr%C3%A8s-des-consultations-pour-sortir-le-pay-de-la-crise",
-    "time": "Fri, 10 Jul 2026"
-  },
-  {
-    "id": 6116,
+    "id": 688,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7747,
+    "id": 1245,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5553,
+    "id": 4829,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2812,
+    "id": 1522,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3445,
+    "id": 9826,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4985,
+    "id": 1627,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5069,
+    "id": 3121,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6919,
+    "id": 2108,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1676,
+    "id": 9179,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6027,
+    "id": 7642,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 8845,
+    "id": 2681,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond displacement: Examining the link between climate change and statelessness",
@@ -153,7 +144,7 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 5383,
+    "id": 537,
     "level": "medium",
     "country": "🌍",
     "text": "Statelessness in the region of former Yugoslavia: unfinished nationality rights,",
@@ -162,7 +153,7 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 5587,
+    "id": 8414,
     "level": "medium",
     "country": "🌍",
     "text": "The gap in the archives: Preserving the history of everyday objects",
@@ -171,12 +162,21 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 8301,
+    "id": 9294,
     "level": "medium",
     "country": "🌍",
     "text": "Feelings of statelessness: Watching the Cantonese opera ‘The Flower Princess’ in",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/08/feelings-of-statelessness-watching-the-cantonese-opera-the-flower-princess-in-the-uk/",
     "time": "Wed, 08 Jul 2026"
+  },
+  {
+    "id": 2492,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Labour Day under a state of emergency in Trinidad and Tobago",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/07/labour-day-under-a-state-of-emergency-in-trinidad-and-tobago/",
+    "time": "Tue, 07 Jul 2026"
   }
 ]
