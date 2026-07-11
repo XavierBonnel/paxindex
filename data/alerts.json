@@ -1,6 +1,15 @@
 [
   {
-    "id": 5636,
+    "id": 3468,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 8148,
     "level": "critical",
     "country": "🌍",
     "text": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
@@ -9,7 +18,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 5176,
+    "id": 222,
     "level": "critical",
     "country": "🌍",
     "text": "What is going on in Yemen?",
@@ -18,7 +27,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 4983,
+    "id": 5635,
     "level": "critical",
     "country": "🌍",
     "text": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
@@ -27,7 +36,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 749,
+    "id": 6207,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : le guide suprême Mojtaba Khamenei a juré de venger la mort de son père",
@@ -36,7 +45,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 6825,
+    "id": 7631,
     "level": "critical",
     "country": "🌍",
     "text": "En France, les sans abris, les oubliés de cette canicule",
@@ -45,7 +54,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 8627,
+    "id": 5239,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6387,
+    "id": 9089,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1117,
+    "id": 6478,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7855,
+    "id": 3455,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8627,
+    "id": 3010,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9770,
+    "id": 2906,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 635,
+    "id": 3356,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1191,
+    "id": 3461,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6289,
+    "id": 981,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3951,
+    "id": 1677,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2724,
+    "id": 9489,
     "level": "medium",
     "country": "🌍",
     "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
@@ -144,7 +153,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 3885,
+    "id": 9465,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil, initiatives in peripheral communities seek to expand environmental ed",
@@ -153,7 +162,7 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 8911,
+    "id": 8106,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond displacement: Examining the link between climate change and statelessness",
@@ -162,21 +171,12 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 8878,
+    "id": 7191,
     "level": "medium",
     "country": "🌍",
     "text": "Statelessness in the region of former Yugoslavia: unfinished nationality rights,",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/09/statelessness-in-the-region-of-former-yugoslavia-unfinished-nationality-rights-legal-identity-and-roma-exclusion/",
     "time": "Thu, 09 Jul 2026"
-  },
-  {
-    "id": 6838,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The gap in the archives: Preserving the history of everyday objects",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/08/the-gap-in-the-archives-preserving-the-history-of-everyday-objects/",
-    "time": "Wed, 08 Jul 2026"
   }
 ]
