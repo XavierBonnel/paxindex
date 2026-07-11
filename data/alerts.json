@@ -1,6 +1,33 @@
 [
   {
-    "id": 4179,
+    "id": 5231,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Are the US and Iran at war again?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 6937,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘We are the lost generation of Sudan’: Students in exile",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 6257,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 7254,
     "level": "critical",
     "country": "🌍",
     "text": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
@@ -9,16 +36,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 805,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 6582,
+    "id": 5388,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -27,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9983,
+    "id": 4764,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -36,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4992,
+    "id": 5031,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -45,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6845,
+    "id": 2703,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -54,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8813,
+    "id": 8808,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -63,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 675,
+    "id": 3351,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -72,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3088,
+    "id": 3337,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -81,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1729,
+    "id": 6305,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -90,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7667,
+    "id": 8976,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -99,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1399,
+    "id": 1802,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -108,7 +126,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 7736,
+    "id": 4924,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil, initiatives in peripheral communities seek to expand environmental ed",
@@ -117,7 +135,7 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 3829,
+    "id": 8782,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond displacement: Examining the link between climate change and statelessness",
@@ -126,7 +144,7 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 2714,
+    "id": 395,
     "level": "medium",
     "country": "🌍",
     "text": "Statelessness in the region of former Yugoslavia: unfinished nationality rights,",
@@ -135,7 +153,7 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 6484,
+    "id": 6584,
     "level": "medium",
     "country": "🌍",
     "text": "The gap in the archives: Preserving the history of everyday objects",
@@ -144,7 +162,7 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 6814,
+    "id": 2072,
     "level": "medium",
     "country": "🌍",
     "text": "Feelings of statelessness: Watching the Cantonese opera ‘The Flower Princess’ in",
@@ -153,30 +171,12 @@
     "time": "Wed, 08 Jul 2026"
   },
   {
-    "id": 3073,
+    "id": 942,
     "level": "medium",
     "country": "🌍",
     "text": "Labour Day under a state of emergency in Trinidad and Tobago",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/07/labour-day-under-a-state-of-emergency-in-trinidad-and-tobago/",
     "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 9087,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What the world misses when it doesn’t understand statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/07/what-the-world-misses-when-it-doesnt-understand-statelessness/",
-    "time": "Tue, 07 Jul 2026"
-  },
-  {
-    "id": 5789,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Citizens lead relief efforts after major twin quakes in Venezuela",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/06/citizens-lead-relief-efforts-after-major-twin-quakes-in-venezuela/",
-    "time": "Mon, 06 Jul 2026"
   }
 ]
