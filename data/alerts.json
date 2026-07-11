@@ -1,6 +1,24 @@
 [
   {
-    "id": 6588,
+    "id": 5636,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 5176,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What is going on in Yemen?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 4983,
     "level": "critical",
     "country": "🌍",
     "text": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
@@ -9,43 +27,25 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 7080,
+    "id": 749,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian missile attacks wound 11 in Kyiv",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 8937,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian overnight strikes on Kyiv injure ten",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 610,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : \"les habitants de Kiev se sont réveillés avec le bruit des e",
+    "text": "Iran : le guide suprême Mojtaba Khamenei a juré de venger la mort de son père",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-guerre-en-ukraine-les-habitants-de-kiev-se-sont-r%C3%A9veill%C3%A9s-avec-le-bruit-des-explosions",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-iran-mojtaba-khamenei-a-jur%C3%A9-de-venger-la-mort-de-son-p%C3%A8re",
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 9729,
+    "id": 6825,
     "level": "critical",
     "country": "🌍",
-    "text": "Feu en Espagne : 12 morts et 6 600 hectares brûlés en Andalousie",
+    "text": "En France, les sans abris, les oubliés de cette canicule",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-feu-en-espagne-12-morts-et-6-600-hectares-br%C3%BBl%C3%A9s-en-andalousie",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-en-france-les-sans-abris-les-oubli%C3%A9s-de-cette-canicule",
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 6111,
+    "id": 8627,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6456,
+    "id": 6387,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5539,
+    "id": 1117,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1684,
+    "id": 7855,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 203,
+    "id": 8627,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6440,
+    "id": 9770,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5895,
+    "id": 635,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7948,
+    "id": 1191,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3196,
+    "id": 6289,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1508,
+    "id": 3951,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +135,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 1111,
+    "id": 2724,
     "level": "medium",
     "country": "🌍",
     "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
@@ -144,7 +144,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 6351,
+    "id": 3885,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil, initiatives in peripheral communities seek to expand environmental ed",
@@ -153,7 +153,7 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 8173,
+    "id": 8911,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond displacement: Examining the link between climate change and statelessness",
@@ -162,7 +162,7 @@
     "time": "Fri, 10 Jul 2026"
   },
   {
-    "id": 3393,
+    "id": 8878,
     "level": "medium",
     "country": "🌍",
     "text": "Statelessness in the region of former Yugoslavia: unfinished nationality rights,",
@@ -171,7 +171,7 @@
     "time": "Thu, 09 Jul 2026"
   },
   {
-    "id": 4481,
+    "id": 6838,
     "level": "medium",
     "country": "🌍",
     "text": "The gap in the archives: Preserving the history of everyday objects",
