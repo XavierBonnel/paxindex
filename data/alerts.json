@@ -1,6 +1,15 @@
 [
   {
-    "id": 3468,
+    "id": 8790,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 8520,
     "level": "critical",
     "country": "🌍",
     "text": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
@@ -9,7 +18,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 8148,
+    "id": 8724,
     "level": "critical",
     "country": "🌍",
     "text": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
@@ -18,7 +27,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 222,
+    "id": 5657,
     "level": "critical",
     "country": "🌍",
     "text": "What is going on in Yemen?",
@@ -27,16 +36,25 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 5635,
+    "id": 4784,
     "level": "critical",
     "country": "🌍",
-    "text": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
+    "text": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260711-mondial-2026-milieu-sud-africain-jayden-adams-retrouv%C3%A9-mort-25-ans-bafana-bafana",
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 6207,
+    "id": 2070,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : de nouvelles frappes russes font au moins six morts et des dizaines de",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260711-de-nouvelles-frappes-russes-sur-l-ukraine-font-six-morts-et-des-dizaines-de-bless%C3%A9s",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 5726,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : le guide suprême Mojtaba Khamenei a juré de venger la mort de son père",
@@ -45,16 +63,16 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 7631,
-    "level": "critical",
+    "id": 4769,
+    "level": "high",
     "country": "🌍",
-    "text": "En France, les sans abris, les oubliés de cette canicule",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-en-france-les-sans-abris-les-oubli%C3%A9s-de-cette-canicule",
+    "text": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/11/syrians-optimistic-but-cautious-as-sanctions-removal-revives-economic-hopes?traffic_source=rss",
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 5239,
+    "id": 2526,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9089,
+    "id": 8872,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6478,
+    "id": 855,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3455,
+    "id": 4941,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3010,
+    "id": 4279,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2906,
+    "id": 666,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3356,
+    "id": 7657,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3461,
+    "id": 1619,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 981,
+    "id": 8809,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1677,
+    "id": 9337,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,39 +162,21 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9489,
+    "id": 6590,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/11/follow-the-story-local-journalists-media-and-advocates-covering-venezuelas-earthquakes/",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 2277,
     "level": "medium",
     "country": "🌍",
     "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
     "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 9465,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil, initiatives in peripheral communities seek to expand environmental ed",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/10/in-brazil-initiatives-in-peripheral-communities-seek-to-expand-environmental-education/",
-    "time": "Fri, 10 Jul 2026"
-  },
-  {
-    "id": 8106,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Beyond displacement: Examining the link between climate change and statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/10/beyond-displacement-examining-the-link-between-climate-change-and-statelessness/",
-    "time": "Fri, 10 Jul 2026"
-  },
-  {
-    "id": 7191,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statelessness in the region of former Yugoslavia: unfinished nationality rights,",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/09/statelessness-in-the-region-of-former-yugoslavia-unfinished-nationality-rights-legal-identity-and-roma-exclusion/",
-    "time": "Thu, 09 Jul 2026"
   }
 ]
