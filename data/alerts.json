@@ -1,6 +1,33 @@
 [
   {
-    "id": 9671,
+    "id": 4233,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 4870,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian missile attacks wound 11 in Kyiv",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 9693,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian overnight strikes on Kyiv injure ten",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 6074,
     "level": "critical",
     "country": "🌍",
     "text": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
@@ -9,25 +36,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 2502,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Are the US and Iran at war again?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 5018,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘We are the lost generation of Sudan’: Students in exile",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 3110,
+    "id": 2417,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : \"les habitants de Kiev se sont réveillés avec le bruit des e",
@@ -36,7 +45,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 2972,
+    "id": 9162,
     "level": "critical",
     "country": "🌍",
     "text": "Feu en Espagne : 12 morts et 6 600 hectares brûlés en Andalousie",
@@ -45,7 +54,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 7224,
+    "id": 2662,
     "level": "critical",
     "country": "🌍",
     "text": "L'Andalousie dévorée par les flammes : le feu le plus meurtrier en 40 ans en Esp",
@@ -54,7 +63,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 1264,
+    "id": 6884,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : Trump assure que la trêve avec l'Iran est \"terminée\"",
@@ -63,16 +72,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 2515,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Séismes au Venezuela : le bilan dépasse désormais les 4 000 morts",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260711-seismes-au-venezuela-le-bilan-depasse-desormais-les-4000-morts",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 4227,
+    "id": 8188,
     "level": "high",
     "country": "🌍",
     "text": "Wembanyama signs contract with Spurs for five years, $252m: Report",
@@ -81,7 +81,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 6236,
+    "id": 9485,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8611,
+    "id": 4827,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5098,
+    "id": 6032,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 726,
+    "id": 1856,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6861,
+    "id": 9017,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4495,
+    "id": 280,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7787,
+    "id": 5377,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5310,
+    "id": 7044,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7060,
+    "id": 2433,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6360,
+    "id": 8709,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -171,7 +171,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5851,
+    "id": 386,
     "level": "medium",
     "country": "🌍",
     "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
