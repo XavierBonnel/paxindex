@@ -1,33 +1,42 @@
 [
   {
-    "id": 6111,
+    "id": 5150,
     "level": "critical",
     "country": "🌍",
-    "text": "Nine dead as Russia and Ukraine trade drone and missile salvos",
+    "text": "Deadly Israeli strikes pound Gaza",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 1304,
+    "id": 3400,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 1166,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Île-de-France : un incendie, d'une \"ampleur exceptionnelle\", frappe la forêt de ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260712-ile-de-france-incendie-ampleur-exceptionnelle-frappe-foret-fontainebleau-seine-et-marne-pompiers-bombardiers",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 7859,
     "level": "high",
     "country": "🌍",
-    "text": "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
+    "text": "Israel releases video of huge detonations in Lebanon",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-says-almost-a-dozen-enemy-projectiles-targeted-qeshm-island?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 8105,
-    "level": "high",
-    "country": "🌍",
-    "text": "Why the Iran-US ceasefire is falling apart",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 5544,
+    "id": 7659,
     "level": "high",
     "country": "🌍",
     "text": "Liban-Sud : le test des \"zones pilotes\"",
@@ -36,7 +45,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 4251,
+    "id": 6509,
     "level": "high",
     "country": "🌍",
     "text": "Les Etats-Unis pour le retrait israélien de \"zones pilotes\" dans le sud du Liban",
@@ -45,7 +54,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 5264,
+    "id": 6510,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9872,
+    "id": 2197,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8888,
+    "id": 8544,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4453,
+    "id": 9923,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5978,
+    "id": 4989,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4744,
+    "id": 1610,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7818,
+    "id": 3134,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3851,
+    "id": 7448,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3726,
+    "id": 8802,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4562,
+    "id": 8054,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 4565,
+    "id": 5579,
     "level": "medium",
     "country": "🌍",
     "text": "States of emergency and the Caribbean’s development challenge",
@@ -144,7 +153,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 4171,
+    "id": 2303,
     "level": "medium",
     "country": "🌍",
     "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
@@ -153,7 +162,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 4070,
+    "id": 3968,
     "level": "medium",
     "country": "🌍",
     "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
@@ -162,21 +171,12 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 6784,
+    "id": 4365,
     "level": "medium",
     "country": "🌍",
     "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
     "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 8199,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil, initiatives in peripheral communities seek to expand environmental ed",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/10/in-brazil-initiatives-in-peripheral-communities-seek-to-expand-environmental-education/",
-    "time": "Fri, 10 Jul 2026"
   }
 ]
