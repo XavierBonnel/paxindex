@@ -1,6 +1,15 @@
 [
   {
-    "id": 485,
+    "id": 1940,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Concern for renewed war in Iran as US attacks military, civilian targets",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 8607,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war: US strategic success or diplomatic failure?",
@@ -9,16 +18,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 194,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 2896,
+    "id": 7495,
     "level": "critical",
     "country": "🌍",
     "text": "Etats-Unis : un Mexicain de 52 ans tué par un agent de l'ICE au Texas",
@@ -27,7 +27,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 3971,
+    "id": 8472,
     "level": "critical",
     "country": "🌍",
     "text": "Attentat Nice : 10 ans après, des milliers de personnes défilent en hommage aux ",
@@ -36,7 +36,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 1684,
+    "id": 6581,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de Lindsey Graham : Israël a perdu \"l'un de ses plus grands amis\" dit Netan",
@@ -45,7 +45,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 3520,
+    "id": 5317,
     "level": "high",
     "country": "🌍",
     "text": "Les Etats-Unis pour le retrait israélien de \"zones pilotes\" dans le sud du Liban",
@@ -54,7 +54,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 9576,
+    "id": 7327,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8968,
+    "id": 8693,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2405,
+    "id": 3924,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9469,
+    "id": 6405,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4298,
+    "id": 2688,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5430,
+    "id": 5712,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2735,
+    "id": 2629,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1637,
+    "id": 3214,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1492,
+    "id": 5523,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8833,
+    "id": 4170,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 494,
+    "id": 5134,
     "level": "medium",
     "country": "🌍",
     "text": "States of emergency and the Caribbean’s development challenge",
@@ -153,7 +153,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 5427,
+    "id": 1267,
     "level": "medium",
     "country": "🌍",
     "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
@@ -162,7 +162,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 7028,
+    "id": 8614,
     "level": "medium",
     "country": "🌍",
     "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
@@ -171,7 +171,7 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 3078,
+    "id": 826,
     "level": "medium",
     "country": "🌍",
     "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
