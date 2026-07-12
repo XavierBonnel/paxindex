@@ -1,6 +1,15 @@
 [
   {
-    "id": 7408,
+    "id": 958,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 2390,
     "level": "critical",
     "country": "🌍",
     "text": "US CENTCOM completes third round of strikes on Iran",
@@ -9,7 +18,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 8176,
+    "id": 3698,
     "level": "critical",
     "country": "🌍",
     "text": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
@@ -18,7 +27,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 3968,
+    "id": 95,
     "level": "critical",
     "country": "🌍",
     "text": "IRGC vows ‘crushing response’ to any further US attacks",
@@ -27,43 +36,16 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 8317,
+    "id": 6602,
     "level": "critical",
     "country": "🌍",
-    "text": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 5993,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Reprise des frappes entre les Etats-Unis et l'Iran, le détroit d'Ormuz fermé",
+    "text": "Afrique du Sud : Jayden Adams décède à 25 ans après avoir disputé le mondial",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-reprise-des-frappes-entre-les-etats-unis-et-l-iran-le-d%C3%A9troit-d-ormuz-ferm%C3%A9",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-afrique-du-sud-jayden-adams-d%C3%A9c%C3%A8de-%C3%A0-25-ans-apr%C3%A8s-avoir-disput%C3%A9-le-mondial",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 574,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : une pluie de missiles russes a fait huit morts samedi",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-guerre-en-ukraine-une-pluie-de-missiles-russes-a-fait-huit-morts-samedi",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 3599,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les États-Unis lancent des frappes contre l'Iran, le détroit d'Ormuz fermé \"jusq",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-les-%C3%A9tats-unis-lancent-des-frappes-contre-l-iran-le-d%C3%A9troit-d-ormuz-ferm%C3%A9-jusqu-%C3%A0-nouvel-ordre",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 1660,
+    "id": 1437,
     "level": "high",
     "country": "🌍",
     "text": "Les Etats-Unis pressent le Liban pour la mise en place des \"zones pilotes\" dans ",
@@ -72,7 +54,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 852,
+    "id": 433,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7619,
+    "id": 7137,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5845,
+    "id": 2717,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7104,
+    "id": 3772,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6207,
+    "id": 1181,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2217,
+    "id": 8647,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2632,
+    "id": 7970,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 578,
+    "id": 3644,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 420,
+    "id": 6507,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9536,
+    "id": 5316,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -162,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9961,
+    "id": 4888,
     "level": "medium",
     "country": "🌍",
     "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
@@ -171,12 +153,30 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 6,
+    "id": 8558,
     "level": "medium",
     "country": "🌍",
     "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/11/follow-the-story-local-journalists-media-and-advocates-covering-venezuelas-earthquakes/",
     "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 4707,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 9811,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Brazil, initiatives in peripheral communities seek to expand environmental ed",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/10/in-brazil-initiatives-in-peripheral-communities-seek-to-expand-environmental-education/",
+    "time": "Fri, 10 Jul 2026"
   }
 ]
