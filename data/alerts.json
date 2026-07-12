@@ -1,6 +1,33 @@
 [
   {
-    "id": 2364,
+    "id": 7408,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US CENTCOM completes third round of strikes on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 8176,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 3968,
+    "level": "critical",
+    "country": "🌍",
+    "text": "IRGC vows ‘crushing response’ to any further US attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 8317,
     "level": "critical",
     "country": "🌍",
     "text": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
@@ -9,34 +36,43 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 474,
+    "id": 5993,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran launches attacks across the Gulf after more US strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 8514,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : Américains et Iraniens reprennent les hostilités, des navires attaqu",
+    "text": "Reprise des frappes entre les Etats-Unis et l'Iran, le détroit d'Ormuz fermé",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260712-en-direct-americains-et-iraniens-reprennent-les-hostilites-des-navires-attaques-dans-detroit-ormuz",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-reprise-des-frappes-entre-les-etats-unis-et-l-iran-le-d%C3%A9troit-d-ormuz-ferm%C3%A9",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 9020,
+    "id": 574,
     "level": "critical",
     "country": "🌍",
-    "text": "Le typhon Bavi frappe la Chine, avant d'être rétrogradé en tempête tropicale",
+    "text": "Guerre en Ukraine : une pluie de missiles russes a fait huit morts samedi",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260712-le-typhon-bavi-frappe-la-chine-avant-d-%C3%AAtre-r%C3%A9trograd%C3%A9-en-temp%C3%AAte-tropicale",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-guerre-en-ukraine-une-pluie-de-missiles-russes-a-fait-huit-morts-samedi",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 6326,
+    "id": 3599,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les États-Unis lancent des frappes contre l'Iran, le détroit d'Ormuz fermé \"jusq",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-les-%C3%A9tats-unis-lancent-des-frappes-contre-l-iran-le-d%C3%A9troit-d-ormuz-ferm%C3%A9-jusqu-%C3%A0-nouvel-ordre",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 1660,
+    "level": "high",
+    "country": "🌍",
+    "text": "Les Etats-Unis pressent le Liban pour la mise en place des \"zones pilotes\" dans ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-les-etats-unis-pressent-le-liban-pour-la-mise-en-place-des-zones-pilotes-dans-le-sud-du-pays",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 852,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2959,
+    "id": 7619,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -54,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9519,
+    "id": 5845,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -63,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4848,
+    "id": 7104,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -72,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7846,
+    "id": 6207,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4680,
+    "id": 2217,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4008,
+    "id": 2632,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3323,
+    "id": 578,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 693,
+    "id": 420,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5600,
+    "id": 9536,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -126,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5581,
+    "id": 9961,
     "level": "medium",
     "country": "🌍",
     "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
@@ -135,48 +171,12 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 9466,
+    "id": 6,
     "level": "medium",
     "country": "🌍",
     "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/11/follow-the-story-local-journalists-media-and-advocates-covering-venezuelas-earthquakes/",
     "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 4806,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 8502,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil, initiatives in peripheral communities seek to expand environmental ed",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/10/in-brazil-initiatives-in-peripheral-communities-seek-to-expand-environmental-education/",
-    "time": "Fri, 10 Jul 2026"
-  },
-  {
-    "id": 9901,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Beyond displacement: Examining the link between climate change and statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/10/beyond-displacement-examining-the-link-between-climate-change-and-statelessness/",
-    "time": "Fri, 10 Jul 2026"
-  },
-  {
-    "id": 2686,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Statelessness in the region of former Yugoslavia: unfinished nationality rights,",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/09/statelessness-in-the-region-of-former-yugoslavia-unfinished-nationality-rights-legal-identity-and-roma-exclusion/",
-    "time": "Thu, 09 Jul 2026"
   }
 ]
