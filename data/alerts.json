@@ -1,6 +1,24 @@
 [
   {
-    "id": 3356,
+    "id": 485,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war: US strategic success or diplomatic failure?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 194,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli forces kill five Palestinians in latest attacks on Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 2896,
     "level": "critical",
     "country": "🌍",
     "text": "Etats-Unis : un Mexicain de 52 ans tué par un agent de l'ICE au Texas",
@@ -9,7 +27,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 1382,
+    "id": 3971,
     "level": "critical",
     "country": "🌍",
     "text": "Attentat Nice : 10 ans après, des milliers de personnes défilent en hommage aux ",
@@ -18,7 +36,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 8933,
+    "id": 1684,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de Lindsey Graham : Israël a perdu \"l'un de ses plus grands amis\" dit Netan",
@@ -27,25 +45,16 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 9333,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Attentat du 14-Juillet à Nice : une marche blanche lance les commémorations des ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260712-attentat-du-14-juillet-%C3%A0-nice-une-marche-blanche-lance-les-comm%C3%A9morations-des-dix-ans",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 8741,
+    "id": 3520,
     "level": "high",
     "country": "🌍",
-    "text": "Republican Lindsey Graham dies at 71: World leaders, US politicians react",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/12/republican-lindsey-graham-dies-at-71-world-leaders-us-politicians-react?traffic_source=rss",
+    "text": "Les Etats-Unis pour le retrait israélien de \"zones pilotes\" dans le sud du Liban",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-les-etats-unis-pour-le-retrait-isra%C3%A9lien-de-zones-pilotes-dans-le-sud-du-liban",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 3389,
+    "id": 9576,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6408,
+    "id": 8968,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2223,
+    "id": 2405,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 606,
+    "id": 9469,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6997,
+    "id": 4298,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7405,
+    "id": 5430,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6458,
+    "id": 2735,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3210,
+    "id": 1637,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8139,
+    "id": 1492,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8104,
+    "id": 8833,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -135,7 +144,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 9718,
+    "id": 494,
     "level": "medium",
     "country": "🌍",
     "text": "States of emergency and the Caribbean’s development challenge",
@@ -144,7 +153,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 548,
+    "id": 5427,
     "level": "medium",
     "country": "🌍",
     "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
@@ -153,7 +162,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 6561,
+    "id": 7028,
     "level": "medium",
     "country": "🌍",
     "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
@@ -162,21 +171,12 @@
     "time": "Sat, 11 Jul 2026"
   },
   {
-    "id": 391,
+    "id": 3078,
     "level": "medium",
     "country": "🌍",
     "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
     "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 7810,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil, initiatives in peripheral communities seek to expand environmental ed",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/10/in-brazil-initiatives-in-peripheral-communities-seek-to-expand-environmental-education/",
-    "time": "Fri, 10 Jul 2026"
   }
 ]
