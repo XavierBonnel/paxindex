@@ -1,6 +1,15 @@
 [
   {
-    "id": 887,
+    "id": 6408,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 6876,
     "level": "critical",
     "country": "🌍",
     "text": "US, Iran exchange attacks around Strait of Hormuz",
@@ -9,7 +18,7 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 2802,
+    "id": 4191,
     "level": "critical",
     "country": "🌍",
     "text": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
@@ -18,52 +27,16 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 3314,
+    "id": 7048,
     "level": "critical",
     "country": "🌍",
-    "text": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
+    "text": "Ukraine : Coalition des volontaires, quel lever d'action ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260713-ukraine-coalition-des-volontaires-quel-lever-d-action",
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 696,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine and allies launch coalition to tackle Russia’s ballistic missiles",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 1582,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran military warns US against Strait of Hormuz ‘interference’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 9583,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Artist sews names of Gaza children killed by Israel into gown",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/artist-sews-names-of-gaza-children-killed-by-israel-into-gown?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 1907,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What do Israeli settler attacks on Americans reveal?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/what-do-israeli-settler-attacks-on-americans-reveal?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 6772,
+    "id": 2891,
     "level": "critical",
     "country": "🌍",
     "text": "Bombardements en Iran : Attention à ces photos publiées par Donald Trump",
@@ -72,16 +45,7 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 7065,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La forêt de Fontainebleau encore en feu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260713-la-for%C3%AAt-de-fontainebleau-encore-en-feu",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 7411,
+    "id": 4203,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +54,16 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7071,
+    "id": 9029,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-08T07:00"
+  },
+  {
+    "id": 8990,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 911,
+    "id": 5119,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5059,
+    "id": 2975,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 606,
+    "id": 6544,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3172,
+    "id": 1983,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5141,
+    "id": 202,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7861,
+    "id": 9341,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3416,
+    "id": 3123,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +135,48 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2039,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 9913,
+    "id": 4477,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
     "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 2329,
+    "level": "medium",
+    "country": "🌍",
+    "text": "States of emergency and the Caribbean’s development challenge",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 6744,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/12/the-fake-parenting-expert-chinese-daughters-invented-to-talk-to-their-parents/",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 7351,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/11/follow-the-story-local-journalists-media-and-advocates-covering-venezuelas-earthquakes/",
+    "time": "Sat, 11 Jul 2026"
+  },
+  {
+    "id": 3596,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
+    "time": "Sat, 11 Jul 2026"
   }
 ]
