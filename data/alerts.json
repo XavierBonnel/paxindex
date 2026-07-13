@@ -1,6 +1,51 @@
 [
   {
-    "id": 9737,
+    "id": 326,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Deadly Bangkok pub blaze revives concerns over fire safety lapses",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/deadly-bangkok-pub-blaze-revives-concerns-over-fire-safety-lapses?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 9704,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 7059,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 6467,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 3399,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 9141,
     "level": "critical",
     "country": "🌍",
     "text": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
@@ -9,34 +54,16 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 2499,
+    "id": 4703,
     "level": "critical",
     "country": "🌍",
-    "text": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+    "text": "Au moins 27 morts dans l'incendie d'un bar de la banlieue de la capitale thaïlan",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260712-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-la-capitale-tha%C3%AFlandaise",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 9440,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Deadly Israeli strikes pound Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 2667,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 832,
+    "id": 6304,
     "level": "critical",
     "country": "🌍",
     "text": "Washington frappe à nouveau l'Iran, des \"représailles\" selon les premières infor",
@@ -45,25 +72,25 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 6227,
+    "id": 7590,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : nouvelle salve de frappes américaines sur l'Iran, Téhéran pessimiste",
+    "text": "En direct : les États-Unis frappent à nouveau l'Iran qui répond en ciblant des b",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260712-en-direct-etats-unis-lancent-nouvelle-salve-de-frappes-sur-iran-pays-golfe-detroit-ormuz-liban-donald-trump-israel-cessez-feu",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 7201,
+    "id": 5381,
     "level": "high",
     "country": "🌍",
-    "text": "Israel releases video of huge detonations in Lebanon",
+    "text": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
-    "time": "Sun, 12 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 3255,
+    "id": 8813,
     "level": "high",
     "country": "🌍",
     "text": "Liban-Sud : le test des \"zones pilotes\"",
@@ -72,7 +99,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 6943,
+    "id": 6975,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9675,
+    "id": 5025,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5878,
+    "id": 184,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8628,
+    "id": 8654,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8263,
+    "id": 8109,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9614,
+    "id": 375,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7823,
+    "id": 3141,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6063,
+    "id": 4677,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,39 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8354,
+    "id": 7979,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9748,
-    "level": "medium",
-    "country": "🌍",
-    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-02-26T10:30"
-  },
-  {
-    "id": 3519,
-    "level": "medium",
-    "country": "🌍",
-    "text": "States of emergency and the Caribbean’s development challenge",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 8355,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/12/the-fake-parenting-expert-chinese-daughters-invented-to-talk-to-their-parents/",
-    "time": "Sun, 12 Jul 2026"
   }
 ]
