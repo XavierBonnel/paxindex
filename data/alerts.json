@@ -1,6 +1,24 @@
 [
   {
-    "id": 326,
+    "id": 460,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 4496,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 7827,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly Bangkok pub blaze revives concerns over fire safety lapses",
@@ -9,97 +27,52 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 9704,
+    "id": 7176,
     "level": "critical",
     "country": "🌍",
-    "text": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 7059,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 6467,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 3399,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 9141,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 4703,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au moins 27 morts dans l'incendie d'un bar de la banlieue de la capitale thaïlan",
+    "text": "Sam Neill, star de \"Jurassic Parc\" et \"La leçon de piano\", est mort à 78 ans",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260712-au-moins-27-morts-dans-l-incendie-d-un-bar-de-la-banlieue-de-la-capitale-tha%C3%AFlandaise",
-    "time": "Sun, 12 Jul 2026"
+    "link": "https://www.france24.com/fr/culture/20260713-sam-neill-star-de-jurassic-parc-et-la-le%C3%A7on-de-piano-est-mort-%C3%A0-78-ans",
+    "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 6304,
+    "id": 1321,
     "level": "critical",
     "country": "🌍",
-    "text": "Washington frappe à nouveau l'Iran, des \"représailles\" selon les premières infor",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-washington-frappe-%C3%A0-nouveau-l-iran-des-repr%C3%A9sailles-selon-les-premi%C3%A8res-informations",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 7590,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : les États-Unis frappent à nouveau l'Iran qui répond en ciblant des b",
+    "text": "🔴 L'Iran revendique des frappes contre Oman, Bahreïn, le Koweït et la Jordanie. ",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260712-en-direct-etats-unis-lancent-nouvelle-salve-de-frappes-sur-iran-pays-golfe-detroit-ormuz-liban-donald-trump-israel-cessez-feu",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 5381,
-    "level": "high",
-    "country": "🌍",
-    "text": "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/13/can-nigerias-drone-industry-deliver-africas-defence-sovereignty?traffic_source=rss",
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 8813,
-    "level": "high",
+    "id": 4238,
+    "level": "critical",
     "country": "🌍",
-    "text": "Liban-Sud : le test des \"zones pilotes\"",
+    "text": "Marco Rubio et son embarrassante croisade contre le \"terrorisme international d'",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-liban-sud-les-etats-unis-pressent-le-test-des-zones-pilotes",
-    "time": "Sun, 12 Jul 2026"
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260713-marco-rubio-et-son-embarrassante-croisade-contre-le-terrorisme-international-d-extr%C3%AAme-gauche",
+    "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 6975,
+    "id": 9534,
+    "level": "high",
+    "country": "🌍",
+    "text": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 9312,
+    "level": "high",
+    "country": "🌍",
+    "text": "Vacances des Français : le boom des \"coolcations\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260713-vacances-des-fran%C3%A7ais-le-boom-des-coolcations-rechauffement-climatique-canicule-fraicheur-tendance-tourisme",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 5616,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5025,
+    "id": 5664,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 184,
+    "id": 3099,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8654,
+    "id": 7954,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8109,
+    "id": 2868,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 375,
+    "id": 1861,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3141,
+    "id": 9056,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4677,
+    "id": 1127,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +144,39 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7979,
+    "id": 8550,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 7777,
+    "level": "medium",
+    "country": "🌍",
+    "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-02-26T10:30"
+  },
+  {
+    "id": 7733,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 1536,
+    "level": "medium",
+    "country": "🌍",
+    "text": "States of emergency and the Caribbean’s development challenge",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
+    "time": "Sun, 12 Jul 2026"
   }
 ]
