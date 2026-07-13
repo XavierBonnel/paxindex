@@ -1,6 +1,33 @@
 [
   {
-    "id": 7137,
+    "id": 2251,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Spanish PM visits site of deadly wildfire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/spanish-pm-visits-site-of-deadly-wildfire?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 6848,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 615,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UK to list Iran’s IRGC as ‘terror’ threat",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 9222,
     "level": "critical",
     "country": "🌍",
     "text": "Staff at DR Congo Ebola centre strike as virus continues spreading",
@@ -9,25 +36,16 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 6340,
+    "id": 545,
     "level": "critical",
     "country": "🌍",
-    "text": "EU unveils $1bn fund for Gaza war recovery",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
+    "text": "Bombardements en Iran : Attention à ces photos publiées par Donald Trump",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260713-bombardements-en-iran-attention-%C3%A0-ces-photos-publi%C3%A9es-par-donald-trump",
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 7798,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Person killed in shooting involving ICE agents in US state of Maine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/13/person-killed-in-shooting-involving-ice-agents-in-us-state-of-maine?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 957,
+    "id": 7328,
     "level": "critical",
     "country": "🌍",
     "text": "La forêt de Fontainebleau encore en feu",
@@ -36,7 +54,7 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 1346,
+    "id": 4232,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis peurent la mort de Lindsey Graham : Trump salue \"un des plus gran",
@@ -45,43 +63,7 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 1414,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban : la guerre dans tous les esprits",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-liban-la-guerre-dans-tous-les-esprits",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 9448,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump rétablit le blocus naval des ports iraniens après des frappes sans précéde",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-trump-r%C3%A9tablit-le-blocus-naval-des-ports-iraniens-apr%C3%A8s-des-frappes-sans-pr%C3%A9c%C3%A9dent-depuis-avril",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 2686,
-    "level": "high",
-    "country": "🌍",
-    "text": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 7350,
-    "level": "high",
-    "country": "🌍",
-    "text": "Face aux sanctions, la Russie tente des exportations masquées",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-face-aux-sanctions-la-russie-tente-des-exportations-masqu%C3%A9es",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 6392,
+    "id": 134,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3948,
+    "id": 8225,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 169,
+    "id": 3361,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8100,
+    "id": 1373,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6878,
+    "id": 9783,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1724,
+    "id": 2777,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1267,
+    "id": 8970,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 841,
+    "id": 6194,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5193,
+    "id": 7916,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5762,
+    "id": 1686,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -171,12 +153,30 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 2333,
+    "id": 3228,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
     "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 4244,
+    "level": "medium",
+    "country": "🌍",
+    "text": "States of emergency and the Caribbean’s development challenge",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 2456,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/12/the-fake-parenting-expert-chinese-daughters-invented-to-talk-to-their-parents/",
+    "time": "Sun, 12 Jul 2026"
   }
 ]
