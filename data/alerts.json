@@ -1,6 +1,24 @@
 [
   {
-    "id": 5150,
+    "id": 9737,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 2499,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 9440,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly Israeli strikes pound Gaza",
@@ -9,7 +27,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 3400,
+    "id": 2667,
     "level": "critical",
     "country": "🌍",
     "text": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
@@ -18,16 +36,25 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 1166,
+    "id": 832,
     "level": "critical",
     "country": "🌍",
-    "text": "Île-de-France : un incendie, d'une \"ampleur exceptionnelle\", frappe la forêt de ",
+    "text": "Washington frappe à nouveau l'Iran, des \"représailles\" selon les premières infor",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260712-ile-de-france-incendie-ampleur-exceptionnelle-frappe-foret-fontainebleau-seine-et-marne-pompiers-bombardiers",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-washington-frappe-%C3%A0-nouveau-l-iran-des-repr%C3%A9sailles-selon-les-premi%C3%A8res-informations",
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 7859,
+    "id": 6227,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : nouvelle salve de frappes américaines sur l'Iran, Téhéran pessimiste",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260712-en-direct-etats-unis-lancent-nouvelle-salve-de-frappes-sur-iran-pays-golfe-detroit-ormuz-liban-donald-trump-israel-cessez-feu",
+    "time": "Sun, 12 Jul 2026"
+  },
+  {
+    "id": 7201,
     "level": "high",
     "country": "🌍",
     "text": "Israel releases video of huge detonations in Lebanon",
@@ -36,7 +63,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 7659,
+    "id": 3255,
     "level": "high",
     "country": "🌍",
     "text": "Liban-Sud : le test des \"zones pilotes\"",
@@ -45,16 +72,7 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 6509,
-    "level": "high",
-    "country": "🌍",
-    "text": "Les Etats-Unis pour le retrait israélien de \"zones pilotes\" dans le sud du Liban",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-les-etats-unis-pour-le-retrait-isra%C3%A9lien-de-zones-pilotes-dans-le-sud-du-liban",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 6510,
+    "id": 6943,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2197,
+    "id": 9675,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8544,
+    "id": 5878,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9923,
+    "id": 8628,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4989,
+    "id": 8263,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1610,
+    "id": 9614,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3134,
+    "id": 7823,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7448,
+    "id": 6063,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8802,
+    "id": 8354,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8054,
+    "id": 9748,
     "level": "medium",
     "country": "🌍",
     "text": "State Medicaid Funds to Decline by Hundreds of Billions over the Next Decade; Im",
@@ -144,7 +162,7 @@
     "time": "2026-02-26T10:30"
   },
   {
-    "id": 5579,
+    "id": 3519,
     "level": "medium",
     "country": "🌍",
     "text": "States of emergency and the Caribbean’s development challenge",
@@ -153,30 +171,12 @@
     "time": "Sun, 12 Jul 2026"
   },
   {
-    "id": 2303,
+    "id": 8355,
     "level": "medium",
     "country": "🌍",
     "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/12/the-fake-parenting-expert-chinese-daughters-invented-to-talk-to-their-parents/",
     "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 3968,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/follow-the-story-local-journalists-media-and-advocates-covering-venezuelas-earthquakes/",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 4365,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
-    "time": "Sat, 11 Jul 2026"
   }
 ]
