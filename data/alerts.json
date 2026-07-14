@@ -1,6 +1,6 @@
 [
   {
-    "id": 5565,
+    "id": 8109,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,34 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 5876,
+    "id": 8603,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 970,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Country grows, we grow too’: 1 million migrants seek legal status in Spain",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/14/country-grows-we-grow-too-1-million-migrants-seek-legal-status-in-spain?traffic_source=rss",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 590,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US military releases video of its latest strikes on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 5516,
     "level": "critical",
     "country": "🌍",
     "text": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Ira",
@@ -18,34 +45,34 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 3810,
+    "id": 6338,
     "level": "critical",
     "country": "🌍",
-    "text": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 715,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 223,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Des frappes américaines qui visent \"la capacité iranienne à contourner le blocus",
+    "text": "Les États-Unis frappent à nouveau l'Iran et menace d'imposer un blocus dans le d",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260714-des-frappes-am%C3%A9ricaines-qui-visent-la-capacit%C3%A9-iranienne-%C3%A0-contourner-le-blocus-du-d%C3%A9troit",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260714-les-%C3%A9tats-unis-frappent-%C3%A0-nouveau-l-iran-et-menace-d-imposer-un-blocus-dans-le-d%C3%A9troit-d-ormuz",
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 7711,
+    "id": 2644,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attentat de Nice : 10 ans plus tard, cérémonie de commémoration",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260714-attentat-de-nice-10-ans-plus-tard-c%C3%A9r%C3%A9monie-de-comm%C3%A9moration",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 2125,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Espagne : le bilan de l'incendie en Andalousie s'alourdit à treize morts, dont u",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260714-espagne-le-bilan-de-l-incendie-en-andalousie-s-alourdit-%C3%A0-treize-morts-dont-une-fran%C3%A7aise",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 5987,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6478,
+    "id": 3426,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9809,
+    "id": 3042,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5384,
+    "id": 4479,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8516,
+    "id": 6442,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9822,
+    "id": 7335,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8095,
+    "id": 9654,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2306,
+    "id": 7961,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3442,
+    "id": 6150,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2823,
+    "id": 8383,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6288,
+    "id": 470,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
@@ -144,39 +171,12 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 7434,
+    "id": 3538,
     "level": "medium",
     "country": "🌍",
     "text": "States of emergency and the Caribbean’s development challenge",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
     "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 3998,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/12/the-fake-parenting-expert-chinese-daughters-invented-to-talk-to-their-parents/",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 9438,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/follow-the-story-local-journalists-media-and-advocates-covering-venezuelas-earthquakes/",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 8456,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
-    "time": "Sat, 11 Jul 2026"
   }
 ]
