@@ -1,6 +1,42 @@
 [
   {
-    "id": 6408,
+    "id": 6310,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump demands payment to protect Gulf nations from Iranian attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 4048,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Record El Niño threatens to unleash floods across East Africa and Asia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 5655,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 1442,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hundreds of experts warn the world must prepare now for AI’s impact",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact?traffic_source=rss",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 9640,
     "level": "critical",
     "country": "🌍",
     "text": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
@@ -9,25 +45,25 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 6876,
+    "id": 5380,
     "level": "critical",
     "country": "🌍",
-    "text": "US, Iran exchange attacks around Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
+    "text": "Des frappes américaines qui visent \"la capacité iranienne à contourner le blocus",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260714-des-frappes-am%C3%A9ricaines-qui-visent-la-capacit%C3%A9-iranienne-%C3%A0-contourner-le-blocus-du-d%C3%A9troit",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 869,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : troisième nuit consécutive de frappes contre l'Iran, Trump n'exclut ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260713-en-direct-troisieme-nuit-consecutive-frappes-contre-iran-donald-trump-accord-etats-unis-blocus-ports-detroit-ormuz-guerre-moyen-orient-pays-golfe",
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 4191,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 7048,
+    "id": 5052,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Coalition des volontaires, quel lever d'action ?",
@@ -36,16 +72,7 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 2891,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Bombardements en Iran : Attention à ces photos publiées par Donald Trump",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260713-bombardements-en-iran-attention-%C3%A0-ces-photos-publi%C3%A9es-par-donald-trump",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 4203,
+    "id": 1936,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9029,
+    "id": 6857,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8990,
+    "id": 535,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5119,
+    "id": 3733,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2975,
+    "id": 746,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6544,
+    "id": 6395,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1983,
+    "id": 6254,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 202,
+    "id": 3830,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9341,
+    "id": 5230,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3123,
+    "id": 335,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4477,
+    "id": 6044,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
@@ -144,39 +171,12 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 2329,
+    "id": 8312,
     "level": "medium",
     "country": "🌍",
     "text": "States of emergency and the Caribbean’s development challenge",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
     "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 6744,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/12/the-fake-parenting-expert-chinese-daughters-invented-to-talk-to-their-parents/",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 7351,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/follow-the-story-local-journalists-media-and-advocates-covering-venezuelas-earthquakes/",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 3596,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
-    "time": "Sat, 11 Jul 2026"
   }
 ]
