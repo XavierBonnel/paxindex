@@ -1,6 +1,6 @@
 [
   {
-    "id": 7981,
+    "id": 9741,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,43 +9,52 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 1967,
+    "id": 6119,
     "level": "critical",
     "country": "🌍",
-    "text": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack?traffic_source=rss",
+    "text": "Ukraine: Protection of Civilians in Armed Conflict - June 2026",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/ukraine/ukraine-protection-civilians-armed-conflict-june-2026",
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 1819,
+    "id": 9568,
     "level": "critical",
     "country": "🌍",
-    "text": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
+    "text": "Sudan faces escalating hunger crisis due to war and Hormuz disruption – WFP",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/14/sudan-faces-escalating-hunger-crisis-due-to-war-and-hormuz-disruption?traffic_source=rss",
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 9732,
+    "id": 6063,
     "level": "critical",
     "country": "🌍",
-    "text": "India summons Iranian diplomat over missile killing of seafarer",
+    "text": "US consumer prices drop in June as energy costs tumble",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/7/14/us-consumer-prices-drop-in-june-as-energy-costs-tumble?traffic_source=rss",
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 4842,
+    "id": 4755,
     "level": "critical",
     "country": "🌍",
-    "text": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
+    "text": "Murder of UK politician Ann Widdecombe was ‘targeted attack’, police say",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/14/russia-ukraine-war-what-is-europes-new-ballistic-missile-shield-plan?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/14/murder-of-uk-politician-ann-widdecombe-was-targeted-attack-police-say?traffic_source=rss",
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 6678,
+    "id": 9397,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attack on north Gaza police station kills eight",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 2903,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran rapporte des frappes américaines dans la région proche de l'Irak et du Ko",
@@ -54,25 +63,7 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 7367,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Soudan : le général Hemedti, chef des FSR condamné à mort par contumace",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260714-soudan-le-g%C3%A9n%C3%A9ral-hemedti-chef-des-fsr-condamn%C3%A9-%C3%A0-mort-par-contumace",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 4489,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dix ans après l'attentat de Nice : \"c'est le rôle de l'Etat d'honorer nos morts\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260714-dix-ans-apr%C3%A8s-l-attentat-de-nice-c-est-le-r%C3%B4le-de-l-etat-d-honorer-nos-morts",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 406,
+    "id": 819,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3542,
+    "id": 5274,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7071,
+    "id": 4226,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2913,
+    "id": 765,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9135,
+    "id": 6289,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2972,
+    "id": 1950,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7929,
+    "id": 2379,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4402,
+    "id": 3808,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9037,
+    "id": 7747,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8441,
+    "id": 490,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 96,
+    "id": 2143,
     "level": "medium",
     "country": "🌍",
     "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
@@ -171,12 +162,21 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 1041,
+    "id": 1158,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
     "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 7133,
+    "level": "medium",
+    "country": "🌍",
+    "text": "States of emergency and the Caribbean’s development challenge",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
+    "time": "Sun, 12 Jul 2026"
   }
 ]
