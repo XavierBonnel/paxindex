@@ -1,6 +1,6 @@
 [
   {
-    "id": 3020,
+    "id": 1216,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,79 +9,34 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 634,
+    "id": 8547,
     "level": "critical",
     "country": "🌍",
-    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 14 July 2026)",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-14-july-2026",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 3006,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia’s War on Ukraine | Generators and transformers offered to Ukraine - DG EC",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/map/ukraine/russias-war-ukraine-generators-and-transformers-offered-ukraine-dg-echo-daily-map-15072026",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 196,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Attacks on Health Care in the occupied Palestinian territory (24 June - 07 July ",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/occupied-palestinian-territory/attacks-health-care-occupied-palestinian-territory-24-june-07-july-2026",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 4196,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Yemen Agrometeorological Update: Food Security and Early Warning Information Sys",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/yemen/yemen-agrometeorological-update-food-security-and-early-warning-information-system-01-30-june-2026-enar",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 2371,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
+    "text": "Russia pounds Ukraine with missile, drone strikes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 877,
+    "id": 9045,
     "level": "critical",
     "country": "🌍",
-    "text": "Palestinian homes sealed off by Israeli military restrictions",
+    "text": "Ukraine strikes 20 Russian vessels",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 1393,
+    "id": 9362,
     "level": "critical",
     "country": "🌍",
-    "text": "Prominent Moroccan journalist Ali Lmrabet released from custody",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/15/prominent-moroccan-journalist-ali-lmrabet-released-from-custody?traffic_source=rss",
+    "text": "Détroit d'Ormuz : l'engrenage ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260715-d%C3%A9troit-d-ormuz-l-engrenage",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 6101,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mapping the latest US strikes across Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 4007,
+    "id": 1404,
     "level": "critical",
     "country": "🌍",
     "text": "Affaire Lyhanna : Jérôme Barella mis en examen pour meurtre et viol sur mineure ",
@@ -90,7 +45,7 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 9958,
+    "id": 3934,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis voulaient-ils occuper et démembrer la France, comme le dit \"La Ba",
@@ -99,7 +54,7 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 266,
+    "id": 921,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3958,
+    "id": 1153,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8164,
+    "id": 354,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 264,
+    "id": 9140,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2880,
+    "id": 6198,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5327,
+    "id": 8601,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 265,
+    "id": 3911,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3241,
+    "id": 1438,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +126,57 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5813,
+    "id": 1498,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 4695,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 4313,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 4665,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 9964,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/14/i-have-never-had-the-opportunity-to-vote-how-one-haitian-doctors-initiative-is-getting-people-involved-in-civic-life/",
+    "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 1761,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
+    "time": "Mon, 13 Jul 2026"
   }
 ]
