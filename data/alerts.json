@@ -1,6 +1,6 @@
 [
   {
-    "id": 2780,
+    "id": 4503,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,16 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 2688,
+    "id": 4294,
+    "level": "critical",
+    "country": "🌍",
+    "text": "My Twitter, not X",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 5653,
     "level": "critical",
     "country": "🌍",
     "text": "Protest in Pakistan’s Kashmir stalls after nine killed in clashes",
@@ -18,7 +27,7 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 9510,
+    "id": 3662,
     "level": "critical",
     "country": "🌍",
     "text": "US strikes marine control tower in Iran",
@@ -27,43 +36,16 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 917,
-    "level": "critical",
+    "id": 6036,
+    "level": "high",
     "country": "🌍",
-    "text": "As the US restarts war on Iran, is its weapons stockpile running low?",
+    "text": "Legal challenge says Trump ICC sanctions tread on US citizens’ rights",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/15/as-the-us-restarts-war-on-iran-is-its-weapons-stockpile-running-low?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/15/legal-challenge-says-trump-icc-sanctions-tread-on-us-citizens-rights?traffic_source=rss",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 9924,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Utah man arrested after allegedly targeting Muslim kiosk worker in stabbing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/15/utah-man-arrested-after-allegedly-targeting-muslim-kiosk-worker-in-stabbing?traffic_source=rss",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 1296,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli air attack on Gaza apartment kills family of three",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/15/israeli-air-attack-on-gaza-apartment-kills-family-of-3?traffic_source=rss",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 2213,
-    "level": "critical",
-    "country": "🌍",
-    "text": "DRC Ebola cases surpass 2,000 as more health workers begin strike",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/15/drc-ebola-cases-surpass-2000-as-more-health-workers-begin-strike?traffic_source=rss",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 7827,
+    "id": 3003,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4108,
+    "id": 4575,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5960,
+    "id": 9462,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5943,
+    "id": 4177,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5974,
+    "id": 8317,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3156,
+    "id": 9493,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2327,
+    "id": 2300,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9534,
+    "id": 4478,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8912,
+    "id": 3120,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2079,
+    "id": 9664,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 983,
+    "id": 1123,
     "level": "medium",
     "country": "🌍",
     "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
@@ -162,7 +144,7 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 5855,
+    "id": 4823,
     "level": "medium",
     "country": "🌍",
     "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
@@ -171,12 +153,30 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 3711,
+    "id": 1007,
     "level": "medium",
     "country": "🌍",
     "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/14/i-have-never-had-the-opportunity-to-vote-how-one-haitian-doctors-initiative-is-getting-people-involved-in-civic-life/",
     "time": "Tue, 14 Jul 2026"
+  },
+  {
+    "id": 1810,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
+    "time": "Mon, 13 Jul 2026"
+  },
+  {
+    "id": 1310,
+    "level": "medium",
+    "country": "🌍",
+    "text": "States of emergency and the Caribbean’s development challenge",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
+    "time": "Sun, 12 Jul 2026"
   }
 ]
