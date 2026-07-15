@@ -1,6 +1,6 @@
 [
   {
-    "id": 6866,
+    "id": 3020,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,16 +9,97 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 7958,
+    "id": 634,
     "level": "critical",
     "country": "🌍",
-    "text": "Father, mother, daughter killed in Israeli attack on Gaza home",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
+    "text": "Lebanon: Conflict Intensity Snapshot (2 March - 14 July 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-14-july-2026",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 453,
+    "id": 3006,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russia’s War on Ukraine | Generators and transformers offered to Ukraine - DG EC",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/map/ukraine/russias-war-ukraine-generators-and-transformers-offered-ukraine-dg-echo-daily-map-15072026",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 196,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attacks on Health Care in the occupied Palestinian territory (24 June - 07 July ",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/occupied-palestinian-territory/attacks-health-care-occupied-palestinian-territory-24-june-07-july-2026",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 4196,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen Agrometeorological Update: Food Security and Early Warning Information Sys",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/yemen/yemen-agrometeorological-update-food-security-and-early-warning-information-system-01-30-june-2026-enar",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 2371,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 877,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestinian homes sealed off by Israeli military restrictions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 1393,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Prominent Moroccan journalist Ali Lmrabet released from custody",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/15/prominent-moroccan-journalist-ali-lmrabet-released-from-custody?traffic_source=rss",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 6101,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mapping the latest US strikes across Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 4007,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Affaire Lyhanna : Jérôme Barella mis en examen pour meurtre et viol sur mineure ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260715-affaire-lyhanna-j%C3%A9r%C3%B4me-barella-mis-en-examen-meurtre-viol-sur-mineure-moins-15-ans",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 9958,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les États-Unis voulaient-ils occuper et démembrer la France, comme le dit \"La Ba",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260715-%C3%A9tats-unis-voulaient-occuper-d%C3%A9membrer-france-comme-le-dit-la-bataille-de-gaulle",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 266,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -27,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3091,
+    "id": 3958,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -36,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7268,
+    "id": 8164,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -45,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 538,
+    "id": 264,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -54,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4807,
+    "id": 2880,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -63,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8179,
+    "id": 5327,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -72,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9960,
+    "id": 265,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -81,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4836,
+    "id": 3241,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -90,93 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8085,
+    "id": 5813,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 4929,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 6376,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 6411,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 6631,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/14/i-have-never-had-the-opportunity-to-vote-how-one-haitian-doctors-initiative-is-getting-people-involved-in-civic-life/",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 9081,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
-    "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 1469,
-    "level": "medium",
-    "country": "🌍",
-    "text": "States of emergency and the Caribbean’s development challenge",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 555,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/12/the-fake-parenting-expert-chinese-daughters-invented-to-talk-to-their-parents/",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 1432,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Follow the story: Local journalists, media and advocates covering Venezuela’s ea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/follow-the-story-local-journalists-media-and-advocates-covering-venezuelas-earthquakes/",
-    "time": "Sat, 11 Jul 2026"
-  },
-  {
-    "id": 7259,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepali Poet Viplob Pratik on literature, language, and a life shaped by words",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/11/nepali-poet-viplob-pratik-on-literature-language-and-a-life-shaped-by-words/",
-    "time": "Sat, 11 Jul 2026"
   }
 ]
