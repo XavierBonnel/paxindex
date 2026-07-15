@@ -1,6 +1,6 @@
 [
   {
-    "id": 5157,
+    "id": 5318,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,52 +9,61 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 4412,
+    "id": 7330,
     "level": "critical",
     "country": "🌍",
-    "text": "How Iran’s southern coast is bearing the brunt of US attacks",
+    "text": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 6390,
+    "id": 4488,
     "level": "critical",
     "country": "🌍",
-    "text": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
+    "text": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/15/mbappe-blames-technical-tactical-blunders-for-world-cup-semifinal-loss?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 1540,
+    "id": 5323,
     "level": "critical",
     "country": "🌍",
-    "text": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
+    "text": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/15/us-star-balogun-knew-red-card-reversal-would-cause-a-lot-of-controversy?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 5557,
+    "id": 3471,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine : attaque russe meurtrière à Odessa, Ursula von der Leyen en visite à Ki",
+    "text": "Guerre au Moyen-Orient : les États-Unis rétablissent le blocus des ports iranien",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260715-ukraine-attaque-russe-meurtri%C3%A8re-%C3%A0-odessa-ursula-von-der-leyen-%C3%A0-kiev",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260715-guerre-au-moyen-orient-les-%C3%A9tats-unis-r%C3%A9tablissent-le-blocus-des-ports-iraniens",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 6453,
+    "id": 7519,
     "level": "critical",
     "country": "🌍",
-    "text": "Le destin méconnu de la Grande Mosquée de Paris, cent ans au cœur de l'Histoire",
+    "text": "🔴 En direct : plus de 30 morts depuis la reprise des frappes américaines en Iran",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260715-destin-m%C3%A9connu-grande-mosquee-paris-100-cent-ans-au-c%C5%93ur-histoire-juifs-musulmans-algerie",
+    "link": "https://www.france24.com/fr/moyen-orient/20260715-en-direct-echange-frappes-iran-etats-unis-blocus-des-ports-iraniens-vigueur-detroit-ormuz-pays-golfe-koweit-bahrein-jordanie-liban-israel-donald-trump-menace",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 793,
+    "id": 4772,
+    "level": "high",
+    "country": "🌍",
+    "text": "How the failed 2016 coup reshaped Turkiye’s civil-military relations",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/15/how-failed-2016-coup-reshaped-turkiyes-and-civil-military-relations?traffic_source=rss",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 8898,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6331,
+    "id": 505,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7998,
+    "id": 1248,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8666,
+    "id": 8086,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6376,
+    "id": 4188,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 178,
+    "id": 5826,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6512,
+    "id": 3937,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5526,
+    "id": 3434,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9553,
+    "id": 4456,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9265,
+    "id": 6512,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3797,
+    "id": 3039,
     "level": "medium",
     "country": "🌍",
     "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
@@ -153,7 +162,7 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 5726,
+    "id": 5784,
     "level": "medium",
     "country": "🌍",
     "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
@@ -162,21 +171,12 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 4312,
+    "id": 3556,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
     "time": "Mon, 13 Jul 2026"
-  },
-  {
-    "id": 8055,
-    "level": "medium",
-    "country": "🌍",
-    "text": "States of emergency and the Caribbean’s development challenge",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
-    "time": "Sun, 12 Jul 2026"
   }
 ]
