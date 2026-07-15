@@ -1,6 +1,6 @@
 [
   {
-    "id": 6136,
+    "id": 5157,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,16 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 5396,
+    "id": 4412,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How Iran’s southern coast is bearing the brunt of US attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 6390,
     "level": "critical",
     "country": "🌍",
     "text": "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
@@ -18,7 +27,7 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 6890,
+    "id": 1540,
     "level": "critical",
     "country": "🌍",
     "text": "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
@@ -27,34 +36,25 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 4251,
+    "id": 5557,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump says strikes ‘will continue until I say enough’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 9813,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Colombian father identified in deadly ICE shooting",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/colombian-father-identified-in-deadly-ice-shooting?traffic_source=rss",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 423,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : échange de frappes entre Téhéran et Washington, le blocus des ports ",
+    "text": "Ukraine : attaque russe meurtrière à Odessa, Ursula von der Leyen en visite à Ki",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260715-en-direct-echange-frappes-iran-etats-unis-blocus-des-ports-iraniens-vigueur-detroit-ormuz-pays-golfe-koweit-bahrein-jordanie-liban-israel-donald-trump-menace",
+    "link": "https://www.france24.com/fr/europe/20260715-ukraine-attaque-russe-meurtri%C3%A8re-%C3%A0-odessa-ursula-von-der-leyen-%C3%A0-kiev",
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 9752,
+    "id": 6453,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le destin méconnu de la Grande Mosquée de Paris, cent ans au cœur de l'Histoire",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260715-destin-m%C3%A9connu-grande-mosquee-paris-100-cent-ans-au-c%C5%93ur-histoire-juifs-musulmans-algerie",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 793,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3874,
+    "id": 6331,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2104,
+    "id": 7998,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9443,
+    "id": 8666,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 59,
+    "id": 6376,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7090,
+    "id": 178,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7911,
+    "id": 6512,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7544,
+    "id": 5526,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7842,
+    "id": 9553,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1597,
+    "id": 9265,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,16 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5810,
+    "id": 3797,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 5726,
     "level": "medium",
     "country": "🌍",
     "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
@@ -153,7 +162,7 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 7268,
+    "id": 4312,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
@@ -162,21 +171,12 @@
     "time": "Mon, 13 Jul 2026"
   },
   {
-    "id": 9674,
+    "id": 8055,
     "level": "medium",
     "country": "🌍",
     "text": "States of emergency and the Caribbean’s development challenge",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/12/states-of-emergency-and-the-caribbeans-development-challenge/",
-    "time": "Sun, 12 Jul 2026"
-  },
-  {
-    "id": 2792,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The fake parenting expert Chinese daughters invented to talk to their parents",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/12/the-fake-parenting-expert-chinese-daughters-invented-to-talk-to-their-parents/",
     "time": "Sun, 12 Jul 2026"
   }
 ]
