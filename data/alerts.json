@@ -1,6 +1,6 @@
 [
   {
-    "id": 7070,
+    "id": 5282,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,61 +9,25 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 3850,
+    "id": 7752,
     "level": "critical",
     "country": "🌍",
-    "text": "How serious is Iran’s threat to disrupt shipping in the Red Sea?",
+    "text": "US mounts sixth straight night of attacks as Iran warns of wider war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/16/how-serious-is-irans-threat-to-disrupt-shipping-in-the-red-sea?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 262,
+    "id": 6421,
     "level": "critical",
     "country": "🌍",
-    "text": "What could a US ground invasion of Iran look like?",
+    "text": "Palestinians injured in Israeli settler attacks across West Bank",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 1450,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
-    "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 1060,
-    "level": "critical",
-    "country": "🌍",
-    "text": "WHO: Ebola spreading faster than ever recorded in DR Congo",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss",
-    "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 218,
-    "level": "critical",
-    "country": "🌍",
-    "text": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
-    "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 9788,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Eleven killed in Algeria orphanage fire",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss",
-    "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 3955,
+    "id": 5655,
     "level": "critical",
     "country": "🌍",
     "text": "Algérie : 11 morts dans l'incendie d'un orphelinat",
@@ -72,7 +36,7 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 9221,
+    "id": 8374,
     "level": "critical",
     "country": "🌍",
     "text": "Centrafrique : la Banque mondiale alerte sur l’état des finances publiques",
@@ -81,7 +45,16 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 8802,
+    "id": 9597,
+    "level": "high",
+    "country": "🌍",
+    "text": "Syria says it foiled Hezbollah weapons shipment",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 4012,
     "level": "high",
     "country": "🌍",
     "text": "L’homme \"High-T\" ou la nouvelle croisade testostéronée de Pete Hegseth et de l’e",
@@ -90,7 +63,7 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 8632,
+    "id": 6820,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6955,
+    "id": 7777,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8114,
+    "id": 3848,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5575,
+    "id": 1527,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4706,
+    "id": 9809,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9249,
+    "id": 1031,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2088,
+    "id": 9649,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7760,
+    "id": 3754,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3962,
+    "id": 2541,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +144,39 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1193,
+    "id": 3516,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 9629,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 8211,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 4496,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
+    "time": "Wed, 15 Jul 2026"
   }
 ]
