@@ -1,6 +1,6 @@
 [
   {
-    "id": 2460,
+    "id": 4600,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,25 +9,52 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 6229,
+    "id": 3031,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
+    "text": "Iran launches strikes on Gulf, even as FM visits Qatar",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
-    "time": "Wed, 15 Jul 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 1264,
+    "id": 7460,
     "level": "critical",
     "country": "🌍",
-    "text": "Russia pounds Ukraine with missile, drone strikes",
+    "text": "Iranian doctor says US strike damaged children’s cancer hospital",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
-    "time": "Wed, 15 Jul 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 1200,
+    "id": 180,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/7/16/epic-squared-scaloni-lauds-argentinas-back-to-back-world-cup-comebacks?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 4777,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 41,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : nouvelle salve de frappes américaines, le système de défense antiaér",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260716-en-direct-nouvelle-vague-frappes-bombardements-americains-etats-unis-donald-trump-iran-detroit-ormuz-paralyse-liban-israel-petrolier-blocus",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 2650,
     "level": "critical",
     "country": "🌍",
     "text": "Retrait des troupes rwandaises de l’Est de la RDC : l’ultimatum américain ignoré",
@@ -36,43 +63,16 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 4010,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Détroit d'Ormuz : l'engrenage ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260715-d%C3%A9troit-d-ormuz-l-engrenage",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 826,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Affaire Lyhanna : Jérôme Barella mis en examen pour meurtre et viol sur mineure ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260715-affaire-lyhanna-j%C3%A9r%C3%B4me-barella-mis-en-examen-meurtre-viol-sur-mineure-moins-15-ans",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 3698,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les États-Unis voulaient-ils occuper et démembrer la France, comme le dit \"La Ba",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260715-%C3%A9tats-unis-voulaient-occuper-d%C3%A9membrer-france-comme-le-dit-la-bataille-de-gaulle",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 7638,
+    "id": 4230,
     "level": "high",
     "country": "🌍",
-    "text": "What are the obstacles to peace between Israel and Lebanon?",
+    "text": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon?traffic_source=rss",
-    "time": "Wed, 15 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 8518,
+    "id": 6523,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7690,
+    "id": 1843,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6046,
+    "id": 6950,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7944,
+    "id": 9419,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8535,
+    "id": 1819,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5020,
+    "id": 8488,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8234,
+    "id": 285,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4195,
+    "id": 6399,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5620,
+    "id": 9431,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3489,
+    "id": 5971,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 591,
+    "id": 3922,
     "level": "medium",
     "country": "🌍",
     "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
@@ -171,7 +171,7 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 6677,
+    "id": 7707,
     "level": "medium",
     "country": "🌍",
     "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
