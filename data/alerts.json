@@ -1,6 +1,6 @@
 [
   {
-    "id": 1330,
+    "id": 1338,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,43 +9,70 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 262,
+    "id": 6549,
     "level": "critical",
     "country": "🌍",
-    "text": "Former US Ambassador says Iran miscalculated Trump’s resolve",
+    "text": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 8099,
+    "id": 7041,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran launches strikes on Gulf, even as FM visits Qatar",
+    "text": "US releases video of strikes on Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/us-releases-video-of-strikes-on-iran?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 2031,
+    "id": 2893,
     "level": "critical",
     "country": "🌍",
-    "text": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
+    "text": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What’s the latest",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 1901,
+    "id": 4862,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : l'Iran dit avoir visé des cibles américaines au Koweït, à Bahreïn et",
+    "text": "US launches new attacks on Iran as Tehran targets Gulf sites",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 406,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Algérie : au moins 11 morts et 19 blessés dans l'incendie d'un orphelinat",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260716-en-direct-nouvelle-vague-frappes-bombardements-americains-etats-unis-donald-trump-iran-detroit-ormuz-paralyse-liban-israel-petrolier-blocus",
+    "link": "https://www.france24.com/fr/afrique/20260716-alg%C3%A9rie-au-moins-11-morts-19-bless%C3%A9s-dans-incendie-orphelinat",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 8874,
+    "id": 9000,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : le Japon, un paradis pour espions russes menacé",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260716-guerre-ukraine-japon-paradis-menac%C3%A9-pour-espions-russes-gru",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 4472,
+    "level": "high",
+    "country": "🌍",
+    "text": "Pete Hegseth says US military to start testosterone screening for over 30s",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 5030,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7318,
+    "id": 9761,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7058,
+    "id": 6058,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 45,
+    "id": 52,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7743,
+    "id": 3158,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6208,
+    "id": 2123,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8533,
+    "id": 5014,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8478,
+    "id": 7839,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8985,
+    "id": 1652,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3959,
+    "id": 1519,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2106,
+    "id": 8204,
     "level": "medium",
     "country": "🌍",
     "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
@@ -144,39 +171,12 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 1804,
+    "id": 480,
     "level": "medium",
     "country": "🌍",
     "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
     "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 6775,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 419,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/14/i-have-never-had-the-opportunity-to-vote-how-one-haitian-doctors-initiative-is-getting-people-involved-in-civic-life/",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 2948,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
-    "time": "Mon, 13 Jul 2026"
   }
 ]
