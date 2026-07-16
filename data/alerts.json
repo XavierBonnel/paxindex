@@ -1,6 +1,6 @@
 [
   {
-    "id": 2024,
+    "id": 538,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,43 +9,79 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 8689,
+    "id": 5388,
     "level": "critical",
     "country": "🌍",
-    "text": "Sudanese minister says war has ‘profoundly reshaped’ nation’s demographics",
+    "text": "UK urges FIFA to investigate Argentina over World Cup Falklands banner",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/16/sudanese-minister-says-war-has-profoundly-reshaped-nations-demography?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/7/16/uk-urges-fifa-to-investigate-argentina-over-world-cup-falklands-banner?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 9705,
+    "id": 6699,
     "level": "critical",
     "country": "🌍",
-    "text": "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+    "text": "Data breach reportedly targets India’s Kudankulam nuclear power plant",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/palestinians-in-gaza-search-through-homes-destroyed-by-israeli-strikes?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 6117,
+    "id": 2659,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran claims strikes on US bases, warns of wider attacks on region",
+    "text": "US or Iran — Who needs a new truce deal more?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iran-claims-strikes-on-us-bases-warns-of-wider-attacks-on-region?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 281,
+    "id": 9662,
     "level": "critical",
     "country": "🌍",
-    "text": "Incendies en France : une situation sans précédent \"depuis la Seconde Guerre mon",
+    "text": "Algérie : 11 morts dans l'incendie d'un orphelinat",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260716-incendies-en-france-une-situation-sans-pr%C3%A9c%C3%A9dent-depuis-la-seconde-guerre-mondiale-macron",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260716-alg%C3%A9rie-11-mort-dans-l-incendie-d-un-orphelinat",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 5845,
+    "id": 9692,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Centrafrique : la Banque mondiale alerte sur l’état des finances publiques",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260716-centrafrique-la-banque-mondiale-alerte-sur-l-%C3%A9tat-des-finances-publiques",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 4649,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En Algérie, au moins 11 morts, dont plusieurs enfants, dans l'incendie d'un orph",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260716-en-alg%C3%A9rie-au-moins-11-morts-dont-plusieurs-enfants-dans-l-incendie-d-un-orphelinat",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 7445,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Incendie de Fontainebleau : la France n’a \"pas connu ça depuis la Seconde Guerre",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260716-incendie-de-fontainebleau-la-france-n-a-pas-connu-%C3%A7a-depuis-la-seconde-guerre-mondiale",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 4796,
+    "level": "high",
+    "country": "🌍",
+    "text": "L’homme \"High-T\" ou la nouvelle croisade testostéronée de Pete Hegseth et de l’e",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260716-homme-high-t-nouvelle-croisade-testost%C3%A9rone-pete-hegseth-extr%C3%AAme-droite-maga-masculinisme",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 2069,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9111,
+    "id": 2661,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1615,
+    "id": 9657,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2595,
+    "id": 7245,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9852,
+    "id": 1396,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9421,
+    "id": 3028,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 429,
+    "id": 4708,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 271,
+    "id": 6626,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1323,
+    "id": 7970,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8073,
+    "id": 3289,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,48 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5064,
+    "id": 9154,
     "level": "medium",
     "country": "🌍",
     "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
     "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 515,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 251,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 9583,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/14/i-have-never-had-the-opportunity-to-vote-how-one-haitian-doctors-initiative-is-getting-people-involved-in-civic-life/",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 6796,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Beyond the passport: The legal ambiguity of Indian citizenship",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/13/beyond-the-passport-the-legal-ambiguity-of-indian-citizenship/",
-    "time": "Mon, 13 Jul 2026"
   }
 ]
