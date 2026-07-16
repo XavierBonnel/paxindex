@@ -1,6 +1,6 @@
 [
   {
-    "id": 538,
+    "id": 7542,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,34 +9,43 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 5388,
+    "id": 9845,
     "level": "critical",
     "country": "🌍",
-    "text": "UK urges FIFA to investigate Argentina over World Cup Falklands banner",
+    "text": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/16/uk-urges-fifa-to-investigate-argentina-over-world-cup-falklands-banner?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 6699,
+    "id": 5021,
     "level": "critical",
     "country": "🌍",
-    "text": "Data breach reportedly targets India’s Kudankulam nuclear power plant",
+    "text": "Eleven killed in Algeria orphanage fire",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 2659,
+    "id": 3613,
     "level": "critical",
     "country": "🌍",
-    "text": "US or Iran — Who needs a new truce deal more?",
+    "text": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 9662,
+    "id": 8851,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 6923,
     "level": "critical",
     "country": "🌍",
     "text": "Algérie : 11 morts dans l'incendie d'un orphelinat",
@@ -45,7 +54,7 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 9692,
+    "id": 8609,
     "level": "critical",
     "country": "🌍",
     "text": "Centrafrique : la Banque mondiale alerte sur l’état des finances publiques",
@@ -54,7 +63,7 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 4649,
+    "id": 7808,
     "level": "critical",
     "country": "🌍",
     "text": "En Algérie, au moins 11 morts, dont plusieurs enfants, dans l'incendie d'un orph",
@@ -63,16 +72,25 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 7445,
-    "level": "critical",
+    "id": 9971,
+    "level": "high",
     "country": "🌍",
-    "text": "Incendie de Fontainebleau : la France n’a \"pas connu ça depuis la Seconde Guerre",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260716-incendie-de-fontainebleau-la-france-n-a-pas-connu-%C3%A7a-depuis-la-seconde-guerre-mondiale",
+    "text": "US to impose new 25 percent tariffs on some Brazilian imports",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/7/16/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 4796,
+    "id": 2362,
+    "level": "high",
+    "country": "🌍",
+    "text": "Trump limits length of visas for students, exchange visitors, journalists",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/16/trump-limits-length-of-visas-for-students-exchange-visitors-journalists?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 3705,
     "level": "high",
     "country": "🌍",
     "text": "L’homme \"High-T\" ou la nouvelle croisade testostéronée de Pete Hegseth et de l’e",
@@ -81,7 +99,7 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 2069,
+    "id": 5959,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2661,
+    "id": 1031,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9657,
+    "id": 9500,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7245,
+    "id": 675,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1396,
+    "id": 1040,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3028,
+    "id": 3450,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4708,
+    "id": 4910,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6626,
+    "id": 2079,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7970,
+    "id": 8293,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 3289,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9154,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
-    "time": "Thu, 16 Jul 2026"
   }
 ]
