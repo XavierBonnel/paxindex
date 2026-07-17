@@ -1,6 +1,6 @@
 [
   {
-    "id": 732,
+    "id": 7191,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,34 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 2142,
+    "id": 7407,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least three killed and hundreds displaced by heavy rain in Chile",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/17/at-least-three-killed-and-hundreds-displaced-by-heavy-rain-in-chile?traffic_source=rss",
+    "time": "Fri, 17 Jul 2026"
+  },
+  {
+    "id": 3175,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Can the US and Iran reach a lasting deal to end the conflict?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss",
+    "time": "Fri, 17 Jul 2026"
+  },
+  {
+    "id": 6175,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Life after amputation: Gaza women find recovery through football",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
+    "time": "Fri, 17 Jul 2026"
+  },
+  {
+    "id": 911,
     "level": "critical",
     "country": "🌍",
     "text": "Did the US just start a trade war with Brazil?",
@@ -18,25 +45,25 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 9319,
+    "id": 2964,
     "level": "critical",
     "country": "🌍",
-    "text": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/17/eight-killed-at-least-34-missing-after-landslide-in-chinas-chongqing?traffic_source=rss",
+    "text": "Guerre Iran/Etats-Unis, manifestations en Ukraine et bras de fer entre Washingto",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260717-guerre-iran-etats-unis-manifestations-en-ukraine-et-bras-de-fer-entre-washington-et-p%C3%A9kin",
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 3586,
+    "id": 999,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
+    "text": "Un séisme de magnitude 7,3 frappe le sud du Mexique sans faire de dégâts, l'aler",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260717-tremblement-de-terre-magnitude-7-3-mexique-alerte-tsunami-s%C3%A9isme",
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 4969,
+    "id": 4688,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : la Russie recrute toujours plus d'Africains",
@@ -45,34 +72,16 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 9472,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Attaques iraniennes au Qatar : des frappes \"pour punir l'armée américaine\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260717-attaques-iraniennes-au-qatar-des-frappes-pour-punir-l-arm%C3%A9e-am%C3%A9ricaine",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 3544,
+    "id": 6673,
     "level": "high",
     "country": "🌍",
-    "text": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+    "text": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 8664,
-    "level": "high",
-    "country": "🌍",
-    "text": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 3572,
+    "id": 8463,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 751,
+    "id": 6776,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 309,
+    "id": 1870,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7724,
+    "id": 9845,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8179,
+    "id": 7723,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5972,
+    "id": 3113,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6927,
+    "id": 6625,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1043,
+    "id": 7352,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9768,
+    "id": 9655,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 55,
+    "id": 1098,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9485,
+    "id": 1358,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 8817,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/17/nowhere-to-belong-after-the-ussr-collapsed-i-became-stateless-in-estonia/",
     "time": "Fri, 17 Jul 2026"
   }
 ]
