@@ -1,6 +1,6 @@
 [
   {
-    "id": 5282,
+    "id": 4783,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,16 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 7752,
+    "id": 2510,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuela earthquake: Number of known dead rises to nearly 5,000 victims",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 2749,
     "level": "critical",
     "country": "🌍",
     "text": "US mounts sixth straight night of attacks as Iran warns of wider war",
@@ -18,16 +27,7 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 6421,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Palestinians injured in Israeli settler attacks across West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
-    "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 5655,
+    "id": 6968,
     "level": "critical",
     "country": "🌍",
     "text": "Algérie : 11 morts dans l'incendie d'un orphelinat",
@@ -36,34 +36,25 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 8374,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Centrafrique : la Banque mondiale alerte sur l’état des finances publiques",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260716-centrafrique-la-banque-mondiale-alerte-sur-l-%C3%A9tat-des-finances-publiques",
-    "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 9597,
+    "id": 4637,
     "level": "high",
     "country": "🌍",
-    "text": "Syria says it foiled Hezbollah weapons shipment",
+    "text": "Qatar rejects Israeli reports of military action against Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/syria-says-it-foiled-hezbollah-weapons-shipment?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 4012,
+    "id": 8710,
     "level": "high",
     "country": "🌍",
-    "text": "L’homme \"High-T\" ou la nouvelle croisade testostéronée de Pete Hegseth et de l’e",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260716-homme-high-t-nouvelle-croisade-testost%C3%A9rone-pete-hegseth-extr%C3%AAme-droite-maga-masculinisme",
+    "text": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss",
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 6820,
+    "id": 1554,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7777,
+    "id": 3149,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3848,
+    "id": 3141,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1527,
+    "id": 4182,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9809,
+    "id": 7591,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1031,
+    "id": 5092,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9649,
+    "id": 706,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3754,
+    "id": 4686,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2541,
+    "id": 4274,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3516,
+    "id": 9428,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9629,
+    "id": 3287,
     "level": "medium",
     "country": "🌍",
     "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
@@ -162,7 +153,7 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 8211,
+    "id": 9507,
     "level": "medium",
     "country": "🌍",
     "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
@@ -171,12 +162,21 @@
     "time": "Wed, 15 Jul 2026"
   },
   {
-    "id": 4496,
+    "id": 6141,
     "level": "medium",
     "country": "🌍",
     "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
     "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 5326,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/14/i-have-never-had-the-opportunity-to-vote-how-one-haitian-doctors-initiative-is-getting-people-involved-in-civic-life/",
+    "time": "Tue, 14 Jul 2026"
   }
 ]
