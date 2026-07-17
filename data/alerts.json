@@ -1,6 +1,6 @@
 [
   {
-    "id": 4993,
+    "id": 5125,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,16 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 1713,
+    "id": 7181,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US launches seventh straight night of strikes on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
+    "time": "Fri, 17 Jul 2026"
+  },
+  {
+    "id": 2996,
     "level": "critical",
     "country": "🌍",
     "text": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
@@ -18,16 +27,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 8943,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least two dead as heavy rains, floods strike central Texas",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 6269,
+    "id": 2954,
     "level": "critical",
     "country": "🌍",
     "text": "Les frappes américaines sur l'Iran se poursuivent, les infrastructures civiles p",
@@ -36,7 +36,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 3795,
+    "id": 5223,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre Iran/Etats-Unis, manifestations en Ukraine et bras de fer entre Washingto",
@@ -45,7 +45,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 7417,
+    "id": 4588,
     "level": "critical",
     "country": "🌍",
     "text": "Un séisme de magnitude 7,3 frappe le sud du Mexique sans faire de dégâts, l'aler",
@@ -54,7 +54,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 243,
+    "id": 1993,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : la Russie recrute toujours plus d'Africains",
@@ -63,7 +63,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 7328,
+    "id": 4628,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4025,
+    "id": 4404,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1460,
+    "id": 4546,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4643,
+    "id": 6961,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8592,
+    "id": 3444,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6064,
+    "id": 6696,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7495,
+    "id": 5297,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6848,
+    "id": 3337,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1757,
+    "id": 5140,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8702,
+    "id": 4374,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4190,
+    "id": 8950,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
@@ -162,7 +162,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 7571,
+    "id": 1208,
     "level": "medium",
     "country": "🌍",
     "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
@@ -171,7 +171,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 1255,
+    "id": 8429,
     "level": "medium",
     "country": "🌍",
     "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
