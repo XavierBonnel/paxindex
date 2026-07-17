@@ -1,6 +1,6 @@
 [
   {
-    "id": 599,
+    "id": 3252,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,16 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 8695,
+    "id": 6237,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine suffers port attacks as protests persist over defence shake-up",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
+    "time": "Fri, 17 Jul 2026"
+  },
+  {
+    "id": 7623,
     "level": "critical",
     "country": "🌍",
     "text": "Burnham confirmed as leader of UK’s governing Labour Party, headed for PM",
@@ -18,7 +27,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 3357,
+    "id": 3636,
     "level": "critical",
     "country": "🌍",
     "text": "UN urges probe into deaths in Pakistani-administered Kashmir unrest",
@@ -27,7 +36,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 5107,
+    "id": 9521,
     "level": "critical",
     "country": "🌍",
     "text": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
@@ -36,7 +45,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 1389,
+    "id": 5540,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis",
@@ -45,25 +54,16 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 934,
+    "id": 6679,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly storm leaves half a million without power in Chile",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/deadly-storm-leaves-half-a-million-without-power-in-chile?traffic_source=rss",
+    "text": "Algérie, l'incendie meurtrier dans un orphelinat dû à un climatiseur (police)",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260717-alg%C3%A9rie-l-incendie-meurtrier-dans-un-orphelinat-d%C3%BB-%C3%A0-un-climatiseur-police",
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 3652,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US seeks extradition of wealthy pro-Palestine donor from Spain",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/17/us-seeks-extradition-of-wealthy-pro-palestine-donor-from-spain?traffic_source=rss",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 9592,
+    "id": 5644,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9359,
+    "id": 522,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7346,
+    "id": 519,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3481,
+    "id": 1788,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8506,
+    "id": 7992,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3995,
+    "id": 9281,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8311,
+    "id": 5860,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6814,
+    "id": 6068,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4894,
+    "id": 5178,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3522,
+    "id": 8726,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3885,
+    "id": 9497,
     "level": "medium",
     "country": "🌍",
     "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
@@ -162,7 +162,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 6183,
+    "id": 2878,
     "level": "medium",
     "country": "🌍",
     "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
@@ -171,7 +171,7 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 6945,
+    "id": 5939,
     "level": "medium",
     "country": "🌍",
     "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
