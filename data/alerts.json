@@ -1,6 +1,6 @@
 [
   {
-    "id": 1448,
+    "id": 2764,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,34 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 849,
+    "id": 1906,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Armed groups attack Malian military convoy in Gao region",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 4413,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Belgium bans imports from Israeli settlements in occupied Palestine",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 287,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 7773,
     "level": "critical",
     "country": "🌍",
     "text": "China warns UK over British Steel nationalisation, demands fair resolution",
@@ -18,25 +45,25 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 7217,
+    "id": 7681,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran accuses US of striking critical infrastructure as war intensifies",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
+    "text": "Des \"crimes de guerres\" comis par l'Iran à Bahreïn, au Koweit et en Jordanie dén",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260718-des-crimes-de-guerres-comis-par-l-iran-%C3%A0-bahre%C3%AFn-au-koweit-et-en-jordanie-d%C3%A9nonc%C3%A9s",
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 886,
+    "id": 9973,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukrainian strikes hit Russian logistics center",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/ukrainian-strikes-hit-russian-logistics-center?traffic_source=rss",
+    "text": "🔴 En direct : les pays du Golfe qualifient de \"crimes de guerre\" les attaques ir",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260718-en-direct-iran-menace-offensive-totale-septieme-nuit-frappes-etats-unis-guerre",
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 6156,
+    "id": 1695,
     "level": "critical",
     "country": "🌍",
     "text": "Sécheresse, déforestation, déchets... Haïti face aux défis de la sécurité climat",
@@ -45,7 +72,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 972,
+    "id": 3361,
     "level": "high",
     "country": "🌍",
     "text": "Top German conservative quits after surrogacy sparks backlash within party",
@@ -54,7 +81,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 5685,
+    "id": 38,
+    "level": "high",
+    "country": "🌍",
+    "text": "Au Mali, les indépendantistes touaregs attaquent un convoi de l'armée dans le No",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260718-mali-convoi-arm%C3%A9e-attaqu%C3%A9-ind%C3%A9pendantistes-touaregs-an%C3%A9fis-ville-strat%C3%A9gique-fla",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 4518,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1551,
+    "id": 6204,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6131,
+    "id": 2178,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6665,
+    "id": 5246,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3292,
+    "id": 819,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 589,
+    "id": 8966,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6728,
+    "id": 7179,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3894,
+    "id": 9376,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2350,
+    "id": 8366,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,48 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7438,
+    "id": 328,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 2437,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/18/crickets-greatest-all-rounder-barbados-sir-garfield-sobers-dies-at-89/",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 1363,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 683,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/17/nowhere-to-belong-after-the-ussr-collapsed-i-became-stateless-in-estonia/",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 1821,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
-    "time": "Thu, 16 Jul 2026"
   }
 ]
