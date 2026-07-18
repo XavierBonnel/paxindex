@@ -1,6 +1,6 @@
 [
   {
-    "id": 7069,
+    "id": 4918,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,7 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 3305,
+    "id": 1897,
     "level": "critical",
     "country": "🌍",
     "text": "A seventh night of US strikes cuts water to villages in Iran’s south",
@@ -18,34 +18,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 1922,
+    "id": 679,
     "level": "critical",
     "country": "🌍",
-    "text": "At least 14 dead after minibus rolls off mountain road in Peru",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/at-least-14-dead-after-minibus-rolls-off-mountain-road-in-peru?traffic_source=rss",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 7611,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russie : une attaque de drones ukrainienne contre un centre logistique fait au m",
+    "text": "Canicule : la mortalité doublée en Île-de-France, particulièrement chez les pers",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260718-russie-une-attaque-de-drones-ukrainienne-contre-un-centre-logistique-fait-au-moins-sept-morts",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260718-canicule-la-mortalit%C3%A9-doubl%C3%A9e-en-%C3%AEle-de-france-particuli%C3%A8rement-chez-les-personnes-plus-%C3%A2g%C3%A9es",
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 7402,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : l'Iran menace de lancer une \"offensive totale\" après une septième nu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260718-en-direct-iran-menace-offensive-totale-septieme-nuit-frappes-etats-unis-guerre",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 4176,
+    "id": 6411,
     "level": "high",
     "country": "🌍",
     "text": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
@@ -54,16 +36,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 6051,
-    "level": "high",
-    "country": "🌍",
-    "text": "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/18/manila-protests-racist-portrayal-of-filipinos-in-china-daily-videos?traffic_source=rss",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 5162,
+    "id": 1690,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2677,
+    "id": 2853,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +54,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2660,
+    "id": 1505,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2029,
+    "id": 995,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1775,
+    "id": 695,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7946,
+    "id": 1129,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1939,
+    "id": 9365,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9816,
+    "id": 4861,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 389,
+    "id": 7493,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9208,
+    "id": 5341,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7924,
+    "id": 4917,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
@@ -162,7 +135,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 1567,
+    "id": 44,
     "level": "medium",
     "country": "🌍",
     "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
@@ -171,12 +144,39 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 7564,
+    "id": 7776,
     "level": "medium",
     "country": "🌍",
     "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
     "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 8661,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 321,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
+    "time": "Wed, 15 Jul 2026"
+  },
+  {
+    "id": 6185,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/14/i-have-never-had-the-opportunity-to-vote-how-one-haitian-doctors-initiative-is-getting-people-involved-in-civic-life/",
+    "time": "Tue, 14 Jul 2026"
   }
 ]
