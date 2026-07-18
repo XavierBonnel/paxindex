@@ -1,6 +1,6 @@
 [
   {
-    "id": 1610,
+    "id": 3153,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,25 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 8009,
+    "id": 5648,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran accuses US of striking critical infrastructure as war intensifies",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 7003,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukrainian strikes hit Russian logistics center",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/ukrainian-strikes-hit-russian-logistics-center?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 8037,
     "level": "critical",
     "country": "🌍",
     "text": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
@@ -18,7 +36,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 5257,
+    "id": 5119,
     "level": "critical",
     "country": "🌍",
     "text": "Indian police forcibly hospitalise activist after 20-day hunger strike",
@@ -27,16 +45,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 8156,
-    "level": "high",
+    "id": 298,
+    "level": "critical",
     "country": "🌍",
-    "text": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
+    "text": "Sécheresse, déforestation, déchets... Haïti face aux défis de la sécurité climat",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260718-s%C3%A9cheresse-d%C3%A9forestation-d%C3%A9chets-ha%C3%AFti-face-aux-d%C3%A9fis-de-la-s%C3%A9curit%C3%A9-climatique",
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 2802,
+    "id": 461,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 954,
+    "id": 2927,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6993,
+    "id": 6083,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2913,
+    "id": 6771,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9852,
+    "id": 2696,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9549,
+    "id": 288,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3012,
+    "id": 2101,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3923,
+    "id": 2196,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5348,
+    "id": 3737,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9439,
+    "id": 9189,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6288,
+    "id": 7059,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
@@ -135,7 +153,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 2614,
+    "id": 1453,
     "level": "medium",
     "country": "🌍",
     "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
@@ -144,7 +162,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 2782,
+    "id": 8671,
     "level": "medium",
     "country": "🌍",
     "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
@@ -153,30 +171,12 @@
     "time": "Thu, 16 Jul 2026"
   },
   {
-    "id": 7269,
+    "id": 7320,
     "level": "medium",
     "country": "🌍",
     "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
     "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 676,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Why Venezuela’s earthquakes were so devastating: Geology, vulnerability, and yea",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/15/why-venezuelas-earthquakes-were-so-devastating-geology-vulnerability-and-years-of-structural-neglect/",
-    "time": "Wed, 15 Jul 2026"
-  },
-  {
-    "id": 608,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘I have never had the opportunity to vote’: How one Haitian doctor’s initiative ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/14/i-have-never-had-the-opportunity-to-vote-how-one-haitian-doctors-initiative-is-getting-people-involved-in-civic-life/",
-    "time": "Tue, 14 Jul 2026"
   }
 ]
