@@ -1,6 +1,6 @@
 [
   {
-    "id": 2764,
+    "id": 82,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,43 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 1906,
+    "id": 7200,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 5247,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli attacks on residential areas in Gaza kill eight",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 4576,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Damage visible at Iran bridges and water plant after US attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 8115,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US military says two service members killed in Iranian strike in Jordan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 7348,
     "level": "critical",
     "country": "🌍",
     "text": "Armed groups attack Malian military convoy in Gao region",
@@ -18,34 +54,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 4413,
+    "id": 3908,
     "level": "critical",
     "country": "🌍",
-    "text": "Belgium bans imports from Israeli settlements in occupied Palestine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss",
+    "text": "En direct : deux militaires américains ont été tués au combat en Jordanie, un au",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260718-en-direct-iran-menace-offensive-totale-septieme-nuit-frappes-etats-unis-guerre",
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 287,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 7773,
-    "level": "critical",
-    "country": "🌍",
-    "text": "China warns UK over British Steel nationalisation, demands fair resolution",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 7681,
+    "id": 5985,
     "level": "critical",
     "country": "🌍",
     "text": "Des \"crimes de guerres\" comis par l'Iran à Bahreïn, au Koweit et en Jordanie dén",
@@ -54,7 +72,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 9973,
+    "id": 5502,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 En direct : les pays du Golfe qualifient de \"crimes de guerre\" les attaques ir",
@@ -63,25 +81,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 1695,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sécheresse, déforestation, déchets... Haïti face aux défis de la sécurité climat",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260718-s%C3%A9cheresse-d%C3%A9forestation-d%C3%A9chets-ha%C3%AFti-face-aux-d%C3%A9fis-de-la-s%C3%A9curit%C3%A9-climatique",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 3361,
+    "id": 8360,
     "level": "high",
     "country": "🌍",
-    "text": "Top German conservative quits after surrogacy sparks backlash within party",
+    "text": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks?traffic_source=rss",
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 38,
+    "id": 1666,
     "level": "high",
     "country": "🌍",
     "text": "Au Mali, les indépendantistes touaregs attaquent un convoi de l'armée dans le No",
@@ -90,7 +99,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 4518,
+    "id": 1422,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6204,
+    "id": 1822,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2178,
+    "id": 9438,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5246,
+    "id": 2567,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 819,
+    "id": 8038,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8966,
+    "id": 5231,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7179,
+    "id": 5526,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9376,
+    "id": 4607,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8366,
+    "id": 4282,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 328,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
