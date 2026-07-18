@@ -1,6 +1,6 @@
 [
   {
-    "id": 3153,
+    "id": 1448,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,16 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 5648,
+    "id": 849,
+    "level": "critical",
+    "country": "🌍",
+    "text": "China warns UK over British Steel nationalisation, demands fair resolution",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 7217,
     "level": "critical",
     "country": "🌍",
     "text": "Iran accuses US of striking critical infrastructure as war intensifies",
@@ -18,7 +27,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 7003,
+    "id": 886,
     "level": "critical",
     "country": "🌍",
     "text": "Ukrainian strikes hit Russian logistics center",
@@ -27,25 +36,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 8037,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 5119,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Indian police forcibly hospitalise activist after 20-day hunger strike",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 298,
+    "id": 6156,
     "level": "critical",
     "country": "🌍",
     "text": "Sécheresse, déforestation, déchets... Haïti face aux défis de la sécurité climat",
@@ -54,7 +45,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 461,
+    "id": 972,
+    "level": "high",
+    "country": "🌍",
+    "text": "Top German conservative quits after surrogacy sparks backlash within party",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 5685,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2927,
+    "id": 1551,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6083,
+    "id": 6131,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6771,
+    "id": 6665,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2696,
+    "id": 3292,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 288,
+    "id": 589,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2101,
+    "id": 6728,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2196,
+    "id": 3894,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3737,
+    "id": 2350,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9189,
+    "id": 7438,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,16 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7059,
+    "id": 2437,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/18/crickets-greatest-all-rounder-barbados-sir-garfield-sobers-dies-at-89/",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 1363,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
@@ -153,7 +162,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 1453,
+    "id": 683,
     "level": "medium",
     "country": "🌍",
     "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
@@ -162,21 +171,12 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 8671,
+    "id": 1821,
     "level": "medium",
     "country": "🌍",
     "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
     "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 7320,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
-    "time": "Wed, 15 Jul 2026"
   }
 ]
