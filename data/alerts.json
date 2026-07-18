@@ -1,6 +1,6 @@
 [
   {
-    "id": 5125,
+    "id": 5420,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,25 +9,43 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 7181,
+    "id": 3383,
     "level": "critical",
     "country": "🌍",
-    "text": "US launches seventh straight night of strikes on Iran",
+    "text": "Iranian official says the policy of negotiating during war is over",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
-    "time": "Fri, 17 Jul 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 2996,
+    "id": 7932,
     "level": "critical",
     "country": "🌍",
-    "text": "ICE agent behind fatal shooting in Maine reportedly had troubled history",
+    "text": "Targets of latest US strikes on Iran signal strategic shift",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/17/ice-agent-behind-fatal-shooting-in-maine-reportedly-had-troubled-history?traffic_source=rss",
-    "time": "Fri, 17 Jul 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/targets-of-latest-us-strikes-on-iran-signal-strategic-shift?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 2954,
+    "id": 3997,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Landslide in southwest China kills eight and leaves 34 missing",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/landslide-in-southwest-china-kills-eight-and-leaves-34-missing?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 1751,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: US and Iran exchange deadly attacks for 7th night",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/18/iran-war-live-us-and-iran-exchange-attacks-for-7th-consecutive-night?traffic_source=rss",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 997,
     "level": "critical",
     "country": "🌍",
     "text": "Les frappes américaines sur l'Iran se poursuivent, les infrastructures civiles p",
@@ -36,7 +54,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 5223,
+    "id": 2385,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre Iran/Etats-Unis, manifestations en Ukraine et bras de fer entre Washingto",
@@ -45,7 +63,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 4588,
+    "id": 5268,
     "level": "critical",
     "country": "🌍",
     "text": "Un séisme de magnitude 7,3 frappe le sud du Mexique sans faire de dégâts, l'aler",
@@ -54,16 +72,7 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 1993,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : la Russie recrute toujours plus d'Africains",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260717-guerre-en-ukraine-la-russie-recrute-toujours-plus-d-africains",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 4628,
+    "id": 3692,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4404,
+    "id": 6959,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4546,
+    "id": 5652,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6961,
+    "id": 6284,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3444,
+    "id": 9296,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6696,
+    "id": 9652,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5297,
+    "id": 477,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3337,
+    "id": 716,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5140,
+    "id": 3968,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4374,
+    "id": 3846,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8950,
+    "id": 1024,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
@@ -162,21 +171,12 @@
     "time": "Fri, 17 Jul 2026"
   },
   {
-    "id": 1208,
+    "id": 2912,
     "level": "medium",
     "country": "🌍",
     "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/17/nowhere-to-belong-after-the-ussr-collapsed-i-became-stateless-in-estonia/",
     "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 8429,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
-    "time": "Thu, 16 Jul 2026"
   }
 ]
