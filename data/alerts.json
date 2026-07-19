@@ -1,6 +1,6 @@
 [
   {
-    "id": 6001,
+    "id": 7231,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,34 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 5101,
+    "id": 6123,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US bombs Iran for eighth-straight night",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 3357,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least one killed as Russian ballistic missiles hit Kyiv",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 6556,
+    "level": "critical",
+    "country": "🌍",
+    "text": "FIFA World Cup 2026 sees major increase in goals from outside the box",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 7870,
     "level": "critical",
     "country": "🌍",
     "text": "Palestinian teenage footballer dies after Israeli settler attack",
@@ -18,43 +45,34 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 6448,
+    "id": 9607,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+    "text": "En direct : Washington dit avoir ciblé des forces iraniennes pour \"punir\" la mor",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260719-en-direct-l-arm%C3%A9e-am%C3%A9ricaine-affirme-avoir-cibl%C3%A9-les-forces-iraniennes-ayant-tu%C3%A9-deux-militaires",
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 8280,
+    "id": 4594,
     "level": "critical",
     "country": "🌍",
-    "text": "Naïma Huber-Yahi: \"la Grande Mosquée, outil colonial, va devenir un outil d'éman",
+    "text": "La Russie bombarde Kiev au lendemain d'attaques ukrainiennes meurtrières",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260718-na%C3%AFma-huber-yahi-la-grande-mosqu%C3%A9e-outil-colonial-va-devenir-un-outil-d-%C3%A9mancipation",
-    "time": "Sat, 18 Jul 2026"
+    "link": "https://www.france24.com/fr/europe/20260719-la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtri%C3%A8res",
+    "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 4477,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : deux militaires américains ont été tués au combat en Jordanie, un au",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260718-en-direct-iran-menace-offensive-totale-septieme-nuit-frappes-etats-unis-guerre",
-    "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 2331,
+    "id": 4015,
     "level": "high",
     "country": "🌍",
-    "text": "Mali : nouvelle attaque contre l'armée et les mercenaires russes dans le nord",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260718-mali-nouvelle-attaque-contre-l-arm%C3%A9e-et-les-mercenaires-russes-dans-le-nord",
-    "time": "Sat, 18 Jul 2026"
+    "text": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
+    "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 1573,
+    "id": 3444,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 918,
+    "id": 1753,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9062,
+    "id": 7433,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4662,
+    "id": 412,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4375,
+    "id": 7171,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8319,
+    "id": 6050,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8769,
+    "id": 7452,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4297,
+    "id": 7274,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7972,
+    "id": 6706,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6255,
+    "id": 2584,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1376,
+    "id": 8637,
     "level": "medium",
     "country": "🌍",
     "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
@@ -153,30 +171,12 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 3932,
+    "id": 4745,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
     "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 1168,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/17/nowhere-to-belong-after-the-ussr-collapsed-i-became-stateless-in-estonia/",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 1500,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
-    "time": "Thu, 16 Jul 2026"
   }
 ]
