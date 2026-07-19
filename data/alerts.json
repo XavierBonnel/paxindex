@@ -1,6 +1,6 @@
 [
   {
-    "id": 5391,
+    "id": 5723,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,16 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 7429,
+    "id": 3047,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 50 Malian soldiers killed in attack on military convoy",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 3559,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli settlers torch homes and mosque in Masafer Yatta",
@@ -18,16 +27,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 7057,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
-    "time": "Sun, 19 Jul 2026"
-  },
-  {
-    "id": 4256,
+    "id": 4532,
     "level": "critical",
     "country": "🌍",
     "text": "Manifestations à Kiev malgré de puissantes explosions suite à des attaques russe",
@@ -36,7 +36,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 3611,
+    "id": 5214,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : Les États-Unis ciblent des responsables après la mort de deux soldats amé",
@@ -45,7 +45,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 7140,
+    "id": 2,
     "level": "critical",
     "country": "🌍",
     "text": "Mondial 2026, canicule et incendies dans le monde, guerre en Ukraine : la semain",
@@ -54,7 +54,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 7095,
+    "id": 6859,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7544,
+    "id": 1352,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8602,
+    "id": 3343,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1673,
+    "id": 8540,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9347,
+    "id": 3581,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1748,
+    "id": 2127,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9824,
+    "id": 9849,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2036,
+    "id": 9557,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2239,
+    "id": 3056,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3425,
+    "id": 599,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,16 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9077,
+    "id": 4690,
+    "level": "medium",
+    "country": "🌍",
+    "text": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against human",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/19/70-years-on-argentine-court-declares-operation-massacre-a-crime-against-humanity/",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 817,
     "level": "medium",
     "country": "🌍",
     "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
@@ -153,7 +162,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 744,
+    "id": 7704,
     "level": "medium",
     "country": "🌍",
     "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
@@ -162,21 +171,12 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 3909,
+    "id": 3895,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 926,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/17/nowhere-to-belong-after-the-ussr-collapsed-i-became-stateless-in-estonia/",
     "time": "Fri, 17 Jul 2026"
   }
 ]
