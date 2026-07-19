@@ -1,6 +1,6 @@
 [
   {
-    "id": 7231,
+    "id": 8534,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,7 +9,25 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 6123,
+    "id": 211,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 8001,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The number one health issue in Palestine is the Israeli occupation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 1072,
     "level": "critical",
     "country": "🌍",
     "text": "US bombs Iran for eighth-straight night",
@@ -18,7 +36,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 3357,
+    "id": 1255,
     "level": "critical",
     "country": "🌍",
     "text": "At least one killed as Russian ballistic missiles hit Kyiv",
@@ -27,25 +45,16 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 6556,
+    "id": 4599,
     "level": "critical",
     "country": "🌍",
-    "text": "FIFA World Cup 2026 sees major increase in goals from outside the box",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/19/fifa-world-cup-2026-sees-major-increase-in-goals-from-outside-the-box?traffic_source=rss",
+    "text": "Deux soldats américains tués en Jordanie, Washington veut \"punir\" l'Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-deux-soldats-am%C3%A9ricains-tu%C3%A9s-en-jordanie-washington-veut-punir-l-iran",
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 7870,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Palestinian teenage footballer dies after Israeli settler attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/palestinian-teenage-footballer-dies-after-israeli-settler-attack?traffic_source=rss",
-    "time": "Sun, 19 Jul 2026"
-  },
-  {
-    "id": 9607,
+    "id": 9927,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : Washington dit avoir ciblé des forces iraniennes pour \"punir\" la mor",
@@ -54,16 +63,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 4594,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La Russie bombarde Kiev au lendemain d'attaques ukrainiennes meurtrières",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260719-la-russie-bombarde-kiev-au-lendemain-d-attaques-ukrainiennes-meurtri%C3%A8res",
-    "time": "Sun, 19 Jul 2026"
-  },
-  {
-    "id": 4015,
+    "id": 3886,
     "level": "high",
     "country": "🌍",
     "text": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
@@ -72,7 +72,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 3444,
+    "id": 9456,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1753,
+    "id": 1494,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7433,
+    "id": 1418,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 412,
+    "id": 4352,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7171,
+    "id": 1402,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6050,
+    "id": 5527,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7452,
+    "id": 9132,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7274,
+    "id": 2405,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6706,
+    "id": 789,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2584,
+    "id": 4951,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8637,
+    "id": 8121,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/19/cambodian-law-can-render-citizens-stateless-for-undermining-national-security/",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 2649,
     "level": "medium",
     "country": "🌍",
     "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/18/crickets-greatest-all-rounder-barbados-sir-garfield-sobers-dies-at-89/",
     "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 4745,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
-    "time": "Fri, 17 Jul 2026"
   }
 ]
