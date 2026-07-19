@@ -1,6 +1,6 @@
 [
   {
-    "id": 780,
+    "id": 9726,
     "level": "critical",
     "country": "🌍",
     "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
@@ -9,34 +9,61 @@
     "time": "Tue, 14 Jul 2026"
   },
   {
-    "id": 1022,
+    "id": 8012,
     "level": "critical",
     "country": "🌍",
-    "text": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+    "text": "Why have India’s Gen Z protesters called for a march to parliament?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 6753,
+    "id": 8511,
     "level": "critical",
     "country": "🌍",
-    "text": "Mali : au moins 50 militaires tués dans l'attaque des indépendantistes et des ji",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260719-mali-au-moins-50-militaires-tu%C3%A9s-attaque-ind%C3%A9pendantistes-jihadistes-an%C3%A9fis",
+    "text": "Iranians suffer from power blackouts during war and heatwave",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 9330,
+    "id": 7179,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Manifestations à Kiev malgré de puissantes explosions suite à des attaques russe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-manifestations-%C3%A0-kiev-malgr%C3%A9-de-puissantes-explosions-suite-%C3%A0-des-attaques-russes",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 1069,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran : Les États-Unis ciblent des responsables après la mort de deux soldats amé",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-iran-les-%C3%A9tats-unis-ciblent-des-responsables-apr%C3%A8s-la-mort-de-deux-soldats-am%C3%A9ricains",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 6419,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mondial 2026, canicule et incendies dans le monde, guerre en Ukraine : la semain",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260719-mondial-2026-canicule-incendies-guerre-ukraine-semaine-en-images",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 4572,
     "level": "high",
     "country": "🌍",
-    "text": "Zelensky dit entendre les colère des ukrainiens après une nouvelle journée de ma",
+    "text": "Mali : les embuscades contre l'armée se multiplient",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-zelensky-dit-entendre-les-col%C3%A8re-des-ukrainiens-apr%C3%A8s-une-nouvelle-journ%C3%A9e-de-manifestations",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260719-mali-les-embuscades-contre-l-arm%C3%A9e-se-multiplient",
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 1272,
+    "id": 191,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6721,
+    "id": 1155,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6916,
+    "id": 3573,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3409,
+    "id": 9846,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9487,
+    "id": 3258,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4610,
+    "id": 5509,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5995,
+    "id": 8314,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2309,
+    "id": 8388,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5891,
+    "id": 3437,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6242,
+    "id": 9058,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6734,
+    "id": 5851,
     "level": "medium",
     "country": "🌍",
     "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
@@ -135,7 +162,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 4716,
+    "id": 909,
     "level": "medium",
     "country": "🌍",
     "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
@@ -144,39 +171,12 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 3611,
+    "id": 4671,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
     "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 5512,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/17/nowhere-to-belong-after-the-ussr-collapsed-i-became-stateless-in-estonia/",
-    "time": "Fri, 17 Jul 2026"
-  },
-  {
-    "id": 347,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
-    "time": "Thu, 16 Jul 2026"
-  },
-  {
-    "id": 4724,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nationalistic performance versus Bushido traditions: Debates over Japanese clean",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/15/nationalistic-performance-versus-bushido-traditions-debates-over-japanese-cleanup-at-the-2026-fifa-world-cup/",
-    "time": "Wed, 15 Jul 2026"
   }
 ]
