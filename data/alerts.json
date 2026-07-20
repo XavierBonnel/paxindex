@@ -1,15 +1,6 @@
 [
   {
-    "id": 6686,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Australia’s Brewarrina fish traps may be the oldest human construction in the wo",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/14/australias-brewarrina-fish-traps-may-be-the-oldest-human-construction-in-the-world/",
-    "time": "Tue, 14 Jul 2026"
-  },
-  {
-    "id": 1072,
+    "id": 7230,
     "level": "critical",
     "country": "🌍",
     "text": "US service member killed during detonation of Iranian drone in Iraq",
@@ -18,7 +9,7 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 7435,
+    "id": 702,
     "level": "critical",
     "country": "🌍",
     "text": "Mbappe takes home second Golden Boot, Spain sweeps World Cup awards",
@@ -27,7 +18,7 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 4537,
+    "id": 5583,
     "level": "critical",
     "country": "🌍",
     "text": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
@@ -36,34 +27,16 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 420,
+    "id": 7553,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: US military completes ninth night of strikes on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
-    "time": "Mon, 20 Jul 2026"
-  },
-  {
-    "id": 8516,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
-    "time": "Sun, 19 Jul 2026"
-  },
-  {
-    "id": 2236,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : 9e nuit de frappes, un navire en feu dans le détroit d'Ormuz",
+    "text": "En direct : 9e nuit de frappes américaines ayant ciblé les \"centres de commandem",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260719-en-direct-9e-nuit-frappes-americaines-iran-attaque-frappes-centre-de-commandement-syrie-liban-etats-unis-gardiens-revolution-pays-golfe-koweit-bahrein-jordanie",
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 8728,
+    "id": 9232,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2923,
+    "id": 1684,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +54,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 612,
+    "id": 104,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5136,
+    "id": 2886,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3475,
+    "id": 4686,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5940,
+    "id": 548,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6300,
+    "id": 7862,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2024,
+    "id": 9038,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2245,
+    "id": 7,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5779,
+    "id": 6510,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +126,16 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1438,
+    "id": 4954,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Deprivation of nationality in the Gulf: Stories from Kuwait and Bahrain",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/20/deprivation-of-nationality-in-the-gulf-stories-from-kuwait-and-bahrain/",
+    "time": "Mon, 20 Jul 2026"
+  },
+  {
+    "id": 949,
     "level": "medium",
     "country": "🌍",
     "text": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against human",
@@ -162,7 +144,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 5694,
+    "id": 6345,
     "level": "medium",
     "country": "🌍",
     "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
@@ -171,12 +153,30 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 4607,
+    "id": 1267,
     "level": "medium",
     "country": "🌍",
     "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/18/crickets-greatest-all-rounder-barbados-sir-garfield-sobers-dies-at-89/",
     "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 360,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
+    "time": "Fri, 17 Jul 2026"
+  },
+  {
+    "id": 9594,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/17/nowhere-to-belong-after-the-ussr-collapsed-i-became-stateless-in-estonia/",
+    "time": "Fri, 17 Jul 2026"
   }
 ]
