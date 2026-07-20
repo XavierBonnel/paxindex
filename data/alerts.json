@@ -1,6 +1,6 @@
 [
   {
-    "id": 5194,
+    "id": 8437,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,25 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 1760,
+    "id": 6193,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump vows Iran will ‘pay’ for killing US soldiers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
+    "time": "Mon, 20 Jul 2026"
+  },
+  {
+    "id": 8205,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli air strike injures 14 in Gaza City",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
+    "time": "Mon, 20 Jul 2026"
+  },
+  {
+    "id": 8166,
     "level": "critical",
     "country": "🌍",
     "text": "At least 25 killed as floods and landslides hit northern India",
@@ -18,25 +36,7 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 3177,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss",
-    "time": "Mon, 20 Jul 2026"
-  },
-  {
-    "id": 8862,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/20/former-england-manager-and-two-time-ballon-dor-winner-keegan-dies-aged-75?traffic_source=rss",
-    "time": "Mon, 20 Jul 2026"
-  },
-  {
-    "id": 3627,
+    "id": 1914,
     "level": "critical",
     "country": "🌍",
     "text": "Ces images ne prouvent pas que le pont du roi Fahd a été détruit par une frappe ",
@@ -45,16 +45,16 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 4151,
+    "id": 4131,
     "level": "high",
     "country": "🌍",
-    "text": "Lebanon’s military starts ‘pilot zone’ takeover in south",
+    "text": "Petrol prices climb as US–Iran tensions disrupt markets",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/20/lebanons-military-starts-pilot-zone-takeover-in-south?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 1694,
+    "id": 2857,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8918,
+    "id": 7928,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7627,
+    "id": 3153,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8602,
+    "id": 2410,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5168,
+    "id": 1857,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2337,
+    "id": 608,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 772,
+    "id": 7466,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3105,
+    "id": 5798,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7788,
+    "id": 3888,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7575,
+    "id": 2688,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5144,
+    "id": 1861,
     "level": "medium",
     "country": "🌍",
     "text": "Deprivation of nationality in the Gulf: Stories from Kuwait and Bahrain",
@@ -153,7 +153,7 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 8788,
+    "id": 7408,
     "level": "medium",
     "country": "🌍",
     "text": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against human",
@@ -162,7 +162,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 1525,
+    "id": 8500,
     "level": "medium",
     "country": "🌍",
     "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
@@ -171,7 +171,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 2654,
+    "id": 4420,
     "level": "medium",
     "country": "🌍",
     "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
