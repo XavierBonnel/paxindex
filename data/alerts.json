@@ -1,6 +1,6 @@
 [
   {
-    "id": 1808,
+    "id": 9045,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,34 +9,34 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 4248,
+    "id": 1241,
     "level": "critical",
     "country": "🌍",
-    "text": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
+    "text": "US military releases footage of tenth consecutive night of strikes on Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss",
-    "time": "Mon, 20 Jul 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss",
+    "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 6516,
+    "id": 4875,
     "level": "critical",
     "country": "🌍",
-    "text": "War on Iran: War resumes 30 days after MoU",
+    "text": "US attacks Iran for 10th consecutive night",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
-    "time": "Mon, 20 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+    "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 5281,
+    "id": 4001,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-    "time": "Mon, 20 Jul 2026"
+    "text": "En direct : dixième nuit de frappes américaines en Iran, qui vise des cibles à B",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260721-en-direct-moyen-orient-iran-etats-unis-frappes-americaines-bahrein-koweit-ormuz-trump-houthis",
+    "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 1312,
+    "id": 8373,
     "level": "critical",
     "country": "🌍",
     "text": "Bases américaines attaquées par l'Iran : \"La Jordanie est devenue une cible de c",
@@ -45,7 +45,16 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 8981,
+    "id": 567,
+    "level": "high",
+    "country": "🌍",
+    "text": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss",
+    "time": "Tue, 21 Jul 2026"
+  },
+  {
+    "id": 7953,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6534,
+    "id": 9535,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9160,
+    "id": 760,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9986,
+    "id": 503,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2291,
+    "id": 9191,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6374,
+    "id": 2460,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5590,
+    "id": 3590,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3928,
+    "id": 138,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2916,
+    "id": 2274,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5464,
+    "id": 3044,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7799,
+    "id": 7750,
     "level": "medium",
     "country": "🌍",
     "text": "Deprivation of nationality in the Gulf: Stories from Kuwait and Bahrain",
@@ -144,7 +153,7 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 8091,
+    "id": 244,
     "level": "medium",
     "country": "🌍",
     "text": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against human",
@@ -153,7 +162,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 2486,
+    "id": 4696,
     "level": "medium",
     "country": "🌍",
     "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
@@ -162,21 +171,12 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 3995,
+    "id": 1027,
     "level": "medium",
     "country": "🌍",
     "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/18/crickets-greatest-all-rounder-barbados-sir-garfield-sobers-dies-at-89/",
     "time": "Sat, 18 Jul 2026"
-  },
-  {
-    "id": 5023,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
-    "time": "Fri, 17 Jul 2026"
   }
 ]
