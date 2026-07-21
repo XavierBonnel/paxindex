@@ -1,6 +1,6 @@
 [
   {
-    "id": 6292,
+    "id": 1808,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,25 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 3011,
+    "id": 4248,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Suspect charged in fatal attack on UK politician Ann Widdecombe",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/20/suspect-charged-in-fatal-attack-on-uk-politician-ann-widdecombe?traffic_source=rss",
+    "time": "Mon, 20 Jul 2026"
+  },
+  {
+    "id": 6516,
+    "level": "critical",
+    "country": "🌍",
+    "text": "War on Iran: War resumes 30 days after MoU",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
+    "time": "Mon, 20 Jul 2026"
+  },
+  {
+    "id": 5281,
     "level": "critical",
     "country": "🌍",
     "text": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
@@ -18,25 +36,7 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 5180,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How will Zelenskyy handle the growing political crisis at home?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-    "time": "Mon, 20 Jul 2026"
-  },
-  {
-    "id": 4314,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Indian police attack Cockroach Janta Party’s parliament march",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-attack-cockroach-janta-partys-parliament-march?traffic_source=rss",
-    "time": "Mon, 20 Jul 2026"
-  },
-  {
-    "id": 7943,
+    "id": 1312,
     "level": "critical",
     "country": "🌍",
     "text": "Bases américaines attaquées par l'Iran : \"La Jordanie est devenue une cible de c",
@@ -45,7 +45,7 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 4082,
+    "id": 8981,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8237,
+    "id": 6534,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8498,
+    "id": 9160,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8841,
+    "id": 9986,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 348,
+    "id": 2291,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8317,
+    "id": 6374,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5329,
+    "id": 5590,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7862,
+    "id": 3928,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9532,
+    "id": 2916,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2975,
+    "id": 5464,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 589,
+    "id": 7799,
     "level": "medium",
     "country": "🌍",
     "text": "Deprivation of nationality in the Gulf: Stories from Kuwait and Bahrain",
@@ -144,7 +144,7 @@
     "time": "Mon, 20 Jul 2026"
   },
   {
-    "id": 2745,
+    "id": 8091,
     "level": "medium",
     "country": "🌍",
     "text": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against human",
@@ -153,7 +153,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 4127,
+    "id": 2486,
     "level": "medium",
     "country": "🌍",
     "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
@@ -162,7 +162,7 @@
     "time": "Sun, 19 Jul 2026"
   },
   {
-    "id": 3764,
+    "id": 3995,
     "level": "medium",
     "country": "🌍",
     "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
@@ -171,7 +171,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 3214,
+    "id": 5023,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
