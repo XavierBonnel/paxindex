@@ -1,6 +1,6 @@
 [
   {
-    "id": 9084,
+    "id": 3928,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,16 +9,52 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 5232,
+    "id": 259,
     "level": "critical",
     "country": "🌍",
-    "text": "US military releases footage of tenth consecutive night of strikes on Iran",
+    "text": "Huge fire at Ukraine shopping centre after Russian drone strike",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_us-military-releases-footage-of-strikes-on-iran-200726?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
     "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 3439,
+    "id": 2660,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
+    "time": "Tue, 21 Jul 2026"
+  },
+  {
+    "id": 4847,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mamdani-says-he-takes-netanyahus-icc-arrest-warrant?traffic_source=rss",
+    "time": "Tue, 21 Jul 2026"
+  },
+  {
+    "id": 8880,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre Ukraine-Russie : 2026 déjà marquée par une forte hausse du nombre de vict",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260721-guerre-ukraine-russie-2026-marqu%C3%A9e-par-une-forte-hausse-du-nombre-de-victimes-civiles",
+    "time": "Tue, 21 Jul 2026"
+  },
+  {
+    "id": 8531,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Italie : manifestation à Bologne après la mort d'un Marocain lors de son interpe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260721-italie-manifestation-%C3%A0-bologne-apr%C3%A8s-la-mort-d-un-marocain-lors-de-son-interpellation",
+    "time": "Tue, 21 Jul 2026"
+  },
+  {
+    "id": 5447,
     "level": "critical",
     "country": "🌍",
     "text": "Un naufrage au Guyana fait au moins 27 morts et 83 disparus",
@@ -27,7 +63,7 @@
     "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 2369,
+    "id": 2953,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 En direct : l'Iran vise des radars et des systèmes de défense américains dans ",
@@ -36,25 +72,7 @@
     "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 4858,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mort d'un Marocain lors d'une interpellation en Italie: \"L'Etat de droit en mauv",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260721-mort-d-un-marocain-lors-d-une-interpellation-en-italie-l-etat-de-droit-en-mauvais-%C3%A9tat",
-    "time": "Tue, 21 Jul 2026"
-  },
-  {
-    "id": 9516,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : l'Iran vise des radars et des systèmes de défense américains en ripo",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260721-en-direct-moyen-orient-iran-etats-unis-frappes-americaines-bahrein-koweit-ormuz-trump-houthis",
-    "time": "Tue, 21 Jul 2026"
-  },
-  {
-    "id": 5691,
+    "id": 8629,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 876,
+    "id": 505,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6615,
+    "id": 7811,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8342,
+    "id": 7664,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6417,
+    "id": 5536,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9479,
+    "id": 8303,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6046,
+    "id": 2428,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1315,
+    "id": 6124,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1967,
+    "id": 8362,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6493,
+    "id": 7710,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6746,
+    "id": 775,
     "level": "medium",
     "country": "🌍",
     "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
@@ -153,30 +171,12 @@
     "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 1378,
+    "id": 2155,
     "level": "medium",
     "country": "🌍",
     "text": "Deprivation of nationality in the Gulf: Stories from Kuwait and Bahrain",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/20/deprivation-of-nationality-in-the-gulf-stories-from-kuwait-and-bahrain/",
     "time": "Mon, 20 Jul 2026"
-  },
-  {
-    "id": 5897,
-    "level": "medium",
-    "country": "🌍",
-    "text": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against human",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/19/70-years-on-argentine-court-declares-operation-massacre-a-crime-against-humanity/",
-    "time": "Sun, 19 Jul 2026"
-  },
-  {
-    "id": 477,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/19/cambodian-law-can-render-citizens-stateless-for-undermining-national-security/",
-    "time": "Sun, 19 Jul 2026"
   }
 ]
