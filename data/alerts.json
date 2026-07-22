@@ -1,6 +1,6 @@
 [
   {
-    "id": 7874,
+    "id": 2382,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,52 +9,61 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 740,
+    "id": 9993,
     "level": "critical",
     "country": "🌍",
-    "text": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+    "text": "How armed group alliances are reshaping Mali’s conflict and the wider Sahel",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
-    "time": "Tue, 21 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/22/how-armed-group-alliances-are-reshaping-malis-conflict-and-the-wider-sahel?traffic_source=rss",
+    "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 3686,
+    "id": 1561,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran holds funerals for children killed in Minab school strike",
+    "text": "US targets China in move to ban military-grade drone imports",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
-    "time": "Tue, 21 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
+    "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 3026,
+    "id": 6519,
     "level": "critical",
     "country": "🌍",
-    "text": "Daytime Russian strike kills three in Zaporizhzhia",
+    "text": "Leopard caught on camera storming into a store in Rajasthan, India",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
-    "time": "Tue, 21 Jul 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss",
+    "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 4851,
-    "level": "high",
+    "id": 25,
+    "level": "critical",
     "country": "🌍",
-    "text": "Zelenskyy replaces Ukraine military chief after protests",
+    "text": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
-    "time": "Tue, 21 Jul 2026"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
+    "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 820,
-    "level": "high",
+    "id": 8612,
+    "level": "critical",
     "country": "🌍",
-    "text": "How will Khalil al-Hayya’s leadership shape Hamas?",
+    "text": "US attacks Iran for 11th consecutive night",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/21/how-will-khalil-al-hayyas-leadership-shape-hamas?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
     "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 2340,
+    "id": 8330,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : les États-Unis ont lancé une nouvelle salve de frappes en Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260722-en-direct-moyen-orient-iran-etats-unis-nouvelle-salve-frappes-houthis-ormuz-golfe-trump",
+    "time": "Wed, 22 Jul 2026"
+  },
+  {
+    "id": 2719,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : Volodymyr Zelensky annonce le départ du commandant en chef de l'armée ",
@@ -63,7 +72,7 @@
     "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 3190,
+    "id": 1960,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : Zelensky limoge le commandant en chef de l'armée, Oleksandre Syrsky",
@@ -72,16 +81,7 @@
     "time": "Tue, 21 Jul 2026"
   },
   {
-    "id": 900,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ormuz et Bab el-Mandeb bloqués ? Le scénario d'un \"siège\" maritime du Golfe pers",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260721-blocage-d%C3%A9troits-ormuz-et-bab-el-mandeb-sc%C3%A9nario-si%C3%A8ge-maritime-golfe-persique",
-    "time": "Tue, 21 Jul 2026"
-  },
-  {
-    "id": 7591,
+    "id": 7520,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7173,
+    "id": 4191,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4326,
+    "id": 7972,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7277,
+    "id": 88,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7581,
+    "id": 2787,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4861,
+    "id": 6419,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7422,
+    "id": 5273,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4560,
+    "id": 970,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8845,
+    "id": 7705,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2490,
+    "id": 9552,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2438,
+    "id": 6984,
     "level": "medium",
     "country": "🌍",
     "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
