@@ -1,6 +1,6 @@
 [
   {
-    "id": 5742,
+    "id": 1184,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 2839,
+    "id": 5485,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss",
+    "time": "Wed, 22 Jul 2026"
+  },
+  {
+    "id": 9417,
     "level": "critical",
     "country": "🌍",
     "text": "War on Iran: Hegseth wants $70B more to keep fighting",
@@ -18,34 +27,16 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 3796,
+    "id": 7005,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
+    "text": "Près de 150 migrants morts ou disparus au large de la Mauritanie en une semaine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260722-pr%C3%A8s-de-150-migrants-morts-ou-disparus-au-large-de-la-mauritanie-en-une-semaine",
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 768,
-    "level": "critical",
-    "country": "🌍",
-    "text": "French model recruiter with close ties to Jeffrey Epstein found dead",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/french-model-recruiter-with-close-ties-to-jeffrey-epstein-found-dead?traffic_source=rss",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 3770,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 9801,
+    "id": 833,
     "level": "critical",
     "country": "🌍",
     "text": "Cette vidéo ne montre pas un bombardier B-52 américain abattu par l'Iran",
@@ -54,7 +45,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 3136,
+    "id": 6503,
     "level": "critical",
     "country": "🌍",
     "text": "En Italie, la mort d'Abderrahim Fakir ravive le débat sur les violences policièr",
@@ -63,16 +54,16 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 2251,
-    "level": "critical",
+    "id": 531,
+    "level": "high",
     "country": "🌍",
-    "text": "Canicule de juin  : Santé publique France calcule un excès de près de 6 0000 déc",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260722-canicule-de-juin-sant%C3%A9-publique-france-calcule-un-exc%C3%A8s-de-pr%C3%A8s-de-6-0000-d%C3%A9c%C3%A8s-dans-l-hexagone",
+    "text": "Hamas’s new leader calls for permanent Gaza ceasefire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 5733,
+    "id": 4188,
     "level": "high",
     "country": "🌍",
     "text": "From towns to zones: Why Israel gives military names to civilian areas",
@@ -81,16 +72,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 4602,
-    "level": "high",
-    "country": "🌍",
-    "text": "Why Traore has opened a new front with Burkina Faso’s Muslim community",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 4931,
+    "id": 5923,
     "level": "high",
     "country": "🌍",
     "text": "Mykhaïlo Drapaty, le visage d’une nouvelle génération à la tête de l’armée ukrai",
@@ -99,7 +81,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 4175,
+    "id": 9380,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : Mykhailo Drapatyi nommé nouveau commandant en chef de l'armée",
@@ -108,7 +90,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 4183,
+    "id": 7088,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5387,
+    "id": 5420,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8857,
+    "id": 8965,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2423,
+    "id": 6019,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7654,
+    "id": 3645,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9058,
+    "id": 7536,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8128,
+    "id": 2725,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +153,30 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6671,
+    "id": 8078,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 6889,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 6045,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
   }
 ]
