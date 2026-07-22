@@ -1,6 +1,6 @@
 [
   {
-    "id": 3326,
+    "id": 3754,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,25 +9,34 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 6271,
+    "id": 3368,
     "level": "critical",
     "country": "🌍",
-    "text": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+    "text": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records?traffic_source=rss",
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 5449,
+    "id": 4789,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine hits more warehouses of top Russian online retailer",
+    "text": "Israeli strike leaves two Palestinians burnt beyond recognition",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss",
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 1730,
+    "id": 1460,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Settlers attack Palestinian towns in occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/settlers-attack-palestinian-towns-in-occupied-west-bank?traffic_source=rss",
+    "time": "Wed, 22 Jul 2026"
+  },
+  {
+    "id": 8626,
     "level": "critical",
     "country": "🌍",
     "text": "France : le maire d’Alès Christophe Rivenq menacé de mort par la DZ Mafia",
@@ -36,7 +45,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 3228,
+    "id": 9155,
     "level": "critical",
     "country": "🌍",
     "text": "Guinée : huit morts dans l’effondrement d’un immeuble à Conakry",
@@ -45,7 +54,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 1922,
+    "id": 5018,
     "level": "critical",
     "country": "🌍",
     "text": "France : deux pompiers décèdent en combattant un incendie en Gironde",
@@ -54,25 +63,16 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 1814,
-    "level": "critical",
+    "id": 7825,
+    "level": "high",
     "country": "🌍",
-    "text": "🔴 Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort près de Paris",
+    "text": "Allemagne : la Basse-Saxe autorise un projet nucléaire controversé impliquant la",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260722-daniel-siad-soup%C3%A7onn%C3%A9-avoir-servi-rabatteur-pour-jeffrey-epstein-retrouv%C3%A9-mort-pr%C3%A8s-de-paris",
+    "link": "https://www.france24.com/fr/europe/20260722-allemagne-projet-combustible-nucleaire-controverse-russie-et-france-rostatom-anf",
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 1886,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Daniel Siad, rabatteur présumé de Jeffrey Epstein, retrouvé mort près de Paris",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260722-daniel-siad-soup%C3%A7onn%C3%A9-avoir-servi-rabatteur-pour-jeffrey-epstein-retrouv%C3%A9-mort-pr%C3%A8s-de-paris",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 5563,
+    "id": 2086,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : Zelensky limoge le général Syrsky, cible des manifestants",
@@ -81,7 +81,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 5897,
+    "id": 1428,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1577,
+    "id": 7309,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1599,
+    "id": 2111,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8870,
+    "id": 4398,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9774,
+    "id": 2835,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3316,
+    "id": 8953,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5254,
+    "id": 208,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2601,
+    "id": 846,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7429,
+    "id": 5035,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7626,
+    "id": 7301,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4615,
+    "id": 9015,
     "level": "medium",
     "country": "🌍",
     "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
