@@ -1,6 +1,6 @@
 [
   {
-    "id": 1184,
+    "id": 8167,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,7 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 5485,
+    "id": 8636,
     "level": "critical",
     "country": "🌍",
     "text": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
@@ -18,16 +18,16 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 9417,
+    "id": 5763,
     "level": "critical",
     "country": "🌍",
-    "text": "War on Iran: Hegseth wants $70B more to keep fighting",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
+    "text": "Épuisement, manque d’effectifs, problèmes matériels... Laurent Nunez répond à la",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260722-epuisement-manque-d-effectifs-ministre-laurent-nunez-repond-colere-pompiers-bordeaux-morts",
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 7005,
+    "id": 7495,
     "level": "critical",
     "country": "🌍",
     "text": "Près de 150 migrants morts ou disparus au large de la Mauritanie en une semaine",
@@ -36,7 +36,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 833,
+    "id": 8512,
     "level": "critical",
     "country": "🌍",
     "text": "Cette vidéo ne montre pas un bombardier B-52 américain abattu par l'Iran",
@@ -45,7 +45,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 6503,
+    "id": 7469,
     "level": "critical",
     "country": "🌍",
     "text": "En Italie, la mort d'Abderrahim Fakir ravive le débat sur les violences policièr",
@@ -54,7 +54,16 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 531,
+    "id": 2271,
+    "level": "high",
+    "country": "🌍",
+    "text": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/22/us-judge-sets-2027-trial-date-for-venezuelas-maduro-and-wife?traffic_source=rss",
+    "time": "Wed, 22 Jul 2026"
+  },
+  {
+    "id": 4132,
     "level": "high",
     "country": "🌍",
     "text": "Hamas’s new leader calls for permanent Gaza ceasefire",
@@ -63,120 +72,111 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 4188,
-    "level": "high",
+    "id": 1681,
+    "level": "medium",
     "country": "🌍",
-    "text": "From towns to zones: Why Israel gives military names to civilian areas",
+    "text": "How an AI research tool helped challenge support for police violence in Brazil",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
+    "time": "Wed, 22 Jul 2026"
+  },
+  {
+    "id": 3261,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/21/sold-as-brides-lost-at-sea-the-trafficking-of-stateless-rohingya-girls/",
+    "time": "Tue, 21 Jul 2026"
+  },
+  {
+    "id": 4387,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Deprivation of nationality in the Gulf: Stories from Kuwait and Bahrain",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/20/deprivation-of-nationality-in-the-gulf-stories-from-kuwait-and-bahrain/",
+    "time": "Mon, 20 Jul 2026"
+  },
+  {
+    "id": 4521,
+    "level": "medium",
+    "country": "🌍",
+    "text": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against human",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/19/70-years-on-argentine-court-declares-operation-massacre-a-crime-against-humanity/",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 5610,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/19/cambodian-law-can-render-citizens-stateless-for-undermining-national-security/",
+    "time": "Sun, 19 Jul 2026"
+  },
+  {
+    "id": 7005,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/18/crickets-greatest-all-rounder-barbados-sir-garfield-sobers-dies-at-89/",
+    "time": "Sat, 18 Jul 2026"
+  },
+  {
+    "id": 7155,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela earthquakes reveal a child protection system unprepared for disaster",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/17/venezuela-earthquakes-reveal-a-child-protection-system-unprepared-for-disaster/",
+    "time": "Fri, 17 Jul 2026"
+  },
+  {
+    "id": 7529,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nowhere to belong: After the USSR collapsed, I became stateless in Estonia",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/17/nowhere-to-belong-after-the-ussr-collapsed-i-became-stateless-in-estonia/",
+    "time": "Fri, 17 Jul 2026"
+  },
+  {
+    "id": 1789,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The ‘unregistered’ in Syria: A life of lost opportunities",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/16/the-unregistered-in-syria-a-life-of-lost-opportunities/",
+    "time": "Thu, 16 Jul 2026"
+  },
+  {
+    "id": 2427,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Water cannon deployed at India education system protests",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/from-towns-to-zones-why-israel-gives-military-names-to-civilian-areas?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/water-cannon-deployed-at-india-education-system-protests?traffic_source=rss",
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 5923,
-    "level": "high",
+    "id": 9341,
+    "level": "medium",
     "country": "🌍",
-    "text": "Mykhaïlo Drapaty, le visage d’une nouvelle génération à la tête de l’armée ukrai",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260722-mykha%C3%AFlo-drapaty-le-visage-nouvelle-generation-a-la-t%C3%AAte-de-l-armee-ukrainienne",
+    "text": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 9380,
-    "level": "high",
+    "id": 9286,
+    "level": "medium",
     "country": "🌍",
-    "text": "Ukraine : Mykhailo Drapatyi nommé nouveau commandant en chef de l'armée",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260722-ukraine-mykhailo-drapatyi-nomm%C3%A9-nouveau-commandant-en-chef-de-l-arm%C3%A9e",
+    "text": "Death toll from blast at Indian hydroelectric project rises to 20 people",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
     "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 7088,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-23T00:01"
-  },
-  {
-    "id": 5420,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-08T07:00"
-  },
-  {
-    "id": 8965,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 6019,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 3645,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 7536,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 2725,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 8078,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 6889,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 6045,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
