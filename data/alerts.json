@@ -1,6 +1,6 @@
 [
   {
-    "id": 2304,
+    "id": 5363,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,25 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 2911,
+    "id": 1701,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US war on Iran: The $110 billion price tag",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 3415,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 9877,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly monsoon floods kill at least 40 in India",
@@ -18,52 +36,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 198,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How Sudan war is putting cancer patients at risk",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/how-sudan-war-is-putting-cancer-patients-at-risk?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 4595,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/23/indian-activist-wangchuk-ends-26-day-hunger-strike-over-exam-paper-leaks?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 7974,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/23/minnesota-man-who-killed-democratic-lawmaker-sentenced-to-life-in-us-prison?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 2610,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Journalist killed in Mexico after years of exposing corruption",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/journalist-killed-in-mexico-after-years-of-exposing-corruption?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 6577,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Children wounded in Israeli strike on Khan Younis",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 216,
+    "id": 6968,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC et en Ouganda : le bilan dépasse désormais les 1 000 morts, selon l",
@@ -72,7 +45,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 4242,
+    "id": 5455,
     "level": "critical",
     "country": "🌍",
     "text": "L'épidémie d'Ebola a déjà fait plus de 1000 morts en RDC et en Ouganda",
@@ -81,7 +54,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 4000,
+    "id": 6891,
     "level": "critical",
     "country": "🌍",
     "text": "Canicules: une crise sanitaire mondiale",
@@ -90,7 +63,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 6978,
+    "id": 1250,
     "level": "critical",
     "country": "🌍",
     "text": "Dans les pays du Golfe persique, omerta généralisée sur les attaques iraniennes",
@@ -99,7 +72,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 8329,
+    "id": 5524,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7699,
+    "id": 4003,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3724,
+    "id": 4889,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 413,
+    "id": 8798,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2400,
+    "id": 9545,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7531,
+    "id": 2396,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7368,
+    "id": 8135,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8683,
+    "id": 8265,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +144,39 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7863,
+    "id": 3578,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 9274,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 9693,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 8837,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How an AI research tool helped challenge support for police violence in Brazil",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
+    "time": "Wed, 22 Jul 2026"
   }
 ]
