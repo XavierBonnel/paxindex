@@ -1,6 +1,6 @@
 [
   {
-    "id": 4047,
+    "id": 4176,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,25 +9,61 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 3321,
+    "id": 1158,
     "level": "critical",
     "country": "🌍",
-    "text": "Has Russia helped Iran target CIA sites in the Gulf?",
+    "text": "Oil surges past $100 in a first since May as Middle East conflicts rage",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/23/has-russia-helped-iran-target-cia-sites-in-the-gulf?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 81,
+    "id": 8297,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US House votes to limit Iran war for first time since ceasefire breakdown",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 1447,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Dans les pays du Golfe persique, omerta généralisée sur les attaques iraniennes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260723-frappes-iraniennes-golfe-persique-arrestations-images-bahrein-koweit",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 5978,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En Tunisie, les coupures d'électricité se multiplient en pleine canicule",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-en-tunisie-les-coupures-d-%C3%A9lectricit%C3%A9-se-multiplient-en-pleine-canicule",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 3829,
     "level": "high",
     "country": "🌍",
-    "text": "Tunisie : des coupures d'électricité après des températures records",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-tunisie-des-coupures-d-%C3%A9lectricit%C3%A9-apr%C3%A8s-des-temp%C3%A9ratures-records",
+    "text": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/23/far-right-israeli-incursion-heightens-tensions-at-al-aqsa-ahead-of-election?traffic_source=rss",
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 6089,
+    "id": 484,
+    "level": "high",
+    "country": "🌍",
+    "text": "Yemen faces a new challenge amid prospects of confrontation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 3233,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -36,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6406,
+    "id": 6227,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -45,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7662,
+    "id": 8470,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -54,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6751,
+    "id": 7102,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -63,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9730,
+    "id": 179,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -72,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3155,
+    "id": 4707,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6300,
+    "id": 7793,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8491,
+    "id": 552,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8151,
+    "id": 2768,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6614,
+    "id": 9833,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5061,
+    "id": 4072,
     "level": "medium",
     "country": "🌍",
     "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
@@ -126,7 +162,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 9861,
+    "id": 3944,
     "level": "medium",
     "country": "🌍",
     "text": "How an AI research tool helped challenge support for police violence in Brazil",
@@ -135,48 +171,12 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 4990,
+    "id": 2758,
     "level": "medium",
     "country": "🌍",
     "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/21/sold-as-brides-lost-at-sea-the-trafficking-of-stateless-rohingya-girls/",
     "time": "Tue, 21 Jul 2026"
-  },
-  {
-    "id": 1131,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Deprivation of nationality in the Gulf: Stories from Kuwait and Bahrain",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/20/deprivation-of-nationality-in-the-gulf-stories-from-kuwait-and-bahrain/",
-    "time": "Mon, 20 Jul 2026"
-  },
-  {
-    "id": 5380,
-    "level": "medium",
-    "country": "🌍",
-    "text": "70 years on, Argentine court declares ‘Operation Massacre’ a crime against human",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/19/70-years-on-argentine-court-declares-operation-massacre-a-crime-against-humanity/",
-    "time": "Sun, 19 Jul 2026"
-  },
-  {
-    "id": 9522,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cambodian law can render citizens stateless for ‘undermining national security’",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/19/cambodian-law-can-render-citizens-stateless-for-undermining-national-security/",
-    "time": "Sun, 19 Jul 2026"
-  },
-  {
-    "id": 811,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cricket’s greatest all-rounder, Barbados’ Sir Garfield Sobers, dies at 89",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/18/crickets-greatest-all-rounder-barbados-sir-garfield-sobers-dies-at-89/",
-    "time": "Sat, 18 Jul 2026"
   }
 ]
