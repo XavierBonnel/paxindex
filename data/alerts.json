@@ -1,6 +1,6 @@
 [
   {
-    "id": 1901,
+    "id": 226,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,43 +9,52 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 8909,
+    "id": 3747,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen’s Houthis claim attack on two Saudi oil tankers",
+    "text": "Five soldiers killed in southern Thailand checkpoint attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/yemens-houthis-claim-attack-on-two-saudi-oil-tankers?traffic_source=rss",
-    "time": "Wed, 22 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 5547,
+    "id": 2479,
     "level": "critical",
     "country": "🌍",
-    "text": "Iranian missiles show deadly precision amid US-Iran war escalation",
+    "text": "Armed attackers kill more than 20 in northwest Nigeria",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
-    "time": "Wed, 22 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/23/armed-attackers-kill-more-than-20-in-northwest-nigeria?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 2710,
+    "id": 6132,
     "level": "critical",
     "country": "🌍",
-    "text": "US launches new strikes as Iran warns of regional turmoil",
+    "text": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
-    "time": "Wed, 22 Jul 2026"
+    "link": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 2529,
+    "id": 250,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
+    "text": "US House passes $1.15 trillion military bill expanding Israel cooperation",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia?traffic_source=rss",
-    "time": "Wed, 22 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 5459,
+    "id": 2367,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : les Houthis revendiquent des attaques contre deux pétroliers saoudie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260723-en-direct-moyen-orient-iran-houthis-attaques-petroliers-saoudiens-mer-rouge-trump-ormuz",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 4118,
     "level": "critical",
     "country": "🌍",
     "text": "Psychose à Antananarivo : les autorités tentent de rassurer après les disparitio",
@@ -54,7 +63,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 997,
+    "id": 2736,
     "level": "critical",
     "country": "🌍",
     "text": "Épuisement, manque d’effectifs, problèmes matériels... Laurent Nunez répond à la",
@@ -63,34 +72,7 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 843,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Près de 150 migrants morts ou disparus au large de la Mauritanie en une semaine",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260722-pr%C3%A8s-de-150-migrants-morts-ou-disparus-au-large-de-la-mauritanie-en-une-semaine",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 5311,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Cette vidéo ne montre pas un bombardier B-52 américain abattu par l'Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260722-cette-vid%C3%A9o-ne-montre-pas-un-bombardier-b-52-am%C3%A9ricain-abattu-par-l-iran",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 8736,
-    "level": "high",
-    "country": "🌍",
-    "text": "Rubio says US, China must ‘work through’ big differences at ASEAN meeting",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/22/rubio-says-us-china-must-work-through-big-differences-at-asean-meeting?traffic_source=rss",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 7211,
+    "id": 2040,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 802,
+    "id": 6142,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4067,
+    "id": 9326,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8816,
+    "id": 5537,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8911,
+    "id": 7388,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8054,
+    "id": 8674,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 23,
+    "id": 4965,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9821,
+    "id": 5057,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8299,
+    "id": 9371,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +153,30 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 508,
+    "id": 9876,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 5191,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 6274,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How an AI research tool helped challenge support for police violence in Brazil",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
+    "time": "Wed, 22 Jul 2026"
   }
 ]
