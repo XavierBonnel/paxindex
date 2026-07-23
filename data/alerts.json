@@ -1,6 +1,6 @@
 [
   {
-    "id": 4176,
+    "id": 2693,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 1158,
+    "id": 6220,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Children wounded in Israeli strike on Khan Younis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/children-wounded-in-israeli-strike-on-khan-younis?traffic_source=rss",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 2687,
     "level": "critical",
     "country": "🌍",
     "text": "Oil surges past $100 in a first since May as Middle East conflicts rage",
@@ -18,16 +27,16 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 8297,
+    "id": 9109,
     "level": "critical",
     "country": "🌍",
-    "text": "US House votes to limit Iran war for first time since ceasefire breakdown",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss",
+    "text": "Canicules: une crise sanitaire mondiale",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260723-canicules-une-crise-sanitaire-mondiale",
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 1447,
+    "id": 1956,
     "level": "critical",
     "country": "🌍",
     "text": "Dans les pays du Golfe persique, omerta généralisée sur les attaques iraniennes",
@@ -36,16 +45,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 5978,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Tunisie, les coupures d'électricité se multiplient en pleine canicule",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-en-tunisie-les-coupures-d-%C3%A9lectricit%C3%A9-se-multiplient-en-pleine-canicule",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 3829,
+    "id": 2693,
     "level": "high",
     "country": "🌍",
     "text": "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
@@ -54,16 +54,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 484,
-    "level": "high",
-    "country": "🌍",
-    "text": "Yemen faces a new challenge amid prospects of confrontation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 3233,
+    "id": 2976,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6227,
+    "id": 4930,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8470,
+    "id": 7406,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7102,
+    "id": 8375,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 179,
+    "id": 7936,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4707,
+    "id": 3403,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7793,
+    "id": 6352,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 552,
+    "id": 5324,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2768,
+    "id": 2387,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9833,
+    "id": 9487,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4072,
+    "id": 3614,
     "level": "medium",
     "country": "🌍",
     "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
@@ -162,7 +153,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 3944,
+    "id": 8516,
     "level": "medium",
     "country": "🌍",
     "text": "How an AI research tool helped challenge support for police violence in Brazil",
@@ -171,12 +162,21 @@
     "time": "Wed, 22 Jul 2026"
   },
   {
-    "id": 2758,
+    "id": 2025,
     "level": "medium",
     "country": "🌍",
     "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/21/sold-as-brides-lost-at-sea-the-trafficking-of-stateless-rohingya-girls/",
     "time": "Tue, 21 Jul 2026"
+  },
+  {
+    "id": 3165,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Deprivation of nationality in the Gulf: Stories from Kuwait and Bahrain",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/20/deprivation-of-nationality-in-the-gulf-stories-from-kuwait-and-bahrain/",
+    "time": "Mon, 20 Jul 2026"
   }
 ]
