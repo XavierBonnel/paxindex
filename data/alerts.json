@@ -1,6 +1,6 @@
 [
   {
-    "id": 294,
+    "id": 4299,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,43 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 7112,
+    "id": 3737,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US school shooter pleads guilty in Georgia following father’s conviction",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/24/us-school-shooter-pleads-guilty-in-georgia-following-fathers-conviction?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 1109,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 8403,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 9129,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel raids hospital, shuts off Nablus following deadly settler attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 6086,
     "level": "critical",
     "country": "🌍",
     "text": "Romanian jet fighter shoots down suspected Russian drone",
@@ -18,7 +54,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 8041,
+    "id": 7200,
     "level": "critical",
     "country": "🌍",
     "text": "US records 2,318 measles cases, already surpassing 2025 total",
@@ -27,25 +63,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 7653,
-    "level": "critical",
-    "country": "🌍",
-    "text": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 2054,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 6020,
+    "id": 6742,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient : la reprise des hostilités enterre-t-elle le protocole d'accord ?",
@@ -54,16 +72,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 947,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump relance la guerre commerciale avec de nouveaux droits de douane",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260724-trump-relance-la-guerre-commerciale-avec-de-nouveaux-droits-de-douane",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 4713,
+    "id": 471,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7030,
+    "id": 2235,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1534,
+    "id": 1246,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 812,
+    "id": 1166,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6005,
+    "id": 776,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1404,
+    "id": 2683,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 437,
+    "id": 9936,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3977,
+    "id": 9113,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2419,
+    "id": 548,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3038,
+    "id": 8412,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4015,
+    "id": 7004,
     "level": "medium",
     "country": "🌍",
     "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
@@ -162,21 +171,12 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 4684,
+    "id": 8218,
     "level": "medium",
     "country": "🌍",
     "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/24/tickets-to-nowhere-haitian-refugees-fall-prey-to-travel-scams/",
     "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 4563,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
-    "time": "Thu, 23 Jul 2026"
   }
 ]
