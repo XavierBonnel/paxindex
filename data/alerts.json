@@ -1,6 +1,6 @@
 [
   {
-    "id": 8054,
+    "id": 9068,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 7749,
+    "id": 3974,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Paramount agrees to pause Warner Bros deal while court case plays out",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 5363,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli settlers escalate attacks on Palestinians near Nablus",
@@ -18,34 +27,16 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 5912,
+    "id": 8936,
     "level": "critical",
     "country": "🌍",
-    "text": "Saudi’s strike Yemen’s Houthi-held Hodeidah: Rebel media",
+    "text": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 869,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 7840,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Car bomb attack kills 27 in northwest Pakistan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/24/car-bomb-attack-kills-27-in-northwest-pakistan?traffic_source=rss",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 9354,
+    "id": 8870,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran revendique des attaques de drones contre le Bahreïn, la Jordanie et le Ko",
@@ -54,7 +45,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 8539,
+    "id": 7246,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8024,
+    "id": 6244,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3565,
+    "id": 1874,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6772,
+    "id": 7776,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8666,
+    "id": 8189,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 624,
+    "id": 5986,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7904,
+    "id": 3017,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3703,
+    "id": 7002,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9247,
+    "id": 3638,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1196,
+    "id": 3981,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9690,
+    "id": 5080,
     "level": "medium",
     "country": "🌍",
     "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
@@ -153,7 +144,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 900,
+    "id": 746,
     "level": "medium",
     "country": "🌍",
     "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
@@ -162,7 +153,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 5117,
+    "id": 7498,
     "level": "medium",
     "country": "🌍",
     "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
@@ -171,12 +162,21 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 594,
+    "id": 7025,
     "level": "medium",
     "country": "🌍",
     "text": "How an AI research tool helped challenge support for police violence in Brazil",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
     "time": "Wed, 22 Jul 2026"
+  },
+  {
+    "id": 5440,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/21/sold-as-brides-lost-at-sea-the-trafficking-of-stateless-rohingya-girls/",
+    "time": "Tue, 21 Jul 2026"
   }
 ]
