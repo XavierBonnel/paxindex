@@ -1,6 +1,6 @@
 [
   {
-    "id": 2605,
+    "id": 294,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,25 +9,52 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 7886,
+    "id": 7112,
     "level": "critical",
     "country": "🌍",
-    "text": "‘I lost my home twice’: Sudanese mothers caught between two wars",
+    "text": "Romanian jet fighter shoots down suspected Russian drone",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/longform/2026/7/24/i-lost-my-home-twice-sudanese-mothers-caught-between-two-wars?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss",
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 8462,
+    "id": 8041,
     "level": "critical",
     "country": "🌍",
-    "text": "Five killed in occupied West Bank after Israeli settlers attack",
+    "text": "US records 2,318 measles cases, already surpassing 2025 total",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss",
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 7971,
+    "id": 7653,
+    "level": "critical",
+    "country": "🌍",
+    "text": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 2054,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 6020,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient : la reprise des hostilités enterre-t-elle le protocole d'accord ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260724-moyen-orient-la-reprise-des-hostilit%C3%A9s-enterre-t-elle-le-protocole-d-accord",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 947,
     "level": "critical",
     "country": "🌍",
     "text": "Trump relance la guerre commerciale avec de nouveaux droits de douane",
@@ -36,16 +63,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 8347,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Moyen-Orient : treizième nuit consécutive de frappes américaines contre l'Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260724-moyen-orient-treizi%C3%A8me-nuit-cons%C3%A9cutive-de-frappes-am%C3%A9ricaines-contre-l-iran",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 4094,
+    "id": 4713,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7802,
+    "id": 7030,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1270,
+    "id": 1534,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8494,
+    "id": 812,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5756,
+    "id": 6005,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1730,
+    "id": 1404,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7873,
+    "id": 437,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1426,
+    "id": 3977,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7296,
+    "id": 2419,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6229,
+    "id": 3038,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8857,
+    "id": 4015,
     "level": "medium",
     "country": "🌍",
     "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
@@ -144,7 +162,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 3719,
+    "id": 4684,
     "level": "medium",
     "country": "🌍",
     "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
@@ -153,30 +171,12 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 6922,
+    "id": 4563,
     "level": "medium",
     "country": "🌍",
     "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
     "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 7392,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How an AI research tool helped challenge support for police violence in Brazil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 2203,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/21/sold-as-brides-lost-at-sea-the-trafficking-of-stateless-rohingya-girls/",
-    "time": "Tue, 21 Jul 2026"
   }
 ]
