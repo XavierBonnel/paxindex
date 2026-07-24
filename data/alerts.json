@@ -1,6 +1,6 @@
 [
   {
-    "id": 6877,
+    "id": 9825,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,7 +9,16 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 5144,
+    "id": 476,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 2846,
     "level": "critical",
     "country": "🌍",
     "text": "Major fire after Ukrainian strike on St Petersburg warehouse",
@@ -18,7 +27,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 7917,
+    "id": 7489,
     "level": "critical",
     "country": "🌍",
     "text": "US attacks Iran for 13th consecutive night",
@@ -27,52 +36,34 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 4267,
+    "id": 8702,
     "level": "critical",
     "country": "🌍",
-    "text": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 712,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Indian activist Wangchuk ends 26-day hunger strike",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 5799,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Cisjordanie occupée, un Israélien et quatre Palestiniens tués dans des violen",
+    "text": "Espagne : plusieurs incendies frappent la région de Madrid et la province d’Ávil",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260724-cisjordanie-occup%C3%A9e-isra%C3%A9lien-quatre-palestiniens-tu%C3%A9s-violences",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260724-espagne-plusieurs-incendies-frappent-la-r%C3%A9gion-de-madrid-et-la-province-d-%C3%A1vila",
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 607,
-    "level": "critical",
+    "id": 4035,
+    "level": "high",
     "country": "🌍",
-    "text": "🔴 En direct : nouvelles frappes américaines en Iran, pour la treizième nuit cons",
+    "text": "L'Italie, une démocratie européenne sous tension (1/2)",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260724-en-direct-moyen-orient-iran-etats-unis-frappes-petrole-houthis-ormuz",
+    "link": "https://www.france24.com/fr/%C3%A9missions/aux-4-coins-de-l-europe/20260724-l-italie-une-d%C3%A9mocratie-europ%C3%A9enne-sous-tension-1-2",
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 8015,
-    "level": "critical",
+    "id": 6030,
+    "level": "high",
     "country": "🌍",
-    "text": "En direct : nouvelles frappes américaines en Iran, le pétrole au-dessus des 100 ",
+    "text": "L'Italie, une démocratie européenne sous tension (2/2)",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260724-en-direct-moyen-orient-iran-etats-unis-frappes-petrole-houthis-ormuz",
+    "link": "https://www.france24.com/fr/%C3%A9missions/aux-4-coins-de-l-europe/20260724-l-italie-une-d%C3%A9mocratie-europ%C3%A9enne-sous-tension-2-2",
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 9437,
+    "id": 3371,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3901,
+    "id": 7800,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1731,
+    "id": 7827,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8714,
+    "id": 6825,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7990,
+    "id": 7144,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2159,
+    "id": 4235,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9168,
+    "id": 2172,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7421,
+    "id": 6231,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7643,
+    "id": 233,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2482,
+    "id": 744,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6136,
+    "id": 5994,
     "level": "medium",
     "country": "🌍",
     "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
@@ -171,12 +162,21 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 6210,
+    "id": 5486,
     "level": "medium",
     "country": "🌍",
     "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
     "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 58,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How an AI research tool helped challenge support for police violence in Brazil",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
+    "time": "Wed, 22 Jul 2026"
   }
 ]
