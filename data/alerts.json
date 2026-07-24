@@ -1,6 +1,6 @@
 [
   {
-    "id": 5363,
+    "id": 1211,
     "level": "critical",
     "country": "🌍",
     "text": "Coming home from Al-Shabaab: What determines whether communities forgive in Soma",
@@ -9,34 +9,70 @@
     "time": "Sat, 18 Jul 2026"
   },
   {
-    "id": 1701,
+    "id": 6910,
     "level": "critical",
     "country": "🌍",
-    "text": "US war on Iran: The $110 billion price tag",
+    "text": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 3415,
+    "id": 4969,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+    "text": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
+    "link": "https://www.aljazeera.com/features/2026/7/24/theres-no-salary-drc-health-workers-tell-of-hardship-as-ebola-spreads?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 9877,
+    "id": 9384,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly monsoon floods kill at least 40 in India",
+    "text": "Mike Waltz pressed over Al Jazeera video during congressional hearing",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/deadly-monsoon-floods-kill-at-least-40-in-india?traffic_source=rss",
-    "time": "Thu, 23 Jul 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 6968,
+    "id": 8792,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Analyst: voting against Iran war funding a tough sell for Congress",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 9065,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel bombs Gaza after displacement orders, kills two Palestinians",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 2390,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks?traffic_source=rss",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 2429,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : nouvelles frappes américaines en Iran, le pétrole au-dessus des 100 ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260724-en-direct-moyen-orient-iran-etats-unis-frappes-petrole-houthis-ormuz",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 3531,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC et en Ouganda : le bilan dépasse désormais les 1 000 morts, selon l",
@@ -45,7 +81,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 5455,
+    "id": 2441,
     "level": "critical",
     "country": "🌍",
     "text": "L'épidémie d'Ebola a déjà fait plus de 1000 morts en RDC et en Ouganda",
@@ -54,25 +90,7 @@
     "time": "Thu, 23 Jul 2026"
   },
   {
-    "id": 6891,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canicules: une crise sanitaire mondiale",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260723-canicules-une-crise-sanitaire-mondiale",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 1250,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dans les pays du Golfe persique, omerta généralisée sur les attaques iraniennes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260723-frappes-iraniennes-golfe-persique-arrestations-images-bahrein-koweit",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 5524,
+    "id": 7540,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4003,
+    "id": 5006,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4889,
+    "id": 3010,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8798,
+    "id": 6098,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9545,
+    "id": 1125,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2396,
+    "id": 7555,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8135,
+    "id": 1231,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8265,
+    "id": 6601,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3578,
+    "id": 4372,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,30 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9274,
+    "id": 4001,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9693,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
-    "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 8837,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How an AI research tool helped challenge support for police violence in Brazil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
-    "time": "Wed, 22 Jul 2026"
   }
 ]
