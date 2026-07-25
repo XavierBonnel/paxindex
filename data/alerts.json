@@ -1,6 +1,15 @@
 [
   {
-    "id": 751,
+    "id": 5016,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Born too soon: Premature babies fight for survival in Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 9816,
     "level": "critical",
     "country": "🌍",
     "text": "Funerals held for four Palestinians killed in deadly West Bank shooting",
@@ -9,43 +18,34 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 9234,
+    "id": 8715,
     "level": "critical",
     "country": "🌍",
-    "text": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 2654,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 6724,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'Iran revendique des attaques de drones contre le Bahreïn, la Jordanie et le Ko",
+    "text": "Cisjordanie occupée : nouveaux affrontements meurtriers entre colons et Palestin",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260724-l-iran-revendique-des-attaques-de-drones-contre-le-bahre%C3%AFn-la-jordanie-et-le-kowe%C3%AFt",
-    "time": "Fri, 24 Jul 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260725-cisjordanie-occup%C3%A9e-nouveaux-affrontements-meurtriers-entre-colons-et-palestiniens",
+    "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 4964,
+    "id": 1437,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les Houthis revendiquent une frappe en Arabie saoudite et poursuivent leur blocu",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260725-les-houthis-revendiquent-une-frappe-en-arabie-saoudite-et-poursuivent-leur-blocus-en-mer-rouge",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 177,
     "level": "high",
     "country": "🌍",
-    "text": "Firefighters battle fire after fertiliser explosion in England",
+    "text": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/firefighters-battle-fire-after-fertiliser-explosion-in-england?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 7668,
+    "id": 4771,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9306,
+    "id": 5093,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5152,
+    "id": 6984,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1439,
+    "id": 1859,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 776,
+    "id": 178,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1468,
+    "id": 7110,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8771,
+    "id": 5082,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4955,
+    "id": 528,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6618,
+    "id": 7071,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7366,
+    "id": 9970,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5897,
+    "id": 1916,
     "level": "medium",
     "country": "🌍",
     "text": "How much will it take to rebuild Venezuela after the earthquakes?",
@@ -144,7 +144,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 8190,
+    "id": 2947,
     "level": "medium",
     "country": "🌍",
     "text": "Protecting Pangolins in India: When an armor is not enough",
@@ -153,7 +153,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 2280,
+    "id": 270,
     "level": "medium",
     "country": "🌍",
     "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
@@ -162,7 +162,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 8587,
+    "id": 1982,
     "level": "medium",
     "country": "🌍",
     "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
@@ -171,7 +171,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 7710,
+    "id": 8131,
     "level": "medium",
     "country": "🌍",
     "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
