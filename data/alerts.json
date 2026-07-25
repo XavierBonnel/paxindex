@@ -1,6 +1,33 @@
 [
   {
-    "id": 2399,
+    "id": 1226,
+    "level": "critical",
+    "country": "🌍",
+    "text": "One dead, 14 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 421,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli forces target Gaza’s Al-Aqsa hospital",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 7241,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli forces tear gas journalists reporting Nablus shootout",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 2103,
     "level": "critical",
     "country": "🌍",
     "text": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
@@ -9,7 +36,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 9484,
+    "id": 8438,
     "level": "critical",
     "country": "🌍",
     "text": "At least 35 killed after two buses collide in eastern Syria",
@@ -18,7 +45,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 7876,
+    "id": 3909,
     "level": "critical",
     "country": "🌍",
     "text": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
@@ -27,7 +54,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 7700,
+    "id": 1284,
     "level": "critical",
     "country": "🌍",
     "text": "Vingt morts en Ukraine et en Russie, Kiev frappe des régions russes jusqu'à l'Ou",
@@ -36,7 +63,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 8561,
+    "id": 1222,
     "level": "critical",
     "country": "🌍",
     "text": "RD Congo : une vingtaine de morts dans une attaque des ADF à Mambasa et à Béni",
@@ -45,7 +72,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 6762,
+    "id": 8650,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9320,
+    "id": 6416,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9698,
+    "id": 8529,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2621,
+    "id": 4126,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6322,
+    "id": 9419,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5334,
+    "id": 9194,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6482,
+    "id": 9114,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9812,
+    "id": 726,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7771,
+    "id": 1459,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8402,
+    "id": 5105,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2810,
+    "id": 1256,
     "level": "medium",
     "country": "🌍",
     "text": "How much will it take to rebuild Venezuela after the earthquakes?",
@@ -144,39 +171,12 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 1513,
+    "id": 7406,
     "level": "medium",
     "country": "🌍",
     "text": "Protecting Pangolins in India: When an armor is not enough",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/25/protecting-pangolins-in-india-when-an-armor-is-not-enough/",
     "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 7212,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/24/japanese-filipino-childrens-painful-quests-for-filial-recognition-and-citizenship/",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 995,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/24/tickets-to-nowhere-haitian-refugees-fall-prey-to-travel-scams/",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 6666,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
-    "time": "Thu, 23 Jul 2026"
   }
 ]
