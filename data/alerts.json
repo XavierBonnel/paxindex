@@ -1,6 +1,24 @@
 [
   {
-    "id": 1902,
+    "id": 2399,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 9484,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 35 killed after two buses collide in eastern Syria",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/at-least-35-killed-after-two-buses-collide-in-eastern-syria?traffic_source=rss",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 7876,
     "level": "critical",
     "country": "🌍",
     "text": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
@@ -9,7 +27,16 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 1855,
+    "id": 7700,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Vingt morts en Ukraine et en Russie, Kiev frappe des régions russes jusqu'à l'Ou",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260725-vingt-morts-en-ukraine-et-en-russie-kiev-frappe-des-r%C3%A9gions-russes-jusqu-%C3%A0-l-oural",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 8561,
     "level": "critical",
     "country": "🌍",
     "text": "RD Congo : une vingtaine de morts dans une attaque des ADF à Mambasa et à Béni",
@@ -18,16 +45,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 9609,
-    "level": "critical",
-    "country": "🌍",
-    "text": "À Arcachon, face aux incendies, un ballet de vacanciers et d'évacués en quête d'",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260725-arcachon-gironde-incendies-ballet-vacanciers-%C3%A9vacu%C3%A9s-respiration",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 1527,
+    "id": 6762,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -36,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6798,
+    "id": 9320,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -45,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6758,
+    "id": 9698,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -54,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5379,
+    "id": 2621,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -63,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6337,
+    "id": 6322,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -72,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6406,
+    "id": 5334,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -81,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5102,
+    "id": 6482,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -90,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4803,
+    "id": 9812,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -99,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2335,
+    "id": 7771,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -108,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9054,
+    "id": 8402,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -117,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7195,
+    "id": 2810,
     "level": "medium",
     "country": "🌍",
     "text": "How much will it take to rebuild Venezuela after the earthquakes?",
@@ -126,7 +144,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 2623,
+    "id": 1513,
     "level": "medium",
     "country": "🌍",
     "text": "Protecting Pangolins in India: When an armor is not enough",
@@ -135,7 +153,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 3163,
+    "id": 7212,
     "level": "medium",
     "country": "🌍",
     "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
@@ -144,7 +162,7 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 9211,
+    "id": 995,
     "level": "medium",
     "country": "🌍",
     "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
@@ -153,30 +171,12 @@
     "time": "Fri, 24 Jul 2026"
   },
   {
-    "id": 1670,
+    "id": 6666,
     "level": "medium",
     "country": "🌍",
     "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
     "time": "Thu, 23 Jul 2026"
-  },
-  {
-    "id": 3825,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How an AI research tool helped challenge support for police violence in Brazil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
-    "time": "Wed, 22 Jul 2026"
-  },
-  {
-    "id": 5443,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Sold as brides, lost at sea: The trafficking of stateless Rohingya girls",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/21/sold-as-brides-lost-at-sea-the-trafficking-of-stateless-rohingya-girls/",
-    "time": "Tue, 21 Jul 2026"
   }
 ]
