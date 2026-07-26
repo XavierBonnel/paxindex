@@ -1,24 +1,60 @@
 [
   {
-    "id": 1919,
+    "id": 1016,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+    "text": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 3431,
+    "id": 3251,
     "level": "critical",
     "country": "🌍",
-    "text": "Darfur: Weaponising Identity",
+    "text": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/7/26/darfur-weaponising-identity?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 9747,
+    "id": 7737,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 3091,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli settlers burn two mosques in occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 3600,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Romania summons Russian envoy as it shoots down third intruding drone",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 2920,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Police shoot dead Berlin Pride car-ramming attack suspect",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 3892,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient : répit forcé après treize jours de bombardements ?",
@@ -27,7 +63,16 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 3301,
+    "id": 5073,
+    "level": "high",
+    "country": "🌍",
+    "text": "Cuban president accuses US of genocide, seeking takeover",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/26/cuban-president-accuses-us-of-genocide-seeking-takeover?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 9829,
     "level": "high",
     "country": "🌍",
     "text": "Israel launches military incursion into Syria amid UN condemnation",
@@ -36,16 +81,7 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 9565,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 1144,
+    "id": 8599,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 36,
+    "id": 4824,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8587,
+    "id": 7042,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3826,
+    "id": 9982,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1735,
+    "id": 8004,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4232,
+    "id": 2688,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 812,
+    "id": 7731,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6006,
+    "id": 3496,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1712,
+    "id": 6533,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8905,
+    "id": 9742,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,48 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8425,
+    "id": 901,
     "level": "medium",
     "country": "🌍",
     "text": "How transnational movements can shield African civil spaces",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/26/how-transnational-movements-can-shield-african-civil-spaces/",
     "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 528,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How much will it take to rebuild Venezuela after the earthquakes?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/25/how-much-will-it-take-to-rebuild-venezuela-after-the-earthquakes/",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 7795,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Protecting Pangolins in India: When an armor is not enough",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/25/protecting-pangolins-in-india-when-an-armor-is-not-enough/",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 9380,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/24/japanese-filipino-childrens-painful-quests-for-filial-recognition-and-citizenship/",
-    "time": "Fri, 24 Jul 2026"
-  },
-  {
-    "id": 5540,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/24/tickets-to-nowhere-haitian-refugees-fall-prey-to-travel-scams/",
-    "time": "Fri, 24 Jul 2026"
   }
 ]
