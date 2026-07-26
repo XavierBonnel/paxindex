@@ -1,6 +1,24 @@
 [
   {
-    "id": 5294,
+    "id": 6494,
+    "level": "critical",
+    "country": "🌍",
+    "text": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 6846,
+    "level": "critical",
+    "country": "🌍",
+    "text": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 2700,
     "level": "critical",
     "country": "🌍",
     "text": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
@@ -9,34 +27,7 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 5775,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 6228,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What’s behind the Israeli crackdown in the occupied West Bank?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 2976,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 5772,
+    "id": 621,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Marche des fiertés à Berlin : un véhicule percute la foule, un mort et 16 bles",
@@ -45,7 +36,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 534,
+    "id": 7696,
     "level": "critical",
     "country": "🌍",
     "text": "Marche des fiertés à Berlin : un véhicule percute la foule, un mort et 16 blessé",
@@ -54,7 +45,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 3557,
+    "id": 7008,
     "level": "critical",
     "country": "🌍",
     "text": "Vingt morts en Ukraine et en Russie, Kiev frappe des régions russes jusqu'à l'Ou",
@@ -63,7 +54,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 2273,
+    "id": 9652,
     "level": "critical",
     "country": "🌍",
     "text": "RD Congo : une vingtaine de morts dans une attaque des ADF à Mambasa et à Béni",
@@ -72,7 +63,16 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 2877,
+    "id": 7713,
+    "level": "high",
+    "country": "🌍",
+    "text": "US military disables tanker accused of breaking the Iran blockade",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 4014,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1107,
+    "id": 3098,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2254,
+    "id": 7707,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7805,
+    "id": 1703,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8199,
+    "id": 2594,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3668,
+    "id": 7447,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9125,
+    "id": 2803,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5421,
+    "id": 2935,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1353,
+    "id": 87,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7566,
+    "id": 1234,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9211,
+    "id": 9297,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How transnational movements can shield African civil spaces",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/26/how-transnational-movements-can-shield-african-civil-spaces/",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 2406,
     "level": "medium",
     "country": "🌍",
     "text": "How much will it take to rebuild Venezuela after the earthquakes?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/25/how-much-will-it-take-to-rebuild-venezuela-after-the-earthquakes/",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 5388,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Protecting Pangolins in India: When an armor is not enough",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/25/protecting-pangolins-in-india-when-an-armor-is-not-enough/",
     "time": "Sat, 25 Jul 2026"
   }
 ]
