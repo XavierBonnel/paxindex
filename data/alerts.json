@@ -1,6 +1,24 @@
 [
   {
-    "id": 6494,
+    "id": 1741,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 628,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 5721,
     "level": "critical",
     "country": "🌍",
     "text": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
@@ -9,70 +27,7 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 6846,
-    "level": "critical",
-    "country": "🌍",
-    "text": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 2700,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 621,
-    "level": "critical",
-    "country": "🌍",
-    "text": "🔴 Marche des fiertés à Berlin : un véhicule percute la foule, un mort et 16 bles",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260725-marche-des-fiert%C3%A9s-%C3%A0-berlin-un-v%C3%A9hicule-percute-la-foule-un-mort-et-une-quinzaine-de-bless%C3%A9s",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 7696,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Marche des fiertés à Berlin : un véhicule percute la foule, un mort et 16 blessé",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260725-marche-des-fiert%C3%A9s-%C3%A0-berlin-un-v%C3%A9hicule-percute-la-foule-un-mort-et-une-quinzaine-de-bless%C3%A9s",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 7008,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Vingt morts en Ukraine et en Russie, Kiev frappe des régions russes jusqu'à l'Ou",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260725-vingt-morts-en-ukraine-et-en-russie-kiev-frappe-des-r%C3%A9gions-russes-jusqu-%C3%A0-l-oural",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 9652,
-    "level": "critical",
-    "country": "🌍",
-    "text": "RD Congo : une vingtaine de morts dans une attaque des ADF à Mambasa et à Béni",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260725-rd-congo-une-vingtaine-de-morts-dans-une-attaque-des-adf-%C3%A0-mambasa-et-%C3%A0-b%C3%A9ni",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 7713,
-    "level": "high",
-    "country": "🌍",
-    "text": "US military disables tanker accused of breaking the Iran blockade",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 4014,
+    "id": 6623,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +45,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7707,
+    "id": 3035,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1703,
+    "id": 6002,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2594,
+    "id": 1011,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7447,
+    "id": 1596,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2803,
+    "id": 2143,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2935,
+    "id": 1594,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 87,
+    "id": 9944,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1234,
+    "id": 9337,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9297,
+    "id": 6392,
     "level": "medium",
     "country": "🌍",
     "text": "How transnational movements can shield African civil spaces",
@@ -171,12 +126,57 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 2406,
+    "id": 6975,
     "level": "medium",
     "country": "🌍",
     "text": "How much will it take to rebuild Venezuela after the earthquakes?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/25/how-much-will-it-take-to-rebuild-venezuela-after-the-earthquakes/",
     "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 8466,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Protecting Pangolins in India: When an armor is not enough",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/25/protecting-pangolins-in-india-when-an-armor-is-not-enough/",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 6889,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/24/japanese-filipino-childrens-painful-quests-for-filial-recognition-and-citizenship/",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 508,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/24/tickets-to-nowhere-haitian-refugees-fall-prey-to-travel-scams/",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 2993,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
+    "time": "Thu, 23 Jul 2026"
+  },
+  {
+    "id": 4467,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How an AI research tool helped challenge support for police violence in Brazil",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/22/how-an-ai-research-tool-helped-challenge-support-for-police-violence-in-brazil/",
+    "time": "Wed, 22 Jul 2026"
   }
 ]
