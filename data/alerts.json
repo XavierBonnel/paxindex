@@ -1,15 +1,33 @@
 [
   {
-    "id": 1226,
+    "id": 735,
     "level": "critical",
     "country": "🌍",
-    "text": "One dead, 14 injured as car reportedly strikes crowd at Berlin LGBTQ event",
+    "text": "What’s behind the Israeli crackdown in the occupied West Bank?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 5213,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 6433,
+    "level": "critical",
+    "country": "🌍",
+    "text": "One dead, 16 injured as car reportedly strikes crowd at Berlin LGBTQ event",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/7/25/one-dead-14-injured-as-car-reportedly-strikes-crowd-at-berlin-lgbtq-event?traffic_source=rss",
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 421,
+    "id": 5363,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli forces target Gaza’s Al-Aqsa hospital",
@@ -18,7 +36,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 7241,
+    "id": 6932,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli forces tear gas journalists reporting Nablus shootout",
@@ -27,7 +45,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 2103,
+    "id": 5734,
     "level": "critical",
     "country": "🌍",
     "text": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
@@ -36,7 +54,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 8438,
+    "id": 1140,
     "level": "critical",
     "country": "🌍",
     "text": "At least 35 killed after two buses collide in eastern Syria",
@@ -45,16 +63,25 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 3909,
+    "id": 7372,
     "level": "critical",
     "country": "🌍",
-    "text": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
+    "text": "🔴 Marche des fiertés à Berlin : un véhicule percute la foule, un mort et 16 bles",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260725-marche-des-fiert%C3%A9s-%C3%A0-berlin-un-v%C3%A9hicule-percute-la-foule-un-mort-et-une-quinzaine-de-bless%C3%A9s",
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 1284,
+    "id": 938,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Marche des fiertés à Berlin : un véhicule percute la foule, un mort et 16 blessé",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260725-marche-des-fiert%C3%A9s-%C3%A0-berlin-un-v%C3%A9hicule-percute-la-foule-un-mort-et-une-quinzaine-de-bless%C3%A9s",
+    "time": "Sat, 25 Jul 2026"
+  },
+  {
+    "id": 3030,
     "level": "critical",
     "country": "🌍",
     "text": "Vingt morts en Ukraine et en Russie, Kiev frappe des régions russes jusqu'à l'Ou",
@@ -63,7 +90,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 1222,
+    "id": 8928,
     "level": "critical",
     "country": "🌍",
     "text": "RD Congo : une vingtaine de morts dans une attaque des ADF à Mambasa et à Béni",
@@ -72,7 +99,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 8650,
+    "id": 7824,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6416,
+    "id": 4099,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8529,
+    "id": 9841,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4126,
+    "id": 9408,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9419,
+    "id": 6993,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9194,
+    "id": 9021,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9114,
+    "id": 4054,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 726,
+    "id": 5755,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,39 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1459,
+    "id": 5026,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 5105,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 1256,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How much will it take to rebuild Venezuela after the earthquakes?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/25/how-much-will-it-take-to-rebuild-venezuela-after-the-earthquakes/",
-    "time": "Sat, 25 Jul 2026"
-  },
-  {
-    "id": 7406,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Protecting Pangolins in India: When an armor is not enough",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/25/protecting-pangolins-in-india-when-an-armor-is-not-enough/",
-    "time": "Sat, 25 Jul 2026"
   }
 ]
