@@ -1,24 +1,51 @@
 [
   {
-    "id": 5198,
+    "id": 51,
     "level": "critical",
     "country": "🌍",
-    "text": "Three killed in suspected shootout in US city of Seattle, police say",
+    "text": "Mapping Israeli settler violence in the West Bank",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 2779,
+    "id": 3882,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza student tops national exams despite war and displacement",
+    "text": "How Israel uses settler-soldier terror to colonise the West Bank",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/gaza-student-tops-national-exams-despite-war-and-displacement?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 1920,
+    "id": 1899,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why a new war in Yemen could be different for the Houthis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis?traffic_source=rss",
+    "time": "Mon, 27 Jul 2026"
+  },
+  {
+    "id": 3605,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Violence des colons en Cisjordanie occupée : Benjamin Netanyahu a \"intérêt à enf",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260727-violence-des-colons-en-cisjordanie-occup%C3%A9e-benjamin-netanyahu-a-int%C3%A9r%C3%AAt-%C3%A0-enflammer-la-situation",
+    "time": "Mon, 27 Jul 2026"
+  },
+  {
+    "id": 9360,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ebola en RDC : des soignants en grève à Bunia pour réclamer leurs salaires",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-ebola-en-rdc-des-soignants-en-gr%C3%A8ve-%C3%A0-bunia-pour-r%C3%A9clamer-leurs-salaires",
+    "time": "Mon, 27 Jul 2026"
+  },
+  {
+    "id": 8138,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : pourquoi Kiev cible les entrepôts de Wildberries, l'\"Amazon ",
@@ -27,7 +54,7 @@
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 3654,
+    "id": 599,
     "level": "critical",
     "country": "🌍",
     "text": "Trump laisse \"de la place\" aux négociations avec l'Iran, selon son ambassadeur à",
@@ -36,25 +63,16 @@
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 4845,
+    "id": 7084,
     "level": "high",
     "country": "🌍",
-    "text": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 982,
-    "level": "high",
-    "country": "🌍",
-    "text": "L'Arabie saoudite accuse des groupes pro-iraniens d'une attaque de drones depuis",
+    "text": "Mondial 2026 : Javier Milei accuse le Brésil d’avoir financé une “campagne anti-",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260727-arabie-saoudite-accuse-groupes-pro-iran-attaque-drones-depuis-irak",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-javier-milei-accuse-le-br%C3%A9sil-d-avoir-financ%C3%A9-une-campagne-anti-argentine",
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 792,
+    "id": 269,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6095,
+    "id": 7790,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3561,
+    "id": 1397,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1744,
+    "id": 3190,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1451,
+    "id": 5820,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7536,
+    "id": 1901,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9626,
+    "id": 6008,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1215,
+    "id": 9074,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5293,
+    "id": 2535,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8036,
+    "id": 3077,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8258,
+    "id": 5541,
     "level": "medium",
     "country": "🌍",
     "text": "Ethnic Vietnamese face discrimination and statelessness in Cambodia",
@@ -153,30 +171,12 @@
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 9884,
+    "id": 5306,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices’ Spotlight: Indigenous Rights",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/26/support-global-voices-spotlight-indigenous-rights/",
     "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 7343,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How transnational movements can shield African civil spaces",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/26/how-transnational-movements-can-shield-african-civil-spaces/",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 822,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How much will it take to rebuild Venezuela after the earthquakes?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/25/how-much-will-it-take-to-rebuild-venezuela-after-the-earthquakes/",
-    "time": "Sat, 25 Jul 2026"
   }
 ]
