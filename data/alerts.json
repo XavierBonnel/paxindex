@@ -1,6 +1,24 @@
 [
   {
-    "id": 1609,
+    "id": 7392,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Shot fired outside US consulate in Canada for second time this year",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
+    "time": "Mon, 27 Jul 2026"
+  },
+  {
+    "id": 5820,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Video shows man subdued after stabbing three women in Paris",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+    "time": "Mon, 27 Jul 2026"
+  },
+  {
+    "id": 8429,
     "level": "critical",
     "country": "🌍",
     "text": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
@@ -9,61 +27,25 @@
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 7015,
-    "level": "critical",
+    "id": 9198,
+    "level": "high",
     "country": "🌍",
-    "text": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
+    "text": "Hopes of return to diplomacy as US-Iran hold fire for third day",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 5172,
-    "level": "critical",
+    "id": 5695,
+    "level": "high",
     "country": "🌍",
-    "text": "Unreleased footage reveals Lindsey Graham’s push for war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 7857,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UN eyeing potential Israeli war crimes in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/27/un-eyeing-potential-israeli-war-crimes-in-lebanon?traffic_source=rss",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 6900,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 849,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Violence des colons en Cisjordanie occupée : Benjamin Netanyahu a \"intérêt à enf",
+    "text": "Soudan : après un revers face à l'armée, le chef des paramilitaires ne retiendra",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260727-violence-des-colons-en-cisjordanie-occup%C3%A9e-benjamin-netanyahu-a-int%C3%A9r%C3%AAt-%C3%A0-enflammer-la-situation",
+    "link": "https://www.france24.com/fr/afrique/20260727-soudan-revers-armee-chef-paramilitaires-fds-mohamed-hamdane-daglo-el-obeid-route",
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 1243,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ebola en RDC : des soignants en grève à Bunia pour réclamer leurs salaires",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-ebola-en-rdc-des-soignants-en-gr%C3%A8ve-%C3%A0-bunia-pour-r%C3%A9clamer-leurs-salaires",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 5111,
+    "id": 9698,
     "level": "high",
     "country": "🌍",
     "text": "Soudan : l'armée affirme avoir repris l'autoroute stratégique d'Al-Sadarat",
@@ -72,7 +54,7 @@
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 4364,
+    "id": 7470,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3991,
+    "id": 5293,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 55,
+    "id": 7600,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8374,
+    "id": 5425,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5212,
+    "id": 2332,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2343,
+    "id": 6173,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9530,
+    "id": 2801,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6804,
+    "id": 3415,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7390,
+    "id": 524,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8663,
+    "id": 7948,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6995,
+    "id": 9623,
     "level": "medium",
     "country": "🌍",
     "text": "Ethnic Vietnamese face discrimination and statelessness in Cambodia",
@@ -171,12 +153,30 @@
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 938,
+    "id": 9355,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices’ Spotlight: Indigenous Rights",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/26/support-global-voices-spotlight-indigenous-rights/",
     "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 8006,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How transnational movements can shield African civil spaces",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/26/how-transnational-movements-can-shield-african-civil-spaces/",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 4074,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How much will it take to rebuild Venezuela after the earthquakes?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/25/how-much-will-it-take-to-rebuild-venezuela-after-the-earthquakes/",
+    "time": "Sat, 25 Jul 2026"
   }
 ]
