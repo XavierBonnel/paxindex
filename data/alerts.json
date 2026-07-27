@@ -1,42 +1,33 @@
 [
   {
-    "id": 4358,
+    "id": 3382,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+    "text": "Moment Ukrainian drones strike Russia’s Belgorod",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 6488,
+    "id": 8307,
     "level": "critical",
     "country": "🌍",
-    "text": "Berlin sous le choc après l'attaque à la Pride",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-berlin-sous-le-choc-apr%C3%A8s-l-attaque-%C3%A0-la-pride",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 9958,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Moyen-Orient : troisième nuit sans frappes pour laisser \"de la place\" à la diplo",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260727-troisi%C3%A8me-nuit-sans-frappes-au-moyen-orient-pour-laisser-de-la-place-%C3%A0-la-diplomatie",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 261,
-    "level": "high",
-    "country": "🌍",
-    "text": "The AI military complex: Which are the main companies in it?",
+    "text": "Why has the US halted its bombing of Iran?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/27/the-ai-military-complex-which-are-the-main-companies-in-it?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 7641,
+    "id": 4329,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The Ban: A censorship loophole during the conflict in Northern Ireland",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/witness/2026/7/27/the-ban-a-censorship-loophole-during-the-conflict-in-northern-ireland?traffic_source=rss",
+    "time": "Mon, 27 Jul 2026"
+  },
+  {
+    "id": 6047,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +36,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3040,
+    "id": 5655,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +45,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8867,
+    "id": 3640,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6823,
+    "id": 6135,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4874,
+    "id": 7557,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2447,
+    "id": 7851,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9663,
+    "id": 117,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5205,
+    "id": 4264,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2884,
+    "id": 394,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5650,
+    "id": 7579,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +117,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6432,
+    "id": 3427,
     "level": "medium",
     "country": "🌍",
     "text": "Ethnic Vietnamese face discrimination and statelessness in Cambodia",
@@ -135,7 +126,7 @@
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 4892,
+    "id": 3711,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices’ Spotlight: Indigenous Rights",
@@ -144,7 +135,7 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 3146,
+    "id": 7441,
     "level": "medium",
     "country": "🌍",
     "text": "How transnational movements can shield African civil spaces",
@@ -153,7 +144,7 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 1804,
+    "id": 9601,
     "level": "medium",
     "country": "🌍",
     "text": "How much will it take to rebuild Venezuela after the earthquakes?",
@@ -162,7 +153,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 5524,
+    "id": 8031,
     "level": "medium",
     "country": "🌍",
     "text": "Protecting Pangolins in India: When an armor is not enough",
@@ -171,12 +162,21 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 3918,
+    "id": 5178,
     "level": "medium",
     "country": "🌍",
     "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/24/japanese-filipino-childrens-painful-quests-for-filial-recognition-and-citizenship/",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 6978,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/24/tickets-to-nowhere-haitian-refugees-fall-prey-to-travel-scams/",
     "time": "Fri, 24 Jul 2026"
   }
 ]
