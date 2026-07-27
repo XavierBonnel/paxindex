@@ -1,60 +1,33 @@
 [
   {
-    "id": 7370,
+    "id": 6976,
     "level": "critical",
     "country": "🌍",
-    "text": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
+    "text": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss",
+    "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 6661,
+    "id": 7626,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump’s border czar probes possible vetting failures after ICE shooting",
+    "text": "Why Mali’s northern conflict has entered a dangerous new phase",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
+    "link": "https://www.aljazeera.com/news/2026/7/27/why-malis-northern-conflict-has-entered-a-dangerous-new-phase?traffic_source=rss",
+    "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 8048,
+    "id": 5469,
     "level": "critical",
     "country": "🌍",
-    "text": "US and Iran hit pause on strikes for second day",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
+    "text": "Berlin sous le choc après l'attaque à la Pride",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-berlin-sous-le-choc-apr%C3%A8s-l-attaque-%C3%A0-la-pride",
+    "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 2167,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 4122,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-outlines-syrias-approach-to-security-with-israel-and-lebanon?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 4706,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israeli government nods to international stabilisation force in Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-    "time": "Sun, 26 Jul 2026"
-  },
-  {
-    "id": 6968,
+    "id": 1803,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +36,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7540,
+    "id": 9982,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +45,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2711,
+    "id": 1926,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +54,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8332,
+    "id": 439,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +63,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7821,
+    "id": 7403,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +72,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2206,
+    "id": 7088,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +81,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 776,
+    "id": 6537,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +90,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2206,
+    "id": 7429,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +99,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5210,
+    "id": 9152,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +108,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8320,
+    "id": 4303,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +117,16 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5091,
+    "id": 9294,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Support Global Voices’ Spotlight: Indigenous Rights",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/26/support-global-voices-spotlight-indigenous-rights/",
+    "time": "Sun, 26 Jul 2026"
+  },
+  {
+    "id": 4085,
     "level": "medium",
     "country": "🌍",
     "text": "How transnational movements can shield African civil spaces",
@@ -153,7 +135,7 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 7535,
+    "id": 4722,
     "level": "medium",
     "country": "🌍",
     "text": "How much will it take to rebuild Venezuela after the earthquakes?",
@@ -162,7 +144,7 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 6380,
+    "id": 7045,
     "level": "medium",
     "country": "🌍",
     "text": "Protecting Pangolins in India: When an armor is not enough",
@@ -171,12 +153,30 @@
     "time": "Sat, 25 Jul 2026"
   },
   {
-    "id": 4581,
+    "id": 8464,
     "level": "medium",
     "country": "🌍",
     "text": "Japanese-Filipino children’s painful quests for filial recognition and citizensh",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/24/japanese-filipino-childrens-painful-quests-for-filial-recognition-and-citizenship/",
     "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 1823,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Tickets to nowhere: Haitian refugees fall prey to travel scams",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/24/tickets-to-nowhere-haitian-refugees-fall-prey-to-travel-scams/",
+    "time": "Fri, 24 Jul 2026"
+  },
+  {
+    "id": 9235,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From Mexico to Venezuela: A diaspora’s race to save lives",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/23/from-mexico-to-venezuela-a-diasporas-race-to-save-lives/",
+    "time": "Thu, 23 Jul 2026"
   }
 ]
