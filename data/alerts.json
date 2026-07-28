@@ -1,69 +1,78 @@
 [
   {
-    "id": 9313,
+    "id": 6606,
     "level": "critical",
     "country": "🌍",
-    "text": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
+    "text": "Trump says ‘good chance’ of progress in Iran talks. What we know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 5509,
+    "id": 6482,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli settler attack on at-Tuwani",
+    "text": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-settler-attack-on-at-tuwani?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss",
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 7030,
+    "id": 6486,
     "level": "critical",
     "country": "🌍",
-    "text": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
+    "text": "Tunisie : la canicule met à jour la dépendance énergétique du pays",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-tunisie-la-canicule-met-%C3%A0-jour-la-d%C3%A9pendance-%C3%A9nerg%C3%A9tique-du-pays",
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 5414,
+    "id": 1059,
     "level": "critical",
     "country": "🌍",
-    "text": "Magnitude 7.1 earthquake shakes southern Japan, tsunami warning issued",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/28/magnitude-7-1-earthquake-shakes-southern-japan-tsunami-warning-issued?traffic_source=rss",
+    "text": "Cinq bébés morts retrouvés dans des cartons dans le sud de la France",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260728-france-cinq-b%C3%A9b%C3%A9s-morts-retrouv%C3%A9s-dans-des-cartons-dans-un-appartement-orange",
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 8209,
+    "id": 9586,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump flouts political risk to host Netanyahu’s seventh White House visit",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/28/trump-flouts-political-risk-to-host-netanyahus-seventh-white-house-visit?traffic_source=rss",
+    "text": "Séisme au Japon : un \"nombre\" considérable de morts dans un centre commercial en",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-s%C3%A9isme-au-japon-un-nombre-consid%C3%A9rable-de-morts-dans-un-centre-commercial-endommag%C3%A9",
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 7674,
+    "id": 1413,
     "level": "critical",
     "country": "🌍",
-    "text": "Au Japon, de \"nombreuses personnes\" piégées dans un centre commercial après un p",
+    "text": "Séisme au Japon : au moins un mort et des dizaines de personnes portées disparue",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/asie-pacifique/20260728-japon-s%C3%A9isme-nombreuses-personnes-pi%C3%A9g%C3%A9es-centre-commercial",
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 1841,
-    "level": "critical",
+    "id": 6085,
+    "level": "high",
     "country": "🌍",
-    "text": "Soudan : l’armée affirme avoir repris l’autoroute Al-Sadarat",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-soudan-l-arm%C3%A9e-affirme-avoir-repris-l-autoroute-al-sadarat",
+    "text": "Israeli soldier runs marathon around Gaza outpost",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 8888,
+    "id": 3048,
+    "level": "high",
+    "country": "🌍",
+    "text": "Zelensky attendu à la Maison Blanche pour obtenir de Trump des missiles Patriot",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-zelensky-attendu-%C3%A0-la-maison-blanche-pour-obtenir-de-trump-des-missiles-patriot",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 8398,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4060,
+    "id": 8702,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5713,
+    "id": 4400,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9235,
+    "id": 1061,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6670,
+    "id": 3641,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6579,
+    "id": 5827,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5332,
+    "id": 376,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 401,
+    "id": 5268,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6524,
+    "id": 7859,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2489,
+    "id": 1713,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 42,
+    "id": 6145,
+    "level": "medium",
+    "country": "🌍",
+    "text": "LIVE on August 4: Narratives about Indigenous Rights – Whose stories are being t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/28/live-on-august-4-narratives-about-indigenous-rights-whose-stories-are-being-told-across-media-ecosystems/",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 9805,
     "level": "medium",
     "country": "🌍",
     "text": "The unasked question in the Epstein case: Were any victims stateless?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/28/the-unasked-question-in-the-epstein-case-were-any-victims-stateless/",
     "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 2087,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ethnic Vietnamese face discrimination and statelessness in Cambodia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/27/ethnic-vietnamese-face-discrimination-and-statelessness-in-cambodia/",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 9597,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Support Global Voices’ Spotlight: Indigenous Rights",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/26/support-global-voices-spotlight-indigenous-rights/",
-    "time": "Sun, 26 Jul 2026"
   }
 ]
