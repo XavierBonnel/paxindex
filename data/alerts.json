@@ -1,6 +1,33 @@
 [
   {
-    "id": 9771,
+    "id": 7069,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestine weekly: West Bank in flames after Tal killings",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 9033,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 8765,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US warns hundreds of Boeing jets may require seat safety inspections",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 7198,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says Iran talks taking place during pause in US military strikes",
@@ -9,7 +36,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 7009,
+    "id": 4664,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola response workers strike in DR Congo as death toll spikes",
@@ -18,52 +45,16 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 4799,
+    "id": 1060,
     "level": "critical",
     "country": "🌍",
-    "text": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 5661,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 6255,
-    "level": "high",
-    "country": "🌍",
-    "text": "US diplomats walk out as France addresses UN Security Council",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 8423,
-    "level": "high",
-    "country": "🌍",
-    "text": "Soudan : après un revers face à l'armée, le chef des paramilitaires ne retiendra",
+    "text": "Pour leur première rencontre depuis la guerre en Iran, Trump et Netanyahu veulen",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260727-soudan-revers-armee-chef-paramilitaires-fds-mohamed-hamdane-daglo-el-obeid-route",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260727-pour-leur-premi%C3%A8re-rencontre-depuis-la-guerre-en-iran-trump-et-netanyahu-veulent-afficher-l-unit%C3%A9",
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 2688,
-    "level": "high",
-    "country": "🌍",
-    "text": "Soudan : l'armée affirme avoir repris l'autoroute stratégique d'Al-Sadarat",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260727-soudan-l-arm%C3%A9e-affirme-avoir-repris-l-autoroute-strat%C3%A9gique-d-al-sadarat",
-    "time": "Mon, 27 Jul 2026"
-  },
-  {
-    "id": 4556,
+    "id": 4856,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8998,
+    "id": 1622,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 674,
+    "id": 4309,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8448,
+    "id": 6865,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3165,
+    "id": 8075,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9121,
+    "id": 6200,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5312,
+    "id": 9568,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4160,
+    "id": 4523,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8407,
+    "id": 2180,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5478,
+    "id": 4017,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,16 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 426,
+    "id": 6956,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The unasked question in the Epstein case: Were any victims stateless?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/28/the-unasked-question-in-the-epstein-case-were-any-victims-stateless/",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 4932,
     "level": "medium",
     "country": "🌍",
     "text": "Ethnic Vietnamese face discrimination and statelessness in Cambodia",
@@ -162,7 +162,7 @@
     "time": "Mon, 27 Jul 2026"
   },
   {
-    "id": 8561,
+    "id": 3617,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices’ Spotlight: Indigenous Rights",
@@ -171,7 +171,7 @@
     "time": "Sun, 26 Jul 2026"
   },
   {
-    "id": 8992,
+    "id": 1453,
     "level": "medium",
     "country": "🌍",
     "text": "How transnational movements can shield African civil spaces",
