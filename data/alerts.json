@@ -1,6 +1,15 @@
 [
   {
-    "id": 9192,
+    "id": 6908,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 3737,
     "level": "critical",
     "country": "🌍",
     "text": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
@@ -9,7 +18,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 1090,
+    "id": 3387,
     "level": "critical",
     "country": "🌍",
     "text": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
@@ -18,25 +27,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 6236,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What will it take to stop the conflict in Sudan?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 8750,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 988,
+    "id": 8809,
     "level": "critical",
     "country": "🌍",
     "text": "Japon : un séisme de magnitude 7,1 frappe le pays",
@@ -45,7 +36,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 785,
+    "id": 4448,
     "level": "high",
     "country": "🌍",
     "text": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
@@ -54,7 +45,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 8884,
+    "id": 5625,
     "level": "high",
     "country": "🌍",
     "text": "Les États-Unis en manque d'armes ? Pourquoi l'armée s'inquiète",
@@ -63,16 +54,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 966,
-    "level": "high",
-    "country": "🌍",
-    "text": "Le Togo, nouvelle porte d’entrée des armes envoyées par Moscou au Sahel",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260728-le-togo-nouvelle-porte-d-entr%C3%A9e-des-armes-envoy%C3%A9es-par-moscou-au-sahel",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 9367,
+    "id": 8320,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1255,
+    "id": 9175,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5558,
+    "id": 1039,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5961,
+    "id": 2936,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9994,
+    "id": 8851,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9621,
+    "id": 1173,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2289,
+    "id": 9387,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4902,
+    "id": 3996,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8389,
+    "id": 3319,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4566,
+    "id": 290,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,16 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1364,
+    "id": 7583,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The lost generation: The unfinished education of Rohingya youth in Bangladeshi r",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/28/the-lost-generation-the-unfinished-education-of-rohingya-youth-in-bangladeshi-refugee-camps/",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 7127,
     "level": "medium",
     "country": "🌍",
     "text": "LIVE on August 4: Narratives about Indigenous Rights – Whose stories are being t",
@@ -171,12 +162,21 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 548,
+    "id": 3701,
     "level": "medium",
     "country": "🌍",
     "text": "The unasked question in the Epstein case: Were any victims stateless?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/28/the-unasked-question-in-the-epstein-case-were-any-victims-stateless/",
     "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 2297,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ethnic Vietnamese face discrimination and statelessness in Cambodia",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/27/ethnic-vietnamese-face-discrimination-and-statelessness-in-cambodia/",
+    "time": "Mon, 27 Jul 2026"
   }
 ]
