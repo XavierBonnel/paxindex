@@ -1,6 +1,33 @@
 [
   {
-    "id": 7892,
+    "id": 6491,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 7131,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why is Uganda experiencing a food crisis?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/29/why-is-uganda-experiencing-a-food-crisis?traffic_source=rss",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 4250,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian industrial sites on fire after Ukrainian drone attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks?traffic_source=rss",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 3641,
     "level": "critical",
     "country": "🌍",
     "text": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
@@ -9,61 +36,61 @@
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 6861,
+    "id": 3762,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump meets Netanyahu for a record seventh White House visit",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 2777,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran missiles target US forces in Jordan after a five-day pause in war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 3085,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel kills Palestinian, destroys mosque in Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 2355,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iraqi armed groups condemn “dangerous escalation” after US-Saudi strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 6698,
-    "level": "critical",
-    "country": "🌍",
-    "text": "🔴 En direct : reprise des frappes au Moyen-Orient, le pétrole repart à la hausse",
+    "text": "Moyen-Orient : les frappes américano-saoudiennes en Irak ont fait au moins 20 mo",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260729-en-direct-moyen-orient-iran-irak-etats-unis-arabie-saoudite-frappes-ormuz-petrole-houthis",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-moyen-orient-les-frappes-am%C3%A9ricano-saoudiennes-en-irak-ont-fait-au-moins-20-morts",
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 7983,
+    "id": 9126,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : Washington et Riyad ont mené des frappes en Irak contre des alliés d",
+    "text": "Guerre au Moyen-Orient : l'armée jordanienne dit avoir abattu cinq missiles venu",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260729-en-direct-moyen-orient-iran-irak-etats-unis-arabie-saoudite-frappes-ormuz-petrole-houthis",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-guerre-au-moyen-orient-l-arm%C3%A9e-jordanienne-dit-avoir-abattu-cinq-missiles-venus-d-iran",
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 3193,
+    "id": 1272,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"Le football n'appartient pas aux investisseurs\" : tollé après le dernier projet",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/sports/20260729-football-fifa-projet-investisseurs-tolle-scandale-infantino-trump-reactions",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 841,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Séisme au Japon : 13 morts et des personnes toujours piégées dans un centre comm",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-s%C3%A9isme-au-japon-13-morts-et-des-personnes-toujours-pi%C3%A9g%C3%A9es-dans-un-centre-commercial-effondr%C3%A9",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 7513,
+    "level": "critical",
+    "country": "🌍",
+    "text": "🔴 Le DJ français Kavinsky est mort à l'âge de 50 ans",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260729-france-dj-kavinsky-retrouve-mort-a-son-domicile-paris-nightcall-angele-paris-2024",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 3142,
+    "level": "high",
+    "country": "🌍",
+    "text": "Will Germany bring back mandatory military conscription next year?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year?traffic_source=rss",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 1072,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1706,
+    "id": 8438,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5257,
+    "id": 8787,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9486,
+    "id": 2707,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2222,
+    "id": 8988,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5777,
+    "id": 24,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6289,
+    "id": 2329,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9327,
+    "id": 1612,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 41,
+    "id": 4978,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,39 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2075,
+    "id": 2410,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9420,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Running from Russia, running from hate: A trans girl’s flight to survival",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/29/running-from-russia-running-from-hate-a-trans-girls-flight-to-survival/",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 3246,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The lost generation: The unfinished education of Rohingya youth in Bangladeshi r",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/28/the-lost-generation-the-unfinished-education-of-rohingya-youth-in-bangladeshi-refugee-camps/",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 5671,
-    "level": "medium",
-    "country": "🌍",
-    "text": "LIVE on August 4: Narratives about Indigenous Rights – Whose stories are being t",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/28/live-on-august-4-narratives-about-indigenous-rights-whose-stories-are-being-told-across-media-ecosystems/",
-    "time": "Tue, 28 Jul 2026"
   }
 ]
