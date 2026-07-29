@@ -1,33 +1,51 @@
 [
   {
-    "id": 6908,
+    "id": 5917,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+    "text": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 769,
+    "level": "critical",
+    "country": "🌍",
+    "text": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 8306,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 4351,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 3737,
+    "id": 9453,
     "level": "critical",
     "country": "🌍",
-    "text": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
-    "time": "Tue, 28 Jul 2026"
+    "text": "En direct : Washington et Riyad ont mené des frappes en Irak contre des alliés d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260729-en-direct-moyen-orient-iran-irak-etats-unis-arabie-saoudite-frappes-ormuz-petrole-houthis",
+    "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 3387,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 8809,
+    "id": 9603,
     "level": "critical",
     "country": "🌍",
     "text": "Japon : un séisme de magnitude 7,1 frappe le pays",
@@ -36,16 +54,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 4448,
-    "level": "high",
-    "country": "🌍",
-    "text": "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/7/28/how-us-defence-aid-shaped-israels-military-developments-since-oct-7-2023?traffic_source=rss",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 5625,
+    "id": 9410,
     "level": "high",
     "country": "🌍",
     "text": "Les États-Unis en manque d'armes ? Pourquoi l'armée s'inquiète",
@@ -54,7 +63,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 8320,
+    "id": 1552,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9175,
+    "id": 8032,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1039,
+    "id": 5844,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2936,
+    "id": 3753,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8851,
+    "id": 3508,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1173,
+    "id": 4196,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9387,
+    "id": 8130,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3996,
+    "id": 7334,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3319,
+    "id": 7375,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 290,
+    "id": 3911,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7583,
+    "id": 6783,
     "level": "medium",
     "country": "🌍",
     "text": "The lost generation: The unfinished education of Rohingya youth in Bangladeshi r",
@@ -153,7 +162,7 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 7127,
+    "id": 1065,
     "level": "medium",
     "country": "🌍",
     "text": "LIVE on August 4: Narratives about Indigenous Rights – Whose stories are being t",
@@ -162,21 +171,12 @@
     "time": "Tue, 28 Jul 2026"
   },
   {
-    "id": 3701,
+    "id": 7427,
     "level": "medium",
     "country": "🌍",
     "text": "The unasked question in the Epstein case: Were any victims stateless?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/28/the-unasked-question-in-the-epstein-case-were-any-victims-stateless/",
     "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 2297,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ethnic Vietnamese face discrimination and statelessness in Cambodia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/27/ethnic-vietnamese-face-discrimination-and-statelessness-in-cambodia/",
-    "time": "Mon, 27 Jul 2026"
   }
 ]
