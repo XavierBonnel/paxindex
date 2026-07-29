@@ -1,6 +1,15 @@
 [
   {
-    "id": 4023,
+    "id": 7040,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 9979,
     "level": "critical",
     "country": "🌍",
     "text": "US and Israeli leaders expected ‘swift outcome’ in Iran",
@@ -9,7 +18,7 @@
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 7476,
+    "id": 384,
     "level": "critical",
     "country": "🌍",
     "text": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
@@ -18,7 +27,7 @@
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 6246,
+    "id": 6401,
     "level": "critical",
     "country": "🌍",
     "text": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
@@ -27,16 +36,16 @@
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 1458,
+    "id": 822,
     "level": "critical",
     "country": "🌍",
-    "text": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
+    "text": "Incendies en Gironde : à bord du Caracal, l’hélicoptère qui surveille le feu en ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-incendies-en-gironde-%C3%A0-bord-du-caracal-l-h%C3%A9licopt%C3%A8re-qui-surveille-le-feu-en-temps-r%C3%A9el",
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 4347,
+    "id": 3603,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre des espions sur Telegram : pourquoi le FSB s’en prend à Pavel Durov",
@@ -45,7 +54,7 @@
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 6760,
+    "id": 1817,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : les frappes américano-saoudiennes en Irak font au moins",
@@ -54,7 +63,7 @@
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 2025,
+    "id": 9691,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 463,
+    "id": 9674,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8618,
+    "id": 5833,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9218,
+    "id": 2572,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4998,
+    "id": 89,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1455,
+    "id": 1818,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2456,
+    "id": 6512,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2208,
+    "id": 8476,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9595,
+    "id": 2088,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2601,
+    "id": 5917,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +153,16 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5739,
+    "id": 3559,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘West Indian by conviction’: The Caribbean says farewell to poet and author Ian ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/29/west-indian-by-conviction-the-caribbean-says-farewell-to-poet-and-author-ian-mcdonald/",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 7271,
     "level": "medium",
     "country": "🌍",
     "text": "Running from Russia, running from hate: A trans girl’s flight to survival",
@@ -153,30 +171,12 @@
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 241,
+    "id": 4252,
     "level": "medium",
     "country": "🌍",
     "text": "The lost generation: The unfinished education of Rohingya youth in Bangladeshi r",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/28/the-lost-generation-the-unfinished-education-of-rohingya-youth-in-bangladeshi-refugee-camps/",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 4482,
-    "level": "medium",
-    "country": "🌍",
-    "text": "LIVE on August 4: Narratives about Indigenous Rights – Whose stories are being t",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/28/live-on-august-4-narratives-about-indigenous-rights-whose-stories-are-being-told-across-media-ecosystems/",
-    "time": "Tue, 28 Jul 2026"
-  },
-  {
-    "id": 9529,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The unasked question in the Epstein case: Were any victims stateless?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/28/the-unasked-question-in-the-epstein-case-were-any-victims-stateless/",
     "time": "Tue, 28 Jul 2026"
   }
 ]
