@@ -1,78 +1,60 @@
 [
   {
-    "id": 5678,
+    "id": 4023,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+    "text": "US and Israeli leaders expected ‘swift outcome’ in Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 6808,
+    "id": 7476,
     "level": "critical",
     "country": "🌍",
-    "text": "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+    "text": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/7/29/infantinos-fifa-world-cup-stakes-plan-would-uefa-boycott-would-it-work?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 4247,
+    "id": 6246,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Iran attacks now to send message as US assets build up in Israel’",
+    "text": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 8106,
+    "id": 1458,
     "level": "critical",
     "country": "🌍",
-    "text": "Married couple deported by ICE killed in Guatemala",
+    "text": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-guatemala-couple-ice-gl?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 8313,
+    "id": 4347,
     "level": "critical",
     "country": "🌍",
-    "text": "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism?traffic_source=rss",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 7757,
-    "level": "critical",
-    "country": "🌍",
-    "text": "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/29/a-safe-space-for-gaza-women-a-sanctuary-to-speak-heal-and-share-amid-war?traffic_source=rss",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 2010,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 5413,
-    "level": "high",
-    "country": "🌍",
-    "text": "Côte d’Ivoire : après le meurtre d’un livreur Yango, l’émotion et les appels à l",
+    "text": "Guerre des espions sur Telegram : pourquoi le FSB s’en prend à Pavel Durov",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-c%C3%B4te-d-ivoire-apr%C3%A8s-le-meurtre-d-un-livreur-yango-l-%C3%A9motion-et-les-appels-%C3%A0-la-s%C3%A9curit%C3%A9",
+    "link": "https://www.france24.com/fr/europe/20260729-guerre-des-espions-sur-telegram-pourquoi-le-fsb-s-en-prend-%C3%A0-pavel-durov-leo-chatbot-sabotage",
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 9125,
+    "id": 6760,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre au Moyen-Orient : les frappes américano-saoudiennes en Irak font au moins",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260729-guerre-au-moyen-orient-les-frappes-am%C3%A9ricano-saoudiennes-en-irak-font-au-moins-20-morts",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 2025,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8105,
+    "id": 463,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5899,
+    "id": 8618,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8175,
+    "id": 9218,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8644,
+    "id": 4998,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1495,
+    "id": 1455,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2993,
+    "id": 2456,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7652,
+    "id": 2208,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8307,
+    "id": 9595,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5822,
+    "id": 2601,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6711,
+    "id": 5739,
     "level": "medium",
     "country": "🌍",
     "text": "Running from Russia, running from hate: A trans girl’s flight to survival",
@@ -171,12 +153,30 @@
     "time": "Wed, 29 Jul 2026"
   },
   {
-    "id": 9129,
+    "id": 241,
     "level": "medium",
     "country": "🌍",
     "text": "The lost generation: The unfinished education of Rohingya youth in Bangladeshi r",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/28/the-lost-generation-the-unfinished-education-of-rohingya-youth-in-bangladeshi-refugee-camps/",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 4482,
+    "level": "medium",
+    "country": "🌍",
+    "text": "LIVE on August 4: Narratives about Indigenous Rights – Whose stories are being t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/28/live-on-august-4-narratives-about-indigenous-rights-whose-stories-are-being-told-across-media-ecosystems/",
+    "time": "Tue, 28 Jul 2026"
+  },
+  {
+    "id": 9529,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The unasked question in the Epstein case: Were any victims stateless?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/28/the-unasked-question-in-the-epstein-case-were-any-victims-stateless/",
     "time": "Tue, 28 Jul 2026"
   }
 ]
