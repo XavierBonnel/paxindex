@@ -1,6 +1,24 @@
 [
   {
-    "id": 9489,
+    "id": 572,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How does a safe zone in Lebanon become a target three times?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/30/how-does-a-safe-zone-in-lebanon-become-a-target-three-times?traffic_source=rss",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 2279,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strikes kill at least four, including children, across Gaza Strip",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 6999,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli raids and settler attacks intensify across the occupied West Bank",
@@ -9,43 +27,7 @@
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 1653,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Attack on northwest Pakistan police post kills 11 officers",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
-    "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 3108,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Several children killed and wounded in Israeli attacks across Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-    "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 9816,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
-    "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 8600,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Poland says Russian missile breaches NATO airspace",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
-    "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 3852,
+    "id": 5346,
     "level": "critical",
     "country": "🌍",
     "text": "Mégafeu en Gironde : les stigmates de l'incendie",
@@ -54,34 +36,16 @@
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 9617,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : huit morts dans des bombardements russes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-guerre-en-ukraine-huit-morts-dans-des-bombardements-russes",
-    "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 4552,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Incendies en Grèce : trois pompiers tués dans des feux de forêt",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-incendies-en-gr%C3%A8ce-trois-pompiers-tu%C3%A9s-dans-des-feux-de-for%C3%AAt",
-    "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 5770,
+    "id": 7757,
     "level": "high",
     "country": "🌍",
-    "text": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss",
+    "text": "Un marché en Ukraine prend feu lors d’une nouvelle attaque russe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-un-march%C3%A9-en-ukraine-prend-feu-lors-d-une-nouvelle-attaque-russe",
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 6031,
+    "id": 5915,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3127,
+    "id": 9954,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 42,
+    "id": 4811,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3551,
+    "id": 868,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6215,
+    "id": 1614,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9968,
+    "id": 3902,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2645,
+    "id": 3359,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1883,
+    "id": 2702,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 351,
+    "id": 5103,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2828,
+    "id": 7172,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +135,48 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8236,
+    "id": 4695,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The journey of a young Rohingya man from genocide to survival and hope",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/30/the-journey-of-a-young-rohingya-man-from-genocide-to-survival-and-hope/",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 9912,
     "level": "medium",
     "country": "🌍",
     "text": "The right to nationality in Mozambique: The application of ‘Jus soli’ in the fig",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/30/the-right-to-nationality-in-mozambique-the-application-of-jus-soli-in-the-fight-against-statelessness/",
     "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 8838,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘West Indian by conviction’: The Caribbean says farewell to poet and author Ian ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/29/west-indian-by-conviction-the-caribbean-says-farewell-to-poet-and-author-ian-mcdonald/",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 2733,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Running from Russia, running from hate: A trans girl’s flight to survival",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/29/running-from-russia-running-from-hate-a-trans-girls-flight-to-survival/",
+    "time": "Wed, 29 Jul 2026"
+  },
+  {
+    "id": 9583,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The lost generation: The unfinished education of Rohingya youth in Bangladeshi r",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/28/the-lost-generation-the-unfinished-education-of-rohingya-youth-in-bangladeshi-refugee-camps/",
+    "time": "Tue, 28 Jul 2026"
   }
 ]
