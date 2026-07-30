@@ -1,60 +1,87 @@
 [
   {
-    "id": 4700,
+    "id": 9489,
     "level": "critical",
     "country": "🌍",
-    "text": "US strikes cause extensive damage on Iran’s Qeshm Island",
+    "text": "Israeli raids and settler attacks intensify across the occupied West Bank",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss",
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 6149,
+    "id": 1653,
     "level": "critical",
     "country": "🌍",
-    "text": "Séisme au Japon : le bilan monte à 30 morts",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-s%C3%A9isme-au-japon-le-bilan-monte-%C3%A0-30-morts",
+    "text": "Attack on northwest Pakistan police post kills 11 officers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss",
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 2471,
+    "id": 3108,
     "level": "critical",
     "country": "🌍",
-    "text": "Pologne : un projectile s'écrase dans une zone inhabitée de l'est du pays",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-pologne-un-projectile-s-%C3%A9crase-dans-une-zone-inhabit%C3%A9e-de-l-est-du-pays",
+    "text": "Several children killed and wounded in Israeli attacks across Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 1115,
+    "id": 9816,
     "level": "critical",
     "country": "🌍",
-    "text": "Moyen-Orient : les États-Unis reprennent leurs bombardements sur l'Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-moyen-orient-les-%C3%A9tats-unis-reprennent-leurs-bombardements-sur-l-iran",
+    "text": "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/30/why-is-saudi-arabia-forming-a-coalition-to-protect-the-red-sea?traffic_source=rss",
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 176,
+    "id": 8600,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Poland says Russian missile breaches NATO airspace",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl?traffic_source=rss",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 3852,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mégafeu en Gironde : les stigmates de l'incendie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-m%C3%A9gafeu-en-gironde-les-stigmates-de-l-incendie",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 9617,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : huit morts dans des bombardements russes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-guerre-en-ukraine-huit-morts-dans-des-bombardements-russes",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 4552,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Incendies en Grèce : trois pompiers tués dans des feux de forêt",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-incendies-en-gr%C3%A8ce-trois-pompiers-tu%C3%A9s-dans-des-feux-de-for%C3%AAt",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 5770,
     "level": "high",
     "country": "🌍",
-    "text": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
+    "text": "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss",
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 8975,
-    "level": "high",
-    "country": "🌍",
-    "text": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
-    "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 5420,
+    "id": 6031,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3566,
+    "id": 3127,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3824,
+    "id": 42,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8397,
+    "id": 3551,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6818,
+    "id": 6215,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7446,
+    "id": 9968,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8347,
+    "id": 2645,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9181,
+    "id": 1883,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7585,
+    "id": 351,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3058,
+    "id": 2828,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,39 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 551,
+    "id": 8236,
     "level": "medium",
     "country": "🌍",
     "text": "The right to nationality in Mozambique: The application of ‘Jus soli’ in the fig",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/30/the-right-to-nationality-in-mozambique-the-application-of-jus-soli-in-the-fight-against-statelessness/",
     "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 6684,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘West Indian by conviction’: The Caribbean says farewell to poet and author Ian ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/29/west-indian-by-conviction-the-caribbean-says-farewell-to-poet-and-author-ian-mcdonald/",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 3936,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Running from Russia, running from hate: A trans girl’s flight to survival",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/29/running-from-russia-running-from-hate-a-trans-girls-flight-to-survival/",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 3904,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The lost generation: The unfinished education of Rohingya youth in Bangladeshi r",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/28/the-lost-generation-the-unfinished-education-of-rohingya-youth-in-bangladeshi-refugee-camps/",
-    "time": "Tue, 28 Jul 2026"
   }
 ]
