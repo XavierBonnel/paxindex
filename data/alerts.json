@@ -1,6 +1,33 @@
 [
   {
-    "id": 1354,
+    "id": 8253,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Will Saudi Arabia be dragged further into the war in Iran?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 1882,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 2682,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US authorities probe cyberattack on water systems in Minnesota",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 3331,
     "level": "critical",
     "country": "🌍",
     "text": "\"Urgence humanitaire\" à Ceuta après l'arrivée massive de migrants, l'armée envoy",
@@ -9,7 +36,7 @@
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 3660,
+    "id": 3701,
     "level": "critical",
     "country": "🌍",
     "text": "La France n’a pas refusé de faire appel à un bombardier d’eau russe par russopho",
@@ -18,7 +45,7 @@
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 5122,
+    "id": 6271,
     "level": "critical",
     "country": "🌍",
     "text": "Frappes américano-saoudiennes : pourquoi Riyad déterre (un peu) la hache de guer",
@@ -27,16 +54,7 @@
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 5456,
-    "level": "high",
-    "country": "🌍",
-    "text": "Pakistan coal mine explosion kills at least 11, traps dozens",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/30/pakistan-coal-mine-explosion-kills-at-least-11-traps-dozens?traffic_source=rss",
-    "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 6289,
+    "id": 3159,
     "level": "high",
     "country": "🌍",
     "text": "🔴 \"Urgence humanitaire\" à Ceuta après l'arrivée massive de migrants, l'armée env",
@@ -45,7 +63,7 @@
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 4777,
+    "id": 2692,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6536,
+    "id": 8607,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8595,
+    "id": 4572,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9913,
+    "id": 8259,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8636,
+    "id": 2247,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9855,
+    "id": 9280,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4292,
+    "id": 7257,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9418,
+    "id": 829,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5176,
+    "id": 3818,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7960,
+    "id": 4370,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 785,
+    "id": 3451,
     "level": "medium",
     "country": "🌍",
     "text": "Weaponizing citizenship: Silencing dissent in Nicaragua",
@@ -144,7 +162,7 @@
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 9673,
+    "id": 8016,
     "level": "medium",
     "country": "🌍",
     "text": "The journey of a young Rohingya man from genocide to survival and hope",
@@ -153,30 +171,12 @@
     "time": "Thu, 30 Jul 2026"
   },
   {
-    "id": 8697,
+    "id": 7591,
     "level": "medium",
     "country": "🌍",
     "text": "The right to nationality in Mozambique: The application of ‘Jus soli’ in the fig",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/30/the-right-to-nationality-in-mozambique-the-application-of-jus-soli-in-the-fight-against-statelessness/",
     "time": "Thu, 30 Jul 2026"
-  },
-  {
-    "id": 8177,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘West Indian by conviction’: The Caribbean says farewell to poet and author Ian ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/29/west-indian-by-conviction-the-caribbean-says-farewell-to-poet-and-author-ian-mcdonald/",
-    "time": "Wed, 29 Jul 2026"
-  },
-  {
-    "id": 9735,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Running from Russia, running from hate: A trans girl’s flight to survival",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/29/running-from-russia-running-from-hate-a-trans-girls-flight-to-survival/",
-    "time": "Wed, 29 Jul 2026"
   }
 ]
