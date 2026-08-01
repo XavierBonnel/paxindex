@@ -1,42 +1,51 @@
 [
   {
-    "id": 8578,
+    "id": 756,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+    "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/01/mightily-like-insurrection-revisiting-trinidad-tobagos-first-emancipation-day/",
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 9553,
+    "id": 4417,
     "level": "critical",
     "country": "🌍",
-    "text": "At least 11 wounded by Colombia car bomb days before presidential election",
+    "text": "Palestinian children among those detained in Israeli West Bank raids",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/1/palestinian-children-among-those-detained-in-israeli-west-bank-raids?traffic_source=rss",
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 7364,
+    "id": 5334,
     "level": "critical",
     "country": "🌍",
-    "text": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
+    "text": "At least three killed in explosion near cafe in Russia’s Moscow",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 1239,
+    "id": 6052,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strike destroys Gaza hospital warehouse",
+    "text": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 4386,
+    "id": 9233,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 9 people killed in Russian missile attacks on Kyiv",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
+    "time": "Sat, 01 Aug 2026"
+  },
+  {
+    "id": 6182,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : nouvelle attaque russe, \"les services de secours sont encore",
@@ -45,7 +54,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 1213,
+    "id": 4301,
     "level": "high",
     "country": "🌍",
     "text": "Israeli forces detain residents and demolish homes in southern Syria",
@@ -54,7 +63,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 4240,
+    "id": 9652,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5378,
+    "id": 7707,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 19,
+    "id": 5076,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2536,
+    "id": 4034,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5673,
+    "id": 8554,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1929,
+    "id": 7669,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8873,
+    "id": 876,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 248,
+    "id": 7839,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6135,
+    "id": 7730,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5105,
+    "id": 9193,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 113,
+    "id": 1288,
     "level": "medium",
     "country": "🌍",
     "text": "Citizenship in limbo: Why Assam’s Citizenship Amendment Act (CAA) Pathway strugg",
@@ -153,7 +162,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 4586,
+    "id": 9287,
     "level": "medium",
     "country": "🌍",
     "text": "A Myanmar artist navigating statelessness and activism in France",
@@ -162,21 +171,12 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 5505,
+    "id": 3713,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil, court ruling sheds light on the story of an undocumented and stateles",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/07/31/in-brazil-court-ruling-sheds-light-on-the-story-of-an-undocumented-and-stateless-woman/",
-    "time": "Fri, 31 Jul 2026"
-  },
-  {
-    "id": 531,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela is burning, and I’m forced to watch from afar",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/31/venezuela-is-burning-and-im-forced-to-watch-from-afar/",
     "time": "Fri, 31 Jul 2026"
   }
 ]
