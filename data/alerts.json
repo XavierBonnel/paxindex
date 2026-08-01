@@ -1,6 +1,24 @@
 [
   {
-    "id": 7351,
+    "id": 1156,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Iran says it has a plan to respond to any US attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+    "time": "Fri, 31 Jul 2026"
+  },
+  {
+    "id": 9730,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Analyst: the US faces a strategic ‘dead end’ in Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/analyst-the-us-faces-a-strategic-dead-end-in-iran?traffic_source=rss",
+    "time": "Fri, 31 Jul 2026"
+  },
+  {
+    "id": 8160,
     "level": "critical",
     "country": "🌍",
     "text": "Children face higher threat of US deportation as legal support deal expires",
@@ -9,25 +27,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 9484,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least 25 people killed, dozens injured in Algeria bus crash",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
-    "time": "Fri, 31 Jul 2026"
-  },
-  {
-    "id": 281,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Poland protests to Russian ambassador over missile incursion",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
-    "time": "Fri, 31 Jul 2026"
-  },
-  {
-    "id": 8935,
+    "id": 3593,
     "level": "critical",
     "country": "🌍",
     "text": "Ceuta : Trump dénonce une \"invasion\" au moment où la majorité des migrants rentr",
@@ -36,7 +36,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 3009,
+    "id": 4781,
     "level": "high",
     "country": "🌍",
     "text": "Fabrication de missiles Patriot : Donald Trump revient sur son feu vert accordé ",
@@ -45,7 +45,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 9200,
+    "id": 2723,
     "level": "high",
     "country": "🌍",
     "text": "En RDC, la validation de la loi référendaire ravive les tensions politiques",
@@ -54,7 +54,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 3853,
+    "id": 3648,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2145,
+    "id": 7322,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7515,
+    "id": 8163,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5032,
+    "id": 4656,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8031,
+    "id": 3877,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6422,
+    "id": 8091,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7911,
+    "id": 3991,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1301,
+    "id": 1994,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2444,
+    "id": 6970,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1694,
+    "id": 5642,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5507,
+    "id": 7403,
     "level": "medium",
     "country": "🌍",
     "text": "A Myanmar artist navigating statelessness and activism in France",
@@ -153,7 +153,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 5345,
+    "id": 5685,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil, court ruling sheds light on the story of an undocumented and stateles",
@@ -162,7 +162,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 2689,
+    "id": 7314,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela is burning, and I’m forced to watch from afar",
@@ -171,7 +171,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 37,
+    "id": 3165,
     "level": "medium",
     "country": "🌍",
     "text": "Weaponizing citizenship: Silencing dissent in Nicaragua",
