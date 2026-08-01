@@ -1,6 +1,15 @@
 [
   {
-    "id": 3530,
+    "id": 8578,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+    "time": "Sat, 01 Aug 2026"
+  },
+  {
+    "id": 9553,
     "level": "critical",
     "country": "🌍",
     "text": "At least 11 wounded by Colombia car bomb days before presidential election",
@@ -9,7 +18,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 6810,
+    "id": 7364,
     "level": "critical",
     "country": "🌍",
     "text": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
@@ -18,7 +27,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 6943,
+    "id": 1239,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli strike destroys Gaza hospital warehouse",
@@ -27,34 +36,25 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 1768,
+    "id": 4386,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+    "text": "Guerre en Ukraine : nouvelle attaque russe, \"les services de secours sont encore",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260801-guerre-en-ukraine-nouvelle-attaque-russe-le-services-de-secours-sont-encore-%C3%A0-l-%C5%93uvre",
+    "time": "Sat, 01 Aug 2026"
+  },
+  {
+    "id": 1213,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israeli forces detain residents and demolish homes in southern Syria",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 9783,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mort de la légende de l'alpinisme Nirmal Purja et des neuf membres de son expédi",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260801-mort-de-la-l%C3%A9gende-de-l-alpinisme-nirmal-purja-et-des-neuf-membres-de-son-exp%C3%A9dition-au-pakistan",
-    "time": "Sat, 01 Aug 2026"
-  },
-  {
-    "id": 7156,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre de l’IA : l’empire américain contre-attaque face à la menace des robots c",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260801-guerre-de-l-ia-l-empire-am%C3%A9ricain-contre-attaque-face-%C3%A0-la-menace-des-robots-chinois",
-    "time": "Sat, 01 Aug 2026"
-  },
-  {
-    "id": 3119,
+    "id": 4240,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7057,
+    "id": 5378,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9539,
+    "id": 19,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7781,
+    "id": 2536,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5396,
+    "id": 5673,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8169,
+    "id": 1929,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4724,
+    "id": 8873,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6694,
+    "id": 248,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5936,
+    "id": 6135,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9347,
+    "id": 5105,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7451,
+    "id": 113,
     "level": "medium",
     "country": "🌍",
     "text": "Citizenship in limbo: Why Assam’s Citizenship Amendment Act (CAA) Pathway strugg",
@@ -153,7 +153,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 3106,
+    "id": 4586,
     "level": "medium",
     "country": "🌍",
     "text": "A Myanmar artist navigating statelessness and activism in France",
@@ -162,7 +162,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 6344,
+    "id": 5505,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil, court ruling sheds light on the story of an undocumented and stateles",
@@ -171,7 +171,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 2498,
+    "id": 531,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela is burning, and I’m forced to watch from afar",
