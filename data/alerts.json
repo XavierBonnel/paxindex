@@ -1,6 +1,6 @@
 [
   {
-    "id": 3818,
+    "id": 1771,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,16 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 1676,
+    "id": 5620,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 1971,
     "level": "critical",
     "country": "🌍",
     "text": "Israelis attack Armenian monastery in Jerusalem’s Old City",
@@ -18,7 +27,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 3922,
+    "id": 3403,
     "level": "critical",
     "country": "🌍",
     "text": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
@@ -27,7 +36,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 4115,
+    "id": 7786,
     "level": "critical",
     "country": "🌍",
     "text": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
@@ -36,34 +45,16 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 6577,
+    "id": 9168,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukrainian drone attacks kill eight in response to Russian missiles",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 4452,
-    "level": "critical",
-    "country": "🌍",
-    "text": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 2167,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ceuta : au moins 72 migrants sont morts en tentant de rejoindre l'enclave espagn",
+    "text": "Au moins 72 migrants sont morts en tentant de rejoindre Ceuta, selon Madrid",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260802-ceuta-au-moins-72-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-espagnole",
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 4967,
+    "id": 1979,
     "level": "critical",
     "country": "🌍",
     "text": "Trump suspend les frappes contre l'Iran sous condition d'un accord rapide",
@@ -72,7 +63,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 6481,
+    "id": 9397,
     "level": "critical",
     "country": "🌍",
     "text": "En Grèce, deux morts et une lutte contre les incendies \"extrêmement difficile\"",
@@ -81,16 +72,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 371,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre au Moyen-Orient : Trump suspend les frappes américaines contre l'Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-guerre-au-moyen-orient-trump-suspend-les-frappes-am%C3%A9ricaines-contre-l-iran",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 9951,
+    "id": 9651,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1130,
+    "id": 2757,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3921,
+    "id": 6251,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6524,
+    "id": 8904,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1544,
+    "id": 7115,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2276,
+    "id": 5263,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7419,
+    "id": 4276,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7424,
+    "id": 8047,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3060,
+    "id": 7131,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +153,30 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7585,
+    "id": 5404,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 4165,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Identity beyond citizenship: What remains when the State refuses to recognise yo",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/02/identity-beyond-citizenship-what-remains-when-the-state-refuses-to-recognise-you/",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 7705,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/02/nepals-community-forests-offer-climate-solutions-one-leaf-at-a-time/",
+    "time": "Sun, 02 Aug 2026"
   }
 ]
