@@ -1,6 +1,6 @@
 [
   {
-    "id": 907,
+    "id": 6532,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,25 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 8485,
+    "id": 131,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How to end the ‘Hormuz war’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 5598,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukrainian farmers use temporary storage to revive grain exports",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 4768,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea",
@@ -18,7 +36,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 9845,
+    "id": 5315,
     "level": "critical",
     "country": "🌍",
     "text": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
@@ -27,7 +45,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 5483,
+    "id": 6321,
     "level": "critical",
     "country": "🌍",
     "text": "Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?",
@@ -36,16 +54,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 4076,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 2475,
+    "id": 6307,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : Trump suspend les frappes américaines contre l'Iran",
@@ -54,25 +63,16 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 3953,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Incendies en France : les gendarmes recherchent d'éventuels incendiaires",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-incendies-en-france-les-gendarmes-recherchent-d-%C3%A9ventuels-incendiaires",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 3266,
+    "id": 1661,
     "level": "high",
     "country": "🌍",
-    "text": "Colombie : au moins 14 blessés dans l'explosion d'un camion piégé",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-colombie-au-moins-14-bless%C3%A9s-dans-l-explosion-d-un-camion-pi%C3%A9g%C3%A9",
+    "text": "Tanks, troops and space",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 1866,
+    "id": 5132,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7583,
+    "id": 5051,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1435,
+    "id": 9182,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3135,
+    "id": 583,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2450,
+    "id": 6307,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1023,
+    "id": 7219,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3107,
+    "id": 4985,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3940,
+    "id": 9692,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7833,
+    "id": 5498,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5173,
+    "id": 1846,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8183,
+    "id": 9093,
     "level": "medium",
     "country": "🌍",
     "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
@@ -171,7 +171,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 3557,
+    "id": 103,
     "level": "medium",
     "country": "🌍",
     "text": "Citizenship in limbo: Why Assam’s Citizenship Amendment Act (CAA) Pathway strugg",
