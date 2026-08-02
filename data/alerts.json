@@ -1,6 +1,6 @@
 [
   {
-    "id": 6123,
+    "id": 5434,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,52 +9,52 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 8914,
+    "id": 4639,
     "level": "critical",
     "country": "🌍",
-    "text": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
+    "text": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 7147,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 26,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 2911,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 6728,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Singapore bans UK band Massive Attack over Palestinian flag",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 7853,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
-    "time": "Sat, 01 Aug 2026"
-  },
-  {
-    "id": 9636,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
-    "time": "Sat, 01 Aug 2026"
-  },
-  {
-    "id": 2177,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/1/police-say-13-killed-as-small-plane-viewing-nazca-lines-in-peru-crashes?traffic_source=rss",
-    "time": "Sat, 01 Aug 2026"
-  },
-  {
-    "id": 4132,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
-    "time": "Sat, 01 Aug 2026"
-  },
-  {
-    "id": 4341,
+    "id": 6077,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : nouvelle attaque russe, \"les services de secours sont encore",
@@ -63,7 +63,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 5917,
+    "id": 9373,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4201,
+    "id": 3719,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9122,
+    "id": 399,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1088,
+    "id": 7988,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7806,
+    "id": 7984,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8458,
+    "id": 5168,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3371,
+    "id": 401,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7361,
+    "id": 6266,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8885,
+    "id": 4853,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7114,
+    "id": 8174,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5325,
+    "id": 5649,
     "level": "medium",
     "country": "🌍",
     "text": "Citizenship in limbo: Why Assam’s Citizenship Amendment Act (CAA) Pathway strugg",
@@ -162,7 +162,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 864,
+    "id": 4171,
     "level": "medium",
     "country": "🌍",
     "text": "A Myanmar artist navigating statelessness and activism in France",
@@ -171,7 +171,7 @@
     "time": "Fri, 31 Jul 2026"
   },
   {
-    "id": 9943,
+    "id": 5869,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil, court ruling sheds light on the story of an undocumented and stateles",
