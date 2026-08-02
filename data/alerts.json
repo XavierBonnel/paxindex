@@ -1,6 +1,6 @@
 [
   {
-    "id": 1769,
+    "id": 4439,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,43 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 4014,
+    "id": 1295,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 2537,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump ‘cancels attack on Iran’ saying deal is near",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 9825,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Petro urges global support to stop possible US invasion of Cuba",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 2085,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 2012,
     "level": "critical",
     "country": "🌍",
     "text": "At least three dead in Idaho shopping mall mass shooting",
@@ -18,7 +54,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 4262,
+    "id": 7031,
     "level": "critical",
     "country": "🌍",
     "text": "Three dead including female bomber in Moscow restaurant attack",
@@ -27,43 +63,25 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 8920,
+    "id": 2456,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
+    "text": "Pérou : 13 morts dans le crash d'un avion en route vers les lignes de Nazca",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-p%C3%A9rou-13-morts-dans-le-crash-d-un-avion-en-route-vers-les-lignes-de-nazca",
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 1147,
+    "id": 6020,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 92,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 9445,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Moyen-Orient en direct : Donald Trump annonce suspendre les frappes américaines ",
+    "text": "En direct : Donald Trump dit annuler des bombardements en Iran dans l'espoir d'u",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260802-guerre-au-moyen-orient-donald-trump-annonce-suspendre-frappes-am%C3%A9ricaines-contre-iran",
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 2570,
+    "id": 3742,
     "level": "critical",
     "country": "🌍",
     "text": "Russie : au moins trois morts dans un attentat à la bombe dans un restaurant à M",
@@ -72,7 +90,16 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 5590,
+    "id": 1330,
+    "level": "critical",
+    "country": "🌍",
+    "text": "À Gaza, huit morts dans des frappes israéliennes malgré l'accord annoncé sur le ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260802-gaza-huit-morts-dans-des-frappes-isra%C3%A9liennes-malgr%C3%A9-l-accord-sur-la-fin-des-op%C3%A9rations-militaires",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 2266,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5253,
+    "id": 368,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6292,
+    "id": 8560,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4545,
+    "id": 4507,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9974,
+    "id": 1480,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3763,
+    "id": 70,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9901,
+    "id": 5,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4348,
+    "id": 5685,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,39 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4169,
+    "id": 3087,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 3750,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9021,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Citizenship in limbo: Why Assam’s Citizenship Amendment Act (CAA) Pathway strugg",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/01/citizenship-in-limbo-why-assams-citizenship-amendment-act-caa-pathway-struggled-to-gain-traction/",
-    "time": "Sat, 01 Aug 2026"
-  },
-  {
-    "id": 9019,
-    "level": "medium",
-    "country": "🌍",
-    "text": "A Myanmar artist navigating statelessness and activism in France",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/31/a-myanmar-artist-navigating-statelessness-and-activism-in-france/",
-    "time": "Fri, 31 Jul 2026"
   }
 ]
