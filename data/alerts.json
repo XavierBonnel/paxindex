@@ -1,6 +1,6 @@
 [
   {
-    "id": 9165,
+    "id": 2613,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,25 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 6346,
+    "id": 6749,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 4543,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Can Netanyahu survive Israel’s most consequential election?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 4637,
     "level": "critical",
     "country": "🌍",
     "text": "Uncertainty on Iranians’ minds as Trump fluctuates on war and talk",
@@ -18,16 +36,7 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 6904,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Romanian navy blasts riverbed to protect nuclear plant",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
-    "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 5509,
+    "id": 9442,
     "level": "critical",
     "country": "🌍",
     "text": "🇫🇷 Gironde : le mégafeu révèle la présence d'obus de la Seconde Guerre mondiale",
@@ -36,7 +45,7 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 2822,
+    "id": 4330,
     "level": "critical",
     "country": "🌍",
     "text": "Grèce : quatrième jour de lutte contre les incendies",
@@ -45,7 +54,7 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 556,
+    "id": 7161,
     "level": "high",
     "country": "🌍",
     "text": "Ceuta : l’afflux de migrants ravive les tensions autour de Schengen",
@@ -54,7 +63,7 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 4923,
+    "id": 8804,
     "level": "high",
     "country": "🌍",
     "text": "Cuba, sous blocus américain, frappée par une panne de courant généralisée",
@@ -63,7 +72,7 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 3688,
+    "id": 6045,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7326,
+    "id": 1943,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2826,
+    "id": 7011,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3728,
+    "id": 7038,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7941,
+    "id": 3971,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6148,
+    "id": 61,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 942,
+    "id": 4786,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6992,
+    "id": 9385,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8718,
+    "id": 471,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1253,
+    "id": 1157,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6821,
+    "id": 3750,
     "level": "medium",
     "country": "🌍",
     "text": "How a community-led campaign is helping save Nigeria’s Kam language",
@@ -162,21 +171,12 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 7431,
+    "id": 5745,
     "level": "medium",
     "country": "🌍",
     "text": "Identity beyond citizenship: What remains when the state refuses to recognise yo",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/02/identity-beyond-citizenship-what-remains-when-the-state-refuses-to-recognise-you/",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 4273,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/02/nepals-community-forests-offer-climate-solutions-one-leaf-at-a-time/",
     "time": "Sun, 02 Aug 2026"
   }
 ]
