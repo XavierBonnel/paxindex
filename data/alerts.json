@@ -1,6 +1,6 @@
 [
   {
-    "id": 1043,
+    "id": 5913,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,34 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 4502,
+    "id": 4728,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 6208,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/suicide-bombing-kills-at-least-14-people-in-pakistans-swat-valley?traffic_source=rss",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 9615,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 4892,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says new round of Iran talks will begin Monday",
@@ -18,7 +45,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 5247,
+    "id": 3449,
     "level": "critical",
     "country": "🌍",
     "text": "Sudan army drone attack on Darfur kills 35, rights group says",
@@ -27,52 +54,25 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 5730,
+    "id": 7863,
     "level": "critical",
     "country": "🌍",
-    "text": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 7611,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israelis attack Armenian monastery in Jerusalem’s Old City",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israelis-attack-armenian-monastery-in-jerusalems-old-city?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 416,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au moins 72 migrants sont morts en tentant de rejoindre Ceuta, selon Madrid",
+    "text": "Un week-end marqué par les frappes israéliennes sur Gaza",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260802-ceuta-au-moins-72-migrants-sont-morts-en-tentant-de-rejoindre-l-enclave-espagnole",
-    "time": "Sun, 02 Aug 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-un-week-end-marqu%C3%A9-par-les-frappes-isra%C3%A9liennes-sur-gaza",
+    "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 9338,
+    "id": 2874,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump suspend les frappes contre l'Iran sous condition d'un accord rapide",
+    "text": "Une frappe de drone fait au moins 35 morts dans le Darfour au Soudan, selon Emer",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260802-trump-suspend-les-frappes-contre-l-iran-sous-condition-d-un-accord-rapide",
-    "time": "Sun, 02 Aug 2026"
+    "link": "https://www.france24.com/fr/afrique/20260803-frappe-drone-35-morts-darfour-soudan-ong-emergency-lawyers-tribunal-fsr",
+    "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 2843,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Grèce, deux morts et une lutte contre les incendies \"extrêmement difficile\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260802-en-gr%C3%A8ce-les-vents-violents-rendent-la-lutte-contre-les-incendies-extr%C3%AAmement-difficile",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 8507,
+    "id": 4264,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6822,
+    "id": 4243,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2075,
+    "id": 6735,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3203,
+    "id": 8792,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9226,
+    "id": 2301,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5145,
+    "id": 4774,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 480,
+    "id": 4556,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5963,
+    "id": 5193,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 313,
+    "id": 7724,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3628,
+    "id": 8409,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1553,
+    "id": 1825,
     "level": "medium",
     "country": "🌍",
     "text": "Identity beyond citizenship: What remains when the State refuses to recognise yo",
@@ -171,7 +171,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 1497,
+    "id": 8344,
     "level": "medium",
     "country": "🌍",
     "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
