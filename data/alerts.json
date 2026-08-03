@@ -1,6 +1,6 @@
 [
   {
-    "id": 5913,
+    "id": 2731,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 4728,
+    "id": 1451,
     "level": "critical",
     "country": "🌍",
     "text": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
@@ -18,7 +18,7 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 6208,
+    "id": 553,
     "level": "critical",
     "country": "🌍",
     "text": "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
@@ -27,34 +27,52 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 9615,
+    "id": 6468,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+    "text": "Iran war live: Iranian foreign ministry says no current talks with US",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 4892,
+    "id": 5836,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says new round of Iran talks will begin Monday",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
+    "text": "La guerre d'Espagne : prologue de la Seconde Guerre mondiale ? (1/4)",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260803-guerre-espagne-prologue-seconde-mondiale-republicains-franco-histoire",
+    "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 3449,
+    "id": 3183,
     "level": "critical",
     "country": "🌍",
-    "text": "Sudan army drone attack on Darfur kills 35, rights group says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
+    "text": "Russie : le géant de l'e-commerce Wildberries visé par une nouvelle attaque ukra",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260803-russie-g%C3%A9ant-e-commerce-wildberries-vis%C3%A9-nouvelle-attaque-ukrainienne-guerre",
+    "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 7863,
+    "id": 7650,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fifa : Gianni Infantino sous pression après l'échec de son nouveau projet",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260803-fifa-gianni-infantino-sous-pression-apr%C3%A8s-%C3%A9chec-nouveau-projet-forward-entreprise-kolo-muani-liverpool-tour-france-femmes-wiebes-marchand",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 2640,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Drame de Ceuta: \"Les projectiles humains de Mohammed VI\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260803-drame-de-ceuta-les-projectiles-humains-de-mohammed-vi",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 3769,
     "level": "critical",
     "country": "🌍",
     "text": "Un week-end marqué par les frappes israéliennes sur Gaza",
@@ -63,16 +81,7 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 2874,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Une frappe de drone fait au moins 35 morts dans le Darfour au Soudan, selon Emer",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260803-frappe-drone-35-morts-darfour-soudan-ong-emergency-lawyers-tribunal-fsr",
-    "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 4264,
+    "id": 7891,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4243,
+    "id": 7041,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6735,
+    "id": 9371,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8792,
+    "id": 1938,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2301,
+    "id": 8221,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4774,
+    "id": 1035,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4556,
+    "id": 4649,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5193,
+    "id": 5241,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7724,
+    "id": 3437,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8409,
+    "id": 3960,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1825,
+    "id": 8875,
     "level": "medium",
     "country": "🌍",
-    "text": "Identity beyond citizenship: What remains when the State refuses to recognise yo",
+    "text": "How a community-led campaign is helping save Nigeria’s Kam language",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/02/identity-beyond-citizenship-what-remains-when-the-state-refuses-to-recognise-you/",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 8344,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/02/nepals-community-forests-offer-climate-solutions-one-leaf-at-a-time/",
-    "time": "Sun, 02 Aug 2026"
+    "link": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/",
+    "time": "Mon, 03 Aug 2026"
   }
 ]
