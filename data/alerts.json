@@ -1,6 +1,6 @@
 [
   {
-    "id": 1611,
+    "id": 5677,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,61 +9,79 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 9615,
+    "id": 9254,
     "level": "critical",
     "country": "🌍",
-    "text": "Pakistan-administered Kashmir elections and protests – all you need to know",
+    "text": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/3/pakistan-administered-kashmir-elections-and-protests-all-you-need-to-know?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 7351,
+    "id": 6520,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine strikes Russia’s biggest retailer again",
+    "text": "More than 10 killed as Russia and Ukraine trade heavy attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 2970,
+    "id": 3022,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+    "text": "Families search for loved ones after deadly Ceuta crossings",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/families-search-for-loved-ones-after-deadly-ceuta-crossings?traffic_source=rss",
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 27,
+    "id": 3422,
     "level": "critical",
     "country": "🌍",
-    "text": "Wildfires still burning in France and Spain amid fears of more to come",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/8/3/wildfires-still-burning-in-france-and-spain-amid-fears-of-more-to-come?traffic_source=rss",
-    "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 9105,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sécheresse en Serbie : le Danube à un niveau historique, les centrales hydroélec",
+    "text": "🇫🇷 Gironde : le mégafeu révèle la présence d'obus de la Seconde Guerre mondiale",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-s%C3%A9cheresse-en-serbie-le-danube-%C3%A0-un-niveau-historique-les-centrales-hydro%C3%A9lectriques-menac%C3%A9es",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-%F0%9F%87%AB%F0%9F%87%B7-gironde-le-m%C3%A9gafeu-r%C3%A9v%C3%A8le-la-pr%C3%A9sence-d-obus-de-la-seconde-guerre-mondiale",
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 731,
+    "id": 7490,
     "level": "critical",
     "country": "🌍",
-    "text": "Ceuta : Rabat sort de son silence et annonce 11 morts, l'Espagne en dénombre 72",
+    "text": "Grèce : quatrième jour de lutte contre les incendies",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-ceuta-rabat-sort-de-son-silence-et-annonce-11-morts-l-espagne-en-d%C3%A9nombre-72",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-gr%C3%A8ce-quatri%C3%A8me-jour-de-lutte-contre-les-incendies",
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 2291,
+    "id": 9054,
+    "level": "high",
+    "country": "🌍",
+    "text": "Pochettino agrees to new manager contract with US Soccer",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/3/pochettino-agrees-to-new-us-coach-soccer-contract-through-to-2030-world-cup?traffic_source=rss",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 1985,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ceuta : l’afflux de migrants ravive les tensions autour de Schengen",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-ceuta-l-afflux-de-migrants-ravive-les-tensions-autour-de-schengen",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 1959,
+    "level": "high",
+    "country": "🌍",
+    "text": "Cuba, sous blocus américain, frappée par une panne de courant généralisée",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-cuba-sous-blocus-am%C3%A9ricain-frapp%C3%A9e-par-une-panne-de-courant-g%C3%A9n%C3%A9ralis%C3%A9e",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 7169,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 89,
+    "id": 4063,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3320,
+    "id": 3464,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3432,
+    "id": 6880,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4954,
+    "id": 4311,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6579,
+    "id": 9357,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9080,
+    "id": 2056,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4374,
+    "id": 3226,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 375,
+    "id": 6525,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6358,
+    "id": 5070,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1320,
+    "id": 5052,
     "level": "medium",
     "country": "🌍",
     "text": "How a community-led campaign is helping save Nigeria’s Kam language",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/",
     "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 4794,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Identity beyond citizenship: What remains when the state refuses to recognise yo",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/02/identity-beyond-citizenship-what-remains-when-the-state-refuses-to-recognise-you/",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 746,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/02/nepals-community-forests-offer-climate-solutions-one-leaf-at-a-time/",
-    "time": "Sun, 02 Aug 2026"
   }
 ]
