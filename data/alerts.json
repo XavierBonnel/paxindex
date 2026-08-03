@@ -1,6 +1,6 @@
 [
   {
-    "id": 1771,
+    "id": 1043,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,25 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 5620,
+    "id": 4502,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says new round of Iran talks will begin Monday",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 5247,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Sudan army drone attack on Darfur kills 35, rights group says",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 5730,
     "level": "critical",
     "country": "🌍",
     "text": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
@@ -18,7 +36,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 1971,
+    "id": 7611,
     "level": "critical",
     "country": "🌍",
     "text": "Israelis attack Armenian monastery in Jerusalem’s Old City",
@@ -27,25 +45,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 3403,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 7786,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 9168,
+    "id": 416,
     "level": "critical",
     "country": "🌍",
     "text": "Au moins 72 migrants sont morts en tentant de rejoindre Ceuta, selon Madrid",
@@ -54,7 +54,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 1979,
+    "id": 9338,
     "level": "critical",
     "country": "🌍",
     "text": "Trump suspend les frappes contre l'Iran sous condition d'un accord rapide",
@@ -63,7 +63,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 9397,
+    "id": 2843,
     "level": "critical",
     "country": "🌍",
     "text": "En Grèce, deux morts et une lutte contre les incendies \"extrêmement difficile\"",
@@ -72,7 +72,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 9651,
+    "id": 8507,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2757,
+    "id": 6822,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6251,
+    "id": 2075,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8904,
+    "id": 3203,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7115,
+    "id": 9226,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5263,
+    "id": 5145,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4276,
+    "id": 480,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8047,
+    "id": 5963,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7131,
+    "id": 313,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5404,
+    "id": 3628,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4165,
+    "id": 1553,
     "level": "medium",
     "country": "🌍",
     "text": "Identity beyond citizenship: What remains when the State refuses to recognise yo",
@@ -171,7 +171,7 @@
     "time": "Sun, 02 Aug 2026"
   },
   {
-    "id": 7705,
+    "id": 1497,
     "level": "medium",
     "country": "🌍",
     "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
