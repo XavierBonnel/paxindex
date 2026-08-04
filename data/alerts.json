@@ -1,6 +1,6 @@
 [
   {
-    "id": 9157,
+    "id": 4727,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,34 +9,61 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 4907,
+    "id": 6798,
     "level": "critical",
     "country": "🌍",
-    "text": "Survivors reach port after deadly Indonesia ferry fire",
+    "text": "US stocks near record high, oil falls as Trump claims Iran talks underway",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 3529,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Does the US blockade on Cuba make America safer?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 2080,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 4013,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 2493,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Death toll from Venezuela earthquakes passes 6,000",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 2163,
+    "id": 3479,
     "level": "critical",
     "country": "🌍",
-    "text": "Clergy members arrested while protesting at Senate office",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
-    "time": "Mon, 03 Aug 2026"
+    "text": "En direct : un \"projectile inconnu\" frappe un cargo dans le détroit d'Ormuz",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260804-en-direct-moyen-orient-iran-detroit-d-ormuz-donald-trump-etats-unis-negociations",
+    "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 5873,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
-    "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 793,
+    "id": 2551,
     "level": "critical",
     "country": "🌍",
     "text": "Entre incendies et sécheresse, l'été caniculaire continue de sévir en Europe",
@@ -45,7 +72,16 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 3924,
+    "id": 3964,
+    "level": "high",
+    "country": "🌍",
+    "text": "Two workers who died in quake-hit Japan mall were sent in to get cash",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
+    "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 9372,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4034,
+    "id": 7622,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 346,
+    "id": 3382,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7300,
+    "id": 5823,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6284,
+    "id": 7981,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4198,
+    "id": 2064,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7720,
+    "id": 8616,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9015,
+    "id": 9296,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7417,
+    "id": 7171,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 588,
+    "id": 2922,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,48 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2844,
+    "id": 2337,
     "level": "medium",
     "country": "🌍",
     "text": "How a community-led campaign is helping save Nigeria’s Kam language",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/",
     "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 732,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Identity beyond citizenship: What remains when the state refuses to recognise yo",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/02/identity-beyond-citizenship-what-remains-when-the-state-refuses-to-recognise-you/",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 9245,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/02/nepals-community-forests-offer-climate-solutions-one-leaf-at-a-time/",
-    "time": "Sun, 02 Aug 2026"
-  },
-  {
-    "id": 9495,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Citizenship in limbo: Why Assam’s Citizenship Amendment Act (CAA) Pathway strugg",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/01/citizenship-in-limbo-why-assams-citizenship-amendment-act-caa-pathway-struggled-to-gain-traction/",
-    "time": "Sat, 01 Aug 2026"
-  },
-  {
-    "id": 6870,
-    "level": "medium",
-    "country": "🌍",
-    "text": "A Myanmar artist navigating statelessness and activism in France",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/07/31/a-myanmar-artist-navigating-statelessness-and-activism-in-france/",
-    "time": "Fri, 31 Jul 2026"
   }
 ]
