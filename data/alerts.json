@@ -1,6 +1,6 @@
 [
   {
-    "id": 712,
+    "id": 5800,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,25 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 7768,
+    "id": 3195,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Cars burn in reported settler attack in occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/cars-burn-in-reported-settler-attack-in-occupied-west-bank?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 9544,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 1459,
     "level": "critical",
     "country": "🌍",
     "text": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
@@ -18,34 +36,16 @@
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 6394,
+    "id": 4321,
     "level": "critical",
     "country": "🌍",
-    "text": "US stocks near record high, oil falls as Trump claims Iran talks under way",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+    "text": "Comment Israël a réduit en poussière une synagogue de Téhéran (1/2)",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260804-t%C3%A9h%C3%A9ran-guerre-isra%C3%ABl-d%C3%A9truit-synagogue-iran-juifs-antis%C3%A9mitisme-bombe-torah",
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 3642,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Does the US blockade on Cuba make America safer?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss",
-    "time": "Tue, 04 Aug 2026"
-  },
-  {
-    "id": 176,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
-    "time": "Tue, 04 Aug 2026"
-  },
-  {
-    "id": 8626,
+    "id": 3524,
     "level": "critical",
     "country": "🌍",
     "text": "Russie : au moins cinq morts dans une attaque de drones contre la région de Mosc",
@@ -54,129 +54,129 @@
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 4167,
-    "level": "critical",
+    "id": 6647,
+    "level": "high",
     "country": "🌍",
-    "text": "En direct : un \"projectile inconnu\" frappe un cargo dans le détroit d'Ormuz",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260804-en-direct-moyen-orient-iran-detroit-d-ormuz-donald-trump-etats-unis-negociations",
+    "text": "We demand accountability for the Beirut blast",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 4875,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Entre incendies et sécheresse, l'été caniculaire continue de sévir en Europe",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260803-entre-incendies-et-s%C3%A9cheresse-l-%C3%A9t%C3%A9-caniculaire-continue-de-s%C3%A9vir-en-europe",
-    "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 7086,
+    "id": 669,
     "level": "high",
     "country": "🌍",
-    "text": "Face à la politique de Nétanyahou, la fracture des opinions",
+    "text": "Face à la politique de Netanyahu, la fracture des opinions",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260804-face-%C3%A0-la-politique-de-n%C3%A9tanyahou-la-fracture-des-opinions",
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 4064,
+    "id": 7626,
     "level": "medium",
     "country": "🌍",
-    "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-23T00:01"
+    "text": "​A stateless traveler’s journey through ignorance and misinformation",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/04/a-stateless-travelers-journey-through-ignorance-and-misinformation/",
+    "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 6500,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-08T07:00"
-  },
-  {
-    "id": 9625,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 2527,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 5153,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 7799,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 3395,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 6117,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 6287,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 350,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 3657,
+    "id": 7467,
     "level": "medium",
     "country": "🌍",
     "text": "How a community-led campaign is helping save Nigeria’s Kam language",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/",
     "time": "Mon, 03 Aug 2026"
+  },
+  {
+    "id": 2371,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Identity beyond citizenship: What remains when the state refuses to recognise yo",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/02/identity-beyond-citizenship-what-remains-when-the-state-refuses-to-recognise-you/",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 6065,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nepal’s community forests offer climate solutions, one leaf at a time",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/02/nepals-community-forests-offer-climate-solutions-one-leaf-at-a-time/",
+    "time": "Sun, 02 Aug 2026"
+  },
+  {
+    "id": 6971,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Citizenship in limbo: Why Assam’s Citizenship Amendment Act (CAA) Pathway strugg",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/01/citizenship-in-limbo-why-assams-citizenship-amendment-act-caa-pathway-struggled-to-gain-traction/",
+    "time": "Sat, 01 Aug 2026"
+  },
+  {
+    "id": 6581,
+    "level": "medium",
+    "country": "🌍",
+    "text": "A Myanmar artist navigating statelessness and activism in France",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/31/a-myanmar-artist-navigating-statelessness-and-activism-in-france/",
+    "time": "Fri, 31 Jul 2026"
+  },
+  {
+    "id": 400,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Brazil, court ruling sheds light on the story of an undocumented and stateles",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/31/in-brazil-court-ruling-sheds-light-on-the-story-of-an-undocumented-and-stateless-woman/",
+    "time": "Fri, 31 Jul 2026"
+  },
+  {
+    "id": 4178,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela is burning, and I’m forced to watch from afar",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/31/venezuela-is-burning-and-im-forced-to-watch-from-afar/",
+    "time": "Fri, 31 Jul 2026"
+  },
+  {
+    "id": 1656,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Weaponizing citizenship: Silencing dissent in Nicaragua",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/07/30/weaponizing-citizenship-silencing-dissent-in-nicaragua/",
+    "time": "Thu, 30 Jul 2026"
+  },
+  {
+    "id": 826,
+    "level": "medium",
+    "country": "🌍",
+    "text": "UEFA confirms legal letter served to FIFA after Infantino’s World Cup plan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 6465,
+    "level": "medium",
+    "country": "🌍",
+    "text": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 2070,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Why are the Washington wildfires so severe? Spokane fires explained",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
   }
 ]
