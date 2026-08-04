@@ -1,6 +1,6 @@
 [
   {
-    "id": 4727,
+    "id": 712,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,16 +9,25 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 6798,
+    "id": 7768,
     "level": "critical",
     "country": "🌍",
-    "text": "US stocks near record high, oil falls as Trump claims Iran talks underway",
+    "text": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+    "time": "Tue, 04 Aug 2026"
+  },
+  {
+    "id": 6394,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US stocks near record high, oil falls as Trump claims Iran talks under way",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 3529,
+    "id": 3642,
     "level": "critical",
     "country": "🌍",
     "text": "Does the US blockade on Cuba make America safer?",
@@ -27,7 +36,7 @@
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 2080,
+    "id": 176,
     "level": "critical",
     "country": "🌍",
     "text": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
@@ -36,34 +45,25 @@
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 4013,
+    "id": 8626,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+    "text": "Russie : au moins cinq morts dans une attaque de drones contre la région de Mosc",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260804-russie-au-moins-cinq-morts-attaque-drones-r%C3%A9gion-moscou-guerre-ukraine",
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 2493,
+    "id": 4167,
     "level": "critical",
     "country": "🌍",
-    "text": "Death toll from Venezuela earthquakes passes 6,000",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
-    "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 3479,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : un \"projectile inconnu\" frappe un cargo dans le détroit d'Ormuz",
+    "text": "En direct : un \"projectile inconnu\" frappe un cargo dans le détroit d'Ormuz",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260804-en-direct-moyen-orient-iran-detroit-d-ormuz-donald-trump-etats-unis-negociations",
     "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 2551,
+    "id": 4875,
     "level": "critical",
     "country": "🌍",
     "text": "Entre incendies et sécheresse, l'été caniculaire continue de sévir en Europe",
@@ -72,16 +72,16 @@
     "time": "Mon, 03 Aug 2026"
   },
   {
-    "id": 3964,
+    "id": 7086,
     "level": "high",
     "country": "🌍",
-    "text": "Two workers who died in quake-hit Japan mall were sent in to get cash",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
-    "time": "Mon, 03 Aug 2026"
+    "text": "Face à la politique de Nétanyahou, la fracture des opinions",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260804-face-%C3%A0-la-politique-de-n%C3%A9tanyahou-la-fracture-des-opinions",
+    "time": "Tue, 04 Aug 2026"
   },
   {
-    "id": 9372,
+    "id": 4064,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7622,
+    "id": 6500,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3382,
+    "id": 9625,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5823,
+    "id": 2527,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7981,
+    "id": 5153,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2064,
+    "id": 7799,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8616,
+    "id": 3395,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9296,
+    "id": 6117,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7171,
+    "id": 6287,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2922,
+    "id": 350,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2337,
+    "id": 3657,
     "level": "medium",
     "country": "🌍",
     "text": "How a community-led campaign is helping save Nigeria’s Kam language",
