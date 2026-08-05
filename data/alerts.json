@@ -1,6 +1,6 @@
 [
   {
-    "id": 3243,
+    "id": 7186,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,7 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 6307,
+    "id": 6895,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
@@ -18,7 +18,7 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 3776,
+    "id": 6056,
     "level": "critical",
     "country": "🌍",
     "text": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
@@ -27,16 +27,16 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 6632,
+    "id": 7090,
     "level": "critical",
     "country": "🌍",
-    "text": "US authorities report deadly mass shooting in Prospect Hill, North Carolina",
+    "text": "US authorities say 3 killed in shooting in Prospect Hill, North Carolina",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 6049,
+    "id": 3116,
     "level": "critical",
     "country": "🌍",
     "text": "Is the conflict between Russia and Ukraine deepening?",
@@ -45,34 +45,16 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 3161,
+    "id": 6894,
     "level": "critical",
     "country": "🌍",
-    "text": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 4096,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia kills 17 in ballistic missile attacks around Kyiv",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 5629,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Des frappes israéliennes dans le sud du Liban font un mort et plusieurs blessés",
+    "text": "Soudan : des combattants des FSR désertent au profit de l'armée",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260805-sud-liban-frappes-isra%C3%A9liennes-meurtri%C3%A8res-n%C3%A9gociations-rome",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-soudan-des-combattants-des-fsr-d%C3%A9sertent-au-profit-de-l-arm%C3%A9e",
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 9778,
+    "id": 1110,
     "level": "high",
     "country": "🌍",
     "text": "En Malaisie, la montée des discours de haine menace les réfugiés rohingyas",
@@ -81,7 +63,7 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 6485,
+    "id": 5123,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6102,
+    "id": 1878,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3468,
+    "id": 4423,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9463,
+    "id": 5932,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4300,
+    "id": 3283,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1835,
+    "id": 3208,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2365,
+    "id": 6162,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6795,
+    "id": 943,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6759,
+    "id": 8165,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8692,
+    "id": 5520,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +153,30 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3498,
+    "id": 7601,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous stories are global stories",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
     "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 8420,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
+    "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 3791,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Courts and unions fail to protect workers in Kazakhstan",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/",
+    "time": "Tue, 04 Aug 2026"
   }
 ]
