@@ -1,6 +1,6 @@
 [
   {
-    "id": 7186,
+    "id": 1052,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,43 +9,34 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 6895,
+    "id": 7152,
     "level": "critical",
     "country": "🌍",
-    "text": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
+    "text": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 6056,
+    "id": 5170,
     "level": "critical",
     "country": "🌍",
-    "text": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+    "text": "US officials push back on reports of dangerously low munitions supplies",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 7090,
+    "id": 8236,
     "level": "critical",
     "country": "🌍",
-    "text": "US authorities say 3 killed in shooting in Prospect Hill, North Carolina",
+    "text": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 3116,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Is the conflict between Russia and Ukraine deepening?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 6894,
+    "id": 2608,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : des combattants des FSR désertent au profit de l'armée",
@@ -54,7 +45,16 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 1110,
+    "id": 4753,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israeli forces raid camp in occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
+    "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 2462,
     "level": "high",
     "country": "🌍",
     "text": "En Malaisie, la montée des discours de haine menace les réfugiés rohingyas",
@@ -63,7 +63,7 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 5123,
+    "id": 4012,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1878,
+    "id": 4498,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4423,
+    "id": 6455,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5932,
+    "id": 7326,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3283,
+    "id": 4465,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3208,
+    "id": 2611,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6162,
+    "id": 3197,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 943,
+    "id": 4540,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8165,
+    "id": 989,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5520,
+    "id": 3623,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7601,
+    "id": 6606,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous stories are global stories",
@@ -162,7 +162,7 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 8420,
+    "id": 5175,
     "level": "medium",
     "country": "🌍",
     "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
@@ -171,7 +171,7 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 3791,
+    "id": 9618,
     "level": "medium",
     "country": "🌍",
     "text": "Courts and unions fail to protect workers in Kazakhstan",
