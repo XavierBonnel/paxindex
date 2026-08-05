@@ -1,6 +1,6 @@
 [
   {
-    "id": 6599,
+    "id": 3243,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,43 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 4930,
+    "id": 6307,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
+    "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 3776,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+    "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 6632,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US authorities report deadly mass shooting in Prospect Hill, North Carolina",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+    "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 6049,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Is the conflict between Russia and Ukraine deepening?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+    "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 3161,
     "level": "critical",
     "country": "🌍",
     "text": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
@@ -18,7 +54,7 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 7600,
+    "id": 4096,
     "level": "critical",
     "country": "🌍",
     "text": "Russia kills 17 in ballistic missile attacks around Kyiv",
@@ -27,25 +63,7 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 943,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 7490,
-    "level": "critical",
-    "country": "🌍",
-    "text": "War on Iran: US-Iran deal edges closer",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 3173,
+    "id": 5629,
     "level": "critical",
     "country": "🌍",
     "text": "Des frappes israéliennes dans le sud du Liban font un mort et plusieurs blessés",
@@ -54,16 +72,16 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 2322,
+    "id": 9778,
     "level": "high",
     "country": "🌍",
-    "text": "Arab officials call for action over Jerusalem tensions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
+    "text": "En Malaisie, la montée des discours de haine menace les réfugiés rohingyas",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260805-malaisie-mont%C3%A9e-discours-haine-menace-r%C3%A9fugi%C3%A9s-rohingyas",
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 2790,
+    "id": 6485,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2536,
+    "id": 6102,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2277,
+    "id": 3468,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2900,
+    "id": 9463,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4553,
+    "id": 4300,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7243,
+    "id": 1835,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 287,
+    "id": 2365,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9492,
+    "id": 6795,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8398,
+    "id": 6759,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7773,
+    "id": 8692,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3931,
+    "id": 3498,
     "level": "medium",
     "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
+    "text": "Indigenous stories are global stories",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
+    "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
     "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 7306,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Courts and unions fail to protect workers in Kazakhstan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/",
-    "time": "Tue, 04 Aug 2026"
-  },
-  {
-    "id": 7482,
-    "level": "medium",
-    "country": "🌍",
-    "text": "​A stateless traveler’s journey through ignorance and misinformation",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/a-stateless-travelers-journey-through-ignorance-and-misinformation/",
-    "time": "Tue, 04 Aug 2026"
   }
 ]
