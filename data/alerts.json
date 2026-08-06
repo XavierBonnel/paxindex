@@ -1,6 +1,6 @@
 [
   {
-    "id": 3400,
+    "id": 1286,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,52 +9,43 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 2207,
+    "id": 3046,
     "level": "critical",
     "country": "🌍",
-    "text": "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
+    "text": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss",
+    "link": "https://www.aljazeera.com/gallery/2026/8/6/sudan-war-threatens-ancient-meroe-pyramids-a-unesco-heritage-site?traffic_source=rss",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 9991,
+    "id": 562,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
+    "text": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 1106,
+    "id": 9058,
     "level": "critical",
     "country": "🌍",
-    "text": "Could the Iran war derail Donald Trump’s legacy?",
+    "text": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 3608,
+    "id": 9096,
     "level": "critical",
     "country": "🌍",
-    "text": "Lightning strike kills Thai footballer during match",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
+    "text": "Guerre en Ukraine : frappes russes sur les régions de Kharkiv et Soumy",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-guerre-en-ukraine-frappes-russes-sur-les-r%C3%A9gions-de-kharkiv-et-soumy",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 7974,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 7308,
+    "id": 2638,
     "level": "critical",
     "country": "🌍",
     "text": "En Ukraine, les régions de Kharkiv et Soumy visées par des frappes russes meurtr",
@@ -63,34 +54,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 3352,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au Nigeria, plus de 300 victimes d'enlèvement ont été libérées",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260805-afrique-nigeria-liberation-308-victimes-enlevement-boko-haram-jnim",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 694,
-    "level": "high",
-    "country": "🌍",
-    "text": "US military families face deportation after immigration protection ends",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 3624,
-    "level": "high",
-    "country": "🌍",
-    "text": "Moyen-Orient en direct : un pétrolier signale des explosions dans le détroit d'O",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260806-en-direct-moyen-orient-iran-detroit-d-ormuz-petrolier-explosions-accord-oman-etats-unis",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 887,
+    "id": 8555,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8305,
+    "id": 4165,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1678,
+    "id": 4425,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3072,
+    "id": 2194,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3451,
+    "id": 6041,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2177,
+    "id": 1595,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7492,
+    "id": 8939,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4427,
+    "id": 7279,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9259,
+    "id": 2237,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +135,48 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9848,
+    "id": 554,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 8672,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When Chinese parents outsource control over their adult children",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 7165,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indigenous stories are global stories",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
+    "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 2952,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
+    "time": "Wed, 05 Aug 2026"
+  },
+  {
+    "id": 3784,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Courts and unions fail to protect workers in Kazakhstan",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/",
+    "time": "Tue, 04 Aug 2026"
   }
 ]
