@@ -1,6 +1,6 @@
 [
   {
-    "id": 1052,
+    "id": 439,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,34 +9,61 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 7152,
+    "id": 9392,
     "level": "critical",
     "country": "🌍",
-    "text": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+    "text": "Lightning strike kills Thai footballer during match",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/lightning-strike-kills-thai-footballer-during-match?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 1351,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/6/colombia-minister-warns-of-terrorism-threat-at-presidential-inauguration?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 5746,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mexican influencer shot dead during livestream",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/mexican-influencer-shot-dead-during-livestream-2?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 7821,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 3433,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mexican influencer shot dead during TikTok livestream",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/5/mexican-influencer-shot-dead-during-livestream?traffic_source=rss",
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 5170,
+    "id": 6832,
     "level": "critical",
     "country": "🌍",
-    "text": "US officials push back on reports of dangerously low munitions supplies",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
+    "text": "Au Nigeria, plus de 300 victimes d'enlèvement ont été libérées",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260805-afrique-nigeria-liberation-308-victimes-enlevement-boko-haram-jnim",
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 8236,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 2608,
+    "id": 1572,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : des combattants des FSR désertent au profit de l'armée",
@@ -45,25 +72,16 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 4753,
+    "id": 6133,
     "level": "high",
     "country": "🌍",
-    "text": "Israeli forces raid camp in occupied West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 2462,
-    "level": "high",
-    "country": "🌍",
-    "text": "En Malaisie, la montée des discours de haine menace les réfugiés rohingyas",
+    "text": "Moyen-Orient en direct : un pétrolier signale des explosions dans le détroit d'O",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260805-malaisie-mont%C3%A9e-discours-haine-menace-r%C3%A9fugi%C3%A9s-rohingyas",
-    "time": "Wed, 05 Aug 2026"
+    "link": "https://www.france24.com/fr/moyen-orient/20260806-en-direct-moyen-orient-iran-detroit-d-ormuz-petrolier-explosions-accord-oman-etats-unis",
+    "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 4012,
+    "id": 4906,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4498,
+    "id": 5406,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6455,
+    "id": 1477,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7326,
+    "id": 9481,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4465,
+    "id": 1933,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2611,
+    "id": 9576,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3197,
+    "id": 6648,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4540,
+    "id": 6629,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 989,
+    "id": 4696,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3623,
+    "id": 4918,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6606,
+    "id": 6806,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous stories are global stories",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
     "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 5175,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 9618,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Courts and unions fail to protect workers in Kazakhstan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/",
-    "time": "Tue, 04 Aug 2026"
   }
 ]
