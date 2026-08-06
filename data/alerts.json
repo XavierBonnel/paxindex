@@ -1,6 +1,6 @@
 [
   {
-    "id": 1286,
+    "id": 369,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,7 +9,34 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 3046,
+    "id": 4071,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ebola outbreak accelerates as healthcare workers strike over pay",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/ebola-outbreak-accelerates-as-healthcare-workers-strike-over-pay?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 2101,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/6/who-was-cesar-gastelum-mexican-tiktoker-shot-dead-mid-livestream?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 5327,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/6/uganda-football-star-owori-killed-weeks-after-death-of-rugbys-gongodyo?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 2353,
     "level": "critical",
     "country": "🌍",
     "text": "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
@@ -18,43 +45,43 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 562,
+    "id": 8509,
     "level": "critical",
     "country": "🌍",
-    "text": "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 9058,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 9096,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : frappes russes sur les régions de Kharkiv et Soumy",
+    "text": "Deux soldats israéliens et un Libanais tués au Sud-Liban",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-guerre-en-ukraine-frappes-russes-sur-les-r%C3%A9gions-de-kharkiv-et-soumy",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-deux-soldats-isra%C3%A9liens-et-un-libanais-tu%C3%A9s-au-sud-liban",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 2638,
+    "id": 5001,
     "level": "critical",
     "country": "🌍",
-    "text": "En Ukraine, les régions de Kharkiv et Soumy visées par des frappes russes meurtr",
+    "text": "Exercices militaires : Taïwan répète le scénario d'une invasion chinoise",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260806-en-ukraine-les-r%C3%A9gions-de-kharkiv-et-soumy-vis%C3%A9es-par-des-frappes-russes-meurtri%C3%A8res",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-exercices-militaires-ta%C3%AFwan-r%C3%A9p%C3%A8te-le-sc%C3%A9nario-d-une-invasion-chinoise",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 8555,
+    "id": 1909,
+    "level": "high",
+    "country": "🌍",
+    "text": "L'effondrement de Cuba orchestré par Donald Trump ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-l-effondrement-de-cuba-orchestr%C3%A9-par-donald-trump",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 8876,
+    "level": "high",
+    "country": "🌍",
+    "text": "Jeux vidéo : le \"RAMageddon\" fait flamber le prix des consoles",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260806-jeux-vid%C3%A9o-le-ramageddon-fait-flamber-le-prix-des-consoles",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 580,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4165,
+    "id": 6900,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4425,
+    "id": 9794,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2194,
+    "id": 359,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6041,
+    "id": 5546,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1595,
+    "id": 3668,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8939,
+    "id": 9010,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7279,
+    "id": 7715,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2237,
+    "id": 4198,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 554,
+    "id": 1681,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,39 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8672,
+    "id": 2274,
     "level": "medium",
     "country": "🌍",
     "text": "When Chinese parents outsource control over their adult children",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
     "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 7165,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous stories are global stories",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 2952,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 3784,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Courts and unions fail to protect workers in Kazakhstan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/",
-    "time": "Tue, 04 Aug 2026"
   }
 ]
