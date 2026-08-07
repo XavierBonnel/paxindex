@@ -1,6 +1,15 @@
 [
   {
-    "id": 9348,
+    "id": 9610,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN chief condemns both Ukraine and Russia amid escalation in war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 5149,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
@@ -9,7 +18,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6781,
+    "id": 2008,
     "level": "critical",
     "country": "🌍",
     "text": "Houthi attacks on gov’t forces hint that a major battle in Yemen is brewing",
@@ -18,7 +27,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 323,
+    "id": 1254,
     "level": "critical",
     "country": "🌍",
     "text": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
@@ -27,16 +36,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 9906,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 8108,
+    "id": 2150,
     "level": "critical",
     "country": "🌍",
     "text": "En images : quand les fleuves européens s'assèchent, les vestiges du passé refon",
@@ -45,7 +45,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 5618,
+    "id": 2596,
     "level": "critical",
     "country": "🌍",
     "text": "Thaïlande : un adolescent tue huit personnes dans un lycée près de Bangkok",
@@ -54,16 +54,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7332,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine - Russie : nouvelles frappes de part et d’autre",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260807-ukraine-russie-nouvelles-frappes-de-part-et-d-autre",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 5806,
+    "id": 7309,
     "level": "high",
     "country": "🌍",
     "text": "À Cuba, la survie au quotidien de la population face à la crise énergétique",
@@ -72,7 +63,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 9031,
+    "id": 4427,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2721,
+    "id": 5613,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3638,
+    "id": 1880,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9366,
+    "id": 9994,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 340,
+    "id": 1939,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8197,
+    "id": 3596,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7621,
+    "id": 4723,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8511,
+    "id": 3267,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2300,
+    "id": 888,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6004,
+    "id": 2809,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4250,
+    "id": 6123,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -171,12 +162,21 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 3966,
+    "id": 4034,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 535,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When Chinese parents outsource control over their adult children",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
     "time": "Thu, 06 Aug 2026"
   }
 ]
