@@ -1,6 +1,6 @@
 [
   {
-    "id": 8240,
+    "id": 4409,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,43 +9,88 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 3868,
+    "id": 1480,
     "level": "critical",
     "country": "🌍",
-    "text": "Rights groups call Israel’s killing of journalist Amal Khalil a ‘war crime’",
+    "text": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/rights-groups-call-israels-killing-of-journalist-amal-khalil-a-war-crime?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 1370,
+    "id": 3016,
     "level": "critical",
     "country": "🌍",
-    "text": "Houthi attacks on Yemeni government forces reportedly kills at least 30",
+    "text": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/houthis-claim-to-have-killed-45-in-attacks-on-yemeni-government-forces?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 8891,
+    "id": 5251,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine : évacuation à Kramatorsk, ville à 18km de la ligne de contact avec la R",
+    "text": "Far-right fitness clubs mask extremist recruitment, experts warn",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_nationalism-3-0-nils-adler-060826?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 7342,
+    "level": "critical",
+    "country": "🌍",
+    "text": "WHO chief: Ebola outbreak in DRC spreading at ‘unprecedented rate’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 5878,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au Yémen, au moins 58 morts dans des attaques de rebelles houthis",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260806-ukraine-la-ville-de-kramatorsk-%C3%A9vacu%C3%A9e-est-%C3%A0-18km-de-la-ligne-de-contact-avec-la-russie",
+    "link": "https://www.france24.com/fr/moyen-orient/20260806-y%C3%A9men-au-moins-58-morts-attaques-rebelles-houthis",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 1077,
+    "id": 3202,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Syrie : l'explosion d'une bombe dans un minibus fait deux morts près de Damas",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260806-syrie-l-explosion-d-une-bombe-dans-un-minibus-fait-deux-morts-pr%C3%A8s-de-damas",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 8731,
     "level": "high",
     "country": "🌍",
-    "text": "Why $370bn tech group Palantir pays 1.4 percent tax rate: Report",
+    "text": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/why-370bn-tech-group-palantir-pays-just-1-4-percent-tax-report?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 698,
+    "id": 3747,
+    "level": "high",
+    "country": "🌍",
+    "text": "Au Venezuela, le dialogue entre pouvoir et opposition en vue d'une transition a ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260806-venezuela-debut-dialogue-pouvoir-opposition-transition-dinorah-figuera-jorge-rodriguez",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 3260,
+    "level": "high",
+    "country": "🌍",
+    "text": "Kiev en manque de défense antibalistique : \"Les Européens ne maîtrisent pas ces ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260806-ukraine-manque-d%C3%A9fense-antibalistique-europ%C3%A9ens-ne-ma%C3%AEtrisent-pas-technologies",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 4878,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4458,
+    "id": 3336,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1093,
+    "id": 6605,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 935,
+    "id": 4741,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1899,
+    "id": 8183,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9071,
+    "id": 8926,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8551,
+    "id": 329,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4756,
+    "id": 4550,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9087,
+    "id": 4536,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,57 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9914,
+    "id": 3959,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 7647,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When Chinese parents outsource control over their adult children",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 2418,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous stories are global stories",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 8682,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 3179,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Courts and unions fail to protect workers in Kazakhstan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/",
-    "time": "Tue, 04 Aug 2026"
-  },
-  {
-    "id": 9312,
-    "level": "medium",
-    "country": "🌍",
-    "text": "​A stateless traveler’s journey through ignorance and misinformation",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/a-stateless-travelers-journey-through-ignorance-and-misinformation/",
-    "time": "Tue, 04 Aug 2026"
   }
 ]
