@@ -1,6 +1,6 @@
 [
   {
-    "id": 4409,
+    "id": 7480,
     "level": "critical",
     "country": "🌍",
     "text": "‘Mightily like insurrection’: Revisiting Trinidad’s first Emancipation Day",
@@ -9,43 +9,34 @@
     "time": "Sat, 01 Aug 2026"
   },
   {
-    "id": 1480,
+    "id": 2607,
     "level": "critical",
     "country": "🌍",
-    "text": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
+    "text": "Exclusive report with the 308 people rescued by Nigerian forces",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/exclusive-report-with-the-308-people-rescued-by-nigerian-forces?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 3016,
+    "id": 9235,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
+    "text": "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
+    "link": "https://www.aljazeera.com/news/2026/8/7/brazil-formally-accuses-16-people-over-2024-voepass-deadly-plane-crash?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 5251,
+    "id": 443,
     "level": "critical",
     "country": "🌍",
-    "text": "Far-right fitness clubs mask extremist recruitment, experts warn",
+    "text": "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/aje-onl-nf_nationalism-3-0-nils-adler-060826?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7342,
-    "level": "critical",
-    "country": "🌍",
-    "text": "WHO chief: Ebola outbreak in DRC spreading at ‘unprecedented rate’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 5878,
+    "id": 5115,
     "level": "critical",
     "country": "🌍",
     "text": "Au Yémen, au moins 58 morts dans des attaques de rebelles houthis",
@@ -54,7 +45,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 3202,
+    "id": 6530,
     "level": "critical",
     "country": "🌍",
     "text": "Syrie : l'explosion d'une bombe dans un minibus fait deux morts près de Damas",
@@ -63,16 +54,16 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 8731,
+    "id": 9381,
     "level": "high",
     "country": "🌍",
-    "text": "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+    "text": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/6/us-diplomat-rubio-targets-cuban-military-officials-companies-in-sanctions?traffic_source=rss",
-    "time": "Thu, 06 Aug 2026"
+    "link": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 3747,
+    "id": 4308,
     "level": "high",
     "country": "🌍",
     "text": "Au Venezuela, le dialogue entre pouvoir et opposition en vue d'une transition a ",
@@ -81,7 +72,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 3260,
+    "id": 8090,
     "level": "high",
     "country": "🌍",
     "text": "Kiev en manque de défense antibalistique : \"Les Européens ne maîtrisent pas ces ",
@@ -90,7 +81,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 4878,
+    "id": 7658,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3336,
+    "id": 8436,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6605,
+    "id": 6660,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4741,
+    "id": 3035,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8183,
+    "id": 3093,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8926,
+    "id": 2452,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 329,
+    "id": 1998,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4550,
+    "id": 2848,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4536,
+    "id": 9,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +162,21 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3959,
+    "id": 230,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 2620,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
+    "time": "Thu, 06 Aug 2026"
   }
 ]
