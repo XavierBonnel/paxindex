@@ -1,6 +1,33 @@
 [
   {
-    "id": 2142,
+    "id": 3280,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 8249,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Can diplomacy end the conflict in Libya?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 7585,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 9326,
     "level": "critical",
     "country": "🌍",
     "text": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
@@ -9,16 +36,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 5904,
-    "level": "critical",
-    "country": "🌍",
-    "text": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 4563,
+    "id": 6860,
     "level": "high",
     "country": "🌍",
     "text": "Sénégal : la Banque mondiale accorde un prêt de 340 milliards de FCFA",
@@ -27,7 +45,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6947,
+    "id": 7060,
     "level": "high",
     "country": "🌍",
     "text": "Syrie : l'explosion d'un bus fait 14 blessés à Jaramana, près de Damas",
@@ -36,7 +54,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6126,
+    "id": 5578,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4609,
+    "id": 790,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 962,
+    "id": 3887,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7969,
+    "id": 6283,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1012,
+    "id": 3355,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9742,
+    "id": 4694,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8197,
+    "id": 5683,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 284,
+    "id": 2732,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 991,
+    "id": 6548,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5355,
+    "id": 2043,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3404,
+    "id": 5172,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -135,7 +153,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7709,
+    "id": 3041,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -144,7 +162,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6162,
+    "id": 4165,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
@@ -153,30 +171,12 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 5919,
+    "id": 2294,
     "level": "medium",
     "country": "🌍",
     "text": "When Chinese parents outsource control over their adult children",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
     "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 5766,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous stories are global stories",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 2919,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
-    "time": "Wed, 05 Aug 2026"
   }
 ]
