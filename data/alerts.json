@@ -1,15 +1,33 @@
 [
   {
-    "id": 9215,
+    "id": 5020,
     "level": "critical",
     "country": "🌍",
-    "text": "One killed, four injured in Thailand school shooting, officials say",
+    "text": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 7581,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 7927,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least six killed, 15 wounded in Thailand school shooting, police say",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 1316,
+    "id": 4758,
     "level": "critical",
     "country": "🌍",
     "text": "Exclusive report with the 308 people rescued by Nigerian forces",
@@ -18,7 +36,25 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7076,
+    "id": 6905,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fusillade dans un lycée de Bangkok, au moins neuf morts dont le tireur présumé",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260807-fusillade-dans-un-lyc%C3%A9e-de-bangkok-au-moins-neuf-morts-dont-le-tireur-pr%C3%A9sum%C3%A9-tha%C3%AFlande",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 5251,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"Sauvez mon petit !\" : l'accueil des enfants espagnols en France pendant la guer",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 447,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient en direct : les dirigeants saoudien, turc et pakistanais en sommet ",
@@ -27,7 +63,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6613,
+    "id": 7666,
     "level": "critical",
     "country": "🌍",
     "text": "Au Yémen, au moins 58 morts dans des attaques de rebelles houthis",
@@ -36,16 +72,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 8588,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Syrie : l'explosion d'une bombe dans un minibus fait deux morts près de Damas",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260806-syrie-l-explosion-d-une-bombe-dans-un-minibus-fait-deux-morts-pr%C3%A8s-de-damas",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 3957,
+    "id": 4471,
     "level": "high",
     "country": "🌍",
     "text": "Mexico deploys troops to secure avocado region after US halts imports",
@@ -54,25 +81,16 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 9225,
+    "id": 4441,
     "level": "high",
     "country": "🌍",
-    "text": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 6595,
-    "level": "high",
-    "country": "🌍",
-    "text": "Au Venezuela, pouvoir et opposition entament un dialogue en vue d'une transition",
+    "text": "Venezuela : début des rencontres entre pouvoir et opposition, sans le Nobel de l",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/am%C3%A9riques/20260806-venezuela-debut-dialogue-pouvoir-opposition-transition-dinorah-figuera-jorge-rodriguez",
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 1034,
+    "id": 1120,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2989,
+    "id": 5510,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6720,
+    "id": 9481,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9391,
+    "id": 2079,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8892,
+    "id": 3966,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5262,
+    "id": 8902,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1839,
+    "id": 6571,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6452,
+    "id": 5552,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7530,
+    "id": 2879,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,30 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 346,
+    "id": 8500,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 4774,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What does home mean for people with no single territory connecting them?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/07/what-does-home-mean-for-people-with-no-single-territory-connecting-them/",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 4207,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
-    "time": "Thu, 06 Aug 2026"
   }
 ]
