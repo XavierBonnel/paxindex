@@ -1,6 +1,24 @@
 [
   {
-    "id": 6600,
+    "id": 5055,
+    "level": "critical",
+    "country": "🌍",
+    "text": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 9295,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 1300,
     "level": "critical",
     "country": "🌍",
     "text": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
@@ -9,7 +27,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7328,
+    "id": 6933,
     "level": "critical",
     "country": "🌍",
     "text": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
@@ -18,25 +36,25 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 2158,
-    "level": "critical",
+    "id": 5848,
+    "level": "high",
     "country": "🌍",
-    "text": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/7/russia-hits-record-43000-casualties-in-july-as-its-armies-retreat-ukraine?traffic_source=rss",
+    "text": "Sénégal : la Banque mondiale accorde un prêt de 340 milliards de FCFA",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260807-s%C3%A9n%C3%A9gal-la-banque-mondiale-accorde-un-pr%C3%AAt-de-340-milliards-de-fcfa",
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6843,
-    "level": "critical",
+    "id": 885,
+    "level": "high",
     "country": "🌍",
-    "text": "UN chief condemns both Ukraine and Russia amid escalation in war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
+    "text": "Syrie : l'explosion d'un bus fait 14 blessés à Jaramana, près de Damas",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260807-syrie-l-explosion-d-un-bus-fait-14-bless%C3%A9s-%C3%A0-jaramana-pr%C3%A8s-de-damas",
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 9900,
+    "id": 5654,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4791,
+    "id": 8660,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9284,
+    "id": 719,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7623,
+    "id": 1845,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2180,
+    "id": 9010,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5137,
+    "id": 5290,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 454,
+    "id": 2792,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8113,
+    "id": 6441,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 590,
+    "id": 5444,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4791,
+    "id": 6431,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2402,
+    "id": 7769,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -135,7 +153,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 8523,
+    "id": 1988,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
@@ -144,7 +162,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 8031,
+    "id": 6196,
     "level": "medium",
     "country": "🌍",
     "text": "When Chinese parents outsource control over their adult children",
@@ -153,30 +171,12 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 644,
+    "id": 8430,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous stories are global stories",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
     "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 5826,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 1231,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Courts and unions fail to protect workers in Kazakhstan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/",
-    "time": "Tue, 04 Aug 2026"
   }
 ]
