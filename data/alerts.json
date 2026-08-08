@@ -1,6 +1,15 @@
 [
   {
-    "id": 5593,
+    "id": 4032,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 352,
     "level": "critical",
     "country": "🌍",
     "text": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
@@ -9,7 +18,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 3098,
+    "id": 1297,
     "level": "critical",
     "country": "🌍",
     "text": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
@@ -18,34 +27,16 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 2211,
-    "level": "critical",
+    "id": 7855,
+    "level": "high",
     "country": "🌍",
-    "text": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+    "text": "US Senate passes Russia sanctions that could hurt India and China",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 55,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
-    "time": "Sat, 08 Aug 2026"
-  },
-  {
-    "id": 5486,
-    "level": "critical",
-    "country": "🌍",
-    "text": "ICC body urges Chad and Venezuela to reverse course on withdrawal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 4656,
+    "id": 5200,
     "level": "high",
     "country": "🌍",
     "text": "Sénégal : la Banque mondiale accorde un prêt de 340 milliards de FCFA",
@@ -54,7 +45,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 9392,
+    "id": 3143,
     "level": "high",
     "country": "🌍",
     "text": "Syrie : l'explosion d'un bus fait 14 blessés à Jaramana, près de Damas",
@@ -63,7 +54,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6652,
+    "id": 2353,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7635,
+    "id": 3672,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9548,
+    "id": 4745,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5337,
+    "id": 4384,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7661,
+    "id": 7889,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2892,
+    "id": 4715,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3893,
+    "id": 9745,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4835,
+    "id": 109,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6633,
+    "id": 6289,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1027,
+    "id": 5051,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8897,
+    "id": 1551,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -162,7 +153,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 8188,
+    "id": 8032,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -171,12 +162,21 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 4535,
+    "id": 4699,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 6891,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When Chinese parents outsource control over their adult children",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
     "time": "Thu, 06 Aug 2026"
   }
 ]
