@@ -1,42 +1,51 @@
 [
   {
-    "id": 6033,
+    "id": 5593,
     "level": "critical",
     "country": "🌍",
-    "text": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+    "text": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 3098,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 2211,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 55,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 5486,
+    "level": "critical",
+    "country": "🌍",
+    "text": "ICC body urges Chad and Venezuela to reverse course on withdrawal",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss",
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7784,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Can diplomacy end the conflict in Libya?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 7135,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 4328,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 9342,
+    "id": 4656,
     "level": "high",
     "country": "🌍",
     "text": "Sénégal : la Banque mondiale accorde un prêt de 340 milliards de FCFA",
@@ -45,7 +54,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7349,
+    "id": 9392,
     "level": "high",
     "country": "🌍",
     "text": "Syrie : l'explosion d'un bus fait 14 blessés à Jaramana, près de Damas",
@@ -54,7 +63,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7772,
+    "id": 6652,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 856,
+    "id": 7635,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7575,
+    "id": 9548,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1753,
+    "id": 5337,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6711,
+    "id": 7661,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8132,
+    "id": 2892,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9092,
+    "id": 3893,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6155,
+    "id": 4835,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7021,
+    "id": 6633,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7111,
+    "id": 1027,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 529,
+    "id": 8897,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -153,7 +162,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6348,
+    "id": 8188,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -162,21 +171,12 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 90,
+    "id": 4535,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 8404,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When Chinese parents outsource control over their adult children",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
     "time": "Thu, 06 Aug 2026"
   }
 ]
