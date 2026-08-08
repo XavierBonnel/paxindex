@@ -1,6 +1,15 @@
 [
   {
-    "id": 3622,
+    "id": 9624,
+    "level": "critical",
+    "country": "🌍",
+    "text": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 2192,
     "level": "critical",
     "country": "🌍",
     "text": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
@@ -9,7 +18,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 2844,
+    "id": 8750,
     "level": "critical",
     "country": "🌍",
     "text": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
@@ -18,16 +27,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 7371,
-    "level": "critical",
-    "country": "🌍",
-    "text": "War on Iran: Phase II: Day 28",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
-    "time": "Sat, 08 Aug 2026"
-  },
-  {
-    "id": 4555,
+    "id": 8805,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes meurtrières à Kiev : au moins 4 morts et 7 blessés",
@@ -36,7 +36,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 8169,
+    "id": 8800,
     "level": "critical",
     "country": "🌍",
     "text": "Nigeria : les forces armées ont secouru 308 victimes d'enlèvements",
@@ -45,7 +45,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 7049,
+    "id": 989,
     "level": "high",
     "country": "🌍",
     "text": "Incursion israélienne dans un village du Liban malgré le déploiement de l'armée ",
@@ -54,7 +54,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 3774,
+    "id": 9122,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5687,
+    "id": 8611,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6121,
+    "id": 2526,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5743,
+    "id": 1101,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4826,
+    "id": 6313,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7047,
+    "id": 3571,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6302,
+    "id": 966,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1867,
+    "id": 3437,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7292,
+    "id": 5723,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3734,
+    "id": 4828,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5132,
+    "id": 3523,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -153,7 +153,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 2714,
+    "id": 8734,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -162,7 +162,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 4956,
+    "id": 4182,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
@@ -171,7 +171,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 2495,
+    "id": 7600,
     "level": "medium",
     "country": "🌍",
     "text": "When Chinese parents outsource control over their adult children",
