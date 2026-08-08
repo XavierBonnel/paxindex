@@ -1,6 +1,15 @@
 [
   {
-    "id": 3619,
+    "id": 3302,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 1168,
     "level": "critical",
     "country": "🌍",
     "text": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
@@ -9,16 +18,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 6240,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-    "time": "Sat, 08 Aug 2026"
-  },
-  {
-    "id": 6425,
+    "id": 8820,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes meurtrières à Kiev : au moins 4 morts et 7 blessés",
@@ -27,7 +27,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 5526,
+    "id": 3423,
     "level": "critical",
     "country": "🌍",
     "text": "Nigeria : les forces armées ont secouru 308 victimes d'enlèvements",
@@ -36,7 +36,16 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 3812,
+    "id": 3452,
+    "level": "high",
+    "country": "🌍",
+    "text": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 6867,
     "level": "high",
     "country": "🌍",
     "text": "Incursion israélienne dans un village du Liban malgré le déploiement de l'armée ",
@@ -45,7 +54,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 9084,
+    "id": 9740,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2360,
+    "id": 6057,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9516,
+    "id": 8482,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5024,
+    "id": 6505,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3595,
+    "id": 2965,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1931,
+    "id": 43,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7771,
+    "id": 9411,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1396,
+    "id": 3600,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4839,
+    "id": 9823,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2024,
+    "id": 1439,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4742,
+    "id": 1866,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -144,7 +153,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 2640,
+    "id": 7377,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -153,7 +162,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 9978,
+    "id": 7223,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
@@ -162,21 +171,12 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 1146,
+    "id": 5224,
     "level": "medium",
     "country": "🌍",
     "text": "When Chinese parents outsource control over their adult children",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
     "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 6107,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous stories are global stories",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
-    "time": "Wed, 05 Aug 2026"
   }
 ]
