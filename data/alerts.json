@@ -1,6 +1,6 @@
 [
   {
-    "id": 305,
+    "id": 8080,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,7 +9,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 853,
+    "id": 2595,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
+    "time": "Sun, 09 Aug 2026"
+  },
+  {
+    "id": 762,
     "level": "critical",
     "country": "🌍",
     "text": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
@@ -18,25 +27,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 452,
+    "id": 9413,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel announces tender for 627 settler units in occupied West Bank",
+    "text": "Israel advances plan for 627 settler units in occupied West Bank",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 2822,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Japon : 81 ans après Hiroshima, la question de la dissuasion nucléaire de nouvea",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260809-japon-81-ans-apr%C3%A8s-hiroshima-la-question-de-la-dissuasion-nucl%C3%A9aire-de-nouveau-sur-la-table",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 1287,
+    "id": 6058,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +45,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9426,
+    "id": 5940,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +54,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 703,
+    "id": 1693,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +63,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3412,
+    "id": 1491,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +72,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9276,
+    "id": 5838,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +81,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5686,
+    "id": 1374,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +90,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 673,
+    "id": 7280,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +99,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1616,
+    "id": 2521,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +108,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7662,
+    "id": 297,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +117,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3005,
+    "id": 2672,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +126,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5138,
+    "id": 9498,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -135,7 +135,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 6811,
+    "id": 2606,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -144,7 +144,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 3874,
+    "id": 7120,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
@@ -153,7 +153,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 3311,
+    "id": 5408,
     "level": "medium",
     "country": "🌍",
     "text": "When Chinese parents outsource control over their adult children",
@@ -162,7 +162,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 7153,
+    "id": 3054,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous stories are global stories",
@@ -171,7 +171,7 @@
     "time": "Wed, 05 Aug 2026"
   },
   {
-    "id": 3888,
+    "id": 666,
     "level": "medium",
     "country": "🌍",
     "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
