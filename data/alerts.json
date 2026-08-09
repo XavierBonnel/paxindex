@@ -1,6 +1,6 @@
 [
   {
-    "id": 8080,
+    "id": 8495,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,7 +9,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 2595,
+    "id": 7732,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss",
+    "time": "Sun, 09 Aug 2026"
+  },
+  {
+    "id": 3834,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemeni army warns Houthis after attacks heighten escalation risk",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+    "time": "Sun, 09 Aug 2026"
+  },
+  {
+    "id": 7558,
     "level": "critical",
     "country": "🌍",
     "text": "Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?",
@@ -18,25 +36,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 762,
-    "level": "critical",
+    "id": 5428,
+    "level": "high",
     "country": "🌍",
-    "text": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+    "text": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 9413,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel advances plan for 627 settler units in occupied West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 6058,
+    "id": 9928,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5940,
+    "id": 2956,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1693,
+    "id": 5088,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1491,
+    "id": 2104,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5838,
+    "id": 7027,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1374,
+    "id": 1941,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7280,
+    "id": 7875,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2521,
+    "id": 3866,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 297,
+    "id": 935,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2672,
+    "id": 4106,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9498,
+    "id": 7044,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -135,7 +144,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 2606,
+    "id": 8290,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -144,7 +153,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7120,
+    "id": 4476,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
@@ -153,7 +162,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 5408,
+    "id": 4619,
     "level": "medium",
     "country": "🌍",
     "text": "When Chinese parents outsource control over their adult children",
@@ -162,21 +171,12 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 3054,
+    "id": 805,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous stories are global stories",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 666,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
     "time": "Wed, 05 Aug 2026"
   }
 ]
