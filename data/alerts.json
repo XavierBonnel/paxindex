@@ -1,6 +1,6 @@
 [
   {
-    "id": 3076,
+    "id": 6589,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,7 +9,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 9989,
+    "id": 3230,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+    "time": "Sun, 09 Aug 2026"
+  },
+  {
+    "id": 1726,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel announces tender for 627 settler units in occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss",
+    "time": "Sun, 09 Aug 2026"
+  },
+  {
+    "id": 8688,
     "level": "critical",
     "country": "🌍",
     "text": "Car bomb hits Colombia highway day after new president sworn in",
@@ -18,7 +36,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 6150,
+    "id": 7128,
     "level": "critical",
     "country": "🌍",
     "text": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
@@ -27,16 +45,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 3753,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli settler attacks rise as West Bank residents lose land",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 5920,
+    "id": 2578,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes meurtrières à Kiev : au moins 4 morts et 7 blessés",
@@ -45,25 +54,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 5529,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nigeria : les forces armées ont secouru 308 victimes d'enlèvements",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260808-nigeria-les-forces-arm%C3%A9es-ont-secouru-308-victimes-d-enl%C3%A8vements",
-    "time": "Sat, 08 Aug 2026"
-  },
-  {
-    "id": 5619,
-    "level": "high",
-    "country": "🌍",
-    "text": "Incursion israélienne dans un village du Liban malgré le déploiement de l'armée ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260808-incursion-de-l-arm%C3%A9e-isra%C3%A9lienne-dans-un-village-du-liban-malgr%C3%A9-le-d%C3%A9ploiement-de-l-arm%C3%A9e-libanaise",
-    "time": "Sat, 08 Aug 2026"
-  },
-  {
-    "id": 6656,
+    "id": 7873,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2219,
+    "id": 9477,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9311,
+    "id": 3004,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1338,
+    "id": 6077,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2251,
+    "id": 5460,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2177,
+    "id": 5894,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8615,
+    "id": 1571,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4043,
+    "id": 7596,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2383,
+    "id": 3867,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3844,
+    "id": 4725,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5910,
+    "id": 602,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -162,7 +153,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 7979,
+    "id": 8777,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -171,12 +162,21 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 5709,
+    "id": 2794,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
+    "time": "Thu, 06 Aug 2026"
+  },
+  {
+    "id": 4580,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When Chinese parents outsource control over their adult children",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
     "time": "Thu, 06 Aug 2026"
   }
 ]
