@@ -1,6 +1,6 @@
 [
   {
-    "id": 5747,
+    "id": 3076,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,7 +9,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 3178,
+    "id": 9989,
     "level": "critical",
     "country": "🌍",
     "text": "Car bomb hits Colombia highway day after new president sworn in",
@@ -18,7 +18,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 9591,
+    "id": 6150,
     "level": "critical",
     "country": "🌍",
     "text": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
@@ -27,7 +27,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 2994,
+    "id": 3753,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli settler attacks rise as West Bank residents lose land",
@@ -36,16 +36,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 4950,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 1537,
+    "id": 5920,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes meurtrières à Kiev : au moins 4 morts et 7 blessés",
@@ -54,7 +45,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 3868,
+    "id": 5529,
     "level": "critical",
     "country": "🌍",
     "text": "Nigeria : les forces armées ont secouru 308 victimes d'enlèvements",
@@ -63,7 +54,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 5261,
+    "id": 5619,
     "level": "high",
     "country": "🌍",
     "text": "Incursion israélienne dans un village du Liban malgré le déploiement de l'armée ",
@@ -72,7 +63,97 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 7644,
+    "id": 6656,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-23T00:01"
+  },
+  {
+    "id": 2219,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-08T07:00"
+  },
+  {
+    "id": 9311,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 1338,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 2251,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 2177,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 8615,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 4043,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 2383,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 3844,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 5910,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -81,7 +162,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 3851,
+    "id": 7979,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -90,93 +171,12 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 1966,
+    "id": 5709,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
     "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 4218,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When Chinese parents outsource control over their adult children",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 9686,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous stories are global stories",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 3473,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 4918,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Courts and unions fail to protect workers in Kazakhstan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/courts-and-unions-fail-to-protect-workers-in-kazakhstan/",
-    "time": "Tue, 04 Aug 2026"
-  },
-  {
-    "id": 3525,
-    "level": "medium",
-    "country": "🌍",
-    "text": "​A stateless traveler’s journey through ignorance and misinformation",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/04/a-stateless-travelers-journey-through-ignorance-and-misinformation/",
-    "time": "Tue, 04 Aug 2026"
-  },
-  {
-    "id": 6484,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How a community-led campaign is helping save Nigeria’s Kam language",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/03/how-a-community-led-campaign-is-helping-save-nigerias-kam-language/",
-    "time": "Mon, 03 Aug 2026"
-  },
-  {
-    "id": 4639,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Lionel Messi returns to Argentina after father Jorge’s death",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 8454,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Iran issues new demands as Pezeshkian seeks deal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 9172,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
   }
 ]
