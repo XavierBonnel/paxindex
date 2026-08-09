@@ -1,6 +1,33 @@
 [
   {
-    "id": 2274,
+    "id": 4971,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli settler attacks rise as West Bank residents lose land",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+    "time": "Sun, 09 Aug 2026"
+  },
+  {
+    "id": 2704,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+    "time": "Sun, 09 Aug 2026"
+  },
+  {
+    "id": 7455,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
+    "time": "Sat, 08 Aug 2026"
+  },
+  {
+    "id": 7576,
     "level": "critical",
     "country": "🌍",
     "text": "Car bomb attack rattles Colombia after inauguration of hardline president",
@@ -9,16 +36,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 3969,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-    "time": "Sat, 08 Aug 2026"
-  },
-  {
-    "id": 8088,
+    "id": 3,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes meurtrières à Kiev : au moins 4 morts et 7 blessés",
@@ -27,7 +45,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 407,
+    "id": 3124,
     "level": "critical",
     "country": "🌍",
     "text": "Nigeria : les forces armées ont secouru 308 victimes d'enlèvements",
@@ -36,16 +54,16 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 9849,
+    "id": 3747,
     "level": "high",
     "country": "🌍",
-    "text": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+    "text": "Vance says US ‘destroyed’ Iran’s nuclear programme",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 4053,
+    "id": 8403,
     "level": "high",
     "country": "🌍",
     "text": "Incursion israélienne dans un village du Liban malgré le déploiement de l'armée ",
@@ -54,7 +72,7 @@
     "time": "Sat, 08 Aug 2026"
   },
   {
-    "id": 4484,
+    "id": 8788,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9981,
+    "id": 7579,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8605,
+    "id": 8979,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4250,
+    "id": 2385,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4461,
+    "id": 5603,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7616,
+    "id": 1029,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1914,
+    "id": 9608,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9567,
+    "id": 1406,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6506,
+    "id": 3048,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9290,
+    "id": 6020,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4617,
+    "id": 6077,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -153,30 +171,12 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 5928,
+    "id": 3758,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/07/what-does-home-mean-for-people-with-no-single-territory-connecting-them/",
     "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 554,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 5733,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When Chinese parents outsource control over their adult children",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
-    "time": "Thu, 06 Aug 2026"
   }
 ]
