@@ -1,6 +1,6 @@
 [
   {
-    "id": 1338,
+    "id": 9464,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,7 +9,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 2347,
+    "id": 6398,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
+    "time": "Sun, 09 Aug 2026"
+  },
+  {
+    "id": 9605,
     "level": "critical",
     "country": "🌍",
     "text": "Can the Doha Framework end the conflict in eastern DRC?",
@@ -18,16 +27,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 6279,
-    "level": "critical",
+    "id": 3955,
+    "level": "high",
     "country": "🌍",
-    "text": "Incendies dans le monde, fusillade en Thaïlande, guerre au Moyen-Orient : la sem",
+    "text": "Le Premier ministre israélien \"rejette\" le plan américain pour Gaza, accepté par",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260809-incendies-dans-le-monde-fusillade-en-tha%C3%AFlande-guerre-au-moyen-orient-la-semaine-en-images",
+    "link": "https://www.france24.com/fr/moyen-orient/20260809-premier-ministre-israelien-rejette-plan-americain-pour-gaza-accepte-par-hamas-donald-trump-benjamin-netanyahu",
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 1015,
+    "id": 8426,
     "level": "high",
     "country": "🌍",
     "text": "Selon Volodymyr Zelensky, jusqu'à 50 000 soldats nord-coréens ont été déployés e",
@@ -36,7 +45,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 4649,
+    "id": 7667,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7383,
+    "id": 5141,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9125,
+    "id": 3937,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3897,
+    "id": 5873,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4403,
+    "id": 1039,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9515,
+    "id": 2812,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8620,
+    "id": 4852,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7941,
+    "id": 9921,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +117,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7369,
+    "id": 8122,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +126,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8782,
+    "id": 3181,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +135,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3858,
+    "id": 9354,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -135,7 +144,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 9672,
+    "id": 3667,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -144,7 +153,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 9219,
+    "id": 7309,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
@@ -153,7 +162,7 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 7079,
+    "id": 3138,
     "level": "medium",
     "country": "🌍",
     "text": "When Chinese parents outsource control over their adult children",
@@ -162,21 +171,12 @@
     "time": "Thu, 06 Aug 2026"
   },
   {
-    "id": 9899,
+    "id": 770,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous stories are global stories",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
-    "time": "Wed, 05 Aug 2026"
-  },
-  {
-    "id": 6678,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The anatomy of erasure: Indigenous Assyrian women and forgotten genocide",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/the-anatomy-of-erasure-indigenous-assyrian-women-and-forgotten-genocide/",
     "time": "Wed, 05 Aug 2026"
   }
 ]
