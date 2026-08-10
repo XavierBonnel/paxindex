@@ -1,6 +1,6 @@
 [
   {
-    "id": 1205,
+    "id": 5901,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,34 +9,52 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 9540,
+    "id": 6546,
     "level": "critical",
     "country": "🌍",
-    "text": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+    "text": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
+    "link": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 1261,
+    "id": 1096,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli forces kill one in Gaza as another body recovered from rubble",
+    "text": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 4511,
+    "id": 5574,
     "level": "critical",
     "country": "🌍",
-    "text": "La Russie annonce plusieurs morts après avoir abattu plus de 450 drones",
+    "text": "Russie - Ukraine : plusieurs morts dans de nouvelles frappes",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260810-la-russie-annonce-avoir-abattu-456-drones-dans-la-nuit-plusieurs-morts",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-russie-ukraine-plusieurs-morts-dans-de-nouvelles-frappes",
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 753,
+    "id": 8040,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaz : les réserves européennes au plus bas depuis 2009",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260810-gaz-les-r%C3%A9serves-europ%C3%A9ennes-au-plus-bas-depuis-2009",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 8681,
+    "level": "high",
+    "country": "🌍",
+    "text": "Gaza : Netanyahu rejette le plan américain et exclut tout retrait",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-gaza-netanyahu-rejette-le-plan-am%C3%A9ricain-et-exclut-tout-retrait",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 84,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -45,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6599,
+    "id": 9306,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -54,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8310,
+    "id": 167,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -63,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 674,
+    "id": 5736,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -72,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6901,
+    "id": 7001,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -81,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6839,
+    "id": 9231,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -90,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7733,
+    "id": 4445,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -99,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5605,
+    "id": 2710,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -108,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 943,
+    "id": 3056,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -117,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7733,
+    "id": 8545,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -126,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3786,
+    "id": 592,
     "level": "medium",
     "country": "🌍",
     "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
@@ -135,7 +153,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 70,
+    "id": 633,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
@@ -144,7 +162,7 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 780,
+    "id": 4631,
     "level": "medium",
     "country": "🌍",
     "text": "What does home mean for people with no single territory connecting them?",
@@ -153,30 +171,12 @@
     "time": "Fri, 07 Aug 2026"
   },
   {
-    "id": 4689,
+    "id": 3177,
     "level": "medium",
     "country": "🌍",
     "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
     "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 8431,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When Chinese parents outsource control over their adult children",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/06/when-chinese-parents-outsource-control-over-their-adult-children/",
-    "time": "Thu, 06 Aug 2026"
-  },
-  {
-    "id": 5233,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous stories are global stories",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/05/indigenous-stories-are-global-stories/",
-    "time": "Wed, 05 Aug 2026"
   }
 ]
