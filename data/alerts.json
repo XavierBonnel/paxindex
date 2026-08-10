@@ -1,6 +1,6 @@
 [
   {
-    "id": 2439,
+    "id": 1329,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 6100,
+    "id": 5329,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 7154,
+    "id": 4926,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Europe braces for another heatwave after record-breaking temperatures",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 6593,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump to demand compensation for Tehran’s ‘conflicts’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 1359,
     "level": "critical",
     "country": "🌍",
     "text": "Russia bars only party opposing war in Ukraine from parliamentary vote",
@@ -27,25 +45,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 7772,
-    "level": "critical",
-    "country": "🌍",
-    "text": "111 dead after Colombia quakes leave trail of destruction",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 1497,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 1432,
+    "id": 3288,
     "level": "critical",
     "country": "🌍",
     "text": "Yémen : une attaque des Houthis sur le port de Mokha fait sept morts",
@@ -54,7 +54,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 1609,
+    "id": 1513,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Colombie en direct : au moins 47 morts après un séisme de magnitude 7,4",
@@ -63,25 +63,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 8494,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Colombie : un puissant séisme secoue le pays",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-colombie-un-puissant-s%C3%A9isme-secoue-le-pays",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 2521,
-    "level": "high",
-    "country": "🌍",
-    "text": "Oman trying to contain extensive oil spill from stricken tanker",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 6455,
+    "id": 9285,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3140,
+    "id": 4411,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4043,
+    "id": 5050,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1818,
+    "id": 2948,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7003,
+    "id": 3035,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3662,
+    "id": 6860,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6432,
+    "id": 2785,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3376,
+    "id": 3889,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6488,
+    "id": 9008,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6569,
+    "id": 3742,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +153,30 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6232,
+    "id": 3655,
     "level": "medium",
     "country": "🌍",
     "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price/",
     "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 8766,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 228,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What does home mean for people with no single territory connecting them?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/07/what-does-home-mean-for-people-with-no-single-territory-connecting-them/",
+    "time": "Fri, 07 Aug 2026"
   }
 ]
