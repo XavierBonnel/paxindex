@@ -1,6 +1,6 @@
 [
   {
-    "id": 2558,
+    "id": 2112,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,7 +9,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 6436,
+    "id": 5485,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump signals shift to economic pressure on Iran over new military strikes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 1899,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 6524,
     "level": "critical",
     "country": "🌍",
     "text": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
@@ -18,52 +36,16 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 633,
-    "level": "critical",
+    "id": 3523,
+    "level": "high",
     "country": "🌍",
-    "text": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+    "text": "Moyen-Orient en direct : les Houthis lancent une attaque meurtrière contre le po",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260810-en-direct-moyen-orient-iran-etats-unis-israel-hamas-gaza-yemen-houthis-ormuz",
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 2561,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 22,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Union reports 108 attacks on Palestinian journalists in July",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 8396,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 5784,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 2912,
+    "id": 7874,
     "level": "high",
     "country": "🌍",
     "text": "Israël : Benjamin Netanyahu \"rejette\" le plan américain pour Gaza, accepté par l",
@@ -72,7 +54,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 6586,
+    "id": 7752,
     "level": "high",
     "country": "🌍",
     "text": "Selon Volodymyr Zelensky, jusqu'à 50 000 soldats nord-coréens ont été déployés e",
@@ -81,7 +63,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 7981,
+    "id": 7112,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2588,
+    "id": 9075,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1,
+    "id": 8534,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3258,
+    "id": 6201,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4613,
+    "id": 5321,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7399,
+    "id": 4095,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 17,
+    "id": 9320,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6989,
+    "id": 3537,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2962,
+    "id": 2088,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4246,
+    "id": 4552,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,12 +153,30 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 473,
+    "id": 7912,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/",
     "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 1898,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What does home mean for people with no single territory connecting them?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/07/what-does-home-mean-for-people-with-no-single-territory-connecting-them/",
+    "time": "Fri, 07 Aug 2026"
+  },
+  {
+    "id": 5049,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Legal access in a shrinking space: Building ecosystems to end statelessness",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/06/legal-access-in-a-shrinking-space-building-ecosystems-to-end-statelessness/",
+    "time": "Thu, 06 Aug 2026"
   }
 ]
