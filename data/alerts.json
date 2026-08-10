@@ -1,6 +1,6 @@
 [
   {
-    "id": 4064,
+    "id": 2558,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,7 +9,34 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 1542,
+    "id": 6436,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Houthis launch fresh ballistic missile and drone attacks on al-Makha port",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/houthis-launch-fresh-ballistic-missile-and-drone-attacks-on-al-makha-port?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 633,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 2561,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 22,
     "level": "critical",
     "country": "🌍",
     "text": "Union reports 108 attacks on Palestinian journalists in July",
@@ -18,16 +45,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 414,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What’s driving unrest in Pakistan-administered Kashmir?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 7397,
+    "id": 8396,
     "level": "critical",
     "country": "🌍",
     "text": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
@@ -36,7 +54,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 1861,
+    "id": 5784,
     "level": "critical",
     "country": "🌍",
     "text": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
@@ -45,16 +63,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 5080,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Can the Doha Framework end the conflict in eastern DRC?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-    "time": "Sun, 09 Aug 2026"
-  },
-  {
-    "id": 4209,
+    "id": 2912,
     "level": "high",
     "country": "🌍",
     "text": "Israël : Benjamin Netanyahu \"rejette\" le plan américain pour Gaza, accepté par l",
@@ -63,7 +72,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 501,
+    "id": 6586,
     "level": "high",
     "country": "🌍",
     "text": "Selon Volodymyr Zelensky, jusqu'à 50 000 soldats nord-coréens ont été déployés e",
@@ -72,7 +81,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 727,
+    "id": 7981,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7319,
+    "id": 2588,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6620,
+    "id": 1,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 250,
+    "id": 3258,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4229,
+    "id": 4613,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3989,
+    "id": 7399,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2109,
+    "id": 17,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 422,
+    "id": 6989,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4528,
+    "id": 2962,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1429,
+    "id": 4246,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2777,
+    "id": 473,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 8542,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What does home mean for people with no single territory connecting them?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/07/what-does-home-mean-for-people-with-no-single-territory-connecting-them/",
     "time": "Fri, 07 Aug 2026"
   }
 ]
