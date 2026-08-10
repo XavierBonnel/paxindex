@@ -1,6 +1,6 @@
 [
   {
-    "id": 6138,
+    "id": 8487,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -9,7 +9,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 4088,
+    "id": 607,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Taiwan holds military drills to prepare for invasion by China",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 9589,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 2238,
     "level": "critical",
     "country": "🌍",
     "text": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
@@ -18,7 +36,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 3240,
+    "id": 2748,
     "level": "critical",
     "country": "🌍",
     "text": "Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings",
@@ -27,52 +45,34 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 4607,
+    "id": 8829,
     "level": "critical",
     "country": "🌍",
-    "text": "At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 1739,
-    "level": "critical",
-    "country": "🌍",
-    "text": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 1005,
-    "level": "critical",
-    "country": "🌍",
-    "text": "États-Unis : 30 ans après le meurtre de Tupac, le procès s'ouvre",
+    "text": "Ukraine - Russie : cinq morts dans la région de Kharkiv et au moins treize en Ru",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-%C3%A9tats-unis-30-ans-apr%C3%A8s-le-meurtre-de-tupac-le-proc%C3%A8s-s-ouvre",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-ukraine-russie-cinq-morts-dans-la-r%C3%A9gion-de-kharkiv-et-au-moins-treize-en-russie",
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 9528,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russie - Ukraine : plusieurs morts dans de nouvelles frappes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-russie-ukraine-plusieurs-morts-dans-de-nouvelles-frappes",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 66,
+    "id": 9541,
     "level": "high",
     "country": "🌍",
-    "text": "Gaza : Netanyahu rejette le plan américain et exclut tout retrait",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-gaza-netanyahu-rejette-le-plan-am%C3%A9ricain-et-exclut-tout-retrait",
+    "text": "Has the army turned the page on control of western Sudan?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss",
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 3068,
+    "id": 6431,
+    "level": "high",
+    "country": "🌍",
+    "text": "Les Nigérians rapatriés d'Afrique du Sud témoignent de leur calvaire",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260810-les-nig%C3%A9rians-rapatri%C3%A9s-d-afrique-du-sud-t%C3%A9moignent-de-leur-calvaire",
+    "time": "Mon, 10 Aug 2026"
+  },
+  {
+    "id": 6445,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4815,
+    "id": 3939,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3924,
+    "id": 4656,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1791,
+    "id": 1666,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 240,
+    "id": 7959,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7212,
+    "id": 2458,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8589,
+    "id": 8515,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2073,
+    "id": 7555,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8837,
+    "id": 8193,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 2121,
+    "id": 7847,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 7485,
+    "id": 7341,
     "level": "medium",
     "country": "🌍",
     "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
@@ -171,7 +171,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 6500,
+    "id": 8722,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
