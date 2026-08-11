@@ -1,6 +1,6 @@
 [
   {
-    "id": 3595,
+    "id": 464,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 4543,
+    "id": 6067,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 8863,
+    "id": 9475,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Philippines sailors say they will work despite wartime risks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 9835,
     "level": "critical",
     "country": "🌍",
     "text": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
@@ -27,7 +36,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 8297,
+    "id": 5418,
     "level": "critical",
     "country": "🌍",
     "text": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
@@ -36,16 +45,43 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 6719,
+    "id": 5291,
     "level": "critical",
     "country": "🌍",
-    "text": "East Libya military intelligence chief killed in car bomb",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/11/east-libya-military-intelligence-chief-killed-in-car-bomb?traffic_source=rss",
+    "text": "Une attaque des Houthis sur un navire en mer Rouge fait plusieurs morts",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260811-une-attaque-des-houthis-sur-un-navire-en-mer-rouge-fait-plusieurs-morts",
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 2980,
+    "id": 2517,
+    "level": "critical",
+    "country": "🌍",
+    "text": "🔴 Le Liban vote l'abolition de la peine de mort, une première au Moyen-Orient",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260811-le-liban-vote-l-abolition-de-la-peine-de-mort-une-premi%C3%A8re-au-moyen-orient",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 2286,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le Liban vote l'abolition de la peine de mort, une première au Moyen-Orient",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260811-le-liban-vote-l-abolition-de-la-peine-de-mort-une-premi%C3%A8re-au-moyen-orient",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 8306,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'épidémie d'Ebola a fait plus de 2 000 morts en RD Congo depuis mai",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260811-l-%C3%A9pid%C3%A9mie-d-ebola-a-fait-plus-de-2-000-morts-en-rd-congo-depuis-mai",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 5802,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de Tupac Shakur : un ancien chef de gang accusé d'avoir orchestré le meurtr",
@@ -54,16 +90,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 5659,
-    "level": "high",
-    "country": "🌍",
-    "text": "Bangladesh and India battle to save cricket series after political turmoil",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 5117,
+    "id": 6116,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7151,
+    "id": 9123,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 601,
+    "id": 7259,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5535,
+    "id": 522,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8685,
+    "id": 2585,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7454,
+    "id": 2488,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2382,
+    "id": 2776,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9293,
+    "id": 9621,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 658,
+    "id": 9105,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,39 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5353,
+    "id": 8215,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9043,
-    "level": "medium",
-    "country": "🌍",
-    "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 6302,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price/",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 7428,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/",
-    "time": "Fri, 07 Aug 2026"
   }
 ]
