@@ -1,6 +1,6 @@
 [
   {
-    "id": 2899,
+    "id": 3364,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 1165,
+    "id": 1296,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,34 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 8735,
+    "id": 2962,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump sends conflicting signals on Iran strategy",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/trump-sends-conflicting-signals-on-iran-strategy?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 4918,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine’s 40-day campaign has not brought the war closer to an end",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/8/11/ukraines-40-day-campaign-has-not-brought-the-war-closer-to-an-end?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 6393,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What is the US spending all their war money on?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 8937,
     "level": "critical",
     "country": "🌍",
     "text": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
@@ -27,43 +54,25 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 3195,
+    "id": 6598,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+    "text": "🔴 Syrie: l'ex-président al-Assad condamné à la peine de mort par contumace pour ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260811-syrie-le-pr%C3%A9sident-d%C3%A9chu-bachar-al-assad-condamn%C3%A9-%C3%A0-la-peine-de-mort-par-contumace",
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 9244,
+    "id": 9781,
     "level": "critical",
     "country": "🌍",
-    "text": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
+    "text": "Syrie : l'ex-président Bachar al-Assad condamné à la peine de mort par contumace",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260811-syrie-le-pr%C3%A9sident-d%C3%A9chu-bachar-al-assad-condamn%C3%A9-%C3%A0-la-peine-de-mort-par-contumace",
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 9073,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Fire rages after drone strikes Libya’s largest oil refinery",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 4588,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Where did all the money go if the US is running out of weapons?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 6211,
+    "id": 1130,
     "level": "critical",
     "country": "🌍",
     "text": "En Colombie, une course contre la montre pour retrouver les survivants du séisme",
@@ -72,7 +81,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 131,
+    "id": 9176,
     "level": "critical",
     "country": "🌍",
     "text": "Pour ne plus baisser la tête : à la recherche des disparus de la guerre d'Espagn",
@@ -81,16 +90,16 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 856,
-    "level": "critical",
+    "id": 6208,
+    "level": "high",
     "country": "🌍",
-    "text": "Ukraine en direct : cinq morts à Zaporijjia, explosions entendues à Kiev",
+    "text": "🔴 En direct : Zelensky affirme que la Russie a utilisé des \"missiles balistiques",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260810-en-direct-ukraine-guerre-explosions-attaque-kiev-missiles-russie",
-    "time": "Mon, 10 Aug 2026"
+    "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 9259,
+    "id": 5940,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9649,
+    "id": 7571,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 196,
+    "id": 170,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9128,
+    "id": 8922,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3403,
+    "id": 970,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5206,
+    "id": 3781,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4235,
+    "id": 2925,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4577,
+    "id": 9119,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3586,
+    "id": 1446,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 1474,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
