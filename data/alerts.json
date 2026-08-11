@@ -1,6 +1,6 @@
 [
   {
-    "id": 8030,
+    "id": 8869,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 6560,
+    "id": 5253,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 388,
+    "id": 8244,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 9027,
     "level": "critical",
     "country": "🌍",
     "text": "Inside a secret launch site for Ukraine’s deep-strike drones",
@@ -27,16 +36,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 2272,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Europe braces for another heatwave after record-breaking temperatures",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/10/europe-braces-for-another-heatwave-after-record-breaking-temperatures?traffic_source=rss",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 2631,
+    "id": 3635,
     "level": "critical",
     "country": "🌍",
     "text": "Yémen : une attaque des Houthis sur le port de Mokha fait sept morts",
@@ -45,7 +45,16 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 7533,
+    "id": 6155,
+    "level": "high",
+    "country": "🌍",
+    "text": "Soldiers take cover as Colombia quake flattens military barracks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 2134,
     "level": "high",
     "country": "🌍",
     "text": "Ceuta mayor calls for migrant detention amid mass influx crisis",
@@ -54,7 +63,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 4914,
+    "id": 1257,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine en direct : attaques nocturnes meurtrières à Kiev et Zaporijjia",
@@ -63,7 +72,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 3439,
+    "id": 7955,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7922,
+    "id": 7446,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1449,
+    "id": 339,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3076,
+    "id": 8360,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1906,
+    "id": 2398,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3751,
+    "id": 6275,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1910,
+    "id": 25,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2666,
+    "id": 450,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7098,
+    "id": 508,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8209,
+    "id": 9998,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +162,21 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3562,
+    "id": 5571,
+    "level": "medium",
+    "country": "🌍",
+    "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 5863,
     "level": "medium",
     "country": "🌍",
     "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price/",
     "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 9359,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/07/whose-conservation-whose-development-the-maasai-struggle-over-land-in-northern-tanzania/",
-    "time": "Fri, 07 Aug 2026"
-  },
-  {
-    "id": 5464,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What does home mean for people with no single territory connecting them?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/07/what-does-home-mean-for-people-with-no-single-territory-connecting-them/",
-    "time": "Fri, 07 Aug 2026"
   }
 ]
