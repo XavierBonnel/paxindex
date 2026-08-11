@@ -1,6 +1,6 @@
 [
   {
-    "id": 2786,
+    "id": 2975,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 2234,
+    "id": 117,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,43 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 2965,
+    "id": 381,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel demolishes home of Palestinian killed during settler attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israel-demolishes-home-of-palestinian-killed-during-settler-attack?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 1489,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/11/trump-warns-of-jihadists-ruling-in-washington-as-democrats-show-momentum?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 3883,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Truck crash in Egypt kills 18, many of them child labourers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/11/truck-crash-in-egypt-kills-18-many-of-them-child-labourers?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 8965,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Venezuela and Israel restore consular ties as relations warm",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/11/venezuela-and-israel-restore-consular-ties-as-relations-warm?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 2687,
     "level": "critical",
     "country": "🌍",
     "text": "Paramount CEO may remove operations from California over stalled merger",
@@ -27,16 +63,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 9454,
-    "level": "critical",
-    "country": "🌍",
-    "text": "South Africa mine collapse kills 14 suspected illegal miners",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/south-africa-mine-collapse-kills-14-suspected-illegal-miners?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 1908,
+    "id": 9168,
     "level": "critical",
     "country": "🌍",
     "text": "Libye : un important réservoir d'essence en feu après une attaque de drone",
@@ -45,7 +72,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 5139,
+    "id": 2189,
     "level": "critical",
     "country": "🌍",
     "text": "Avec la canicule, la France produit moins d’électricité et en consomme davantage",
@@ -54,7 +81,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 7894,
+    "id": 299,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine, Russie : Le bilan des victimes s'alourdit",
@@ -63,16 +90,16 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 9114,
+    "id": 4523,
     "level": "high",
     "country": "🌍",
-    "text": "Rights groups launch new legal challenge to Trump campaign against ICC",
+    "text": "US military fires on cargo vessel it said sought to break Iran blockade",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/11/rights-groups-launch-new-legal-challenge-to-trump-campaign-against-icc?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/11/us-military-fires-on-cargo-vessel-it-said-sought-to-break-iran-blockade?traffic_source=rss",
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 9940,
+    "id": 728,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4075,
+    "id": 3814,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1695,
+    "id": 2897,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8673,
+    "id": 419,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1724,
+    "id": 9335,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3217,
+    "id": 6188,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9065,
+    "id": 5054,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8014,
+    "id": 6908,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,39 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1297,
+    "id": 8942,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 6544,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 758,
-    "level": "medium",
-    "country": "🌍",
-    "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 8133,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price/",
-    "time": "Mon, 10 Aug 2026"
   }
 ]
