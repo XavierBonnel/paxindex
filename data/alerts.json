@@ -1,6 +1,6 @@
 [
   {
-    "id": 7370,
+    "id": 3595,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 9504,
+    "id": 4543,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 6225,
+    "id": 8863,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 8297,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 6719,
     "level": "critical",
     "country": "🌍",
     "text": "East Libya military intelligence chief killed in car bomb",
@@ -27,25 +45,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 9715,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iraq’s semi-autonomous Kurdish region suffers as US-Iran war drags on",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 4338,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Rescue efforts intensify as quake devastates western Colombia towns",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 5662,
+    "id": 2980,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de Tupac Shakur : un ancien chef de gang accusé d'avoir orchestré le meurtr",
@@ -54,7 +54,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 1938,
+    "id": 5659,
     "level": "high",
     "country": "🌍",
     "text": "Bangladesh and India battle to save cricket series after political turmoil",
@@ -63,7 +63,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 3462,
+    "id": 5117,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7969,
+    "id": 7151,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1988,
+    "id": 601,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5163,
+    "id": 5535,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5452,
+    "id": 8685,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9313,
+    "id": 7454,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 759,
+    "id": 2382,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 126,
+    "id": 9293,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4577,
+    "id": 658,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5387,
+    "id": 5353,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9435,
+    "id": 9043,
     "level": "medium",
     "country": "🌍",
     "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
@@ -162,7 +162,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 2371,
+    "id": 6302,
     "level": "medium",
     "country": "🌍",
     "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
@@ -171,7 +171,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 5217,
+    "id": 7428,
     "level": "medium",
     "country": "🌍",
     "text": "Whose conservation, whose development? The Maasai struggle over land in northern",
