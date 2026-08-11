@@ -1,6 +1,6 @@
 [
   {
-    "id": 8234,
+    "id": 4503,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 4242,
+    "id": 537,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 2081,
+    "id": 3702,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 6899,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fire rages after drone strikes Libya’s largest oil refinery",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 8131,
     "level": "critical",
     "country": "🌍",
     "text": "Where did all the money go if the US is running out of weapons?",
@@ -27,7 +45,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 1710,
+    "id": 1742,
     "level": "critical",
     "country": "🌍",
     "text": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
@@ -36,25 +54,16 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 4757,
+    "id": 4855,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
+    "text": "Pour ne plus baisser la tête : à la recherche des disparus de la guerre d'Espagn",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260811-recherche-disparus-guerre-espagne-fosses-communes-franquisme-fouilles",
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 8142,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Inside a secret launch site for Ukraine’s deep-strike drones",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
-    "time": "Mon, 10 Aug 2026"
-  },
-  {
-    "id": 2657,
+    "id": 5759,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine en direct : cinq morts à Zaporijjia, explosions entendues à Kiev",
@@ -63,7 +72,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 9275,
+    "id": 4958,
     "level": "critical",
     "country": "🌍",
     "text": "Yémen : une attaque des Houthis sur le port de Mokha fait sept morts",
@@ -72,16 +81,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 297,
-    "level": "high",
-    "country": "🌍",
-    "text": "Soldiers take cover as Colombia quake flattens military barracks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 7843,
+    "id": 1192,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2527,
+    "id": 6287,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4646,
+    "id": 7300,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6535,
+    "id": 7140,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2654,
+    "id": 9158,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9269,
+    "id": 5778,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5307,
+    "id": 1504,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3358,
+    "id": 3702,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1327,
+    "id": 277,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9640,
+    "id": 6755,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 817,
+    "id": 1934,
     "level": "medium",
     "country": "🌍",
     "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
