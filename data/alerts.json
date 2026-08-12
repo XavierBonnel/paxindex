@@ -1,6 +1,6 @@
 [
   {
-    "id": 9124,
+    "id": 8935,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 9855,
+    "id": 1896,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,43 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 229,
+    "id": 1711,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Three killed in overnight attacks on Russian, Ukrainian port cities",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 6544,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 2621,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Autism and war: Gaza families grapple with destruction and loss",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 3103,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 6887,
     "level": "critical",
     "country": "🌍",
     "text": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
@@ -27,70 +63,16 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 4465,
+    "id": 1787,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 7798,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Did Trump flee an Iranian assassination plot on a catering truck?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 7765,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Drone strikes power station near Libya’s largest oil refinery",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 607,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia frees ex-US marine Gilman jailed since 2022",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 9803,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 1536,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 5159,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Libye : l'assassinat du chef des renseignements de l'Est, un revers pour les Haf",
+    "text": "En Libye, Haftar fragilisé après l'assassinat du chef des renseignements de l'Es",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/afrique/20260811-libye-assassinat-chef-renseignements-est-revers-khalifa-haftar-al-mansouri",
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 6199,
+    "id": 3418,
     "level": "critical",
     "country": "🌍",
     "text": "Libye : un important réservoir d'essence en feu après une attaque de drone",
@@ -99,16 +81,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 7573,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Avec la canicule, la France produit moins d’électricité et en consomme davantage",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260811-avec-la-canicule-la-france-produit-moins-d-%C3%A9lectricit%C3%A9-et-en-consomme-davantage",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 8163,
+    "id": 7868,
     "level": "high",
     "country": "🌍",
     "text": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
@@ -117,7 +90,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 1158,
+    "id": 1910,
     "level": "high",
     "country": "🌍",
     "text": "En direct : l'armée américaine tire sur un navire qui violait son blocus des por",
@@ -126,7 +99,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 5198,
+    "id": 3374,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1742,
+    "id": 8281,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9746,
+    "id": 5228,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4870,
+    "id": 5044,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1931,
+    "id": 930,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -171,12 +144,39 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6183,
+    "id": 371,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 7492,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 5295,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 2129,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
   }
 ]
