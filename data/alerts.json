@@ -1,6 +1,6 @@
 [
   {
-    "id": 6204,
+    "id": 9124,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 3911,
+    "id": 9855,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +18,34 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 549,
+    "id": 229,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 4465,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 7798,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Did Trump flee an Iranian assassination plot on a catering truck?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/did-trump-flee-an-iranian-assassination-plot-on-a-catering-truck?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 7765,
     "level": "critical",
     "country": "🌍",
     "text": "Drone strikes power station near Libya’s largest oil refinery",
@@ -27,7 +54,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 4637,
+    "id": 607,
     "level": "critical",
     "country": "🌍",
     "text": "Russia frees ex-US marine Gilman jailed since 2022",
@@ -36,7 +63,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 8094,
+    "id": 9803,
     "level": "critical",
     "country": "🌍",
     "text": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
@@ -45,7 +72,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 7016,
+    "id": 1536,
     "level": "critical",
     "country": "🌍",
     "text": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
@@ -54,16 +81,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 9375,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dozens dead and missing after ferry capsizes in Zimbabwe",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 4014,
+    "id": 5159,
     "level": "critical",
     "country": "🌍",
     "text": "Libye : l'assassinat du chef des renseignements de l'Est, un revers pour les Haf",
@@ -72,7 +90,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 7183,
+    "id": 6199,
     "level": "critical",
     "country": "🌍",
     "text": "Libye : un important réservoir d'essence en feu après une attaque de drone",
@@ -81,7 +99,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 8277,
+    "id": 7573,
     "level": "critical",
     "country": "🌍",
     "text": "Avec la canicule, la France produit moins d’électricité et en consomme davantage",
@@ -90,7 +108,16 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 5498,
+    "id": 8163,
+    "level": "high",
+    "country": "🌍",
+    "text": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 1158,
     "level": "high",
     "country": "🌍",
     "text": "En direct : l'armée américaine tire sur un navire qui violait son blocus des por",
@@ -99,7 +126,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 1074,
+    "id": 5198,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1289,
+    "id": 1742,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9081,
+    "id": 9746,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9671,
+    "id": 4870,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1852,
+    "id": 1931,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,39 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3443,
+    "id": 6183,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 9616,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 2296,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 1862,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
   }
 ]
