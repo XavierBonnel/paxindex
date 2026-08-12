@@ -1,6 +1,6 @@
 [
   {
-    "id": 8935,
+    "id": 9328,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 1896,
+    "id": 3868,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,88 +18,43 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 1711,
+    "id": 8908,
     "level": "critical",
     "country": "🌍",
-    "text": "Three killed in overnight attacks on Russian, Ukrainian port cities",
+    "text": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 4125,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Four killed in overnight attacks in southern Russia, Ukraine",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 6544,
+    "id": 3512,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 2621,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Autism and war: Gaza families grapple with destruction and loss",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/8/12/autism-and-war-gaza-families-grapple-with-destruction-and-loss?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 3103,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 6887,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 1787,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Libye, Haftar fragilisé après l'assassinat du chef des renseignements de l'Es",
+    "text": "Syrie : Bachar Al-Assad condamné à mort, coupable de crimes contre l'humanité",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260811-libye-assassinat-chef-renseignements-est-revers-khalifa-haftar-al-mansouri",
-    "time": "Tue, 11 Aug 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-syrie-bachar-al-assad-condamn%C3%A9-%C3%A0-mort-coupable-de-crimes-contre-l-humanit%C3%A9",
+    "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 3418,
+    "id": 909,
     "level": "critical",
     "country": "🌍",
-    "text": "Libye : un important réservoir d'essence en feu après une attaque de drone",
+    "text": "Liban : la peine de mort abolie, une première au Moyen-Orient",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-libye-un-important-r%C3%A9servoir-d-essence-en-feu-apr%C3%A8s-une-attaque-de-drone",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 7868,
-    "level": "high",
-    "country": "🌍",
-    "text": "Can Trump keep his ‘irritation’ with Netanyahu in check?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_-trump-keep-his-irritation-with-netanyahu-in-check-120826?traffic_source=rss",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-liban-la-peine-de-mort-abolie-une-premi%C3%A8re-au-moyen-orient",
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 1910,
-    "level": "high",
-    "country": "🌍",
-    "text": "En direct : l'armée américaine tire sur un navire qui violait son blocus des por",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260812-en-direct-moyen-orient-iran-etats-unis-detroit-ormuz-donald-trump-houthis",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 3374,
+    "id": 8921,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8281,
+    "id": 4625,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5228,
+    "id": 1343,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5044,
+    "id": 2443,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 930,
+    "id": 3687,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 371,
+    "id": 8960,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7492,
+    "id": 7428,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5295,
+    "id": 5965,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +126,57 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2129,
+    "id": 3679,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 9990,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 8996,
+    "level": "medium",
+    "country": "🌍",
+    "text": "After 30 years of cultural revival, the Siraya reclaim their Indigenous status i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/12/after-30-years-of-cultural-revival-the-siraya-reclaim-their-indigenous-status-in-taiwan/",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 1863,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The bleak picture of how Indigenous youth are treated in Australia’s justice sys",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/11/the-bleak-picture-of-how-indigenous-youth-are-treated-in-australias-justice-system/",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 8833,
+    "level": "medium",
+    "country": "🌍",
+    "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 3795,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price/",
+    "time": "Mon, 10 Aug 2026"
   }
 ]
