@@ -1,6 +1,6 @@
 [
   {
-    "id": 6180,
+    "id": 4033,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 823,
+    "id": 2269,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,34 +18,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 1092,
+    "id": 4671,
     "level": "critical",
     "country": "🌍",
-    "text": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+    "text": "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/12/iraq-says-sept-30-deadline-to-end-us-led-military-coalition-final?traffic_source=rss",
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 4075,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Drought exposes Nazi-era warship wrecks beneath the Danube",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 2368,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Colombia declares three days of mourning after deadly earthquake",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 1865,
+    "id": 8879,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC : le cap des 2000 morts franchi",
@@ -54,7 +36,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 1593,
+    "id": 6600,
     "level": "critical",
     "country": "🌍",
     "text": "LIBYE : Funérailles du chef des renseignements de Haftar tué dans un attentat",
@@ -63,7 +45,16 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 2129,
+    "id": 9912,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 6367,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7664,
+    "id": 5130,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2541,
+    "id": 5745,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7015,
+    "id": 8071,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9066,
+    "id": 5725,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8973,
+    "id": 4657,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2826,
+    "id": 8457,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2457,
+    "id": 6653,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 423,
+    "id": 2231,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6511,
+    "id": 5376,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2817,
+    "id": 4945,
     "level": "medium",
     "country": "🌍",
     "text": "What it is like to run a business as a woman in Taliban-controlled Afghanistan",
@@ -162,7 +153,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 2424,
+    "id": 9387,
     "level": "medium",
     "country": "🌍",
     "text": "After 30 years of cultural revival, the Siraya reclaim their Indigenous status i",
@@ -171,12 +162,21 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 656,
+    "id": 2711,
     "level": "medium",
     "country": "🌍",
     "text": "The bleak picture of how Indigenous youth are treated in Australia’s justice sys",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/11/the-bleak-picture-of-how-indigenous-youth-are-treated-in-australias-justice-system/",
+    "time": "Tue, 11 Aug 2026"
+  },
+  {
+    "id": 8229,
+    "level": "medium",
+    "country": "🌍",
+    "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/",
     "time": "Tue, 11 Aug 2026"
   }
 ]
