@@ -1,6 +1,6 @@
 [
   {
-    "id": 5719,
+    "id": 6204,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 8688,
+    "id": 3911,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,43 +18,52 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 1413,
+    "id": 549,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump claims US in ‘total control’ of Strait of Hormuz",
+    "text": "Drone strikes power station near Libya’s largest oil refinery",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/12/iran-war-live-us-fires-missiles-at-cargo-ship-violating-iran-blockade?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-strikes-power-station-near-libyas-largest-oil-refinery?traffic_source=rss",
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 2350,
+    "id": 4637,
     "level": "critical",
     "country": "🌍",
-    "text": "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
+    "text": "Russia frees ex-US marine Gilman jailed since 2022",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/cargo-ship-in-flames-after-houthi-attack-in-bab-al-mandeb-strait?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/russia-frees-ex-us-marine-gilman-jailed-since-2022?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 8035,
+    "id": 8094,
     "level": "critical",
     "country": "🌍",
-    "text": "Colombia scrambles to find survivors after deadly earthquake",
+    "text": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/longform/2026/8/11/colombia-scrambles-to-find-survivors-after-deadly-earthquake?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
+    "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 1200,
+    "id": 7016,
     "level": "critical",
     "country": "🌍",
-    "text": "In Gaza’s tents, widows face war’s harshest realities alone",
+    "text": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/11/in-gazas-tents-widows-face-wars-harshest-realities-alone?traffic_source=rss",
-    "time": "Tue, 11 Aug 2026"
+    "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 2959,
+    "id": 9375,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Dozens dead and missing after ferry capsizes in Zimbabwe",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 4014,
     "level": "critical",
     "country": "🌍",
     "text": "Libye : l'assassinat du chef des renseignements de l'Est, un revers pour les Haf",
@@ -63,7 +72,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 9865,
+    "id": 7183,
     "level": "critical",
     "country": "🌍",
     "text": "Libye : un important réservoir d'essence en feu après une attaque de drone",
@@ -72,7 +81,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 8323,
+    "id": 8277,
     "level": "critical",
     "country": "🌍",
     "text": "Avec la canicule, la France produit moins d’électricité et en consomme davantage",
@@ -81,16 +90,16 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 2032,
+    "id": 5498,
     "level": "high",
     "country": "🌍",
-    "text": "N Korea launches ballistic missile as S Korea, US plan military drills",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+    "text": "En direct : l'armée américaine tire sur un navire qui violait son blocus des por",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260812-en-direct-moyen-orient-iran-etats-unis-detroit-ormuz-donald-trump-houthis",
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 5273,
+    "id": 1074,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7214,
+    "id": 1289,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2411,
+    "id": 9081,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6591,
+    "id": 9671,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3884,
+    "id": 1852,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3554,
+    "id": 3443,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9964,
+    "id": 9616,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2091,
+    "id": 2296,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6463,
+    "id": 1862,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 4392,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
