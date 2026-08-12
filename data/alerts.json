@@ -1,6 +1,6 @@
 [
   {
-    "id": 9328,
+    "id": 6075,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +9,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 3868,
+    "id": 3507,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,25 +18,34 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 8908,
+    "id": 8614,
     "level": "critical",
     "country": "🌍",
-    "text": "Wildberries under fire: Why is Ukraine targeting a Russian retail giant?",
+    "text": "Putin warns of tit-for-tat seizures of European vessels",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss",
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 4125,
+    "id": 7967,
     "level": "critical",
     "country": "🌍",
-    "text": "Four killed in overnight attacks in southern Russia, Ukraine",
+    "text": "‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss",
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 3512,
+    "id": 2355,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Séisme en Colombie : sauvés après 36 h sous les décombres",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-s%C3%A9isme-en-colombie-sauv%C3%A9s-apr%C3%A8s-36-h-sous-les-d%C3%A9combres",
+    "time": "Wed, 12 Aug 2026"
+  },
+  {
+    "id": 8065,
     "level": "critical",
     "country": "🌍",
     "text": "Syrie : Bachar Al-Assad condamné à mort, coupable de crimes contre l'humanité",
@@ -45,16 +54,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 909,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban : la peine de mort abolie, une première au Moyen-Orient",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-liban-la-peine-de-mort-abolie-une-premi%C3%A8re-au-moyen-orient",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 8921,
+    "id": 318,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4625,
+    "id": 2558,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1343,
+    "id": 4133,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2443,
+    "id": 4492,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3687,
+    "id": 504,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8960,
+    "id": 1353,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7428,
+    "id": 5311,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5965,
+    "id": 5044,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3679,
+    "id": 5763,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +135,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 9990,
+    "id": 583,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +144,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8996,
+    "id": 9802,
     "level": "medium",
     "country": "🌍",
     "text": "After 30 years of cultural revival, the Siraya reclaim their Indigenous status i",
@@ -153,7 +153,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 1863,
+    "id": 4058,
     "level": "medium",
     "country": "🌍",
     "text": "The bleak picture of how Indigenous youth are treated in Australia’s justice sys",
@@ -162,7 +162,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 8833,
+    "id": 1032,
     "level": "medium",
     "country": "🌍",
     "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
@@ -171,7 +171,7 @@
     "time": "Tue, 11 Aug 2026"
   },
   {
-    "id": 3795,
+    "id": 3964,
     "level": "medium",
     "country": "🌍",
     "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
