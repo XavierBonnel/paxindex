@@ -1,6 +1,6 @@
 [
   {
-    "id": 8275,
+    "id": 6352,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4457,
+    "id": 1722,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -18,7 +18,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 4443,
+    "id": 1303,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -27,7 +27,34 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 2980,
+    "id": 5760,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Reports of US sailors in Middle East trying to jump ship spark outcry",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 8923,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Is Russia’s economy cracking despite the Iran war windfall?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 7589,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 5534,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine attacks key Russian grain terminal on Black Sea port",
@@ -36,16 +63,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 495,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 6561,
+    "id": 4505,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : deux cheminots tués dans une frappe russe contre un train de",
@@ -54,7 +72,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 2757,
+    "id": 2234,
+    "level": "high",
+    "country": "🌍",
+    "text": "La visite de Poutine aux îles Kouriles provoque la colère du Japon",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260813-la-visite-de-poutine-aux-%C3%AEles-kouriles-provoque-la-col%C3%A8re-du-japon",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 1210,
+    "level": "high",
+    "country": "🌍",
+    "text": "Cisjordanie : des colons israéliens maintiennent le siège de maisons palestinien",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260813-cisjordanie-des-colons-isra%C3%A9liens-maintiennent-le-si%C3%A8ge-de-maisons-palestiniennes",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 316,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5125,
+    "id": 1981,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 561,
+    "id": 7601,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3635,
+    "id": 8397,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8029,
+    "id": 2176,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5203,
+    "id": 6167,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1795,
+    "id": 5037,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7684,
+    "id": 9587,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1763,
+    "id": 7672,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,48 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 789,
+    "id": 3646,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 7009,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What it is like to run a business as a woman in Taliban-controlled Afghanistan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/12/what-it-is-like-to-run-a-business-as-a-woman-in-taliban-controlled-afghanistan/",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 4474,
-    "level": "medium",
-    "country": "🌍",
-    "text": "After 30 years of cultural revival, the Siraya reclaim their Indigenous status i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/12/after-30-years-of-cultural-revival-the-siraya-reclaim-their-indigenous-status-in-taiwan/",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 3320,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The bleak picture of how Indigenous youth are treated in Australia’s justice sys",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/11/the-bleak-picture-of-how-indigenous-youth-are-treated-in-australias-justice-system/",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 9326,
-    "level": "medium",
-    "country": "🌍",
-    "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/",
-    "time": "Tue, 11 Aug 2026"
   }
 ]
