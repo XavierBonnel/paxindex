@@ -1,6 +1,6 @@
 [
   {
-    "id": 4710,
+    "id": 5404,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6665,
+    "id": 8679,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9419,
+    "id": 9382,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 6159,
+    "id": 130,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -36,25 +36,34 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 5402,
+    "id": 4142,
     "level": "critical",
     "country": "🌍",
-    "text": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+    "text": "Israeli strikes in Gaza kill two, including police chief",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9029,
-    "level": "critical",
+    "id": 2904,
+    "level": "high",
     "country": "🌍",
-    "text": "Poland arrests man who allegedly tried to kill Ukrainian American",
+    "text": "Mexico says Colombia rejected its earthquake rescue team",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1231,
+    "id": 184,
+    "level": "high",
+    "country": "🌍",
+    "text": "Huge explosion rocks Italian munitions factory south of Rome",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/huge-explosion-rocks-italian-munitions-factory-south-of-rome?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 4678,
     "level": "high",
     "country": "🌍",
     "text": "Sudan army says RSF advance on key town bordering Ethiopia",
@@ -63,7 +72,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6548,
+    "id": 7148,
     "level": "high",
     "country": "🌍",
     "text": "Thierry Burkhard, l’ex-chef d’état-major des armées françaises, n’a jamais prono",
@@ -72,7 +81,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1682,
+    "id": 1683,
     "level": "high",
     "country": "🌍",
     "text": "La visite de Poutine aux îles Kouriles provoque la colère du Japon",
@@ -81,16 +90,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5127,
-    "level": "high",
-    "country": "🌍",
-    "text": "Cisjordanie : des colons israéliens maintiennent le siège de maisons palestinien",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260813-cisjordanie-des-colons-isra%C3%A9liens-maintiennent-le-si%C3%A8ge-de-maisons-palestiniennes",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 7690,
+    "id": 3707,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3996,
+    "id": 5910,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9525,
+    "id": 1363,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5728,
+    "id": 6667,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2302,
+    "id": 4114,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 926,
+    "id": 8542,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1001,
+    "id": 9244,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8960,
+    "id": 7911,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4083,
+    "id": 1771,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,7 +171,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 997,
+    "id": 7669,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
