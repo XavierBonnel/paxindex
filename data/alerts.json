@@ -1,6 +1,6 @@
 [
   {
-    "id": 1503,
+    "id": 3487,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3912,
+    "id": 8439,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -18,7 +18,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 5639,
+    "id": 4442,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -27,7 +27,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 4737,
+    "id": 3700,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US-Iran talks in deadlock – what’s the latest?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 3031,
+    "level": "critical",
+    "country": "🌍",
+    "text": "More than 135 million people in Europe face temperatures over 35C",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 6813,
     "level": "critical",
     "country": "🌍",
     "text": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
@@ -36,7 +54,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 7559,
+    "id": 8240,
     "level": "critical",
     "country": "🌍",
     "text": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
@@ -45,25 +63,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 8478,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Eurovision to bar countries at war from hosting: What that means",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 6820,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/13/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation?traffic_source=rss",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 2718,
+    "id": 4889,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4083,
+    "id": 2934,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9716,
+    "id": 5510,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6331,
+    "id": 6939,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5553,
+    "id": 4047,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1383,
+    "id": 5158,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5946,
+    "id": 9765,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5854,
+    "id": 5162,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4689,
+    "id": 9310,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4235,
+    "id": 3773,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 3994,
+    "id": 1448,
     "level": "medium",
     "country": "🌍",
     "text": "What it is like to run a business as a woman in Taliban-controlled Afghanistan",
@@ -162,7 +162,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 3894,
+    "id": 7188,
     "level": "medium",
     "country": "🌍",
     "text": "After 30 years of cultural revival, the Siraya reclaim their Indigenous status i",
@@ -171,7 +171,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 1323,
+    "id": 7453,
     "level": "medium",
     "country": "🌍",
     "text": "The bleak picture of how Indigenous youth are treated in Australia’s justice sys",
