@@ -1,6 +1,6 @@
 [
   {
-    "id": 2375,
+    "id": 4710,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3811,
+    "id": 6665,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 376,
+    "id": 9419,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 7108,
+    "id": 6159,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -36,7 +36,7 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 1952,
+    "id": 5402,
     "level": "critical",
     "country": "🌍",
     "text": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
@@ -45,7 +45,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1406,
+    "id": 9029,
     "level": "critical",
     "country": "🌍",
     "text": "Poland arrests man who allegedly tried to kill Ukrainian American",
@@ -54,34 +54,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9688,
-    "level": "critical",
+    "id": 1231,
+    "level": "high",
     "country": "🌍",
-    "text": "DR Congo Ebola outbreak spreads to a sixth province",
+    "text": "Sudan army says RSF advance on key town bordering Ethiopia",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6707,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Reports of US sailors in Middle East trying to jump ship spark outcry",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 9,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Is Russia’s economy cracking despite the Iran war windfall?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 8196,
+    "id": 6548,
     "level": "high",
     "country": "🌍",
     "text": "Thierry Burkhard, l’ex-chef d’état-major des armées françaises, n’a jamais prono",
@@ -90,7 +72,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9101,
+    "id": 1682,
     "level": "high",
     "country": "🌍",
     "text": "La visite de Poutine aux îles Kouriles provoque la colère du Japon",
@@ -99,7 +81,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 8334,
+    "id": 5127,
     "level": "high",
     "country": "🌍",
     "text": "Cisjordanie : des colons israéliens maintiennent le siège de maisons palestinien",
@@ -108,16 +90,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 593,
-    "level": "high",
-    "country": "🌍",
-    "text": "\"On va droit dans le mur\" : les pompiers appellent à la mobilisation fin septemb",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260813-tr%C3%A8s-d%C3%A9%C3%A7us-par-le-gouvernement-les-pompiers-appellent-%C3%A0-la-mobilisation-pour-obtenir-des-moyens",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 2649,
+    "id": 7690,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1598,
+    "id": 3996,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6001,
+    "id": 9525,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8239,
+    "id": 5728,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 154,
+    "id": 2302,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1920,
+    "id": 926,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +144,39 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 322,
+    "id": 1001,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 8960,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 4083,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 997,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
   }
 ]
