@@ -1,6 +1,15 @@
 [
   {
-    "id": 2133,
+    "id": 1503,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/13/silence-has-become-both-more-dangerous-and-more-complicit-an-interview-with-lebanese-british-artist-amale-khlat/",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 3912,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -9,7 +18,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 9610,
+    "id": 5639,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -18,7 +27,34 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 6377,
+    "id": 4737,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 7559,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 8478,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Eurovision to bar countries at war from hosting: What that means",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means?traffic_source=rss",
+    "time": "Thu, 13 Aug 2026"
+  },
+  {
+    "id": 6820,
     "level": "critical",
     "country": "🌍",
     "text": "Yemeni forces say Houthi attack repelled in Taiz amid escalation",
@@ -27,25 +63,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9050,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Photos: Hope fades in Colombia as teams dig for earthquake survivors",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/8/13/photos-hope-fades-in-colombia-as-teams-dig-for-earthquake-survivors?traffic_source=rss",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 8097,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Séisme en Colombie : le bilan s'élève à 265 morts",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260813-s%C3%A9isme-en-colombie-le-bilan-s-%C3%A9l%C3%A8ve-%C3%A0-265-morts",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 927,
+    "id": 2718,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9684,
+    "id": 4083,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2602,
+    "id": 9716,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2155,
+    "id": 6331,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6929,
+    "id": 5553,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4337,
+    "id": 1383,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7435,
+    "id": 5946,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7402,
+    "id": 5854,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8101,
+    "id": 4689,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3340,
+    "id": 4235,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2437,
+    "id": 3994,
     "level": "medium",
     "country": "🌍",
     "text": "What it is like to run a business as a woman in Taliban-controlled Afghanistan",
@@ -144,7 +162,7 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 6824,
+    "id": 3894,
     "level": "medium",
     "country": "🌍",
     "text": "After 30 years of cultural revival, the Siraya reclaim their Indigenous status i",
@@ -153,30 +171,12 @@
     "time": "Wed, 12 Aug 2026"
   },
   {
-    "id": 9610,
+    "id": 1323,
     "level": "medium",
     "country": "🌍",
     "text": "The bleak picture of how Indigenous youth are treated in Australia’s justice sys",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/11/the-bleak-picture-of-how-indigenous-youth-are-treated-in-australias-justice-system/",
     "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 7016,
-    "level": "medium",
-    "country": "🌍",
-    "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 1831,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cocoa farmers in southeast Cameroon are adapting to EU regulations, but they sti",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/10/cocoa-farmers-in-southeast-cameroon-are-adapting-to-eu-regulations-but-they-still-want-a-fair-price/",
-    "time": "Mon, 10 Aug 2026"
   }
 ]
