@@ -1,6 +1,6 @@
 [
   {
-    "id": 382,
+    "id": 660,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3713,
+    "id": 7951,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4130,
+    "id": 6755,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 8284,
+    "id": 7590,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -36,43 +36,52 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 67,
+    "id": 1437,
     "level": "critical",
     "country": "🌍",
-    "text": "North Korea fumes over upcoming US-South Korea military drills",
+    "text": "Russia says hit Ukrainian railway and port facilities in new strikes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 801,
+    "id": 8684,
     "level": "critical",
     "country": "🌍",
-    "text": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
+    "text": "Guerre de l'eau en Cisjordanie occupée : les colons israéliens acculent les Pale",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260814-guerre-eau-cisjordanie-occup%C3%A9e-colons-isra%C3%A9liens-acculent-palestiniens",
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 8734,
+    "id": 7578,
     "level": "critical",
     "country": "🌍",
-    "text": "Record rainfall leaves four dead, thousands stranded in Japan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
+    "text": "Guerre en Ukraine : cinq blessés dans des frappes russes sur un immeuble résiden",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260814-guerre-en-ukraine-cinq-bless%C3%A9s-dans-des-frappes-russes-sur-un-immeuble-r%C3%A9sidentiel",
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 2059,
+    "id": 2856,
     "level": "critical",
     "country": "🌍",
-    "text": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss",
+    "text": "Séisme en Colombie : les recherches continuent jusqu'au bout",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260814-s%C3%A9isme-en-colombie-les-recherches-continuent-jusqu-au-bout",
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 8778,
+    "id": 8080,
+    "level": "high",
+    "country": "🌍",
+    "text": "What is a ‘ceasefire’ supposed to achieve?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 222,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6276,
+    "id": 9595,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1664,
+    "id": 7305,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3520,
+    "id": 8577,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5009,
+    "id": 2348,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7096,
+    "id": 7900,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4137,
+    "id": 2949,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7769,
+    "id": 9587,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 473,
+    "id": 3724,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 87,
+    "id": 4025,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,21 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 8264,
+    "id": 9242,
     "level": "medium",
     "country": "🌍",
     "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/",
     "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 5046,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What it is like to run a business as a woman in Taliban-controlled Afghanistan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/12/what-it-is-like-to-run-a-business-as-a-woman-in-taliban-controlled-afghanistan/",
-    "time": "Wed, 12 Aug 2026"
   }
 ]
