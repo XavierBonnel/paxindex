@@ -1,6 +1,6 @@
 [
   {
-    "id": 4805,
+    "id": 9129,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6225,
+    "id": 936,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6732,
+    "id": 1299,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 9927,
+    "id": 3535,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -36,7 +36,16 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 9515,
+    "id": 9328,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 3364,
     "level": "critical",
     "country": "🌍",
     "text": "Pakistan PM’s ‘red line’ warning to India over water treaty",
@@ -45,7 +54,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 73,
+    "id": 6026,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Iran : après huit mois en mer, les marins de l’Abraham Lincoln s’épuis",
@@ -54,16 +63,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 67,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre de l'eau en Cisjordanie occupée : les colons israéliens acculent les Pale",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260814-guerre-eau-cisjordanie-occup%C3%A9e-colons-isra%C3%A9liens-acculent-palestiniens",
-    "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 3087,
+    "id": 9100,
     "level": "high",
     "country": "🌍",
     "text": "Russia stance will be defended in court, pledges World Athletics chief Coe",
@@ -72,7 +72,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 4845,
+    "id": 94,
     "level": "high",
     "country": "🌍",
     "text": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
@@ -81,7 +81,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 7602,
+    "id": 1901,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8830,
+    "id": 7291,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5957,
+    "id": 7667,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1336,
+    "id": 3977,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 75,
+    "id": 3185,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 235,
+    "id": 1355,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8367,
+    "id": 5888,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1528,
+    "id": 3131,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2713,
+    "id": 9649,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6127,
+    "id": 7656,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9385,
+    "id": 2638,
     "level": "medium",
     "country": "🌍",
     "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
