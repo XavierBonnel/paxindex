@@ -1,6 +1,6 @@
 [
   {
-    "id": 4778,
+    "id": 4805,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1695,
+    "id": 6225,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9350,
+    "id": 6732,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 6813,
+    "id": 9927,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -36,43 +36,25 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 3020,
+    "id": 9515,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+    "text": "Pakistan PM’s ‘red line’ warning to India over water treaty",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 3387,
+    "id": 73,
     "level": "critical",
     "country": "🌍",
-    "text": "Record-breaking rain in Japan leaves several dead, thousands stranded",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+    "text": "Guerre en Iran : après huit mois en mer, les marins de l’Abraham Lincoln s’épuis",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260814-guerre-en-iran-apr%C3%A8s-huit-mois-en-mer-les-marins-de-l-abraham-lincoln-s-%C3%A9puisent",
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 5641,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Seven killed in tunnel accident at Indian hydropower project",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
-    "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 3240,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia says hit Ukrainian railway and port facilities in new strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
-    "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 4790,
+    "id": 67,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre de l'eau en Cisjordanie occupée : les colons israéliens acculent les Pale",
@@ -81,25 +63,25 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 8418,
-    "level": "critical",
+    "id": 3087,
+    "level": "high",
     "country": "🌍",
-    "text": "Guerre en Ukraine : cinq blessés dans des frappes russes sur un immeuble résiden",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260814-guerre-en-ukraine-cinq-bless%C3%A9s-dans-des-frappes-russes-sur-un-immeuble-r%C3%A9sidentiel",
+    "text": "Russia stance will be defended in court, pledges World Athletics chief Coe",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 9731,
-    "level": "critical",
+    "id": 4845,
+    "level": "high",
     "country": "🌍",
-    "text": "Séisme en Colombie : les recherches continuent jusqu'au bout",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260814-s%C3%A9isme-en-colombie-les-recherches-continuent-jusqu-au-bout",
+    "text": "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss",
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 6459,
+    "id": 7602,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3059,
+    "id": 8830,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 363,
+    "id": 5957,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2661,
+    "id": 1336,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9676,
+    "id": 75,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3431,
+    "id": 235,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6624,
+    "id": 8367,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9330,
+    "id": 1528,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +153,30 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5116,
+    "id": 2713,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 6127,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 9385,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/",
+    "time": "Fri, 14 Aug 2026"
   }
 ]
