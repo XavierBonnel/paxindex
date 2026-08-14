@@ -1,6 +1,6 @@
 [
   {
-    "id": 3661,
+    "id": 7676,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6731,
+    "id": 158,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 7789,
+    "id": 9524,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 1687,
+    "id": 7004,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -36,7 +36,43 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 6001,
+    "id": 325,
+    "level": "critical",
+    "country": "🌍",
+    "text": "North Korea fumes over upcoming US-South Korea military drills",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 5341,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 4781,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Record rainfall leaves four dead, thousands stranded in Japan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 5159,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Salvage work begins on tanker leaking oil off Oman, risk firm says",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 2026,
     "level": "high",
     "country": "🌍",
     "text": "Oil slick from tanker carrying sanctioned Russian crude reaches Oman",
@@ -45,7 +81,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 1826,
+    "id": 1968,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -54,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7688,
+    "id": 1263,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -63,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5097,
+    "id": 2749,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -72,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9633,
+    "id": 6029,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -81,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1549,
+    "id": 9547,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -90,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7337,
+    "id": 3978,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -99,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6011,
+    "id": 9065,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -108,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6417,
+    "id": 8794,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -117,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5044,
+    "id": 3764,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -126,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 533,
+    "id": 2555,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -135,48 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6581,
+    "id": 7404,
     "level": "medium",
     "country": "🌍",
     "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/",
     "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 6634,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What it is like to run a business as a woman in Taliban-controlled Afghanistan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/12/what-it-is-like-to-run-a-business-as-a-woman-in-taliban-controlled-afghanistan/",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 5349,
-    "level": "medium",
-    "country": "🌍",
-    "text": "After 30 years of cultural revival, the Siraya reclaim their Indigenous status i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/12/after-30-years-of-cultural-revival-the-siraya-reclaim-their-indigenous-status-in-taiwan/",
-    "time": "Wed, 12 Aug 2026"
-  },
-  {
-    "id": 3977,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The bleak picture of how Indigenous youth are treated in Australia’s justice sys",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/11/the-bleak-picture-of-how-indigenous-youth-are-treated-in-australias-justice-system/",
-    "time": "Tue, 11 Aug 2026"
-  },
-  {
-    "id": 4652,
-    "level": "medium",
-    "country": "🌍",
-    "text": "More than a month after Venezuela’s earthquakes: ‘I’m not leaving here until my ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/11/more-than-a-month-after-venezuelas-earthquakes-im-not-leaving-here-until-my-son-is-found/",
-    "time": "Tue, 11 Aug 2026"
   }
 ]
