@@ -1,6 +1,6 @@
 [
   {
-    "id": 660,
+    "id": 4778,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 7951,
+    "id": 1695,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6755,
+    "id": 9350,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,7 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 7590,
+    "id": 6813,
     "level": "critical",
     "country": "🌍",
     "text": "Can AI help build peace? African youth are showing a path forward",
@@ -36,7 +36,34 @@
     "time": "Sun, 09 Aug 2026"
   },
   {
-    "id": 1437,
+    "id": 3020,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 3387,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 5641,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Seven killed in tunnel accident at Indian hydropower project",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 3240,
     "level": "critical",
     "country": "🌍",
     "text": "Russia says hit Ukrainian railway and port facilities in new strikes",
@@ -45,7 +72,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 8684,
+    "id": 4790,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre de l'eau en Cisjordanie occupée : les colons israéliens acculent les Pale",
@@ -54,7 +81,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 7578,
+    "id": 8418,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : cinq blessés dans des frappes russes sur un immeuble résiden",
@@ -63,7 +90,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 2856,
+    "id": 9731,
     "level": "critical",
     "country": "🌍",
     "text": "Séisme en Colombie : les recherches continuent jusqu'au bout",
@@ -72,16 +99,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 8080,
-    "level": "high",
-    "country": "🌍",
-    "text": "What is a ‘ceasefire’ supposed to achieve?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
-    "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 222,
+    "id": 6459,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9595,
+    "id": 3059,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7305,
+    "id": 363,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8577,
+    "id": 2661,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2348,
+    "id": 9676,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7900,
+    "id": 3431,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2949,
+    "id": 6624,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9587,
+    "id": 9330,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3724,
+    "id": 5116,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 4025,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 9242,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/",
-    "time": "Fri, 14 Aug 2026"
   }
 ]
