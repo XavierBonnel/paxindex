@@ -1,6 +1,6 @@
 [
   {
-    "id": 6489,
+    "id": 9868,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 561,
+    "id": 4535,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4234,
+    "id": 1492,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 8109,
+    "id": 7596,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -36,7 +36,16 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 9960,
+    "id": 2106,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Qatar denies it is detaining three Iranian bomber pilots",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+    "time": "Sat, 15 Aug 2026"
+  },
+  {
+    "id": 9485,
     "level": "critical",
     "country": "🌍",
     "text": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
@@ -45,34 +54,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 1506,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 3731,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UK PM Burnham reacts to death of former Cambridge professor",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 4904,
-    "level": "critical",
-    "country": "🌍",
-    "text": "One killed, dozens injured after wildfire hits Croatian coast",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 1364,
+    "id": 7376,
     "level": "critical",
     "country": "🌍",
     "text": "Le président sud-coréen propose des discussions à Pyongyang pour mettre fin à la",
@@ -81,16 +63,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 8157,
-    "level": "high",
-    "country": "🌍",
-    "text": "L'Ukraine revendique une attaque sur l'usine spatiale russe de Samara",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260815-ukraine-revendique-attaque-usine-spatiale-russe-samara-missiles",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 3469,
+    "id": 7618,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2152,
+    "id": 6812,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7214,
+    "id": 7836,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6888,
+    "id": 5373,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3096,
+    "id": 4669,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9812,
+    "id": 3490,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6141,
+    "id": 3802,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5286,
+    "id": 844,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7239,
+    "id": 6354,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +144,39 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6926,
+    "id": 1103,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 1708,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The Herat arrests are a defining moment of Taliban repression in Afghanistan",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/14/the-herat-arrests-are-a-defining-moment-of-taliban-repression-in-afghanistan/",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 9748,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 8645,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What it is like to run a business as a woman in Taliban-controlled Afghanistan",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/12/what-it-is-like-to-run-a-business-as-a-woman-in-taliban-controlled-afghanistan/",
+    "time": "Wed, 12 Aug 2026"
   }
 ]
