@@ -1,6 +1,6 @@
 [
   {
-    "id": 6336,
+    "id": 5829,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3936,
+    "id": 7992,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 2774,
+    "id": 434,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,25 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 4277,
+    "id": 1121,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+    "time": "Sat, 15 Aug 2026"
+  },
+  {
+    "id": 1733,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Houthi attack on port kills four eroding truce with Yemen’s government",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/houthi-attack-on-port-kills-four-eroding-truce-with-yemens-government?traffic_source=rss",
+    "time": "Fri, 14 Aug 2026"
+  },
+  {
+    "id": 1284,
     "level": "critical",
     "country": "🌍",
     "text": "Yemen’s government says Houthi attack on al-Makha kills at least four",
@@ -36,7 +54,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 5507,
+    "id": 3367,
     "level": "critical",
     "country": "🌍",
     "text": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
@@ -45,16 +63,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 2863,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Former Cambridge professor accused of plagiarism found dead",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
-    "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 6937,
+    "id": 6161,
     "level": "critical",
     "country": "🌍",
     "text": "Le jeune cycliste Finlay Tarling trouve la mort dans un accident au Tour du Port",
@@ -63,16 +72,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 1133,
-    "level": "high",
-    "country": "🌍",
-    "text": "New aerial video reveals huge scale of oil spill off Oman",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
-    "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 4689,
+    "id": 1666,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1062,
+    "id": 1819,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9709,
+    "id": 6804,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9038,
+    "id": 7111,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 453,
+    "id": 6135,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5351,
+    "id": 3281,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8284,
+    "id": 949,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7943,
+    "id": 9163,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2371,
+    "id": 4744,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1985,
+    "id": 8060,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2527,
+    "id": 9317,
     "level": "medium",
     "country": "🌍",
     "text": "The Herat arrests are a defining moment of Taliban repression in Afghanistan",
@@ -171,7 +171,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 2930,
+    "id": 1817,
     "level": "medium",
     "country": "🌍",
     "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
