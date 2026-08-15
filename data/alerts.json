@@ -1,6 +1,6 @@
 [
   {
-    "id": 6037,
+    "id": 4032,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +9,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3622,
+    "id": 9019,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6048,
+    "id": 3518,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +27,16 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 5572,
+    "id": 6144,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How a Sudanese refugee became a head teacher in a Chadian camp",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+    "time": "Sat, 15 Aug 2026"
+  },
+  {
+    "id": 7351,
     "level": "critical",
     "country": "🌍",
     "text": "Taiwan passes defence budget after record delay, retains drone funding",
@@ -36,7 +45,16 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 8232,
+    "id": 4801,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Virus Ebola en RD Congo : un décès toutes les 30 minutes, l'épidémie s'étend à u",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260815-virus-ebola-en-rd-congo-un-d%C3%A9c%C3%A8s-toutes-les-30-minutes-l-%C3%A9pid%C3%A9mie-s-%C3%A9tend-%C3%A0-une-6e-province",
+    "time": "Sat, 15 Aug 2026"
+  },
+  {
+    "id": 8369,
     "level": "critical",
     "country": "🌍",
     "text": "L'Indonésie touchée par un puissant séisme, au moins 20 morts",
@@ -45,7 +63,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 7596,
+    "id": 7131,
     "level": "critical",
     "country": "🌍",
     "text": "Le jeune cycliste Finlay Tarling trouve la mort dans un accident au Tour du Port",
@@ -54,7 +72,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 2636,
+    "id": 6736,
     "level": "high",
     "country": "🌍",
     "text": "India marks 80th Independence Day with military display",
@@ -63,7 +81,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 8917,
+    "id": 5804,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3882,
+    "id": 3161,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4238,
+    "id": 3560,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4694,
+    "id": 8022,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4268,
+    "id": 2541,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3303,
+    "id": 7721,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7771,
+    "id": 8153,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8270,
+    "id": 5064,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9603,
+    "id": 6591,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 6509,
+    "id": 5303,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,30 +171,12 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 1465,
+    "id": 3546,
     "level": "medium",
     "country": "🌍",
     "text": "The Herat arrests are a defining moment of Taliban repression in Afghanistan",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/14/the-herat-arrests-are-a-defining-moment-of-taliban-repression-in-afghanistan/",
     "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 6901,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/",
-    "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 5957,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What it is like to run a business as a woman in Taliban-controlled Afghanistan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/12/what-it-is-like-to-run-a-business-as-a-woman-in-taliban-controlled-afghanistan/",
-    "time": "Wed, 12 Aug 2026"
   }
 ]
