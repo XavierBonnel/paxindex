@@ -1,6 +1,15 @@
 [
   {
-    "id": 9876,
+    "id": 1230,
+    "level": "critical",
+    "country": "🌍",
+    "text": "A mosque built by a transgender person raises questions about faith and belongin",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/15/a-mosque-built-by-a-transgender-person-raises-questions-about-faith-and-belonging-in-pakistan/",
+    "time": "Sat, 15 Aug 2026"
+  },
+  {
+    "id": 7403,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -9,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4620,
+    "id": 1572,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -18,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6295,
+    "id": 2042,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -27,7 +36,16 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 8706,
+    "id": 1537,
+    "level": "critical",
+    "country": "🌍",
+    "text": "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/15/coe-cites-olympics-and-fifa-world-cup-in-warning-on-interference-in-sport?traffic_source=rss",
+    "time": "Sat, 15 Aug 2026"
+  },
+  {
+    "id": 7970,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli strike kills seven in south Lebanon as attacks intensify",
@@ -36,7 +54,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 5320,
+    "id": 6394,
     "level": "critical",
     "country": "🌍",
     "text": "South Korea’s president wants talks with North to end Korean War",
@@ -45,34 +63,16 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 1771,
+    "id": 9110,
     "level": "critical",
     "country": "🌍",
-    "text": "How a Sudanese refugee became a head teacher in a Chadian camp",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 2932,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Virus Ebola en RD Congo : un décès toutes les 30 minutes, l'épidémie s'étend à u",
+    "text": "Sud-Liban : au moins sept morts et trois blessés samedi lors d'une frappe aérien",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260815-virus-ebola-l-%C3%A9pid%C3%A9mie-s-%C3%A9tend-%C3%A0-une-6e-province-en-rd-congo-un-d%C3%A9c%C3%A8s-toutes-les-30-minutes",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260815-sud-liban-au-moins-sept-morts-et-trois-bless%C3%A9s-samedi-lors-d-une-frappe-a%C3%A9rienne-isra%C3%A9lienne",
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 2932,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Virus Ebola en RD Congo : un décès toutes les 30 minutes, l'épidémie s'étend à u",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260815-virus-ebola-en-rd-congo-un-d%C3%A9c%C3%A8s-toutes-les-30-minutes-l-%C3%A9pid%C3%A9mie-s-%C3%A9tend-%C3%A0-une-6e-province",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 780,
+    "id": 168,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1449,
+    "id": 6387,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3002,
+    "id": 427,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 668,
+    "id": 9829,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9115,
+    "id": 9584,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2986,
+    "id": 3087,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4244,
+    "id": 7338,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8615,
+    "id": 931,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3139,
+    "id": 7817,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3824,
+    "id": 8691,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -162,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 9729,
+    "id": 7865,
     "level": "medium",
     "country": "🌍",
     "text": "The Herat arrests are a defining moment of Taliban repression in Afghanistan",
@@ -171,7 +171,7 @@
     "time": "Fri, 14 Aug 2026"
   },
   {
-    "id": 2229,
+    "id": 5958,
     "level": "medium",
     "country": "🌍",
     "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
