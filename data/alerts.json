@@ -1,6 +1,6 @@
 [
   {
-    "id": 1494,
+    "id": 6569,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 6898,
+    "id": 5861,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3667,
+    "id": 6349,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4377,
+    "id": 5920,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 5921,
     "level": "critical",
     "country": "🌍",
     "text": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
@@ -36,7 +45,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5993,
+    "id": 7170,
     "level": "critical",
     "country": "🌍",
     "text": "Belgium’s largest wildfire on record spreads towards German border",
@@ -45,34 +54,16 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 2719,
+    "id": 5481,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Limited options’ for many Iranians as war with US chokes economy",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+    "text": "Zimbabwe : le bilan monte à 80 morts dans le naufrage d'un ferry sur le lac Kari",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260816-zimbabwe-bilan-monte-80-morts-dans-naufrage-ferry-sur-le-lac-kariba-victimes",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 6906,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 8110,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 9514,
+    "id": 7990,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Moscou visée par 600 drones, Kiev par des missiles balistiqu",
@@ -81,7 +72,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 4208,
+    "id": 4495,
     "level": "critical",
     "country": "🌍",
     "text": "Liban : onze morts dans les frappes israéliennes les plus meurtrières depuis jui",
@@ -90,7 +81,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7319,
+    "id": 7991,
     "level": "critical",
     "country": "🌍",
     "text": "Séisme en Colombie : un chien sauvé au prix de la vie de sa maîtresse",
@@ -99,7 +90,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 928,
+    "id": 1812,
     "level": "critical",
     "country": "🌍",
     "text": "Sud du Liban : quel impact des frappes israéliennes sur les négociations de paix",
@@ -108,7 +99,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 6813,
+    "id": 6294,
     "level": "critical",
     "country": "🌍",
     "text": "Au Liban, \"respecter le droit de soigner\"",
@@ -117,16 +108,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 4899,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au moins 12 morts dans l'accident d'un car polonais en Hongrie, la pire catastro",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260816-accident-de-car-en-hongrie-au-moins-12-morts-et-10-bless%C3%A9s-la-pologne-envoie-un-avion-sanitaire",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 7723,
+    "id": 8867,
     "level": "high",
     "country": "🌍",
     "text": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
@@ -135,7 +117,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 1073,
+    "id": 2613,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1286,
+    "id": 5984,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1927,
+    "id": 2744,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2765,
+    "id": 3790,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +153,30 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4239,
+    "id": 8168,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 1522,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 9204,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
   }
 ]
