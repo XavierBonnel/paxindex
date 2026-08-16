@@ -1,6 +1,6 @@
 [
   {
-    "id": 3261,
+    "id": 1494,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 7988,
+    "id": 6898,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1734,
+    "id": 3667,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5225,
+    "id": 4377,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 5993,
     "level": "critical",
     "country": "🌍",
     "text": "Belgium’s largest wildfire on record spreads towards German border",
@@ -36,7 +45,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 6970,
+    "id": 2719,
     "level": "critical",
     "country": "🌍",
     "text": "‘Limited options’ for many Iranians as war with US chokes economy",
@@ -45,7 +54,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 1391,
+    "id": 6906,
     "level": "critical",
     "country": "🌍",
     "text": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
@@ -54,7 +63,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7157,
+    "id": 8110,
     "level": "critical",
     "country": "🌍",
     "text": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
@@ -63,43 +72,70 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 9125,
+    "id": 9514,
     "level": "critical",
     "country": "🌍",
-    "text": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/16/mohamed-salah-trabzonspor-debut-draw-kasimpasa-turkish-super-lig?traffic_source=rss",
+    "text": "Guerre en Ukraine : Moscou visée par 600 drones, Kiev par des missiles balistiqu",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-guerre-en-ukraine-moscou-vis%C3%A9e-par-600-drones-kiev-par-des-missiles-balistiques",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 302,
+    "id": 4208,
     "level": "critical",
     "country": "🌍",
-    "text": "Accident de car en Hongrie : au moins 12 morts et 10 blessés, la Pologne envoie ",
+    "text": "Liban : onze morts dans les frappes israéliennes les plus meurtrières depuis jui",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-liban-onze-morts-dans-les-frappes-isra%C3%A9liennes-les-plus-meurtri%C3%A8res-depuis-juin",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 7319,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Séisme en Colombie : un chien sauvé au prix de la vie de sa maîtresse",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9isme-en-colombie-un-chien-sauv%C3%A9-au-prix-de-la-vie-de-sa-ma%C3%AEtresse",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 928,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Sud du Liban : quel impact des frappes israéliennes sur les négociations de paix",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-sud-du-liban-quel-impact-des-frappes-isra%C3%A9liennes-sur-les-n%C3%A9gociations-de-paix",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 6813,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au Liban, \"respecter le droit de soigner\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-au-liban-respecter-le-droit-de-soigner",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 4899,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au moins 12 morts dans l'accident d'un car polonais en Hongrie, la pire catastro",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260816-accident-de-car-en-hongrie-au-moins-12-morts-et-10-bless%C3%A9s-la-pologne-envoie-un-avion-sanitaire",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 9796,
-    "level": "critical",
+    "id": 7723,
+    "level": "high",
     "country": "🌍",
-    "text": "🔴 En direct : l'Ukraine lance l'une de ses plus importantes attaques aériennes e",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260816-ukraine-en-direct-des-explosions-retentissent-%C3%A0-kiev-moscou-vis%C3%A9e-par-600-drones",
+    "text": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5451,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mort de Jason Arday : ses proches dénoncent une \"campagne de harcèlement\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-mort-de-jason-arday-ses-proches-d%C3%A9noncent-une-campagne-de-harc%C3%A8lement",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 816,
+    "id": 1073,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5073,
+    "id": 1286,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7341,
+    "id": 1927,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1423,
+    "id": 2765,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,48 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9996,
+    "id": 4239,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 1473,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 1877,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 4208,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 1718,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
   }
 ]
