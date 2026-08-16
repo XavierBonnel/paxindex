@@ -1,6 +1,6 @@
 [
   {
-    "id": 625,
+    "id": 9163,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 7180,
+    "id": 1645,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6205,
+    "id": 4244,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1611,
+    "id": 3476,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Cristiano Ronaldo hints at retirement at end of season",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 4059,
     "level": "critical",
     "country": "🌍",
     "text": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
@@ -36,25 +45,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 2287,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities?traffic_source=rss",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 5007,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 6570,
+    "id": 7560,
     "level": "critical",
     "country": "🌍",
     "text": "Kenya : un mal mystérieux décime les éléphants",
@@ -63,7 +54,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7333,
+    "id": 3318,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran promet une prime de 30 000 dollars pour la mort ou la capture de soldats ",
@@ -72,7 +63,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 228,
+    "id": 6215,
     "level": "critical",
     "country": "🌍",
     "text": "Zimbabwe : le bilan monte à 80 morts dans le naufrage d'un ferry sur le lac Kari",
@@ -81,7 +72,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7333,
+    "id": 2658,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Moscou visée par 600 drones, Kiev par des missiles balistiqu",
@@ -90,7 +81,16 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 1704,
+    "id": 1790,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israeli army besieges Palestinian homes in occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 2517,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7196,
+    "id": 1883,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8758,
+    "id": 3110,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 783,
+    "id": 5672,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4516,
+    "id": 5495,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6163,
+    "id": 3909,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2109,
+    "id": 7356,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2053,
+    "id": 2791,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1346,
+    "id": 1503,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,7 +171,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 784,
+    "id": 312,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
