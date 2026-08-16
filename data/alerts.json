@@ -1,6 +1,6 @@
 [
   {
-    "id": 9158,
+    "id": 5658,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 7964,
+    "id": 7894,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 8855,
+    "id": 2081,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 412,
+    "id": 7803,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -36,7 +36,16 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 5038,
+    "id": 3776,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 8940,
     "level": "critical",
     "country": "🌍",
     "text": "Army drops roses on Syrian crowds in a far cry from war",
@@ -45,7 +54,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 4137,
+    "id": 4210,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
@@ -54,7 +63,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7782,
+    "id": 3095,
     "level": "critical",
     "country": "🌍",
     "text": "Yemen’s government says Houthi strikes hit residential areas in Marib",
@@ -63,7 +72,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 2877,
+    "id": 7522,
     "level": "critical",
     "country": "🌍",
     "text": "At least five reported dead amid flooding in US state of Indiana",
@@ -72,16 +81,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 4061,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Qatar denies it is detaining three Iranian bomber pilots",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 5602,
+    "id": 7370,
     "level": "critical",
     "country": "🌍",
     "text": "Le président sud-coréen propose des discussions à Pyongyang pour mettre fin à la",
@@ -90,7 +90,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 4035,
+    "id": 4886,
     "level": "high",
     "country": "🌍",
     "text": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
@@ -99,7 +99,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 3713,
+    "id": 7119,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5443,
+    "id": 8747,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6149,
+    "id": 9120,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9330,
+    "id": 8779,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 553,
+    "id": 6204,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5740,
+    "id": 7054,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5976,
+    "id": 2070,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3503,
+    "id": 3040,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,7 +171,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5676,
+    "id": 3024,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
