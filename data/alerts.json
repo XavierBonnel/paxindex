@@ -1,6 +1,6 @@
 [
   {
-    "id": 6313,
+    "id": 1835,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 766,
+    "id": 9309,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1833,
+    "id": 7675,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5179,
+    "id": 7668,
     "level": "critical",
     "country": "🌍",
     "text": "In Japan, Ryūkyūan Indigenous claim hindered by U.S. military bases in Okinawa",
@@ -36,7 +36,34 @@
     "time": "Mon, 10 Aug 2026"
   },
   {
-    "id": 8487,
+    "id": 9056,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 5334,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel strikes south Lebanon again as families flee north",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 7815,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 489,
     "level": "critical",
     "country": "🌍",
     "text": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
@@ -45,7 +72,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 8932,
+    "id": 6024,
     "level": "critical",
     "country": "🌍",
     "text": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
@@ -54,7 +81,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 4154,
+    "id": 4822,
     "level": "critical",
     "country": "🌍",
     "text": "Army drops roses on Syrian crowds in a far cry from war",
@@ -63,34 +90,16 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5503,
+    "id": 4160,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
+    "text": "Une inondation dans le nord-ouest de l'Espagne fait deux morts, deux bébés bless",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260816-des-inondations-dans-le-nord-ouest-de-l-espagne-font-deux-morts-deux-b%C3%A9b%C3%A9s-bless%C3%A9s",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 6861,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Yemen’s government says Houthi strikes hit residential areas in Marib",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 1297,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least five reported dead amid flooding in US state of Indiana",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 9182,
+    "id": 9858,
     "level": "critical",
     "country": "🌍",
     "text": "Le président sud-coréen propose des discussions à Pyongyang pour mettre fin à la",
@@ -99,7 +108,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 6476,
+    "id": 7194,
     "level": "high",
     "country": "🌍",
     "text": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
@@ -108,7 +117,16 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 8482,
+    "id": 4175,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ukraine en direct : des explosions retentissent à Kiev, Moscou visée par 600 dro",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260816-ukraine-en-direct-des-explosions-retentissent-%C3%A0-kiev-moscou-vis%C3%A9e-par-600-drones",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 7227,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2304,
+    "id": 4996,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 900,
+    "id": 9976,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6934,
+    "id": 4910,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 735,
+    "id": 9604,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,30 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1309,
+    "id": 8125,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 2296,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 5106,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
   }
 ]
