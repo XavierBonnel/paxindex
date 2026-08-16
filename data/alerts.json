@@ -1,6 +1,6 @@
 [
   {
-    "id": 6825,
+    "id": 5200,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 9663,
+    "id": 9359,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 974,
+    "id": 7498,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 711,
+    "id": 6835,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 4146,
     "level": "critical",
     "country": "🌍",
     "text": "Cristiano Ronaldo hints at retirement at end of season",
@@ -36,16 +45,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 162,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 8591,
+    "id": 7405,
     "level": "critical",
     "country": "🌍",
     "text": "Kenya : un mal mystérieux décime les éléphants",
@@ -54,7 +54,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7483,
+    "id": 9771,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran promet une prime de 30 000 dollars pour la mort ou la capture de soldats ",
@@ -63,16 +63,16 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 4642,
+    "id": 3709,
     "level": "critical",
     "country": "🌍",
-    "text": "Zimbabwe : le bilan monte à 80 morts dans le naufrage d'un ferry sur le lac Kari",
+    "text": "Zimbabwe : le bilan monte à 84 morts dans le naufrage d'un ferry sur le lac Kari",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/afrique/20260816-zimbabwe-bilan-monte-80-morts-dans-naufrage-ferry-sur-le-lac-kariba-victimes",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 9322,
+    "id": 6567,
     "level": "high",
     "country": "🌍",
     "text": "Israeli army besieges Palestinian homes in occupied West Bank",
@@ -81,7 +81,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 1397,
+    "id": 1903,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8560,
+    "id": 4631,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4247,
+    "id": 5282,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3598,
+    "id": 190,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7147,
+    "id": 4198,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 145,
+    "id": 3940,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1949,
+    "id": 2561,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5804,
+    "id": 747,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7821,
+    "id": 4187,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4089,
+    "id": 9580,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 5458,
+    "id": 4262,
     "level": "medium",
     "country": "🌍",
     "text": "Escalation of sexual violence raises alarm in the Democratic Republic of the Con",
