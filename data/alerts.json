@@ -1,6 +1,6 @@
 [
   {
-    "id": 6569,
+    "id": 7898,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 5861,
+    "id": 2282,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6349,
+    "id": 4192,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5920,
+    "id": 5230,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 4362,
     "level": "critical",
     "country": "🌍",
     "text": "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?",
@@ -36,7 +45,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5921,
+    "id": 4956,
     "level": "critical",
     "country": "🌍",
     "text": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
@@ -45,16 +54,25 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7170,
+    "id": 3182,
     "level": "critical",
     "country": "🌍",
-    "text": "Belgium’s largest wildfire on record spreads towards German border",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+    "text": "Kenya : un mal mystérieux décime les éléphants",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-kenya-un-mal-myst%C3%A9rieux-d%C3%A9cime-les-%C3%A9l%C3%A9phants",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5481,
+    "id": 1404,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'Iran promet une prime de 30 000 dollars pour la mort ou la capture de soldats ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260816-guerre-moyen-orient-iran-promet-une-prime-de-30-000-dollars-pour-tuer-ou-capturer-des-soldats-am%C3%A9ricains",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 9129,
     "level": "critical",
     "country": "🌍",
     "text": "Zimbabwe : le bilan monte à 80 morts dans le naufrage d'un ferry sur le lac Kari",
@@ -63,7 +81,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7990,
+    "id": 1519,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Moscou visée par 600 drones, Kiev par des missiles balistiqu",
@@ -72,43 +90,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 4495,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Liban : onze morts dans les frappes israéliennes les plus meurtrières depuis jui",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-liban-onze-morts-dans-les-frappes-isra%C3%A9liennes-les-plus-meurtri%C3%A8res-depuis-juin",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 7991,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Séisme en Colombie : un chien sauvé au prix de la vie de sa maîtresse",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9isme-en-colombie-un-chien-sauv%C3%A9-au-prix-de-la-vie-de-sa-ma%C3%AEtresse",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 1812,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sud du Liban : quel impact des frappes israéliennes sur les négociations de paix",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-sud-du-liban-quel-impact-des-frappes-isra%C3%A9liennes-sur-les-n%C3%A9gociations-de-paix",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 6294,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au Liban, \"respecter le droit de soigner\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-au-liban-respecter-le-droit-de-soigner",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 8867,
+    "id": 6015,
     "level": "high",
     "country": "🌍",
     "text": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
@@ -117,7 +99,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 2613,
+    "id": 7571,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5984,
+    "id": 8431,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2744,
+    "id": 994,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3790,
+    "id": 4489,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8168,
+    "id": 1418,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1522,
+    "id": 7613,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +153,30 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9204,
+    "id": 2780,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 5968,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 8899,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
   }
 ]
