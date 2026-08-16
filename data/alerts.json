@@ -1,6 +1,6 @@
 [
   {
-    "id": 7005,
+    "id": 7339,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 3401,
+    "id": 9460,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3162,
+    "id": 1609,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,79 +27,52 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6627,
+    "id": 1609,
     "level": "critical",
     "country": "🌍",
-    "text": "A nation divided: What do Israelis want in October’s elections?",
+    "text": "At least 12 people killed in Hungary bus crash",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7071,
+    "id": 5711,
     "level": "critical",
     "country": "🌍",
-    "text": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+    "text": "Australia to begin gun buyback scheme in response to Bondi shooting",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5347,
+    "id": 7300,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+    "text": "Mort de Jason Arday : ses proches dénoncent une \"campagne de harcèlement\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-mort-de-jason-arday-ses-proches-d%C3%A9noncent-une-campagne-de-harc%C3%A8lement",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 1685,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel strikes south Lebanon again as families flee north",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 2315,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 5536,
+    "id": 4720,
     "level": "critical",
     "country": "🌍",
     "text": "Séisme en Indonésie : au moins 48 morts, des milliers d'évacués en attente d'aid",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9isme-en-indon%C3%A9sie-au-moins-48-morts-des-milliers-d-%C3%A9vacu%C3%A9s-en-attente-d-aide",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 3444,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Séisme en Indonésie : au moins 51 morts, des milliers d'évacués en attente d'aid",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/asie-pacifique/20260816-s%C3%A9isme-en-indon%C3%A9sie-au-moins-48-morts-des-milliers-d-%C3%A9vacu%C3%A9s-en-attente-d-aide",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 7608,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Une inondation dans le nord-ouest de l'Espagne fait deux morts, deux bébés bless",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260816-des-inondations-dans-le-nord-ouest-de-l-espagne-font-deux-morts-deux-b%C3%A9b%C3%A9s-bless%C3%A9s",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 2815,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ukraine en direct : des explosions retentissent à Kiev, Moscou visée par 600 dro",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260816-ukraine-en-direct-des-explosions-retentissent-%C3%A0-kiev-moscou-vis%C3%A9e-par-600-drones",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 7341,
+    "id": 6427,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3411,
+    "id": 6746,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4251,
+    "id": 3439,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1975,
+    "id": 7334,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4395,
+    "id": 5382,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 941,
+    "id": 1511,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2863,
+    "id": 5333,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9599,
+    "id": 9455,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +144,39 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4371,
+    "id": 2328,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 1730,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 98,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘The Sigh of the Earth’: Fragments from communities overlooked after Venezuela’s",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/16/the-sigh-of-the-earth-fragments-from-communities-overlooked-after-venezuelas-earthquakes/",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 5765,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The Herat arrests are a defining moment of Taliban repression in Afghanistan",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/14/the-herat-arrests-are-a-defining-moment-of-taliban-repression-in-afghanistan/",
+    "time": "Fri, 14 Aug 2026"
   }
 ]
