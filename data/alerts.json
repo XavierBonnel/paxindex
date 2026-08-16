@@ -1,6 +1,6 @@
 [
   {
-    "id": 253,
+    "id": 7090,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 4736,
+    "id": 5149,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 7485,
+    "id": 8926,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4259,
+    "id": 3672,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Limited options’ for many Iranians as war with US chokes economy",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 1295,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 9629,
     "level": "critical",
     "country": "🌍",
     "text": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
@@ -36,7 +54,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 6106,
+    "id": 5401,
     "level": "critical",
     "country": "🌍",
     "text": "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
@@ -45,16 +63,16 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5581,
+    "id": 38,
     "level": "critical",
     "country": "🌍",
-    "text": "At least 12 people killed in Hungary bus crash",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+    "text": "Accident de car en Hongrie : au moins 12 morts et 10 blessés, la Pologne envoie ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260816-accident-de-car-en-hongrie-au-moins-12-morts-et-10-bless%C3%A9s-la-pologne-envoie-un-avion-sanitaire",
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 6296,
+    "id": 4170,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 En direct : l'Ukraine lance l'une de ses plus importantes attaques aériennes e",
@@ -63,7 +81,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5593,
+    "id": 1604,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de Jason Arday : ses proches dénoncent une \"campagne de harcèlement\"",
@@ -72,16 +90,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 8080,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Séisme en Indonésie : au moins 48 morts, des milliers d'évacués en attente d'aid",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9isme-en-indon%C3%A9sie-au-moins-48-morts-des-milliers-d-%C3%A9vacu%C3%A9s-en-attente-d-aide",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 4003,
+    "id": 4812,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5782,
+    "id": 9607,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7669,
+    "id": 4513,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7031,
+    "id": 6941,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5384,
+    "id": 2670,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7476,
+    "id": 6296,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 495,
+    "id": 380,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2277,
+    "id": 9880,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 279,
+    "id": 1783,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,21 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5427,
+    "id": 9741,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 1642,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘The Sigh of the Earth’: Fragments from communities overlooked after Venezuela’s",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/16/the-sigh-of-the-earth-fragments-from-communities-overlooked-after-venezuelas-earthquakes/",
-    "time": "Sun, 16 Aug 2026"
   }
 ]
