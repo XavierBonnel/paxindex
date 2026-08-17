@@ -1,6 +1,6 @@
 [
   {
-    "id": 9020,
+    "id": 5170,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 9469,
+    "id": 9041,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 7496,
+    "id": 9809,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9643,
+    "id": 9538,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3913,
+    "id": 3572,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 5210,
     "level": "critical",
     "country": "🌍",
     "text": "British PM Burnham duped by White House impostor",
@@ -45,7 +54,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 8258,
+    "id": 709,
     "level": "critical",
     "country": "🌍",
     "text": "War on Iran: Phase II, Day 37",
@@ -54,16 +63,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 1489,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Police execute controlled World War II–era Mine explosion",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 6819,
+    "id": 8284,
     "level": "critical",
     "country": "🌍",
     "text": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti anti",
@@ -72,7 +72,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6908,
+    "id": 4550,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RD Congo : l'épidémie devient la plus meurtrière de l'histoire du pays",
@@ -81,7 +81,25 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 889,
+    "id": 8851,
+    "level": "high",
+    "country": "🌍",
+    "text": "Clashes between government and opposition fighters in Somalia’s Baidoa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 6967,
+    "level": "high",
+    "country": "🌍",
+    "text": "Explosion reported at school in Afghan capital Kabul",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 2460,
     "level": "high",
     "country": "🌍",
     "text": "Britain deploys military as wildfires spread across Europe",
@@ -90,16 +108,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6403,
-    "level": "high",
-    "country": "🌍",
-    "text": "Democrats rebuke Trump over scaling back military drills with South Korea",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 3370,
+    "id": 9549,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5772,
+    "id": 7302,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7885,
+    "id": 6574,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2152,
+    "id": 7001,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2933,
+    "id": 230,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 28,
+    "id": 9300,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1124,
+    "id": 9895,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,21 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4782,
+    "id": 9278,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 3135,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
   }
 ]
