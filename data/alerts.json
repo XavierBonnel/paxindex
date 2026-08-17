@@ -1,6 +1,6 @@
 [
   {
-    "id": 82,
+    "id": 9914,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 3874,
+    "id": 541,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 8550,
+    "id": 7896,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 592,
+    "id": 5604,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,34 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3516,
+    "id": 4634,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump scales down war games with South Korea: Why it matters",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 9324,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 7543,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Is the world experiencing more earthquakes now than before?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/is-the-world-experiencing-more-earthquakes-now-than-before?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 1672,
     "level": "critical",
     "country": "🌍",
     "text": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
@@ -45,16 +72,25 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 2069,
+    "id": 2506,
     "level": "critical",
     "country": "🌍",
-    "text": "Thousands await aid after deadly Indonesia quake as rescue work under way",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
+    "text": "Ebola en RD Congo : l'épidémie devient la plus meurtrière de l'histoire du pays",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-ebola-en-rd-congo-l-%C3%A9pid%C3%A9mie-devient-la-plus-meurtri%C3%A8re-de-l-histoire-du-pays",
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 551,
+    "id": 1754,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : Trump menace de bombarder Oman s'il entrave un accord s",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260817-en-direct-jared-kushner-va-rencontrer-benjamin-netanyahu-relancer-plan-de-paix-gaza-israel-etats-unis-iran-liban-detroit-ormuz",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 7820,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes russo-ukrainiennes, plusieurs morts dans la région russe de Be",
@@ -63,7 +99,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 1553,
+    "id": 590,
+    "level": "high",
+    "country": "🌍",
+    "text": "Trump orders US to scale back South Korea military drills",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 3672,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6273,
+    "id": 8727,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4232,
+    "id": 5637,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 36,
+    "id": 3590,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3101,
+    "id": 1919,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7492,
+    "id": 5762,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 773,
+    "id": 9301,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,57 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6959,
+    "id": 6486,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 4804,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 566,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
-  },
-  {
-    "id": 665,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Escalation of sexual violence raises alarm in the Democratic Republic of the Con",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/16/escalation-of-sexual-violence-raises-alarm-in-the-democratic-republic-of-the-congo/",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 1862,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘The Sigh of the Earth’: Fragments from communities overlooked after Venezuela’s",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/16/the-sigh-of-the-earth-fragments-from-communities-overlooked-after-venezuelas-earthquakes/",
-    "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 3318,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The Herat arrests are a defining moment of Taliban repression in Afghanistan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/14/the-herat-arrests-are-a-defining-moment-of-taliban-repression-in-afghanistan/",
-    "time": "Fri, 14 Aug 2026"
   }
 ]
