@@ -1,6 +1,6 @@
 [
   {
-    "id": 5592,
+    "id": 7891,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -9,7 +9,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 5942,
+    "id": 1798,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -18,7 +18,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5988,
+    "id": 8552,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -27,7 +27,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3946,
+    "id": 334,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 1564,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+    "time": "Sun, 16 Aug 2026"
+  },
+  {
+    "id": 5374,
     "level": "critical",
     "country": "🌍",
     "text": "What could stop Israeli settler attacks on Palestinians?",
@@ -36,7 +54,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5818,
+    "id": 6235,
     "level": "critical",
     "country": "🌍",
     "text": "Anwar Ibrahim: Malaysia between the superpowers",
@@ -45,16 +63,16 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 9969,
-    "level": "critical",
+    "id": 3526,
+    "level": "high",
     "country": "🌍",
-    "text": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+    "text": "Trump says US to ‘substantially reduce’ military drills with South Korea",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
-    "time": "Sun, 16 Aug 2026"
+    "link": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 4012,
+    "id": 31,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2202,
+    "id": 5994,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9544,
+    "id": 894,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3876,
+    "id": 869,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5706,
+    "id": 4401,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6091,
+    "id": 9372,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8434,
+    "id": 1073,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 805,
+    "id": 3250,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9268,
+    "id": 99,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4705,
+    "id": 2718,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -144,7 +162,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 4291,
+    "id": 4749,
     "level": "medium",
     "country": "🌍",
     "text": "Escalation of sexual violence raises alarm in the Democratic Republic of the Con",
@@ -153,30 +171,12 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 1446,
+    "id": 2614,
     "level": "medium",
     "country": "🌍",
     "text": "‘The Sigh of the Earth’: Fragments from communities overlooked after Venezuela’s",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/16/the-sigh-of-the-earth-fragments-from-communities-overlooked-after-venezuelas-earthquakes/",
     "time": "Sun, 16 Aug 2026"
-  },
-  {
-    "id": 2010,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The Herat arrests are a defining moment of Taliban repression in Afghanistan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/14/the-herat-arrests-are-a-defining-moment-of-taliban-repression-in-afghanistan/",
-    "time": "Fri, 14 Aug 2026"
-  },
-  {
-    "id": 9030,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Chadian environmental activist Hindou Oumarou: ‘AI governance must respect Indig",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/14/chadian-environmental-activist-hindou-oumarou-ai-governance-must-respect-indigenous-peoples/",
-    "time": "Fri, 14 Aug 2026"
   }
 ]
