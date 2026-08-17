@@ -1,6 +1,6 @@
 [
   {
-    "id": 8645,
+    "id": 82,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 3413,
+    "id": 3874,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 7861,
+    "id": 8550,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5135,
+    "id": 592,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,25 +36,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1040,
+    "id": 3516,
     "level": "critical",
     "country": "🌍",
-    "text": "Thousands await aid after deadly Indonesia quake as rescue work conducted",
+    "text": "Iraqi Kurdish PM Barzani’s office targeted in drone attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 2069,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Thousands await aid after deadly Indonesia quake as rescue work under way",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 5452,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 2617,
+    "id": 551,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelles frappes russo-ukrainiennes, plusieurs morts dans la région russe de Be",
@@ -63,7 +63,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 5999,
+    "id": 1553,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7788,
+    "id": 6273,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 605,
+    "id": 4232,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7706,
+    "id": 36,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2107,
+    "id": 3101,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9261,
+    "id": 7492,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3750,
+    "id": 773,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8381,
+    "id": 6959,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9649,
+    "id": 4804,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7805,
+    "id": 566,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -153,7 +153,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 2688,
+    "id": 665,
     "level": "medium",
     "country": "🌍",
     "text": "Escalation of sexual violence raises alarm in the Democratic Republic of the Con",
@@ -162,7 +162,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 5053,
+    "id": 1862,
     "level": "medium",
     "country": "🌍",
     "text": "‘The Sigh of the Earth’: Fragments from communities overlooked after Venezuela’s",
@@ -171,7 +171,7 @@
     "time": "Sun, 16 Aug 2026"
   },
   {
-    "id": 6379,
+    "id": 3318,
     "level": "medium",
     "country": "🌍",
     "text": "The Herat arrests are a defining moment of Taliban repression in Afghanistan",
