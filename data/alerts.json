@@ -1,6 +1,6 @@
 [
   {
-    "id": 6050,
+    "id": 8290,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 1382,
+    "id": 7176,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 9868,
+    "id": 2035,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4161,
+    "id": 8754,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1143,
+    "id": 8430,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump’s approval rating sinks to new low",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 4592,
     "level": "critical",
     "country": "🌍",
     "text": "Why did Trump scale back war games with South Korea?",
@@ -45,16 +54,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 5815,
+    "id": 7467,
     "level": "critical",
     "country": "🌍",
-    "text": "Photos: Search for Indonesia earthquake victims continues",
+    "text": "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 8377,
+    "id": 4441,
     "level": "critical",
     "country": "🌍",
     "text": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
@@ -63,25 +72,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6277,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian politician sentenced to 11 years for opposing war in Ukraine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 7968,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 5671,
+    "id": 3439,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC : l'actuelle épidémie devient la plus meurtrière de l'histoire du p",
@@ -90,7 +81,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 1855,
+    "id": 9514,
     "level": "critical",
     "country": "🌍",
     "text": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti anti",
@@ -99,25 +90,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 2978,
+    "id": 5922,
     "level": "high",
     "country": "🌍",
-    "text": "Clashes between government and opposition fighters in Somalia’s Baidoa",
+    "text": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 1972,
-    "level": "high",
-    "country": "🌍",
-    "text": "Explosion reported at school in Afghan capital Kabul",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 9464,
+    "id": 904,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 171,
+    "id": 2333,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6346,
+    "id": 2377,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9591,
+    "id": 7713,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7688,
+    "id": 3859,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1153,
+    "id": 5711,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +153,30 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7907,
+    "id": 6483,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 9433,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 1346,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
   }
 ]
