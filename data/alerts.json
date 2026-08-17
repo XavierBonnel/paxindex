@@ -1,6 +1,6 @@
 [
   {
-    "id": 3580,
+    "id": 5652,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 2595,
+    "id": 6210,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 7241,
+    "id": 7105,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4084,
+    "id": 1046,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 7148,
+    "id": 9295,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Police execute controlled World War II–era Mine explosion",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 4495,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 8110,
     "level": "critical",
     "country": "🌍",
     "text": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
@@ -45,25 +63,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 4799,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Yemen’s drone war: Rivals flex growing aerial muscle",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 7110,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump scales down war games with South Korea: Why it matters",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 9900,
+    "id": 8457,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RD Congo : l'épidémie devient la plus meurtrière de l'histoire du pays",
@@ -72,7 +72,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6367,
+    "id": 5328,
     "level": "critical",
     "country": "🌍",
     "text": "Moyen-Orient en direct : Trump menace de bombarder Oman s'il entrave un accord s",
@@ -81,7 +81,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 9879,
+    "id": 9316,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8719,
+    "id": 277,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 357,
+    "id": 5960,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 46,
+    "id": 3941,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6849,
+    "id": 4227,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9158,
+    "id": 6882,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5658,
+    "id": 8633,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2260,
+    "id": 9602,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5122,
+    "id": 5992,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +162,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7944,
+    "id": 7637,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
@@ -171,7 +171,7 @@
     "time": "2026-03-12T15:15"
   },
   {
-    "id": 6379,
+    "id": 5379,
     "level": "medium",
     "country": "🌍",
     "text": "Escalation of sexual violence raises alarm in the Democratic Republic of the Con",
