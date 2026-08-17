@@ -1,6 +1,6 @@
 [
   {
-    "id": 9375,
+    "id": 6050,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 1391,
+    "id": 1382,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 7606,
+    "id": 9868,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3277,
+    "id": 4161,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,34 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 8597,
+    "id": 1143,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why did Trump scale back war games with South Korea?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 5815,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Photos: Search for Indonesia earthquake victims continues",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 8377,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 6277,
     "level": "critical",
     "country": "🌍",
     "text": "Russian politician sentenced to 11 years for opposing war in Ukraine",
@@ -45,7 +72,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 9291,
+    "id": 7968,
     "level": "critical",
     "country": "🌍",
     "text": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
@@ -54,7 +81,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 56,
+    "id": 5671,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC : l'actuelle épidémie devient la plus meurtrière de l'histoire du p",
@@ -63,7 +90,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 306,
+    "id": 1855,
     "level": "critical",
     "country": "🌍",
     "text": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti anti",
@@ -72,7 +99,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 2143,
+    "id": 2978,
     "level": "high",
     "country": "🌍",
     "text": "Clashes between government and opposition fighters in Somalia’s Baidoa",
@@ -81,7 +108,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 8176,
+    "id": 1972,
     "level": "high",
     "country": "🌍",
     "text": "Explosion reported at school in Afghan capital Kabul",
@@ -90,16 +117,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6165,
-    "level": "high",
-    "country": "🌍",
-    "text": "Britain deploys military as wildfires spread across Europe",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 6712,
+    "id": 9464,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3301,
+    "id": 171,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7429,
+    "id": 6346,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2194,
+    "id": 9591,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6412,
+    "id": 7688,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1970,
+    "id": 1153,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,30 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3293,
+    "id": 7907,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 7325,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 129,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
   }
 ]
