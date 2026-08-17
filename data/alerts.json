@@ -1,6 +1,6 @@
 [
   {
-    "id": 6103,
+    "id": 529,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 378,
+    "id": 5048,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 6352,
+    "id": 2178,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4902,
+    "id": 137,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,16 +36,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1413,
+    "id": 9638,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump’s approval rating sinks to new low",
+    "text": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 3990,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump’s approval rating sinks to new low at 33 percent",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 3914,
+    "id": 3593,
     "level": "critical",
     "country": "🌍",
     "text": "Why did Trump scale back war games with South Korea?",
@@ -54,16 +63,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 7933,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 1310,
+    "id": 7935,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC : l'actuelle épidémie devient la plus meurtrière de l'histoire du p",
@@ -72,7 +72,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 8302,
+    "id": 3411,
     "level": "critical",
     "country": "🌍",
     "text": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti anti",
@@ -81,7 +81,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 7559,
+    "id": 3759,
     "level": "high",
     "country": "🌍",
     "text": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
@@ -90,7 +90,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 3681,
+    "id": 6542,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5456,
+    "id": 2279,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9691,
+    "id": 4873,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8631,
+    "id": 1343,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5885,
+    "id": 4144,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5990,
+    "id": 1516,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6923,
+    "id": 4532,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8099,
+    "id": 4561,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8940,
+    "id": 4084,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,7 +171,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1414,
+    "id": 8621,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
