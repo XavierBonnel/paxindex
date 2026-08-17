@@ -1,6 +1,6 @@
 [
   {
-    "id": 9235,
+    "id": 9020,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 2609,
+    "id": 9469,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 3318,
+    "id": 7496,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 8868,
+    "id": 9643,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 4276,
+    "id": 3913,
+    "level": "critical",
+    "country": "🌍",
+    "text": "British PM Burnham duped by White House impostor",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 8258,
+    "level": "critical",
+    "country": "🌍",
+    "text": "War on Iran: Phase II, Day 37",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 1489,
     "level": "critical",
     "country": "🌍",
     "text": "Police execute controlled World War II–era Mine explosion",
@@ -45,16 +63,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 986,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump demands Iran ‘put up the white flag of surrender’ as MoU expires",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 9437,
+    "id": 6819,
     "level": "critical",
     "country": "🌍",
     "text": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti anti",
@@ -63,7 +72,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 4531,
+    "id": 6908,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RD Congo : l'épidémie devient la plus meurtrière de l'histoire du pays",
@@ -72,16 +81,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 4987,
-    "level": "critical",
+    "id": 889,
+    "level": "high",
     "country": "🌍",
-    "text": "Moyen-Orient en direct : Trump menace de bombarder Oman s'il entrave un accord s",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260817-en-direct-jared-kushner-va-rencontrer-benjamin-netanyahu-relancer-plan-de-paix-gaza-israel-etats-unis-iran-liban-detroit-ormuz",
+    "text": "Britain deploys military as wildfires spread across Europe",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 2886,
+    "id": 6403,
     "level": "high",
     "country": "🌍",
     "text": "Democrats rebuke Trump over scaling back military drills with South Korea",
@@ -90,7 +99,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 7956,
+    "id": 3370,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5543,
+    "id": 5772,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 400,
+    "id": 7885,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8928,
+    "id": 2152,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3476,
+    "id": 2933,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2998,
+    "id": 28,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9314,
+    "id": 1124,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4559,
+    "id": 4782,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5210,
+    "id": 3135,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 951,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
