@@ -1,6 +1,6 @@
 [
   {
-    "id": 2744,
+    "id": 6534,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 5055,
+    "id": 8502,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 8634,
+    "id": 8950,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1312,
+    "id": 1877,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3886,
+    "id": 9280,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 7922,
     "level": "critical",
     "country": "🌍",
     "text": "Eight air strikes hit airbase in Syria’s Idlib",
@@ -45,16 +54,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 1092,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Videos show deadly school shooting in Philippines",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 1147,
+    "id": 4854,
     "level": "critical",
     "country": "🌍",
     "text": "La Syrie condamne à mort Wassim al-Assad, cousin du président déchu",
@@ -63,7 +63,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 2645,
+    "id": 2160,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC : comment le pays a-t-il perdu le contrôle de l’épidémie ?",
@@ -72,7 +72,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 1303,
+    "id": 987,
     "level": "critical",
     "country": "🌍",
     "text": "En Russie, le vice-président du parti anti-guerre condamné",
@@ -81,16 +81,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 1866,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : pluie de drones sur Moscou, au moins 10 morts dans le nord-e",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260818-guerre-en-ukraine-plus-de-600-drones-lanc%C3%A9s-contre-la-r%C3%A9gion-de-moscou",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 4693,
+    "id": 69,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5163,
+    "id": 1025,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4487,
+    "id": 1796,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2638,
+    "id": 8171,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9632,
+    "id": 1922,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5782,
+    "id": 1559,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7622,
+    "id": 6211,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6127,
+    "id": 5230,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8842,
+    "id": 6880,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +162,21 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 987,
+    "id": 8143,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 6060,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who are the M23 Rebels in eastern DRC?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/18/who-are-the-m23-rebels-in-eastern-drc/",
+    "time": "Tue, 18 Aug 2026"
   }
 ]
