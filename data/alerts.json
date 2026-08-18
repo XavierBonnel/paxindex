@@ -1,6 +1,6 @@
 [
   {
-    "id": 2390,
+    "id": 455,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 1036,
+    "id": 1992,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 2216,
+    "id": 200,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 7127,
+    "id": 7746,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 57,
+    "id": 4465,
     "level": "critical",
     "country": "🌍",
     "text": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
@@ -45,7 +45,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 9078,
+    "id": 4414,
     "level": "critical",
     "country": "🌍",
     "text": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
@@ -54,7 +54,16 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 9567,
+    "id": 3642,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La France emprunte au plus haut depuis 2008 sur fond de guerre au Moyen-Orient",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260818-la-france-emprunte-au-plus-haut-depuis-2008-sur-fond-de-guerre-au-moyen-orient",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 2541,
     "level": "critical",
     "country": "🌍",
     "text": "Cisjordanie occupée : les chrétiens palestiniens envisagent de plus en plus l’ex",
@@ -63,16 +72,16 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 5956,
-    "level": "critical",
+    "id": 8968,
+    "level": "high",
     "country": "🌍",
-    "text": "Yvette Roudy, première \"ministre des Droits de la femme\", est morte",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260818-yvette-roudy-premi%C3%A8re-ministre-des-droits-de-la-femme-est-morte",
+    "text": "Iran prepares to keep economy alive as US threatens further sanctions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 4956,
+    "id": 5170,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7348,
+    "id": 3488,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2615,
+    "id": 7825,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6168,
+    "id": 1328,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9871,
+    "id": 6701,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6721,
+    "id": 120,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5574,
+    "id": 8976,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2836,
+    "id": 2609,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2979,
+    "id": 816,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5524,
+    "id": 2704,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,21 +171,12 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4702,
+    "id": 4321,
     "level": "medium",
     "country": "🌍",
     "text": "Who are the M23 Rebels in eastern DRC?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/18/who-are-the-m23-rebels-in-eastern-drc/",
     "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 978,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From DMs to data: How an anonymous platform is turning students’ stories into fu",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/17/from-dms-to-data-how-an-anonymous-platform-is-turning-students-stories-into-fuel-for-change-in-north-macedonia/",
-    "time": "Mon, 17 Aug 2026"
   }
 ]
