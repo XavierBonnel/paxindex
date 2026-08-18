@@ -1,6 +1,6 @@
 [
   {
-    "id": 5685,
+    "id": 2377,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 8536,
+    "id": 8771,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 5487,
+    "id": 5929,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1381,
+    "id": 9033,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 8600,
+    "id": 8206,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says N Korea’s Kim has responded to his request for a conversation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 5375,
     "level": "critical",
     "country": "🌍",
     "text": "Hichilema wins second term as president of copper-rich Zambia",
@@ -45,7 +54,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 4951,
+    "id": 9331,
     "level": "critical",
     "country": "🌍",
     "text": "Two students killed in Philippine school shooting",
@@ -54,7 +63,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 7224,
+    "id": 9617,
     "level": "critical",
     "country": "🌍",
     "text": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
@@ -63,34 +72,25 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 8920,
+    "id": 8058,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+    "text": "Guerre en Ukraine : plus de 600 drones lancés contre la région de Moscou",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260818-guerre-en-ukraine-plus-de-600-drones-lanc%C3%A9s-contre-la-r%C3%A9gion-de-moscou",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 1959,
+    "level": "high",
+    "country": "🌍",
+    "text": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 4418,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Procès sur la mort de Tupac Shakur : le rappeur a été tué par \"vengeance\", selon",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260818-proces-mort-tupac-shakur-rappeur-tue-par-vengeance-accusation-las-vegas-etats-unis-duane-davis-rap",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 7555,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ebola en RDC : l'actuelle épidémie devient la plus meurtrière de l'histoire du p",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-ebola-en-rdc-l-actuelle-%C3%A9pid%C3%A9mie-devient-la-plus-meurtri%C3%A8re-de-l-histoire-du-pays",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 5770,
+    "id": 6717,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6985,
+    "id": 3406,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 965,
+    "id": 4442,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1534,
+    "id": 3985,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2246,
+    "id": 8069,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2326,
+    "id": 5403,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9419,
+    "id": 9025,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2750,
+    "id": 7095,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9698,
+    "id": 9833,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,7 +171,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 453,
+    "id": 4713,
     "level": "medium",
     "country": "🌍",
     "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
