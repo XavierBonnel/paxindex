@@ -1,6 +1,6 @@
 [
   {
-    "id": 2368,
+    "id": 3246,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 83,
+    "id": 3175,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 8271,
+    "id": 8439,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 477,
+    "id": 418,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,34 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9016,
+    "id": 5267,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What to watch in Tuesday’s Florida primary elections",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 4916,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Top Russian economist ousted after warning of growing costs of Ukraine war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 8730,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel’s siege on Gaza is creating a breast cancer crisis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 4051,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli settler children attack ambulance in occupied West Bank",
@@ -45,43 +72,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 662,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia says more than 600 drones targeted Moscow region",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 5140,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump says N Korea’s Kim has responded to his request for a conversation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 3733,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Hichilema wins second term as president of copper-rich Zambia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 8347,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Two students killed in Philippine school shooting",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 219,
+    "id": 9919,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : pluie de drones sur Moscou, au moins 10 morts dans le nord-e",
@@ -90,16 +81,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 1656,
-    "level": "high",
-    "country": "🌍",
-    "text": "Can China’s new Arctic sea route to Europe replace Middle East chokepoints?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 2365,
+    "id": 5143,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8419,
+    "id": 2667,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 979,
+    "id": 1606,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5216,
+    "id": 5240,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9003,
+    "id": 2369,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9450,
+    "id": 1415,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 115,
+    "id": 7222,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5697,
+    "id": 4683,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +153,30 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6932,
+    "id": 5661,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 7186,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 2327,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who are the M23 Rebels in eastern DRC?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/18/who-are-the-m23-rebels-in-eastern-drc/",
+    "time": "Tue, 18 Aug 2026"
   }
 ]
