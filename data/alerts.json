@@ -1,6 +1,6 @@
 [
   {
-    "id": 9305,
+    "id": 1268,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 1796,
+    "id": 8822,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 932,
+    "id": 7108,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 7922,
+    "id": 5613,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5940,
+    "id": 5292,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hichilema wins second second term as president of copper-rich Zambia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 4028,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Two killed as student opens fire at Philippines high school, officials say",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/18/two-killed-as-gunman-opens-fire-at-philippines-high-school-official-says?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 6903,
     "level": "critical",
     "country": "🌍",
     "text": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
@@ -45,7 +63,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 4843,
+    "id": 5085,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
@@ -54,7 +72,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 3537,
+    "id": 6500,
     "level": "critical",
     "country": "🌍",
     "text": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
@@ -63,7 +81,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 7815,
+    "id": 5998,
     "level": "critical",
     "country": "🌍",
     "text": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
@@ -72,7 +90,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 2756,
+    "id": 3405,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Procès sur la mort de Tupac Shakur : le rappeur a été tué par \"vengeance\", selon",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260818-proces-mort-tupac-shakur-rappeur-tue-par-vengeance-accusation-las-vegas-etats-unis-duane-davis-rap",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 2606,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC : l'actuelle épidémie devient la plus meurtrière de l'histoire du p",
@@ -81,16 +108,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 7660,
-    "level": "high",
-    "country": "🌍",
-    "text": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 1021,
+    "id": 4849,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1041,
+    "id": 1770,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1060,
+    "id": 3425,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4845,
+    "id": 8685,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7499,
+    "id": 4373,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5021,
+    "id": 6745,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3257,
+    "id": 6588,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,30 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7281,
+    "id": 4220,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 8508,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 2511,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-12T15:15"
   }
 ]
