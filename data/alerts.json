@@ -1,6 +1,6 @@
 [
   {
-    "id": 5543,
+    "id": 7651,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 829,
+    "id": 562,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 9269,
+    "id": 2536,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 9781,
+    "id": 4962,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,25 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5104,
+    "id": 6052,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 3900,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/bashar-al-assads-cousin-wassim-sentenced-to-death-in-syria?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 1150,
     "level": "critical",
     "country": "🌍",
     "text": "Why has Trump threatened to bomb Oman – for a second time?",
@@ -45,25 +63,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 6806,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 4497,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Eight air strikes hit airbase in Syria’s Idlib",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 4216,
+    "id": 6792,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Moyen-Orient en direct : les États-Unis accusent Israël de frappes en Syrie",
@@ -72,7 +72,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 4264,
+    "id": 6524,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de Tupac Shakur : le procès s’ouvre sur la thèse d’une vengeance de gang",
@@ -81,25 +81,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 2448,
-    "level": "critical",
-    "country": "🌍",
-    "text": "La Syrie condamne à mort Wassim al-Assad, cousin du président déchu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260818-la-syrie-condamne-%C3%A0-mort-wassim-al-assad-cousin-de-l-ex-pr%C3%A9sident",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 6060,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ebola en RDC : comment le pays a-t-il perdu le contrôle de l’épidémie ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260818-ebola-en-rdc-comment-le-pays-a-t-il-perdu-le-contr%C3%B4le-de-l-%C3%A9pid%C3%A9mie",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 4208,
+    "id": 6800,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2289,
+    "id": 6246,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 608,
+    "id": 555,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5538,
+    "id": 9825,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8472,
+    "id": 6484,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5224,
+    "id": 9786,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1568,
+    "id": 9856,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6765,
+    "id": 4575,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +153,30 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8696,
+    "id": 6334,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 6575,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Matan Chorev Appointed Vice President and Director of RAND's Global and Emerging",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-12T15:15"
+  },
+  {
+    "id": 6554,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who are the M23 Rebels in eastern DRC?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/18/who-are-the-m23-rebels-in-eastern-drc/",
+    "time": "Tue, 18 Aug 2026"
   }
 ]
