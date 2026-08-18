@@ -1,6 +1,6 @@
 [
   {
-    "id": 9430,
+    "id": 1400,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6441,
+    "id": 3878,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 1925,
+    "id": 7871,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1562,
+    "id": 8486,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,16 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 450,
+    "id": 551,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike on Gaza City cafe kills six, including child",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 3648,
     "level": "critical",
     "country": "🌍",
     "text": "Police attack Indonesian student protesters, arresting at least 21",
@@ -45,7 +54,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 2689,
+    "id": 4889,
     "level": "critical",
     "country": "🌍",
     "text": "Barcelona seal deal for World Cup winner Rodri from Manchester City",
@@ -54,7 +63,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 1048,
+    "id": 7700,
     "level": "critical",
     "country": "🌍",
     "text": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
@@ -63,7 +72,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 4860,
+    "id": 2235,
     "level": "critical",
     "country": "🌍",
     "text": "La France emprunte au plus haut depuis 2008 sur fond de guerre au Moyen-Orient",
@@ -72,25 +81,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 5693,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Cisjordanie occupée : les chrétiens palestiniens envisagent de plus en plus l’ex",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260818-cisjordanie-occup%C3%A9e-les-chr%C3%A9tiens-palestiniens-envisagent-de-plus-en-plus-l-exil",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 3529,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran prepares to keep economy alive as US threatens further sanctions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 2595,
+    "id": 4532,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3045,
+    "id": 3769,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3836,
+    "id": 7513,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7841,
+    "id": 1833,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 382,
+    "id": 8623,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8940,
+    "id": 2358,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1373,
+    "id": 3631,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6587,
+    "id": 1236,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5840,
+    "id": 2926,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +162,21 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7707,
+    "id": 3813,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 4331,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who are the M23 Rebels in eastern DRC?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/18/who-are-the-m23-rebels-in-eastern-drc/",
+    "time": "Tue, 18 Aug 2026"
   }
 ]
