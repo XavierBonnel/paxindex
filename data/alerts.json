@@ -1,6 +1,6 @@
 [
   {
-    "id": 407,
+    "id": 4880,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 3300,
+    "id": 8939,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 2291,
+    "id": 5726,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,43 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1571,
+    "id": 1769,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why aid entering Gaza may not reach those who need it",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 9098,
+    "level": "critical",
+    "country": "🌍",
+    "text": "War on Iran: Iran allegedly targets the UAE",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 2805,
+    "level": "critical",
+    "country": "🌍",
+    "text": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 5857,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US war on Iran puts Cambodian children’s education at risk",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 3673,
     "level": "critical",
     "country": "🌍",
     "text": "Dozens killed after gold mine collapse in Central African Republic",
@@ -36,34 +72,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 375,
+    "id": 5421,
     "level": "critical",
     "country": "🌍",
-    "text": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 7226,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : Fedorov demande d’ouvrir la voie à des élections",
+    "text": "En RDC, l'épidémie d'Ebola est loin d'être \"maîtrisée\"",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260819-guerre-en-ukraine-fedorov-demande-d-ouvrir-la-voie-%C3%A0-des-%C3%A9lections",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260819-en-rdc-l-%C3%A9pid%C3%A9mie-d-ebola-est-loin-d-%C3%AAtre-ma%C3%AEtris%C3%A9e",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4659,
+    "id": 2977,
     "level": "critical",
     "country": "🌍",
-    "text": "Syrie : Israël frappe une base aérienne et met Damas et Ankara en garde",
+    "text": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore proviso",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260819-syrie-isra%C3%ABl-frappe-une-base-a%C3%A9rienne-et-met-damas-et-ankara-en-garde",
+    "link": "https://www.france24.com/fr/france/20260819-la-canicule-en-france-a-fait-au-moins-7-300-morts-selon-un-bilan-encore-provisoire",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 3727,
+    "id": 8107,
     "level": "high",
     "country": "🌍",
     "text": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
@@ -72,16 +99,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 2308,
-    "level": "high",
-    "country": "🌍",
-    "text": "In Ukraine, forcible military recruitment efforts escalate into violence",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 3354,
+    "id": 5951,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5608,
+    "id": 4951,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 747,
+    "id": 1870,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4316,
+    "id": 6763,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3237,
+    "id": 2607,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4873,
+    "id": 5077,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5222,
+    "id": 2142,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8907,
+    "id": 9982,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,30 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3640,
+    "id": 8283,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 8721,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 1347,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The invisible crisis that strips people of citizenship",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/19/the-invisible-crisis-that-strips-people-of-citizenship/",
-    "time": "Wed, 19 Aug 2026"
   }
 ]
