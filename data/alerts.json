@@ -1,6 +1,6 @@
 [
   {
-    "id": 5731,
+    "id": 8525,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 3533,
+    "id": 6009,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 6077,
+    "id": 5826,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,25 +27,34 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3804,
+    "id": 5704,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/13/silence-has-become-both-more-dangerous-and-more-complicit-an-interview-with-lebanese-british-artist-amale-khlat/",
-    "time": "Thu, 13 Aug 2026"
+    "text": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 7105,
+    "id": 5045,
     "level": "critical",
     "country": "🌍",
-    "text": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+    "text": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 1862,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump pauses 50 percent tariff on Canada in last-minute deal",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6713,
+    "id": 6994,
     "level": "critical",
     "country": "🌍",
     "text": "How Ebola became the deadliest outbreak in DR Congo’s history",
@@ -54,43 +63,34 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6071,
+    "id": 3993,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+    "text": "Un aéroport militaire syrien frappé, des bombardements attribués à Israël",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260819-un-a%C3%A9roport-militaire-syrien-frapp%C3%A9-des-bombardements-attribu%C3%A9s-%C3%A0-isra%C3%ABl",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5666,
+    "id": 2133,
     "level": "critical",
     "country": "🌍",
-    "text": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
+    "text": "En direct : une base syrienne bombardée, la Turquie assure ne pas déployer de tr",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260819-en-direct-turquie-assure-ne-pas-deployer-troupes-syrie-guerre-moyen-orient-gaza-iran-etats-unis-israel-golfe-oman-detroit-ormuz",
+    "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6887,
-    "level": "critical",
+    "id": 1089,
+    "level": "high",
     "country": "🌍",
-    "text": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
+    "text": "US sanctions International Criminal Court’s president and top lawyer",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 366,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Bolivia arrests political adviser to Latin American right-wingers",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 4073,
+    "id": 1191,
     "level": "high",
     "country": "🌍",
     "text": "Les sanctions américaines contre la CPI \"sapent l'État de droit\", avertit la Cou",
@@ -99,7 +99,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 4774,
+    "id": 165,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7249,
+    "id": 9357,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4095,
+    "id": 9120,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1752,
+    "id": 6749,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5555,
+    "id": 3250,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9629,
+    "id": 6909,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6284,
+    "id": 7277,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8726,
+    "id": 7601,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,7 +171,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9998,
+    "id": 1654,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
