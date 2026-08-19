@@ -1,6 +1,6 @@
 [
   {
-    "id": 8525,
+    "id": 1936,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6009,
+    "id": 6773,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 5826,
+    "id": 2615,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 5704,
+    "id": 5776,
     "level": "critical",
     "country": "🌍",
     "text": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
@@ -36,7 +36,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5045,
+    "id": 5388,
     "level": "critical",
     "country": "🌍",
     "text": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
@@ -45,25 +45,16 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1862,
+    "id": 128,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump pauses 50 percent tariff on Canada in last-minute deal",
+    "text": "Trump pauses 50-percent tariff on Canada in last-minute deal",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6994,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How Ebola became the deadliest outbreak in DR Congo’s history",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 3993,
+    "id": 3686,
     "level": "critical",
     "country": "🌍",
     "text": "Un aéroport militaire syrien frappé, des bombardements attribués à Israël",
@@ -72,16 +63,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 2133,
+    "id": 7610,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : une base syrienne bombardée, la Turquie assure ne pas déployer de tr",
+    "text": "En direct : Israël accuse la Turquie de vouloir déployer des troupes en Syrie, A",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260819-en-direct-turquie-assure-ne-pas-deployer-troupes-syrie-guerre-moyen-orient-gaza-iran-etats-unis-israel-golfe-oman-detroit-ormuz",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1089,
+    "id": 8736,
+    "level": "high",
+    "country": "🌍",
+    "text": "South Korea, US scale back annual military drills after Trump’s order",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 2516,
     "level": "high",
     "country": "🌍",
     "text": "US sanctions International Criminal Court’s president and top lawyer",
@@ -90,7 +90,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1191,
+    "id": 6557,
     "level": "high",
     "country": "🌍",
     "text": "Les sanctions américaines contre la CPI \"sapent l'État de droit\", avertit la Cou",
@@ -99,7 +99,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 165,
+    "id": 3388,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9357,
+    "id": 5694,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9120,
+    "id": 5654,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6749,
+    "id": 9167,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3250,
+    "id": 8250,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6909,
+    "id": 2179,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7277,
+    "id": 5869,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7601,
+    "id": 1805,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,7 +171,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1654,
+    "id": 6824,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
