@@ -1,6 +1,33 @@
 [
   {
-    "id": 7179,
+    "id": 7796,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 3079,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 5216,
+    "level": "critical",
+    "country": "🌍",
+    "text": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 5009,
     "level": "critical",
     "country": "🌍",
     "text": "What’s behind Israel’s latest attack on Syria?",
@@ -9,7 +36,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5522,
+    "id": 9863,
     "level": "critical",
     "country": "🌍",
     "text": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
@@ -18,16 +45,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 110,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canada boosts Lebanon aid to $50m and condemns Israeli ‘unlawful invasion’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 9737,
+    "id": 2363,
     "level": "critical",
     "country": "🌍",
     "text": "Centrafrique : au moins 100 morts après l'effondrement d'une mine d'or dans l'ou",
@@ -36,7 +54,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 2762,
+    "id": 5367,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza : Israël ouvre deux enquêtes sur la mort de Hind Rajab et de secouristes",
@@ -45,7 +63,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6499,
+    "id": 2184,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Fedorov réclame des élections pour \"restaurer la démocratie\"",
@@ -54,7 +72,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 3456,
+    "id": 5964,
     "level": "critical",
     "country": "🌍",
     "text": "Mykhaïlo Fedorov, l’ancien allié de Volodymyr Zelensky devenu son rival politiqu",
@@ -63,7 +81,16 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 7896,
+    "id": 7963,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 635,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5268,
+    "id": 9438,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1782,
+    "id": 6855,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6352,
+    "id": 2891,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7423,
+    "id": 9777,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9186,
+    "id": 6309,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9228,
+    "id": 6288,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 355,
+    "id": 2621,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5965,
+    "id": 5329,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,39 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7037,
+    "id": 3591,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 3785,
-    "level": "medium",
-    "country": "🌍",
-    "text": "582 skeletons, including children discovered in Sri Lanka mass grave",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 1688,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 8338,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Violence in the New Syria?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
   }
 ]
