@@ -1,6 +1,6 @@
 [
   {
-    "id": 1775,
+    "id": 1491,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 5882,
+    "id": 8369,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 4098,
+    "id": 3925,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 3561,
+    "id": 6174,
     "level": "critical",
     "country": "🌍",
     "text": "‘Silence has become both more dangerous and more complicit’: An interview with L",
@@ -36,7 +36,43 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 1738,
+    "id": 6423,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How Ebola became the deadliest outbreak in DR Congo’s history",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 1216,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 9644,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 3239,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Democrats call for USS Lincoln probe, question US Navy’s readiness",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss",
+    "time": "Tue, 18 Aug 2026"
+  },
+  {
+    "id": 6002,
     "level": "critical",
     "country": "🌍",
     "text": "Bolivia arrests political adviser to Latin American right-wingers",
@@ -45,34 +81,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 7959,
-    "level": "critical",
-    "country": "🌍",
-    "text": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 4766,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli strike reported to kill at least six in Gaza City",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 2886,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/18/russia-reports-ukrainian-drone-strike-near-zaporizhzhia-nuclear-plant?traffic_source=rss",
-    "time": "Tue, 18 Aug 2026"
-  },
-  {
-    "id": 6252,
+    "id": 3039,
     "level": "high",
     "country": "🌍",
     "text": "Why is the US ramping up Tomahawk production?",
@@ -81,7 +90,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 6247,
+    "id": 7803,
     "level": "high",
     "country": "🌍",
     "text": "Les sanctions américaines contre la CPI \"sapent l'État de droit\", avertit la Cou",
@@ -90,7 +99,7 @@
     "time": "Tue, 18 Aug 2026"
   },
   {
-    "id": 7153,
+    "id": 1778,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7747,
+    "id": 6357,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7824,
+    "id": 1496,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6794,
+    "id": 6300,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9930,
+    "id": 545,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7122,
+    "id": 2150,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1791,
+    "id": 9953,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5307,
+    "id": 5382,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,21 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2896,
+    "id": 7893,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 1781,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
   }
 ]
