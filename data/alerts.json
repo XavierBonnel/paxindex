@@ -1,24 +1,33 @@
 [
   {
-    "id": 2427,
+    "id": 7179,
     "level": "critical",
     "country": "🌍",
-    "text": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+    "text": "What’s behind Israel’s latest attack on Syria?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 5522,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 110,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Canada boosts Lebanon aid to $50m and condemns Israeli ‘unlawful invasion’",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1037,
-    "level": "critical",
-    "country": "🌍",
-    "text": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 1242,
+    "id": 9737,
     "level": "critical",
     "country": "🌍",
     "text": "Centrafrique : au moins 100 morts après l'effondrement d'une mine d'or dans l'ou",
@@ -27,7 +36,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 3244,
+    "id": 2762,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza : Israël ouvre deux enquêtes sur la mort de Hind Rajab et de secouristes",
@@ -36,7 +45,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 7548,
+    "id": 6499,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : Fedorov réclame des élections pour \"restaurer la démocratie\"",
@@ -45,7 +54,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6354,
+    "id": 3456,
     "level": "critical",
     "country": "🌍",
     "text": "Mykhaïlo Fedorov, l’ancien allié de Volodymyr Zelensky devenu son rival politiqu",
@@ -54,7 +63,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5178,
+    "id": 7896,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3529,
+    "id": 5268,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2965,
+    "id": 1782,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 179,
+    "id": 6352,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3750,
+    "id": 7423,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1810,
+    "id": 9186,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1505,
+    "id": 9228,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1820,
+    "id": 355,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4278,
+    "id": 5965,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1348,
+    "id": 7037,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 7654,
+    "id": 3785,
     "level": "medium",
     "country": "🌍",
     "text": "582 skeletons, including children discovered in Sri Lanka mass grave",
@@ -153,7 +162,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 2999,
+    "id": 1688,
     "level": "medium",
     "country": "🌍",
     "text": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
@@ -162,21 +171,12 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4457,
+    "id": 8338,
     "level": "medium",
     "country": "🌍",
     "text": "Violence in the New Syria?",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 714,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trump nominates Heidi Overton to lead US Food and Drug Administration",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss",
     "time": "Wed, 19 Aug 2026"
   }
 ]
