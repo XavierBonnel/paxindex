@@ -1,6 +1,6 @@
 [
   {
-    "id": 2366,
+    "id": 8278,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +9,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 4017,
+    "id": 9054,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,7 +18,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 5907,
+    "id": 7080,
     "level": "critical",
     "country": "🌍",
     "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
@@ -27,7 +27,7 @@
     "time": "Thu, 13 Aug 2026"
   },
   {
-    "id": 6520,
+    "id": 7393,
     "level": "critical",
     "country": "🌍",
     "text": "South Africa to Australia: Why coal profits are surging during Iran war",
@@ -36,7 +36,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 9359,
+    "id": 4185,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine’s ousted defence minister calls for elections during war",
@@ -45,7 +45,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1632,
+    "id": 423,
     "level": "critical",
     "country": "🌍",
     "text": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
@@ -54,16 +54,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 154,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 5253,
+    "id": 5626,
     "level": "critical",
     "country": "🌍",
     "text": "En Ukraine, l'ex-ministre Fedorov appelle à des élections malgré la guerre avec ",
@@ -72,7 +63,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 9716,
+    "id": 9545,
     "level": "critical",
     "country": "🌍",
     "text": "Un aéroport militaire syrien frappé, des bombardements attribués à Israël",
@@ -81,7 +72,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5089,
+    "id": 7978,
     "level": "high",
     "country": "🌍",
     "text": "Scaling back US-South Korea drills may fail to woo Kim away from China",
@@ -90,7 +81,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4995,
+    "id": 7612,
     "level": "high",
     "country": "🌍",
     "text": "South Korea, US scale back annual military drills after Trump’s order",
@@ -99,7 +90,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 2553,
+    "id": 7831,
     "level": "high",
     "country": "🌍",
     "text": "En direct : l'Iran met en garde les pays du Golfe contre toute aide apportée à l",
@@ -108,7 +99,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4106,
+    "id": 9539,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8906,
+    "id": 3058,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7514,
+    "id": 1032,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7043,
+    "id": 9706,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9182,
+    "id": 889,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1094,
+    "id": 3176,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1369,
+    "id": 3423,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +162,21 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2887,
+    "id": 3993,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 4127,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
   }
 ]
