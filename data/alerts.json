@@ -1,6 +1,15 @@
 [
   {
-    "id": 2742,
+    "id": 3209,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 8211,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -9,7 +18,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6216,
+    "id": 4184,
     "level": "critical",
     "country": "🌍",
     "text": "A mosque built by a transgender person raises questions about faith and belongin",
@@ -18,16 +27,7 @@
     "time": "Sat, 15 Aug 2026"
   },
   {
-    "id": 6800,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Conflict-displaced women facing growing risk of sexual violence in eastern DRC",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/13/conflict-displaced-women-facing-growing-risk-of-sexual-violence-in-eastern-drc/",
-    "time": "Thu, 13 Aug 2026"
-  },
-  {
-    "id": 729,
+    "id": 4648,
     "level": "critical",
     "country": "🌍",
     "text": "Why aid entering Gaza may not reach those who need it",
@@ -36,7 +36,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1430,
+    "id": 9042,
     "level": "critical",
     "country": "🌍",
     "text": "War on Iran: Iran allegedly targets the UAE",
@@ -45,7 +45,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 8310,
+    "id": 7732,
     "level": "critical",
     "country": "🌍",
     "text": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
@@ -54,25 +54,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 8096,
+    "id": 4226,
     "level": "critical",
     "country": "🌍",
-    "text": "US war on Iran puts Cambodian children’s education at risk",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
+    "text": "Gaza : l'armée israélienne enquête sur la mort de la fillette Hind Rajab et de s",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260819-gaza-arm%C3%A9e-isra%C3%A9lienne-va-enqu%C3%AAter-sur-la-mort-de-la-fillette-hind-rajab-et-de-secouristes",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1835,
+    "id": 6874,
     "level": "critical",
     "country": "🌍",
-    "text": "Dozens killed after gold mine collapse in Central African Republic",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss",
+    "text": "Syrie : Israël frappe une base, la Turquie au cœur des tensions",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260819-syrie-isra%C3%ABl-frappe-une-base-la-turquie-au-c%C5%93ur-des-tensions",
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4103,
+    "id": 1557,
     "level": "critical",
     "country": "🌍",
     "text": "En RDC, l'épidémie d'Ebola est loin d'être \"maîtrisée\"",
@@ -81,7 +81,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 814,
+    "id": 4204,
     "level": "critical",
     "country": "🌍",
     "text": "La canicule en France a fait au moins 7 300 morts, selon un bilan encore proviso",
@@ -90,16 +90,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 3906,
-    "level": "high",
-    "country": "🌍",
-    "text": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 9923,
+    "id": 8832,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 161,
+    "id": 9044,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6027,
+    "id": 8165,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8117,
+    "id": 6231,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5220,
+    "id": 4682,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4082,
+    "id": 468,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7747,
+    "id": 2899,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2451,
+    "id": 3421,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9556,
+    "id": 2209,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 8764,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
   }
 ]
