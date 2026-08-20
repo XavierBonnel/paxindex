@@ -1,33 +1,6 @@
 [
   {
-    "id": 8343,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 6321,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 1169,
-    "level": "critical",
-    "country": "🌍",
-    "text": "A mosque built by a transgender person raises questions about faith and belongin",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/15/a-mosque-built-by-a-transgender-person-raises-questions-about-faith-and-belonging-in-pakistan/",
-    "time": "Sat, 15 Aug 2026"
-  },
-  {
-    "id": 9129,
+    "id": 7218,
     "level": "critical",
     "country": "🌍",
     "text": "Landslide at illegal gold mine kills 13 people in Colombia",
@@ -36,7 +9,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 9782,
+    "id": 7633,
     "level": "critical",
     "country": "🌍",
     "text": "Four railway workers killed by express train at station in Japan",
@@ -45,7 +18,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 7595,
+    "id": 665,
     "level": "critical",
     "country": "🌍",
     "text": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
@@ -54,7 +27,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 7098,
+    "id": 4410,
     "level": "critical",
     "country": "🌍",
     "text": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
@@ -63,7 +36,16 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 4548,
+    "id": 1897,
+    "level": "critical",
+    "country": "🌍",
+    "text": "États-Unis : une femme accusée d’avoir préparé un attentat pour l'EI",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260820-%C3%A9tats-unis-une-femme-accus%C3%A9e-d-avoir-pr%C3%A9par%C3%A9-un-attentat-pour-l-ei",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 6053,
     "level": "high",
     "country": "🌍",
     "text": "US pummels Cuban economy with new sanctions on mining, construction",
@@ -72,16 +54,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 659,
-    "level": "high",
-    "country": "🌍",
-    "text": "Could US sanctions destroy the International Criminal Court?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 1938,
+    "id": 1584,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +63,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8676,
+    "id": 2363,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6653,
+    "id": 5077,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2507,
+    "id": 9622,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5187,
+    "id": 7231,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1419,
+    "id": 9031,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5638,
+    "id": 5315,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7078,
+    "id": 4216,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9453,
+    "id": 6455,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1251,
+    "id": 4964,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -171,12 +144,39 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8304,
+    "id": 851,
     "level": "medium",
     "country": "🌍",
-    "text": "‘Indigenous languages and cultures are surviving, and will continue to survive’:",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/20/indigenous-languages-and-cultures-are-surviving-and-will-continue-to-survive-interview-with-juang-language-writer-kshetrabasi-juanga/",
+    "text": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 9606,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 5186,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 273,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Syria’s civil society navigates post-Assad era: Partnership or control?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
     "time": "Thu, 20 Aug 2026"
   }
 ]
