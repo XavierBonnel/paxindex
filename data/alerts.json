@@ -1,6 +1,6 @@
 [
   {
-    "id": 8399,
+    "id": 7484,
     "level": "critical",
     "country": "🌍",
     "text": "How Myanmar’s war drives the Rohingya crisis",
@@ -9,7 +9,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 5830,
+    "id": 9859,
     "level": "critical",
     "country": "🌍",
     "text": "How conflict is making life more expensive for Iranians",
@@ -18,25 +18,34 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 9195,
+    "id": 5709,
     "level": "critical",
     "country": "🌍",
-    "text": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
+    "text": "Canicule en Europe : 14 000 décès liés à la chaleur en Allemagne, près de 4 500 ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260820-canicule-europe-14-000-d%C3%A9c%C3%A8s-li%C3%A9s-chaleur-allemagne-4-500-espagne",
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 1719,
+    "id": 2444,
     "level": "critical",
     "country": "🌍",
-    "text": "Video shows Russian missile strike on Ukrainian capital",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+    "text": "Le dossier de la Syrie ravive la rivalité entre Israël et la Turquie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260820-dossier-syrie-ravive-rivalit%C3%A9-entre-isra%C3%ABl-turquie",
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 40,
+    "id": 6459,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Allemagne : 14 000 morts liées à la chaleur, des épisodes caniculaires records",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-allemagne-14-000-morts-li%C3%A9es-%C3%A0-la-chaleur-des-%C3%A9pisodes-caniculaires-records",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 7120,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : les missiles russes embrasent le ciel de Kiev",
@@ -45,34 +54,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 2398,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Cameroun : une centaine de morts dans l'éboulement d'une mine d'or",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-cameroun-une-centaine-de-morts-dans-l-%C3%A9boulement-d-une-mine-d-or",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 4753,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Colombie : trois cents morts et 9,5 milliards de dégâts après le séisme",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-colombie-trois-cents-morts-et-9-5-milliards-de-d%C3%A9g%C3%A2ts-apr%C3%A8s-le-s%C3%A9isme",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 9088,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : au moins 13 morts après des frappes russes sur Kiev",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-ukraine-au-moins-13-morts-apr%C3%A8s-des-frappes-russes-sur-kiev",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 4524,
+    "id": 5190,
     "level": "high",
     "country": "🌍",
     "text": "Syrian official says ‘no plans’ to establish Turkish military presence",
@@ -81,7 +63,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 3610,
+    "id": 896,
     "level": "high",
     "country": "🌍",
     "text": "State-backed Israeli settler violence forces West Bank displacement: HRW",
@@ -90,16 +72,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 54,
-    "level": "high",
-    "country": "🌍",
-    "text": "Cour pénale internationale : offensive américaine contre sa présidente",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-cour-p%C3%A9nale-internationale-offensive-am%C3%A9ricaine-contre-sa-pr%C3%A9sidente",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 2844,
+    "id": 2073,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3272,
+    "id": 4522,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6265,
+    "id": 8150,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 443,
+    "id": 9108,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 239,
+    "id": 6524,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3747,
+    "id": 6740,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9008,
+    "id": 8046,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1651,
+    "id": 8377,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +144,39 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4630,
+    "id": 5490,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 4843,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-03-17T09:00"
+  },
+  {
+    "id": 7069,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Bangladesh’s government under pressure as youth demand jobs",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 7594,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who was Hind Rajab and why is Israel investigating her killing?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
   }
 ]
