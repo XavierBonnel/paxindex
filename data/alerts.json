@@ -1,6 +1,24 @@
 [
   {
-    "id": 9567,
+    "id": 5452,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 4846,
+    "level": "critical",
+    "country": "🌍",
+    "text": "USS Washington arrives in Arabian Sea after aircraft carrier outcry",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 1678,
     "level": "critical",
     "country": "🌍",
     "text": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
@@ -9,7 +27,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 678,
+    "id": 6849,
     "level": "critical",
     "country": "🌍",
     "text": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
@@ -18,34 +36,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 6867,
-    "level": "critical",
-    "country": "🌍",
-    "text": "War on Iran: Trump announces a new campaign to isolate Iran economically",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 6613,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 2357,
-    "level": "high",
-    "country": "🌍",
-    "text": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 5218,
+    "id": 2634,
     "level": "high",
     "country": "🌍",
     "text": "Libye : des politiques de l'Ouest et du Sud réunis à Tunis",
@@ -54,7 +45,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 4767,
+    "id": 2360,
     "level": "high",
     "country": "🌍",
     "text": "Corée du Nord : une dizaine de missiles tirés vers la mer du Japon",
@@ -63,7 +54,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 7141,
+    "id": 543,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +63,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5987,
+    "id": 5180,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7281,
+    "id": 4209,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 926,
+    "id": 1417,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4129,
+    "id": 6480,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1048,
+    "id": 2078,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1116,
+    "id": 616,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1752,
+    "id": 8144,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 330,
+    "id": 1442,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7175,
+    "id": 5928,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -153,30 +144,39 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8785,
+    "id": 3769,
     "level": "medium",
     "country": "🌍",
-    "text": "Funeral for 50 Palestinians recovered from Gaza rubble",
+    "text": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 5031,
+    "id": 243,
     "level": "medium",
     "country": "🌍",
-    "text": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
+    "text": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 1467,
+    "id": 7531,
     "level": "medium",
     "country": "🌍",
-    "text": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
+    "text": "How China and Russia could hobble Trump’s plans to isolate Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 9389,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Governments brace for historic El Nino impacts on global weather extremes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
     "time": "Thu, 20 Aug 2026"
   }
 ]
