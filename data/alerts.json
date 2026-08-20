@@ -1,6 +1,33 @@
 [
   {
-    "id": 8800,
+    "id": 3242,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 265,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Video shows Russian missile strike on Ukrainian capital",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 7514,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 9298,
     "level": "critical",
     "country": "🌍",
     "text": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
@@ -9,34 +36,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 7582,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 7234,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump vows ‘economic warfare’ on countries helping Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 7849,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 3723,
+    "id": 610,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelle nuit de bombardements russes meurtriers à Kiev et dans sa région",
@@ -45,7 +45,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 1375,
+    "id": 4761,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : Donald Trump brandit la menace de guerre économique aux pays qui aid",
@@ -54,7 +54,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6790,
+    "id": 9976,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +63,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3343,
+    "id": 2516,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3146,
+    "id": 4250,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6925,
+    "id": 1055,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2806,
+    "id": 287,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4631,
+    "id": 4406,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7846,
+    "id": 6446,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5912,
+    "id": 4709,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7163,
+    "id": 5600,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 945,
+    "id": 5553,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,39 +144,39 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4090,
+    "id": 2594,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Max Verstappen signs new F1 contract with Red Bull until 2030",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 1070,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 3377,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 8861,
     "level": "medium",
     "country": "🌍",
     "text": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 6293,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Lionel Messi scores first goal for Inter Miami since father’s death",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 9723,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Bangladesh holds presidential election in first contested vote in 35 years",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 3095,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Australian anger as Israel drops World Central Kitchen deaths case",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
     "time": "Thu, 20 Aug 2026"
   }
 ]
