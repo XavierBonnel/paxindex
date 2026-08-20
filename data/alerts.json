@@ -1,6 +1,33 @@
 [
   {
-    "id": 6196,
+    "id": 6950,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 8124,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 8978,
+    "level": "critical",
+    "country": "🌍",
+    "text": "A mosque built by a transgender person raises questions about faith and belongin",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/15/a-mosque-built-by-a-transgender-person-raises-questions-about-faith-and-belonging-in-pakistan/",
+    "time": "Sat, 15 Aug 2026"
+  },
+  {
+    "id": 2403,
     "level": "critical",
     "country": "🌍",
     "text": "How conflict is making life more expensive for Iranians",
@@ -9,7 +36,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 933,
+    "id": 1976,
     "level": "critical",
     "country": "🌍",
     "text": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
@@ -18,7 +45,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 417,
+    "id": 3377,
     "level": "critical",
     "country": "🌍",
     "text": "Video shows Russian missile strike on Ukrainian capital",
@@ -27,7 +54,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 7012,
+    "id": 7931,
     "level": "critical",
     "country": "🌍",
     "text": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
@@ -36,25 +63,43 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 9676,
+    "id": 6173,
     "level": "critical",
     "country": "🌍",
-    "text": "Nouvelle nuit de bombardements russes meurtriers à Kiev et dans sa région",
+    "text": "Cameroun : une centaine de morts dans l'éboulement d'une mine d'or",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260820-nouvelle-nuit-bombardements-russes-meurtriers-kiev-r%C3%A9gion",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-cameroun-une-centaine-de-morts-dans-l-%C3%A9boulement-d-une-mine-d-or",
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 8039,
+    "id": 2744,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : Donald Trump brandit la menace de guerre économique aux pays qui aid",
+    "text": "Colombie : trois cents morts et 9,5 milliards de dégâts après le séisme",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260819-en-direct-donald-trump-menace-terribles-repercussions-economiques-tout-pays-qui-aiderait-iran-etats-unis-golfe-detroit-ormuz-gaza-israel-liban",
-    "time": "Wed, 19 Aug 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-colombie-trois-cents-morts-et-9-5-milliards-de-d%C3%A9g%C3%A2ts-apr%C3%A8s-le-s%C3%A9isme",
+    "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 4021,
+    "id": 4811,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : au moins 13 morts après des frappes russes sur Kiev",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-ukraine-au-moins-13-morts-apr%C3%A8s-des-frappes-russes-sur-kiev",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 7210,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : des missiles russes hypersoniques et près de 168 drones frappent Kiev",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-ukraine-des-missiles-russes-hypersoniques-et-pr%C3%A8s-de-168-drones-frappent-kiev",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 7962,
     "level": "high",
     "country": "🌍",
     "text": "State-backed Israeli settler violence forces West Bank displacement: HRW",
@@ -63,7 +108,16 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 6639,
+    "id": 5438,
+    "level": "high",
+    "country": "🌍",
+    "text": "Cour pénale internationale : offensive américaine contre sa présidente",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260820-cour-p%C3%A9nale-internationale-offensive-am%C3%A9ricaine-contre-sa-pr%C3%A9sidente",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 197,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2471,
+    "id": 9814,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5055,
+    "id": 8724,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9488,
+    "id": 4305,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4104,
+    "id": 5719,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7804,
+    "id": 9403,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,66 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3326,
+    "id": 7651,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 6759,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 1780,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 1809,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 3004,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 4573,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Max Verstappen signs new F1 contract with Red Bull until 2030",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 6425,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
   }
 ]
