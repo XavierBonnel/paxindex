@@ -1,6 +1,15 @@
 [
   {
-    "id": 9827,
+    "id": 3115,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bodycam captures police team falling when deck collapses in Missouri",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 3339,
     "level": "critical",
     "country": "🌍",
     "text": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
@@ -9,7 +18,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 1391,
+    "id": 1217,
     "level": "critical",
     "country": "🌍",
     "text": "Harry Kane scores goal by winning Golden Shoe for the second time",
@@ -18,7 +27,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 5148,
+    "id": 9635,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
@@ -27,7 +36,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 3735,
+    "id": 9822,
     "level": "critical",
     "country": "🌍",
     "text": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
@@ -36,16 +45,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 3899,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Kosovo finds remains of at least 23 people in suspected mass graves",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 904,
+    "id": 4022,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : Trump menace de \"terribles\" répercussions économiques \"tout pays\" qu",
@@ -54,7 +54,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 8620,
+    "id": 4256,
     "level": "critical",
     "country": "🌍",
     "text": "L'éboulement d'une mine fait plus d'une centaine de morts à la frontière entre l",
@@ -63,7 +63,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5599,
+    "id": 5994,
     "level": "critical",
     "country": "🌍",
     "text": "Centrafrique : au moins 100 morts après l'effondrement d'une mine d'or dans l'ou",
@@ -72,7 +72,16 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 9682,
+    "id": 3272,
+    "level": "high",
+    "country": "🌍",
+    "text": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 5649,
     "level": "high",
     "country": "🌍",
     "text": "Publisher of US military newspaper resigns over differences with government",
@@ -81,7 +90,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 220,
+    "id": 7811,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9545,
+    "id": 1697,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7008,
+    "id": 1928,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 676,
+    "id": 3072,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2577,
+    "id": 2733,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 625,
+    "id": 8783,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2827,
+    "id": 6250,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7675,
+    "id": 8593,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8907,
+    "id": 8127,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 494,
+    "id": 7542,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-03-17T09:00"
-  },
-  {
-    "id": 6656,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nigeria’s election campaign begins with Tinubu facing a reform test",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
   }
 ]
