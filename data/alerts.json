@@ -1,6 +1,15 @@
 [
   {
-    "id": 2090,
+    "id": 8800,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 7582,
     "level": "critical",
     "country": "🌍",
     "text": "At least 6 killed in multiple Russian missile strikes across Ukraine",
@@ -9,7 +18,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 3046,
+    "id": 7234,
     "level": "critical",
     "country": "🌍",
     "text": "Trump vows ‘economic warfare’ on countries helping Iran",
@@ -18,7 +27,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 5456,
+    "id": 7849,
     "level": "critical",
     "country": "🌍",
     "text": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
@@ -27,16 +36,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 51,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Bodycam captures police team falling when deck collapses in Missouri",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 3937,
+    "id": 3723,
     "level": "critical",
     "country": "🌍",
     "text": "Nouvelle nuit de bombardements russes meurtriers à Kiev et dans sa région",
@@ -45,7 +45,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 930,
+    "id": 1375,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : Donald Trump brandit la menace de guerre économique aux pays qui aid",
@@ -54,25 +54,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4466,
-    "level": "high",
-    "country": "🌍",
-    "text": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 2727,
-    "level": "high",
-    "country": "🌍",
-    "text": "Publisher of US military newspaper resigns over differences with government",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 7903,
+    "id": 6790,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +63,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3682,
+    "id": 3343,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9510,
+    "id": 3146,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9464,
+    "id": 6925,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6220,
+    "id": 2806,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 852,
+    "id": 4631,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4402,
+    "id": 7846,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7271,
+    "id": 5912,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1309,
+    "id": 7163,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8830,
+    "id": 945,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -162,7 +144,25 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 8155,
+    "id": 4090,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 6293,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Lionel Messi scores first goal for Inter Miami since father’s death",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 9723,
     "level": "medium",
     "country": "🌍",
     "text": "Bangladesh holds presidential election in first contested vote in 35 years",
@@ -171,7 +171,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 4835,
+    "id": 3095,
     "level": "medium",
     "country": "🌍",
     "text": "Australian anger as Israel drops World Central Kitchen deaths case",
