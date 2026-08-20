@@ -1,6 +1,6 @@
 [
   {
-    "id": 371,
+    "id": 9072,
     "level": "critical",
     "country": "🌍",
     "text": "Syria detains policeman over death of White Helmets rescuer hit in custody",
@@ -9,7 +9,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 3684,
+    "id": 7004,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
@@ -18,7 +18,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 8067,
+    "id": 3703,
     "level": "critical",
     "country": "🌍",
     "text": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
@@ -27,16 +27,16 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 8354,
-    "level": "critical",
+    "id": 9826,
+    "level": "high",
     "country": "🌍",
-    "text": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
+    "text": "North Korea fires ballistic missiles as US-South Korea drills near end",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 1490,
+    "id": 6162,
     "level": "high",
     "country": "🌍",
     "text": "Libye : des politiques de l'Ouest et du Sud réunis à Tunis",
@@ -45,7 +45,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 3276,
+    "id": 9373,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -54,7 +54,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7299,
+    "id": 1546,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9288,
+    "id": 2859,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8414,
+    "id": 6595,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6979,
+    "id": 8313,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5137,
+    "id": 4235,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 44,
+    "id": 1175,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2410,
+    "id": 6483,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7071,
+    "id": 9452,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -126,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2407,
+    "id": 9208,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -135,48 +135,48 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 1740,
+    "id": 1617,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Humanoid robots take centre stage in China-US tech race",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 1034,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 8555,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 8997,
+    "level": "medium",
+    "country": "🌍",
+    "text": "At least 800 people evacuated from major wildfire in western Spain",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss",
+    "time": "Thu, 20 Aug 2026"
+  },
+  {
+    "id": 7082,
     "level": "medium",
     "country": "🌍",
     "text": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 2514,
-    "level": "medium",
-    "country": "🌍",
-    "text": "One geography, two states: Saudi Arabia’s security approach to Sudan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 3687,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 1352,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 4628,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How China and Russia could hobble Trump’s plans to isolate Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
     "time": "Thu, 20 Aug 2026"
   }
 ]
