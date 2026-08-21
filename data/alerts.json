@@ -1,6 +1,6 @@
 [
   {
-    "id": 7478,
+    "id": 4429,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 3522,
+    "id": 9799,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,25 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 8945,
+    "id": 626,
+    "level": "critical",
+    "country": "🌍",
+    "text": "One killed, three wounded in sword attack at Swedish high school",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 3449,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Can a humanitarian disaster be averted in Somalia?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 2795,
     "level": "critical",
     "country": "🌍",
     "text": "Western allies slam Israel for ending World Central Kitchen strike probe",
@@ -27,61 +45,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 729,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 6028,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 7212,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 1652,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Palestinian victims of Israeli settler attacks face battle for justice",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 8300,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 6294,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 1708,
+    "id": 2193,
     "level": "critical",
     "country": "🌍",
     "text": "Deux Palestiniens tués en Cisjordanie occupée, dont un après une intrusion de co",
@@ -90,16 +54,16 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 9293,
+    "id": 1594,
     "level": "critical",
     "country": "🌍",
-    "text": "En Ukraine, des frappes russes font au moins 19 morts et plus de 130 blessés",
+    "text": "En Ukraine, un centre commercial visé par des frappes russes meurtrières",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260821-en-ukraine-des-frappes-russes-font-au-moins-18-morts-et-plus-de-120-bless%C3%A9s",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 2965,
+    "id": 6722,
     "level": "critical",
     "country": "🌍",
     "text": "La France ne va pas verser, seule, 140 milliards d’euros à l’Ukraine",
@@ -108,7 +72,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5987,
+    "id": 9400,
     "level": "critical",
     "country": "🌍",
     "text": "Dans l’armée américaine, les femmes et les Noirs dans le viseur de Pete Hegseth",
@@ -117,7 +81,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 1986,
+    "id": 7798,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9733,
+    "id": 1182,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7946,
+    "id": 4496,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4529,
+    "id": 1779,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8766,
+    "id": 7013,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 47,
+    "id": 4842,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +135,48 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1836,
+    "id": 5129,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 2534,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 5964,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 8360,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 5126,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/21/the-everyday-guardians-rana-tharu-womens-implicit-roles-in-nepal/",
+    "time": "Fri, 21 Aug 2026"
   }
 ]
