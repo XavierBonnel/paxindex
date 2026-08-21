@@ -1,6 +1,6 @@
 [
   {
-    "id": 3202,
+    "id": 4381,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 3054,
+    "id": 63,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 5632,
+    "id": 6218,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nord Stream bombing suspect to Hollywood fixer: Who is Volodymyr Zhuravlev?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/nord-stream-bombing-suspect-to-hollywood-fixer-who-is-volodymyr-zhuravlev?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 6082,
     "level": "critical",
     "country": "🌍",
     "text": "Europe, Canada condemn Israeli plans for new West Bank settlement",
@@ -27,25 +36,25 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 9858,
+    "id": 3915,
     "level": "critical",
     "country": "🌍",
-    "text": "Dr TikTok: Mental health moves from consulting rooms to social media",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 1228,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Ira",
+    "text": "Pérou : les intempéries perturbent l'accès au Machu Picchu",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260821-les-%C3%A9tats-unis-somment-leurs-alli%C3%A9s-et-la-chine-de-couper-leurs-liens-avec-l-iran",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-p%C3%A9rou-les-intemp%C3%A9ries-perturbent-l-acc%C3%A8s-au-machu-picchu",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 4304,
+    "id": 9141,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Centrafrique : éboulement d'une mine d'or, au moins quarante-neuf morts",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-centrafrique-%C3%A9boulement-d-une-mine-d-or-au-moins-quarante-neuf-morts",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 6172,
     "level": "high",
     "country": "🌍",
     "text": "Australia charges man for passing Ukrainian military intel to Russia",
@@ -54,7 +63,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 6910,
+    "id": 8449,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5722,
+    "id": 5106,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9893,
+    "id": 535,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1300,
+    "id": 7702,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8644,
+    "id": 4216,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5046,
+    "id": 896,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6914,
+    "id": 4177,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2578,
+    "id": 2505,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1856,
+    "id": 5328,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8421,
+    "id": 8196,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +153,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 4072,
+    "id": 9449,
     "level": "medium",
     "country": "🌍",
     "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
@@ -153,7 +162,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 7532,
+    "id": 3545,
     "level": "medium",
     "country": "🌍",
     "text": "‘Indigenous languages and cultures are surviving, and will continue to survive’:",
@@ -162,21 +171,12 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 685,
+    "id": 9053,
     "level": "medium",
     "country": "🌍",
     "text": "The discursive function of gendered online hate speech in Kosovo",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/20/the-discursive-function-of-gendered-online-hate-speech-in-kosovo/",
     "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 7932,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The invisible crisis that strips people of citizenship",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/19/the-invisible-crisis-that-strips-people-of-citizenship/",
-    "time": "Wed, 19 Aug 2026"
   }
 ]
