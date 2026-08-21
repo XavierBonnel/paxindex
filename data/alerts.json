@@ -1,6 +1,24 @@
 [
   {
-    "id": 9783,
+    "id": 8434,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 4515,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 3304,
     "level": "critical",
     "country": "🌍",
     "text": "Russian expert warns of impending social crisis as Ukraine death toll rises",
@@ -9,7 +27,16 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 139,
+    "id": 9485,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La France ne va pas verser, seule, 140 milliards d’euros à l’Ukraine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20260821-la-france-ne-va-pas-verser-seule-140-milliards-d-euros-%C3%A0-l-ukraine",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 9338,
     "level": "critical",
     "country": "🌍",
     "text": "Dans l’armée américaine, les femmes et les Noirs dans le viseur de Pete Hegseth",
@@ -18,16 +45,16 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 7550,
-    "level": "critical",
+    "id": 5273,
+    "level": "high",
     "country": "🌍",
-    "text": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-l-%C3%A9pid%C3%A9mie-d-ebola-en-rdc-progresse-de-fa%C3%A7on-exponentielle-alerte-l-onu",
+    "text": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3634,
+    "id": 3477,
     "level": "high",
     "country": "🌍",
     "text": "Russie : des tirs de missiles près d'îles disputées avec le Japon",
@@ -36,7 +63,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5937,
+    "id": 347,
     "level": "high",
     "country": "🌍",
     "text": "Finale du Mondial 2026 : de lourdes sanctions tombent pour les Argentins Paredes",
@@ -45,7 +72,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 909,
+    "id": 2425,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8843,
+    "id": 6569,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 116,
+    "id": 395,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4496,
+    "id": 5619,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7457,
+    "id": 2118,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6906,
+    "id": 5335,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9443,
+    "id": 974,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 468,
+    "id": 2417,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8021,
+    "id": 2293,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6433,
+    "id": 2491,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,48 +162,21 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8340,
+    "id": 5223,
     "level": "medium",
     "country": "🌍",
-    "text": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss",
+    "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/21/how-changing-diets-are-creating-new-markets-for-africas-indigenous-crops/",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 187,
+    "id": 9454,
     "level": "medium",
     "country": "🌍",
-    "text": "England thrash Pakistan by an innings and 103 runs in first Test",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 6394,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Arsenal vs Coventry LIVE: Premier League",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 5666,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Israeli settlers set fire to heavy machinery at West Bank quarry",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 1590,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Jannik Sinner to miss US Open tennis major due to knee injury",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/jannik-sinner-tennis-skip-us-open-2026-knee-injury?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
+    "text": "‘Indigenous languages and cultures are surviving, and will continue to survive’:",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/20/indigenous-languages-and-cultures-are-surviving-and-will-continue-to-survive-interview-with-juang-language-writer-kshetrabasi-juanga/",
+    "time": "Thu, 20 Aug 2026"
   }
 ]
