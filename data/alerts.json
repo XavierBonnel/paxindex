@@ -1,6 +1,33 @@
 [
   {
-    "id": 4239,
+    "id": 701,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 4344,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 1513,
+    "level": "critical",
+    "country": "🌍",
+    "text": "A mosque built by a transgender person raises questions about faith and belongin",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/15/a-mosque-built-by-a-transgender-person-raises-questions-about-faith-and-belonging-in-pakistan/",
+    "time": "Sat, 15 Aug 2026"
+  },
+  {
+    "id": 7741,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: US vows toughest Iran sanctions, urges China support",
@@ -9,25 +36,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 6791,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 9049,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US charges woman for allegedly plotting attack on New York State Capitol",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
-  },
-  {
-    "id": 4741,
+    "id": 4351,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : négociations au point mort, le trafic dans le détroit d'Ormuz en bai",
@@ -36,7 +45,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 4415,
+    "id": 6433,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Ira",
@@ -45,7 +54,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 6188,
+    "id": 3208,
     "level": "critical",
     "country": "🌍",
     "text": "États-Unis : une femme accusée d’avoir préparé un attentat pour l'EI",
@@ -54,7 +63,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 463,
+    "id": 3501,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9955,
+    "id": 6698,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3196,
+    "id": 536,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8151,
+    "id": 3548,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9077,
+    "id": 2295,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5277,
+    "id": 1247,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5757,
+    "id": 2323,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8309,
+    "id": 904,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 767,
+    "id": 6628,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 743,
+    "id": 5349,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,39 +153,30 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 3804,
+    "id": 3692,
     "level": "medium",
     "country": "🌍",
-    "text": "Hong Kong Tiananmen activists found guilty of national security charges",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
+    "text": "‘Indigenous languages and cultures are surviving, and will continue to survive’:",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/20/indigenous-languages-and-cultures-are-surviving-and-will-continue-to-survive-interview-with-juang-language-writer-kshetrabasi-juanga/",
+    "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 1905,
+    "id": 5159,
     "level": "medium",
     "country": "🌍",
-    "text": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
+    "text": "The discursive function of gendered online hate speech in Kosovo",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/20/the-discursive-function-of-gendered-online-hate-speech-in-kosovo/",
+    "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 2094,
+    "id": 3717,
     "level": "medium",
     "country": "🌍",
-    "text": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 7561,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
+    "text": "The invisible crisis that strips people of citizenship",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/the-invisible-crisis-that-strips-people-of-citizenship/",
+    "time": "Wed, 19 Aug 2026"
   }
 ]
