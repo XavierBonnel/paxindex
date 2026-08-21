@@ -1,6 +1,6 @@
 [
   {
-    "id": 2717,
+    "id": 7478,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 3530,
+    "id": 3522,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,61 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 9557,
+    "id": 8945,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Western allies slam Israel for ending World Central Kitchen strike probe",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 729,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 6028,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/21/libya-rivals-test-a-new-path-towards-unity-15-years-after-gadaffi-overthrow?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 7212,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 1652,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestinian victims of Israeli settler attacks face battle for justice",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 8300,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 6294,
     "level": "critical",
     "country": "🌍",
     "text": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
@@ -27,43 +81,25 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 1235,
+    "id": 1708,
     "level": "critical",
     "country": "🌍",
-    "text": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
+    "text": "Deux Palestiniens tués en Cisjordanie occupée, dont un après une intrusion de co",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260821-deux-palestiniens-tu%C3%A9s-en-cisjordanie-occup%C3%A9e-dont-un-apr%C3%A8s-une-intrusion-de-colons",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3799,
+    "id": 9293,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 4350,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 7681,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Ukraine, des frappes russes font au moins 18 morts et plus de 120 blessés",
+    "text": "En Ukraine, des frappes russes font au moins 19 morts et plus de 130 blessés",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260821-en-ukraine-des-frappes-russes-font-au-moins-18-morts-et-plus-de-120-bless%C3%A9s",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 6160,
+    "id": 2965,
     "level": "critical",
     "country": "🌍",
     "text": "La France ne va pas verser, seule, 140 milliards d’euros à l’Ukraine",
@@ -72,7 +108,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3998,
+    "id": 5987,
     "level": "critical",
     "country": "🌍",
     "text": "Dans l’armée américaine, les femmes et les Noirs dans le viseur de Pete Hegseth",
@@ -81,7 +117,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 8182,
+    "id": 1986,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8805,
+    "id": 9733,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9799,
+    "id": 7946,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7872,
+    "id": 4529,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3078,
+    "id": 8766,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 121,
+    "id": 47,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,48 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9763,
+    "id": 1836,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 8525,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 9571,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 9868,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 4522,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/21/how-changing-diets-are-creating-new-markets-for-africas-indigenous-crops/",
-    "time": "Fri, 21 Aug 2026"
   }
 ]
