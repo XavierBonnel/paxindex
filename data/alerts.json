@@ -1,6 +1,6 @@
 [
   {
-    "id": 3558,
+    "id": 4239,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: US vows toughest Iran sanctions, urges China support",
@@ -9,7 +9,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 8686,
+    "id": 6791,
     "level": "critical",
     "country": "🌍",
     "text": "Houthis and government trade attacks as Yemen slides back to full-scale war",
@@ -18,7 +18,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 8744,
+    "id": 9049,
     "level": "critical",
     "country": "🌍",
     "text": "US charges woman for allegedly plotting attack on New York State Capitol",
@@ -27,16 +27,16 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 5487,
+    "id": 4741,
     "level": "critical",
     "country": "🌍",
-    "text": "The cost of rebuilding family homes in war-ravaged Syria",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-cost-of-rebuilding-family-homes-in-war-ravaged-syria?traffic_source=rss",
-    "time": "Thu, 20 Aug 2026"
+    "text": "En direct : négociations au point mort, le trafic dans le détroit d'Ormuz en bai",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260821-en-direct-n%C3%A9gociations-au-point-mort-le-trafic-dans-le-d%C3%A9troid-d-ormuz-en-baisse",
+    "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 4689,
+    "id": 4415,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Ira",
@@ -45,7 +45,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 9298,
+    "id": 6188,
     "level": "critical",
     "country": "🌍",
     "text": "États-Unis : une femme accusée d’avoir préparé un attentat pour l'EI",
@@ -54,7 +54,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 2748,
+    "id": 463,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +63,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3533,
+    "id": 9955,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7226,
+    "id": 3196,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9723,
+    "id": 8151,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3253,
+    "id": 9077,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9118,
+    "id": 5277,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9477,
+    "id": 5757,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7132,
+    "id": 8309,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4254,
+    "id": 767,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4028,
+    "id": 743,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,16 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5447,
+    "id": 3804,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hong Kong Tiananmen activists found guilty of national security charges",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 1905,
     "level": "medium",
     "country": "🌍",
     "text": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
@@ -153,7 +162,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 4937,
+    "id": 2094,
     "level": "medium",
     "country": "🌍",
     "text": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
@@ -162,21 +171,12 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3160,
+    "id": 7561,
     "level": "medium",
     "country": "🌍",
     "text": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 9999,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Antigovernment protesters take to Tunisia’s streets for second month",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/antigovernment-protesters-take-to-tunisias-streets-for-second-month?traffic_source=rss",
     "time": "Fri, 21 Aug 2026"
   }
 ]
