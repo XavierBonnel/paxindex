@@ -1,51 +1,33 @@
 [
   {
-    "id": 4731,
+    "id": 8863,
     "level": "critical",
     "country": "🌍",
-    "text": "War on Iran: The US could focus on economically isolating Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
+    "text": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-l-%C3%A9pid%C3%A9mie-d-ebola-en-rdc-progresse-de-fa%C3%A7on-exponentielle-alerte-l-onu",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 8360,
-    "level": "critical",
+    "id": 618,
+    "level": "high",
     "country": "🌍",
-    "text": "Several people injured in sword attack at school in Sweden",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
+    "text": "Russie : des tirs de missiles près d'îles disputées avec le Japon",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-russie-des-tirs-de-missiles-pr%C3%A8s-d-%C3%AEles-disput%C3%A9es-avec-le-japon",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3916,
-    "level": "critical",
+    "id": 2311,
+    "level": "high",
     "country": "🌍",
-    "text": "Trump’s ‘economic D-Day’ claims first victim: Not Iran, but US markets",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
+    "text": "Finale du Mondial 2026 : de lourdes sanctions tombent pour les Argentins Paredes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/sports/20260821-finale-du-mondial-2026-de-lourdes-sanctions-tombent-pour-les-argentins-paredes-et-molina",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 9081,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ebola outbreak ‘growing faster, ⁠⁠wider’ as DRC death toll passes 2,500: UN",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 6417,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Weddings in Gaza offer rare moments of joy amid genocide",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 8257,
+    "id": 9967,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +36,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8473,
+    "id": 6477,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +45,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4696,
+    "id": 3417,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +54,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7201,
+    "id": 2680,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +63,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4070,
+    "id": 8625,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +72,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9936,
+    "id": 622,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +81,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9056,
+    "id": 8044,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +90,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3225,
+    "id": 8889,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +99,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1693,
+    "id": 7475,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +108,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 400,
+    "id": 643,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,48 +117,66 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5906,
+    "id": 7995,
     "level": "medium",
     "country": "🌍",
-    "text": "Djibouti Football Federation accused of misusing funds from FIFA",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
+    "text": "À Saint-Louis, les traces de la traite négrière menacées de disparition",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-%C3%A0-saint-louis-les-traces-de-la-traite-n%C3%A9gri%C3%A8re-menac%C3%A9es-de-disparition",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 66,
+    "id": 4599,
     "level": "medium",
     "country": "🌍",
-    "text": "Liverpool preview: Five key questions heading into 2026-27 season",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
+    "text": "Qui pour succéder à Antonio Guterres au poste de Secrétaire général de l'ONU ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260821-qui-pour-succ%C3%A9der-%C3%A0-antonio-guterres-au-poste-de-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-onu",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 7004,
+    "id": 797,
     "level": "medium",
     "country": "🌍",
-    "text": "El Nino set to be most intense ‘for over a century’: UK forecasters",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/el-nino-set-to-be-most-intense-for-over-a-century-uk-forecasters?traffic_source=rss",
+    "text": "Martinique : les étudiants en médecine inquiets face à la réduction du nombre de",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20260821-martinique-les-%C3%A9tudiants-en-m%C3%A9decine-inquiets-face-%C3%A0-la-r%C3%A9duction-du-nombre-de-postes-d-internes",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 4464,
+    "id": 1724,
     "level": "medium",
     "country": "🌍",
-    "text": "South Korea footballers urge safety after extreme heat statistics",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/21/south-korea-footballers-urge-safety-after-worrying-extreme-heat-health-stat?traffic_source=rss",
+    "text": "La forêt de Fontainebleau rouvre au public ce samedi",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-la-for%C3%AAt-de-fontainebleau-rouvre-au-public-ce-samedi",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5666,
+    "id": 943,
     "level": "medium",
     "country": "🌍",
-    "text": "Israeli soldiers throw belongings from besieged Palestinian home",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss",
+    "text": "Tunisie : des manifestations face à un été de coupures d'électricité, d'eau, et ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-tunisie-des-manifestations-face-%C3%A0-un-%C3%A9t%C3%A9-de-coupures-d-%C3%A9lectricit%C3%A9-d-eau-et-de-p%C3%A9nuries",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 6334,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RD Congo : la vitesse de propagation d'Ebola inquiète",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-rd-congo-la-vitesse-de-propagation-d-ebola-inqui%C3%A8te",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 279,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ligue 1 : le PSG sans concurrence dans un championnat en crise",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/sports/20260821-ligue-1-reprise-football-favori-club-psg-om-ol-lens-crise",
     "time": "Fri, 21 Aug 2026"
   }
 ]
