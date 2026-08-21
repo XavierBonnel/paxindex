@@ -1,6 +1,6 @@
 [
   {
-    "id": 6932,
+    "id": 3202,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 854,
+    "id": 3054,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 8715,
+    "id": 5632,
     "level": "critical",
     "country": "🌍",
     "text": "Europe, Canada condemn Israeli plans for new West Bank settlement",
@@ -27,7 +27,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3421,
+    "id": 9858,
     "level": "critical",
     "country": "🌍",
     "text": "Dr TikTok: Mental health moves from consulting rooms to social media",
@@ -36,7 +36,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5707,
+    "id": 1228,
     "level": "critical",
     "country": "🌍",
     "text": "Les États-Unis somment leurs alliés et la Chine de couper leurs liens avec l'Ira",
@@ -45,16 +45,16 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5241,
-    "level": "critical",
+    "id": 4304,
+    "level": "high",
     "country": "🌍",
-    "text": "Dans l'État de New York, une femme arrêtée pour un projet d'attentat pour le gro",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260820-%C3%A9tats-unis-une-femme-accus%C3%A9e-d-avoir-pr%C3%A9par%C3%A9-un-attentat-pour-l-ei",
-    "time": "Thu, 20 Aug 2026"
+    "text": "Australia charges man for passing Ukrainian military intel to Russia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 9540,
+    "id": 6910,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +63,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1525,
+    "id": 5722,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5361,
+    "id": 9893,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 122,
+    "id": 1300,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9777,
+    "id": 8644,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5913,
+    "id": 5046,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4904,
+    "id": 6914,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3503,
+    "id": 2578,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3784,
+    "id": 1856,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4347,
+    "id": 8421,
     "level": "medium",
     "country": "🌍",
     "text": "Student Use of AI for Homework Rises as Concerns Grow About Critical Thinking Sk",
@@ -144,7 +144,7 @@
     "time": "2026-03-17T09:00"
   },
   {
-    "id": 5690,
+    "id": 4072,
     "level": "medium",
     "country": "🌍",
     "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
@@ -153,7 +153,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5618,
+    "id": 7532,
     "level": "medium",
     "country": "🌍",
     "text": "‘Indigenous languages and cultures are surviving, and will continue to survive’:",
@@ -162,7 +162,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 2254,
+    "id": 685,
     "level": "medium",
     "country": "🌍",
     "text": "The discursive function of gendered online hate speech in Kosovo",
@@ -171,7 +171,7 @@
     "time": "Thu, 20 Aug 2026"
   },
   {
-    "id": 6834,
+    "id": 7932,
     "level": "medium",
     "country": "🌍",
     "text": "The invisible crisis that strips people of citizenship",
