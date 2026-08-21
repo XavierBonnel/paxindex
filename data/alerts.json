@@ -1,33 +1,33 @@
 [
   {
-    "id": 8434,
+    "id": 7053,
     "level": "critical",
     "country": "🌍",
-    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 4515,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 3304,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian expert warns of impending social crisis as Ukraine death toll rises",
+    "text": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 9485,
+    "id": 1970,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 737,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En Ukraine, des frappes russes font au moins 18 morts et plus de 120 blessés",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260821-en-ukraine-des-frappes-russes-font-au-moins-18-morts-et-plus-de-120-bless%C3%A9s",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 2509,
     "level": "critical",
     "country": "🌍",
     "text": "La France ne va pas verser, seule, 140 milliards d’euros à l’Ukraine",
@@ -36,7 +36,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 9338,
+    "id": 5358,
     "level": "critical",
     "country": "🌍",
     "text": "Dans l’armée américaine, les femmes et les Noirs dans le viseur de Pete Hegseth",
@@ -45,7 +45,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5273,
+    "id": 7692,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
@@ -54,25 +54,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3477,
-    "level": "high",
-    "country": "🌍",
-    "text": "Russie : des tirs de missiles près d'îles disputées avec le Japon",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-russie-des-tirs-de-missiles-pr%C3%A8s-d-%C3%AEles-disput%C3%A9es-avec-le-japon",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 347,
-    "level": "high",
-    "country": "🌍",
-    "text": "Finale du Mondial 2026 : de lourdes sanctions tombent pour les Argentins Paredes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20260821-finale-du-mondial-2026-de-lourdes-sanctions-tombent-pour-les-argentins-paredes-et-molina",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 2425,
+    "id": 6157,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6569,
+    "id": 9217,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 395,
+    "id": 3196,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5619,
+    "id": 3303,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2118,
+    "id": 4133,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5335,
+    "id": 752,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 974,
+    "id": 9288,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2417,
+    "id": 4975,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2293,
+    "id": 1964,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2491,
+    "id": 976,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +144,39 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5223,
+    "id": 8133,
     "level": "medium",
     "country": "🌍",
-    "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/21/how-changing-diets-are-creating-new-markets-for-africas-indigenous-crops/",
+    "text": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 9454,
+    "id": 498,
     "level": "medium",
     "country": "🌍",
-    "text": "‘Indigenous languages and cultures are surviving, and will continue to survive’:",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/20/indigenous-languages-and-cultures-are-surviving-and-will-continue-to-survive-interview-with-juang-language-writer-kshetrabasi-juanga/",
-    "time": "Thu, 20 Aug 2026"
+    "text": "How is drought hitting UK farming?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 1040,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 8245,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+    "time": "Fri, 21 Aug 2026"
   }
 ]
