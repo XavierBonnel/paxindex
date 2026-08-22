@@ -1,6 +1,6 @@
 [
   {
-    "id": 4034,
+    "id": 2857,
     "level": "critical",
     "country": "🌍",
     "text": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
@@ -9,7 +9,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 5409,
+    "id": 3231,
     "level": "critical",
     "country": "🌍",
     "text": "Hundreds of children take part in swimming class on Gaza’s shore",
@@ -18,7 +18,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 1624,
+    "id": 8766,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
@@ -27,7 +27,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 238,
+    "id": 9956,
     "level": "critical",
     "country": "🌍",
     "text": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
@@ -36,16 +36,16 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7605,
+    "id": 1125,
     "level": "critical",
     "country": "🌍",
-    "text": "Former world champion boxer Zolani Tete shot and killed in South Africa",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
+    "text": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-l-%C3%A9pid%C3%A9mie-d-ebola-en-rdc-progresse-de-fa%C3%A7on-exponentielle-alerte-l-onu",
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 3342,
+    "id": 2242,
     "level": "critical",
     "country": "🌍",
     "text": "Deux Palestiniens tués en Cisjordanie",
@@ -54,43 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7280,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Passe d'armes entre Israël et la Turquie après des frappes en Syrie",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-passe-d-armes-entre-isra%C3%ABl-et-la-turquie-apr%C3%A8s-des-frappes-en-syrie",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 2966,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'attaque à l'épée dans un lycée en Suède fait un mort et trois blessés",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-l-attaque-%C3%A0-l-%C3%A9p%C3%A9e-dans-un-lyc%C3%A9e-en-su%C3%A8de-fait-un-mort-et-trois-bless%C3%A9s",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 7832,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-ukraine-frappes-russes-meurtri%C3%A8res-sur-un-centre-commercial-en-plein-jour",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 8548,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran says new US sanctions violate sovereignty of other states",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 5806,
+    "id": 2648,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2223,
+    "id": 2442,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6662,
+    "id": 9,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9638,
+    "id": 542,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1454,
+    "id": 654,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1103,
+    "id": 8258,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8520,
+    "id": 4712,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4148,
+    "id": 3317,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3136,
+    "id": 2599,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +135,48 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 578,
+    "id": 1479,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 5170,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Jewish activists push back against Israeli settlers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 6707,
+    "level": "medium",
+    "country": "🌍",
+    "text": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 5371,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The Berlin Wall separated his family. Its legacy still endures",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 6420,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
   }
 ]
