@@ -1,6 +1,33 @@
 [
   {
-    "id": 3083,
+    "id": 6055,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 1342,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 719,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestinian teen shot and killed in West Bank attack, UN responds",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 3209,
     "level": "critical",
     "country": "🌍",
     "text": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
@@ -9,7 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7946,
+    "id": 2147,
     "level": "critical",
     "country": "🌍",
     "text": "Iranian president says time to end war with US from ‘position of strength’",
@@ -18,34 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 719,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 4274,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 9082,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 7016,
+    "id": 3564,
     "level": "critical",
     "country": "🌍",
     "text": "RCA/CAMEROUN : 72 heures après l'éboulement d'une mine, les activités suspendues",
@@ -54,7 +54,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3773,
+    "id": 4353,
     "level": "critical",
     "country": "🌍",
     "text": "Deux Palestiniens tués en Cisjordanie occupée, dont un après une intrusion de co",
@@ -63,7 +63,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 6663,
+    "id": 4112,
     "level": "critical",
     "country": "🌍",
     "text": "En Ukraine, un centre commercial visé par des frappes russes meurtrières",
@@ -72,7 +72,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3275,
+    "id": 4132,
     "level": "critical",
     "country": "🌍",
     "text": "La France ne va pas verser, seule, 140 milliards d’euros à l’Ukraine",
@@ -81,16 +81,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3148,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dans l’armée américaine, les femmes et les Noirs dans le viseur de Pete Hegseth",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260821-dans-l-arm%C3%A9e-am%C3%A9ricaine-les-femmes-et-les-noirs-dans-le-viseur-de-pete-hegseth",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 1661,
+    "id": 3477,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7136,
+    "id": 6217,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 246,
+    "id": 5951,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2716,
+    "id": 8353,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1588,
+    "id": 9652,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6969,
+    "id": 2387,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6709,
+    "id": 2695,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6288,
+    "id": 6116,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2627,
+    "id": 9112,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8740,
+    "id": 3182,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 727,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/21/the-everyday-guardians-rana-tharu-womens-implicit-roles-in-nepal/",
+    "time": "Fri, 21 Aug 2026"
   }
 ]
