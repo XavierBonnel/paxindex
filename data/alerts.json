@@ -1,6 +1,6 @@
 [
   {
-    "id": 7598,
+    "id": 130,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4833,
+    "id": 7819,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 5217,
+    "id": 5198,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
@@ -27,25 +27,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 934,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What did war with the US reveal about Iran’s weapons capabilities?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 7845,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 5948,
+    "id": 5048,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -54,7 +36,16 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7312,
+    "id": 7766,
+    "level": "high",
+    "country": "🌍",
+    "text": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 5797,
     "level": "high",
     "country": "🌍",
     "text": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
@@ -63,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7484,
+    "id": 2427,
     "level": "high",
     "country": "🌍",
     "text": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
@@ -72,7 +63,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8295,
+    "id": 1968,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1269,
+    "id": 8083,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9997,
+    "id": 2510,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9027,
+    "id": 7427,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3536,
+    "id": 6141,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9378,
+    "id": 4643,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3830,
+    "id": 1538,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7665,
+    "id": 6246,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3381,
+    "id": 1175,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6253,
+    "id": 4065,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6524,
+    "id": 468,
     "level": "medium",
     "country": "🌍",
     "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
@@ -171,12 +162,21 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8576,
+    "id": 6392,
     "level": "medium",
     "country": "🌍",
     "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/21/the-everyday-guardians-rana-tharu-womens-implicit-roles-in-nepal/",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 5569,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/21/how-changing-diets-are-creating-new-markets-for-africas-indigenous-crops/",
     "time": "Fri, 21 Aug 2026"
   }
 ]
