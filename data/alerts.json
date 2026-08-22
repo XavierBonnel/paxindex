@@ -1,6 +1,6 @@
 [
   {
-    "id": 3499,
+    "id": 3622,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 9089,
+    "id": 2886,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,7 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 7258,
+    "id": 3389,
     "level": "critical",
     "country": "🌍",
     "text": "Iranian president says time to end war with US from ‘position of strength’",
@@ -27,7 +27,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 5425,
+    "id": 5492,
     "level": "critical",
     "country": "🌍",
     "text": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
@@ -36,7 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7551,
+    "id": 774,
     "level": "critical",
     "country": "🌍",
     "text": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
@@ -45,7 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8727,
+    "id": 1710,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
@@ -54,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8054,
+    "id": 5909,
     "level": "critical",
     "country": "🌍",
     "text": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
@@ -63,7 +63,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5764,
+    "id": 2756,
     "level": "critical",
     "country": "🌍",
     "text": "RCA/CAMEROUN : 72 heures après l'éboulement d'une mine, les activités suspendues",
@@ -72,7 +72,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 4422,
+    "id": 5453,
     "level": "critical",
     "country": "🌍",
     "text": "Deux Palestiniens tués en Cisjordanie occupée, dont un après une intrusion de co",
@@ -81,7 +81,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 198,
+    "id": 7098,
     "level": "critical",
     "country": "🌍",
     "text": "En Ukraine, un centre commercial visé par des frappes russes meurtrières",
@@ -90,7 +90,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5544,
+    "id": 4451,
     "level": "critical",
     "country": "🌍",
     "text": "La France ne va pas verser, seule, 140 milliards d’euros à l’Ukraine",
@@ -99,7 +99,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3605,
+    "id": 7053,
     "level": "critical",
     "country": "🌍",
     "text": "Dans l’armée américaine, les femmes et les Noirs dans le viseur de Pete Hegseth",
@@ -108,16 +108,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 6557,
-    "level": "high",
-    "country": "🌍",
-    "text": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 7749,
+    "id": 9116,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8932,
+    "id": 6778,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5377,
+    "id": 3667,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7956,
+    "id": 1281,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5368,
+    "id": 9902,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9081,
+    "id": 7677,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +162,21 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5835,
+    "id": 1810,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 1289,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
   }
 ]
