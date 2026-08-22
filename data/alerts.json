@@ -1,6 +1,15 @@
 [
   {
-    "id": 4240,
+    "id": 7513,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Former world champion boxer Zolani Tete shot and killed in South Africa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 6494,
     "level": "critical",
     "country": "🌍",
     "text": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
@@ -9,7 +18,25 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 2600,
+    "id": 7575,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Deux Palestiniens tués en Cisjordanie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-deux-palestiniens-tu%C3%A9s-en-cisjordanie",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 414,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Passe d'armes entre Israël et la Turquie après des frappes en Syrie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-passe-d-armes-entre-isra%C3%ABl-et-la-turquie-apr%C3%A8s-des-frappes-en-syrie",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 7545,
     "level": "critical",
     "country": "🌍",
     "text": "L'attaque à l'épée dans un lycée en Suède fait un mort et trois blessés",
@@ -18,7 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 5393,
+    "id": 9190,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -27,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 2606,
+    "id": 2914,
     "level": "critical",
     "country": "🌍",
     "text": "Touaregs : un peuple nomade face à la colonisation, aux exils et aux conflits",
@@ -36,7 +63,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6140,
+    "id": 1718,
     "level": "critical",
     "country": "🌍",
     "text": "Ligue 1 : Marseille frappe fort contre Strasbourg en ouverture de la saison",
@@ -45,25 +72,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7587,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Cameroun : les recherches se poursuivent après l’éboulement meurtrier à Zamboi",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-cameroun-les-recherches-se-poursuivent-apr%C3%A8s-l-%C3%A9boulement-meurtrier-%C3%A0-zamboi",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 1727,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Ukraine, au moins deux morts après des frappes russes à Kiev et à Zaporijjia",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260822-guerre-ukraine-deux-morts-apr%C3%A8s-frappes-russes-kiev-zaporijjia-zelensky-poutine",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 8474,
+    "id": 9597,
     "level": "high",
     "country": "🌍",
     "text": "Iran says new US sanctions violate sovereignty of other states",
@@ -72,16 +81,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6764,
-    "level": "high",
-    "country": "🌍",
-    "text": "Droits de douane : la tension monte entre les États-Unis et le Canada après l'éc",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260822-droits-de-douane-ottawa-et-washington-dans-l-impasse-carney-promet-de-r%C3%A9pliquer-au-dollar-pr%C3%A8s",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 6615,
+    "id": 156,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3327,
+    "id": 7035,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3449,
+    "id": 6741,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8285,
+    "id": 8115,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6840,
+    "id": 9078,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3814,
+    "id": 3228,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1098,
+    "id": 9301,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9198,
+    "id": 2432,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9890,
+    "id": 967,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3079,
+    "id": 4463,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4450,
+    "id": 345,
     "level": "medium",
     "country": "🌍",
-    "text": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
+    "text": "Manchester City preview: Five key questions heading into 2026-27 season",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
     "time": "Sat, 22 Aug 2026"
   }
 ]
