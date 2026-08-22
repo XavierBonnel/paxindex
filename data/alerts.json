@@ -1,33 +1,24 @@
 [
   {
-    "id": 130,
+    "id": 1548,
     "level": "critical",
     "country": "🌍",
-    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 7819,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 5198,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+    "text": "Armed men kidnap dozens in attacks on Nigerian villages",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 5048,
+    "id": 252,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 8763,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -36,7 +27,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7766,
+    "id": 4189,
     "level": "high",
     "country": "🌍",
     "text": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
@@ -45,25 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 5797,
-    "level": "high",
-    "country": "🌍",
-    "text": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 2427,
-    "level": "high",
-    "country": "🌍",
-    "text": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 1968,
+    "id": 406,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +45,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8083,
+    "id": 1444,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +54,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2510,
+    "id": 3647,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7427,
+    "id": 7906,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6141,
+    "id": 9971,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4643,
+    "id": 7851,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1538,
+    "id": 2843,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6246,
+    "id": 9888,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1175,
+    "id": 2529,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4065,
+    "id": 1889,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +126,57 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 468,
+    "id": 6912,
     "level": "medium",
     "country": "🌍",
-    "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/22/caught-between-silence-and-visibility-lgbtq-experiences-in-mozambique/",
+    "text": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6392,
+    "id": 3312,
     "level": "medium",
     "country": "🌍",
-    "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/21/the-everyday-guardians-rana-tharu-womens-implicit-roles-in-nepal/",
-    "time": "Fri, 21 Aug 2026"
+    "text": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 5569,
+    "id": 7022,
     "level": "medium",
     "country": "🌍",
-    "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/21/how-changing-diets-are-creating-new-markets-for-africas-indigenous-crops/",
-    "time": "Fri, 21 Aug 2026"
+    "text": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 9153,
+    "level": "medium",
+    "country": "🌍",
+    "text": "South Korea sending first container ship through Arctic route",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 1833,
+    "level": "medium",
+    "country": "🌍",
+    "text": "LIVE: Espanyol vs Real Madrid: La Liga",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 5397,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How is the pro-Israel lobby influencing US elections?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
   }
 ]
