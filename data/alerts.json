@@ -1,6 +1,6 @@
 [
   {
-    "id": 2848,
+    "id": 2277,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1420,
+    "id": 1609,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 3681,
+    "id": 7861,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli army and settlers injure several Palestinians across West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 5798,
     "level": "critical",
     "country": "🌍",
     "text": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
@@ -27,7 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 4119,
+    "id": 5900,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli strikes kill two and injure others as Gaza attacks continue",
@@ -36,7 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6618,
+    "id": 7998,
     "level": "critical",
     "country": "🌍",
     "text": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
@@ -45,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 1090,
+    "id": 5557,
     "level": "critical",
     "country": "🌍",
     "text": "Envoy says Israel did not give the US notice before strikes on Syrian base",
@@ -54,16 +63,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 4742,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Swedish police identify 17-year-old girl as victim in school sword attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 1881,
+    "id": 9877,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -72,7 +72,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6789,
+    "id": 8302,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5437,
+    "id": 138,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3587,
+    "id": 6945,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7484,
+    "id": 6117,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5075,
+    "id": 6832,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9000,
+    "id": 7902,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9157,
+    "id": 5179,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4832,
+    "id": 1844,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6912,
+    "id": 1643,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3145,
+    "id": 5681,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 502,
+    "id": 2373,
     "level": "medium",
     "country": "🌍",
     "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
@@ -171,7 +171,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8544,
+    "id": 2324,
     "level": "medium",
     "country": "🌍",
     "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
