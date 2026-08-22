@@ -1,6 +1,6 @@
 [
   {
-    "id": 440,
+    "id": 186,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 9396,
+    "id": 4543,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 7127,
+    "id": 6707,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 9132,
     "level": "critical",
     "country": "🌍",
     "text": "Open-air cinema brings movie nights back to Khartoum",
@@ -27,7 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6776,
+    "id": 9923,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli army and settlers injure several Palestinians across West Bank",
@@ -36,7 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 2417,
+    "id": 6934,
     "level": "critical",
     "country": "🌍",
     "text": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
@@ -45,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 1293,
+    "id": 919,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli strikes kill two and injure others as Gaza attacks continue",
@@ -54,7 +63,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 1088,
+    "id": 3081,
     "level": "critical",
     "country": "🌍",
     "text": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
@@ -63,16 +72,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8162,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Envoy says Israel did not give the US notice before strikes on Syrian base",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 616,
+    "id": 7810,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -81,7 +81,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 3501,
+    "id": 964,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 365,
+    "id": 7208,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5718,
+    "id": 9025,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8179,
+    "id": 3250,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5600,
+    "id": 5362,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5460,
+    "id": 241,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5807,
+    "id": 5684,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1231,
+    "id": 1068,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8447,
+    "id": 8940,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1826,
+    "id": 7814,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,7 +171,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9321,
+    "id": 2884,
     "level": "medium",
     "country": "🌍",
     "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
