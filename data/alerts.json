@@ -1,6 +1,15 @@
 [
   {
-    "id": 6868,
+    "id": 5001,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 2963,
     "level": "critical",
     "country": "🌍",
     "text": "What did war with the US reveal about Iran’s weapons capabilities?",
@@ -9,7 +18,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 1334,
+    "id": 2137,
     "level": "critical",
     "country": "🌍",
     "text": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
@@ -18,7 +27,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 4052,
+    "id": 9393,
     "level": "critical",
     "country": "🌍",
     "text": "As families retrieve bodies, Gaza is running out of places to bury the dead",
@@ -27,16 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 4845,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 5810,
+    "id": 77,
     "level": "critical",
     "country": "🌍",
     "text": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
@@ -45,7 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 9294,
+    "id": 1577,
     "level": "critical",
     "country": "🌍",
     "text": "Deux Palestiniens tués en Cisjordanie",
@@ -54,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6778,
+    "id": 5935,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3320,
+    "id": 7765,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6719,
+    "id": 5121,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1754,
+    "id": 1362,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8267,
+    "id": 9139,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8194,
+    "id": 8134,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6015,
+    "id": 9168,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7542,
+    "id": 5088,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1115,
+    "id": 4299,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5021,
+    "id": 8776,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3445,
+    "id": 9342,
     "level": "medium",
     "country": "🌍",
     "text": "Man Utd humiliated at Hull to open Premier League account",
@@ -153,7 +153,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 5209,
+    "id": 5863,
     "level": "medium",
     "country": "🌍",
     "text": "Indonesia bolsters troop numbers to combat Borneo wildfires",
@@ -162,7 +162,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 1788,
+    "id": 9909,
     "level": "medium",
     "country": "🌍",
     "text": "Is Trump making Latin America great again?",
@@ -171,7 +171,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8172,
+    "id": 579,
     "level": "medium",
     "country": "🌍",
     "text": "Jewish activists push back against Israeli settlers",
