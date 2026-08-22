@@ -1,6 +1,60 @@
 [
   {
-    "id": 9338,
+    "id": 2848,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 1420,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
+    "time": "Mon, 17 Aug 2026"
+  },
+  {
+    "id": 3681,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 4119,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strikes kill two and injure others as Gaza attacks continue",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 6618,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 1090,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 4742,
     "level": "critical",
     "country": "🌍",
     "text": "Swedish police identify 17-year-old girl as victim in school sword attack",
@@ -9,25 +63,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 924,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Armed men kidnap dozens in attacks on Nigerian villages",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 593,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 2094,
+    "id": 1881,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -36,16 +72,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 9951,
-    "level": "high",
-    "country": "🌍",
-    "text": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 1119,
+    "id": 6789,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9871,
+    "id": 5437,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9246,
+    "id": 3587,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4364,
+    "id": 7484,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 701,
+    "id": 5075,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4287,
+    "id": 9000,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6634,
+    "id": 9157,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5561,
+    "id": 4832,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4249,
+    "id": 6912,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2062,
+    "id": 3145,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,48 +162,21 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8092,
+    "id": 502,
     "level": "medium",
     "country": "🌍",
-    "text": "Carney: Canada will enact retaliatory US tariffs starting September 8",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+    "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/22/caught-between-silence-and-visibility-lgbtq-experiences-in-mozambique/",
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 3786,
+    "id": 8544,
     "level": "medium",
     "country": "🌍",
-    "text": "Israel, Turkiye and the new regional reordering",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 5932,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 1576,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 9068,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
+    "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/21/the-everyday-guardians-rana-tharu-womens-implicit-roles-in-nepal/",
+    "time": "Fri, 21 Aug 2026"
   }
 ]
