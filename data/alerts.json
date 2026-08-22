@@ -1,24 +1,6 @@
 [
   {
-    "id": 27,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
-    "time": "Wed, 19 Aug 2026"
-  },
-  {
-    "id": 4707,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/17/who-was-here-first-the-two-meanings-of-indigenous-in-europe/",
-    "time": "Mon, 17 Aug 2026"
-  },
-  {
-    "id": 7391,
+    "id": 3083,
     "level": "critical",
     "country": "🌍",
     "text": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
@@ -27,7 +9,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 5402,
+    "id": 7946,
     "level": "critical",
     "country": "🌍",
     "text": "Iranian president says time to end war with US from ‘position of strength’",
@@ -36,7 +18,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 4035,
+    "id": 719,
     "level": "critical",
     "country": "🌍",
     "text": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
@@ -45,7 +27,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6427,
+    "id": 4274,
     "level": "critical",
     "country": "🌍",
     "text": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
@@ -54,7 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8874,
+    "id": 9082,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
@@ -63,16 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 9836,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
-    "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 7068,
+    "id": 7016,
     "level": "critical",
     "country": "🌍",
     "text": "RCA/CAMEROUN : 72 heures après l'éboulement d'une mine, les activités suspendues",
@@ -81,7 +54,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5327,
+    "id": 3773,
     "level": "critical",
     "country": "🌍",
     "text": "Deux Palestiniens tués en Cisjordanie occupée, dont un après une intrusion de co",
@@ -90,7 +63,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 353,
+    "id": 6663,
     "level": "critical",
     "country": "🌍",
     "text": "En Ukraine, un centre commercial visé par des frappes russes meurtrières",
@@ -99,7 +72,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 5148,
+    "id": 3275,
     "level": "critical",
     "country": "🌍",
     "text": "La France ne va pas verser, seule, 140 milliards d’euros à l’Ukraine",
@@ -108,7 +81,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 6211,
+    "id": 3148,
     "level": "critical",
     "country": "🌍",
     "text": "Dans l’armée américaine, les femmes et les Noirs dans le viseur de Pete Hegseth",
@@ -117,7 +90,7 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 3991,
+    "id": 1661,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 706,
+    "id": 7136,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9358,
+    "id": 246,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4935,
+    "id": 2716,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1416,
+    "id": 1588,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6269,
+    "id": 6969,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +144,39 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1305,
+    "id": 6709,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 6288,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 2627,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 8740,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
   }
 ]
