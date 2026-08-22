@@ -1,6 +1,33 @@
 [
   {
-    "id": 2857,
+    "id": 6868,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What did war with the US reveal about Iran’s weapons capabilities?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 1334,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 4052,
+    "level": "critical",
+    "country": "🌍",
+    "text": "As families retrieve bodies, Gaza is running out of places to bury the dead",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 4845,
     "level": "critical",
     "country": "🌍",
     "text": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
@@ -9,34 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 3231,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Hundreds of children take part in swimming class on Gaza’s shore",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 8766,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 9956,
-    "level": "critical",
-    "country": "🌍",
-    "text": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 1125,
+    "id": 5810,
     "level": "critical",
     "country": "🌍",
     "text": "L'épidémie d'Ebola en RDC \"progresse de façon exponentielle\", alerte l'ONU",
@@ -45,7 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 2242,
+    "id": 9294,
     "level": "critical",
     "country": "🌍",
     "text": "Deux Palestiniens tués en Cisjordanie",
@@ -54,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 2648,
+    "id": 6778,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2442,
+    "id": 3320,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9,
+    "id": 6719,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 542,
+    "id": 1754,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 654,
+    "id": 8267,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8258,
+    "id": 8194,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4712,
+    "id": 6015,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3317,
+    "id": 7542,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2599,
+    "id": 1115,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1479,
+    "id": 5021,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,39 +144,39 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5170,
+    "id": 3445,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Man Utd humiliated at Hull to open Premier League account",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 5209,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 1788,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Is Trump making Latin America great again?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 8172,
     "level": "medium",
     "country": "🌍",
     "text": "Jewish activists push back against Israeli settlers",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 6707,
-    "level": "medium",
-    "country": "🌍",
-    "text": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 5371,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The Berlin Wall separated his family. Its legacy still endures",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 6420,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
     "time": "Sat, 22 Aug 2026"
   }
 ]
