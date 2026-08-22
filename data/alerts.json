@@ -1,6 +1,24 @@
 [
   {
-    "id": 7513,
+    "id": 7636,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 5948,
+    "level": "critical",
+    "country": "🌍",
+    "text": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 7076,
     "level": "critical",
     "country": "🌍",
     "text": "Former world champion boxer Zolani Tete shot and killed in South Africa",
@@ -9,16 +27,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6494,
-    "level": "critical",
-    "country": "🌍",
-    "text": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 7575,
+    "id": 6099,
     "level": "critical",
     "country": "🌍",
     "text": "Deux Palestiniens tués en Cisjordanie",
@@ -27,7 +36,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 414,
+    "id": 982,
     "level": "critical",
     "country": "🌍",
     "text": "Passe d'armes entre Israël et la Turquie après des frappes en Syrie",
@@ -36,7 +45,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 7545,
+    "id": 4431,
     "level": "critical",
     "country": "🌍",
     "text": "L'attaque à l'épée dans un lycée en Suède fait un mort et trois blessés",
@@ -45,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 9190,
+    "id": 5304,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -54,7 +63,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 2914,
+    "id": 3074,
     "level": "critical",
     "country": "🌍",
     "text": "Touaregs : un peuple nomade face à la colonisation, aux exils et aux conflits",
@@ -63,16 +72,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 1718,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ligue 1 : Marseille frappe fort contre Strasbourg en ouverture de la saison",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260822-ligue-1-marseille-frappe-fort-contre-strasbourg-en-ouverture-de-la-saison",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 9597,
+    "id": 4149,
     "level": "high",
     "country": "🌍",
     "text": "Iran says new US sanctions violate sovereignty of other states",
@@ -81,7 +81,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 156,
+    "id": 2096,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7035,
+    "id": 9953,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6741,
+    "id": 938,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8115,
+    "id": 1628,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9078,
+    "id": 5251,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3228,
+    "id": 6279,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9301,
+    "id": 6295,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2432,
+    "id": 9090,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 967,
+    "id": 523,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4463,
+    "id": 9942,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 345,
+    "id": 1570,
     "level": "medium",
     "country": "🌍",
-    "text": "Manchester City preview: Five key questions heading into 2026-27 season",
+    "text": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/22/manchester-city-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
     "time": "Sat, 22 Aug 2026"
   }
 ]
