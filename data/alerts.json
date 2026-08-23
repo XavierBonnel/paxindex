@@ -1,6 +1,6 @@
 [
   {
-    "id": 3420,
+    "id": 1634,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,43 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 7570,
+    "id": 765,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Can Nigeria cash in on Iran war?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 6908,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 3355,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaza families search for children missing after years of war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 9650,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 5160,
     "level": "critical",
     "country": "🌍",
     "text": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
@@ -18,7 +54,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 1082,
+    "id": 444,
     "level": "critical",
     "country": "🌍",
     "text": "Heavy Israeli air strike hits warehouse in central Gaza",
@@ -27,25 +63,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 3683,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dozens of attacks in southern Thailand wound three people",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 1453,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 1447,
+    "id": 172,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : un nouvel intérêt pour la route maritime de l'Arctique",
@@ -54,7 +72,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 5818,
+    "id": 1966,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : des opposants politiques demandent des élections, Zelensky les rejette",
@@ -63,7 +81,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 9170,
+    "id": 873,
     "level": "critical",
     "country": "🌍",
     "text": "Canicule : un été qui \"va laisser des traces dans la société française\"",
@@ -72,7 +90,16 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 5601,
+    "id": 6708,
+    "level": "high",
+    "country": "🌍",
+    "text": "Iran’s government signals fuel price hike on eve of new US sanctions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 9855,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2708,
+    "id": 3030,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9342,
+    "id": 5910,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8176,
+    "id": 1493,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 629,
+    "id": 5384,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9958,
+    "id": 386,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6415,
+    "id": 3324,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5477,
+    "id": 2137,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,39 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7163,
+    "id": 6520,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 9726,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 3347,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 556,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/22/caught-between-silence-and-visibility-lgbtq-experiences-in-mozambique/",
-    "time": "Sat, 22 Aug 2026"
   }
 ]
