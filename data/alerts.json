@@ -1,6 +1,6 @@
 [
   {
-    "id": 1170,
+    "id": 776,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,34 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5327,
+    "id": 405,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Zhou Bo: China’s alternative to Western power",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 349,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 9567,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 4534,
     "level": "critical",
     "country": "🌍",
     "text": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
@@ -18,7 +45,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 8815,
+    "id": 8890,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
@@ -27,7 +54,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 536,
+    "id": 826,
     "level": "critical",
     "country": "🌍",
     "text": "Photos: Ukraine celebrates National Flag Day",
@@ -36,34 +63,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 8423,
-    "level": "critical",
-    "country": "🌍",
-    "text": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 5364,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Can Nigeria cash in on Iran war?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 7887,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 9943,
+    "id": 7613,
     "level": "critical",
     "country": "🌍",
     "text": "Pas d'élections en Ukraine : \"C'est compliqué sur le plan constitutionnel\"",
@@ -72,7 +72,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 8127,
+    "id": 2780,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : un nouvel intérêt pour la route maritime de l'Arctique",
@@ -81,7 +81,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 2998,
+    "id": 904,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7308,
+    "id": 100,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1423,
+    "id": 9200,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4111,
+    "id": 3224,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5389,
+    "id": 6101,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5865,
+    "id": 2654,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6582,
+    "id": 4842,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1607,
+    "id": 3429,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9550,
+    "id": 1534,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5076,
+    "id": 5644,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,7 +171,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1467,
+    "id": 357,
     "level": "medium",
     "country": "🌍",
     "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
