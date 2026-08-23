@@ -1,6 +1,6 @@
 [
   {
-    "id": 186,
+    "id": 2012,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4543,
+    "id": 8004,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,34 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 6707,
+    "id": 8806,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran warns neighbours against joining US economic war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 9901,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran threatens countries that join US ‘economic D-Day’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 6765,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 1846,
     "level": "critical",
     "country": "🌍",
     "text": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
@@ -27,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 9132,
+    "id": 2487,
     "level": "critical",
     "country": "🌍",
     "text": "Open-air cinema brings movie nights back to Khartoum",
@@ -36,7 +63,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 9923,
+    "id": 3825,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli army and settlers injure several Palestinians across West Bank",
@@ -45,7 +72,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6934,
+    "id": 6795,
     "level": "critical",
     "country": "🌍",
     "text": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
@@ -54,25 +81,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 919,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli strikes kill two and injure others as Gaza attacks continue",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 3081,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 7810,
+    "id": 6121,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -81,7 +90,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 964,
+    "id": 5374,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7208,
+    "id": 7561,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9025,
+    "id": 7819,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3250,
+    "id": 2935,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5362,
+    "id": 9063,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 241,
+    "id": 873,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5684,
+    "id": 3590,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1068,
+    "id": 8819,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8940,
+    "id": 2981,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,21 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7814,
+    "id": 9657,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 2884,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/22/caught-between-silence-and-visibility-lgbtq-experiences-in-mozambique/",
-    "time": "Sat, 22 Aug 2026"
   }
 ]
