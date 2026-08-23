@@ -1,15 +1,15 @@
 [
   {
-    "id": 1634,
+    "id": 5343,
     "level": "critical",
     "country": "🌍",
-    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
-    "time": "Wed, 19 Aug 2026"
+    "text": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 765,
+    "id": 4782,
     "level": "critical",
     "country": "🌍",
     "text": "Can Nigeria cash in on Iran war?",
@@ -18,7 +18,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 6908,
+    "id": 4028,
     "level": "critical",
     "country": "🌍",
     "text": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
@@ -27,7 +27,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 3355,
+    "id": 4493,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza families search for children missing after years of war",
@@ -36,7 +36,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 9650,
+    "id": 7407,
     "level": "critical",
     "country": "🌍",
     "text": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
@@ -45,7 +45,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 5160,
+    "id": 1956,
     "level": "critical",
     "country": "🌍",
     "text": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
@@ -54,16 +54,16 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 444,
+    "id": 8970,
     "level": "critical",
     "country": "🌍",
-    "text": "Heavy Israeli air strike hits warehouse in central Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+    "text": "Pas d'élections en Ukraine : \"C'est compliqué sur le plan constitutionnel\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-%C3%A9lections-en-ukraine-c-est-compliqu%C3%A9-sur-le-plan-constitutionnel",
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 172,
+    "id": 3026,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : un nouvel intérêt pour la route maritime de l'Arctique",
@@ -72,25 +72,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 1966,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : des opposants politiques demandent des élections, Zelensky les rejette",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-ukraine-des-opposants-politiques-demandent-des-%C3%A9lections-zelensky-les-rejette",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 873,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canicule : un été qui \"va laisser des traces dans la société française\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-canicule-un-%C3%A9t%C3%A9-qui-va-laisser-des-traces-dans-la-soci%C3%A9t%C3%A9-fran%C3%A7aise",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 6708,
+    "id": 4798,
     "level": "high",
     "country": "🌍",
     "text": "Iran’s government signals fuel price hike on eve of new US sanctions",
@@ -99,7 +81,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 9855,
+    "id": 2613,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3030,
+    "id": 8873,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5910,
+    "id": 3429,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1493,
+    "id": 7326,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5384,
+    "id": 9714,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 386,
+    "id": 8032,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3324,
+    "id": 5514,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2137,
+    "id": 4138,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +153,30 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6520,
+    "id": 9072,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 5278,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 1826,
+    "level": "medium",
+    "country": "🌍",
+    "text": "LIVE: Elche vs Barcelona – La Liga",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
   }
 ]
