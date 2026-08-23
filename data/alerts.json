@@ -1,6 +1,6 @@
 [
   {
-    "id": 2973,
+    "id": 4419,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6039,
+    "id": 1341,
     "level": "critical",
     "country": "🌍",
     "text": "Who was here first? The two meanings of ‘Indigenous’ in Europe",
@@ -18,7 +18,16 @@
     "time": "Mon, 17 Aug 2026"
   },
   {
-    "id": 2059,
+    "id": 1601,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 4649,
     "level": "critical",
     "country": "🌍",
     "text": "Canada to hit US with retaliatory tariffs as trade war escalates",
@@ -27,7 +36,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 3886,
+    "id": 7114,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Tehran warns neighbours against joining US economic war",
@@ -36,7 +45,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 6094,
+    "id": 4493,
     "level": "critical",
     "country": "🌍",
     "text": "Iran threatens countries that join US ‘economic D-Day’",
@@ -45,7 +54,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 534,
+    "id": 9464,
     "level": "critical",
     "country": "🌍",
     "text": "Iran warns nearby nations against joining US ‘economic war’ efforts",
@@ -54,7 +63,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6582,
+    "id": 751,
     "level": "critical",
     "country": "🌍",
     "text": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
@@ -63,25 +72,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 6316,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Open-air cinema brings movie nights back to Khartoum",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 3774,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli army and settlers injure several Palestinians across West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 3686,
+    "id": 7440,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
@@ -90,7 +81,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 9448,
+    "id": 9415,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6443,
+    "id": 1116,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3773,
+    "id": 9567,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6197,
+    "id": 8958,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9933,
+    "id": 165,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2989,
+    "id": 1559,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5234,
+    "id": 8907,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6219,
+    "id": 7277,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6285,
+    "id": 5727,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1663,
+    "id": 425,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 7595,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/22/caught-between-silence-and-visibility-lgbtq-experiences-in-mozambique/",
+    "time": "Sat, 22 Aug 2026"
   }
 ]
