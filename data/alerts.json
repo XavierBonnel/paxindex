@@ -1,6 +1,24 @@
 [
   {
-    "id": 4796,
+    "id": 8982,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 652,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Dozens of attacks in southern Thailand wound three people",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 1623,
     "level": "critical",
     "country": "🌍",
     "text": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
@@ -9,7 +27,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 9599,
+    "id": 981,
     "level": "critical",
     "country": "🌍",
     "text": "Can Iran retaliate against countries that join US ‘economic war’?",
@@ -18,7 +36,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 757,
+    "id": 8664,
     "level": "critical",
     "country": "🌍",
     "text": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
@@ -27,25 +45,34 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 7354,
+    "id": 242,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza : des centaines d’enfants apprennent à nager pour surmonter les traumatisme",
+    "text": "Une Française dans l'espace, incendies en Europe et guerre en Ukraine : la semai",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-gaza-des-centaines-d-enfants-apprennent-%C3%A0-nager-pour-surmonter-les-traumatismes-de-la-guerre",
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260823-semaine-images-sophie-adenot-espace-incendies-ukraine-can-cameroun",
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 4541,
+    "id": 9796,
     "level": "critical",
     "country": "🌍",
-    "text": "Soudan : le phénomène El Niño menace les cultures",
+    "text": "Des élections seraient \"un tsunami\" qui \"fracturerait l'Ukraine\", dit Zelensky",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-soudan-le-ph%C3%A9nom%C3%A8ne-el-ni%C3%B1o-menace-les-cultures",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-des-%C3%A9lections-seraient-un-tsunami-qui-fracturerait-l-ukraine-dit-zelensky",
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 3753,
+    "id": 1270,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Un \"risque énorme pour l'Ukraine\" : Zelensky rejette toute élection en temps de ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260823-en-ukraine-zelensky-s-oppose-%C3%A0-des-%C3%A9lections-pourtant-demand%C3%A9es-par-son-ex-ministre-de-la-d%C3%A9fense",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 6211,
     "level": "high",
     "country": "🌍",
     "text": "Explosion injures 13 in Taiwan",
@@ -54,7 +81,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 1352,
+    "id": 1888,
     "level": "high",
     "country": "🌍",
     "text": "En direct : Pezeshkian reconnaît de \"nombreux problèmes\" causés par les sanction",
@@ -63,7 +90,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 332,
+    "id": 4558,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7050,
+    "id": 8940,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1004,
+    "id": 2363,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1445,
+    "id": 2094,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3826,
+    "id": 6713,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2510,
+    "id": 5734,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3844,
+    "id": 1992,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2250,
+    "id": 5876,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3301,
+    "id": 9147,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,39 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7346,
+    "id": 8905,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 1929,
-    "level": "medium",
-    "country": "🌍",
-    "text": "DR Congo miners risk Ebola to make a living",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 4209,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 9207,
-    "level": "medium",
-    "country": "🌍",
-    "text": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
   }
 ]
