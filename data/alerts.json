@@ -1,6 +1,42 @@
 [
   {
-    "id": 5343,
+    "id": 1170,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "time": "Wed, 19 Aug 2026"
+  },
+  {
+    "id": 5327,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 8815,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 536,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Photos: Ukraine celebrates National Flag Day",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 8423,
     "level": "critical",
     "country": "🌍",
     "text": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
@@ -9,7 +45,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 4782,
+    "id": 5364,
     "level": "critical",
     "country": "🌍",
     "text": "Can Nigeria cash in on Iran war?",
@@ -18,7 +54,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 4028,
+    "id": 7887,
     "level": "critical",
     "country": "🌍",
     "text": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
@@ -27,34 +63,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 4493,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Gaza families search for children missing after years of war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 7407,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Pezeshkian says Iran ‘has not become Venezuela’ despite war and sanctions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 1956,
-    "level": "critical",
-    "country": "🌍",
-    "text": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 8970,
+    "id": 9943,
     "level": "critical",
     "country": "🌍",
     "text": "Pas d'élections en Ukraine : \"C'est compliqué sur le plan constitutionnel\"",
@@ -63,7 +72,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 3026,
+    "id": 8127,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre au Moyen-Orient : un nouvel intérêt pour la route maritime de l'Arctique",
@@ -72,16 +81,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 4798,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran’s government signals fuel price hike on eve of new US sanctions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 2613,
+    "id": 2998,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8873,
+    "id": 7308,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3429,
+    "id": 1423,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7326,
+    "id": 4111,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9714,
+    "id": 5389,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8032,
+    "id": 5865,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5514,
+    "id": 6582,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4138,
+    "id": 1607,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9072,
+    "id": 9550,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5278,
+    "id": 5076,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1826,
+    "id": 1467,
     "level": "medium",
     "country": "🌍",
-    "text": "LIVE: Elche vs Barcelona – La Liga",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
     "time": "Sun, 23 Aug 2026"
   }
 ]
