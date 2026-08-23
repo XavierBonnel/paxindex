@@ -1,6 +1,6 @@
 [
   {
-    "id": 8982,
+    "id": 3063,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 652,
+    "id": 1721,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 1815,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Heavy Israeli air strike hits warehouse in central Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 7895,
     "level": "critical",
     "country": "🌍",
     "text": "Dozens of attacks in southern Thailand wound three people",
@@ -18,7 +36,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 1623,
+    "id": 8520,
     "level": "critical",
     "country": "🌍",
     "text": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
@@ -27,25 +45,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 981,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Can Iran retaliate against countries that join US ‘economic war’?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 8664,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 242,
+    "id": 3879,
     "level": "critical",
     "country": "🌍",
     "text": "Une Française dans l'espace, incendies en Europe et guerre en Ukraine : la semai",
@@ -54,7 +54,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 9796,
+    "id": 6353,
     "level": "critical",
     "country": "🌍",
     "text": "Des élections seraient \"un tsunami\" qui \"fracturerait l'Ukraine\", dit Zelensky",
@@ -63,7 +63,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 1270,
+    "id": 6122,
     "level": "critical",
     "country": "🌍",
     "text": "Un \"risque énorme pour l'Ukraine\" : Zelensky rejette toute élection en temps de ",
@@ -72,16 +72,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 6211,
-    "level": "high",
-    "country": "🌍",
-    "text": "Explosion injures 13 in Taiwan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 1888,
+    "id": 8717,
     "level": "high",
     "country": "🌍",
     "text": "En direct : Pezeshkian reconnaît de \"nombreux problèmes\" causés par les sanction",
@@ -90,7 +81,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 4558,
+    "id": 6119,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8940,
+    "id": 6900,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2363,
+    "id": 9687,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2094,
+    "id": 6507,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6713,
+    "id": 6754,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5734,
+    "id": 7049,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1992,
+    "id": 3948,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5876,
+    "id": 9714,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9147,
+    "id": 622,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8905,
+    "id": 7649,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 9648,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
+    "time": "Sun, 23 Aug 2026"
   }
 ]
