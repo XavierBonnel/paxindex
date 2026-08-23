@@ -1,6 +1,6 @@
 [
   {
-    "id": 7318,
+    "id": 207,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 8893,
+    "id": 6915,
     "level": "critical",
     "country": "🌍",
     "text": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
@@ -18,7 +18,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 681,
+    "id": 987,
     "level": "critical",
     "country": "🌍",
     "text": "DR Congo, M23 rebels agree on roadmap for peace talks",
@@ -27,7 +27,16 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 1961,
+    "id": 5749,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaza : des centaines d’enfants apprennent à nager pour surmonter les traumatisme",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-gaza-des-centaines-d-enfants-apprennent-%C3%A0-nager-pour-surmonter-les-traumatismes-de-la-guerre",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 1865,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : le phénomène El Niño menace les cultures",
@@ -36,16 +45,16 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 5803,
-    "level": "critical",
+    "id": 7778,
+    "level": "high",
     "country": "🌍",
-    "text": "Ukraine : frappes russes meurtrières sur un centre commercial en plein jour",
+    "text": "En direct : Pezeshkian reconnaît de \"nombreux problèmes\" causés par les sanction",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260822-ukraine-frappes-russes-meurtri%C3%A8res-sur-un-centre-commercial-en-plein-jour-1",
-    "time": "Sat, 22 Aug 2026"
+    "link": "https://www.france24.com/fr/moyen-orient/20260823-guerre-moyen-orient-en-direct-pezeshkian-iran-reconna%C3%AEt-nombreux-probl%C3%A8mes-caus%C3%A9s-sanctions-am%C3%A9ricaines-%C3%A9tats-unis",
+    "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 3728,
+    "id": 1527,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1814,
+    "id": 9996,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3709,
+    "id": 5723,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 179,
+    "id": 1850,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1242,
+    "id": 3517,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8629,
+    "id": 4160,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8060,
+    "id": 3429,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 759,
+    "id": 3886,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9766,
+    "id": 2282,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5240,
+    "id": 7456,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2400,
+    "id": 6129,
     "level": "medium",
     "country": "🌍",
     "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
@@ -144,7 +153,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 8842,
+    "id": 8830,
     "level": "medium",
     "country": "🌍",
     "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
@@ -153,7 +162,7 @@
     "time": "Sat, 22 Aug 2026"
   },
   {
-    "id": 8190,
+    "id": 1280,
     "level": "medium",
     "country": "🌍",
     "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
@@ -162,21 +171,12 @@
     "time": "Fri, 21 Aug 2026"
   },
   {
-    "id": 1277,
+    "id": 2377,
     "level": "medium",
     "country": "🌍",
     "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/21/how-changing-diets-are-creating-new-markets-for-africas-indigenous-crops/",
     "time": "Fri, 21 Aug 2026"
-  },
-  {
-    "id": 8680,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Indigenous languages and cultures are surviving, and will continue to survive’:",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/20/indigenous-languages-and-cultures-are-surviving-and-will-continue-to-survive-interview-with-juang-language-writer-kshetrabasi-juanga/",
-    "time": "Thu, 20 Aug 2026"
   }
 ]
