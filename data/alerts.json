@@ -1,6 +1,6 @@
 [
   {
-    "id": 2542,
+    "id": 9960,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 9868,
+    "id": 6793,
     "level": "critical",
     "country": "🌍",
     "text": "Is Israel about to split the occupied West Bank in half?",
@@ -18,7 +18,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 316,
+    "id": 781,
     "level": "critical",
     "country": "🌍",
     "text": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
@@ -27,43 +27,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 6156,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Zhou Bo: China’s alternative to Western power",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 9628,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 1213,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 5762,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 7208,
+    "id": 9260,
     "level": "critical",
     "country": "🌍",
     "text": "Guinée : au moins 30 morts et 22 blessés dans l'éboulement d'une décharge",
@@ -72,7 +36,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 8633,
+    "id": 7969,
     "level": "critical",
     "country": "🌍",
     "text": "Pas d'élections en Ukraine : \"C'est compliqué sur le plan constitutionnel\"",
@@ -81,7 +45,16 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 9190,
+    "id": 5101,
+    "level": "high",
+    "country": "🌍",
+    "text": "Will Donald Trump’s new sanctions against Iran work?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 9045,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3641,
+    "id": 4496,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6456,
+    "id": 9398,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2425,
+    "id": 7652,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1239,
+    "id": 4035,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1302,
+    "id": 4734,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7447,
+    "id": 9825,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8071,
+    "id": 1395,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 306,
+    "id": 6371,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4125,
+    "id": 9616,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +144,39 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1616,
+    "id": 3603,
     "level": "medium",
     "country": "🌍",
     "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
     "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 6667,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/22/caught-between-silence-and-visibility-lgbtq-experiences-in-mozambique/",
+    "time": "Sat, 22 Aug 2026"
+  },
+  {
+    "id": 6781,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/21/the-everyday-guardians-rana-tharu-womens-implicit-roles-in-nepal/",
+    "time": "Fri, 21 Aug 2026"
+  },
+  {
+    "id": 879,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How changing diets are creating new markets for Africa’s Indigenous crops",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/21/how-changing-diets-are-creating-new-markets-for-africas-indigenous-crops/",
+    "time": "Fri, 21 Aug 2026"
   }
 ]
