@@ -1,6 +1,6 @@
 [
   {
-    "id": 3138,
+    "id": 1561,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1234,
+    "id": 1093,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 3442,
+    "level": "critical",
+    "country": "🌍",
+    "text": "South Africa’s former boxing champion Tete shot dead outside home",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/south-africas-former-boxing-champion-tete-shot-dead-outside-home?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 9398,
     "level": "critical",
     "country": "🌍",
     "text": "How the deadliest Bundibugyo Ebola outbreak can be stopped",
@@ -18,7 +36,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 2409,
+    "id": 927,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli air strike near Gaza refugee camp kills one person and injures two",
@@ -27,7 +45,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 267,
+    "id": 4949,
     "level": "critical",
     "country": "🌍",
     "text": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
@@ -36,7 +54,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 9914,
+    "id": 5293,
     "level": "critical",
     "country": "🌍",
     "text": "Where water conflicts pose the biggest threat in 2026",
@@ -45,25 +63,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 5690,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 6580,
-    "level": "critical",
-    "country": "🌍",
-    "text": "DR Congo, M23 rebels agree on roadmap for peace talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 1920,
+    "id": 3073,
     "level": "critical",
     "country": "🌍",
     "text": "Gaza : des centaines d’enfants apprennent à nager pour surmonter les traumatisme",
@@ -72,7 +72,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 9084,
+    "id": 3487,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : le phénomène El Niño menace les cultures",
@@ -81,7 +81,16 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 2186,
+    "id": 1684,
+    "level": "high",
+    "country": "🌍",
+    "text": "Explosion injures 13 in Taiwan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
+    "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 6594,
     "level": "high",
     "country": "🌍",
     "text": "En direct : Pezeshkian reconnaît de \"nombreux problèmes\" causés par les sanction",
@@ -90,7 +99,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 1146,
+    "id": 5931,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9651,
+    "id": 8995,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9917,
+    "id": 581,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4934,
+    "id": 5785,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7738,
+    "id": 4045,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7756,
+    "id": 6045,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 293,
+    "id": 6314,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3306,
+    "id": 5167,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,21 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6348,
+    "id": 3765,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 8577,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
   }
 ]
