@@ -1,6 +1,6 @@
 [
   {
-    "id": 3063,
+    "id": 3420,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 1721,
+    "id": 7570,
     "level": "critical",
     "country": "🌍",
     "text": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
@@ -18,7 +18,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 1815,
+    "id": 1082,
     "level": "critical",
     "country": "🌍",
     "text": "Heavy Israeli air strike hits warehouse in central Gaza",
@@ -27,7 +27,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 7895,
+    "id": 3683,
     "level": "critical",
     "country": "🌍",
     "text": "Dozens of attacks in southern Thailand wound three people",
@@ -36,7 +36,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 8520,
+    "id": 1453,
     "level": "critical",
     "country": "🌍",
     "text": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
@@ -45,43 +45,34 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 3879,
+    "id": 1447,
     "level": "critical",
     "country": "🌍",
-    "text": "Une Française dans l'espace, incendies en Europe et guerre en Ukraine : la semai",
+    "text": "Guerre au Moyen-Orient : un nouvel intérêt pour la route maritime de l'Arctique",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260823-semaine-images-sophie-adenot-espace-incendies-ukraine-can-cameroun",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-guerre-au-moyen-orient-un-nouvel-int%C3%A9r%C3%AAt-pour-la-route-maritime-de-l-arctique",
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 6353,
+    "id": 5818,
     "level": "critical",
     "country": "🌍",
-    "text": "Des élections seraient \"un tsunami\" qui \"fracturerait l'Ukraine\", dit Zelensky",
+    "text": "Ukraine : des opposants politiques demandent des élections, Zelensky les rejette",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-des-%C3%A9lections-seraient-un-tsunami-qui-fracturerait-l-ukraine-dit-zelensky",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-ukraine-des-opposants-politiques-demandent-des-%C3%A9lections-zelensky-les-rejette",
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 6122,
+    "id": 9170,
     "level": "critical",
     "country": "🌍",
-    "text": "Un \"risque énorme pour l'Ukraine\" : Zelensky rejette toute élection en temps de ",
+    "text": "Canicule : un été qui \"va laisser des traces dans la société française\"",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260823-en-ukraine-zelensky-s-oppose-%C3%A0-des-%C3%A9lections-pourtant-demand%C3%A9es-par-son-ex-ministre-de-la-d%C3%A9fense",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260823-canicule-un-%C3%A9t%C3%A9-qui-va-laisser-des-traces-dans-la-soci%C3%A9t%C3%A9-fran%C3%A7aise",
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 8717,
-    "level": "high",
-    "country": "🌍",
-    "text": "En direct : Pezeshkian reconnaît de \"nombreux problèmes\" causés par les sanction",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260823-guerre-moyen-orient-en-direct-pezeshkian-iran-reconna%C3%AEt-nombreux-probl%C3%A8mes-caus%C3%A9s-sanctions-am%C3%A9ricaines-%C3%A9tats-unis",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 6119,
+    "id": 5601,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6900,
+    "id": 2708,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9687,
+    "id": 9342,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6507,
+    "id": 8176,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6754,
+    "id": 629,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7049,
+    "id": 9958,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3948,
+    "id": 6415,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9714,
+    "id": 5477,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 622,
+    "id": 7163,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7649,
+    "id": 9726,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +162,21 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9648,
+    "id": 3347,
     "level": "medium",
     "country": "🌍",
     "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
     "time": "Sun, 23 Aug 2026"
+  },
+  {
+    "id": 556,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/22/caught-between-silence-and-visibility-lgbtq-experiences-in-mozambique/",
+    "time": "Sat, 22 Aug 2026"
   }
 ]
