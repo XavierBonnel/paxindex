@@ -1,6 +1,6 @@
 [
   {
-    "id": 1049,
+    "id": 8746,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 2168,
+    "id": 8900,
     "level": "critical",
     "country": "🌍",
     "text": "US public support for Iran war falls as Trump approval at record low: Poll",
@@ -18,7 +18,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 7002,
+    "id": 868,
     "level": "critical",
     "country": "🌍",
     "text": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
@@ -27,7 +27,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 866,
+    "id": 1764,
     "level": "critical",
     "country": "🌍",
     "text": "What’s behind domestic political pressure on Ukraine’s president?",
@@ -36,25 +36,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 17,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ambush in South Sudan kills peacekeeping troops",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 8323,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Violence flares in Haiti as gang attack kills 30 people",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 7869,
+    "id": 7466,
     "level": "critical",
     "country": "🌍",
     "text": "La \"Coalition des volontaires\" réaffirme son soutien à Volodymyr Zelensky",
@@ -63,7 +45,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 9667,
+    "id": 8947,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : la crise alimentaire s’aggrave face à la sécheresse",
@@ -72,7 +54,16 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 9067,
+    "id": 3537,
+    "level": "high",
+    "country": "🌍",
+    "text": "How US sanctions on Iran ripple through global markets and consumers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 3382,
     "level": "high",
     "country": "🌍",
     "text": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
@@ -81,7 +72,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 4104,
+    "id": 5323,
     "level": "high",
     "country": "🌍",
     "text": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
@@ -90,7 +81,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 883,
+    "id": 8925,
     "level": "high",
     "country": "🌍",
     "text": "Comment les États-Unis comptent \"asphyxier l'économie\" de l'Iran",
@@ -99,7 +90,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 6175,
+    "id": 2227,
     "level": "high",
     "country": "🌍",
     "text": "🔴 Les États-Unis dévoilent de nouvelles sanctions visant à \"couper toutes les so",
@@ -108,7 +99,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8364,
+    "id": 3005,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6906,
+    "id": 2381,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3274,
+    "id": 8961,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4530,
+    "id": 1699,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8518,
+    "id": 8083,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 340,
+    "id": 4545,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2504,
+    "id": 2974,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -171,12 +162,21 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7461,
+    "id": 8958,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 4784,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
   }
 ]
