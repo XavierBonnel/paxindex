@@ -1,6 +1,6 @@
 [
   {
-    "id": 2610,
+    "id": 9004,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,34 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4247,
+    "id": 4227,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 7958,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US military says strike on alleged drug-smuggling boat kills two",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 3668,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Dozens of coordinated arson attacks carried out across Thailand",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/dozens-of-coordinated-arson-attacks-carried-out-across-thailand?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 6830,
     "level": "critical",
     "country": "🌍",
     "text": "Transfer target Julian Alvarez booed by fans in Atletico Madrid win",
@@ -18,7 +45,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8329,
+    "id": 2299,
     "level": "critical",
     "country": "🌍",
     "text": "Seville, Jefferson-Wooden roar to 100m wins at Silesia Diamond League",
@@ -27,34 +54,25 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2290,
+    "id": 9063,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+    "text": "À Kiev, la coalition des volontaires face à l’intensification des frappes russes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260824-%C3%A0-kiev-la-coalition-des-volontaires-face-%C3%A0-l-intensification-des-frappes-russes",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 7104,
+    "level": "high",
+    "country": "🌍",
+    "text": "US threatens toughest sanctions yet against Iran: What we know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8011,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israël et Syrie mènent des pourparlers de haut niveau en Jordanie pour désamorce",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260824-attaque-d-une-base-en-syrie-damas-dit-vouloir-d%C3%A9samorcer-les-tensions-avec-isra%C3%ABl",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 6615,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : réunion des soutiens de l'Ukraine, sur fond d'intensification des fr",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260824-en-direct-ukraine-russie-reunion-soutiens-coalition-volontaires-zelensky-frappes",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 3543,
+    "id": 9402,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3782,
+    "id": 6918,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2123,
+    "id": 5113,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1517,
+    "id": 9812,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2169,
+    "id": 2802,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9396,
+    "id": 7931,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7083,
+    "id": 4086,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3181,
+    "id": 5618,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3356,
+    "id": 7282,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3871,
+    "id": 3114,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,39 +162,21 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3455,
+    "id": 4794,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 5147,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices Spotlight: Protest in democracy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/24/support-global-voices-spotlight-protest-in-democracy/",
     "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 169,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
-    "time": "Sun, 23 Aug 2026"
-  },
-  {
-    "id": 1940,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Caught between silence and visibility: LGBTQ+ experiences in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/22/caught-between-silence-and-visibility-lgbtq-experiences-in-mozambique/",
-    "time": "Sat, 22 Aug 2026"
-  },
-  {
-    "id": 3217,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The everyday guardians: Rana Tharu women’s implicit roles in Nepal",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/21/the-everyday-guardians-rana-tharu-womens-implicit-roles-in-nepal/",
-    "time": "Fri, 21 Aug 2026"
   }
 ]
