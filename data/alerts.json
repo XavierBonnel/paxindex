@@ -1,6 +1,6 @@
 [
   {
-    "id": 1569,
+    "id": 4417,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,16 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5254,
+    "id": 1462,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump administration announces global economic war on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 6171,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli strike on Gaza shelter extends casualty list",
@@ -18,7 +27,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2887,
+    "id": 6366,
     "level": "critical",
     "country": "🌍",
     "text": "What to expect as Iran braces for new US economic measures amid war",
@@ -27,34 +36,16 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 5540,
+    "id": 8037,
     "level": "critical",
     "country": "🌍",
-    "text": "Are humanoid robots the future of warfare?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/are-humanoid-robots-the-future-of-warfare?traffic_source=rss",
+    "text": "Soudan : la crise alimentaire s’aggrave face à la sécheresse",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260824-soudan-la-crise-alimentaire-s-aggrave-face-%C3%A0-la-s%C3%A9cheresse",
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2695,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 581,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 9558,
+    "id": 6804,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : le pays fête ses 35 ans d’indépendance malgré la guerre",
@@ -63,7 +54,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 6825,
+    "id": 2035,
     "level": "critical",
     "country": "🌍",
     "text": "Coalition des volontaires : comment mieux protéger l’Ukraine ?",
@@ -72,25 +63,16 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2819,
+    "id": 7773,
     "level": "high",
     "country": "🌍",
-    "text": "Video: Russia launches rocket into space with military satellite",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-russia-launches-rocket-into-space-with-military-satellite?traffic_source=rss",
+    "text": "🔴 Les États-Unis dévoilent de nouvelles sanctions visant à \"couper toutes les so",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260824-moyen-orient-en-direct-iran-balaie-menace-am%C3%A9ricaine-d-day-%C3%A9conomique-mbs-paris-arabie-saoudite",
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 228,
-    "level": "high",
-    "country": "🌍",
-    "text": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/24/uk-to-help-ukraine-build-storm-shadow-long-range-missiles-why-it-matters?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 981,
+    "id": 3198,
     "level": "high",
     "country": "🌍",
     "text": "En RD Congo, une première mission de vérification du cessez-le-feu dans l'Est",
@@ -99,7 +81,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8420,
+    "id": 2660,
     "level": "high",
     "country": "🌍",
     "text": "Iran : les partenaires de Téhéran dans le viseur de Washington",
@@ -108,7 +90,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 3196,
+    "id": 2487,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 104,
+    "id": 6095,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3432,
+    "id": 1654,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9952,
+    "id": 5766,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3065,
+    "id": 1872,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8525,
+    "id": 9142,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2477,
+    "id": 9924,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -171,12 +153,30 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9125,
+    "id": 7780,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 7470,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 1996,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
   }
 ]
