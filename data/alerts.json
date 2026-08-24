@@ -1,6 +1,6 @@
 [
   {
-    "id": 3131,
+    "id": 8225,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,34 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 6033,
+    "id": 2350,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Barrel bomb mufti’ Ahmad Hassoun handed life sentence in Syria trial",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/24/hold-ahmad-hassoun-assads-barrel-bomb-mufti-faces-death-penalty?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 4361,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How much more are you spending on petrol since the war on Iran began?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 4630,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Canada-US trade war: Who wins? Who loses?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 5063,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
@@ -18,34 +45,25 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 5964,
+    "id": 1378,
     "level": "critical",
     "country": "🌍",
-    "text": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+    "text": "Pakistan’s army chief back in Iran: Can he break peace talks deadlock?",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 1225,
+    "id": 4494,
     "level": "critical",
     "country": "🌍",
-    "text": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 1931,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Attaque d'une base en Syrie : Damas dit vouloir désamorcer les tensions avec Isr",
+    "text": "Israël et Syrie mènent des pourparlers de haut niveau en Jordanie pour désamorce",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260824-attaque-d-une-base-en-syrie-damas-dit-vouloir-d%C3%A9samorcer-les-tensions-avec-isra%C3%ABl",
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 4390,
+    "id": 2109,
     "level": "critical",
     "country": "🌍",
     "text": "En direct : réunion des soutiens de l'Ukraine, sur fond d'intensification des fr",
@@ -54,7 +72,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 4004,
+    "id": 1879,
     "level": "critical",
     "country": "🌍",
     "text": "Guinée : au moins 30 morts et 22 blessés dans l'éboulement d'une décharge",
@@ -63,16 +81,7 @@
     "time": "Sun, 23 Aug 2026"
   },
   {
-    "id": 4258,
-    "level": "high",
-    "country": "🌍",
-    "text": "‘We know this movie’: Iran mocks latest US sanctions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 2932,
+    "id": 453,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7673,
+    "id": 5762,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5783,
+    "id": 5125,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 560,
+    "id": 1537,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3695,
+    "id": 2024,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9069,
+    "id": 9954,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8143,
+    "id": 3596,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9935,
+    "id": 2374,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3613,
+    "id": 3025,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1566,
+    "id": 9548,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8060,
+    "id": 426,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices Spotlight: Protest in democracy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/24/support-global-voices-spotlight-protest-in-democracy/",
     "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 4014,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
-    "time": "Sun, 23 Aug 2026"
   }
 ]
