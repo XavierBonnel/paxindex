@@ -1,6 +1,6 @@
 [
   {
-    "id": 7906,
+    "id": 5184,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,16 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 109,
+    "id": 1812,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen’s Houthis report attack on Saudi ship",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 3543,
     "level": "critical",
     "country": "🌍",
     "text": "Video: Israel attacks desalination plant and mosque in Gaza",
@@ -18,7 +27,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2032,
+    "id": 8223,
     "level": "critical",
     "country": "🌍",
     "text": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
@@ -27,7 +36,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 7212,
+    "id": 4939,
     "level": "critical",
     "country": "🌍",
     "text": "Israel threatens attacks in Gaza over children’s kites",
@@ -36,7 +45,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8036,
+    "id": 5516,
     "level": "critical",
     "country": "🌍",
     "text": "Norway plans further development of Arctic drilling amid EU energy concerns",
@@ -45,16 +54,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 604,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Trump administration announces global economic war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 8787,
+    "id": 5894,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : la crise alimentaire s’aggrave face à la sécheresse",
@@ -63,7 +63,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8531,
+    "id": 8877,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : le pays fête ses 35 ans d’indépendance malgré la guerre",
@@ -72,7 +72,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 6213,
+    "id": 5091,
     "level": "critical",
     "country": "🌍",
     "text": "Coalition des volontaires : comment mieux protéger l’Ukraine ?",
@@ -81,16 +81,16 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8873,
+    "id": 2129,
     "level": "high",
     "country": "🌍",
-    "text": "Trump administration announces ‘economic D-day’ sanctions on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
+    "text": "Comment les États-Unis comptent \"asphyxier l'économie\" de l'Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260824-comment-les-%C3%A9tats-unis-comptent-asphyxier-l-%C3%A9conomie-de-l-iran",
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 9099,
+    "id": 8591,
     "level": "high",
     "country": "🌍",
     "text": "🔴 Les États-Unis dévoilent de nouvelles sanctions visant à \"couper toutes les so",
@@ -99,7 +99,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 1698,
+    "id": 170,
     "level": "high",
     "country": "🌍",
     "text": "En RD Congo, une première mission de vérification du cessez-le-feu dans l'Est",
@@ -108,16 +108,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2345,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran : les partenaires de Téhéran dans le viseur de Washington",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260824-iran-les-partenaires-de-t%C3%A9h%C3%A9ran-dans-le-viseur-de-washington",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 9274,
+    "id": 8118,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2834,
+    "id": 4594,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4761,
+    "id": 7062,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5551,
+    "id": 3046,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4578,
+    "id": 1994,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3727,
+    "id": 864,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +162,21 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3157,
+    "id": 15,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 8637,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
   }
 ]
