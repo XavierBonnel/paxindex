@@ -1,6 +1,6 @@
 [
   {
-    "id": 9542,
+    "id": 7906,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,34 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5744,
+    "id": 109,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Video: Israel attacks desalination plant and mosque in Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 2032,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 7212,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel threatens attacks in Gaza over children’s kites",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 8036,
     "level": "critical",
     "country": "🌍",
     "text": "Norway plans further development of Arctic drilling amid EU energy concerns",
@@ -18,7 +45,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 6155,
+    "id": 604,
     "level": "critical",
     "country": "🌍",
     "text": "Trump administration announces global economic war on Iran",
@@ -27,16 +54,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 6664,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli strike on Gaza shelter extends casualty list",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 772,
+    "id": 8787,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : la crise alimentaire s’aggrave face à la sécheresse",
@@ -45,7 +63,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 3976,
+    "id": 8531,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : le pays fête ses 35 ans d’indépendance malgré la guerre",
@@ -54,7 +72,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 958,
+    "id": 6213,
     "level": "critical",
     "country": "🌍",
     "text": "Coalition des volontaires : comment mieux protéger l’Ukraine ?",
@@ -63,7 +81,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2973,
+    "id": 8873,
     "level": "high",
     "country": "🌍",
     "text": "Trump administration announces ‘economic D-day’ sanctions on Iran",
@@ -72,7 +90,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 1198,
+    "id": 9099,
     "level": "high",
     "country": "🌍",
     "text": "🔴 Les États-Unis dévoilent de nouvelles sanctions visant à \"couper toutes les so",
@@ -81,7 +99,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 5258,
+    "id": 1698,
     "level": "high",
     "country": "🌍",
     "text": "En RD Congo, une première mission de vérification du cessez-le-feu dans l'Est",
@@ -90,7 +108,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 3274,
+    "id": 2345,
     "level": "high",
     "country": "🌍",
     "text": "Iran : les partenaires de Téhéran dans le viseur de Washington",
@@ -99,7 +117,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 3945,
+    "id": 9274,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6258,
+    "id": 2834,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2572,
+    "id": 4761,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6052,
+    "id": 5551,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4918,
+    "id": 4578,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6219,
+    "id": 3727,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,30 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1989,
+    "id": 3157,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 5556,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 6568,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
   }
 ]
