@@ -1,6 +1,6 @@
 [
   {
-    "id": 1422,
+    "id": 1569,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 5202,
+    "id": 5254,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strike on Gaza shelter extends casualty list",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 2887,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What to expect as Iran braces for new US economic measures amid war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 5540,
     "level": "critical",
     "country": "🌍",
     "text": "Are humanoid robots the future of warfare?",
@@ -27,7 +45,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 9366,
+    "id": 581,
     "level": "critical",
     "country": "🌍",
     "text": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
@@ -36,34 +54,25 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 9504,
+    "id": 9558,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Barrel bomb mufti’ sentenced to life in Syria",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 6982,
-    "level": "critical",
-    "country": "🌍",
-    "text": "\"Le Canada ⁠ne sera plus traité comme un État !\" : Trump durcit la guerre commer",
+    "text": "Ukraine : le pays fête ses 35 ans d’indépendance malgré la guerre",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260824-trump-carney-durcissent-l-affrontement-commercial-avec-le-canada",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260824-ukraine-le-pays-f%C3%AAte-ses-35-ans-d-ind%C3%A9pendance-malgr%C3%A9-la-guerre",
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 6775,
+    "id": 6825,
     "level": "critical",
     "country": "🌍",
-    "text": "Mort de Philippe Bouvard : une voix de la radio s’éteint",
+    "text": "Coalition des volontaires : comment mieux protéger l’Ukraine ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260824-mort-de-philippe-bouvard-une-voix-de-la-radio-s-%C3%A9teint",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260824-coalition-des-volontaires-comment-mieux-prot%C3%A9ger-l-ukraine",
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 1257,
+    "id": 2819,
     "level": "high",
     "country": "🌍",
     "text": "Video: Russia launches rocket into space with military satellite",
@@ -72,7 +81,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 9998,
+    "id": 228,
     "level": "high",
     "country": "🌍",
     "text": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters",
@@ -81,7 +90,16 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 1709,
+    "id": 981,
+    "level": "high",
+    "country": "🌍",
+    "text": "En RD Congo, une première mission de vérification du cessez-le-feu dans l'Est",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260824-en-rd-congo-une-premi%C3%A8re-mission-de-v%C3%A9rification-du-cessez-le-feu-dans-l-est",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 8420,
     "level": "high",
     "country": "🌍",
     "text": "Iran : les partenaires de Téhéran dans le viseur de Washington",
@@ -90,16 +108,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 4033,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iran : une économie exsangue sous la menace de nouvelles sanctions américaines",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260824-iran-une-%C3%A9conomie-exsangue-sous-la-menace-de-nouvelles-sanctions-am%C3%A9ricaines",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 5588,
+    "id": 3196,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8058,
+    "id": 104,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2979,
+    "id": 3432,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5004,
+    "id": 9952,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5556,
+    "id": 3065,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2867,
+    "id": 8525,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8394,
+    "id": 2477,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,21 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7937,
+    "id": 9125,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 5036,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
   }
 ]
