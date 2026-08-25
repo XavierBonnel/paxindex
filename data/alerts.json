@@ -1,6 +1,6 @@
 [
   {
-    "id": 8746,
+    "id": 1851,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,16 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 8900,
+    "id": 6652,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 4471,
     "level": "critical",
     "country": "🌍",
     "text": "US public support for Iran war falls as Trump approval at record low: Poll",
@@ -18,25 +27,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 868,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 1764,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What’s behind domestic political pressure on Ukraine’s president?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 7466,
+    "id": 8962,
     "level": "critical",
     "country": "🌍",
     "text": "La \"Coalition des volontaires\" réaffirme son soutien à Volodymyr Zelensky",
@@ -45,7 +36,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8947,
+    "id": 5691,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : la crise alimentaire s’aggrave face à la sécheresse",
@@ -54,7 +45,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 3537,
+    "id": 1200,
     "level": "high",
     "country": "🌍",
     "text": "How US sanctions on Iran ripple through global markets and consumers",
@@ -63,25 +54,16 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 3382,
+    "id": 1037,
     "level": "high",
     "country": "🌍",
-    "text": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
+    "text": "Washington retire la Syrie de sa liste des pays accusés de soutenir le terrorism",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260825-washington-retire-syrie-liste-pays-accuses-soutenir-terrorisme-hts-al-charaa",
+    "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5323,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 8925,
+    "id": 5949,
     "level": "high",
     "country": "🌍",
     "text": "Comment les États-Unis comptent \"asphyxier l'économie\" de l'Iran",
@@ -90,16 +72,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2227,
-    "level": "high",
-    "country": "🌍",
-    "text": "🔴 Les États-Unis dévoilent de nouvelles sanctions visant à \"couper toutes les so",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260824-moyen-orient-en-direct-iran-balaie-menace-am%C3%A9ricaine-d-day-%C3%A9conomique-mbs-paris-arabie-saoudite",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 3005,
+    "id": 9244,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2381,
+    "id": 26,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8961,
+    "id": 9638,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1699,
+    "id": 5065,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8083,
+    "id": 4716,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4545,
+    "id": 492,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2974,
+    "id": 413,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8958,
+    "id": 3936,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +144,39 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4784,
+    "id": 7026,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 2302,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 8333,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 6545,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Support Global Voices Spotlight: Protest in democracy",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/24/support-global-voices-spotlight-protest-in-democracy/",
+    "time": "Mon, 24 Aug 2026"
   }
 ]
