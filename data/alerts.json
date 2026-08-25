@@ -1,6 +1,6 @@
 [
   {
-    "id": 7149,
+    "id": 3546,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 4171,
+    "id": 9287,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 6581,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 5080,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre commerciale : Face à Trump, le Canada défend la langue française et sa so",
@@ -18,7 +36,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 8666,
+    "id": 1358,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : la tête de Barron Trump mise à prix dans une vidéo de propagande",
@@ -27,7 +45,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 1332,
+    "id": 1681,
     "level": "critical",
     "country": "🌍",
     "text": "Tchad : l'armée dénonce une nouvelle \"violation du territoire\"",
@@ -36,16 +54,16 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 6102,
+    "id": 1552,
     "level": "high",
     "country": "🌍",
-    "text": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+    "text": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 2584,
+    "id": 4466,
     "level": "high",
     "country": "🌍",
     "text": "Au Nigeria, un kidnapping de masse dans une mosquée déclenche une opération de s",
@@ -54,7 +72,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5588,
+    "id": 2876,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3368,
+    "id": 7276,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8608,
+    "id": 6698,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3739,
+    "id": 9405,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3431,
+    "id": 5137,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6352,
+    "id": 7719,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 695,
+    "id": 8528,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5107,
+    "id": 5038,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6081,
+    "id": 7515,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6895,
+    "id": 9873,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8444,
+    "id": 6662,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
@@ -153,30 +171,12 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4755,
+    "id": 5563,
     "level": "medium",
     "country": "🌍",
     "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
     "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 321,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Support Global Voices Spotlight: Protest in democracy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/24/support-global-voices-spotlight-protest-in-democracy/",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 1414,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
-    "time": "Sun, 23 Aug 2026"
   }
 ]
