@@ -1,6 +1,6 @@
 [
   {
-    "id": 4136,
+    "id": 7533,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,7 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 943,
+    "id": 9279,
     "level": "critical",
     "country": "🌍",
     "text": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
@@ -18,7 +18,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 3930,
+    "id": 1645,
     "level": "critical",
     "country": "🌍",
     "text": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
@@ -27,7 +27,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 523,
+    "id": 5238,
     "level": "critical",
     "country": "🌍",
     "text": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
@@ -36,25 +36,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5028,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 9264,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How water becomes a weapon of war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 1599,
+    "id": 8773,
     "level": "critical",
     "country": "🌍",
     "text": "Tchad : l’armée dénonce une nouvelle incursion liée à la guerre au Soudan",
@@ -63,25 +45,34 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 9151,
-    "level": "critical",
+    "id": 7792,
+    "level": "high",
     "country": "🌍",
-    "text": "Une nouvelle attaque de gangs fait au moins quarante morts en Haïti",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-une-nouvelle-attaque-de-gangs-fait-au-moins-quarante-morts-en-ha%C3%AFti",
+    "text": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 3029,
-    "level": "critical",
+    "id": 7825,
+    "level": "high",
     "country": "🌍",
-    "text": "Afghanistan : un million d'enfants en danger de mort à cause de la malnutrition,",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260825-afghanistan-million-enfants-danger-mort-malnutrition-selon-unicef",
+    "text": "US military transport plane arrives in Moscow in rare occurrence",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 2205,
+    "id": 1726,
+    "level": "high",
+    "country": "🌍",
+    "text": "Sanctions américaines contre l’Iran : les Émirats cèdent et la Chine résiste",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-sanctions-am%C3%A9ricaines-contre-l-iran-les-%C3%A9mirats-c%C3%A8dent-et-la-chine-r%C3%A9siste",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 9694,
     "level": "high",
     "country": "🌍",
     "text": "L’Iran visé par de nouvelles sanctions économiques",
@@ -90,25 +81,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 518,
-    "level": "high",
-    "country": "🌍",
-    "text": "Nouvelles sanctions américaines contre Téhéran et ses alliés",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-nouvelles-sanctions-am%C3%A9ricaines-contre-t%C3%A9h%C3%A9ran-et-ses-alli%C3%A9s",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 6082,
-    "level": "high",
-    "country": "🌍",
-    "text": "Mali-Algérie : la visite de Maïga à Alger ouvre-t-elle la page de la réconciliat",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-mali-alg%C3%A9rie-la-visite-de-ma%C3%AFga-%C3%A0-alger-ouvre-t-elle-la-page-de-la-r%C3%A9conciliation",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 6490,
+    "id": 4987,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8536,
+    "id": 355,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4624,
+    "id": 4043,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4312,
+    "id": 2786,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2843,
+    "id": 9741,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6127,
+    "id": 9779,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3430,
+    "id": 2076,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -171,12 +144,39 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5129,
+    "id": 3489,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 2498,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 1276,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 270,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
+    "time": "Tue, 25 Aug 2026"
   }
 ]
