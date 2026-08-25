@@ -1,6 +1,6 @@
 [
   {
-    "id": 7597,
+    "id": 6382,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,34 +9,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 2621,
+    "id": 7395,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
+    "text": "The Iran war is bringing cyberwarfare into critical infrastructure",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 3359,
+    "id": 8847,
     "level": "critical",
     "country": "🌍",
-    "text": "Man killed in world’s largest annual bullfighting event in Mexico",
+    "text": "Two US carrier groups in Middle East strain navy resources",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 9874,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 991,
+    "id": 8632,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : les drones russes traquent les civils, les \"safaris humains\"",
@@ -45,7 +36,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4780,
+    "id": 4625,
     "level": "critical",
     "country": "🌍",
     "text": "La \"Coalition des volontaires\" réaffirme son soutien à Volodymyr Zelensky",
@@ -54,25 +45,16 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 4720,
+    "id": 8977,
     "level": "high",
     "country": "🌍",
-    "text": "Washington retire la Syrie de sa liste des pays accusés de soutenir le terrorism",
+    "text": "Les États-Unis retirent la Syrie de leur liste des pays accusés de soutenir le t",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260825-washington-retire-syrie-liste-pays-accuses-soutenir-terrorisme-hts-al-charaa",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 7231,
-    "level": "high",
-    "country": "🌍",
-    "text": "Comment les États-Unis comptent \"asphyxier l'économie\" de l'Iran",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260824-comment-les-%C3%A9tats-unis-comptent-asphyxier-l-%C3%A9conomie-de-l-iran",
-    "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 9847,
+    "id": 4560,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1760,
+    "id": 2501,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3620,
+    "id": 1589,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8156,
+    "id": 7762,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2456,
+    "id": 164,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8881,
+    "id": 724,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7426,
+    "id": 9135,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6654,
+    "id": 4158,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2460,
+    "id": 8266,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8833,
+    "id": 5709,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +144,16 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7635,
+    "id": 5007,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 6218,
     "level": "medium",
     "country": "🌍",
     "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
@@ -171,12 +162,21 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 3886,
+    "id": 3282,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices Spotlight: Protest in democracy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/24/support-global-voices-spotlight-protest-in-democracy/",
     "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 6359,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
+    "time": "Sun, 23 Aug 2026"
   }
 ]
