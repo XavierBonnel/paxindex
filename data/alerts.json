@@ -1,6 +1,6 @@
 [
   {
-    "id": 2400,
+    "id": 6208,
     "level": "critical",
     "country": "🌍",
     "text": "Dolly Parton, beloved US country music icon, dies at 80",
@@ -9,16 +9,16 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 481,
+    "id": 9014,
     "level": "critical",
     "country": "🌍",
-    "text": "Two unvaccinated people die of measles in US state of Pennsylvania",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss",
+    "text": "Eboulement en Guinée : après le choc, la solidarité s'organise",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260825-eboulement-en-guin%C3%A9e-apr%C3%A8s-le-choc-la-solidarit%C3%A9-s-organise",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 6791,
+    "id": 499,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de la star américaine Dolly Parton, reine populaire de la musique country",
@@ -27,34 +27,52 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 6998,
+    "id": 3957,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre commerciale : Face à Trump, le Canada défend la langue française et sa so",
+    "text": "Guerre commerciale : face à Trump, le Canada défend la langue française et sa so",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/am%C3%A9riques/20260825-guerre-commerciale-face-%C3%A0-trump-le-canada-d%C3%A9fend-la-langue-fran%C3%A7aise-et-sa-souverainet%C3%A9",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 9735,
-    "level": "critical",
+    "id": 8022,
+    "level": "high",
     "country": "🌍",
-    "text": "Iran : la tête de Barron Trump mise à prix dans une vidéo de propagande",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-iran-la-t%C3%AAte-de-barron-trump-mise-%C3%A0-prix-dans-une-vid%C3%A9o-de-propagande",
+    "text": "US soldier who called for Trump impeachment facing military charges",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 960,
+    "id": 657,
     "level": "high",
     "country": "🌍",
-    "text": "Syrie : les forces kurdes annoncent leur dissolution suite à l'accord avec Damas",
+    "text": "Syrian Democratic Forces announce their dissolution",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 9279,
+    "level": "high",
+    "country": "🌍",
+    "text": "New US sanctions signal Trump desperation on Iran, experts say",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 6485,
+    "level": "high",
+    "country": "🌍",
+    "text": "Syrie : les forces kurdes annoncent leur dissolution à la suite de l'accord avec",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260825-syrie-les-forces-kurdes-annoncent-leur-dissolution-suite-%C3%A0-l-accord-avec-damas",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5945,
+    "id": 2411,
     "level": "high",
     "country": "🌍",
     "text": "Au Nigeria, un kidnapping de masse dans une mosquée déclenche une opération de s",
@@ -63,7 +81,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 2665,
+    "id": 7154,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5907,
+    "id": 2008,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2973,
+    "id": 1015,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5158,
+    "id": 5284,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1206,
+    "id": 6628,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9402,
+    "id": 3848,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1668,
+    "id": 7100,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5754,
+    "id": 3361,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3413,
+    "id": 8625,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 344,
+    "id": 4881,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3099,
+    "id": 4733,
     "level": "medium",
     "country": "🌍",
     "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
     "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 6789,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 246,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
-    "time": "Mon, 24 Aug 2026"
   }
 ]
