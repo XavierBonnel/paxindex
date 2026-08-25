@@ -1,6 +1,15 @@
 [
   {
-    "id": 5934,
+    "id": 2400,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Dolly Parton, beloved US country music icon, dies at 80",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 481,
     "level": "critical",
     "country": "🌍",
     "text": "Two unvaccinated people die of measles in US state of Pennsylvania",
@@ -9,25 +18,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 2961,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 2225,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 6944,
+    "id": 6791,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de la star américaine Dolly Parton, reine populaire de la musique country",
@@ -36,7 +27,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 327,
+    "id": 6998,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre commerciale : Face à Trump, le Canada défend la langue française et sa so",
@@ -45,7 +36,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 6945,
+    "id": 9735,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : la tête de Barron Trump mise à prix dans une vidéo de propagande",
@@ -54,16 +45,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 6834,
-    "level": "high",
-    "country": "🌍",
-    "text": "Syria’s economy poised for improvement after US sanctions removal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 3240,
+    "id": 960,
     "level": "high",
     "country": "🌍",
     "text": "Syrie : les forces kurdes annoncent leur dissolution suite à l'accord avec Damas",
@@ -72,7 +54,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 1689,
+    "id": 5945,
     "level": "high",
     "country": "🌍",
     "text": "Au Nigeria, un kidnapping de masse dans une mosquée déclenche une opération de s",
@@ -81,7 +63,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 269,
+    "id": 2665,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6899,
+    "id": 5907,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1024,
+    "id": 2973,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2703,
+    "id": 5158,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6298,
+    "id": 1206,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7055,
+    "id": 9402,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1203,
+    "id": 1668,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 40,
+    "id": 5754,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4935,
+    "id": 3413,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 214,
+    "id": 344,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +153,30 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7513,
+    "id": 3099,
     "level": "medium",
     "country": "🌍",
     "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
     "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 6789,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 246,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
+    "time": "Mon, 24 Aug 2026"
   }
 ]
