@@ -1,6 +1,6 @@
 [
   {
-    "id": 4068,
+    "id": 6229,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,25 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 338,
+    "id": 9265,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Global ocean temperatures hit record high as El Nino intensifies",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 9032,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/hasina-spat-stalls-bangladesh-india-reset-what-would-break-the-deadlock?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 5279,
     "level": "critical",
     "country": "🌍",
     "text": "The Iran war is bringing cyberwarfare into critical infrastructure",
@@ -18,16 +36,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 737,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Two US carrier groups in Middle East strain navy resources",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 7712,
+    "id": 7410,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : les drones russes traquent les civils, les \"safaris humains\"",
@@ -36,7 +45,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 7825,
+    "id": 9300,
     "level": "critical",
     "country": "🌍",
     "text": "La \"Coalition des volontaires\" réaffirme son soutien à Volodymyr Zelensky",
@@ -45,7 +54,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 7398,
+    "id": 5314,
     "level": "high",
     "country": "🌍",
     "text": "Les États-Unis retirent la Syrie de leur liste des pays accusés de soutenir le t",
@@ -54,7 +63,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4560,
+    "id": 5647,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1013,
+    "id": 6661,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7543,
+    "id": 4124,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3205,
+    "id": 3949,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6223,
+    "id": 5799,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9546,
+    "id": 5195,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8759,
+    "id": 3190,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3011,
+    "id": 8462,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 335,
+    "id": 2161,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9828,
+    "id": 5252,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 3420,
+    "id": 5212,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
@@ -153,7 +162,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 7029,
+    "id": 729,
     "level": "medium",
     "country": "🌍",
     "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
@@ -162,21 +171,12 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 2245,
+    "id": 6536,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices Spotlight: Protest in democracy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/24/support-global-voices-spotlight-protest-in-democracy/",
     "time": "Mon, 24 Aug 2026"
-  },
-  {
-    "id": 2855,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
-    "time": "Sun, 23 Aug 2026"
   }
 ]
