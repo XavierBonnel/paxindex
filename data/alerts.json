@@ -1,15 +1,15 @@
 [
   {
-    "id": 3546,
+    "id": 5934,
     "level": "critical",
     "country": "🌍",
-    "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
-    "time": "Wed, 19 Aug 2026"
+    "text": "Two unvaccinated people die of measles in US state of Pennsylvania",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 9287,
+    "id": 2961,
     "level": "critical",
     "country": "🌍",
     "text": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
@@ -18,16 +18,25 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 6581,
+    "id": 2225,
     "level": "critical",
     "country": "🌍",
-    "text": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+    "text": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5080,
+    "id": 6944,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mort de la star américaine Dolly Parton, reine populaire de la musique country",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/culture/20260825-mort-de-la-star-am%C3%A9ricaine-dolly-parton-reine-populaire-de-la-musique-country",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 327,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre commerciale : Face à Trump, le Canada défend la langue française et sa so",
@@ -36,7 +45,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 1358,
+    "id": 6945,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : la tête de Barron Trump mise à prix dans une vidéo de propagande",
@@ -45,25 +54,25 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 1681,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Tchad : l'armée dénonce une nouvelle \"violation du territoire\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-tchad-l-arm%C3%A9e-d%C3%A9nonce-une-nouvelle-violation-du-territoire",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 1552,
+    "id": 6834,
     "level": "high",
     "country": "🌍",
-    "text": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
+    "text": "Syria’s economy poised for improvement after US sanctions removal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4466,
+    "id": 3240,
+    "level": "high",
+    "country": "🌍",
+    "text": "Syrie : les forces kurdes annoncent leur dissolution suite à l'accord avec Damas",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260825-syrie-les-forces-kurdes-annoncent-leur-dissolution-suite-%C3%A0-l-accord-avec-damas",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 1689,
     "level": "high",
     "country": "🌍",
     "text": "Au Nigeria, un kidnapping de masse dans une mosquée déclenche une opération de s",
@@ -72,7 +81,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 2876,
+    "id": 269,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7276,
+    "id": 6899,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6698,
+    "id": 1024,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9405,
+    "id": 2703,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5137,
+    "id": 6298,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7719,
+    "id": 7055,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8528,
+    "id": 1203,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5038,
+    "id": 40,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7515,
+    "id": 4935,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9873,
+    "id": 214,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6662,
+    "id": 7513,
     "level": "medium",
     "country": "🌍",
-    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
+    "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
+    "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
     "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 5563,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
-    "time": "Mon, 24 Aug 2026"
   }
 ]
