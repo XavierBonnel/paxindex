@@ -1,6 +1,6 @@
 [
   {
-    "id": 2826,
+    "id": 6069,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,7 +9,16 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 30,
+    "id": 7614,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 8159,
     "level": "critical",
     "country": "🌍",
     "text": "Kremlin adviser warns UK drone factories could face attacks",
@@ -18,7 +27,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 1426,
+    "id": 3238,
     "level": "critical",
     "country": "🌍",
     "text": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
@@ -27,25 +36,16 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 8745,
+    "id": 9435,
     "level": "critical",
     "country": "🌍",
-    "text": "Pakistan says significant progress made in talks on Iran-US war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+    "text": "Attentats du 11-Septembre : la généalogie génétique permet d'identifier une nouv",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260825-attentats-11-septembre-g%C3%A9n%C3%A9alogie-g%C3%A9n%C3%A9tique-permet-identifier-nouvelle-victime",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4401,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Global ocean temperatures hit record high as El Nino intensifies",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 481,
+    "id": 8340,
     "level": "critical",
     "country": "🌍",
     "text": "Haïti : une attaque de gangs fait une quarantaine de morts près de Port-au-Princ",
@@ -54,7 +54,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5416,
+    "id": 8597,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7879,
+    "id": 619,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7373,
+    "id": 5139,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2096,
+    "id": 4446,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4310,
+    "id": 65,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9209,
+    "id": 9240,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3149,
+    "id": 4216,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3445,
+    "id": 2572,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2177,
+    "id": 5138,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1210,
+    "id": 6615,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5922,
+    "id": 4405,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
@@ -153,7 +153,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4019,
+    "id": 5720,
     "level": "medium",
     "country": "🌍",
     "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
@@ -162,7 +162,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 8679,
+    "id": 7643,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices Spotlight: Protest in democracy",
@@ -171,7 +171,7 @@
     "time": "Mon, 24 Aug 2026"
   },
   {
-    "id": 97,
+    "id": 7934,
     "level": "medium",
     "country": "🌍",
     "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
