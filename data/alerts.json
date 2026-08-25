@@ -1,6 +1,6 @@
 [
   {
-    "id": 7533,
+    "id": 9623,
     "level": "critical",
     "country": "🌍",
     "text": "Amid political and economic pressure, Brazil sees a rise in land conflicts and t",
@@ -9,61 +9,79 @@
     "time": "Wed, 19 Aug 2026"
   },
   {
-    "id": 9279,
+    "id": 5147,
     "level": "critical",
     "country": "🌍",
-    "text": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
+    "text": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 1645,
+    "id": 2505,
     "level": "critical",
     "country": "🌍",
-    "text": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
+    "text": "US launches Economic war on Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5238,
+    "id": 4734,
     "level": "critical",
     "country": "🌍",
-    "text": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
+    "text": "One year since Gaza journalist killed by Israel",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 8773,
+    "id": 3441,
     "level": "critical",
     "country": "🌍",
-    "text": "Tchad : l’armée dénonce une nouvelle incursion liée à la guerre au Soudan",
+    "text": "Trump floats renaming Lake Ontario to Lake America during Canada trade war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/25/trump-floats-renaming-lake-ontario-to-lake-america-during-canada-trade-war?traffic_source=rss",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 9804,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran : la tête de Barron Trump mise à prix dans une vidéo de propagande",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-tchad-l-arm%C3%A9e-d%C3%A9nonce-une-nouvelle-incursion-li%C3%A9e-%C3%A0-la-guerre-au-soudan",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-iran-la-t%C3%AAte-de-barron-trump-mise-%C3%A0-prix-dans-une-vid%C3%A9o-de-propagande",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 7792,
+    "id": 7478,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tchad : l'armée dénonce une nouvelle \"violation du territoire\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-tchad-l-arm%C3%A9e-d%C3%A9nonce-une-nouvelle-violation-du-territoire",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 9,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guinée : au moins trente et un morts dans l'éboulement d'une décharge",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-guin%C3%A9e-au-moins-trente-et-un-morts-dans-l-%C3%A9boulement-d-une-d%C3%A9charge",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 2583,
     "level": "high",
     "country": "🌍",
-    "text": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
+    "text": "Qatar says US sanctions on Iran are unilateral",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 7825,
-    "level": "high",
-    "country": "🌍",
-    "text": "US military transport plane arrives in Moscow in rare occurrence",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 1726,
+    "id": 2800,
     "level": "high",
     "country": "🌍",
     "text": "Sanctions américaines contre l’Iran : les Émirats cèdent et la Chine résiste",
@@ -72,16 +90,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 9694,
-    "level": "high",
-    "country": "🌍",
-    "text": "L’Iran visé par de nouvelles sanctions économiques",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260825-l-iran-vis%C3%A9-par-de-nouvelles-sanctions-%C3%A9conomiques",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 4987,
+    "id": 3591,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 355,
+    "id": 2154,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4043,
+    "id": 2583,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2786,
+    "id": 3871,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9741,
+    "id": 8701,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9779,
+    "id": 1590,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2076,
+    "id": 7609,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3489,
+    "id": 2038,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2498,
+    "id": 8852,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,21 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1276,
+    "id": 6312,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 270,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
-    "time": "Tue, 25 Aug 2026"
   }
 ]
