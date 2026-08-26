@@ -1,6 +1,15 @@
 [
   {
-    "id": 3482,
+    "id": 1614,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 8186,
     "level": "critical",
     "country": "🌍",
     "text": "At least 15 newborns killed in Pakistan hospital fire",
@@ -9,7 +18,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 87,
+    "id": 1316,
     "level": "critical",
     "country": "🌍",
     "text": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
@@ -18,34 +27,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 2698,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 1975,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 7037,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Is Sudan’s battlefield shaping the terms of its next political phase?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 58,
+    "id": 7675,
     "level": "critical",
     "country": "🌍",
     "text": "Eboulement en Guinée : après le choc, la solidarité s'organise",
@@ -54,7 +36,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 1642,
+    "id": 6443,
     "level": "critical",
     "country": "🌍",
     "text": "Les Américains pleurent la mort de Dolly Parton, reine populaire de la musique c",
@@ -63,16 +45,16 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 6674,
-    "level": "critical",
+    "id": 2912,
+    "level": "high",
     "country": "🌍",
-    "text": "Guerre commerciale : face à Trump, le Canada défend la langue française et sa so",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260825-guerre-commerciale-face-%C3%A0-trump-le-canada-d%C3%A9fend-la-langue-fran%C3%A7aise-et-sa-souverainet%C3%A9",
-    "time": "Tue, 25 Aug 2026"
+    "text": "Fireworks factory goes up in smoke in Mexico",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
+    "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 683,
+    "id": 4177,
     "level": "high",
     "country": "🌍",
     "text": "Syrie : les forces kurdes annoncent leur dissolution à la suite de l'accord avec",
@@ -81,7 +63,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 8608,
+    "id": 903,
     "level": "high",
     "country": "🌍",
     "text": "Au Nigeria, un kidnapping de masse dans une mosquée déclenche une opération de s",
@@ -90,7 +72,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5238,
+    "id": 1230,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6917,
+    "id": 5366,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1181,
+    "id": 148,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6435,
+    "id": 6203,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7199,
+    "id": 6368,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5285,
+    "id": 8155,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6727,
+    "id": 8749,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2278,
+    "id": 2617,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3094,
+    "id": 3962,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +153,30 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2900,
+    "id": 6522,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 1486,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 7382,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
+    "time": "Tue, 25 Aug 2026"
   }
 ]
