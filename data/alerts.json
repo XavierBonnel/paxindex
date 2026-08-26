@@ -1,6 +1,24 @@
 [
   {
-    "id": 8897,
+    "id": 5271,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 7546,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 4402,
     "level": "critical",
     "country": "🌍",
     "text": "Is Sudan’s battlefield shaping the terms of its next political phase?",
@@ -9,7 +27,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 5227,
+    "id": 6662,
     "level": "critical",
     "country": "🌍",
     "text": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
@@ -18,7 +36,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 5228,
+    "id": 8473,
     "level": "critical",
     "country": "🌍",
     "text": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
@@ -27,7 +45,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5718,
+    "id": 1963,
     "level": "critical",
     "country": "🌍",
     "text": "Eboulement en Guinée : après le choc, la solidarité s'organise",
@@ -36,16 +54,16 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 3010,
+    "id": 1692,
     "level": "critical",
     "country": "🌍",
-    "text": "Mort de la star américaine Dolly Parton, reine populaire de la musique country",
+    "text": "Les Américains pleurent la mort de Dolly Parton, reine populaire de la musique c",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/culture/20260825-mort-de-la-star-am%C3%A9ricaine-dolly-parton-reine-populaire-de-la-musique-country",
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 8756,
+    "id": 3707,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre commerciale : face à Trump, le Canada défend la langue française et sa so",
@@ -54,16 +72,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4932,
-    "level": "high",
-    "country": "🌍",
-    "text": "US soldier who called for Trump impeachment facing military charges",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 2973,
+    "id": 7546,
     "level": "high",
     "country": "🌍",
     "text": "Syrie : les forces kurdes annoncent leur dissolution à la suite de l'accord avec",
@@ -72,7 +81,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4544,
+    "id": 8399,
     "level": "high",
     "country": "🌍",
     "text": "Au Nigeria, un kidnapping de masse dans une mosquée déclenche une opération de s",
@@ -81,7 +90,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 7203,
+    "id": 9555,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8705,
+    "id": 4999,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 572,
+    "id": 9098,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9403,
+    "id": 1341,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7189,
+    "id": 5853,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2682,
+    "id": 8110,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4815,
+    "id": 5456,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1925,
+    "id": 2620,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7349,
+    "id": 7077,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,21 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3971,
+    "id": 7737,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 5744,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
-    "time": "Tue, 25 Aug 2026"
   }
 ]
