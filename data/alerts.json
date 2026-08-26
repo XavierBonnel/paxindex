@@ -1,6 +1,24 @@
 [
   {
-    "id": 9277,
+    "id": 8897,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Is Sudan’s battlefield shaping the terms of its next political phase?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 5227,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 5228,
     "level": "critical",
     "country": "🌍",
     "text": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
@@ -9,7 +27,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4691,
+    "id": 5718,
     "level": "critical",
     "country": "🌍",
     "text": "Eboulement en Guinée : après le choc, la solidarité s'organise",
@@ -18,7 +36,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 3973,
+    "id": 3010,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de la star américaine Dolly Parton, reine populaire de la musique country",
@@ -27,7 +45,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 2600,
+    "id": 8756,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre commerciale : face à Trump, le Canada défend la langue française et sa so",
@@ -36,7 +54,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 6180,
+    "id": 4932,
     "level": "high",
     "country": "🌍",
     "text": "US soldier who called for Trump impeachment facing military charges",
@@ -45,16 +63,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4031,
-    "level": "high",
-    "country": "🌍",
-    "text": "Syrian Democratic Forces announce their dissolution",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 834,
+    "id": 2973,
     "level": "high",
     "country": "🌍",
     "text": "Syrie : les forces kurdes annoncent leur dissolution à la suite de l'accord avec",
@@ -63,7 +72,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 1033,
+    "id": 4544,
     "level": "high",
     "country": "🌍",
     "text": "Au Nigeria, un kidnapping de masse dans une mosquée déclenche une opération de s",
@@ -72,7 +81,7 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 2404,
+    "id": 7203,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3267,
+    "id": 8705,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3311,
+    "id": 572,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5178,
+    "id": 9403,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9791,
+    "id": 7189,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2900,
+    "id": 2682,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7023,
+    "id": 4815,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6576,
+    "id": 1925,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1683,
+    "id": 7349,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4147,
+    "id": 3971,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1773,
+    "id": 5744,
     "level": "medium",
     "country": "🌍",
     "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 2509,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
     "time": "Tue, 25 Aug 2026"
   }
 ]
