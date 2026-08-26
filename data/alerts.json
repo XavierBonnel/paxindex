@@ -1,6 +1,6 @@
 [
   {
-    "id": 5677,
+    "id": 239,
     "level": "critical",
     "country": "🌍",
     "text": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
@@ -9,43 +9,52 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 6657,
+    "id": 3737,
     "level": "critical",
     "country": "🌍",
-    "text": "At least eight killed as Nepal flash flood damages roads, energy facilities",
+    "text": "At least eight killed, hundreds missing after Nepal flash flood",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 954,
+    "id": 7651,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
+    "text": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 839,
+    "id": 1073,
     "level": "critical",
     "country": "🌍",
-    "text": "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-47-killed-50-kidnapped-in-grisly-gang-raid-in-haiti-says-un?traffic_source=rss",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 4573,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Afghanistan : un million d’enfants menacés par la malnutrition, alerte l’Unicef",
+    "text": "La légende de la country Dolly Parton est morte à 80 ans",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-afghanistan-un-million-d-enfants-menac%C3%A9s-par-la-malnutrition-alerte-l-unicef",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-la-l%C3%A9gende-de-la-country-dolly-parton-est-morte-%C3%A0-80-ans",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 1980,
+    "id": 942,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Soudan : les États-Unis veulent étendre l’embargo sur les armes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-soudan-les-%C3%A9tats-unis-veulent-%C3%A9tendre-l-embargo-sur-les-armes",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 6752,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pakistan : 14 nourrissons tués dans l'incendie d'un service de maternité",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-pakistan-14-nourrissons-tu%C3%A9s-dans-l-incendie-d-un-service-de-maternit%C3%A9",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 4273,
     "level": "high",
     "country": "🌍",
     "text": "The Bulgarian village that fears becoming an Iranian target",
@@ -54,7 +63,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 5848,
+    "id": 7009,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5859,
+    "id": 3577,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4985,
+    "id": 5542,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9985,
+    "id": 5466,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 63,
+    "id": 219,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8154,
+    "id": 9597,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3415,
+    "id": 4493,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7065,
+    "id": 474,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3364,
+    "id": 9810,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8827,
+    "id": 7081,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7557,
+    "id": 7062,
     "level": "medium",
     "country": "🌍",
     "text": "In Cameroon, before the scroll, there was the dance floor",
@@ -153,7 +162,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 4136,
+    "id": 5145,
     "level": "medium",
     "country": "🌍",
     "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
@@ -162,21 +171,12 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 5278,
+    "id": 8664,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
     "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 4074,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
-    "time": "Mon, 24 Aug 2026"
   }
 ]
