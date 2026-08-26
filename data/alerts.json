@@ -1,6 +1,15 @@
 [
   {
-    "id": 8049,
+    "id": 5300,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 3781,
     "level": "critical",
     "country": "🌍",
     "text": "Man United’s Fernandes, City’s Shaw named PFA Players of the Year",
@@ -9,52 +18,16 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 1185,
+    "id": 5653,
     "level": "critical",
     "country": "🌍",
-    "text": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/russias-amazon-wildberries-comes-under-ukraine-attack-again?traffic_source=rss",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 5680,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least 14 newborn babies killed in Pakistan hospital nursery fire",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 1936,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 254,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Eboulement en Guinée : après le choc, la solidarité s'organise",
+    "text": "En direct : l'Iran affirme que le détroit d'Ormuz reste fermé malgré les négocia",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260825-eboulement-en-guin%C3%A9e-apr%C3%A8s-le-choc-la-solidarit%C3%A9-s-organise",
-    "time": "Tue, 25 Aug 2026"
+    "link": "https://www.france24.com/fr/moyen-orient/20260826-en-direct-iran-d%C3%A9troit-ormuz-reste-ferm%C3%A9-n%C3%A9gociations-%C3%A9tats-unis-isra%C3%ABl-trump",
+    "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 905,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les Américains pleurent la mort de Dolly Parton, reine populaire de la musique c",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/culture/20260825-mort-de-la-star-am%C3%A9ricaine-dolly-parton-reine-populaire-de-la-musique-country",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 1521,
+    "id": 8681,
     "level": "high",
     "country": "🌍",
     "text": "Trump threatens Iran’s partners: How do secondary sanctions work?",
@@ -63,25 +36,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 6415,
-    "level": "high",
-    "country": "🌍",
-    "text": "Fireworks factory goes up in smoke in Mexico",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 3004,
-    "level": "high",
-    "country": "🌍",
-    "text": "Syrie : les forces kurdes annoncent leur dissolution après l'accord avec Damas",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260825-syrie-les-forces-kurdes-annoncent-leur-dissolution-suite-%C3%A0-l-accord-avec-damas",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 3274,
+    "id": 988,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +45,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 363,
+    "id": 4275,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +54,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2474,
+    "id": 5965,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8636,
+    "id": 7198,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9037,
+    "id": 4070,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1203,
+    "id": 5567,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1289,
+    "id": 517,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 439,
+    "id": 3933,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2785,
+    "id": 3796,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1116,
+    "id": 8711,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +126,57 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8443,
+    "id": 9117,
     "level": "medium",
     "country": "🌍",
     "text": "In Cameroon, before the scroll, there was the dance floor",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/26/in-cameroon-before-the-scroll-there-was-the-dance-floor/",
     "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 7052,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 3329,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
+    "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 9910,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 7626,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Support Global Voices Spotlight: Protest in democracy",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/24/support-global-voices-spotlight-protest-in-democracy/",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 2575,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Without education for girls, Afghanistan loses its chance for a better tomorrow",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/23/without-education-for-girls-afghanistan-loses-its-chance-for-a-better-tomorrow/",
+    "time": "Sun, 23 Aug 2026"
   }
 ]
