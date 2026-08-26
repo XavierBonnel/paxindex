@@ -1,33 +1,51 @@
 [
   {
-    "id": 239,
+    "id": 1575,
     "level": "critical",
     "country": "🌍",
-    "text": "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
+    "text": "Deadly flash floods sweep through northern Nepal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 3737,
+    "id": 1911,
     "level": "critical",
     "country": "🌍",
-    "text": "At least eight killed, hundreds missing after Nepal flash flood",
+    "text": "Dead whale washes ashore on beach in Mexico",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 7651,
+    "id": 4799,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/26/ukrainian-drone-attacks-kill-3-as-fire-destroys-wildberries-warehouse?traffic_source=rss",
+    "text": "Népal : au moins 19 morts dans des inondations",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-n%C3%A9pal-au-moins-19-morts-dans-des-inondations",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 1073,
+    "id": 589,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Haïti : au moins 47 morts dans une attaque de gangs près de la capitale",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-ha%C3%AFti-au-moins-47-morts-dans-une-attaque-de-gangs-pr%C3%A8s-de-la-capitale",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 5267,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En Guinée, la solidarité s'organise après l'éboulement d'une décharge à Conakry",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-en-guin%C3%A9e-la-solidarit%C3%A9-s-organise-apr%C3%A8s-l-%C3%A9boulement-d-une-d%C3%A9charge-%C3%A0-conakry",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 3727,
     "level": "critical",
     "country": "🌍",
     "text": "La légende de la country Dolly Parton est morte à 80 ans",
@@ -36,7 +54,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 942,
+    "id": 9362,
     "level": "critical",
     "country": "🌍",
     "text": "Soudan : les États-Unis veulent étendre l’embargo sur les armes",
@@ -45,25 +63,16 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 6752,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Pakistan : 14 nourrissons tués dans l'incendie d'un service de maternité",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-pakistan-14-nourrissons-tu%C3%A9s-dans-l-incendie-d-un-service-de-maternit%C3%A9",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 4273,
+    "id": 4515,
     "level": "high",
     "country": "🌍",
-    "text": "The Bulgarian village that fears becoming an Iranian target",
+    "text": "Why India is sharing missile secrets with its private sector",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 7009,
+    "id": 5409,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3577,
+    "id": 7200,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5542,
+    "id": 35,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5466,
+    "id": 5537,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 219,
+    "id": 9089,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9597,
+    "id": 1333,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4493,
+    "id": 8300,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 474,
+    "id": 5130,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9810,
+    "id": 9849,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7081,
+    "id": 8509,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7062,
+    "id": 2451,
     "level": "medium",
     "country": "🌍",
     "text": "In Cameroon, before the scroll, there was the dance floor",
@@ -162,21 +171,12 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 5145,
+    "id": 8777,
     "level": "medium",
     "country": "🌍",
     "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 8664,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
     "time": "Tue, 25 Aug 2026"
   }
 ]
