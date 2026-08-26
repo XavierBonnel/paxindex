@@ -1,6 +1,6 @@
 [
   {
-    "id": 8055,
+    "id": 7950,
     "level": "critical",
     "country": "🌍",
     "text": "Children in Gaza fear flying their kites after Israeli threat",
@@ -9,16 +9,25 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 8116,
+    "id": 7411,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly flash floods sweep through northern Nepal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
+    "text": "Soudan : les États-Unis veulent étendre l'embargo sur les armes à tout le pays",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-soudan-les-%C3%A9tats-unis-veulent-%C3%A9tendre-l-embargo-sur-les-armes-%C3%A0-tout-le-pays",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 3358,
+    "id": 4046,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Inondations au Népal : au moins 95 morts et des centaines de touristes portés di",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-inondations-au-n%C3%A9pal-au-moins-95-morts-et-des-centaines-de-touristes-port%C3%A9s-disparus",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 9474,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Crue dévastatrice au Népal : au moins 95 morts et 384 touristes portés disparu",
@@ -27,43 +36,16 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 6153,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Népal : au moins 19 morts dans des inondations",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-n%C3%A9pal-au-moins-19-morts-dans-des-inondations",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 669,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Haïti : au moins 47 morts dans une attaque de gangs près de la capitale",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-ha%C3%AFti-au-moins-47-morts-dans-une-attaque-de-gangs-pr%C3%A8s-de-la-capitale",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 6013,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Guinée, la solidarité s'organise après l'éboulement d'une décharge à Conakry",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-en-guin%C3%A9e-la-solidarit%C3%A9-s-organise-apr%C3%A8s-l-%C3%A9boulement-d-une-d%C3%A9charge-%C3%A0-conakry",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 1555,
+    "id": 225,
     "level": "high",
     "country": "🌍",
-    "text": "ICC chief urges Japan to counter US pressure on the court",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss",
+    "text": "Au Sahel, l'Algérie et le Mali veulent \"tourner la page des tensions\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260826-algerie-mali-relations-analyse-maiga-tebboune-accords-alger-touareg-securite-frontiere",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 6003,
+    "id": 102,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +54,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4290,
+    "id": 3208,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +63,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4669,
+    "id": 2833,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3251,
+    "id": 1507,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8600,
+    "id": 5089,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1412,
+    "id": 6260,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6120,
+    "id": 6581,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4213,
+    "id": 272,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2887,
+    "id": 1778,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +126,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9045,
+    "id": 3681,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,7 +135,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9851,
+    "id": 8534,
     "level": "medium",
     "country": "🌍",
     "text": "In Cameroon, before the scroll, there was the dance floor",
@@ -162,7 +144,7 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 4628,
+    "id": 3912,
     "level": "medium",
     "country": "🌍",
     "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
@@ -171,12 +153,30 @@
     "time": "Tue, 25 Aug 2026"
   },
   {
-    "id": 4338,
+    "id": 7905,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
     "time": "Tue, 25 Aug 2026"
+  },
+  {
+    "id": 5314,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
+    "time": "Mon, 24 Aug 2026"
+  },
+  {
+    "id": 2800,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Support Global Voices Spotlight: Protest in democracy",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/24/support-global-voices-spotlight-protest-in-democracy/",
+    "time": "Mon, 24 Aug 2026"
   }
 ]
