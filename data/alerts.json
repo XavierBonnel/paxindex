@@ -1,15 +1,78 @@
 [
   {
-    "id": 9054,
+    "id": 7207,
     "level": "critical",
     "country": "🌍",
-    "text": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
+    "text": "‘Swept away’: Nepal families search for relatives after devastating floods",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/27/swept-away-nepal-families-search-for-relatives-after-devastating-floods?traffic_source=rss",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 3710,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Lightning bolt strikes Mecca’s clock tower",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/lightning-bolt-strikes-meccas-clock-tower?traffic_source=rss",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 3688,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel is not heading for civil war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/8/27/israel-is-not-heading-for-civil-war?traffic_source=rss",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 4096,
+    "level": "critical",
+    "country": "🌍",
+    "text": "More than 1,300 missing in Nepal and China after deadly Himalayan flood",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/27/more-than-1300-missing-in-nepal-and-china-after-deadly-himalayan-flood?traffic_source=rss",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 5168,
+    "level": "critical",
+    "country": "🌍",
+    "text": "OpenAI says it detected malign activity months before Hugging Face attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 9137,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Morte à 97 ans, l'artiste japonaise Yayoi Kusama, alias la \"reine des pois\", a p",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/culture/20260827-mort-de-l-artiste-avant-gardiste-japonaise-yayoi-kusama-%C3%A0-97-ans",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 7473,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct - Crue meurtrière au Népal-Tibet : 4 Français parmi les centaines de d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260827-en-direct-nepal-tibet-crue-inondations-morts-secours-recherche-disparus",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 4590,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ce que l'on sait sur les causes de la crue meurtrière au Népal et au Tibet",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260826-ce-que-l-on-sait-sur-les-causes-de-la-crue-meurtri%C3%A8re-au-n%C3%A9pal-et-au-tibet",
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 4656,
+    "id": 4200,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Une voiture fonce dans la foule à Caen : 11 victimes, dont au moins un mort",
@@ -18,34 +81,16 @@
     "time": "Wed, 26 Aug 2026"
   },
   {
-    "id": 7356,
-    "level": "critical",
+    "id": 9630,
+    "level": "high",
     "country": "🌍",
-    "text": "Une voiture fonce dans la foule à Caen : 11 victimes, dont au moins un mort",
+    "text": "Pourquoi Washington veut la peau de Bank Melli, banque historique iranienne",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20260826-france-caen-voiture-belier-fonce-foule-victimes-mort-blesses",
-    "time": "Wed, 26 Aug 2026"
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260827-pourquoi-washington-veut-la-peau-de-bank-melli-banque-historique-iranienne-sanctions-americaines",
+    "time": "Thu, 27 Aug 2026"
   },
   {
-    "id": 8712,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En Algérie, des feux de forêt font deux morts et des blessés dans l'est du pays",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260826-algerie-incendies-feux-de-foret-deux-morts-blesses-evacuations-bejaia-jijel",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 8502,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Népal - Tibet : torrents de boue, bâtiments submergés… les images des crues meur",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260826-n%C3%A9pal-tibet-torrents-de-boue-b%C3%A2timents-submerg%C3%A9s-les-images-des-crues-meurtri%C3%A8res",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 358,
+    "id": 2094,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9041,
+    "id": 9697,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7467,
+    "id": 6394,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7785,
+    "id": 3179,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6812,
+    "id": 4806,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1195,
+    "id": 2085,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9769,
+    "id": 8505,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1572,
+    "id": 8887,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3744,
+    "id": 5398,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,57 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7766,
+    "id": 1640,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 8696,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Thousands of little penguins will be vaccinated against bird flu down under",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/26/thousands-of-little-penguins-will-be-vaccinated-against-bird-flu-down-under/",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 6450,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Cameroon, before the scroll, there was the dance floor",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/26/in-cameroon-before-the-scroll-there-was-the-dance-floor/",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 8520,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Mozambique: Women, capulana dresses, and police violence stand out at Nampula pr",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/25/mozambique-women-capulana-dresses-and-police-violence-stand-out-at-nampula-protests/",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 4205,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous leaders face criminal charges for setting up anti-mining barricades i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/25/indigenous-peoples-leaders-face-criminal-raps-for-setting-up-anti-mining-barricades-in-the-philippines/",
-    "time": "Tue, 25 Aug 2026"
-  },
-  {
-    "id": 9264,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Poisoned waters: Indigenous communities fight to protect Thailand’s Kok River",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/24/poisoned-waters-indigenous-communities-fight-to-protect-thailands-kok-river/",
-    "time": "Mon, 24 Aug 2026"
   }
 ]
