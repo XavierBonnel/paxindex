@@ -1,78 +1,60 @@
 [
   {
-    "id": 8820,
+    "id": 8353,
     "level": "critical",
     "country": "🌍",
-    "text": "Parents who lost children to social media harms question Meta settlement",
+    "text": "Congo launches Ebola vaccination drive to tackle deadly outbreak",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/27/parents-who-lost-children-to-social-media-harms-question-meta?traffic_source=rss",
-    "time": "Thu, 27 Aug 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/congo-launches-ebola-vaccination-drive-to-tackle-deadly-outbreak?traffic_source=rss",
+    "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 9028,
+    "id": 7288,
     "level": "critical",
     "country": "🌍",
-    "text": "Three killed in strikes on Gaza as Israel renews threats over kite-flying",
+    "text": "Chad accuses Sudan of air strike near shared border that killed 12",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying?traffic_source=rss",
-    "time": "Thu, 27 Aug 2026"
+    "link": "https://www.aljazeera.com/news/2026/8/28/chad-accuses-sudan-of-deadly-air-strike-near-shared-border?traffic_source=rss",
+    "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 8576,
+    "id": 8449,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian military serviceman killed in St Petersburg car blast",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/27/russian-military-serviceman-killed-in-st-petersburg-car-blast?traffic_source=rss",
-    "time": "Thu, 27 Aug 2026"
-  },
-  {
-    "id": 834,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran, Qatar hold Hormuz talks amid int’l hopes dialogue with US will resume",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume?traffic_source=rss",
-    "time": "Thu, 27 Aug 2026"
-  },
-  {
-    "id": 152,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/27/obituary-ratko-mladic-war-criminal-convicted-of-srebrenica-genocide-dies?traffic_source=rss",
-    "time": "Thu, 27 Aug 2026"
-  },
-  {
-    "id": 5061,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Tunisie : huit migrants tunisiens morts dans un naufrage en Méditerranée",
+    "text": "En direct - Crue meurtrière au Népal et au Tibet : de nouvelles coulées de boue ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260827-tunisie-huit-migrants-tunisiens-morts-dans-un-naufrage-en-m%C3%A9diterran%C3%A9e",
-    "time": "Thu, 27 Aug 2026"
+    "link": "https://www.france24.com/fr/asie-pacifique/20260828-en-direct-nepal-tibet-chine-crue-meurtriere-nouvelles-coulees-boue-redoutees-aide-humanitaire-touristes",
+    "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 5320,
+    "id": 6321,
     "level": "critical",
     "country": "🌍",
-    "text": "Tunisie : à Ben Guerdane, les funérailles de huit migrants morts en mer",
+    "text": "Ukraine : les habitants de Kherson appelés à évacuer face à l'intensification de",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260827-tunisie-%C3%A0-ben-guerdane-les-fun%C3%A9railles-de-huit-migrants-morts-en-mer",
+    "link": "https://www.france24.com/fr/europe/20260827-ukraine-les-habitants-de-kherson-appel%C3%A9s-%C3%A0-%C3%A9vacuer-face-%C3%A0-l-intensification-des-frappes-russes",
     "time": "Thu, 27 Aug 2026"
   },
   {
-    "id": 6080,
-    "level": "critical",
+    "id": 6124,
+    "level": "high",
     "country": "🌍",
-    "text": "\"Le boucher de Bosnie\" Ratko Mladic est mort, selon la télévision d'Etat serbe",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260827-le-boucher-de-bosnie-ratko-mladic-est-mort-selon-la-t%C3%A9l%C3%A9vision-d-etat-serbe",
-    "time": "Thu, 27 Aug 2026"
+    "text": "Fired Stars and Stripes journalists sue Trump administration for censorship",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/28/fired-stars-and-stripes-journalists-sue-trump-administration-for-censorship?traffic_source=rss",
+    "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 7915,
+    "id": 7837,
+    "level": "high",
+    "country": "🌍",
+    "text": "IA : le bannissement d'Anthropic par l'administration Trump jugé illégal",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260828-ia-anthropic-bannissement-administration-trump-juge-illegal-pentagone",
+    "time": "Fri, 28 Aug 2026"
+  },
+  {
+    "id": 7330,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 671,
+    "id": 8841,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8382,
+    "id": 8572,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5521,
+    "id": 1659,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6700,
+    "id": 2273,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9226,
+    "id": 8955,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 355,
+    "id": 8834,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3837,
+    "id": 5056,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2628,
+    "id": 4732,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8771,
+    "id": 9739,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +144,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 758,
+    "id": 9141,
     "level": "medium",
     "country": "🌍",
     "text": "The day after the central Nepal flood",
@@ -171,12 +153,30 @@
     "time": "Thu, 27 Aug 2026"
   },
   {
-    "id": 2925,
+    "id": 2839,
     "level": "medium",
     "country": "🌍",
     "text": "How Buryat fashion designer Oksana Alkhunsaeva stitched her life back together i",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/27/how-buryat-fashion-designer-oksana-alkhunsaeva-stitched-her-life-back-together-in-russia/",
     "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 8664,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Thousands of little penguins will be vaccinated against bird flu down under",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/26/thousands-of-little-penguins-will-be-vaccinated-against-bird-flu-down-under/",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 5129,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Cameroon, before the scroll, there was the dance floor",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/26/in-cameroon-before-the-scroll-there-was-the-dance-floor/",
+    "time": "Wed, 26 Aug 2026"
   }
 ]
