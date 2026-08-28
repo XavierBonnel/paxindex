@@ -1,60 +1,60 @@
 [
   {
-    "id": 8353,
+    "id": 7779,
     "level": "critical",
     "country": "🌍",
-    "text": "Congo launches Ebola vaccination drive to tackle deadly outbreak",
+    "text": "Al Jazeera reports from Nepal as flood survivors flee new threat",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/congo-launches-ebola-vaccination-drive-to-tackle-deadly-outbreak?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-barnaby-lo-wt-reported?traffic_source=rss",
     "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 7288,
+    "id": 3499,
     "level": "critical",
     "country": "🌍",
-    "text": "Chad accuses Sudan of air strike near shared border that killed 12",
+    "text": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/28/chad-accuses-sudan-of-deadly-air-strike-near-shared-border?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse?traffic_source=rss",
     "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 8449,
+    "id": 5679,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct - Crue meurtrière au Népal et au Tibet : de nouvelles coulées de boue ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260828-en-direct-nepal-tibet-chine-crue-meurtriere-nouvelles-coulees-boue-redoutees-aide-humanitaire-touristes",
+    "text": "Gaza forced to use unreliable online payments amid ‘cash famine’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine?traffic_source=rss",
     "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 6321,
+    "id": 8377,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine : les habitants de Kherson appelés à évacuer face à l'intensification de",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260827-ukraine-les-habitants-de-kherson-appel%C3%A9s-%C3%A0-%C3%A9vacuer-face-%C3%A0-l-intensification-des-frappes-russes",
-    "time": "Thu, 27 Aug 2026"
+    "text": "Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss",
+    "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 6124,
+    "id": 6398,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli strikes kill five people, including three from one family, in Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strikes-kill-five-people-including-three-from-one-family-in-gaza?traffic_source=rss",
+    "time": "Fri, 28 Aug 2026"
+  },
+  {
+    "id": 6906,
     "level": "high",
     "country": "🌍",
-    "text": "Fired Stars and Stripes journalists sue Trump administration for censorship",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/28/fired-stars-and-stripes-journalists-sue-trump-administration-for-censorship?traffic_source=rss",
-    "time": "Fri, 28 Aug 2026"
-  },
-  {
-    "id": 7837,
-    "level": "high",
-    "country": "🌍",
-    "text": "IA : le bannissement d'Anthropic par l'administration Trump jugé illégal",
+    "text": "L'armée israélienne dit avoir tué trois \"terroristes\" en Cisjordanie occupée",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260828-ia-anthropic-bannissement-administration-trump-juge-illegal-pentagone",
+    "link": "https://www.france24.com/fr/moyen-orient/20260828-israel-arm%C3%A9e-dit-avoir-cibl%C3%A9-terroristes-cisjordanie-occup%C3%A9e",
     "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 7330,
+    "id": 8917,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8841,
+    "id": 609,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8572,
+    "id": 3194,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1659,
+    "id": 9887,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2273,
+    "id": 3490,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8955,
+    "id": 5572,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8834,
+    "id": 8866,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5056,
+    "id": 4138,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4732,
+    "id": 9123,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9739,
+    "id": 4992,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +144,25 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9141,
+    "id": 4405,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela’s earthquakes leave children facing trauma, displacement and food inse",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/28/venezuelas-earthquakes-leave-children-facing-trauma-displacement-and-food-insecurity/",
+    "time": "Fri, 28 Aug 2026"
+  },
+  {
+    "id": 5497,
+    "level": "medium",
+    "country": "🌍",
+    "text": "China’s new cotton law deepens control over Uyghur farmers’ land and labor",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/28/chinas-new-cotton-law-deepens-control-over-uyghur-farmers-land-and-labor/",
+    "time": "Fri, 28 Aug 2026"
+  },
+  {
+    "id": 351,
     "level": "medium",
     "country": "🌍",
     "text": "The day after the central Nepal flood",
@@ -153,30 +171,12 @@
     "time": "Thu, 27 Aug 2026"
   },
   {
-    "id": 2839,
+    "id": 2538,
     "level": "medium",
     "country": "🌍",
     "text": "How Buryat fashion designer Oksana Alkhunsaeva stitched her life back together i",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/27/how-buryat-fashion-designer-oksana-alkhunsaeva-stitched-her-life-back-together-in-russia/",
     "time": "Thu, 27 Aug 2026"
-  },
-  {
-    "id": 8664,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Thousands of little penguins will be vaccinated against bird flu down under",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/26/thousands-of-little-penguins-will-be-vaccinated-against-bird-flu-down-under/",
-    "time": "Wed, 26 Aug 2026"
-  },
-  {
-    "id": 5129,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Cameroon, before the scroll, there was the dance floor",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/26/in-cameroon-before-the-scroll-there-was-the-dance-floor/",
-    "time": "Wed, 26 Aug 2026"
   }
 ]
