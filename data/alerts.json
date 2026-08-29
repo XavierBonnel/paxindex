@@ -1,60 +1,42 @@
 [
   {
-    "id": 7779,
+    "id": 6560,
     "level": "critical",
     "country": "🌍",
-    "text": "Al Jazeera reports from Nepal as flood survivors flee new threat",
+    "text": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-barnaby-lo-wt-reported?traffic_source=rss",
-    "time": "Fri, 28 Aug 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+    "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 3499,
+    "id": 6892,
     "level": "critical",
     "country": "🌍",
-    "text": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
+    "text": "US revises statements suggesting Chinese hackers attacked agencies",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse?traffic_source=rss",
-    "time": "Fri, 28 Aug 2026"
+    "link": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
+    "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 5679,
+    "id": 6207,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza forced to use unreliable online payments amid ‘cash famine’",
+    "text": "Iran war live: IRGC asserts strait control, US enforces blockade",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine?traffic_source=rss",
-    "time": "Fri, 28 Aug 2026"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+    "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 8377,
+    "id": 3858,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine reinforces Donetsk as it seeks to disrupt Russia’s weapons flow",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow?traffic_source=rss",
-    "time": "Fri, 28 Aug 2026"
-  },
-  {
-    "id": 6398,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli strikes kill five people, including three from one family, in Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strikes-kill-five-people-including-three-from-one-family-in-gaza?traffic_source=rss",
-    "time": "Fri, 28 Aug 2026"
-  },
-  {
-    "id": 6906,
-    "level": "high",
-    "country": "🌍",
-    "text": "L'armée israélienne dit avoir tué trois \"terroristes\" en Cisjordanie occupée",
+    "text": "Crue au Népal-Tibet : au moins 600 morts et près de 2 500 personnes disparues",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260828-israel-arm%C3%A9e-dit-avoir-cibl%C3%A9-terroristes-cisjordanie-occup%C3%A9e",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260828-crue-n%C3%A9pal-tibet-chine-au-moins-600-morts-2-500-personnes-disparues-catastrophe-naturelle",
     "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 8917,
+    "id": 4884,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +45,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 609,
+    "id": 9064,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +54,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3194,
+    "id": 4311,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +63,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9887,
+    "id": 8830,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +72,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3490,
+    "id": 153,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +81,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5572,
+    "id": 1651,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +90,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8866,
+    "id": 1611,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +99,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4138,
+    "id": 8838,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +108,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9123,
+    "id": 8546,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +117,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4992,
+    "id": 4022,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +126,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4405,
+    "id": 5457,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela’s earthquakes leave children facing trauma, displacement and food inse",
@@ -153,7 +135,7 @@
     "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 5497,
+    "id": 2306,
     "level": "medium",
     "country": "🌍",
     "text": "China’s new cotton law deepens control over Uyghur farmers’ land and labor",
@@ -162,7 +144,7 @@
     "time": "Fri, 28 Aug 2026"
   },
   {
-    "id": 351,
+    "id": 6116,
     "level": "medium",
     "country": "🌍",
     "text": "The day after the central Nepal flood",
@@ -171,12 +153,30 @@
     "time": "Thu, 27 Aug 2026"
   },
   {
-    "id": 2538,
+    "id": 4536,
     "level": "medium",
     "country": "🌍",
     "text": "How Buryat fashion designer Oksana Alkhunsaeva stitched her life back together i",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/27/how-buryat-fashion-designer-oksana-alkhunsaeva-stitched-her-life-back-together-in-russia/",
     "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 8599,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Thousands of little penguins will be vaccinated against bird flu down under",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/26/thousands-of-little-penguins-will-be-vaccinated-against-bird-flu-down-under/",
+    "time": "Wed, 26 Aug 2026"
+  },
+  {
+    "id": 380,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Cameroon, before the scroll, there was the dance floor",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/26/in-cameroon-before-the-scroll-there-was-the-dance-floor/",
+    "time": "Wed, 26 Aug 2026"
   }
 ]
