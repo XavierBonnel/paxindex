@@ -1,42 +1,69 @@
 [
   {
-    "id": 5374,
+    "id": 5802,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+    "text": "Turkiye summons Ukraine ambassador over Black Sea attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
     "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 6759,
+    "id": 9322,
     "level": "critical",
     "country": "🌍",
-    "text": "Crue dans l'Himalaya : au moins 633 morts et près de 3000 disparus",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-crue-dans-l-himalaya-au-moins-633-morts-et-pr%C3%A8s-de-3000-disparus",
+    "text": "Israeli army arrests six Palestinians after settler violence in West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
     "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 1409,
+    "id": 2273,
     "level": "critical",
     "country": "🌍",
-    "text": "Crue dans l'Himalaya : plus de 600 morts et des milliers de disparus",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-crue-dans-l-himalaya-plus-de-600-morts-et-des-milliers-de-disparus",
+    "text": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
     "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 3481,
+    "id": 6404,
     "level": "critical",
     "country": "🌍",
-    "text": "Frappe russe sur un entrepôt près de Kiev : au moins 27 morts",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-frappe-russe-sur-un-entrep%C3%B4t-pr%C3%A8s-de-kiev-au-moins-27-morts",
+    "text": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
     "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 5588,
+    "id": 6815,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : 37 morts dans une frappe sur un entrepôt près de Kiev",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-guerre-en-ukraine-37-morts-dans-une-frappe-sur-un-entrep%C3%B4t-pr%C3%A8s-de-kiev",
+    "time": "Sat, 29 Aug 2026"
+  },
+  {
+    "id": 5687,
+    "level": "high",
+    "country": "🌍",
+    "text": "Niger military says it is regaining control after attempted mutiny",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
+    "time": "Sat, 29 Aug 2026"
+  },
+  {
+    "id": 6205,
+    "level": "high",
+    "country": "🌍",
+    "text": "Niger : situation confuse après des explosions et des tirs entendus à Niamey",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-niger-situation-confuse-apr%C3%A8s-des-explosions-et-des-tirs-entendus-%C3%A0-niamey",
+    "time": "Sat, 29 Aug 2026"
+  },
+  {
+    "id": 4109,
     "level": "high",
     "country": "🌍",
     "text": "L'Altalena : quand une épave de 1948 ressurgit dans la campagne israélienne",
@@ -45,7 +72,7 @@
     "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 7949,
+    "id": 7151,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2671,
+    "id": 7715,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 37,
+    "id": 4637,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9738,
+    "id": 3113,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6678,
+    "id": 983,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1908,
+    "id": 8639,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4432,
+    "id": 7242,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1587,
+    "id": 6919,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5377,
+    "id": 7485,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 904,
+    "id": 1838,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9818,
+    "id": 9640,
     "level": "medium",
     "country": "🌍",
     "text": "Haiti’s security crisis forces displacement and relocation",
@@ -144,39 +171,12 @@
     "time": "Sat, 29 Aug 2026"
   },
   {
-    "id": 9460,
+    "id": 372,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela’s earthquakes leave children facing trauma, displacement and food inse",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/28/venezuelas-earthquakes-leave-children-facing-trauma-displacement-and-food-insecurity/",
     "time": "Fri, 28 Aug 2026"
-  },
-  {
-    "id": 284,
-    "level": "medium",
-    "country": "🌍",
-    "text": "China’s new cotton law deepens control over Uyghur farmers’ land and labor",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/28/chinas-new-cotton-law-deepens-control-over-uyghur-farmers-land-and-labor/",
-    "time": "Fri, 28 Aug 2026"
-  },
-  {
-    "id": 473,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The day after the central Nepal flood",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/27/central-nepal-flood-the-day-after/",
-    "time": "Thu, 27 Aug 2026"
-  },
-  {
-    "id": 42,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Buryat fashion designer Oksana Alkhunsaeva stitched her life back together i",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/27/how-buryat-fashion-designer-oksana-alkhunsaeva-stitched-her-life-back-together-in-russia/",
-    "time": "Thu, 27 Aug 2026"
   }
 ]
