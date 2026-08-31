@@ -1,24 +1,33 @@
 [
   {
-    "id": 3567,
+    "id": 5773,
     "level": "critical",
     "country": "🌍",
-    "text": "Sony, Warner Music sue Anthropic, saying it pirated songs to train its AI",
+    "text": "Three minors killed in Colombia armed group crackdown",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/8/31/sony-warner-music-sue-anthropic-saying-it-pirated-songs-to-train-its-ai?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
     "time": "Mon, 31 Aug 2026"
   },
   {
-    "id": 2896,
+    "id": 5909,
     "level": "critical",
     "country": "🌍",
-    "text": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin",
+    "text": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/indias-pm-modi-urges-end-to-ukraine-war-in-talks-with-russias-putin?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
     "time": "Mon, 31 Aug 2026"
   },
   {
-    "id": 7584,
+    "id": 9895,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Poland opens terror probe into fire at factory supplying Ukraine drones",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+    "time": "Mon, 31 Aug 2026"
+  },
+  {
+    "id": 2385,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 L'ancien Premier ministre Édouard Balladur est mort à l'âge de 97 ans",
@@ -27,7 +36,7 @@
     "time": "Mon, 31 Aug 2026"
   },
   {
-    "id": 3273,
+    "id": 8031,
     "level": "critical",
     "country": "🌍",
     "text": "Mort de l'ancien Premier ministre Édouard Balladur à 97 ans",
@@ -36,7 +45,7 @@
     "time": "Mon, 31 Aug 2026"
   },
   {
-    "id": 3327,
+    "id": 2009,
     "level": "critical",
     "country": "🌍",
     "text": "Crue dans le Grand Canyon: le rôle du changement climatique",
@@ -45,106 +54,16 @@
     "time": "Mon, 31 Aug 2026"
   },
   {
-    "id": 8264,
-    "level": "high",
+    "id": 3072,
+    "level": "medium",
     "country": "🌍",
-    "text": "Top US general says no plans to send troops to polls for November elections",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss",
+    "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
     "time": "Mon, 31 Aug 2026"
   },
   {
-    "id": 5004,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-08-21T08:00"
-  },
-  {
-    "id": 3954,
-    "level": "medium",
-    "country": "🌍",
-    "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-08-18T09:00"
-  },
-  {
-    "id": 7491,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-23T00:01"
-  },
-  {
-    "id": 8460,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-08T07:00"
-  },
-  {
-    "id": 7961,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 3500,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 9493,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 2729,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 9244,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 1248,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 1600,
+    "id": 280,
     "level": "medium",
     "country": "🌍",
     "text": "Nepal floods: Reporter’s diary, August 27, 2026",
@@ -153,7 +72,7 @@
     "time": "Mon, 31 Aug 2026"
   },
   {
-    "id": 8265,
+    "id": 6398,
     "level": "medium",
     "country": "🌍",
     "text": "How Croatian communities are taking on planned poultry slaughterhouses",
@@ -162,7 +81,7 @@
     "time": "Mon, 31 Aug 2026"
   },
   {
-    "id": 2907,
+    "id": 1466,
     "level": "medium",
     "country": "🌍",
     "text": "China’s fertility crisis is evidence of its modernization success",
@@ -171,12 +90,93 @@
     "time": "Sun, 30 Aug 2026"
   },
   {
-    "id": 5071,
+    "id": 9189,
     "level": "medium",
     "country": "🌍",
     "text": "The devastating impact of copper and cobalt mining pollution in Lualaba, DRC",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/29/the-devastating-impact-of-copper-and-cobalt-mining-pollution-in-lualaba-drc/",
     "time": "Sat, 29 Aug 2026"
+  },
+  {
+    "id": 3809,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Haiti’s security crisis forces displacement and relocation",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/29/haitis-security-crisis-forces-displacement-and-relocation/",
+    "time": "Sat, 29 Aug 2026"
+  },
+  {
+    "id": 4193,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela’s earthquakes leave children facing trauma, displacement and food inse",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/28/venezuelas-earthquakes-leave-children-facing-trauma-displacement-and-food-insecurity/",
+    "time": "Fri, 28 Aug 2026"
+  },
+  {
+    "id": 4790,
+    "level": "medium",
+    "country": "🌍",
+    "text": "China’s new cotton law deepens control over Uyghur farmers’ land and labor",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/28/chinas-new-cotton-law-deepens-control-over-uyghur-farmers-land-and-labor/",
+    "time": "Fri, 28 Aug 2026"
+  },
+  {
+    "id": 4284,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The day after the central Nepal flood",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/27/central-nepal-flood-the-day-after/",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 1534,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How Buryat fashion designer Oksana Alkhunsaeva stitched her life back together i",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/27/how-buryat-fashion-designer-oksana-alkhunsaeva-stitched-her-life-back-together-in-russia/",
+    "time": "Thu, 27 Aug 2026"
+  },
+  {
+    "id": 727,
+    "level": "medium",
+    "country": "🌍",
+    "text": "White House construction on $400m ballroom can go on, says US Supreme Court",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
+    "time": "Mon, 31 Aug 2026"
+  },
+  {
+    "id": 7951,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss",
+    "time": "Mon, 31 Aug 2026"
+  },
+  {
+    "id": 2500,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Putin, Xi reaffirm Russia-China ties amid ‘unpredictable’ world",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/8/31/putin-and-xi-affirm-strategic-alliance-amid-unpredictable-world?traffic_source=rss",
+    "time": "Mon, 31 Aug 2026"
+  },
+  {
+    "id": 6176,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Argentinian footballer Lionel Messi announces his retirement",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/argentinian-footballer-lionel-messi-announces-his-retirement?traffic_source=rss",
+    "time": "Mon, 31 Aug 2026"
   }
 ]
