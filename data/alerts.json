@@ -1,6 +1,6 @@
 [
   {
-    "id": 6584,
+    "id": 760,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,7 +9,7 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 842,
+    "id": 5427,
     "level": "critical",
     "country": "🌍",
     "text": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
@@ -18,7 +18,7 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 8472,
+    "id": 3069,
     "level": "critical",
     "country": "🌍",
     "text": "Deadly car bomb attack at Colombia police station",
@@ -27,7 +27,7 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 592,
+    "id": 7094,
     "level": "critical",
     "country": "🌍",
     "text": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
@@ -36,7 +36,7 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 5351,
+    "id": 3612,
     "level": "critical",
     "country": "🌍",
     "text": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
@@ -45,16 +45,25 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 8290,
+    "id": 155,
     "level": "critical",
     "country": "🌍",
-    "text": "Iranian state media announces numerous US strikes on the country",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
+    "text": "Israël affirme avoir arrêté le chef de la sécurité intérieure du Hamas à Gaza",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260901-israel-affirme-avoir-arrete-mouein-al-arabid-chef-securite-interieure-hamas-gaza-benjamin-netanyahu-frappes",
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 8456,
+    "id": 6853,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : nouvelles frappes américaines contre l'Iran, représailles en Jordani",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260901-en-direct-nouvelles-frappes-americaines-contre-iran-represailles-jordanie-etats-unis-israel-missiles-moyen-orient-detroit-ormuz-pays-golfe",
+    "time": "Tue, 01 Sep 2026"
+  },
+  {
+    "id": 4114,
     "level": "critical",
     "country": "🌍",
     "text": "Incursions de drones, sabotages, cyberattaques, espionnages : Moscou pousse-t-il",
@@ -63,7 +72,7 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 1014,
+    "id": 1043,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran promet une riposte \"décisive\" après de nouvelles frappes américaines",
@@ -72,16 +81,16 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 2411,
-    "level": "critical",
+    "id": 3244,
+    "level": "high",
     "country": "🌍",
-    "text": "L'Iran a-t-il adapté des lance-roquettes pour miner le détroit d'Ormuz ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260901-l-iran-a-t-il-adapt%C3%A9-des-lance-roquettes-pour-miner-le-d%C3%A9troit-d-ormuz",
+    "text": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 898,
+    "id": 1289,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5106,
+    "id": 2674,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1850,
+    "id": 8449,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1227,
+    "id": 3828,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1466,
+    "id": 6335,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6400,
+    "id": 6978,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7913,
+    "id": 1225,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5266,
+    "id": 5887,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5613,
+    "id": 654,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,21 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5679,
+    "id": 1215,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 3030,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When the lights go out in Libya’s Cyrenaica",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
-    "time": "Tue, 01 Sep 2026"
   }
 ]
