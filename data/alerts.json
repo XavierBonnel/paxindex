@@ -1,6 +1,6 @@
 [
   {
-    "id": 3574,
+    "id": 6584,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,25 +9,52 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 9080,
+    "id": 842,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran promises to respond to new wave of US strikes despite Trump’s threats",
+    "text": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/1/us-military-says-launching-new-attacks-on-iran?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 7122,
+    "id": 8472,
     "level": "critical",
     "country": "🌍",
-    "text": "Germany accuses Russia of drone attack on Leipzig airport",
+    "text": "Deadly car bomb attack at Colombia police station",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/1/germany-accuses-russia-of-drone-attack-on-leipzig-airport?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 3150,
+    "id": 592,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+    "time": "Tue, 01 Sep 2026"
+  },
+  {
+    "id": 5351,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
+    "time": "Tue, 01 Sep 2026"
+  },
+  {
+    "id": 8290,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iranian state media announces numerous US strikes on the country",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
+    "time": "Tue, 01 Sep 2026"
+  },
+  {
+    "id": 8456,
     "level": "critical",
     "country": "🌍",
     "text": "Incursions de drones, sabotages, cyberattaques, espionnages : Moscou pousse-t-il",
@@ -36,7 +63,16 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 2749,
+    "id": 1014,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'Iran promet une riposte \"décisive\" après de nouvelles frappes américaines",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260901-nouvelles-frappes-am%C3%A9ricaines-contre-l-iran-qui-promet-une-riposte-d%C3%A9cisive",
+    "time": "Tue, 01 Sep 2026"
+  },
+  {
+    "id": 2411,
     "level": "critical",
     "country": "🌍",
     "text": "L'Iran a-t-il adapté des lance-roquettes pour miner le détroit d'Ormuz ?",
@@ -45,34 +81,7 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 1868,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Crue dévastatrice dans l'Himalaya : des militants tibétains accusent la Chine de",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260901-chine-tibet-crue-devastatrice-militants-tibetains-accusent-chine-de-minimiser-bilan",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 3730,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Crue dans l'Himalaya : Pékin accusé de minimiser le nombre de victimes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260901-crue-dans-l-himalaya-p%C3%A9kin-accus%C3%A9-de-minimiser-le-nombre-de-victimes",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 242,
-    "level": "high",
-    "country": "🌍",
-    "text": "The US military began striking targets in Iran, CENTCOM says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 7233,
+    "id": 898,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2801,
+    "id": 5106,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6660,
+    "id": 1850,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1133,
+    "id": 1227,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7268,
+    "id": 1466,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6097,
+    "id": 6400,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1874,
+    "id": 7913,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5453,
+    "id": 5266,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2412,
+    "id": 5613,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 637,
+    "id": 5679,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 8411,
+    "id": 3030,
     "level": "medium",
     "country": "🌍",
     "text": "When the lights go out in Libya’s Cyrenaica",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
     "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 4105,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
-    "time": "Mon, 31 Aug 2026"
   }
 ]
