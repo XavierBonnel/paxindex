@@ -1,6 +1,6 @@
 [
   {
-    "id": 760,
+    "id": 9787,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,43 +9,61 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 5427,
+    "id": 1366,
     "level": "critical",
     "country": "🌍",
-    "text": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+    "text": "US strikes on Iran kill child at wedding ceremony",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+    "time": "Wed, 02 Sep 2026"
+  },
+  {
+    "id": 7573,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
+    "time": "Wed, 02 Sep 2026"
+  },
+  {
+    "id": 1905,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What to know about Germany’s drone attack accusations against Russia",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss",
+    "time": "Wed, 02 Sep 2026"
+  },
+  {
+    "id": 1030,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran says US bombed a wedding party in Sirik, killing five people",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
+    "time": "Wed, 02 Sep 2026"
+  },
+  {
+    "id": 9612,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US launches new strikes on Iran, denies its bases hit in Jordan",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
+    "time": "Wed, 02 Sep 2026"
+  },
+  {
+    "id": 1302,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Drones ukrainiens : Zelensky met en garde l'aviation civile, Poutine évoque une ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260901-drones-ukrainiens-zelensky-met-en-garde-l-aviation-civile-poutine-%C3%A9voque-une-menace-terroriste",
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 3069,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Deadly car bomb attack at Colombia police station",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 7094,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 3612,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 155,
+    "id": 4124,
     "level": "critical",
     "country": "🌍",
     "text": "Israël affirme avoir arrêté le chef de la sécurité intérieure du Hamas à Gaza",
@@ -54,43 +72,16 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 6853,
+    "id": 3726,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : nouvelles frappes américaines contre l'Iran, représailles en Jordani",
+    "text": "En direct : l'Iran attaque des bases des États-Unis après de nouvelles frappes a",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/moyen-orient/20260901-en-direct-nouvelles-frappes-americaines-contre-iran-represailles-jordanie-etats-unis-israel-missiles-moyen-orient-detroit-ormuz-pays-golfe",
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 4114,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Incursions de drones, sabotages, cyberattaques, espionnages : Moscou pousse-t-il",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260901-incursions-de-drones-sabotages-cyberattaques-espionnages-moscou-pousse-t-il-l-europe-%C3%A0-bout",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 1043,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'Iran promet une riposte \"décisive\" après de nouvelles frappes américaines",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260901-nouvelles-frappes-am%C3%A9ricaines-contre-l-iran-qui-promet-une-riposte-d%C3%A9cisive",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 3244,
-    "level": "high",
-    "country": "🌍",
-    "text": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 1289,
+    "id": 1035,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2674,
+    "id": 5472,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8449,
+    "id": 2265,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3828,
+    "id": 9125,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6335,
+    "id": 4320,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6978,
+    "id": 9136,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1225,
+    "id": 4784,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5887,
+    "id": 2,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 654,
+    "id": 1643,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1215,
+    "id": 2245,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 293,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When the lights go out in Libya’s Cyrenaica",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
+    "time": "Tue, 01 Sep 2026"
   }
 ]
