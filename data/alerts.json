@@ -1,6 +1,6 @@
 [
   {
-    "id": 5487,
+    "id": 6460,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,61 +9,88 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 6266,
+    "id": 5486,
     "level": "critical",
     "country": "🌍",
-    "text": "Palestinians in fear as Israeli forces mount pogroms on West Bank mosques",
+    "text": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/2/palestinians-in-fear-as-israeli-forces-mount-pogroms-on-west-bank-mosques?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 6256,
+    "id": 842,
     "level": "critical",
     "country": "🌍",
-    "text": "EU or Eurasia: Why Putin sparred with Armenia’s PM",
+    "text": "A year into Trump’s boat strike campaign, families search for answers",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/eu-or-eeu-why-putin-sparred-with-armenias-pm?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 1015,
+    "id": 6276,
     "level": "critical",
     "country": "🌍",
-    "text": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
+    "text": "Deadly bus crash in Egypt’s Sinai kills 22, injures 28",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/deadly-bus-crash-in-egypts-sinai-kills-22-injures-28?traffic_source=rss",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 1920,
+    "id": 4411,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre en Ukraine : Kiev et Moscou intensifient leurs frappes",
+    "text": "Ebola en RDC : la rentrée scolaire ravive l'inquiétude des parents à Beni",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260902-guerre-en-ukraine-kiev-et-moscou-intensifient-leurs-frappes",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260902-ebola-en-rdc-la-rentr%C3%A9e-scolaire-ravive-l-inqui%C3%A9tude-des-parents-%C3%A0-beni",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 5915,
+    "id": 3800,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les États-Unis accusés d'avoir bombardé un mariage en Iran : ce que montrent les",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260902-frappe-americaine-mariage-iran-images",
+    "time": "Wed, 02 Sep 2026"
+  },
+  {
+    "id": 3065,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Colombie : 20 guérilleros tués dans des bombardements du nouveau gouvernement",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260902-colombie-20-gu%C3%A9rilleros-tu%C3%A9s-dans-des-bombardements-du-nouveau-gouvernement",
+    "time": "Wed, 02 Sep 2026"
+  },
+  {
+    "id": 7509,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran : une frappe américaine présumée sur un mariage",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260902-iran-une-frappe-am%C3%A9ricaine-pr%C3%A9sum%C3%A9e-sur-un-mariage",
+    "time": "Wed, 02 Sep 2026"
+  },
+  {
+    "id": 1478,
     "level": "high",
     "country": "🌍",
-    "text": "Sud-Liban : les difficiles missions de la Finul, prise en étau entre Israël et l",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260902-sud-liban-les-difficiles-missions-de-la-finul-prise-en-%C3%A9tau-entre-isra%C3%ABl-et-le-hezbollah",
+    "text": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 6134,
+    "id": 9655,
     "level": "high",
     "country": "🌍",
-    "text": "Drone de Leipzig : Vladimir Poutine dénonce les sanctions allemandes",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260902-drone-de-leipzig-vladimir-poutine-d%C3%A9nonce-les-sanctions-allemandes",
+    "text": "Zambia’s Hichilema begins second term amid disputed vote and arrests",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/2/zambias-hichilema-begins-second-term-amid-disputed-vote-and-arrests?traffic_source=rss",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 82,
+    "id": 2080,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8271,
+    "id": 1846,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2002,
+    "id": 8046,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8366,
+    "id": 7977,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 359,
+    "id": 1190,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2479,
+    "id": 4552,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2968,
+    "id": 2269,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7239,
+    "id": 3670,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8651,
+    "id": 542,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,39 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 980,
+    "id": 3501,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 2824,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When the lights go out in Libya’s Cyrenaica",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 8689,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
-    "time": "Mon, 31 Aug 2026"
-  },
-  {
-    "id": 4312,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal floods: Reporter’s diary, August 27, 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nepal-floods-reporters-diary-august-27-2026/",
-    "time": "Mon, 31 Aug 2026"
   }
 ]
