@@ -1,6 +1,6 @@
 [
   {
-    "id": 6460,
+    "id": 6161,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,34 +9,34 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 5486,
+    "id": 351,
     "level": "critical",
     "country": "🌍",
-    "text": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
+    "text": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 842,
+    "id": 8362,
     "level": "critical",
     "country": "🌍",
-    "text": "A year into Trump’s boat strike campaign, families search for answers",
+    "text": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 6276,
+    "id": 7528,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly bus crash in Egypt’s Sinai kills 22, injures 28",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/deadly-bus-crash-in-egypts-sinai-kills-22-injures-28?traffic_source=rss",
+    "text": "Meurtre de la journaliste Daphne Caruana Galizia : le magnat Yorgen Fenech acqui",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260902-meurtre-journaliste-daphne-caruana-galizia-magnat-yorgen-fenech-acquitte-malte-proces-justice-rsf",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 4411,
+    "id": 8251,
     "level": "critical",
     "country": "🌍",
     "text": "Ebola en RDC : la rentrée scolaire ravive l'inquiétude des parents à Beni",
@@ -45,52 +45,25 @@
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 3800,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les États-Unis accusés d'avoir bombardé un mariage en Iran : ce que montrent les",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260902-frappe-americaine-mariage-iran-images",
-    "time": "Wed, 02 Sep 2026"
-  },
-  {
-    "id": 3065,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Colombie : 20 guérilleros tués dans des bombardements du nouveau gouvernement",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260902-colombie-20-gu%C3%A9rilleros-tu%C3%A9s-dans-des-bombardements-du-nouveau-gouvernement",
-    "time": "Wed, 02 Sep 2026"
-  },
-  {
-    "id": 7509,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran : une frappe américaine présumée sur un mariage",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260902-iran-une-frappe-am%C3%A9ricaine-pr%C3%A9sum%C3%A9e-sur-un-mariage",
-    "time": "Wed, 02 Sep 2026"
-  },
-  {
-    "id": 1478,
+    "id": 2694,
     "level": "high",
     "country": "🌍",
-    "text": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
+    "text": "The long-term implications of Pete Hegseth’s US military purges",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 9655,
+    "id": 6493,
     "level": "high",
     "country": "🌍",
-    "text": "Zambia’s Hichilema begins second term amid disputed vote and arrests",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/zambias-hichilema-begins-second-term-amid-disputed-vote-and-arrests?traffic_source=rss",
+    "text": "Un capitaine met en cause le Tchad et d'autres pays dans la mutinerie au Niger",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260902-un-capitaine-met-en-cause-le-tchad-et-d-autres-pays-dans-la-mutinerie-au-niger",
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 2080,
+    "id": 5203,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1846,
+    "id": 530,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8046,
+    "id": 5218,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7977,
+    "id": 8989,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1190,
+    "id": 5863,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4552,
+    "id": 2631,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2269,
+    "id": 4931,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3670,
+    "id": 9560,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 542,
+    "id": 4431,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +144,39 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3501,
+    "id": 7945,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 925,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When the lights go out in Libya’s Cyrenaica",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
+    "time": "Tue, 01 Sep 2026"
+  },
+  {
+    "id": 3235,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
+    "time": "Mon, 31 Aug 2026"
+  },
+  {
+    "id": 4080,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nepal floods: Reporter’s diary, August 27, 2026",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/08/31/nepal-floods-reporters-diary-august-27-2026/",
+    "time": "Mon, 31 Aug 2026"
   }
 ]
