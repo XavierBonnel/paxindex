@@ -1,6 +1,6 @@
 [
   {
-    "id": 1022,
+    "id": 8603,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,34 +9,52 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 5532,
+    "id": 4911,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza farmers restore seed bank to preserve local crops",
+    "text": "El Nino: A phenomenon supercharged by climate change",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
     "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 2307,
+    "id": 8810,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
+    "text": "US Vice President JD Vance declines to offer timeline for end of Iran war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
     "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 3811,
+    "id": 793,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli bombing seen behind journalist reporting from Lebanese village",
+    "text": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/israeli-bombing-seen-behind-journalist-reporting-from-lebanese-village?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/3/ten-injured-in-ukraine-as-kyiv-expects-talks-with-us-envoys-in-coming-days?traffic_source=rss",
     "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 927,
+    "id": 9090,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/3/israel-kills-3-in-gaza-as-far-right-minister-plans-for-palestinian-removals?traffic_source=rss",
+    "time": "Thu, 03 Sep 2026"
+  },
+  {
+    "id": 2659,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran : les Etats-Unis ont-ils visé une cérémonie de mariage ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260903-iran-les-etats-unis-ont-ils-vis%C3%A9-une-c%C3%A9r%C3%A9monie-de-mariage",
+    "time": "Thu, 03 Sep 2026"
+  },
+  {
+    "id": 7427,
     "level": "critical",
     "country": "🌍",
     "text": "À Kiev, l’étrange guerre des espions ukrainiens en plein conflit avec la Russie",
@@ -45,16 +63,7 @@
     "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 1113,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran : \"leur monnaie ne vaut plus rien\" se félicite Donald Trump",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260903-iran-leur-monnaie-ne-vaut-plus-rien-se-f%C3%A9licite-donald-trump",
-    "time": "Thu, 03 Sep 2026"
-  },
-  {
-    "id": 468,
+    "id": 9392,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7498,
+    "id": 780,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2058,
+    "id": 964,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8083,
+    "id": 9188,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 547,
+    "id": 8022,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4240,
+    "id": 6729,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7522,
+    "id": 9403,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2131,
+    "id": 9975,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9434,
+    "id": 8120,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9364,
+    "id": 6181,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 7442,
+    "id": 4094,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
@@ -153,7 +162,7 @@
     "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 5868,
+    "id": 9136,
     "level": "medium",
     "country": "🌍",
     "text": "When the lights go out in Libya’s Cyrenaica",
@@ -162,21 +171,12 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 6775,
+    "id": 2523,
     "level": "medium",
     "country": "🌍",
     "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
-    "time": "Mon, 31 Aug 2026"
-  },
-  {
-    "id": 7133,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal floods: Reporter’s diary, August 27, 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nepal-floods-reporters-diary-august-27-2026/",
     "time": "Mon, 31 Aug 2026"
   }
 ]
