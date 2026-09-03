@@ -1,6 +1,6 @@
 [
   {
-    "id": 6811,
+    "id": 5376,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,34 +9,43 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 6863,
+    "id": 4394,
     "level": "critical",
     "country": "🌍",
-    "text": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+    "text": "Minneapolis shooting kills two, wounds three police officers",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-    "time": "Wed, 02 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/3/minneapolis-shooting-kills-two-wounds-three-police-officers?traffic_source=rss",
+    "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 6945,
+    "id": 1532,
     "level": "critical",
     "country": "🌍",
-    "text": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+    "text": "Trump threatens more strikes as death toll in Iran rises to 18",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-    "time": "Wed, 02 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
+    "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 9703,
+    "id": 6759,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+    "text": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-    "time": "Wed, 02 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss",
+    "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 4297,
+    "id": 8613,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : le Koweït visé par une attaque iranienne de missiles et",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260903-moyen-orient-en-direct-iran-etats-unis-golfe-ormuz-koweit-missiles-drones-trump",
+    "time": "Thu, 03 Sep 2026"
+  },
+  {
+    "id": 9619,
     "level": "critical",
     "country": "🌍",
     "text": "Meurtre de la journaliste Daphne Caruana Galizia : le magnat Yorgen Fenech acqui",
@@ -45,16 +54,16 @@
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 8864,
+    "id": 1601,
     "level": "high",
     "country": "🌍",
-    "text": "The long-term implications of Pete Hegseth’s US military purges",
+    "text": "Morocco’s ruling allies turn on each other before election campaign begins",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges?traffic_source=rss",
-    "time": "Wed, 02 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss",
+    "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 6057,
+    "id": 1255,
     "level": "high",
     "country": "🌍",
     "text": "Un capitaine met en cause le Tchad et d'autres pays dans la mutinerie au Niger",
@@ -63,7 +72,7 @@
     "time": "Wed, 02 Sep 2026"
   },
   {
-    "id": 2326,
+    "id": 3286,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 228,
+    "id": 6091,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4889,
+    "id": 865,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7203,
+    "id": 1703,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7149,
+    "id": 5777,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3187,
+    "id": 6125,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1969,
+    "id": 6988,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8945,
+    "id": 3016,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9072,
+    "id": 9191,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 901,
+    "id": 2146,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -153,30 +162,21 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1780,
+    "id": 4857,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/03/indigenous-plants-offer-ghanaians-an-alternative-to-costly-western-medicine/",
+    "time": "Thu, 03 Sep 2026"
+  },
+  {
+    "id": 9933,
     "level": "medium",
     "country": "🌍",
     "text": "When the lights go out in Libya’s Cyrenaica",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
     "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 1531,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
-    "time": "Mon, 31 Aug 2026"
-  },
-  {
-    "id": 3219,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal floods: Reporter’s diary, August 27, 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nepal-floods-reporters-diary-august-27-2026/",
-    "time": "Mon, 31 Aug 2026"
   }
 ]
