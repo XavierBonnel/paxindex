@@ -1,6 +1,6 @@
 [
   {
-    "id": 5344,
+    "id": 1338,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,88 +9,79 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 8398,
+    "id": 559,
     "level": "critical",
     "country": "🌍",
-    "text": "Why has the Philippines’ peso plunged to a record low?",
+    "text": "Philippine court orders arrest of VP Duterte over President Marcos threats",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 8426,
+    "id": 8777,
     "level": "critical",
     "country": "🌍",
-    "text": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
+    "text": "Conflicts and extreme weather pushing global food prices higher, warns UN",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 1966,
+    "id": 9227,
     "level": "critical",
     "country": "🌍",
-    "text": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+    "text": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 2052,
+    "id": 1615,
     "level": "critical",
     "country": "🌍",
-    "text": "No shelter or water, yet Lebanese return home, defying Israel.",
+    "text": "At least 100 killed as Yemen’s Houthis push towards key strait",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/aje-onl-nf_south-lebanon-residents-return-to-devastated-villages-040926?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 4055,
+    "id": 1812,
     "level": "critical",
     "country": "🌍",
-    "text": "🔴 Le cinéaste Tony Gatlif, réalisateur de \"Gadjo Dilo\", est mort à 77 ans",
+    "text": "US envoys headed to Russia and Ukraine to relaunch mediation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss",
+    "time": "Fri, 04 Sep 2026"
+  },
+  {
+    "id": 2760,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Italie : comment expliquer le record de longévité de Giorgia Meloni au pouvoir ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/culture/20260904-cinema-tony-gatlif-realisateur-de-gadjo-dilo-est-mort-a-77-ans",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260904-italie-comment-expliquer-le-record-de-long%C3%A9vit%C3%A9-de-giorgia-meloni-au-pouvoir",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 5606,
+    "id": 5093,
     "level": "critical",
     "country": "🌍",
-    "text": "Le cinéaste Tony Gatlif, réalisateur de \"Gadjo Dilo\", est mort à 77 ans",
+    "text": "Guerre au Moyen-Orient : des frappes américaines contre un mariage en Iran, Vanc",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/culture/20260904-cinema-tony-gatlif-realisateur-de-gadjo-dilo-est-mort-a-77-ans",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260904-guerre-au-moyen-orient-des-frappes-am%C3%A9ricaines-contre-un-mariage-en-iran-vance-ouvre-une-enqu%C3%AAte",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 955,
+    "id": 3573,
     "level": "high",
     "country": "🌍",
-    "text": "Why Pakistan overhauled its military command structure after five decades",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
+    "text": "L'armée israélienne affirme contrôler la colline d'Ali Taher, zone stratégique d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260904-isra%C3%ABl-affirme-contr%C3%B4ler-cr%C3%AAte-ali-taher-zone-strat%C3%A9gique-hezbollah-liban-moyen-orient",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 2249,
-    "level": "high",
-    "country": "🌍",
-    "text": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
-    "time": "Fri, 04 Sep 2026"
-  },
-  {
-    "id": 1993,
-    "level": "high",
-    "country": "🌍",
-    "text": "Argentina’s Milei threatens sanctions over Falklands oil drilling",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss",
-    "time": "Fri, 04 Sep 2026"
-  },
-  {
-    "id": 1003,
+    "id": 2628,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1121,
+    "id": 6265,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4986,
+    "id": 1325,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5402,
+    "id": 9727,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2322,
+    "id": 3315,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1465,
+    "id": 8196,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2758,
+    "id": 1916,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8561,
+    "id": 5205,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8042,
+    "id": 1530,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7641,
+    "id": 3870,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 8249,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceil",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/04/cameroons-indomitable-lionesses-football-team-finally-shatter-wafcon-glass-ceiling/",
+    "time": "Fri, 04 Sep 2026"
   }
 ]
