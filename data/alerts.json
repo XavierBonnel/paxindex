@@ -1,6 +1,6 @@
 [
   {
-    "id": 8077,
+    "id": 6532,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,43 +9,61 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 3210,
+    "id": 9473,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
+    "text": "Will Europe pay the US to provide military aid to Ukraine?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 981,
+    "id": 5634,
     "level": "critical",
     "country": "🌍",
-    "text": "October 7 attack shapes Israel’s elections and fuels political blame",
+    "text": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 9352,
+    "id": 8903,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian drone strikes Ukraine’s security service headquarters",
+    "text": "Israeli drones drop bombs on southern Lebanon’s Mansouri",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-russia-targets-ukraine-security-hq-clip-mp4?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-israel-drone-bombs-mansouri-lb-fm?traffic_source=rss",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 7083,
-    "level": "high",
+    "id": 3455,
+    "level": "critical",
     "country": "🌍",
-    "text": "‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat",
+    "text": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation?traffic_source=rss",
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 6031,
+    "id": 7786,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Five EU nations inch towards deal on migrant ‘return hubs’ by 2027",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/4/five-eu-nations-inch-towards-deal-on-migrant-return-hubs-by-2027?traffic_source=rss",
+    "time": "Fri, 04 Sep 2026"
+  },
+  {
+    "id": 557,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine, regain de tensions Iran/ USA, Rentrée politique en France",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260904-guerre-en-ukraine-regain-de-tensions-iran-usa-rentr%C3%A9e-politique-en-france",
+    "time": "Fri, 04 Sep 2026"
+  },
+  {
+    "id": 7731,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7087,
+    "id": 4040,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9861,
+    "id": 3663,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8466,
+    "id": 5045,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6509,
+    "id": 1005,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8496,
+    "id": 2654,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6923,
+    "id": 6748,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4762,
+    "id": 8891,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8092,
+    "id": 4384,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7708,
+    "id": 962,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,7 +153,16 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 343,
+    "id": 8971,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Maternity leave is expanding in Bangladesh, but garment workers still struggle f",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/04/maternity-leave-is-expanding-in-bangladesh-but-garment-workers-still-struggle-for-childcare/",
+    "time": "Fri, 04 Sep 2026"
+  },
+  {
+    "id": 7164,
     "level": "medium",
     "country": "🌍",
     "text": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceil",
@@ -144,39 +171,12 @@
     "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 1660,
+    "id": 7264,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/03/indigenous-plants-offer-ghanaians-an-alternative-to-costly-western-medicine/",
     "time": "Thu, 03 Sep 2026"
-  },
-  {
-    "id": 1660,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When the lights go out in Libya’s Cyrenaica",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 2763,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
-    "time": "Mon, 31 Aug 2026"
-  },
-  {
-    "id": 9062,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal floods: Reporter’s diary, August 27, 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nepal-floods-reporters-diary-august-27-2026/",
-    "time": "Mon, 31 Aug 2026"
   }
 ]
