@@ -1,6 +1,6 @@
 [
   {
-    "id": 6430,
+    "id": 4783,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,34 +9,34 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 8121,
+    "id": 6832,
     "level": "critical",
     "country": "🌍",
-    "text": "Are Trump’s AI videos just memes or psychological warfare?",
+    "text": "Entertainment over policy? White House arcade games ignite backlash",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
-    "time": "Thu, 03 Sep 2026"
+    "link": "https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss",
+    "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 9951,
+    "id": 8581,
     "level": "critical",
     "country": "🌍",
-    "text": "El Nino: A phenomenon supercharged by climate change",
+    "text": "US continues to squeeze Cuban economy with new round of sanctions",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/3/el-nino-a-phenomenon-supercharged-by-climate-change?traffic_source=rss",
-    "time": "Thu, 03 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/4/us-continues-to-squeeze-cuban-economy-with-new-round-of-sanctions?traffic_source=rss",
+    "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 1932,
+    "id": 3483,
     "level": "critical",
     "country": "🌍",
-    "text": "US Vice President JD Vance declines to offer timeline for end of Iran war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
-    "time": "Thu, 03 Sep 2026"
+    "text": "Moyen-Orient en direct : la Corée du Sud envisage de contribuer à sécuriser le d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260904-en-direct-moyen-orient-iran-etats-unis-golfe-coree-du-sud-deploiement-militaire-detroit-d-ormuz",
+    "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 5111,
+    "id": 5590,
     "level": "critical",
     "country": "🌍",
     "text": "Iran : les Etats-Unis ont-ils visé une cérémonie de mariage ?",
@@ -45,16 +45,25 @@
     "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 5753,
-    "level": "critical",
+    "id": 27,
+    "level": "high",
     "country": "🌍",
-    "text": "À Kiev, l’étrange guerre des espions ukrainiens en plein conflit avec la Russie",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260903-kiev-%C3%A9trange-guerre-espions-ukrainiens-plein-conflit-russie",
-    "time": "Thu, 03 Sep 2026"
+    "text": "Why did Trump meet with anti-Zionist Jewish leaders?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
+    "time": "Fri, 04 Sep 2026"
   },
   {
-    "id": 6194,
+    "id": 5796,
+    "level": "high",
+    "country": "🌍",
+    "text": "Revendication de l'Argentine sur les Malouines : dopé par Donald Trump, Javier M",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260904-revendication-de-l-argentine-sur-les-malouines-dop%C3%A9-par-donald-trump-javier-milei-durcit-le-ton",
+    "time": "Fri, 04 Sep 2026"
+  },
+  {
+    "id": 2280,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5592,
+    "id": 6055,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7853,
+    "id": 2923,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4195,
+    "id": 3585,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7911,
+    "id": 7544,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8549,
+    "id": 8711,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9711,
+    "id": 6259,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5868,
+    "id": 8405,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1208,
+    "id": 1386,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4421,
+    "id": 5668,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,16 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 2783,
+    "id": 8422,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceil",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/04/cameroons-indomitable-lionesses-football-team-finally-shatter-wafcon-glass-ceiling/",
+    "time": "Fri, 04 Sep 2026"
+  },
+  {
+    "id": 9127,
     "level": "medium",
     "country": "🌍",
     "text": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
@@ -153,30 +171,12 @@
     "time": "Thu, 03 Sep 2026"
   },
   {
-    "id": 9300,
+    "id": 1572,
     "level": "medium",
     "country": "🌍",
     "text": "When the lights go out in Libya’s Cyrenaica",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
     "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 2431,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
-    "time": "Mon, 31 Aug 2026"
-  },
-  {
-    "id": 570,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nepal floods: Reporter’s diary, August 27, 2026",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nepal-floods-reporters-diary-august-27-2026/",
-    "time": "Mon, 31 Aug 2026"
   }
 ]
