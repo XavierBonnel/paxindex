@@ -1,6 +1,6 @@
 [
   {
-    "id": 4532,
+    "id": 409,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,7 +9,25 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 1086,
+    "id": 152,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 485,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US says it hit three Iranian oil tankers after attacks on warships",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 7259,
     "level": "critical",
     "country": "🌍",
     "text": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
@@ -18,7 +36,7 @@
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 4458,
+    "id": 123,
     "level": "critical",
     "country": "🌍",
     "text": "Relatives hold cremations without bodies for Nepal’s missing flood victims",
@@ -27,16 +45,16 @@
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 5611,
+    "id": 8247,
     "level": "critical",
     "country": "🌍",
-    "text": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
+    "text": "Cessez-le-feu temporaire à Kiev pendant trois jours alors que les émissaires amé",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260905-cessez-le-feu-temporaire-%C3%A0-kiev-pendant-trois-jours-alors-que-les-%C3%A9missaires-am%C3%A9ricains-s-y-rendent",
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 3650,
+    "id": 735,
     "level": "critical",
     "country": "🌍",
     "text": "Visite des émissaires américains : Poutine ordonne l'arrêt des frappes sur Kiev ",
@@ -45,16 +63,16 @@
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 2761,
+    "id": 8756,
     "level": "critical",
     "country": "🌍",
-    "text": "Plus de 5 000 disparus au Népal : des familles tentent de faire leur deuil",
+    "text": "Plus de 5 000 disparus au Népal : des crémations symboliques à Katmandou",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/vid%C3%A9o/20260905-plus-de-5-000-disparus-au-n%C3%A9pal-des-familles-tentent-de-faire-leur-deuil",
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 3071,
+    "id": 3352,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6591,
+    "id": 356,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7485,
+    "id": 6918,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9424,
+    "id": 9465,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1371,
+    "id": 2707,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 517,
+    "id": 9741,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6969,
+    "id": 162,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4721,
+    "id": 4708,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5604,
+    "id": 3587,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8951,
+    "id": 3291,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +162,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6533,
+    "id": 9998,
     "level": "medium",
     "country": "🌍",
     "text": "In turbulent times, football brings Haiti hope",
@@ -153,30 +171,12 @@
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 5010,
+    "id": 2581,
     "level": "medium",
     "country": "🌍",
     "text": "Maternity leave is expanding in Bangladesh, but garment workers still struggle f",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/04/maternity-leave-is-expanding-in-bangladesh-but-garment-workers-still-struggle-for-childcare/",
     "time": "Fri, 04 Sep 2026"
-  },
-  {
-    "id": 8163,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/04/cameroons-indomitable-lionesses-football-team-finally-shatter-wafcon-glass-ceiling/",
-    "time": "Fri, 04 Sep 2026"
-  },
-  {
-    "id": 3457,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/03/indigenous-plants-offer-ghanaians-an-alternative-to-costly-western-medicine/",
-    "time": "Thu, 03 Sep 2026"
   }
 ]
