@@ -1,6 +1,6 @@
 [
   {
-    "id": 409,
+    "id": 353,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,43 +9,34 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 152,
+    "id": 3074,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+    "text": "Colombian government reports three killed in rebel attack on military post",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 485,
+    "id": 217,
     "level": "critical",
     "country": "🌍",
-    "text": "US says it hit three Iranian oil tankers after attacks on warships",
+    "text": "Jerusalem Daily: raids, settlers & sieges",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 7259,
+    "id": 4906,
     "level": "critical",
     "country": "🌍",
-    "text": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
+    "text": "Two pilots killed after Greek fighter jet crashes during an air show",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 123,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Relatives hold cremations without bodies for Nepal’s missing flood victims",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/5/relatives-hold-cremations-without-bodies-for-nepals-missing-flood-victims?traffic_source=rss",
-    "time": "Sat, 05 Sep 2026"
-  },
-  {
-    "id": 8247,
+    "id": 2178,
     "level": "critical",
     "country": "🌍",
     "text": "Cessez-le-feu temporaire à Kiev pendant trois jours alors que les émissaires amé",
@@ -54,7 +45,16 @@
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 735,
+    "id": 9824,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Moyen-Orient : l'Iran annonce des représailles après des frappes américaines sur",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260905-moyen-orient-l-iran-annonce-des-repr%C3%A9sailles-apr%C3%A8s-des-frappes-am%C3%A9ricaines-sur-des-p%C3%A9troliers",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 6141,
     "level": "critical",
     "country": "🌍",
     "text": "Visite des émissaires américains : Poutine ordonne l'arrêt des frappes sur Kiev ",
@@ -63,7 +63,7 @@
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 8756,
+    "id": 2544,
     "level": "critical",
     "country": "🌍",
     "text": "Plus de 5 000 disparus au Népal : des crémations symboliques à Katmandou",
@@ -72,7 +72,16 @@
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 3352,
+    "id": 9534,
+    "level": "high",
+    "country": "🌍",
+    "text": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 4373,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 356,
+    "id": 7990,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6918,
+    "id": 5833,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9465,
+    "id": 5464,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2707,
+    "id": 8040,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9741,
+    "id": 9447,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 162,
+    "id": 6663,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4708,
+    "id": 7358,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3587,
+    "id": 2394,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3291,
+    "id": 2405,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,21 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 9998,
+    "id": 3254,
     "level": "medium",
     "country": "🌍",
-    "text": "In turbulent times, football brings Haiti hope",
+    "text": "The people who live in cities must have a say in how they are shaped: Notes from",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/05/in-turbulent-times-football-brings-haiti-hope/",
+    "link": "https://globalvoices.org/2026/09/05/the-people-who-live-in-cities-must-have-a-say-in-how-they-are-shaped-notes-from-the-common-city-conference/",
     "time": "Sat, 05 Sep 2026"
-  },
-  {
-    "id": 2581,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Maternity leave is expanding in Bangladesh, but garment workers still struggle f",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/04/maternity-leave-is-expanding-in-bangladesh-but-garment-workers-still-struggle-for-childcare/",
-    "time": "Fri, 04 Sep 2026"
   }
 ]
