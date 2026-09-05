@@ -1,6 +1,6 @@
 [
   {
-    "id": 2425,
+    "id": 7736,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,43 +9,79 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 4584,
+    "id": 2645,
     "level": "critical",
     "country": "🌍",
-    "text": "Blasts at Bolivian military base kill at least 10, injure dozens",
+    "text": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/5/blasts-at-bolivian-military-base-kill-at-least-10-injure-dozens?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 4411,
+    "id": 2613,
     "level": "critical",
     "country": "🌍",
-    "text": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
+    "text": "Niger accuses France of orchestrating failed military mutiny",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 9426,
+    "id": 8129,
     "level": "critical",
     "country": "🌍",
-    "text": "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
+    "text": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 9565,
+    "id": 9704,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre en Ukraine, regain de tensions Iran/ USA, Rentrée politique en France",
+    "text": "Bolivian military barracks explosion kills at least 10",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/bolivian-military-barracks-explosion-kills-at-least-10?traffic_source=rss",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 1255,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"Ces tirailleurs se sont sacrifiés\" : les restes de deux \"turcos\" algériens retr",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260904-guerre-en-ukraine-regain-de-tensions-iran-usa-rentr%C3%A9e-politique-en-france",
-    "time": "Fri, 04 Sep 2026"
+    "link": "https://www.france24.com/fr/europe/20260905-tirailleurs-algeriens-turcos-restes-allemagne-guerre-1870-abdallah-ben-lein-abdel-kadn-ben-ladsche",
+    "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 2770,
+    "id": 5571,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump envoie ses émissaires à Moscou et Kiev avec \"une idée pour la paix\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260905-trump-envoie-ses-%C3%A9missaires-%C3%A0-moscou-et-kiev-avec-une-id%C3%A9e-pour-la-paix",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 9284,
+    "level": "high",
+    "country": "🌍",
+    "text": "US imposes sanctions on Turkish bank, prompting legal threat",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 4716,
+    "level": "high",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : des médias iraniens font état d'explosions près de l'îl",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260905-moyen-orient-en-direct-des-frappes-isra%C3%A9liennes-au-liban-font-au-moins-trois-morts",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 7985,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9833,
+    "id": 5294,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7079,
+    "id": 4280,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7029,
+    "id": 9006,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2154,
+    "id": 2071,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5272,
+    "id": 3707,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2516,
+    "id": 7995,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 170,
+    "id": 3007,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6693,
+    "id": 1156,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6649,
+    "id": 5213,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -135,48 +171,12 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 5799,
+    "id": 6335,
     "level": "medium",
     "country": "🌍",
-    "text": "Maternity leave is expanding in Bangladesh, but garment workers still struggle f",
+    "text": "In turbulent times, football brings Haiti hope",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/04/maternity-leave-is-expanding-in-bangladesh-but-garment-workers-still-struggle-for-childcare/",
-    "time": "Fri, 04 Sep 2026"
-  },
-  {
-    "id": 2935,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Cameroon’s indomitable Lionesses football team finally shatter WAFCON glass ceil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/04/cameroons-indomitable-lionesses-football-team-finally-shatter-wafcon-glass-ceiling/",
-    "time": "Fri, 04 Sep 2026"
-  },
-  {
-    "id": 4586,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Indigenous plants offer Ghanaians an alternative to costly Western medicine",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/03/indigenous-plants-offer-ghanaians-an-alternative-to-costly-western-medicine/",
-    "time": "Thu, 03 Sep 2026"
-  },
-  {
-    "id": 6941,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When the lights go out in Libya’s Cyrenaica",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/01/when-the-lights-go-out-in-libyas-cyrenaica/",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 4305,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nigeria’s Dambe is evolving. Its communities should not be left behind",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/08/31/nigerias-dambe-is-evolving-its-communities-should-not-be-left-behind/",
-    "time": "Mon, 31 Aug 2026"
+    "link": "https://globalvoices.org/2026/09/05/in-turbulent-times-football-brings-haiti-hope/",
+    "time": "Sat, 05 Sep 2026"
   }
 ]
