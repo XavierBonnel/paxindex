@@ -1,6 +1,6 @@
 [
   {
-    "id": 6035,
+    "id": 6672,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,7 +9,7 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 5025,
+    "id": 5614,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -18,7 +18,34 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 9975,
+    "id": 2670,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least five killed after Amazon cargo plane crash in Miami airport",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+    "time": "Sun, 06 Sep 2026"
+  },
+  {
+    "id": 7610,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 10 killed in central Mexico fireworks blast during festival",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+    "time": "Sun, 06 Sep 2026"
+  },
+  {
+    "id": 852,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Can AfD form Germany’s first far-right state government since World War II?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+    "time": "Sun, 06 Sep 2026"
+  },
+  {
+    "id": 9028,
     "level": "critical",
     "country": "🌍",
     "text": "At least five killed in New Delhi building collapse",
@@ -27,34 +54,16 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 808,
+    "id": 1771,
     "level": "critical",
     "country": "🌍",
-    "text": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-    "time": "Sun, 06 Sep 2026"
-  },
-  {
-    "id": 8157,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Why is Argentina reviving the Falklands dispute?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
-    "time": "Sun, 06 Sep 2026"
-  },
-  {
-    "id": 3710,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sauvetages au Népal, frappes russes sur Kiev, un match de kokpar : la semaine en",
+    "text": "Un avion-cargo d'Amazon sort de piste à Miami, l'accident a fait au moins cinq m",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20260906-sauvetages-n%C3%A9pal-frappes-russes-kiev-match-kokpar-tapisserie-bayeux-semaine-en-images",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260906-avion-cargo-amazon-sort-piste-miami-floride-accident-au-moins-cinq-morts-aeroport-incendie",
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 9128,
+    "id": 8736,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3186,
+    "id": 966,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4471,
+    "id": 4039,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6558,
+    "id": 539,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3395,
+    "id": 7546,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4862,
+    "id": 703,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1785,
+    "id": 6628,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2323,
+    "id": 4439,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7778,
+    "id": 4883,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -135,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2920,
+    "id": 7176,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -144,7 +153,7 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 4986,
+    "id": 8728,
     "level": "medium",
     "country": "🌍",
     "text": "What does folklore have to say? It helps uncover untold facets of Indigenous sto",
@@ -153,7 +162,7 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 2376,
+    "id": 3601,
     "level": "medium",
     "country": "🌍",
     "text": "The people who live in cities must have a say in how they are shaped: Notes from",
@@ -162,21 +171,12 @@
     "time": "Sat, 05 Sep 2026"
   },
   {
-    "id": 6624,
+    "id": 4651,
     "level": "medium",
     "country": "🌍",
     "text": "In turbulent times, football brings Haiti hope",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/05/in-turbulent-times-football-brings-haiti-hope/",
     "time": "Sat, 05 Sep 2026"
-  },
-  {
-    "id": 4875,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Maternity leave is expanding in Bangladesh, but garment workers still struggle f",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/04/maternity-leave-is-expanding-in-bangladesh-but-garment-workers-still-struggle-for-childcare/",
-    "time": "Fri, 04 Sep 2026"
   }
 ]
