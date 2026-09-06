@@ -1,6 +1,6 @@
 [
   {
-    "id": 7305,
+    "id": 9999,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -9,79 +9,52 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 7293,
+    "id": 463,
     "level": "critical",
     "country": "🌍",
-    "text": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+    "text": "Israel bombards several towns in southern Lebanon",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 2357,
+    "id": 6788,
     "level": "critical",
     "country": "🌍",
-    "text": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+    "text": "Yemeni forces claim strategic district amid intensified Houthi clashes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 8456,
+    "id": 3167,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+    "text": "Plan pour la paix en Ukraine : les émissaires de Donald Trump attendus à Kiev",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260906-plan-pour-la-paix-les-%C3%A9missaires-de-donald-trump-attendus-%C3%A0-kiev",
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 1461,
+    "id": 7746,
     "level": "critical",
     "country": "🌍",
-    "text": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-    "time": "Sat, 05 Sep 2026"
-  },
-  {
-    "id": 6807,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Cessez-le-feu temporaire à Kiev pendant trois jours alors que les émissaires amé",
+    "text": "Des frappes israéliennes font au moins quatre morts dans le sud du Liban",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260905-cessez-le-feu-temporaire-%C3%A0-kiev-pendant-trois-jours-alors-que-les-%C3%A9missaires-am%C3%A9ricains-s-y-rendent",
-    "time": "Sat, 05 Sep 2026"
+    "link": "https://www.france24.com/fr/moyen-orient/20260906-liban-des-frappes-isra%C3%A9liennes-dans-le-sud-du-pays-font-quatre-morts",
+    "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 840,
-    "level": "critical",
+    "id": 4858,
+    "level": "high",
     "country": "🌍",
-    "text": "Moyen-Orient : l'Iran annonce des représailles après des frappes américaines sur",
+    "text": "Aux États-Unis, sous fond de reprise des hostilités avec Téhéran, démissions en ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260905-moyen-orient-l-iran-annonce-des-repr%C3%A9sailles-apr%C3%A8s-des-frappes-am%C3%A9ricaines-sur-des-p%C3%A9troliers",
-    "time": "Sat, 05 Sep 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260906-aux-%C3%A9tats-unis-sous-fond-de-reprise-des-hostilit%C3%A9s-avec-t%C3%A9h%C3%A9ran-d%C3%A9missions-en-s%C3%A9rie-au-pentagone",
+    "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 9710,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Visite des émissaires américains : Poutine ordonne l'arrêt des frappes sur Kiev ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260905-visite-des-%C3%A9missaires-am%C3%A9ricains-poutine-ordonne-l-arr%C3%AAt-des-frappes-sur-kiev-pendant-trois-jours",
-    "time": "Sat, 05 Sep 2026"
-  },
-  {
-    "id": 2256,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Plus de 5 000 disparus au Népal : des crémations symboliques à Katmandou",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260905-plus-de-5-000-disparus-au-n%C3%A9pal-des-familles-tentent-de-faire-leur-deuil",
-    "time": "Sat, 05 Sep 2026"
-  },
-  {
-    "id": 1363,
+    "id": 1048,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3522,
+    "id": 1247,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4923,
+    "id": 4279,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7935,
+    "id": 3499,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6070,
+    "id": 3212,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1169,
+    "id": 209,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1976,
+    "id": 4139,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7447,
+    "id": 4447,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4611,
+    "id": 9688,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 6213,
+    "id": 4348,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +144,39 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 1130,
+    "id": 5705,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What does folklore have to say? It helps uncover untold facets of Indigenous sto",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/06/what-does-folklore-have-to-say-it-helps-uncover-untold-facets-of-indigenous-stories-overlooked-for-generations/",
+    "time": "Sun, 06 Sep 2026"
+  },
+  {
+    "id": 4049,
     "level": "medium",
     "country": "🌍",
     "text": "The people who live in cities must have a say in how they are shaped: Notes from",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/05/the-people-who-live-in-cities-must-have-a-say-in-how-they-are-shaped-notes-from-the-common-city-conference/",
     "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 7325,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In turbulent times, football brings Haiti hope",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/05/in-turbulent-times-football-brings-haiti-hope/",
+    "time": "Sat, 05 Sep 2026"
+  },
+  {
+    "id": 358,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Maternity leave is expanding in Bangladesh, but garment workers still struggle f",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/04/maternity-leave-is-expanding-in-bangladesh-but-garment-workers-still-struggle-for-childcare/",
+    "time": "Fri, 04 Sep 2026"
   }
 ]
