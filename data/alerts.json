@@ -1,6 +1,6 @@
 [
   {
-    "id": 3438,
+    "id": 9068,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,7 +9,7 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 2596,
+    "id": 5215,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -18,25 +18,52 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 9854,
+    "id": 1463,
     "level": "critical",
     "country": "🌍",
-    "text": "Algeria civil defence recovers body of 10-year-old boy from well",
+    "text": "Iran touts military response as US maintains blockade, hits tankers",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/6/algeria-civil-defence-recovers-body-of-10-year-old-boy-from-well?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 8201,
+    "id": 5295,
     "level": "critical",
     "country": "🌍",
-    "text": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+    "text": "Dead fish fill vanishing river as drought grips Indonesia",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/dead-fish-fill-vanishing-river-as-drought-grips-indonesia?traffic_source=rss",
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 3989,
+    "id": 1087,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war?traffic_source=rss",
+    "time": "Sun, 06 Sep 2026"
+  },
+  {
+    "id": 9485,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Sauvetages au Népal, frappes russes sur Kiev, un match de kokpar : la semaine en",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260906-sauvetages-n%C3%A9pal-frappes-russes-kiev-match-kokpar-tapisserie-bayeux-semaine-en-images",
+    "time": "Sun, 06 Sep 2026"
+  },
+  {
+    "id": 1538,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Une présentatrice égyptienne condamnée à la peine de mort pour trafic de drogue",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260906-pr%C3%A9sentatrice-%C3%A9gyptienne-condamn%C3%A9e-peine-de-mort-pour-trafic-de-drogue-%C3%A9gypte-justice-t%C3%A9l%C3%A9vision",
+    "time": "Sun, 06 Sep 2026"
+  },
+  {
+    "id": 3096,
     "level": "critical",
     "country": "🌍",
     "text": "Au festival \"Visa pour l'image\", la guerre au Liban, \"la guerre de trop\"",
@@ -45,7 +72,7 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 340,
+    "id": 204,
     "level": "critical",
     "country": "🌍",
     "text": "Premier déplacement des émissaires américains à Kiev : qu'attend l'Ukraine de ce",
@@ -54,7 +81,7 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 3707,
+    "id": 2724,
     "level": "critical",
     "country": "🌍",
     "text": "Émissaires américains à Kiev : \"l'Ukraine a besoin de garanties de sécurité\" sel",
@@ -63,25 +90,25 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 9893,
-    "level": "critical",
+    "id": 9151,
+    "level": "high",
     "country": "🌍",
-    "text": "Obsèques de Ratko Mladic en Serbie : l'UE dénonce la \"glorification\" du criminel",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260906-obs%C3%A8ques-de-ratko-mladic-en-serbie-l-ue-d%C3%A9nonce-la-glorification-du-criminel-de-guerre",
+    "text": "Niger military accuses France of orchestrating failed mutiny: What to know",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss",
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 8106,
-    "level": "critical",
+    "id": 1883,
+    "level": "high",
     "country": "🌍",
-    "text": "Frappes israéliennes à Gaza depuis 2023 : la difficile recherche des disparus",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260906-frappes-isra%C3%A9liennes-%C3%A0-gaza-depuis-2023-la-difficile-recherche-des-disparus",
+    "text": "Bosnian Serbs strengthen ties with Israel amid tensions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/6/bosnian-serbs-strengthen-ties-with-israel-amid-tensions?traffic_source=rss",
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 469,
+    "id": 1870,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4635,
+    "id": 8794,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3403,
+    "id": 2370,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 464,
+    "id": 5799,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6172,
+    "id": 5477,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9761,
+    "id": 3061,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3264,
+    "id": 5959,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,39 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8028,
+    "id": 1524,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 9646,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 5742,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-24T09:30"
-  },
-  {
-    "id": 5512,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What does folklore have to say? It helps uncover untold facets of Indigenous sto",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/06/what-does-folklore-have-to-say-it-helps-uncover-untold-facets-of-indigenous-stories-overlooked-for-generations/",
-    "time": "Sun, 06 Sep 2026"
   }
 ]
