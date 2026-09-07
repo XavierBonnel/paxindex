@@ -1,6 +1,6 @@
 [
   {
-    "id": 363,
+    "id": 323,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,7 +9,7 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 3008,
+    "id": 8794,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -18,43 +18,52 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 713,
+    "id": 6442,
     "level": "critical",
     "country": "🌍",
-    "text": "Convicted war criminal Ratko Mladic gets hero’s burial in Serbia",
+    "text": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/7/convicted-war-criminal-ratko-mladic-gets-heros-burial-in-serbia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
     "time": "Mon, 07 Sep 2026"
   },
   {
-    "id": 5407,
+    "id": 8302,
     "level": "critical",
     "country": "🌍",
-    "text": "How the media manufactured consent for genocide",
+    "text": "The domestic armed threat facing Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/7/how-the-media-manufactured-consent-for-genocide?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
     "time": "Mon, 07 Sep 2026"
   },
   {
-    "id": 7919,
+    "id": 2584,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Direction Potocari’: From Srebrenica genocide to a Belgrade football match",
+    "text": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/7/direction-potocari-from-srebrenica-genocide-to-a-belgrade-football-match?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
     "time": "Mon, 07 Sep 2026"
   },
   {
-    "id": 8077,
+    "id": 105,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli attacks on Gaza kill five Palestinians, including two children",
+    "text": "Russia shutters German consulate as diplomatic freeze deepens",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
     "time": "Mon, 07 Sep 2026"
   },
   {
-    "id": 928,
+    "id": 6903,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le crash d’un avion-cargo à Miami fait cinq morts",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-le-crash-d-un-avion-cargo-%C3%A0-miami-fait-cinq-morts",
+    "time": "Mon, 07 Sep 2026"
+  },
+  {
+    "id": 1698,
     "level": "critical",
     "country": "🌍",
     "text": "L'hommage à Mladic, ancien général de guerre condamné pour génocide, réprouvé à ",
@@ -63,34 +72,16 @@
     "time": "Mon, 07 Sep 2026"
   },
   {
-    "id": 7655,
-    "level": "critical",
+    "id": 7981,
+    "level": "high",
     "country": "🌍",
-    "text": "L'armée israélienne continuera \"d'agir pour éliminer les menaces\" au Liban",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-l-arm%C3%A9e-isra%C3%A9lienne-continuera-d-agir-pour-%C3%A9liminer-les-menaces-au-liban",
+    "text": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
     "time": "Mon, 07 Sep 2026"
   },
   {
-    "id": 3387,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les Houthis pro-iraniens accusent l'Arabie saoudite de bombardements au Yémen",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260907-houthis-pro-iraniens-accusent-arabie-saoudite-bombardements-y%C3%A9men",
-    "time": "Mon, 07 Sep 2026"
-  },
-  {
-    "id": 3023,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russie-Ukraine : le Kremlin dit \"ne pas exclure\" une reprise des négociations",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-russie-ukraine-le-kremlin-dit-ne-pas-exclure-une-reprise-des-n%C3%A9gociations",
-    "time": "Mon, 07 Sep 2026"
-  },
-  {
-    "id": 7825,
+    "id": 5991,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5966,
+    "id": 1761,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7988,
+    "id": 5598,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6865,
+    "id": 488,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9255,
+    "id": 467,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6374,
+    "id": 443,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7912,
+    "id": 8822,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8323,
+    "id": 9214,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8870,
+    "id": 3517,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1046,
+    "id": 4725,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-24T09:30"
+  },
+  {
+    "id": 8995,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When the tap runs dry: Women carry more than water in Kazakhstan",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/07/when-the-tap-runs-dry-women-carry-more-than-water-in-kazakhstan/",
+    "time": "Mon, 07 Sep 2026"
   }
 ]
