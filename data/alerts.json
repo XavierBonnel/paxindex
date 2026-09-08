@@ -1,6 +1,6 @@
 [
   {
-    "id": 7680,
+    "id": 3308,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,70 +9,52 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 7657,
+    "id": 9340,
     "level": "critical",
     "country": "🌍",
-    "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/01/seen-and-silenced-how-russian-surveillance-software-suppresses-georgian-civilians-rights/",
-    "time": "Tue, 01 Sep 2026"
-  },
-  {
-    "id": 9330,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
+    "text": "Houthi attacks on southern Saudi Arabia reportedly injure dozens",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss",
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 8258,
+    "id": 5862,
     "level": "critical",
     "country": "🌍",
-    "text": "IAEA warns over Iran nuclear access as Western powers push UN referral",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+    "text": "Ukraine - Russie : reprise des négociations, une trêve pour l'hiver ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-ukraine-russie-reprise-des-n%C3%A9gociations-une-tr%C3%AAve-pour-l-hiver",
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 257,
+    "id": 6072,
     "level": "critical",
     "country": "🌍",
-    "text": "En direct : la Russie reprend ses frappes sur Kiev après trois jours de trêve",
+    "text": "Ukraine : la Russie frappe de nouveau Kiev après la visite des émissaires améric",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-ukraine-la-russie-frappe-de-nouveau-kiev-apr%C3%A8s-la-visite-des-%C3%A9missaires-am%C3%A9ricains",
+    "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 546,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yémen : les Houthis revendiquent une vaste attaque contre l'Arabie saoudite",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260908-y%C3%A9men-houthis-revendiquent-attaque-arabie-saoudite-drones",
+    "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 2707,
+    "level": "critical",
+    "country": "🌍",
+    "text": "🔴En direct : la Russie reprend ses frappes meurtrières sur Kiev après trois jour",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 4524,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le crash d’un avion-cargo à Miami fait cinq morts",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-le-crash-d-un-avion-cargo-%C3%A0-miami-fait-cinq-morts",
-    "time": "Mon, 07 Sep 2026"
-  },
-  {
-    "id": 8192,
-    "level": "high",
-    "country": "🌍",
-    "text": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
-    "time": "Tue, 08 Sep 2026"
-  },
-  {
-    "id": 5539,
-    "level": "high",
-    "country": "🌍",
-    "text": "EU pledges more than $200m to Greenland amid Trump annexation threats",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
-    "time": "Tue, 08 Sep 2026"
-  },
-  {
-    "id": 921,
+    "id": 1267,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7781,
+    "id": 5903,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6080,
+    "id": 8572,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4561,
+    "id": 1664,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5339,
+    "id": 2021,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4801,
+    "id": 7900,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2873,
+    "id": 6176,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8651,
+    "id": 4094,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +126,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8526,
+    "id": 3103,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +135,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1154,
+    "id": 676,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -162,7 +144,16 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 6109,
+    "id": 1356,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What remains after Nepal’s Gen Z protests? Survivors reflect one year later",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/08/what-remains-after-nepals-gen-z-protests-survivors-reflect-one-year-later/",
+    "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 2985,
     "level": "medium",
     "country": "🌍",
     "text": "When the tap runs dry: Women carry more than water in Kazakhstan",
@@ -171,12 +162,21 @@
     "time": "Mon, 07 Sep 2026"
   },
   {
-    "id": 6415,
+    "id": 4090,
     "level": "medium",
     "country": "🌍",
     "text": "Reforms on Malaysia’s ‘draconian’ Peaceful Assembly Act encounter further delays",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/07/reforms-on-malaysias-draconian-peaceful-assembly-act-encounter-further-delays/",
     "time": "Mon, 07 Sep 2026"
+  },
+  {
+    "id": 5686,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What does folklore have to say? It helps uncover untold facets of Indigenous sto",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/06/what-does-folklore-have-to-say-it-helps-uncover-untold-facets-of-indigenous-stories-overlooked-for-generations/",
+    "time": "Sun, 06 Sep 2026"
   }
 ]
