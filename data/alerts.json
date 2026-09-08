@@ -1,6 +1,6 @@
 [
   {
-    "id": 7078,
+    "id": 592,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,70 +9,61 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 7032,
+    "id": 724,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
+    "text": "Police bodycam captures Russian missile strike on Kyiv",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 5022,
+    "id": 3491,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strikes devastate homes, displace families across Gaza",
+    "text": "Mamdani says 9/11 illnesses killed more than attacks did",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/mamdani-says-9-11-illnesses-killed-more-than-attacks?traffic_source=rss",
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 106,
+    "id": 4943,
     "level": "critical",
     "country": "🌍",
-    "text": "Bombardier defends US manufacturing amid Trump’s aviation sales threat",
+    "text": "Fourteen on trial over deadliest English Channel crossing on record",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/8/bombardier-defends-us-manufacturing-amid-trumps-aviation-sales-threat?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/fourteen-on-trial-over-deadliest-english-channel-crossing-on-record?traffic_source=rss",
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 3601,
+    "id": 2433,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strikes transform Lebanese city into ghost town",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss",
-    "time": "Tue, 08 Sep 2026"
-  },
-  {
-    "id": 2735,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : Moscou reprend son offensive et ses frappes sur Kiev",
+    "text": "Le Canada peut-il résister à Trump ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-guerre-en-ukraine-moscou-reprend-son-offensive-et-ses-frappes-sur-kiev",
+    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260908-le-canada-peut-il-r%C3%A9sister-%C3%A0-trump",
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 4876,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre à Gaza : 12 États mettent fin au commerce avec les colons israëliens",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-guerre-%C3%A0-gaza-12-%C3%A9tats-mettent-fin-au-commerce-avec-les-colons-isra%C3%ABliens",
-    "time": "Tue, 08 Sep 2026"
-  },
-  {
-    "id": 3983,
+    "id": 3532,
     "level": "high",
     "country": "🌍",
-    "text": "US won’t join UK ban on trade with illegal Israeli settlements",
+    "text": "US forces sink vessel ‘linked to Ecuador criminal gang’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-rubio-comments-uk-sanctions-clip-mp4?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 4829,
+    "id": 5298,
+    "level": "high",
+    "country": "🌍",
+    "text": "Cisjordanie : trois questions autour des sanctions occidentales contre les colon",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260908-cisjordanie-trois-questions-autour-sanctions-occidentales-contre-colonies-isra%C3%A9liennes-territoires-palestiniens-royaume-uni-france-canada",
+    "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 6943,
     "level": "high",
     "country": "🌍",
     "text": "Douze pays veulent sanctionner les colonies israéliennes en Cisjordanie occupée",
@@ -81,7 +72,7 @@
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 6085,
+    "id": 4,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3784,
+    "id": 1496,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3368,
+    "id": 7075,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6629,
+    "id": 8763,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8162,
+    "id": 2345,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 564,
+    "id": 7611,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9299,
+    "id": 7405,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9530,
+    "id": 2590,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7584,
+    "id": 2690,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9933,
+    "id": 9768,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,7 +162,16 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 530,
+    "id": 4002,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Can a new national peace policy fix Nigeria’s security problems?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/08/can-a-new-national-peace-policy-fix-nigerias-security-problems/",
+    "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 2590,
     "level": "medium",
     "country": "🌍",
     "text": "What remains after Nepal’s Gen Z protests? Survivors reflect one year later",
