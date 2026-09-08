@@ -1,6 +1,6 @@
 [
   {
-    "id": 4091,
+    "id": 7680,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,7 +9,7 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 9351,
+    "id": 7657,
     "level": "critical",
     "country": "🌍",
     "text": "Seen and silenced: How Russian surveillance software suppresses Georgian civilia",
@@ -18,52 +18,34 @@
     "time": "Tue, 01 Sep 2026"
   },
   {
-    "id": 5000,
+    "id": 9330,
     "level": "critical",
     "country": "🌍",
-    "text": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
+    "text": "Russia strikes Kyiv as three-day pause during US envoy visits ends",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
-    "time": "Mon, 07 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends?traffic_source=rss",
+    "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 9130,
+    "id": 8258,
     "level": "critical",
     "country": "🌍",
-    "text": "Hawaii braces for Hurricane Lowell",
+    "text": "IAEA warns over Iran nuclear access as Western powers push UN referral",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
-    "time": "Mon, 07 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+    "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 3945,
+    "id": 257,
     "level": "critical",
     "country": "🌍",
-    "text": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
-    "time": "Mon, 07 Sep 2026"
+    "text": "En direct : la Russie reprend ses frappes sur Kiev après trois jours de trêve",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260908-en-direct-ukraine-russie-reprend-frappes-kiev-apres-trois-jours-treve",
+    "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 9890,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
-    "time": "Mon, 07 Sep 2026"
-  },
-  {
-    "id": 3136,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
-    "time": "Mon, 07 Sep 2026"
-  },
-  {
-    "id": 5635,
+    "id": 4524,
     "level": "critical",
     "country": "🌍",
     "text": "Le crash d’un avion-cargo à Miami fait cinq morts",
@@ -72,16 +54,25 @@
     "time": "Mon, 07 Sep 2026"
   },
   {
-    "id": 2327,
+    "id": 8192,
     "level": "high",
     "country": "🌍",
-    "text": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+    "text": "Canada’s retaliatory tariffs on $20bn of US goods take effect",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
-    "time": "Mon, 07 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/8/canadas-retaliatory-tariffs-on-20bn-of-us-goods-take-effect?traffic_source=rss",
+    "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 1683,
+    "id": 5539,
+    "level": "high",
+    "country": "🌍",
+    "text": "EU pledges more than $200m to Greenland amid Trump annexation threats",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/8/eu-pledges-more-than-200m-to-greenland-amid-trump-threats?traffic_source=rss",
+    "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 921,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1623,
+    "id": 7781,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6318,
+    "id": 6080,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7520,
+    "id": 4561,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6153,
+    "id": 5339,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3235,
+    "id": 4801,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 146,
+    "id": 2873,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2561,
+    "id": 8651,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6543,
+    "id": 8526,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8745,
+    "id": 1154,
     "level": "medium",
     "country": "🌍",
     "text": "Victoria Coleman, William Downe and Lisa Gordon-Hagerty Elected to RAND Board of",
@@ -171,12 +162,21 @@
     "time": "2026-04-24T09:30"
   },
   {
-    "id": 374,
+    "id": 6109,
     "level": "medium",
     "country": "🌍",
     "text": "When the tap runs dry: Women carry more than water in Kazakhstan",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/07/when-the-tap-runs-dry-women-carry-more-than-water-in-kazakhstan/",
+    "time": "Mon, 07 Sep 2026"
+  },
+  {
+    "id": 6415,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Reforms on Malaysia’s ‘draconian’ Peaceful Assembly Act encounter further delays",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/07/reforms-on-malaysias-draconian-peaceful-assembly-act-encounter-further-delays/",
     "time": "Mon, 07 Sep 2026"
   }
 ]
