@@ -1,6 +1,6 @@
 [
   {
-    "id": 5691,
+    "id": 6297,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,25 +9,61 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 94,
+    "id": 9834,
     "level": "critical",
     "country": "🌍",
-    "text": "Bombardier looks to hire 500 new workers in US, despite Trump threat",
+    "text": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/9/bombardier-looks-to-hire-500-new-workers-in-us-despite-trump-threat?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 8607,
+    "id": 6681,
     "level": "critical",
     "country": "🌍",
-    "text": "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
+    "text": "Trump says Iran war ‘will end immediately’ after US midterm elections",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/9/attackers-kill-police-officer-kidnap-teachers-in-cameroons-northwest?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 5306,
+    "id": 6465,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump says Putin wants to make a deal to end Ukraine war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
+    "time": "Wed, 09 Sep 2026"
+  },
+  {
+    "id": 6304,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le Tchad réfute une nouvelle fois toute implication dans le conflit soudanais",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260909-le-tchad-r%C3%A9fute-une-nouvelle-fois-toute-implication-dans-le-conflit-soudanais",
+    "time": "Wed, 09 Sep 2026"
+  },
+  {
+    "id": 7726,
+    "level": "high",
+    "country": "🌍",
+    "text": "UK man charged with assisting Russian military spies in sabotage plot",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/9/uk-man-charged-with-assisting-russian-intelligence-connected-group?traffic_source=rss",
+    "time": "Wed, 09 Sep 2026"
+  },
+  {
+    "id": 2759,
+    "level": "high",
+    "country": "🌍",
+    "text": "L'Iran cible des navires et une base américaine en Jordanie après la destruction",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260909-iran-cible-navires-base-%C3%A9tats-unis-jordanie-apr%C3%A8s-destruction-p%C3%A9troliers",
+    "time": "Wed, 09 Sep 2026"
+  },
+  {
+    "id": 4554,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -36,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 685,
+    "id": 851,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -45,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8138,
+    "id": 146,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -54,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5181,
+    "id": 6945,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -63,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6273,
+    "id": 3887,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -72,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8913,
+    "id": 1538,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -81,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7451,
+    "id": 9643,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -90,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8403,
+    "id": 8005,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -99,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1684,
+    "id": 5366,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -108,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5785,
+    "id": 8295,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -117,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1953,
+    "id": 3685,
     "level": "medium",
     "country": "🌍",
     "text": "Can a new national peace policy fix Nigeria’s security problems?",
@@ -126,7 +162,7 @@
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 3470,
+    "id": 8770,
     "level": "medium",
     "country": "🌍",
     "text": "What remains after Nepal’s Gen Z protests? Survivors reflect one year later",
@@ -135,48 +171,12 @@
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 4186,
+    "id": 8051,
     "level": "medium",
     "country": "🌍",
     "text": "When the tap runs dry: Women carry more than water in Kazakhstan",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/07/when-the-tap-runs-dry-women-carry-more-than-water-in-kazakhstan/",
     "time": "Mon, 07 Sep 2026"
-  },
-  {
-    "id": 8125,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Reforms on Malaysia’s ‘draconian’ Peaceful Assembly Act encounter further delays",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/07/reforms-on-malaysias-draconian-peaceful-assembly-act-encounter-further-delays/",
-    "time": "Mon, 07 Sep 2026"
-  },
-  {
-    "id": 840,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What does folklore have to say? It helps uncover untold facets of Indigenous sto",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/06/what-does-folklore-have-to-say-it-helps-uncover-untold-facets-of-indigenous-stories-overlooked-for-generations/",
-    "time": "Sun, 06 Sep 2026"
-  },
-  {
-    "id": 6779,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The people who live in cities must have a say in how they are shaped: Notes from",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/05/the-people-who-live-in-cities-must-have-a-say-in-how-they-are-shaped-notes-from-the-common-city-conference/",
-    "time": "Sat, 05 Sep 2026"
-  },
-  {
-    "id": 5208,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In turbulent times, football brings Haiti hope",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/05/in-turbulent-times-football-brings-haiti-hope/",
-    "time": "Sat, 05 Sep 2026"
   }
 ]
