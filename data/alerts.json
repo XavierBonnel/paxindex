@@ -1,6 +1,6 @@
 [
   {
-    "id": 257,
+    "id": 825,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,70 +9,61 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 8418,
+    "id": 7040,
     "level": "critical",
     "country": "🌍",
-    "text": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
+    "text": "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/9/nigeria-boko-haram-reportedly-reach-secret-three-month-ceasefire?traffic_source=rss",
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 9600,
+    "id": 7726,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian drone attack kills two at Ukraine-Moldova border crossing",
+    "text": "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/9/russian-drone-attack-kills-two-at-ukraine-moldova-border-crossing?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/9/at-least-14-killed-in-weapons-depot-blast-in-syrias-idlib-state-tv-says?traffic_source=rss",
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 1501,
+    "id": 4596,
     "level": "critical",
     "country": "🌍",
-    "text": "Why Nepal is demanding climate justice and compensation after deadly floods",
+    "text": "AI researcher quits Anthropic saying AI race ‘could kill us all’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/9/why-nepal-is-demanding-climate-justice-and-compensation-after-deadly-floods?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/ai-researcher-quits-anthropic-saying-ai-race-could-kill-us?traffic_source=rss",
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 3279,
+    "id": 1659,
     "level": "critical",
     "country": "🌍",
-    "text": "Le conflit entre les États-Unis et le Canada s'envenime : Trump interdit des pro",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260909-le-conflit-entre-les-%C3%A9tats-unis-et-le-canada-s-envenime-trump-interdit-des-produits-canadiens",
+    "text": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 5553,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : les États-Unis frappent des pétroliers iraniens, l'Iran cible une ba",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260908-en-direct-etats-unis-detruit-cinq-petroliers-navires-iraniens-gardiens-revolution-menacent-koweit-bahrein-pays-golfe-detroit-ormuz",
-    "time": "Tue, 08 Sep 2026"
-  },
-  {
-    "id": 4279,
+    "id": 4557,
     "level": "high",
     "country": "🌍",
-    "text": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+    "text": "How has Israel hit back against sanctions by the UK, others?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss",
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 9279,
+    "id": 1006,
     "level": "high",
     "country": "🌍",
-    "text": "Attaques du 7-Octobre : \"Netanyahu savait\"",
+    "text": "Sanctions contre Israël : 12 personnalités britanniques interdites d'entrée sur ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260909-massacres-du-7-octobre-n%C3%A9tanyahou-savait",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260909-sanctions-contre-isra%C3%ABl-12-personnalit%C3%A9s-britanniques-interdites-d-entr%C3%A9e-sur-le-territoire",
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 8521,
+    "id": 8449,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3582,
+    "id": 1383,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 530,
+    "id": 1890,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9279,
+    "id": 9591,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4619,
+    "id": 9865,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 718,
+    "id": 6197,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5712,
+    "id": 1928,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 598,
+    "id": 3036,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1680,
+    "id": 452,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6818,
+    "id": 9751,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9591,
+    "id": 8602,
     "level": "medium",
     "country": "🌍",
     "text": "Can a new national peace policy fix Nigeria’s security problems?",
@@ -171,12 +162,21 @@
     "time": "Tue, 08 Sep 2026"
   },
   {
-    "id": 9460,
+    "id": 4111,
     "level": "medium",
     "country": "🌍",
     "text": "What remains after Nepal’s Gen Z protests? Survivors reflect one year later",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/08/what-remains-after-nepals-gen-z-protests-survivors-reflect-one-year-later/",
     "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 689,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When the tap runs dry: Women carry more than water in Kazakhstan",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/07/when-the-tap-runs-dry-women-carry-more-than-water-in-kazakhstan/",
+    "time": "Mon, 07 Sep 2026"
   }
 ]
