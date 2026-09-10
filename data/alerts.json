@@ -1,6 +1,15 @@
 [
   {
-    "id": 221,
+    "id": 6269,
+    "level": "critical",
+    "country": "🌍",
+    "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/10/south-korean-civil-society-says-no-to-military-deployment-to-hormuz/",
+    "time": "Thu, 10 Sep 2026"
+  },
+  {
+    "id": 5782,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -9,43 +18,79 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 7406,
+    "id": 3564,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says the US-Iran war will end right after midterms",
+    "text": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
-    "time": "Wed, 09 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss",
+    "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 2705,
+    "id": 1526,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war looms over Trump at Republican midterm convention in Dallas",
+    "text": "Ukrainian drones strike Russian Caspian Sea port in Dagestan",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
-    "time": "Wed, 09 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss",
+    "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 9610,
+    "id": 5841,
     "level": "critical",
     "country": "🌍",
-    "text": "Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener",
+    "text": "Five dead, dozens missing in Philippines ferry fire",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/9/9/liverpool-come-back-to-beat-atletico-madrid-2-1-in-champions-league-opener?traffic_source=rss",
-    "time": "Wed, 09 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/10/five-dead-dozens-missing-in-philippines-ferry-fire?traffic_source=rss",
+    "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 438,
+    "id": 8381,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+    "text": "Netanyahu to sue Haaretz over claims UAE warned him before October 7 attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
-    "time": "Wed, 09 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/10/netanyahu-to-sue-haaretz-over-claims-uae-warned-him-before-october-7-attack?traffic_source=rss",
+    "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 1050,
+    "id": 7278,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why is Iran bombing Jordan’s Al-Azraq base?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
+    "time": "Thu, 10 Sep 2026"
+  },
+  {
+    "id": 6589,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Several dead, dozens missing after ferry fire in Philippines tourist spot",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/several-dead-dozens-missing-after-ferry-fire-in-philippines-tourist-spot?traffic_source=rss",
+    "time": "Thu, 10 Sep 2026"
+  },
+  {
+    "id": 2821,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : le pétrole franchit la barre des 100 dollars le baril après des frap",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260910-en-direct-moyen-orient-iran-petrole-au-dessus-100-dollars-frappes-detroit-ormuz-donald-trump",
+    "time": "Thu, 10 Sep 2026"
+  },
+  {
+    "id": 161,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Aux Philippines, l'incendie d'un ferry fait plusieurs morts et des dizaines de d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260910-philippines-incendie-ferry-morts-dizaines-disparus-palawan-mv-june-aster",
+    "time": "Thu, 10 Sep 2026"
+  },
+  {
+    "id": 8311,
     "level": "critical",
     "country": "🌍",
     "text": "Le Tchad réfute une nouvelle fois toute implication dans le conflit soudanais",
@@ -54,7 +99,7 @@
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 3566,
+    "id": 7370,
     "level": "high",
     "country": "🌍",
     "text": "L'Iran cible des navires et une base américaine en Jordanie après la destruction",
@@ -63,7 +108,7 @@
     "time": "Wed, 09 Sep 2026"
   },
   {
-    "id": 3334,
+    "id": 1764,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9080,
+    "id": 4118,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4960,
+    "id": 5056,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1475,
+    "id": 7853,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3061,
+    "id": 8330,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3657,
+    "id": 2569,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8668,
+    "id": 669,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,57 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5382,
+    "id": 6842,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 2483,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 3362,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 9445,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can a new national peace policy fix Nigeria’s security problems?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/08/can-a-new-national-peace-policy-fix-nigerias-security-problems/",
-    "time": "Tue, 08 Sep 2026"
-  },
-  {
-    "id": 1725,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What remains after Nepal’s Gen Z protests? Survivors reflect one year later",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/08/what-remains-after-nepals-gen-z-protests-survivors-reflect-one-year-later/",
-    "time": "Tue, 08 Sep 2026"
-  },
-  {
-    "id": 3035,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When the tap runs dry: Women carry more than water in Kazakhstan",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/07/when-the-tap-runs-dry-women-carry-more-than-water-in-kazakhstan/",
-    "time": "Mon, 07 Sep 2026"
   }
 ]
