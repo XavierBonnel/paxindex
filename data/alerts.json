@@ -1,6 +1,6 @@
 [
   {
-    "id": 223,
+    "id": 9088,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,7 +9,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 8566,
+    "id": 6668,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -18,43 +18,52 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 120,
+    "id": 6672,
     "level": "critical",
     "country": "🌍",
-    "text": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+    "text": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 4097,
+    "id": 1897,
     "level": "critical",
     "country": "🌍",
-    "text": "Real Madrid’s Mbappe: AI dictator memes show lack of political awareness",
+    "text": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/9/11/real-madrids-mbappe-ai-dictator-memes-show-lack-of-political-awareness?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 5225,
+    "id": 2380,
     "level": "critical",
     "country": "🌍",
-    "text": "At least 46,000 displaced by escalating Yemen fighting: UN",
+    "text": "US legislators push AI safety laws amid human extinction warnings",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 2386,
+    "id": 2567,
     "level": "critical",
     "country": "🌍",
-    "text": "US holds memorials for the 9/11 attacks, 25 years later",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
+    "text": "Les terroristes du 11 septembre pas dans les avions ? Attention à cette intox",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260911-les-terroristes-du-11-septembre-pas-dans-les-avions-attention-%C3%A0-cette-intox",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 749,
+    "id": 5524,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Reed Brody: \"la tragédie du 11 septembre 2001 a été aggravée par la réponse qui ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260911-reed-brody-la-trag%C3%A9die-du-11-septembre-2001-a-%C3%A9t%C3%A9-aggrav%C3%A9e-par-la-r%C3%A9ponse-qui-y-a-%C3%A9t%C3%A9-apport%C3%A9e",
+    "time": "Fri, 11 Sep 2026"
+  },
+  {
+    "id": 8625,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Zelensky exhorte Trump à adopter des sanctions \"sévères\" con",
@@ -63,16 +72,7 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 3,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Commémoration du 11 septembre : Zohran Mamdani présent aux côtés des anciens pré",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260911-comm%C3%A9moration-du-11-septembre-zohran-mamdani-pr%C3%A9sent-aux-c%C3%B4t%C3%A9s-des-anciens-pr%C3%A9sidents-am%C3%A9ricains",
-    "time": "Fri, 11 Sep 2026"
-  },
-  {
-    "id": 7078,
+    "id": 6463,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8318,
+    "id": 4143,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4995,
+    "id": 6723,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5290,
+    "id": 7196,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7367,
+    "id": 2911,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6305,
+    "id": 1262,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2229,
+    "id": 6495,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9282,
+    "id": 5490,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3645,
+    "id": 3218,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 97,
+    "id": 1162,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1029,
+    "id": 2063,
     "level": "medium",
     "country": "🌍",
     "text": "‘Pay-by-the-day’ living in Pereira: The forgotten survivors of Colombia’s earthq",
@@ -171,7 +171,7 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 9080,
+    "id": 471,
     "level": "medium",
     "country": "🌍",
     "text": "Can a new national peace policy fix Nigeria’s security problems?",
