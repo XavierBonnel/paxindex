@@ -1,6 +1,6 @@
 [
   {
-    "id": 4594,
+    "id": 4182,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,7 +9,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 4717,
+    "id": 160,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -18,61 +18,79 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 3769,
+    "id": 78,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
+    "text": "Erdogan: The Making of Modern Turkiye",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/11/erdogan-the-making-of-modern-turkiye?traffic_source=rss",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 9227,
+    "id": 8552,
     "level": "critical",
     "country": "🌍",
-    "text": "Family members wait after deadly Philippines ferry fire",
+    "text": "Trump pays tribute to the victims of 9/11 at Pentagon ceremony",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/family-members-wait-after-deadly-philippines-ferry-fire?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 2475,
+    "id": 7877,
     "level": "critical",
     "country": "🌍",
-    "text": "What did 25 years of the “war on terror” leave behind?",
+    "text": "Philippines ferry fire death toll rises to 35 after bodies recovered",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/11/what-did-25-years-of-the-war-on-terror-leave-behind?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/11/philippines-ferry-fire-death-toll-rises-to-35-after-bodies-recovered?traffic_source=rss",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 4710,
+    "id": 5866,
     "level": "critical",
     "country": "🌍",
-    "text": "How 9/11 helped Israel sell its war on Palestinians to America",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
-    "time": "Fri, 11 Sep 2026"
-  },
-  {
-    "id": 7496,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les victimes invisibles du 11 septembre 2001: l'air toxique cause plus de 9 400 ",
+    "text": "Attentats du 11 septembre : un devoir de transmission envers la jeunesse américa",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260911-les-victimes-invisibles-du-11-septembre-2001-l-air-toxique-cause-plus-de-9-400-morts",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260911-attentats-du-11-septembre-un-devoir-de-transmission-envers-la-jeunesse-am%C3%A9ricaine",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 7607,
+    "id": 9348,
     "level": "critical",
     "country": "🌍",
-    "text": "Commémoration des attentats du 11 septembre 2001, entre mémoire et transmission",
+    "text": "Attentats du 11 Septembre 2001 : la mémoire, un rempart face au temps qui passe",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260911-comm%C3%A9moration-des-attentats-du-11-septembre-2001-entre-m%C3%A9moire-et-transmission",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260911-attentats-du-11-septembre-2001-la-m%C3%A9moire-un-rempart-face-au-temps-qui-passe",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 2510,
+    "id": 9219,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Olympe de Gouges, idole des féministes, courtisée par l'extrême-droite",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/culture/20260911-olympe-de-gouges-idole-feministe-rassemblement-national-pantheon",
+    "time": "Fri, 11 Sep 2026"
+  },
+  {
+    "id": 3761,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Commémoration du 11 septembre : 25 ans après, New York se souvient de son plus g",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260911-comm%C3%A9moration-du-11-septembre-25-ans-apr%C3%A8s-new-york-se-souvient-de-son-plus-grand-traumatisme",
+    "time": "Fri, 11 Sep 2026"
+  },
+  {
+    "id": 5069,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attentats du 11 septembre :  \"nous n'oublierons jamais\", Trump conclut son disco",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260911-attentat-du-11-septembre-nous-n-oublierons-jamais-trump-conclut-son-discours-de-comm%C3%A9moration",
+    "time": "Fri, 11 Sep 2026"
+  },
+  {
+    "id": 4511,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9175,
+    "id": 5192,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2141,
+    "id": 9775,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6649,
+    "id": 9057,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9307,
+    "id": 6982,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9223,
+    "id": 7164,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5522,
+    "id": 4241,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1330,
+    "id": 9500,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9297,
+    "id": 6258,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,30 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6154,
+    "id": 2641,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 3964,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Pay-by-the-day’ living in Pereira: The forgotten survivors of Colombia’s earthq",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/11/pay-by-the-day-living-in-pereira-the-forgotten-survivors-of-colombias-earthquake/",
-    "time": "Fri, 11 Sep 2026"
-  },
-  {
-    "id": 7227,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can a new national peace policy fix Nigeria’s security problems?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/08/can-a-new-national-peace-policy-fix-nigerias-security-problems/",
-    "time": "Tue, 08 Sep 2026"
   }
 ]
