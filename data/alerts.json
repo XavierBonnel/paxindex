@@ -1,6 +1,6 @@
 [
   {
-    "id": 521,
+    "id": 921,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,7 +9,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 7762,
+    "id": 6212,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -18,34 +18,43 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 1984,
+    "id": 6264,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
+    "text": "Anthropic claims Claude AI used for missile projects, global espionage",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss",
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 6878,
+    "id": 4394,
     "level": "critical",
     "country": "🌍",
-    "text": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+    "text": "Young republicans break with Trump over Iran war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
-    "time": "Thu, 10 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+    "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 5528,
+    "id": 7721,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+    "text": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
-    "time": "Thu, 10 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+    "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 7625,
+    "id": 2553,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : Donald Trump n'a pas de regrets pour la guerre en Iran",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260911-en-direct-moyen-orient-iran-donald-trump-pas-de-regrets-petrole-yemen-houthis",
+    "time": "Fri, 11 Sep 2026"
+  },
+  {
+    "id": 5160,
     "level": "critical",
     "country": "🌍",
     "text": "11-Septembre : Guantánamo et le procès fantôme du cerveau des attentats",
@@ -54,7 +63,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 7224,
+    "id": 11,
     "level": "critical",
     "country": "🌍",
     "text": "11-Septembre : les 1001 versions de Donald Trump",
@@ -63,7 +72,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 4245,
+    "id": 8717,
     "level": "critical",
     "country": "🌍",
     "text": "Les autorités congolaises comptent sur le vaccin Everbo pour tenter d'endiguer l",
@@ -72,7 +81,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 2457,
+    "id": 6384,
     "level": "high",
     "country": "🌍",
     "text": "Liban : Israël dynamite des tunnels du Hezbollah et provoque un mini-séisme",
@@ -81,7 +90,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 8949,
+    "id": 7622,
     "level": "high",
     "country": "🌍",
     "text": "🔴 En direct : l'explosion de tunnels du Hezbollah par Israël au Liban entraîne u",
@@ -90,7 +99,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 6168,
+    "id": 7521,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8788,
+    "id": 8888,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8144,
+    "id": 3349,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7767,
+    "id": 287,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8141,
+    "id": 2991,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3980,
+    "id": 4919,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1040,
+    "id": 2339,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2648,
+    "id": 4949,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,21 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 635,
+    "id": 9838,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 6928,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
   }
 ]
