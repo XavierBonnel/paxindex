@@ -1,6 +1,6 @@
 [
   {
-    "id": 1657,
+    "id": 521,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,7 +9,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 4460,
+    "id": 7762,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -18,16 +18,43 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 7994,
+    "id": 1984,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian strike hits shopping centre in central Ukraine",
+    "text": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
+    "time": "Fri, 11 Sep 2026"
+  },
+  {
+    "id": 6878,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 5340,
+    "id": 5528,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+    "time": "Thu, 10 Sep 2026"
+  },
+  {
+    "id": 7625,
+    "level": "critical",
+    "country": "🌍",
+    "text": "11-Septembre : Guantánamo et le procès fantôme du cerveau des attentats",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260910-11-septembre-guant%C3%A1namo-et-le-proc%C3%A8s-fant%C3%B4me-du-cerveau-des-attentats",
+    "time": "Thu, 10 Sep 2026"
+  },
+  {
+    "id": 7224,
     "level": "critical",
     "country": "🌍",
     "text": "11-Septembre : les 1001 versions de Donald Trump",
@@ -36,7 +63,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 2116,
+    "id": 4245,
     "level": "critical",
     "country": "🌍",
     "text": "Les autorités congolaises comptent sur le vaccin Everbo pour tenter d'endiguer l",
@@ -45,25 +72,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 7078,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
-    "time": "Thu, 10 Sep 2026"
-  },
-  {
-    "id": 7364,
-    "level": "high",
-    "country": "🌍",
-    "text": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
-    "time": "Thu, 10 Sep 2026"
-  },
-  {
-    "id": 6896,
+    "id": 2457,
     "level": "high",
     "country": "🌍",
     "text": "Liban : Israël dynamite des tunnels du Hezbollah et provoque un mini-séisme",
@@ -72,7 +81,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 8864,
+    "id": 8949,
     "level": "high",
     "country": "🌍",
     "text": "🔴 En direct : l'explosion de tunnels du Hezbollah par Israël au Liban entraîne u",
@@ -81,7 +90,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 6056,
+    "id": 6168,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5497,
+    "id": 8788,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8082,
+    "id": 8144,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3498,
+    "id": 7767,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9091,
+    "id": 8141,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1741,
+    "id": 3980,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5464,
+    "id": 1040,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5130,
+    "id": 2648,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9465,
+    "id": 635,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,21 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3480,
+    "id": 6928,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 4480,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can a new national peace policy fix Nigeria’s security problems?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/08/can-a-new-national-peace-policy-fix-nigerias-security-problems/",
-    "time": "Tue, 08 Sep 2026"
   }
 ]
