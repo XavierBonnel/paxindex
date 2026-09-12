@@ -1,6 +1,6 @@
 [
   {
-    "id": 3247,
+    "id": 6978,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,7 +9,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 7403,
+    "id": 7916,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -18,61 +18,43 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 2837,
+    "id": 2023,
     "level": "critical",
     "country": "🌍",
-    "text": "What did US intelligence know before the 9/11 attacks?",
+    "text": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
     "time": "Sat, 12 Sep 2026"
   },
   {
-    "id": 6263,
+    "id": 4061,
     "level": "critical",
     "country": "🌍",
-    "text": "Fighting re-erupts in Yemen and civilians are paying the price",
+    "text": "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/12/fighting-re-erupts-in-yemen-and-civilians-are-paying-the-price?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/12/yemen-government-forces-say-houthi-members-vehicles-targeted-in-mocha?traffic_source=rss",
     "time": "Sat, 12 Sep 2026"
   },
   {
-    "id": 8821,
+    "id": 1524,
     "level": "critical",
     "country": "🌍",
-    "text": "9/11 at 25: How the ‘War on Terror’ helped mainstream Europe’s far right",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/9/12/9-11-at-25-how-the-war-on-terror-helped-mainstream-europes-far?traffic_source=rss",
-    "time": "Sat, 12 Sep 2026"
-  },
-  {
-    "id": 7231,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia strikes cargo vessels, steel plants across Ukraine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
-    "time": "Sat, 12 Sep 2026"
-  },
-  {
-    "id": 7063,
-    "level": "critical",
-    "country": "🌍",
-    "text": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
-    "time": "Sat, 12 Sep 2026"
-  },
-  {
-    "id": 2059,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les BRICS à l'épreuve des conflits, un sujet qui divise les pays",
+    "text": "Xi est arrivé en Inde pour le sommet des BRICS en plein conflit au Moyen-Orient",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-les-brics-%C3%A0-l-%C3%A9preuve-des-conflits-un-sujet-qui-divise-les-pays",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-xi-est-arriv%C3%A9-en-inde-pour-le-sommet-des-brics-en-plein-conflit-au-moyen-orient",
     "time": "Sat, 12 Sep 2026"
   },
   {
-    "id": 2898,
+    "id": 9831,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israel-Lebanon talks postponed as explosions rock southern Lebanon",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/12/israel-lebanon-talks-postponed-as-explosions-rock-southern-lebanon?traffic_source=rss",
+    "time": "Sat, 12 Sep 2026"
+  },
+  {
+    "id": 447,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +63,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2533,
+    "id": 559,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3627,
+    "id": 9866,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2684,
+    "id": 7496,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4688,
+    "id": 3205,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6565,
+    "id": 1443,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1876,
+    "id": 7295,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3627,
+    "id": 9021,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3645,
+    "id": 897,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +135,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5672,
+    "id": 8308,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +144,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7279,
+    "id": 4555,
     "level": "medium",
     "country": "🌍",
     "text": "‘Pay-by-the-day’ living in Pereira: The forgotten survivors of Colombia’s earthq",
@@ -171,12 +153,30 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 1855,
+    "id": 1602,
     "level": "medium",
     "country": "🌍",
     "text": "Can a new national peace policy fix Nigeria’s security problems?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/08/can-a-new-national-peace-policy-fix-nigerias-security-problems/",
     "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 5712,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What remains after Nepal’s Gen Z protests? Survivors reflect one year later",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/08/what-remains-after-nepals-gen-z-protests-survivors-reflect-one-year-later/",
+    "time": "Tue, 08 Sep 2026"
+  },
+  {
+    "id": 8799,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When the tap runs dry: Women carry more than water in Kazakhstan",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/07/when-the-tap-runs-dry-women-carry-more-than-water-in-kazakhstan/",
+    "time": "Mon, 07 Sep 2026"
   }
 ]
