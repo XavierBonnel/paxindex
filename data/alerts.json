@@ -1,6 +1,6 @@
 [
   {
-    "id": 9088,
+    "id": 4996,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,7 +9,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 6668,
+    "id": 7066,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -18,7 +18,25 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 6672,
+    "id": 4971,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Former top US diplomat reveals mistakes made after 9/11 attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
+    "time": "Sat, 12 Sep 2026"
+  },
+  {
+    "id": 9015,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+    "time": "Sat, 12 Sep 2026"
+  },
+  {
+    "id": 9697,
     "level": "critical",
     "country": "🌍",
     "text": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
@@ -27,7 +45,7 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 1897,
+    "id": 1394,
     "level": "critical",
     "country": "🌍",
     "text": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
@@ -36,7 +54,7 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 2380,
+    "id": 5292,
     "level": "critical",
     "country": "🌍",
     "text": "US legislators push AI safety laws amid human extinction warnings",
@@ -45,7 +63,16 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 2567,
+    "id": 4748,
+    "level": "critical",
+    "country": "🌍",
+    "text": "11-Septembre : Guantanamo et le procès fantôme du cerveau des attentats",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20260911-11-septembre-guantanamo-et-le-proc%C3%A8s-fant%C3%B4me-du-cerveau-des-attentats",
+    "time": "Fri, 11 Sep 2026"
+  },
+  {
+    "id": 8888,
     "level": "critical",
     "country": "🌍",
     "text": "Les terroristes du 11 septembre pas dans les avions ? Attention à cette intox",
@@ -54,7 +81,7 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 5524,
+    "id": 4405,
     "level": "critical",
     "country": "🌍",
     "text": "Reed Brody: \"la tragédie du 11 septembre 2001 a été aggravée par la réponse qui ",
@@ -63,7 +90,7 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 8625,
+    "id": 568,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : Zelensky exhorte Trump à adopter des sanctions \"sévères\" con",
@@ -72,7 +99,16 @@
     "time": "Fri, 11 Sep 2026"
   },
   {
-    "id": 6463,
+    "id": 8345,
+    "level": "high",
+    "country": "🌍",
+    "text": "UN extends partial Sudan arms embargo for a month",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+    "time": "Fri, 11 Sep 2026"
+  },
+  {
+    "id": 3742,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4143,
+    "id": 7499,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6723,
+    "id": 7929,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7196,
+    "id": 9084,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2911,
+    "id": 9626,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1262,
+    "id": 1676,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6495,
+    "id": 7201,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,48 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5490,
+    "id": 5115,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 3218,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 1162,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 2063,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘Pay-by-the-day’ living in Pereira: The forgotten survivors of Colombia’s earthq",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/11/pay-by-the-day-living-in-pereira-the-forgotten-survivors-of-colombias-earthquake/",
-    "time": "Fri, 11 Sep 2026"
-  },
-  {
-    "id": 471,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can a new national peace policy fix Nigeria’s security problems?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/08/can-a-new-national-peace-policy-fix-nigerias-security-problems/",
-    "time": "Tue, 08 Sep 2026"
   }
 ]
