@@ -1,6 +1,6 @@
 [
   {
-    "id": 8933,
+    "id": 3354,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,7 +9,7 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 656,
+    "id": 3925,
     "level": "critical",
     "country": "🌍",
     "text": "North Macedonia’s independence should not be commemorated by glorifying war crim",
@@ -18,52 +18,43 @@
     "time": "Sun, 06 Sep 2026"
   },
   {
-    "id": 3713,
+    "id": 7597,
     "level": "critical",
     "country": "🌍",
-    "text": "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+    "text": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/9/13/usa-defeat-france-to-win-12th-fiba-womens-basketball-world-cup?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
+    "time": "Mon, 14 Sep 2026"
+  },
+  {
+    "id": 2608,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
+    "time": "Mon, 14 Sep 2026"
+  },
+  {
+    "id": 9006,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Could AI really kill us within a decade?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
     "time": "Sun, 13 Sep 2026"
   },
   {
-    "id": 5321,
+    "id": 7281,
     "level": "critical",
     "country": "🌍",
-    "text": "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+    "text": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/13/poland-ukraine-accuse-russia-of-escalation-after-strikes-near-border?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/9/13/manchester-city-wrongly-awarded-haaland-goal-by-var-at-united-refs-body?traffic_source=rss",
     "time": "Sun, 13 Sep 2026"
   },
   {
-    "id": 4762,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Jerusalem Daily: Pregnant woman killed in Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
-    "time": "Sun, 13 Sep 2026"
-  },
-  {
-    "id": 5957,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Can a warming Arctic become an important commercial highway?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/13/can-a-warming-arctic-become-an-important-commercial-highway?traffic_source=rss",
-    "time": "Sun, 13 Sep 2026"
-  },
-  {
-    "id": 5176,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-kushner-doha-attack-comments-clip?traffic_source=rss",
-    "time": "Sun, 13 Sep 2026"
-  },
-  {
-    "id": 4206,
+    "id": 2906,
     "level": "critical",
     "country": "🌍",
     "text": "Au Yémen, les Houthis font état d'une cinquantaine de frappes saoudiennes",
@@ -72,7 +63,7 @@
     "time": "Sun, 13 Sep 2026"
   },
   {
-    "id": 3642,
+    "id": 3242,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : des frappes russes près de la frontière polonaise, Varsovie dénonce un",
@@ -81,7 +72,7 @@
     "time": "Sun, 13 Sep 2026"
   },
   {
-    "id": 1166,
+    "id": 8140,
     "level": "critical",
     "country": "🌍",
     "text": "Naufrage d'un ferry en Indonésie : au moins 6 morts et 130 disparus",
@@ -90,7 +81,16 @@
     "time": "Sun, 13 Sep 2026"
   },
   {
-    "id": 7468,
+    "id": 7924,
+    "level": "high",
+    "country": "🌍",
+    "text": "Tehran and Muscat delay talks, citing regional consensus need",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
+    "time": "Sun, 13 Sep 2026"
+  },
+  {
+    "id": 9491,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 464,
+    "id": 1366,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4477,
+    "id": 8147,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3301,
+    "id": 213,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8063,
+    "id": 225,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8284,
+    "id": 11,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5236,
+    "id": 6070,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7357,
+    "id": 3467,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5624,
+    "id": 8119,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,7 +171,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8087,
+    "id": 1640,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
