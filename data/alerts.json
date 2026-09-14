@@ -1,6 +1,6 @@
 [
   {
-    "id": 7323,
+    "id": 5560,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,52 +9,79 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 3388,
+    "id": 1668,
     "level": "critical",
     "country": "🌍",
-    "text": "NATO pledges increased Ukraine support as Russia strikes near border",
+    "text": "Israeli attack targets Gaza displacement camp",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
     "time": "Mon, 14 Sep 2026"
   },
   {
-    "id": 4522,
+    "id": 3662,
     "level": "critical",
     "country": "🌍",
-    "text": "Carney pitches Canada to global investors amid US trade war",
+    "text": "Why talks in Oman between Iran and Gulf Arab states were postponed",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/14/carney-pitches-canada-to-global-investors-amid-us-trade-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/why-talks-in-oman-between-iran-and-gulf-arab-states-were-postponed?traffic_source=rss",
     "time": "Mon, 14 Sep 2026"
   },
   {
-    "id": 8667,
+    "id": 2579,
     "level": "critical",
     "country": "🌍",
-    "text": "Mer Rouge : le détroit s'embrase-t-il ? Les Houthis frappent l’Arabie saoudite e",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260914-mer-rouge-le-d%C3%A9troit-s-embrase-t-il-les-houthis-frappent-l-arabie-saoudite-et-gagnent-du-terrain",
+    "text": "Israel probing Naza film on Gaza for treason, inciting anti-Semitism",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
     "time": "Mon, 14 Sep 2026"
   },
   {
-    "id": 880,
+    "id": 1481,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine - Russie : Trump annonce la fin mutuelle des frappes sur les sites énerg",
+    "text": "L'Ukraine se dit prête à des \"mesures de désescalade\" si la Russie fait de même",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260914-ukraine-russie-trump-annonce-la-fin-mutuelle-des-frappes-sur-les-sites-%C3%A9nerg%C3%A9tiques",
+    "link": "https://www.france24.com/fr/europe/20260914-ukraine-mesures-desescalade-russie-zelensky-infrastructures-energetiques-trump",
     "time": "Mon, 14 Sep 2026"
   },
   {
-    "id": 8053,
+    "id": 703,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine : pourquoi la Russie pousse la guerre toujours plus près des frontières ",
+    "text": "Des fausses vidéos pour illustrer les frappes houthis en Arabie Saoudite",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260914-ukraine-pourquoi-la-russie-pousse-la-guerre-toujours-plus-pr%C3%A8s-des-fronti%C3%A8res-avec-l-europe",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260914-des-fausses-vid%C3%A9os-pour-illustrer-les-frappes-houthis-en-arabie-saoudite",
     "time": "Mon, 14 Sep 2026"
   },
   {
-    "id": 1163,
+    "id": 2201,
+    "level": "high",
+    "country": "🌍",
+    "text": "Mali : le Premier ministre algérien Sifi Ghrieb à Bamako pour relancer la coopér",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260914-mali-le-premier-ministre-alg%C3%A9rien-sifi-ghrieb-%C3%A0-bamako-pour-relancer-la-coop%C3%A9ration",
+    "time": "Mon, 14 Sep 2026"
+  },
+  {
+    "id": 9493,
+    "level": "high",
+    "country": "🌍",
+    "text": "Le baril de pétrole à plus de 100 dollars alors que la tension monte au Moyen-Or",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260914-le-baril-de-p%C3%A9trole-%C3%A0-plus-de-100-dollars-alors-que-la-tension-monte-au-moyen-orient",
+    "time": "Mon, 14 Sep 2026"
+  },
+  {
+    "id": 9146,
+    "level": "high",
+    "country": "🌍",
+    "text": "Cisjordanie occupée : à Masafer Yatta, les habitants démunis face aux destructio",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20260914-cisjordanie-occup%C3%A9e-%C3%A0-masafer-yatta-les-habitants-d%C3%A9munis-face-aux-destructions-isra%C3%A9liennes",
+    "time": "Mon, 14 Sep 2026"
+  },
+  {
+    "id": 8607,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6150,
+    "id": 8335,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9893,
+    "id": 8731,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 749,
+    "id": 6529,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2217,
+    "id": 4236,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6281,
+    "id": 6164,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5978,
+    "id": 3421,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5037,
+    "id": 7164,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4939,
+    "id": 1168,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5480,
+    "id": 6033,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,39 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3401,
+    "id": 2669,
     "level": "medium",
     "country": "🌍",
     "text": "‘Nest-flix’ peregrine falcons become streaming stars of the 34th floor in Austra",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/14/nest-flix-peregrine-falcons-become-streaming-stars-of-the-34th-floor-in-australia/",
     "time": "Mon, 14 Sep 2026"
-  },
-  {
-    "id": 6229,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Who is responsible for protecting and preserving Indigenous cultures?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/14/who-is-responsible-for-protecting-and-preserving-indigenous-cultures/",
-    "time": "Mon, 14 Sep 2026"
-  },
-  {
-    "id": 9673,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What the commemoration of the 235th anniversary of Bois Caïman means for Haiti’s",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/13/what-the-commemoration-of-the-235th-anniversary-of-bois-caiman-means-for-haitis-memory-and-future/",
-    "time": "Sun, 13 Sep 2026"
-  },
-  {
-    "id": 3351,
-    "level": "medium",
-    "country": "🌍",
-    "text": "As Casablanca’s music scene grows, its musicians struggle",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/13/as-casablancas-music-scene-grows-its-musicians-struggle/",
-    "time": "Sun, 13 Sep 2026"
   }
 ]
