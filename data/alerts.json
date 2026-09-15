@@ -1,6 +1,6 @@
 [
   {
-    "id": 4114,
+    "id": 1978,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,61 +9,70 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 5535,
+    "id": 304,
     "level": "critical",
     "country": "🌍",
-    "text": "Eto’o could face Cameroon probe over alleged Russia payment",
+    "text": "Western intelligence warns of Iranian cyber threats targeting dissidents",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/9/15/etoo-could-face-cameroon-probe-over-alleged-russia-payment?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 9864,
+    "id": 8042,
     "level": "critical",
     "country": "🌍",
-    "text": "More than 100,000 displaced as they flee violence in Yemen: UN",
+    "text": "Kennedy Center closes amid financial crisis and Trump name dispute",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 4893,
+    "id": 5363,
     "level": "critical",
     "country": "🌍",
-    "text": "Syrie : 10 morts dans une émeute à Kobané",
-    "source": "France 24 Monde",
-    "link": "http://www.france24.com/fr/vid%C3%A9o/20260915-syrie-10-morts-dans-une-%C3%A9meute-%C3%A0-koban%C3%A9",
+    "text": "US speaker rejects AI pause, warns of losing edge to China",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 9497,
+    "id": 2697,
     "level": "critical",
     "country": "🌍",
-    "text": "Aux Emmy Awards, \"Widow's Bay\" et Matthew Rhys battent des records",
-    "source": "France 24 Monde",
-    "link": "http://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260915-aux-emmy-awards-widow-s-bay-et-matthew-rhys-battent-des-records",
+    "text": "NATO jet shoots down suspected Russian drone over Lithuania",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 8088,
+    "id": 7364,
     "level": "critical",
     "country": "🌍",
-    "text": "États-Unis : une \"pénurie\" de munitions liée à la guerre en Iran",
+    "text": "En France, la colère monte face aux prix du carburant en hausse",
     "source": "France 24 Monde",
-    "link": "http://www.france24.com/fr/vid%C3%A9o/20260915-%C3%A9tats-unis-une-p%C3%A9nurie-de-munitions-li%C3%A9e-%C3%A0-la-guerre-en-iran",
+    "link": "http://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260915-en-france-la-col%C3%A8re-monte-face-aux-prix-du-carburant-en-hausse",
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 4447,
+    "id": 7444,
     "level": "high",
     "country": "🌍",
-    "text": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+    "text": "Romanian shepards and farmers clash with police",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 8897,
+    "id": 5645,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ukraine : les inquiétantes routes des combattants africains recrutés par la Russ",
+    "source": "France 24 Monde",
+    "link": "http://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260915-ukraine-les-inqui%C3%A9tantes-routes-des-combattants-africains-recrut%C3%A9s-par-la-russie",
+    "time": "Tue, 15 Sep 2026"
+  },
+  {
+    "id": 9997,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4418,
+    "id": 4814,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8423,
+    "id": 1442,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8653,
+    "id": 6972,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8619,
+    "id": 4246,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6254,
+    "id": 5843,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3413,
+    "id": 1898,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2252,
+    "id": 1009,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3243,
+    "id": 9636,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 718,
+    "id": 6020,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9452,
+    "id": 2285,
     "level": "medium",
     "country": "🌍",
     "text": "What India’s ‘Cockroach’ protests reveal about digital authoritarianism",
@@ -162,21 +171,12 @@
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 362,
+    "id": 5190,
     "level": "medium",
     "country": "🌍",
     "text": "‘Nest-flix’ peregrine falcons become streaming stars of the 34th floor in Austra",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/14/nest-flix-peregrine-falcons-become-streaming-stars-of-the-34th-floor-in-australia/",
-    "time": "Mon, 14 Sep 2026"
-  },
-  {
-    "id": 6704,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Who is responsible for protecting and preserving Indigenous cultures?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/14/who-is-responsible-for-protecting-and-preserving-indigenous-cultures/",
     "time": "Mon, 14 Sep 2026"
   }
 ]
