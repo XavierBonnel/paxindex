@@ -1,6 +1,6 @@
 [
   {
-    "id": 1978,
+    "id": 2221,
     "level": "critical",
     "country": "🌍",
     "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
@@ -9,43 +9,43 @@
     "time": "Thu, 10 Sep 2026"
   },
   {
-    "id": 304,
+    "id": 2699,
     "level": "critical",
     "country": "🌍",
-    "text": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+    "text": "Iran war increasing inflation, straining US munitions: congressional report",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
+    "time": "Wed, 16 Sep 2026"
+  },
+  {
+    "id": 5661,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Iran’s top diplomat heads to China as war drags on",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
+    "time": "Wed, 16 Sep 2026"
+  },
+  {
+    "id": 4364,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 8042,
+    "id": 9643,
     "level": "critical",
     "country": "🌍",
-    "text": "Kennedy Center closes amid financial crisis and Trump name dispute",
+    "text": "Algeria faces calls to drop death penalty plans after wildfires",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/15/kennedy-center-closes-amid-financial-crisis-and-trump-name-dispute?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 5363,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US speaker rejects AI pause, warns of losing edge to China",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china?traffic_source=rss",
-    "time": "Tue, 15 Sep 2026"
-  },
-  {
-    "id": 2697,
-    "level": "critical",
-    "country": "🌍",
-    "text": "NATO jet shoots down suspected Russian drone over Lithuania",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
-    "time": "Tue, 15 Sep 2026"
-  },
-  {
-    "id": 7364,
+    "id": 8495,
     "level": "critical",
     "country": "🌍",
     "text": "En France, la colère monte face aux prix du carburant en hausse",
@@ -54,16 +54,7 @@
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 7444,
-    "level": "high",
-    "country": "🌍",
-    "text": "Romanian shepards and farmers clash with police",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/15/romanian-shepards-and-farmers-clash-with-police?traffic_source=rss",
-    "time": "Tue, 15 Sep 2026"
-  },
-  {
-    "id": 5645,
+    "id": 8848,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : les inquiétantes routes des combattants africains recrutés par la Russ",
@@ -72,7 +63,7 @@
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 9997,
+    "id": 3530,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4814,
+    "id": 2127,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1442,
+    "id": 796,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6972,
+    "id": 2115,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4246,
+    "id": 3599,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5843,
+    "id": 2171,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1898,
+    "id": 551,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1009,
+    "id": 2276,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9636,
+    "id": 7806,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6020,
+    "id": 5715,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2285,
+    "id": 3097,
     "level": "medium",
     "country": "🌍",
     "text": "What India’s ‘Cockroach’ protests reveal about digital authoritarianism",
@@ -171,12 +162,21 @@
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 5190,
+    "id": 3506,
     "level": "medium",
     "country": "🌍",
     "text": "‘Nest-flix’ peregrine falcons become streaming stars of the 34th floor in Austra",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/14/nest-flix-peregrine-falcons-become-streaming-stars-of-the-34th-floor-in-australia/",
+    "time": "Mon, 14 Sep 2026"
+  },
+  {
+    "id": 999,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who is responsible for protecting and preserving Indigenous cultures?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/14/who-is-responsible-for-protecting-and-preserving-indigenous-cultures/",
     "time": "Mon, 14 Sep 2026"
   }
 ]
