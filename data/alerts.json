@@ -1,60 +1,42 @@
 [
   {
-    "id": 5191,
+    "id": 3996,
     "level": "critical",
     "country": "🌍",
-    "text": "South Korean civil society says no to  military deployment in Straight of Hormuz",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/10/south-korean-civil-society-says-no-to-military-deployment-to-hormuz/",
-    "time": "Thu, 10 Sep 2026"
-  },
-  {
-    "id": 669,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Three dead after flooding inundates Navajo Nation in New Mexico",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/three-dead-after-flooding-inundates-navajo-nation-in-new-mexico?traffic_source=rss",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 991,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 116,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Législatives en Russie : Poutine appelle à voter pour assurer la victoire russe ",
+    "text": "Attaquée par les Houthis, l’Arabie saoudite découvre les limites de son alliance",
     "source": "France 24 Monde",
-    "link": "http://www.france24.com/fr/europe/20260916-legislatives-russie-poutine-appelle-%C3%A0-voter-pour-assurer-la-victoire-russe-en-ukraine",
-    "time": "Wed, 16 Sep 2026"
-  },
-  {
-    "id": 1383,
-    "level": "high",
-    "country": "🌍",
-    "text": "Congress passes sweeping US sanctions bill targeting Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
+    "link": "http://www.france24.com/fr/moyen-orient/20260917-houthis-yemen-arabie-saoudite-etats-unis-trump-mbs-iran-alliance-securite-menaces",
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 5121,
-    "level": "high",
+    "id": 3059,
+    "level": "critical",
     "country": "🌍",
-    "text": "US military claims Strait of Hormuz remains open amid ongoing blockade",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
-    "time": "Wed, 16 Sep 2026"
+    "text": "L'ex-président du Kosovo Hashim Thaçi condamné pour crimes de guerre par un trib",
+    "source": "France 24 Monde",
+    "link": "http://www.france24.com/fr/vid%C3%A9o/20260917-l-ex-pr%C3%A9sident-du-kosovo-hashim-tha%C3%A7i-condamn%C3%A9-pour-crimes-de-guerre-par-un-tribunal-sp%C3%A9cial",
+    "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 103,
+    "id": 3285,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine en direct : une vague de frappes russes fait 13 blessés à Kiev et Odessa",
+    "source": "France 24 Monde",
+    "link": "http://www.france24.com/fr/europe/20260917-en-direct-congres-americain-adopte-nouveau-paquet-sanctions-contre-russie-ukraine-explosions-kiev-zelensky-poutine-etats-unis",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 6131,
+    "level": "high",
+    "country": "🌍",
+    "text": "Moyen-Orient en direct : la France réunit ses partenaires à Paris pour soutenir ",
+    "source": "France 24 Monde",
+    "link": "http://www.france24.com/fr/moyen-orient/20260917-moyen-orient-en-direct-france-reunion-paris-soutien-armee-libanaise-yemen-houthis-arabie-saoudite",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 7033,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +45,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 406,
+    "id": 9221,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +54,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6128,
+    "id": 5584,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +63,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1357,
+    "id": 3248,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +72,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1524,
+    "id": 8278,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +81,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2614,
+    "id": 9448,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +90,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9627,
+    "id": 2531,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +99,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8305,
+    "id": 7657,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +108,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 286,
+    "id": 5780,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +117,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5920,
+    "id": 5290,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +126,16 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7445,
+    "id": 5633,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The long journey from ‘Indigenous’ to citizen in Mozambique",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/17/the-long-journey-from-indigenous-to-citizens-in-mozambique/",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 7264,
     "level": "medium",
     "country": "🌍",
     "text": "The A’uwẽ-Xavante people's denunciation of megaprojects in Brazil",
@@ -153,16 +144,16 @@
     "time": "Wed, 16 Sep 2026"
   },
   {
-    "id": 6080,
+    "id": 2151,
     "level": "medium",
     "country": "🌍",
-    "text": "Singapore's ‘permit regime’ undermines the citizens’ right to protest",
+    "text": "Singapore’s ‘permit regime’ undermines the citizens’ right to protest",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/16/singapores-permit-regime-undermines-the-citizens-right-to-protest/",
     "time": "Wed, 16 Sep 2026"
   },
   {
-    "id": 8063,
+    "id": 102,
     "level": "medium",
     "country": "🌍",
     "text": "What India’s ‘Cockroach’ protests reveal about digital authoritarianism",
@@ -171,12 +162,21 @@
     "time": "Tue, 15 Sep 2026"
   },
   {
-    "id": 3749,
+    "id": 4239,
     "level": "medium",
     "country": "🌍",
     "text": "‘Nest-flix’ peregrine falcons become streaming stars of the 34th floor in Austra",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/14/nest-flix-peregrine-falcons-become-streaming-stars-of-the-34th-floor-in-australia/",
+    "time": "Mon, 14 Sep 2026"
+  },
+  {
+    "id": 5389,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who is responsible for protecting and preserving Indigenous cultures?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/14/who-is-responsible-for-protecting-and-preserving-indigenous-cultures/",
     "time": "Mon, 14 Sep 2026"
   }
 ]
