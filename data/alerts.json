@@ -1,60 +1,96 @@
 [
   {
-    "id": 6464,
+    "id": 5372,
     "level": "critical",
     "country": "🌍",
-    "text": "‘The drought has left its mark’: Slovenia’s potato lovers lament low yields",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/the-drought-has-left-its-mark-slovenias-potato-lovers-lament-low-yields?traffic_source=rss",
+    "text": "Street art in Russia is dead and the country is full of monumental war art",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/17/street-art-in-russia-is-dead-and-the-country-is-full-of-monumental-war-art/",
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 298,
+    "id": 6490,
     "level": "critical",
     "country": "🌍",
-    "text": "Climate change had major role in triggering Nepal floods, scientists say",
+    "text": "The UK’s King Charles warns AI leaders of ‘existential dangers’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss",
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 3062,
+    "id": 5104,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza repairman helps journalists to keep documenting genocide",
+    "text": "UN fact-finding mission says US committed possible war crimes in Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 7685,
+    "id": 3719,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
+    "text": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 5741,
+    "id": 3892,
     "level": "critical",
     "country": "🌍",
-    "text": "Espagne : plusieurs inondations dans la région de Barcelone ont fait au moins un",
+    "text": "Ninth woman’s body found as South Africa probes series of killings",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 3742,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 7477,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'Est de l'Espagne en proie à de violentes inondations",
     "source": "France 24 Monde",
-    "link": "http://www.france24.com/fr/vid%C3%A9o/20260917-espagne-plusieurs-inondations-dans-la-r%C3%A9gion-de-barcelone-ont-fait-au-moins-un-mort",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260917-l-est-de-l-espagne-en-proie-%C3%A0-de-violentes-inondations",
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 9401,
+    "id": 6293,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Espagne : les images des inondations destructrices",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260917-espagne-les-images-des-inondations-destructrices",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 1926,
     "level": "high",
     "country": "🌍",
-    "text": "France : Macron réunit le président libanais et le roi de Jordanie à Paris",
-    "source": "France 24 Monde",
-    "link": "http://www.france24.com/fr/vid%C3%A9o/20260917-france-macron-r%C3%A9unit-le-pr%C3%A9sident-libanais-et-le-roi-de-jordanie-%C3%A0-paris",
+    "text": "What are all the sanctions Iran is under?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss",
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 3255,
+    "id": 4570,
+    "level": "high",
+    "country": "🌍",
+    "text": "Sanctions contre la CPI : \"C’est difficile, mais cela ne nous empêchera pas de f",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260917-sanctions-contre-cpi-difficile-mais-cela-ne-nous-emp%C3%AAchera-pas-faire-notre-travail-trump-%C3%A9tats-unis-isra%C3%ABl-gaza",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 4079,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1862,
+    "id": 5687,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8740,
+    "id": 1907,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9383,
+    "id": 421,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2756,
+    "id": 7263,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4981,
+    "id": 5706,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1218,
+    "id": 2282,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2965,
+    "id": 8225,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 183,
+    "id": 8893,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,48 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5546,
+    "id": 4966,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 1003,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The long journey from ‘Indigenous’ to citizen in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/17/the-long-journey-from-indigenous-to-citizens-in-mozambique/",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 5611,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The A’uwẽ-Xavante people's denunciation of megaprojects in Brazil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/16/the-auwe-xavante-peoples-denunciation-of-megaprojects-in-brazil/",
-    "time": "Wed, 16 Sep 2026"
-  },
-  {
-    "id": 3396,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Singapore’s ‘permit regime’ undermines the citizens’ right to protest",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/16/singapores-permit-regime-undermines-the-citizens-right-to-protest/",
-    "time": "Wed, 16 Sep 2026"
-  },
-  {
-    "id": 6812,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What India’s ‘Cockroach’ protests reveal about digital authoritarianism",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/15/what-indias-cockroach-protests-reveal-about-digital-authoritarianism/",
-    "time": "Tue, 15 Sep 2026"
   }
 ]
