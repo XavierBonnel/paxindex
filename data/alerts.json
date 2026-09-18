@@ -1,6 +1,6 @@
 [
   {
-    "id": 8389,
+    "id": 9254,
     "level": "critical",
     "country": "🌍",
     "text": "Street art in Russia is dead and the country is full of monumental war art",
@@ -9,7 +9,16 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 2949,
+    "id": 1636,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 3406,
     "level": "critical",
     "country": "🌍",
     "text": "Trump administration approves sale of F-35 jets to Saudi Arabia",
@@ -18,16 +27,7 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 6487,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least 26 killed in clashes along Sudan-South Sudan border region",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 3632,
+    "id": 655,
     "level": "critical",
     "country": "🌍",
     "text": "Afrique du Sud : une série de féminicides suscite l’émoi à Johannesburg",
@@ -36,16 +36,25 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 6011,
+    "id": 6946,
     "level": "high",
     "country": "🌍",
-    "text": "Russia, China veto UN mandate to monitor Iran sanctions",
+    "text": "US approves $414M uranium investment in Niger, two years after troops left",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 9212,
+    "id": 3472,
+    "level": "high",
+    "country": "🌍",
+    "text": "Création d'une base américaine en Pologne : Donald Trump fait état de \"progrès m",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260917-pologne-etats-unis-base-americaine-donald-trump-progres-majeurs-lituanie",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 2632,
     "level": "high",
     "country": "🌍",
     "text": "Énergie : la France paye le prix fort ?",
@@ -54,16 +63,7 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 1935,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israël : à un mois des législatives, le documentaire \"Naza\" pris dans une tempêt",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260917-isra%C3%ABl-l%C3%A9gislatives-documentaire-naza-temp%C3%AAte-politique-netanyahu-gaza",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 9019,
+    "id": 5247,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2555,
+    "id": 9362,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2793,
+    "id": 1884,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9731,
+    "id": 7926,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4689,
+    "id": 2399,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5137,
+    "id": 5408,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 582,
+    "id": 785,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4784,
+    "id": 6324,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4214,
+    "id": 6787,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4548,
+    "id": 1338,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 228,
+    "id": 5748,
     "level": "medium",
     "country": "🌍",
     "text": "The long journey from ‘Indigenous’ to citizen in Mozambique",
@@ -162,7 +162,7 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 4682,
+    "id": 8088,
     "level": "medium",
     "country": "🌍",
     "text": "The A’uwẽ-Xavante people's denunciation of megaprojects in Brazil",
@@ -171,7 +171,7 @@
     "time": "Wed, 16 Sep 2026"
   },
   {
-    "id": 4493,
+    "id": 3540,
     "level": "medium",
     "country": "🌍",
     "text": "Singapore’s ‘permit regime’ undermines the citizens’ right to protest",
