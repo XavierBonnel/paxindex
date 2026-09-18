@@ -1,6 +1,6 @@
 [
   {
-    "id": 9254,
+    "id": 1310,
     "level": "critical",
     "country": "🌍",
     "text": "Street art in Russia is dead and the country is full of monumental war art",
@@ -9,61 +9,79 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 1636,
+    "id": 323,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump weighs ‘big decision’ on Iran, tanker hit in Hormuz",
+    "text": "In Yemen, war at home and in the region drives up prices",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss",
     "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 3406,
+    "id": 2804,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+    "text": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
-    "time": "Thu, 17 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
+    "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 655,
+    "id": 2860,
     "level": "critical",
     "country": "🌍",
-    "text": "Afrique du Sud : une série de féminicides suscite l’émoi à Johannesburg",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260917-afrique-du-sud-une-s%C3%A9rie-de-f%C3%A9minicides-suscite-l-%C3%A9moi-%C3%A0-johannesburg",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 6946,
-    "level": "high",
-    "country": "🌍",
-    "text": "US approves $414M uranium investment in Niger, two years after troops left",
+    "text": "Fire engulfs Zaporizhzhia shopping centre after Russian strike",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
-    "time": "Thu, 17 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss",
+    "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 3472,
+    "id": 3986,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russie : coup d'envoi des législatives sur fond de guerre avec l'Ukraine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-russie-les-l%C3%A9gislatives-s-ouvrent-en-pleine-guerre-en-ukraine",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 6874,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-le-congr%C3%A8s-am%C3%A9ricain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 3653,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Coup d'envoi des législatives en Russie sur fond de guerre avec l'Ukraine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260918-russie-coup-envoi-trois-jours-l%C3%A9gislatives-fond-guerre-ukraine",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 2123,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au Nigeria, 37 mineurs en situation illégale retrouvés morts en détention",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20260918-au-nigeria-37-mineurs-ill%C3%A9gaux-d%C3%A9tenus-retrouv%C3%A9s-morts-en-d%C3%A9tention",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 1600,
     "level": "high",
     "country": "🌍",
-    "text": "Création d'une base américaine en Pologne : Donald Trump fait état de \"progrès m",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260917-pologne-etats-unis-base-americaine-donald-trump-progres-majeurs-lituanie",
-    "time": "Thu, 17 Sep 2026"
+    "text": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss",
+    "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 2632,
-    "level": "high",
-    "country": "🌍",
-    "text": "Énergie : la France paye le prix fort ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260917-%C3%A9nergie-la-france-paye-le-prix-fort",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 5247,
+    "id": 1197,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9362,
+    "id": 9738,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1884,
+    "id": 9174,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7926,
+    "id": 9539,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2399,
+    "id": 1639,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5408,
+    "id": 3446,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 785,
+    "id": 6209,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6324,
+    "id": 7613,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6787,
+    "id": 9712,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1338,
+    "id": 4352,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,30 +171,12 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5748,
+    "id": 2959,
     "level": "medium",
     "country": "🌍",
-    "text": "The long journey from ‘Indigenous’ to citizen in Mozambique",
+    "text": "Ecuador detains former minister José Serrano after U.S. deportation",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/17/the-long-journey-from-indigenous-to-citizens-in-mozambique/",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 8088,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The A’uwẽ-Xavante people's denunciation of megaprojects in Brazil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/16/the-auwe-xavante-peoples-denunciation-of-megaprojects-in-brazil/",
-    "time": "Wed, 16 Sep 2026"
-  },
-  {
-    "id": 3540,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Singapore’s ‘permit regime’ undermines the citizens’ right to protest",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/16/singapores-permit-regime-undermines-the-citizens-right-to-protest/",
-    "time": "Wed, 16 Sep 2026"
+    "link": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation/",
+    "time": "Fri, 18 Sep 2026"
   }
 ]
