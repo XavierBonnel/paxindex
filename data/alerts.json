@@ -1,6 +1,6 @@
 [
   {
-    "id": 1310,
+    "id": 208,
     "level": "critical",
     "country": "🌍",
     "text": "Street art in Russia is dead and the country is full of monumental war art",
@@ -9,79 +9,61 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 323,
+    "id": 5795,
     "level": "critical",
     "country": "🌍",
-    "text": "In Yemen, war at home and in the region drives up prices",
+    "text": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss",
     "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 2804,
+    "id": 4874,
     "level": "critical",
     "country": "🌍",
-    "text": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
+    "text": "Deadly blast hits mosque at Pakistan police complex",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/09-18-26-pakistan-blast?traffic_source=rss",
     "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 2860,
+    "id": 5537,
     "level": "critical",
     "country": "🌍",
-    "text": "Fire engulfs Zaporizhzhia shopping centre after Russian strike",
+    "text": "United Nations says US may have committed war crimes in Iran: What it means",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/fire-engulfs-zaporizhzhia-shopping-centre-after-russian-strike?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
     "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 3986,
+    "id": 2318,
     "level": "critical",
     "country": "🌍",
-    "text": "Russie : coup d'envoi des législatives sur fond de guerre avec l'Ukraine",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-russie-les-l%C3%A9gislatives-s-ouvrent-en-pleine-guerre-en-ukraine",
-    "time": "Fri, 18 Sep 2026"
-  },
-  {
-    "id": 6874,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-le-congr%C3%A8s-am%C3%A9ricain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie",
-    "time": "Fri, 18 Sep 2026"
-  },
-  {
-    "id": 3653,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Coup d'envoi des législatives en Russie sur fond de guerre avec l'Ukraine",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260918-russie-coup-envoi-trois-jours-l%C3%A9gislatives-fond-guerre-ukraine",
-    "time": "Fri, 18 Sep 2026"
-  },
-  {
-    "id": 2123,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au Nigeria, 37 mineurs en situation illégale retrouvés morts en détention",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20260918-au-nigeria-37-mineurs-ill%C3%A9gaux-d%C3%A9tenus-retrouv%C3%A9s-morts-en-d%C3%A9tention",
-    "time": "Fri, 18 Sep 2026"
-  },
-  {
-    "id": 1600,
-    "level": "high",
-    "country": "🌍",
-    "text": "‘Outrageous lies’: How Israeli voters are shrugging off Western sanctions",
+    "text": "‘My children did not attack Iran’: 2bn South Asians suffer from distant war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/18/outrageous-lies-how-israeli-voters-are-shrugging-off-western-sanctions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
     "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 1197,
+    "id": 977,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Cette vidéo ne prouve pas qu’aucun avion ne s’est écrasé sur les Twin Towers le ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260918-cette-vid%C3%A9o-ne-prouve-pas-aucun-avion-%C3%A9cras%C3%A9-sur-twin-towers-11-septembre-2001",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 6663,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Afrique du Sud : neuf femmes ont été retrouvées mortes en deux mois",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-afrique-du-sud-neuf-femmes-ont-%C3%A9t%C3%A9-retrouv%C3%A9es-mortes-en-deux-mois",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 4815,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9738,
+    "id": 9765,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9174,
+    "id": 7057,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9539,
+    "id": 8331,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1639,
+    "id": 9862,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3446,
+    "id": 277,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6209,
+    "id": 5272,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7613,
+    "id": 2933,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9712,
+    "id": 1385,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4352,
+    "id": 7953,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +153,30 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 2959,
+    "id": 5114,
     "level": "medium",
     "country": "🌍",
     "text": "Ecuador detains former minister José Serrano after U.S. deportation",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation/",
     "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 6627,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The long journey from ‘Indigenous’ to citizen in Mozambique",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/17/the-long-journey-from-indigenous-to-citizens-in-mozambique/",
+    "time": "Thu, 17 Sep 2026"
+  },
+  {
+    "id": 3073,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The A’uwẽ-Xavante people's denunciation of megaprojects in Brazil",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/16/the-auwe-xavante-peoples-denunciation-of-megaprojects-in-brazil/",
+    "time": "Wed, 16 Sep 2026"
   }
 ]
