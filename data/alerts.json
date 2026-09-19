@@ -1,6 +1,6 @@
 [
   {
-    "id": 6580,
+    "id": 6418,
     "level": "critical",
     "country": "🌍",
     "text": "Street art in Russia is dead and the country is full of monumental war art",
@@ -9,43 +9,34 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 2668,
+    "id": 5016,
     "level": "critical",
     "country": "🌍",
-    "text": "Report: More US troops have died in Iran war than Pentagon says",
+    "text": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
     "time": "Sat, 19 Sep 2026"
   },
   {
-    "id": 3067,
+    "id": 799,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump signs sweeping Russia sanctions over Ukraine war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+    "text": "Dans l'est de l'Europe, les monuments de l’Armée rouge au cœur d’une guerre des ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260919-europe-est-monument-urss-armee-rouge-seconde-guerre-mondiale-conflit-m%C3%A9moire-russie-ukraine-pologne-balte",
     "time": "Sat, 19 Sep 2026"
   },
   {
-    "id": 2673,
+    "id": 7374,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+    "text": "En direct : une frappe russe dans l'est de l'Ukraine fait au moins deux morts",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260919-en-direct-une-frappe-russe-dans-l-est-de-l-ukraine-fait-au-moins-deux-morts",
     "time": "Sat, 19 Sep 2026"
   },
   {
-    "id": 4511,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
-    "time": "Sat, 19 Sep 2026"
-  },
-  {
-    "id": 9309,
+    "id": 7200,
     "level": "critical",
     "country": "🌍",
     "text": "Fatoumata Diawara : avec « MASSA », l’intime devient universel",
@@ -54,7 +45,25 @@
     "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 8890,
+    "id": 1794,
+    "level": "high",
+    "country": "🌍",
+    "text": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
+    "time": "Sat, 19 Sep 2026"
+  },
+  {
+    "id": 3092,
+    "level": "high",
+    "country": "🌍",
+    "text": "Could US pull one-third of troops from Europe? What that would mean",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
+    "time": "Sat, 19 Sep 2026"
+  },
+  {
+    "id": 6632,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2808,
+    "id": 7215,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6722,
+    "id": 5984,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5004,
+    "id": 1260,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3579,
+    "id": 7335,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6135,
+    "id": 6610,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4988,
+    "id": 1929,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4099,
+    "id": 6204,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4494,
+    "id": 417,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3973,
+    "id": 3309,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,16 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7221,
+    "id": 1853,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘A place of silence, contemplation, and beauty can also become a form of resista",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/19/a-place-of-silence-contemplation-and-beauty-can-also-become-a-form-of-resistance-in-conversation-with-catalan-artist-jaume-amigo/",
+    "time": "Sat, 19 Sep 2026"
+  },
+  {
+    "id": 9790,
     "level": "medium",
     "country": "🌍",
     "text": "How Togolese people are reinventing political protest amid civil society crackdo",
@@ -153,30 +171,12 @@
     "time": "Fri, 18 Sep 2026"
   },
   {
-    "id": 2792,
+    "id": 8630,
     "level": "medium",
     "country": "🌍",
     "text": "Ecuador detains former minister José Serrano after U.S. deportation",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation/",
     "time": "Fri, 18 Sep 2026"
-  },
-  {
-    "id": 3599,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The long journey from ‘Indigenous’ to citizen in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/17/the-long-journey-from-indigenous-to-citizens-in-mozambique/",
-    "time": "Thu, 17 Sep 2026"
-  },
-  {
-    "id": 6512,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The A’uwẽ-Xavante people's denunciation of megaprojects in Brazil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/16/the-auwe-xavante-peoples-denunciation-of-megaprojects-in-brazil/",
-    "time": "Wed, 16 Sep 2026"
   }
 ]
