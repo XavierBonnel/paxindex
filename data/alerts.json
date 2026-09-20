@@ -1,6 +1,6 @@
 [
   {
-    "id": 5483,
+    "id": 6517,
     "level": "critical",
     "country": "🌍",
     "text": "Street art in Russia is dead and the country is full of monumental war art",
@@ -9,70 +9,25 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 1327,
+    "id": 6311,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+    "text": "Tunisian protesters demand release of four Sumud activists",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/20/tunisian-protesters-demand-release-of-four-sumud-activists?traffic_source=rss",
     "time": "Sun, 20 Sep 2026"
   },
   {
-    "id": 8731,
+    "id": 8458,
     "level": "critical",
     "country": "🌍",
-    "text": "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+    "text": "Peruvian journalist shot dead after threatening to expose police",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/19/turkiye-backs-saudi-arabias-security-amid-escalating-houthi-attacks-fm?traffic_source=rss",
-    "time": "Sat, 19 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/peruvian-journalist-shot-dead-after-threatening-to-expose-police?traffic_source=rss",
+    "time": "Sun, 20 Sep 2026"
   },
   {
-    "id": 8065,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-    "time": "Sat, 19 Sep 2026"
-  },
-  {
-    "id": 8,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-    "time": "Sat, 19 Sep 2026"
-  },
-  {
-    "id": 1087,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
-    "time": "Sat, 19 Sep 2026"
-  },
-  {
-    "id": 3015,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-    "time": "Sat, 19 Sep 2026"
-  },
-  {
-    "id": 6746,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Canadians warm to EU ‘associate membership’ proposal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-    "time": "Sat, 19 Sep 2026"
-  },
-  {
-    "id": 8571,
+    "id": 155,
     "level": "critical",
     "country": "🌍",
     "text": "Mali: le bilan de l’attaque des jihadistes à Dioura s’alourdit à une centaine de",
@@ -81,7 +36,7 @@
     "time": "Sat, 19 Sep 2026"
   },
   {
-    "id": 4895,
+    "id": 484,
     "level": "high",
     "country": "🌍",
     "text": "Arabie saoudite : flammes et fumée noire visibles près de l'aéroport de Ryad",
@@ -90,7 +45,7 @@
     "time": "Sat, 19 Sep 2026"
   },
   {
-    "id": 8637,
+    "id": 49,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +54,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6013,
+    "id": 5352,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +63,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7183,
+    "id": 220,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +72,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5303,
+    "id": 7438,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +81,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6190,
+    "id": 7451,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +90,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5535,
+    "id": 5589,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +99,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1669,
+    "id": 6602,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +108,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7727,
+    "id": 1527,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +117,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8926,
+    "id": 9458,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +126,57 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7393,
+    "id": 7104,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 773,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How journalism inspired a youth-led initiative against online harm in Armenia",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/19/how-journalism-inspired-a-youth-led-initiative-against-online-harm-in-armenia/",
+    "time": "Sat, 19 Sep 2026"
+  },
+  {
+    "id": 7503,
+    "level": "medium",
+    "country": "🌍",
+    "text": "‘A place of silence, contemplation, and beauty can also become a form of resista",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/19/a-place-of-silence-contemplation-and-beauty-can-also-become-a-form-of-resistance-in-conversation-with-catalan-artist-jaume-amigo/",
+    "time": "Sat, 19 Sep 2026"
+  },
+  {
+    "id": 4867,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How Togolese people are reinventing political protest amid civil society crackdo",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/18/how-togolese-people-are-reinventing-political-protest-amid-civil-society-crackdown/",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 10,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ecuador detains former minister José Serrano after U.S. deportation",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/18/ecuador-detains-former-minister-jose-serrano-after-u-s-deportation/",
+    "time": "Fri, 18 Sep 2026"
+  },
+  {
+    "id": 8571,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The long journey from ‘Indigenous’ to citizen in Mozambique",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/17/the-long-journey-from-indigenous-to-citizens-in-mozambique/",
+    "time": "Thu, 17 Sep 2026"
   }
 ]
