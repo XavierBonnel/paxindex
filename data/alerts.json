@@ -1,6 +1,24 @@
 [
   {
-    "id": 632,
+    "id": 5864,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian TikTokers wanted to vote for an anti-war agenda. Putin's farce elections",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/21/russian-tiktokers-wanted-to-vote-for-an-anti-war-agenda-putins-farce-elections-did-not-allow-that/",
+    "time": "Mon, 21 Sep 2026"
+  },
+  {
+    "id": 6669,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The commodification of Indigenous cultures and traditions",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/21/the-commodification-of-indigenous-cultures-and-traditions/",
+    "time": "Mon, 21 Sep 2026"
+  },
+  {
+    "id": 7828,
     "level": "critical",
     "country": "🌍",
     "text": "Street art in Russia is dead and the country is full of monumental war art",
@@ -9,70 +27,43 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 26,
+    "id": 772,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran’s military says US preparing to resume strikes",
+    "text": "Inside Kazakhstan’s push to become a regional AI centre",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 4523,
+    "id": 2393,
     "level": "critical",
     "country": "🌍",
-    "text": "Ethiopian armed groups forge alliance against government",
+    "text": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 4644,
+    "id": 5130,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+    "text": "Israeli attacks on Gaza kill three, including a child",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 9581,
+    "id": 3244,
     "level": "critical",
     "country": "🌍",
-    "text": "Ruling party dominates early results in Russia’s wartime parliamentary vote",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
-    "time": "Sun, 20 Sep 2026"
-  },
-  {
-    "id": 4856,
-    "level": "high",
-    "country": "🌍",
-    "text": "Massive explosions at Syrian army weapons depot near Aleppo",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss",
+    "text": "Prix des carburants : la crise dans le détroit d'Ormuz rattrape la France",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260921-prix-des-carburants-la-crise-dans-le-d%C3%A9troit-d-ormuz-rattrape-la-france",
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 8414,
-    "level": "high",
-    "country": "🌍",
-    "text": "Powerful explosions at Syrian army site near Aleppo injure at least four",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
-    "time": "Mon, 21 Sep 2026"
-  },
-  {
-    "id": 1766,
-    "level": "high",
-    "country": "🌍",
-    "text": "Trump administration readies sweeping sanctions against ICC, reports say",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-    "time": "Mon, 21 Sep 2026"
-  },
-  {
-    "id": 9548,
+    "id": 7475,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5191,
+    "id": 8648,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3096,
+    "id": 1646,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 843,
+    "id": 3272,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5520,
+    "id": 2466,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5175,
+    "id": 1019,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7895,
+    "id": 8100,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1928,
+    "id": 5408,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8628,
+    "id": 522,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9532,
+    "id": 4995,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,16 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 845,
+    "id": 8986,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What deep sea mining could mean for Jamaica’s fisherfolk",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/21/what-deep-sea-mining-could-mean-for-jamaicas-fisherfolk/",
+    "time": "Mon, 21 Sep 2026"
+  },
+  {
+    "id": 8376,
     "level": "medium",
     "country": "🌍",
     "text": "How two elections reshaped the India–Bangladesh border",
@@ -171,7 +171,7 @@
     "time": "Sun, 20 Sep 2026"
   },
   {
-    "id": 6671,
+    "id": 6410,
     "level": "medium",
     "country": "🌍",
     "text": "From the streets to the ballot box: What Hungary can teach Serbia",
