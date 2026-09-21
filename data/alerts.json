@@ -1,6 +1,6 @@
 [
   {
-    "id": 4805,
+    "id": 632,
     "level": "critical",
     "country": "🌍",
     "text": "Street art in Russia is dead and the country is full of monumental war art",
@@ -9,52 +9,70 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 2935,
+    "id": 26,
     "level": "critical",
     "country": "🌍",
-    "text": "Polls close in Russian wartime election with ruling party set to dominate",
+    "text": "Iran’s military says US preparing to resume strikes",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
+    "time": "Mon, 21 Sep 2026"
+  },
+  {
+    "id": 4523,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ethiopian armed groups forge alliance against government",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+    "time": "Mon, 21 Sep 2026"
+  },
+  {
+    "id": 4644,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+    "time": "Mon, 21 Sep 2026"
+  },
+  {
+    "id": 9581,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ruling party dominates early results in Russia’s wartime parliamentary vote",
     "source": "Al Jazeera English",
     "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
     "time": "Sun, 20 Sep 2026"
   },
   {
-    "id": 1517,
-    "level": "critical",
+    "id": 4856,
+    "level": "high",
     "country": "🌍",
-    "text": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+    "text": "Massive explosions at Syrian army weapons depot near Aleppo",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
-    "time": "Sun, 20 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleppo-depot-explosions-reported-mp4?traffic_source=rss",
+    "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 3160,
-    "level": "critical",
+    "id": 8414,
+    "level": "high",
     "country": "🌍",
-    "text": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+    "text": "Powerful explosions at Syrian army site near Aleppo injure at least four",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
-    "time": "Sun, 20 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
+    "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 3139,
-    "level": "critical",
+    "id": 1766,
+    "level": "high",
     "country": "🌍",
-    "text": "How will Saudi Arabia deal with the Houthis?",
+    "text": "Trump administration readies sweeping sanctions against ICC, reports say",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
-    "time": "Sun, 20 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
+    "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 9921,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Au Nigeria, les familles des 37 mineurs morts à Minna, dans le centre du pays, r",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260920-au-nigeria-les-familles-des-37-mineurs-morts-%C3%A0-minna-dans-le-centre-du-pays-r%C3%A9clament-justice",
-    "time": "Sun, 20 Sep 2026"
-  },
-  {
-    "id": 1795,
+    "id": 9548,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5892,
+    "id": 5191,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7991,
+    "id": 3096,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2170,
+    "id": 843,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1822,
+    "id": 5520,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4703,
+    "id": 5175,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9767,
+    "id": 7895,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9477,
+    "id": 1928,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4753,
+    "id": 8628,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3012,
+    "id": 9532,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 3436,
+    "id": 845,
     "level": "medium",
     "country": "🌍",
     "text": "How two elections reshaped the India–Bangladesh border",
@@ -153,30 +171,12 @@
     "time": "Sun, 20 Sep 2026"
   },
   {
-    "id": 811,
+    "id": 6671,
     "level": "medium",
     "country": "🌍",
     "text": "From the streets to the ballot box: What Hungary can teach Serbia",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/20/from-the-streets-to-the-ballot-box-what-hungary-can-teach-serbia/",
     "time": "Sun, 20 Sep 2026"
-  },
-  {
-    "id": 4552,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How journalism inspired a youth-led initiative against online harm in Armenia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/19/how-journalism-inspired-a-youth-led-initiative-against-online-harm-in-armenia/",
-    "time": "Sat, 19 Sep 2026"
-  },
-  {
-    "id": 2477,
-    "level": "medium",
-    "country": "🌍",
-    "text": "‘A place of silence, contemplation, and beauty can also become a form of resista",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/19/a-place-of-silence-contemplation-and-beauty-can-also-become-a-form-of-resistance-in-conversation-with-catalan-artist-jaume-amigo/",
-    "time": "Sat, 19 Sep 2026"
   }
 ]
