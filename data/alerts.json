@@ -1,6 +1,6 @@
 [
   {
-    "id": 1495,
+    "id": 8035,
     "level": "critical",
     "country": "🌍",
     "text": "Russian TikTokers wanted to vote for an anti-war agenda. Putin's farce elections",
@@ -9,7 +9,7 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 8245,
+    "id": 2967,
     "level": "critical",
     "country": "🌍",
     "text": "The commodification of Indigenous cultures and traditions",
@@ -18,70 +18,79 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 5909,
+    "id": 5058,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
+    "text": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
     "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 1182,
+    "id": 4752,
     "level": "critical",
     "country": "🌍",
-    "text": "Hundreds flee homes in Far North Cameroon after armed group raid kills 15",
+    "text": "Sudan’s historical famine echoes through latest hunger crisis",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/22/hundreds-flee-homes-in-far-north-cameroon-after-armed-group-raid-kills-15?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
     "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 2089,
+    "id": 3013,
     "level": "critical",
     "country": "🌍",
-    "text": "UN warns of rising Yemen displacement as thousands flee to Djibouti",
+    "text": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/22/un-warns-of-rising-yemen-displacement-as-thousands-flee-to-djibouti?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
     "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 9055,
+    "id": 7434,
     "level": "critical",
     "country": "🌍",
-    "text": "Sri Lanka court convicts 15 over deadly Easter Sunday bombings",
+    "text": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/22/sri-lanka-court-convicts-14-over-deadly-easter-bombings?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
     "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 5063,
+    "id": 3677,
     "level": "critical",
     "country": "🌍",
-    "text": "🔴 En direct : Donald Trump s'adresse à l'Assemblée générale de l'ONU en pleine g",
+    "text": "Trump: ‘My honour to settle eight wars’ including ‘war in Gaza’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-my-honour-to-settle-eight-wars-including-war-in-gaza?traffic_source=rss",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 5000,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'ONU démunie face au désordre mondial ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260922-assembl%C3%A9e-g%C3%A9n%C3%A9rale-onu-en-direct-ouverture-guterres-trump-lula-erdogan-macron-takaichi-burnham-zelensky-moyen-orient-ukraine",
+    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260922-l-onu-d%C3%A9munie-face-au-d%C3%A9sordre-mondial",
     "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 7683,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Royaume-Uni : sortie d'un livre choc, 29 ans après la mort de Lady Diana",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260922-royaume-uni-sortie-d-un-livre-choc-29-ans-apr%C3%A8s-la-mort-de-lady-diana",
-    "time": "Tue, 22 Sep 2026"
-  },
-  {
-    "id": 6382,
+    "id": 9288,
     "level": "high",
     "country": "🌍",
-    "text": "Guatemala : première livraison d'armes depuis la fin de l'embargo militaire",
+    "text": "ONU : retour sur le discours de Trump qui \"réaffirme\" sa \"puissance\"",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260922-guatemala-premi%C3%A8re-livraison-d-armes-depuis-la-fin-de-l-embargo-militaire",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260922-onu-retour-sur-le-discours-de-trump-qui-r%C3%A9affirme-sa-puissance",
     "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 5212,
+    "id": 4625,
+    "level": "high",
+    "country": "🌍",
+    "text": "Donald Trump signe avec le Danemark et le Groenland un accord après des mois de ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260922-donald-trump-signe-avec-le-danemark-et-le-groenland-un-accord-apr%C3%A8s-des-mois-de-tensions",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 8871,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8759,
+    "id": 6572,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6429,
+    "id": 364,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1197,
+    "id": 8466,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9594,
+    "id": 2569,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1587,
+    "id": 9719,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2635,
+    "id": 7031,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3283,
+    "id": 8393,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9690,
+    "id": 8427,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,21 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2397,
+    "id": 3922,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 6613,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Technology-facilitated trafficking: How Bangladeshi migrants become victims of r",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/22/technology-facilitated-trafficking-how-bangladeshi-migrants-become-victims-of-recruitment-in-cambodia/",
-    "time": "Tue, 22 Sep 2026"
   }
 ]
