@@ -1,6 +1,6 @@
 [
   {
-    "id": 5702,
+    "id": 1920,
     "level": "critical",
     "country": "🌍",
     "text": "Russian TikTokers wanted to vote for an anti-war agenda. Putin's farce elections",
@@ -9,7 +9,7 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 6312,
+    "id": 4494,
     "level": "critical",
     "country": "🌍",
     "text": "The commodification of Indigenous cultures and traditions",
@@ -18,7 +18,7 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 8909,
+    "id": 1911,
     "level": "critical",
     "country": "🌍",
     "text": "Street art in Russia is dead and the country is full of monumental war art",
@@ -27,34 +27,88 @@
     "time": "Thu, 17 Sep 2026"
   },
   {
-    "id": 6264,
+    "id": 1968,
     "level": "critical",
     "country": "🌍",
-    "text": "Putin’s party wins supermajority in Russia’s parliamentary election",
+    "text": "US strikes on alleged drug boats may be ‘crimes against humanity’, UN says",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
-    "time": "Mon, 21 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss",
+    "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 5903,
+    "id": 7790,
     "level": "critical",
     "country": "🌍",
-    "text": "FAA halts flights to major US East Coast airports amid outage",
+    "text": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss",
-    "time": "Mon, 21 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+    "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 5987,
+    "id": 2337,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Here’s what to pay attention to at the UNGA",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 4178,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump returns to the UN, what will he say?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 2977,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UK to refuel Saudi jets to help counter Houthi attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 9673,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fusion Paramount-Warner Bros : la saga continue, un accord trouvé avec douze Éta",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260922-fusion-paramount-warner-bros-la-saga-continue-un-accord-trouv%C3%A9-avec-douze-%C3%A9tats-am%C3%A9ricains",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 6856,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rachat contesté de Warner Bros Discovery : un accord trouvé entre Paramount et 1",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260922-accord-paramount-12-etats-americains-ouvre-voie-rachat-warner-bros-discovery-cinema-californie-justice-television",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 6411,
     "level": "high",
     "country": "🌍",
-    "text": "Former ‘death squad’ leader appears in military trial in The Gambia",
+    "text": "Influencers Jake and Logan Paul visit the Pentagon",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
-    "time": "Mon, 21 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss",
+    "time": "Tue, 22 Sep 2026"
   },
   {
-    "id": 647,
+    "id": 7475,
+    "level": "high",
+    "country": "🌍",
+    "text": "Pas d'accord sur la levée des sanctions UE contre deux oligarques russes, les di",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260922-pas-accord-principe-sur-levee-sanctions-union-europeenne-contre-deux-oligarques-russes-discussions-continuent-ousmanov-fridman",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 2107,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7854,
+    "id": 2160,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2085,
+    "id": 5260,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5312,
+    "id": 9971,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 627,
+    "id": 3359,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7948,
+    "id": 6653,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6543,
+    "id": 6348,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,66 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6806,
+    "id": 9967,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 9037,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 4359,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 2293,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What deep sea mining could mean for Jamaica’s fisherfolk",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/21/what-deep-sea-mining-could-mean-for-jamaicas-fisherfolk/",
-    "time": "Mon, 21 Sep 2026"
-  },
-  {
-    "id": 2504,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How two elections reshaped the India–Bangladesh border",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/20/how-two-elections-reshaped-the-india-bangladesh-border/",
-    "time": "Sun, 20 Sep 2026"
-  },
-  {
-    "id": 2803,
-    "level": "medium",
-    "country": "🌍",
-    "text": "From the streets to the ballot box: What Hungary can teach Serbia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/20/from-the-streets-to-the-ballot-box-what-hungary-can-teach-serbia/",
-    "time": "Sun, 20 Sep 2026"
-  },
-  {
-    "id": 817,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How journalism inspired a youth-led initiative against online harm in Armenia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/19/how-journalism-inspired-a-youth-led-initiative-against-online-harm-in-armenia/",
-    "time": "Sat, 19 Sep 2026"
   }
 ]
