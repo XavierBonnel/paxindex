@@ -1,6 +1,15 @@
 [
   {
-    "id": 5526,
+    "id": 8021,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pskov’s medieval religious art is being appropriated by the Russian state to sup",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/23/pskovs-medieval-religious-art-is-being-appropriated-by-the-russian-state-to-support-the-invasion-of-ukraine/",
+    "time": "Wed, 23 Sep 2026"
+  },
+  {
+    "id": 5690,
     "level": "critical",
     "country": "🌍",
     "text": "Russian TikTokers wanted to vote for an anti-war agenda. Putin’s farce elections",
@@ -9,7 +18,7 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 278,
+    "id": 3273,
     "level": "critical",
     "country": "🌍",
     "text": "The commodification of Indigenous cultures and traditions",
@@ -18,79 +27,61 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 6378,
+    "id": 5550,
     "level": "critical",
     "country": "🌍",
-    "text": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+    "text": "Qatar on mediation efforts: ‘We can’t let diplomacy fail’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/qatar-on-mediation-efforts-we-cant-let-diplomacy?traffic_source=rss",
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 1544,
+    "id": 424,
     "level": "critical",
     "country": "🌍",
-    "text": "Sri Lanka convicts 15 people over 2019 Easter Day bombings",
+    "text": "As AI leaders warn of catastrophe, US and China shun slowdown calls",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/sri-lanka-convicts-15-people-over-2019-easter-day-bombings?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/9/23/as-ai-leaders-warn-of-catastrophe-us-and-china-shun-slowdown-calls?traffic_source=rss",
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 8281,
+    "id": 7438,
     "level": "critical",
     "country": "🌍",
-    "text": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
+    "text": "Yemen government forces claim control of Mount Qarfan in Taiz",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/23/yemen-government-forces-claim-control-of-mount-qarfan-in-taiz?traffic_source=rss",
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 8369,
+    "id": 7462,
     "level": "critical",
     "country": "🌍",
-    "text": "UK Prime Minister vows not to ‘stand by’ as Palestinians suffer",
+    "text": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss",
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 450,
+    "id": 8711,
     "level": "critical",
     "country": "🌍",
-    "text": "Kiev et Washington veulent que la guerre s'arrête \"avant l'hiver\", assure Volody",
+    "text": "Donald Trump menace l'Iran devant l'ONU puis annonce une reprise du dialogue",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260922-kiev-washington-veulent-que-guerre-russie-arrete-avant-hiver-volodymyr-zelensky-ukraine-etats-unis-ag-onu-donald-trump-negociations-moratoire-energetique-patriots",
-    "time": "Tue, 22 Sep 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260923-donald-trump-menace-l-iran-devant-l-onu-puis-annonce-une-reprise-du-dialogue",
+    "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 6338,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Menace russe : l'OTAN prête à la guerre ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260922-menace-russe-l-otan-pr%C3%AAte-%C3%A0-la-guerre",
-    "time": "Tue, 22 Sep 2026"
-  },
-  {
-    "id": 2068,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'ONU démunie face au désordre mondial ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260922-l-onu-d%C3%A9munie-face-au-d%C3%A9sordre-mondial",
-    "time": "Tue, 22 Sep 2026"
-  },
-  {
-    "id": 2226,
+    "id": 5733,
     "level": "high",
     "country": "🌍",
-    "text": "Trump rallies Shield of the Americas coalition against drug cartels",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/23/trump-rallies-shield-of-the-americas-coalition-against-drug-cartels?traffic_source=rss",
+    "text": "Sanctions américaines : l’Iran menacé de blocus aérien",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260923-sanctions-am%C3%A9ricaines-l-iran-menac%C3%A9-de-blocus-a%C3%A9rien",
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 9940,
+    "id": 3705,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9300,
+    "id": 7518,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7765,
+    "id": 5660,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1470,
+    "id": 946,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1054,
+    "id": 4157,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8996,
+    "id": 1667,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 225,
+    "id": 7980,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4116,
+    "id": 7923,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5492,
+    "id": 7472,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +162,21 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2377,
+    "id": 9547,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 4458,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Thai student movement forms ‘Hope Theatre,’ making the stage its new battlegroun",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/23/thai-student-movement-forms-hope-theatre-making-the-stage-its-new-battleground/",
+    "time": "Wed, 23 Sep 2026"
   }
 ]
