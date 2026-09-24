@@ -1,6 +1,6 @@
 [
   {
-    "id": 9303,
+    "id": 9409,
     "level": "critical",
     "country": "🌍",
     "text": "Pskov’s medieval religious art is being appropriated by the Russian state to sup",
@@ -9,7 +9,7 @@
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 2464,
+    "id": 2983,
     "level": "critical",
     "country": "🌍",
     "text": "Russian TikTokers wanted to vote for an anti-war agenda. Putin’s farce elections",
@@ -18,7 +18,7 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 5099,
+    "id": 2463,
     "level": "critical",
     "country": "🌍",
     "text": "The commodification of Indigenous cultures and traditions",
@@ -27,70 +27,34 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 5735,
+    "id": 4414,
     "level": "critical",
     "country": "🌍",
-    "text": "Spain’s Sanchez warns of far-right threat in UNGA speech",
+    "text": "Zelenskyy says Ukraine sent two North Korean POWs to South Korea",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/24/zelenskyy-says-ukraine-sent-two-north-korean-pows-to-south-korea?traffic_source=rss",
     "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 2940,
+    "id": 2751,
     "level": "critical",
     "country": "🌍",
-    "text": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
-    "time": "Thu, 24 Sep 2026"
-  },
-  {
-    "id": 5752,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
-    "time": "Thu, 24 Sep 2026"
-  },
-  {
-    "id": 5223,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En direct : isolé et sur la défensive, un Benjamin Netanyahu combatif attendu à ",
+    "text": "Afghanistan : des frappes pakistanaises tuent quatre civils, les Taliban promett",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260924-en-direct-onu-assemblee-generale-benjamin-netanyahu-israel-mahmoud-abbas",
+    "link": "https://www.france24.com/fr/asie-pacifique/20260924-afghanistan-frappes-pakistan-tuent-quatre-civils-taliban-promettent-de-r%C3%A9pondre",
     "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 1594,
+    "id": 1848,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre en Ukraine : des missiles russes font plusieurs morts à Kiev",
+    "text": "\"Une carte postale du futur\" : le \"Super El Niño\" menace de faire 450 000 morts",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260924-guerre-en-ukraine-des-missiles-russes-font-plusieurs-morts-%C3%A0-kiev",
+    "link": "https://www.france24.com/fr/plan%C3%A8te/20260924-carte-postale-futur-super-el-ni%C3%B1o-menace-de-faire-450-000-morts-r%C3%A9chauffement-climat",
     "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 1677,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Guerre en Ukraine : à l'ONU, Zelensky dénonce \"la folie\" de Poutine",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260923-guerre-en-ukraine-%C3%A0-l-onu-zelensky-d%C3%A9nonce-la-folie-de-poutine",
-    "time": "Wed, 23 Sep 2026"
-  },
-  {
-    "id": 2865,
-    "level": "critical",
-    "country": "🌍",
-    "text": "ONU : le discours de Zelensky, \"cette guerre insensée contre l'Ukraine doit cess",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260923-onu-le-discours-de-zelensky-cette-guerre-insens%C3%A9e-contre-l-ukraine-doit-cesser",
-    "time": "Wed, 23 Sep 2026"
-  },
-  {
-    "id": 4936,
+    "id": 3785,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +63,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2010,
+    "id": 1270,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9533,
+    "id": 750,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 224,
+    "id": 9743,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7330,
+    "id": 2461,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7795,
+    "id": 393,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2052,
+    "id": 7637,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2877,
+    "id": 3974,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7787,
+    "id": 1831,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +135,48 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 268,
+    "id": 1419,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 1279,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Thai student movement forms ‘Hope Theatre,’ making the stage its new battlegroun",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/23/thai-student-movement-forms-hope-theatre-making-the-stage-its-new-battleground/",
+    "time": "Wed, 23 Sep 2026"
+  },
+  {
+    "id": 3755,
+    "level": "medium",
+    "country": "🌍",
+    "text": "From north to south, protests sweep across Tunisia: Is change at hand?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/22/from-north-to-south-protests-sweep-across-tunisia-is-change-at-hand/",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 9952,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Technology-facilitated trafficking: How Bangladeshi migrants become victims of r",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/22/technology-facilitated-trafficking-how-bangladeshi-migrants-become-victims-of-recruitment-in-cambodia/",
+    "time": "Tue, 22 Sep 2026"
+  },
+  {
+    "id": 8881,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What deep sea mining could mean for Jamaica’s fisherfolk",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/21/what-deep-sea-mining-could-mean-for-jamaicas-fisherfolk/",
+    "time": "Mon, 21 Sep 2026"
   }
 ]
