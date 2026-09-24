@@ -1,6 +1,6 @@
 [
   {
-    "id": 2945,
+    "id": 9303,
     "level": "critical",
     "country": "🌍",
     "text": "Pskov’s medieval religious art is being appropriated by the Russian state to sup",
@@ -9,7 +9,7 @@
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 1385,
+    "id": 2464,
     "level": "critical",
     "country": "🌍",
     "text": "Russian TikTokers wanted to vote for an anti-war agenda. Putin’s farce elections",
@@ -18,7 +18,7 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 5241,
+    "id": 5099,
     "level": "critical",
     "country": "🌍",
     "text": "The commodification of Indigenous cultures and traditions",
@@ -27,43 +27,52 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 6812,
+    "id": 5735,
     "level": "critical",
     "country": "🌍",
-    "text": "US aviation sanctions disrupt Iran flights, push travellers overland",
+    "text": "Spain’s Sanchez warns of far-right threat in UNGA speech",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
-    "time": "Wed, 23 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_spains-sanchez-warns-of-far-right-in-unga-speech-230926?traffic_source=rss",
+    "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 9919,
+    "id": 2940,
     "level": "critical",
     "country": "🌍",
-    "text": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+    "text": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
-    "time": "Wed, 23 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
+    "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 1176,
+    "id": 5752,
     "level": "critical",
     "country": "🌍",
-    "text": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
+    "text": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
-    "time": "Wed, 23 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
+    "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 9160,
+    "id": 5223,
     "level": "critical",
     "country": "🌍",
-    "text": "As major powers act unilaterally, experts say UN faces crisis in New York",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
-    "time": "Wed, 23 Sep 2026"
+    "text": "En direct : isolé et sur la défensive, un Benjamin Netanyahu combatif attendu à ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20260924-en-direct-onu-assemblee-generale-benjamin-netanyahu-israel-mahmoud-abbas",
+    "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 58,
+    "id": 1594,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : des missiles russes font plusieurs morts à Kiev",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260924-guerre-en-ukraine-des-missiles-russes-font-plusieurs-morts-%C3%A0-kiev",
+    "time": "Thu, 24 Sep 2026"
+  },
+  {
+    "id": 1677,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : à l'ONU, Zelensky dénonce \"la folie\" de Poutine",
@@ -72,7 +81,7 @@
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 8972,
+    "id": 2865,
     "level": "critical",
     "country": "🌍",
     "text": "ONU : le discours de Zelensky, \"cette guerre insensée contre l'Ukraine doit cess",
@@ -81,7 +90,7 @@
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 7450,
+    "id": 4936,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7567,
+    "id": 2010,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5158,
+    "id": 9533,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2606,
+    "id": 224,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2376,
+    "id": 7330,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2909,
+    "id": 7795,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3106,
+    "id": 2052,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4472,
+    "id": 2877,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7369,
+    "id": 7787,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,21 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6168,
+    "id": 268,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 534,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Thai student movement forms ‘Hope Theatre,’ making the stage its new battlegroun",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/23/thai-student-movement-forms-hope-theatre-making-the-stage-its-new-battleground/",
-    "time": "Wed, 23 Sep 2026"
   }
 ]
