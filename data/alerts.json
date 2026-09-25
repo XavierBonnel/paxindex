@@ -1,6 +1,6 @@
 [
   {
-    "id": 1194,
+    "id": 7584,
     "level": "critical",
     "country": "🌍",
     "text": "Pskov’s medieval religious art is being appropriated by the Russian state to sup",
@@ -9,7 +9,7 @@
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 7081,
+    "id": 4301,
     "level": "critical",
     "country": "🌍",
     "text": "Russian TikTokers wanted to vote for an anti-war agenda. Putin’s farce elections",
@@ -18,52 +18,79 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 7632,
+    "id": 1579,
     "level": "critical",
     "country": "🌍",
-    "text": "The commodification of Indigenous cultures and traditions",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/21/the-commodification-of-indigenous-cultures-and-traditions/",
-    "time": "Mon, 21 Sep 2026"
-  },
-  {
-    "id": 7796,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nepal’s leader labels devastating flood a ‘warning to the world’",
+    "text": "India’s ‘cockroach’ movement demands election chief’s resignation",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/25/nepals-leader-labels-devastating-flood-a-warning-to-the-world?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/25/indias-cockroach-movement-demands-election-chiefs-resignation?traffic_source=rss",
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 2242,
+    "id": 2351,
     "level": "critical",
     "country": "🌍",
-    "text": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+    "text": "Fighting in northern Ethiopia spurs fears of blackout and blockade",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/25/fighting-in-northern-ethiopia-spurs-fears-of-blackout-and-blockade?traffic_source=rss",
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 7514,
+    "id": 5076,
     "level": "critical",
     "country": "🌍",
-    "text": "Multiple regions in Russia come under Ukrainian drone attacks",
+    "text": "US seeking to revive Russia-Ukraine ceasefire talks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/multiple-regions-in-russia-come-under-ukrainian-drone-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss",
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 8162,
+    "id": 1385,
     "level": "critical",
     "country": "🌍",
-    "text": "Des trajets à haut risque : morts sur les routes en Inde",
+    "text": "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/25/pakistan-turkiye-edge-closer-towards-joining-saudi-war-against-houthis?traffic_source=rss",
+    "time": "Fri, 25 Sep 2026"
+  },
+  {
+    "id": 6699,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/un-general-assembly-live-leaders-from-lebanon-iraq-pakistan-to-speak?traffic_source=rss",
+    "time": "Fri, 25 Sep 2026"
+  },
+  {
+    "id": 1668,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ethiopie : les combats s’intensifient entre les forces fédérales et des groupes ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260925-inde-reportage-trajets-haut-risque-alcool-exces-vitesse",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260925-ethiopie-les-combats-s-intensifient-entre-les-forces-f%C3%A9d%C3%A9rales-et-des-groupes-arm%C3%A9s",
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 3981,
+    "id": 2867,
+    "level": "critical",
+    "country": "🌍",
+    "text": "RD Congo : les populations de Bukavu inquiètes après un nouvel incendie meurtrie",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260925-rd-congo-les-populations-de-bukavu-inqui%C3%A8tes-apr%C3%A8s-un-nouvel-incendie-meurtrier",
+    "time": "Fri, 25 Sep 2026"
+  },
+  {
+    "id": 3820,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Léon XIV offensif sur la fin de vie : il dénonce \"l'offre d'une mort programmée\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260925-l%C3%A9on-xiv-offensif-sur-la-fin-de-vie-il-d%C3%A9nonce-l-offre-d-une-mort-programm%C3%A9e",
+    "time": "Fri, 25 Sep 2026"
+  },
+  {
+    "id": 6926,
     "level": "high",
     "country": "🌍",
     "text": "Young Japanese find new outlets for peace activism amid rising tensions in the P",
@@ -72,16 +99,16 @@
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 7136,
+    "id": 1924,
     "level": "high",
     "country": "🌍",
-    "text": "Les Houthis du Yémen ciblent à nouveau l'Arabie saoudite",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20260924-houthis-yemen-ciblent-arabie-saoudite-missiles-drones-france-iran",
-    "time": "Thu, 24 Sep 2026"
+    "text": "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/25-09-sv-tigray-ethiopia-conflict-restarts-et?traffic_source=rss",
+    "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 6367,
+    "id": 8072,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 564,
+    "id": 9378,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3153,
+    "id": 3158,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5661,
+    "id": 5903,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8736,
+    "id": 7545,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4260,
+    "id": 4960,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7711,
+    "id": 3216,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,39 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8117,
+    "id": 9161,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 8511,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 847,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 5229,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trinidad & Tobago’s Special Operations Bill and the geography of development",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/24/trinidad-tobagos-special-operations-bill-and-the-geography-of-development/",
-    "time": "Thu, 24 Sep 2026"
   }
 ]
