@@ -1,6 +1,6 @@
 [
   {
-    "id": 402,
+    "id": 4191,
     "level": "critical",
     "country": "🌍",
     "text": "Pskov’s medieval religious art is being appropriated by the Russian state to sup",
@@ -9,7 +9,7 @@
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 439,
+    "id": 424,
     "level": "critical",
     "country": "🌍",
     "text": "Russian TikTokers wanted to vote for an anti-war agenda. Putin’s farce elections",
@@ -18,7 +18,7 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 9516,
+    "id": 2009,
     "level": "critical",
     "country": "🌍",
     "text": "The commodification of Indigenous cultures and traditions",
@@ -27,34 +27,25 @@
     "time": "Mon, 21 Sep 2026"
   },
   {
-    "id": 1505,
+    "id": 3847,
     "level": "critical",
     "country": "🌍",
-    "text": "Croatian court approves extradition in Nord Stream bombing case",
+    "text": "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/25/iran-war-live-tehran-wants-washington-to-re-enter-mou-before-us-midterms?traffic_source=rss",
+    "time": "Fri, 25 Sep 2026"
+  },
+  {
+    "id": 6796,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech?traffic_source=rss",
     "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 1046,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu?traffic_source=rss",
-    "time": "Thu, 24 Sep 2026"
-  },
-  {
-    "id": 8386,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What’s triggered the latest violence in Ethiopia?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-    "time": "Thu, 24 Sep 2026"
-  },
-  {
-    "id": 7048,
+    "id": 2500,
     "level": "critical",
     "country": "🌍",
     "text": "Les autorités rebelles du Tigré disent être en \"guerre totale\" contre le gouvern",
@@ -63,7 +54,25 @@
     "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 306,
+    "id": 1843,
+    "level": "high",
+    "country": "🌍",
+    "text": "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+    "time": "Fri, 25 Sep 2026"
+  },
+  {
+    "id": 7729,
+    "level": "high",
+    "country": "🌍",
+    "text": "Les Houthis du Yémen ciblent à nouveau l'Arabie saoudite",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20260924-houthis-yemen-ciblent-arabie-saoudite-missiles-drones-france-iran",
+    "time": "Thu, 24 Sep 2026"
+  },
+  {
+    "id": 4566,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3394,
+    "id": 7551,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4374,
+    "id": 2999,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2450,
+    "id": 6302,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4300,
+    "id": 2023,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7456,
+    "id": 9292,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8765,
+    "id": 5531,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8919,
+    "id": 3884,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9363,
+    "id": 7567,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9336,
+    "id": 6687,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7860,
+    "id": 8735,
     "level": "medium",
     "country": "🌍",
     "text": "Trinidad & Tobago’s Special Operations Bill and the geography of development",
@@ -162,21 +171,12 @@
     "time": "Thu, 24 Sep 2026"
   },
   {
-    "id": 7665,
+    "id": 8520,
     "level": "medium",
     "country": "🌍",
     "text": "Bangladesh: Protests can change governments, but can they strengthen democracy?",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/24/bangladesh-protests-can-change-governments-but-can-they-strengthen-democracy/",
     "time": "Thu, 24 Sep 2026"
-  },
-  {
-    "id": 7452,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Thai student movement forms ‘Hope Theatre,’ making the stage its new battlegroun",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/23/thai-student-movement-forms-hope-theatre-making-the-stage-its-new-battleground/",
-    "time": "Wed, 23 Sep 2026"
   }
 ]
