@@ -1,6 +1,6 @@
 [
   {
-    "id": 2863,
+    "id": 5936,
     "level": "critical",
     "country": "🌍",
     "text": "Pskov’s medieval religious art is being appropriated by the Russian state to sup",
@@ -9,7 +9,43 @@
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 6434,
+    "id": 4176,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Powerful storm brings flooding, power outages to northeastern United States",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
+    "time": "Sat, 26 Sep 2026"
+  },
+  {
+    "id": 8194,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
+    "time": "Sat, 26 Sep 2026"
+  },
+  {
+    "id": 1941,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+    "time": "Sat, 26 Sep 2026"
+  },
+  {
+    "id": 8621,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why is violence between Pakistan and Afghanistan recurring?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+    "time": "Sat, 26 Sep 2026"
+  },
+  {
+    "id": 8083,
     "level": "critical",
     "country": "🌍",
     "text": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
@@ -18,43 +54,16 @@
     "time": "Sat, 26 Sep 2026"
   },
   {
-    "id": 3377,
+    "id": 516,
     "level": "critical",
     "country": "🌍",
-    "text": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
-    "time": "Sat, 26 Sep 2026"
-  },
-  {
-    "id": 1211,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Colombia extradites leader of armed group to US in shift towards Washington",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
-    "time": "Sat, 26 Sep 2026"
-  },
-  {
-    "id": 6781,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
-    "time": "Sat, 26 Sep 2026"
-  },
-  {
-    "id": 157,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Nouvelles frappes russes et ukrainiennes, au moins 16 morts dans les deux camps",
+    "text": "RD Congo, au moins 14 morts dans un crash d'avion dont 2 responsables militaires",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20260926-nouvelles-frappes-russes-et-ukrainiennes-au-moins-16-morts-dans-les-deux-camps",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260926-rd-congo-au-moins-14-morts-dans-un-crash-d-avion-dont-2-responsables-militaires",
     "time": "Sat, 26 Sep 2026"
   },
   {
-    "id": 5973,
+    "id": 9013,
     "level": "high",
     "country": "🌍",
     "text": "Young Japanese find new outlets for peace activism amid rising tensions in the P",
@@ -63,7 +72,7 @@
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 8844,
+    "id": 5219,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4338,
+    "id": 3410,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9393,
+    "id": 7420,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9746,
+    "id": 7162,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 926,
+    "id": 1338,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3112,
+    "id": 9637,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 340,
+    "id": 2913,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7838,
+    "id": 6228,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9506,
+    "id": 9230,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2401,
+    "id": 7436,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7394,
+    "id": 2104,
     "level": "medium",
     "country": "🌍",
     "text": "An exiled Myanmar journalist’s story: Echoing public’s voice and resilience",
@@ -162,21 +171,12 @@
     "time": "Sat, 26 Sep 2026"
   },
   {
-    "id": 9453,
+    "id": 5024,
     "level": "medium",
     "country": "🌍",
     "text": "Movement from behind your gadget",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/25/movement-from-behind-your-gadget/",
-    "time": "Fri, 25 Sep 2026"
-  },
-  {
-    "id": 4148,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Support Global Voices’ Spotlight: Big Tech and Authoritarianism",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/25/support-global-voices-spotlight-big-tech-and-authoritarianism/",
     "time": "Fri, 25 Sep 2026"
   }
 ]
