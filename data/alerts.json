@@ -1,6 +1,15 @@
 [
   {
-    "id": 3727,
+    "id": 5991,
+    "level": "critical",
+    "country": "🌍",
+    "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/27/we-cannot-take-it-anymore-haitis-informal-vendors-protest-over-gang-warfare/",
+    "time": "Sun, 27 Sep 2026"
+  },
+  {
+    "id": 361,
     "level": "critical",
     "country": "🌍",
     "text": "Pskov’s medieval religious art is being appropriated by the Russian state to sup",
@@ -9,70 +18,43 @@
     "time": "Wed, 23 Sep 2026"
   },
   {
-    "id": 1018,
+    "id": 4706,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+    "text": "True Crime Reports: The Dosa King’s Deadly Obsession",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/true-crime-reports/2026/9/27/true-crime-reports-the-dosa-kings-deadly-obsession?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 3432,
+    "id": 2736,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen government forces widen attacks against Houthis: What we know",
+    "text": "Yemen’s health system could collapse in some areas, minister warns",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/27/yemens-health-system-could-collapse-in-some-areas-minister-warns?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 5589,
+    "id": 8486,
     "level": "critical",
     "country": "🌍",
-    "text": "Massive Attack singer arrested over pro-Palestine protest in UK",
+    "text": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/27/israels-smotrich-urges-war-in-west-bank-poll-rhetoric-or-real-threat?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 7008,
+    "id": 7838,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 4526,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Djibouti urges world to help as Yemen war drives refugee influx",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 4578,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Suicide bombing in northwest Pakistan kills at least 12",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 9578,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Le nord-est des Etats-Unis frappé par une tempête rare pour la saison",
+    "text": "Football : après un vote, l'Irlande confirme qu'elle rencontrera Israël",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260927-le-nord-est-des-etats-unis-frapp%C3%A9-par-une-temp%C3%AAte-rare-pour-la-saison",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260927-football-apr%C3%A8s-un-vote-l-irlande-confirme-qu-elle-rencontrera-isra%C3%ABl",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 245,
+    "id": 6413,
     "level": "high",
     "country": "🌍",
     "text": "Young Japanese find new outlets for peace activism amid rising tensions in the P",
@@ -81,25 +63,34 @@
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 6522,
+    "id": 11,
     "level": "high",
     "country": "🌍",
-    "text": "Plane carrying DR Congo military delegation crashes",
+    "text": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 7353,
+    "id": 1421,
     "level": "high",
     "country": "🌍",
-    "text": "Marche Orangiste en Irlande du Nord : journée de tension en perspective",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260927-marche-orangiste-en-irlande-du-nord-journ%C3%A9e-de-tension-en-perspective",
+    "text": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 6906,
+    "id": 1619,
+    "level": "high",
+    "country": "🌍",
+    "text": "Royaume-Uni : l'antiterrorisme enquête sur un incident près d'une base militaire",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260927-royaume-uni-l-antiterrorisme-enqu%C3%AAte-sur-un-incident-pr%C3%A8s-d-une-base-militaire",
+    "time": "Sun, 27 Sep 2026"
+  },
+  {
+    "id": 4150,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5370,
+    "id": 2160,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 224,
+    "id": 8137,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2460,
+    "id": 523,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5876,
+    "id": 8852,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5771,
+    "id": 8332,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 554,
+    "id": 1942,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5301,
+    "id": 4072,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -171,12 +162,21 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9619,
+    "id": 8634,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 3399,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
   }
 ]
