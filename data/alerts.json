@@ -1,6 +1,15 @@
 [
   {
-    "id": 3040,
+    "id": 2185,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/27/beyond-protest-mob-violence-and-the-struggle-for-institutional-response-in-bangladesh/",
+    "time": "Sun, 27 Sep 2026"
+  },
+  {
+    "id": 8291,
     "level": "critical",
     "country": "🌍",
     "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
@@ -9,43 +18,34 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 200,
+    "id": 5626,
     "level": "critical",
     "country": "🌍",
-    "text": "Pskov’s medieval religious art is being appropriated by the Russian state to sup",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/23/pskovs-medieval-religious-art-is-being-appropriated-by-the-russian-state-to-support-the-invasion-of-ukraine/",
-    "time": "Wed, 23 Sep 2026"
-  },
-  {
-    "id": 683,
-    "level": "critical",
-    "country": "🌍",
-    "text": "At least 12 dead and dozens missing after a vessel capsizes in DRC",
+    "text": "Deadly strike hits market in Yemen’s Taiz",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/27/at-least-12-dead-and-dozens-missing-after-a-vessel-capsizes-in-drc?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 2178,
+    "id": 4686,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Iran ready for doomsday war’, FM Araghchi says",
+    "text": "Israeli strikes continue in southern Lebanon despite ceasefire",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 8922,
+    "id": 6412,
     "level": "critical",
     "country": "🌍",
-    "text": "Dozens killed in two mass shootings in South Africa",
+    "text": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 3709,
+    "id": 8663,
     "level": "high",
     "country": "🌍",
     "text": "Young Japanese find new outlets for peace activism amid rising tensions in the P",
@@ -54,16 +54,16 @@
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 5936,
+    "id": 7757,
     "level": "high",
     "country": "🌍",
-    "text": "Stuck between Israeli military checkpoints",
+    "text": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 8984,
+    "id": 6958,
     "level": "high",
     "country": "🌍",
     "text": "Royaume-Uni : l'antiterrorisme enquête sur un incident près d'une base militaire",
@@ -72,7 +72,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 3188,
+    "id": 9330,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9802,
+    "id": 7013,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7146,
+    "id": 166,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1534,
+    "id": 5217,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3880,
+    "id": 3306,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3030,
+    "id": 1289,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5506,
+    "id": 7826,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9925,
+    "id": 9442,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1650,
+    "id": 2893,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3563,
+    "id": 5632,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9050,
+    "id": 9647,
     "level": "medium",
     "country": "🌍",
     "text": "What #EndSARS left behind in Nigeria: A generation caught between protest, polit",
@@ -171,7 +171,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 801,
+    "id": 1660,
     "level": "medium",
     "country": "🌍",
     "text": "An exiled Myanmar journalist’s story: Echoing public’s voice and resilience",
