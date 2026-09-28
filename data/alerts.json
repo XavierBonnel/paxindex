@@ -1,6 +1,6 @@
 [
   {
-    "id": 2185,
+    "id": 2378,
     "level": "critical",
     "country": "🌍",
     "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
@@ -9,7 +9,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 8291,
+    "id": 5409,
     "level": "critical",
     "country": "🌍",
     "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
@@ -18,34 +18,34 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 5626,
+    "id": 9103,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly strike hits market in Yemen’s Taiz",
+    "text": "Refugees in South Africa fear new attacks as September 30 deadline looms",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+    "time": "Mon, 28 Sep 2026"
+  },
+  {
+    "id": 2170,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+    "time": "Mon, 28 Sep 2026"
+  },
+  {
+    "id": 4984,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au moins 27 morts dans une double fusillade en Afrique du Sud",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260927-au-moins-27-morts-dans-une-double-fusillade-en-afrique-du-sud",
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 4686,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli strikes continue in southern Lebanon despite ceasefire",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 6412,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 8663,
+    "id": 1157,
     "level": "high",
     "country": "🌍",
     "text": "Young Japanese find new outlets for peace activism amid rising tensions in the P",
@@ -54,16 +54,7 @@
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 7757,
-    "level": "high",
-    "country": "🌍",
-    "text": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 6958,
+    "id": 5763,
     "level": "high",
     "country": "🌍",
     "text": "Royaume-Uni : l'antiterrorisme enquête sur un incident près d'une base militaire",
@@ -72,7 +63,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 9330,
+    "id": 8332,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7013,
+    "id": 7539,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 166,
+    "id": 7011,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5217,
+    "id": 7767,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3306,
+    "id": 5929,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1289,
+    "id": 1178,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7826,
+    "id": 9942,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9442,
+    "id": 2298,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2893,
+    "id": 78,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5632,
+    "id": 9042,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 9647,
+    "id": 3288,
     "level": "medium",
     "country": "🌍",
     "text": "What #EndSARS left behind in Nigeria: A generation caught between protest, polit",
@@ -171,12 +162,21 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 1660,
+    "id": 1624,
     "level": "medium",
     "country": "🌍",
     "text": "An exiled Myanmar journalist’s story: Echoing public’s voice and resilience",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/26/an-exiled-myanmar-journalists-story-echoing-publics-voice-and-resilience/",
     "time": "Sat, 26 Sep 2026"
+  },
+  {
+    "id": 1498,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Movement from behind your gadget",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/25/movement-from-behind-your-gadget/",
+    "time": "Fri, 25 Sep 2026"
   }
 ]
