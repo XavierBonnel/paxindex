@@ -1,6 +1,6 @@
 [
   {
-    "id": 3443,
+    "id": 4561,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,7 +9,7 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 3554,
+    "id": 7718,
     "level": "critical",
     "country": "🌍",
     "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
@@ -18,7 +18,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 1206,
+    "id": 5785,
     "level": "critical",
     "country": "🌍",
     "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
@@ -27,43 +27,52 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 6509,
+    "id": 827,
     "level": "critical",
     "country": "🌍",
-    "text": "Rescuers search for 12 missing after Nepal avalanche kills two",
+    "text": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 2766,
+    "id": 83,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins",
+    "text": "Russia strike sets National Academy of Sciences of Ukraine ablaze",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/russia-strike-sets-national-academy-of-sciences-of-ukraine-ablaze?traffic_source=rss",
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 9579,
+    "id": 8345,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian strikes kill eight, injure dozens across Ukraine",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+    "text": "Mali : Jeune Afrique enquête sur la guerre des drones",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260928-mali-jeune-afrique-enqu%C3%AAte-sur-la-guerre-des-drones",
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 9164,
+    "id": 8051,
     "level": "critical",
     "country": "🌍",
-    "text": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
+    "text": "🔴 Royaume-Uni : libération des cinq suspects de la tentative d’attentat près d’u",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260927-royaume-uni-arrestations-apr%C3%A8s-un-incident-majeur-pr%C3%A8s-d-une-base-utilis%C3%A9e-par-l-us-air-force",
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 6576,
+    "id": 1389,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Royaume-Uni : libération des cinq suspects de la tentative d'attentat près d'une",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260928-projet-attaque-contre-une-base-militaire-en-angleterre-les-cinq-hommes-arr%C3%AAt%C3%A9s-lib%C3%A9r%C3%A9s-sous-caution",
+    "time": "Mon, 28 Sep 2026"
+  },
+  {
+    "id": 3753,
     "level": "high",
     "country": "🌍",
     "text": "Young Japanese find new outlets for peace activism amid rising tensions in the P",
@@ -72,16 +81,43 @@
     "time": "Fri, 25 Sep 2026"
   },
   {
-    "id": 121,
+    "id": 9273,
     "level": "high",
     "country": "🌍",
-    "text": "Royaume-Uni : cinq hommes arrêtés pour préparation d'un \"acte terroriste\" près d",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20260928-royaume-uni-cinq-hommes-arr%C3%AAt%C3%A9s-pour-pr%C3%A9paration-d-un-acte-terroriste-pr%C3%A8s-d-une-base-a%C3%A9rienne",
+    "text": "South Korea suspects North Korean mines behind DMZ blast",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 6929,
+    "id": 440,
+    "level": "high",
+    "country": "🌍",
+    "text": "Fairford, la base aérienne britannique qui met Téhéran à portée de Washington",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260928-fairford-base-a%C3%A9rienne-strat%C3%A9gique-angleterre-%C3%A9tats-unis-iran-explosifs",
+    "time": "Mon, 28 Sep 2026"
+  },
+  {
+    "id": 7633,
+    "level": "high",
+    "country": "🌍",
+    "text": "Accusée de soutenir les rebelles éthiopiens, l'armée soudanaise dément",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260928-accus%C3%A9e-de-soutenir-les-rebelles-%C3%A9thiopiens-l-arm%C3%A9e-soudanaise-d%C3%A9ment",
+    "time": "Mon, 28 Sep 2026"
+  },
+  {
+    "id": 5111,
+    "level": "high",
+    "country": "🌍",
+    "text": "Projet d'attaque contre une base militaire en Angleterre : les 5 hommes arrêtés ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260928-projet-d-attaque-contre-une-base-militaire-en-angleterre-les-5-hommes-arr%C3%AAt%C3%A9s-sont-britanniques",
+    "time": "Mon, 28 Sep 2026"
+  },
+  {
+    "id": 132,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +126,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2306,
+    "id": 8400,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +135,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8294,
+    "id": 6254,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +144,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1588,
+    "id": 4898,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +153,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6435,
+    "id": 7262,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +162,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6339,
+    "id": 4793,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,48 +171,12 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9509,
+    "id": 1592,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 9471,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 254,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 2291,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 6084,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What #EndSARS left behind in Nigeria: A generation caught between protest, polit",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/27/what-endsars-left-behind-in-nigeria-a-generation-caught-between-protest-politics-and-departure/",
-    "time": "Sun, 27 Sep 2026"
   }
 ]
