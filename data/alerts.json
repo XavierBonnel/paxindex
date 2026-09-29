@@ -1,6 +1,6 @@
 [
   {
-    "id": 7224,
+    "id": 2877,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,7 +9,7 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 9226,
+    "id": 9903,
     "level": "critical",
     "country": "🌍",
     "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
@@ -18,7 +18,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 6001,
+    "id": 447,
     "level": "critical",
     "country": "🌍",
     "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
@@ -27,34 +27,52 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 6424,
+    "id": 9267,
     "level": "critical",
     "country": "🌍",
-    "text": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
+    "text": "What did Yamal say to Messi at World Cup final? ‘Thank you for everything’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/9/29/lamine-yamal-lionel-messi-spain-argentina-fifa-world-cup-2026-final?traffic_source=rss",
     "time": "Tue, 29 Sep 2026"
   },
   {
-    "id": 1215,
-    "level": "high",
+    "id": 8579,
+    "level": "critical",
     "country": "🌍",
-    "text": "Young Japanese find new outlets for peace activism amid rising tensions in the P",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/25/young-japanese-find-new-outlets-for-peace-activism-amid-rising-tensions-in-the-pacific/",
-    "time": "Fri, 25 Sep 2026"
-  },
-  {
-    "id": 1914,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ethiopian army claims to have taken Tigrayan stronghold",
+    "text": "Malaysia begins sending back Rohingya refugees despite safety warnings",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/ethiopian-army-claims-to-have-taken-tigrayan-stronghold?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/29/malaysia-begins-returning-myanmar-nationals-despite-safety-warnings?traffic_source=rss",
     "time": "Tue, 29 Sep 2026"
   },
   {
-    "id": 9934,
+    "id": 8791,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Drones : comment la guerre a transformé l’industrie de l’armement ukrainienne",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260929-drones-comment-la-guerre-a-transform%C3%A9-l-industrie-de-l-armement-ukrainienne",
+    "time": "Tue, 29 Sep 2026"
+  },
+  {
+    "id": 6240,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"On veut tuer ma carrière politique\" : Bardella conteste les révélations de Medi",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260929-on-veut-tuer-ma-carri%C3%A8re-politique-bardella-conteste-les-r%C3%A9v%C3%A9lations-de-mediapart",
+    "time": "Tue, 29 Sep 2026"
+  },
+  {
+    "id": 4934,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ethiopie : les combats s'intensifient entre le TPLF et l'armée fédérale au Tigré",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20260929-ethiopie-les-combats-s-intensifient-entre-le-tplf-et-l-arm%C3%A9e-f%C3%A9d%C3%A9rale-au-tigr%C3%A9",
+    "time": "Tue, 29 Sep 2026"
+  },
+  {
+    "id": 5666,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9268,
+    "id": 1433,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8265,
+    "id": 4250,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7993,
+    "id": 4245,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 228,
+    "id": 5000,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8835,
+    "id": 5638,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3199,
+    "id": 539,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 565,
+    "id": 3655,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9629,
+    "id": 1509,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2014,
+    "id": 6220,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,39 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7035,
+    "id": 5401,
     "level": "medium",
     "country": "🌍",
-    "text": "When telcos shut down the internet, they shut down protests for the government",
+    "text": "Equating protest with terrorism: A narrative against dissent",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/28/when-telcos-shut-down-the-internet-they-shut-down-protests-for-the-government/",
-    "time": "Mon, 28 Sep 2026"
+    "link": "https://globalvoices.org/2026/09/29/equating-protest-with-terrorism-a-narrative-against-dissent/",
+    "time": "Tue, 29 Sep 2026"
   },
   {
-    "id": 5003,
+    "id": 7541,
     "level": "medium",
     "country": "🌍",
-    "text": "Bye-bye, Birdie: The Calypso King of the World dies at 91",
+    "text": "When the right to protest remains, but demonstrating comes at a price",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/28/bye-bye-birdie-the-calypso-king-of-the-world-dies-at-91/",
-    "time": "Mon, 28 Sep 2026"
-  },
-  {
-    "id": 4448,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What #EndSARS left behind in Nigeria: A generation caught between protest, polit",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/27/what-endsars-left-behind-in-nigeria-a-generation-caught-between-protest-politics-and-departure/",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 7187,
-    "level": "medium",
-    "country": "🌍",
-    "text": "An exiled Myanmar journalist’s story: Echoing public’s voice and resilience",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/26/an-exiled-myanmar-journalists-story-echoing-publics-voice-and-resilience/",
-    "time": "Sat, 26 Sep 2026"
+    "link": "https://globalvoices.org/2026/09/29/when-the-right-to-protest-remains-but-protesting-comes-at-a-price/",
+    "time": "Tue, 29 Sep 2026"
   }
 ]
