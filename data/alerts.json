@@ -1,6 +1,6 @@
 [
   {
-    "id": 5278,
+    "id": 8921,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,7 +9,7 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 9854,
+    "id": 4352,
     "level": "critical",
     "country": "🌍",
     "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
@@ -18,7 +18,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 2189,
+    "id": 4604,
     "level": "critical",
     "country": "🌍",
     "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
@@ -27,70 +27,142 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 4354,
+    "id": 3697,
     "level": "critical",
     "country": "🌍",
-    "text": "Indonesia suspends five officials over luxury apartments for inmates",
+    "text": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/30/indonesia-suspends-five-officials-over-luxury-apartments-for-inmates?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/30/dire-situation-lebanese-prisoners-on-hunger-strike-for-18-days?traffic_source=rss",
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 7852,
+    "id": 2962,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump claims war will end ‘very soon’, gives no details",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+    "text": "En direct : trois morts dans des frappes russes en Ukraine, des vols brièvement ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260930-en-direct-trois-morts-dans-des-frappes-russes-en-ukraine-des-vols-suspendus-en-pologne",
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 3829,
-    "level": "critical",
+    "id": 3757,
+    "level": "high",
     "country": "🌍",
-    "text": "Trump says he plans to campaign for 32 days before midterm elections",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/29/trump-says-he-plans-to-campaign-for-32-days-before-midterm-elections?traffic_source=rss",
-    "time": "Tue, 29 Sep 2026"
+    "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/09/30/who-can-speak-on-behalf-of-the-people-the-new-frontiers-of-protest-in-the-sahel/",
+    "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 4829,
-    "level": "critical",
+    "id": 9784,
+    "level": "high",
     "country": "🌍",
-    "text": "La dédiabolisation du RN mise à mal ?",
+    "text": "South Korea demands apology over DMZ blasts as North denies planting mines",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines?traffic_source=rss",
+    "time": "Wed, 30 Sep 2026"
+  },
+  {
+    "id": 5514,
+    "level": "high",
+    "country": "🌍",
+    "text": "Après des explosions dans la zone démilitarisée, la Corée du Sud exige des excus",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260929-la-d%C3%A9diabolisation-du-rn-mise-%C3%A0-mal",
-    "time": "Tue, 29 Sep 2026"
+    "link": "https://www.france24.com/fr/asie-pacifique/20260930-apr%C3%A8s-des-explosions-dans-la-dmz-la-cor%C3%A9e-du-sud-exige-des-excuses-de-pyongyang",
+    "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 1808,
-    "level": "high",
+    "id": 6614,
+    "level": "medium",
     "country": "🌍",
-    "text": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
-    "time": "Tue, 29 Sep 2026"
+    "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-09-09T05:00"
   },
   {
-    "id": 5691,
-    "level": "high",
+    "id": 4269,
+    "level": "medium",
     "country": "🌍",
-    "text": "Iraq begins high-stakes security balancing act as US troops withdraw",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw?traffic_source=rss",
-    "time": "Tue, 29 Sep 2026"
+    "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-08-21T08:00"
   },
   {
-    "id": 7935,
-    "level": "high",
+    "id": 2140,
+    "level": "medium",
     "country": "🌍",
-    "text": "Ethiopie : Les combats reprennent et alimentent la désinformation",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260929-ethiopie-les-combats-reprennent-et-alimentent-la-d%C3%A9sinformation",
-    "time": "Tue, 29 Sep 2026"
+    "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-08-18T09:00"
   },
   {
-    "id": 6887,
+    "id": 5543,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-23T00:01"
+  },
+  {
+    "id": 7916,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-08T07:00"
+  },
+  {
+    "id": 7289,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 8344,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 434,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 2117,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 3843,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 1892,
     "level": "medium",
     "country": "🌍",
     "text": "Equating protest with terrorism: A narrative against dissent",
@@ -99,84 +171,12 @@
     "time": "Tue, 29 Sep 2026"
   },
   {
-    "id": 924,
+    "id": 5412,
     "level": "medium",
     "country": "🌍",
     "text": "When the right to protest remains, but demonstrating comes at a price",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/09/29/when-the-right-to-protest-remains-but-protesting-comes-at-a-price/",
-    "time": "Tue, 29 Sep 2026"
-  },
-  {
-    "id": 2712,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When telcos shut down the internet, they shut down protests for the government",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/28/when-telcos-shut-down-the-internet-they-shut-down-protests-for-the-government/",
-    "time": "Mon, 28 Sep 2026"
-  },
-  {
-    "id": 89,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Bye-bye, Birdie: The Calypso King of the World dies at 91",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/28/bye-bye-birdie-the-calypso-king-of-the-world-dies-at-91/",
-    "time": "Mon, 28 Sep 2026"
-  },
-  {
-    "id": 1713,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What #EndSARS left behind in Nigeria: A generation caught between protest, polit",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/27/what-endsars-left-behind-in-nigeria-a-generation-caught-between-protest-politics-and-departure/",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 774,
-    "level": "medium",
-    "country": "🌍",
-    "text": "An exiled Myanmar journalist’s story: Echoing public’s voice and resilience",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/26/an-exiled-myanmar-journalists-story-echoing-publics-voice-and-resilience/",
-    "time": "Sat, 26 Sep 2026"
-  },
-  {
-    "id": 2474,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Movement from behind your gadget",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/25/movement-from-behind-your-gadget/",
-    "time": "Fri, 25 Sep 2026"
-  },
-  {
-    "id": 6495,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trump, top tech firms sign accord to ‘self-police’ AI development",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
-    "time": "Tue, 29 Sep 2026"
-  },
-  {
-    "id": 5050,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Jack Smith defends investigations into Trump during tense US Senate hearing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/29/jack-smith-defends-investigations-into-trump-during-tense-us-senate-hearing?traffic_source=rss",
-    "time": "Tue, 29 Sep 2026"
-  },
-  {
-    "id": 825,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuelan man shot by ICE officer in Texas is charged with assault",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/29/venezuelan-man-shot-by-ice-officer-in-texas-is-charged-with-assault?traffic_source=rss",
     "time": "Tue, 29 Sep 2026"
   }
 ]
