@@ -1,6 +1,6 @@
 [
   {
-    "id": 4564,
+    "id": 5077,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,7 +9,7 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 8140,
+    "id": 3037,
     "level": "critical",
     "country": "🌍",
     "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
@@ -18,61 +18,43 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 6716,
+    "id": 7454,
     "level": "critical",
     "country": "🌍",
-    "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/27/we-cannot-take-it-anymore-haitis-informal-vendors-protest-over-gang-warfare/",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 6608,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty",
+    "text": "Funeral held for Palestinian man killed in the occupied West Bank",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 7776,
+    "id": 1955,
     "level": "critical",
     "country": "🌍",
-    "text": "Flydubai stabbing: How safe are planes if a pilot turns violent?",
+    "text": "What’s driving Israeli settler violence in the occupied West Bank?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 4648,
+    "id": 8604,
     "level": "critical",
     "country": "🌍",
-    "text": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
+    "text": "After Red Sea losses, Yemen’s government forces hold the line",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/1/after-red-sea-losses-yemens-government-forces-hold-the-line?traffic_source=rss",
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 4029,
+    "id": 4125,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian drone hits school in Ukraine’s Kyiv as Moscow presses air assault",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/1/russian-drone-hits-school-in-ukraines-kyiv-as-moscow-presses-air-assault?traffic_source=rss",
-    "time": "Thu, 01 Oct 2026"
-  },
-  {
-    "id": 126,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Tennessee : une condamnée à mort survit à deux injections létales",
+    "text": "Guerre en Ukraine : un pont de Kiev frappé par des drones russes",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261001-tennessee-une-condamn%C3%A9e-%C3%A0-mort-survit-%C3%A0-deux-injections-l%C3%A9tales",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261001-guerre-en-ukraine-un-pont-de-kiev-frapp%C3%A9-par-des-drones-russes",
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 7828,
+    "id": 715,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -81,16 +63,25 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 6758,
+    "id": 1483,
     "level": "high",
     "country": "🌍",
-    "text": "Western militaries are undermining Ukraine’s defence, experts say",
+    "text": "ICC ends contract with French insurer amid US sanctions threat",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/10/1/icc-ends-contract-with-french-insurer-amid-us-sanctions-threat?traffic_source=rss",
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 4743,
+    "id": 869,
+    "level": "high",
+    "country": "🌍",
+    "text": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye?traffic_source=rss",
+    "time": "Thu, 01 Oct 2026"
+  },
+  {
+    "id": 5406,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2129,
+    "id": 1399,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5140,
+    "id": 4121,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8018,
+    "id": 7661,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5318,
+    "id": 8718,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1602,
+    "id": 152,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4866,
+    "id": 205,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7321,
+    "id": 7009,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 691,
+    "id": 3627,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +162,21 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3083,
+    "id": 5083,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
+  },
+  {
+    "id": 5930,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The sound of resistance",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/01/the-sound-of-resistance/",
+    "time": "Thu, 01 Oct 2026"
   }
 ]
