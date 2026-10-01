@@ -1,6 +1,6 @@
 [
   {
-    "id": 8984,
+    "id": 2310,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,7 +9,7 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 5267,
+    "id": 4354,
     "level": "critical",
     "country": "🌍",
     "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
@@ -18,7 +18,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 4820,
+    "id": 5505,
     "level": "critical",
     "country": "🌍",
     "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
@@ -27,43 +27,43 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 6017,
+    "id": 7052,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump hints US could strike Iran, warns time coming",
+    "text": "Mourners bury DR Congo official killed after defending Ebola response",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/1/dr-congo-official-beaten-to-death-after-defending-ebola-response-is-buried?traffic_source=rss",
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 4402,
+    "id": 1728,
     "level": "critical",
     "country": "🌍",
-    "text": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+    "text": "Gaza prepares to bury 105 Palestinians killed in October 2023",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
-    "time": "Wed, 30 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
+    "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 924,
+    "id": 7800,
     "level": "critical",
     "country": "🌍",
-    "text": "Hong Kong journalist arrested on sedition charge",
+    "text": "‘Catastrophic year’ as Swiss glaciers lose 5% of ice after heatwaves",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-    "time": "Wed, 30 Sep 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/catastrophic-year-as-swiss-glaciers-lose-5-of-ice-after-heatwaves?traffic_source=rss",
+    "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 7224,
+    "id": 8386,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian drone crashes into Kyiv playground without exploding",
+    "text": "Pakistan says 22 fighters killed in air attacks on Afghanistan",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
-    "time": "Wed, 30 Sep 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+    "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 5356,
+    "id": 5969,
     "level": "critical",
     "country": "🌍",
     "text": "Rachat de Warner Bros : l'accord entre Paramount et 12 États américains validé p",
@@ -72,7 +72,7 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 5642,
+    "id": 2667,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -81,16 +81,34 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 7846,
+    "id": 4392,
     "level": "high",
     "country": "🌍",
-    "text": "La Russie cible massivement les infrastructures énergétiques en Ukraine, Kiev de",
+    "text": "Pete Hegseth affirme avoir réduit de 20 % le nombre de généraux et amiraux de l'",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261001-aux-%C3%A9tats-unis-pete-hegseth-affirme-avoir-r%C3%A9duit-de-20-le-nombre-de-g%C3%A9n%C3%A9raux-et-amiraux",
+    "time": "Thu, 01 Oct 2026"
+  },
+  {
+    "id": 9857,
+    "level": "high",
+    "country": "🌍",
+    "text": "Explosions de mines en zone démilitarisée : Séoul appelle Pyongyang au dialogue",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20261001-explosions-dans-zone-demilitarisee-dmz-president-sud-coreen-joue-apaisement-dialogue-mines-soldats-cor%C3%A9e-nord-lee-jae-myung-blesse",
+    "time": "Thu, 01 Oct 2026"
+  },
+  {
+    "id": 2208,
+    "level": "high",
+    "country": "🌍",
+    "text": "La Russie cible le réseau énergétique en Ukraine, Kiev de nouveau endeuillée",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20260930-russie-cible-massivement-infrastructures-energetiques-eletricite-ukraine-kiev-endeuillee-morts-missiles-drones-volodymyr-zelensky",
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 2341,
+    "id": 1416,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4069,
+    "id": 212,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5984,
+    "id": 7274,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4762,
+    "id": 4596,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5499,
+    "id": 1067,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5943,
+    "id": 904,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3506,
+    "id": 1794,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,30 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4502,
+    "id": 9634,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 1623,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 9114,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
   }
 ]
