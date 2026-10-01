@@ -1,6 +1,6 @@
 [
   {
-    "id": 1688,
+    "id": 8984,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,7 +9,7 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 6700,
+    "id": 5267,
     "level": "critical",
     "country": "🌍",
     "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
@@ -18,7 +18,7 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 2825,
+    "id": 4820,
     "level": "critical",
     "country": "🌍",
     "text": "‘We cannot take it anymore’: Haiti’s informal vendors protest over gang warfare",
@@ -27,43 +27,52 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 4358,
+    "id": 6017,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli attacks across Gaza kill at least eight",
+    "text": "Iran war live: Trump hints US could strike Iran, warns time coming",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+    "time": "Thu, 01 Oct 2026"
+  },
+  {
+    "id": 4402,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 6857,
+    "id": 924,
     "level": "critical",
     "country": "🌍",
-    "text": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+    "text": "Hong Kong journalist arrested on sedition charge",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 3803,
+    "id": 7224,
     "level": "critical",
     "country": "🌍",
-    "text": "French court sentences 13 men over deadliest small-boat crossing to UK",
+    "text": "Russian drone crashes into Kyiv playground without exploding",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/9/30/french-court-sentences-13-men-over-deadliest-small-boat-crossing-to-uk?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 9422,
+    "id": 5356,
     "level": "critical",
     "country": "🌍",
-    "text": "Aux États-Unis, la condamnation à mort imminente de Christa Pike suspendue au de",
+    "text": "Rachat de Warner Bros : l'accord entre Paramount et 12 États américains validé p",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20260930-aux-%C3%A9tats-unis-la-condamnation-%C3%A0-mort-imminente-de-christa-pike-suspendue-au-dernier-moment",
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20260930-rachat-warner-bros-accord-entre-paramount-12-etats-americains-valide-par-juge-cinema-television-etats-unis-streaming-californienne",
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 7518,
+    "id": 5642,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -72,7 +81,16 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 2509,
+    "id": 7846,
+    "level": "high",
+    "country": "🌍",
+    "text": "La Russie cible massivement les infrastructures énergétiques en Ukraine, Kiev de",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20260930-russie-cible-massivement-infrastructures-energetiques-eletricite-ukraine-kiev-endeuillee-morts-missiles-drones-volodymyr-zelensky",
+    "time": "Wed, 30 Sep 2026"
+  },
+  {
+    "id": 2341,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5081,
+    "id": 4069,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5387,
+    "id": 5984,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4476,
+    "id": 4762,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3825,
+    "id": 5499,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 0,
+    "id": 5943,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4865,
+    "id": 3506,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1093,
+    "id": 4502,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1617,
+    "id": 1623,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,30 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1883,
+    "id": 9114,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-04-29T12:01"
-  },
-  {
-    "id": 2861,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil’s capital, residents grow their own heat-fighting solutions",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/30/in-brazils-capital-residents-grow-their-own-heat-fighting-solutions/",
-    "time": "Wed, 30 Sep 2026"
-  },
-  {
-    "id": 6221,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Equating protest with terrorism: A narrative against dissent",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/29/equating-protest-with-terrorism-a-narrative-against-dissent/",
-    "time": "Tue, 29 Sep 2026"
   }
 ]
