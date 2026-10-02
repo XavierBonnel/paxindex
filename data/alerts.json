@@ -1,6 +1,6 @@
 [
   {
-    "id": 9371,
+    "id": 199,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,7 +9,7 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 3940,
+    "id": 9997,
     "level": "critical",
     "country": "🌍",
     "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
@@ -18,43 +18,34 @@
     "time": "Sun, 27 Sep 2026"
   },
   {
-    "id": 9522,
+    "id": 945,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
+    "text": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court?traffic_source=rss",
     "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 9422,
+    "id": 6787,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
-    "time": "Thu, 01 Oct 2026"
+    "text": "Prisonniers nord-coréens : Séoul exige des excuses de Kiev pour avoir révélé un ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20261002-prisonniers-nord-cor%C3%A9ens-s%C3%A9oul-met-en-garde-l-ukraine-et-exige-des-excuses",
+    "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 3205,
+    "id": 5515,
     "level": "critical",
     "country": "🌍",
-    "text": "Brazilian government calls for probe into US funding of far-right causes",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes?traffic_source=rss",
-    "time": "Thu, 01 Oct 2026"
+    "text": "Ukraine en direct : la Russie frappe le pont sud de Kiev et continue de pilonner",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261002-ukraine-en-direct-une-attaque-a%C3%A9rienne-russe-fait-un-mort-%C3%A0-kiev",
+    "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 3015,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
-    "time": "Thu, 01 Oct 2026"
-  },
-  {
-    "id": 1454,
+    "id": 6231,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -63,7 +54,25 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 9784,
+    "id": 9798,
+    "level": "high",
+    "country": "🌍",
+    "text": "Iran urges Iraq to lift flight ban amid US sanctions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss",
+    "time": "Fri, 02 Oct 2026"
+  },
+  {
+    "id": 2024,
+    "level": "high",
+    "country": "🌍",
+    "text": "Lycées bloqués : la mobilisation se poursuit à travers la France après une journ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20261002-en-direct-live-mouvement-blocage-des-lycees-rejoint-par-les-etudiants-vendredi-nunez-lfi",
+    "time": "Fri, 02 Oct 2026"
+  },
+  {
+    "id": 5194,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4553,
+    "id": 3134,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3545,
+    "id": 6471,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5971,
+    "id": 9783,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1474,
+    "id": 5348,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4381,
+    "id": 6040,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8655,
+    "id": 3414,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3046,
+    "id": 6919,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7228,
+    "id": 2910,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4336,
+    "id": 2072,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -153,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 1751,
+    "id": 7033,
     "level": "medium",
     "country": "🌍",
     "text": "The sound of resistance",
@@ -162,21 +171,12 @@
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 98,
+    "id": 427,
     "level": "medium",
     "country": "🌍",
     "text": "West-to-east energy, east-to-west computing: The Uyghur costs of China’s digital",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/01/west-to-east-energy-east-to-west-computing-the-uyghur-costs-of-chinas-digital-order/",
     "time": "Thu, 01 Oct 2026"
-  },
-  {
-    "id": 5454,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil’s capital, residents grow their own heat-fighting solutions",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/30/in-brazils-capital-residents-grow-their-own-heat-fighting-solutions/",
-    "time": "Wed, 30 Sep 2026"
   }
 ]
