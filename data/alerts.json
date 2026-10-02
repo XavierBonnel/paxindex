@@ -1,6 +1,6 @@
 [
   {
-    "id": 738,
+    "id": 7848,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,25 +9,52 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 7916,
+    "id": 2857,
     "level": "critical",
     "country": "🌍",
-    "text": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+    "text": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi?traffic_source=rss",
     "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 145,
+    "id": 2919,
     "level": "critical",
     "country": "🌍",
-    "text": "Détroit d'Ormuz : pourquoi le grand retour du pétrole ne suffit pas à faire bais",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9co-tech/20261002-d%C3%A9troit-ormuz-pourquoi-grand-retour-p%C3%A9trole-baisse-prix",
+    "text": "Why Carney’s economic overhaul is clashing with Canada’s unions",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
     "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 8613,
+    "id": 1607,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+    "time": "Fri, 02 Oct 2026"
+  },
+  {
+    "id": 8785,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bosnia’s elections explained",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/bosnias-elections-explained?traffic_source=rss",
+    "time": "Fri, 02 Oct 2026"
+  },
+  {
+    "id": 5614,
+    "level": "critical",
+    "country": "🌍",
+    "text": "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-hailed-as-national-hero-as-he-describes-attack?traffic_source=rss",
+    "time": "Fri, 02 Oct 2026"
+  },
+  {
+    "id": 2916,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -36,7 +63,7 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 8559,
+    "id": 8667,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -45,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2305,
+    "id": 4351,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6129,
+    "id": 2334,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7720,
+    "id": 2749,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4334,
+    "id": 8595,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2442,
+    "id": 3193,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8442,
+    "id": 8227,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 718,
+    "id": 8511,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6099,
+    "id": 8786,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2404,
+    "id": 7960,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 4964,
+    "id": 1400,
     "level": "medium",
     "country": "🌍",
     "text": "How Cambodia’s law on ‘freedom parks’ curtailed people’s right to protest",
@@ -135,7 +162,7 @@
     "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 4862,
+    "id": 9032,
     "level": "medium",
     "country": "🌍",
     "text": "The sound of resistance",
@@ -144,39 +171,12 @@
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 4459,
+    "id": 8925,
     "level": "medium",
     "country": "🌍",
     "text": "West-to-east energy, east-to-west computing: The Uyghur costs of China’s digital",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/01/west-to-east-energy-east-to-west-computing-the-uyghur-costs-of-chinas-digital-order/",
     "time": "Thu, 01 Oct 2026"
-  },
-  {
-    "id": 5584,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil’s capital, residents grow their own heat-fighting solutions",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/30/in-brazils-capital-residents-grow-their-own-heat-fighting-solutions/",
-    "time": "Wed, 30 Sep 2026"
-  },
-  {
-    "id": 8572,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Equating protest with terrorism: A narrative against dissent",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/29/equating-protest-with-terrorism-a-narrative-against-dissent/",
-    "time": "Tue, 29 Sep 2026"
-  },
-  {
-    "id": 9961,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When the right to protest remains, but demonstrating comes at a price",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/29/when-the-right-to-protest-remains-but-protesting-comes-at-a-price/",
-    "time": "Tue, 29 Sep 2026"
   }
 ]
