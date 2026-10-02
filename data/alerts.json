@@ -1,6 +1,6 @@
 [
   {
-    "id": 199,
+    "id": 296,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,43 +9,43 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 9997,
+    "id": 8217,
     "level": "critical",
     "country": "🌍",
-    "text": "Beyond protest: Mob violence and the struggle for institutional response in Bang",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/27/beyond-protest-mob-violence-and-the-struggle-for-institutional-response-in-bangladesh/",
-    "time": "Sun, 27 Sep 2026"
-  },
-  {
-    "id": 945,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
+    "text": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock?traffic_source=rss",
     "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 6787,
+    "id": 7659,
     "level": "critical",
     "country": "🌍",
-    "text": "Prisonniers nord-coréens : Séoul exige des excuses de Kiev pour avoir révélé un ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20261002-prisonniers-nord-cor%C3%A9ens-s%C3%A9oul-met-en-garde-l-ukraine-et-exige-des-excuses",
+    "text": "Moment mother bear slams into car to protect cub",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss",
     "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 5515,
+    "id": 856,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine en direct : la Russie frappe le pont sud de Kiev et continue de pilonner",
+    "text": "Blocage des lycées : de vives tensions entre élèves et policiers",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261002-ukraine-en-direct-une-attaque-a%C3%A9rienne-russe-fait-un-mort-%C3%A0-kiev",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261002-blocage-des-lyc%C3%A9es-de-vives-tensions-entre-%C3%A9l%C3%A8ves-et-policiers",
     "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 6231,
+    "id": 3569,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bosnie-Herzégovine : une élection sous tension, 30 ans après la guerre",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261002-bosnie-herz%C3%A9govine-une-%C3%A9lection-sous-tension-30-ans-apr%C3%A8s-la-guerre",
+    "time": "Fri, 02 Oct 2026"
+  },
+  {
+    "id": 5869,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -54,25 +54,16 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 9798,
+    "id": 2544,
     "level": "high",
     "country": "🌍",
-    "text": "Iran urges Iraq to lift flight ban amid US sanctions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss",
-    "time": "Fri, 02 Oct 2026"
-  },
-  {
-    "id": 2024,
-    "level": "high",
-    "country": "🌍",
-    "text": "Lycées bloqués : la mobilisation se poursuit à travers la France après une journ",
+    "text": "Mémoires de tirailleurs : l'histoire des tirailleurs sénégalais en 10 podcasts",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261002-en-direct-live-mouvement-blocage-des-lycees-rejoint-par-les-etudiants-vendredi-nunez-lfi",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261002-m%C3%A9moires-de-tirailleurs-l-histoire-des-tirailleurs-s%C3%A9n%C3%A9galais-en-10-podcasts",
     "time": "Fri, 02 Oct 2026"
   },
   {
-    "id": 5194,
+    "id": 8325,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3134,
+    "id": 2384,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6471,
+    "id": 9254,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9783,
+    "id": 918,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5348,
+    "id": 7284,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6040,
+    "id": 1868,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3414,
+    "id": 7590,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6919,
+    "id": 2194,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2910,
+    "id": 4257,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2072,
+    "id": 8902,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -162,7 +153,16 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7033,
+    "id": 9080,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How Cambodia’s law on ‘freedom parks’ curtailed people’s right to protest",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/02/how-cambodias-law-on-freedom-parks-curtailed-the-peoples-right-to-protest/",
+    "time": "Fri, 02 Oct 2026"
+  },
+  {
+    "id": 4271,
     "level": "medium",
     "country": "🌍",
     "text": "The sound of resistance",
@@ -171,7 +171,7 @@
     "time": "Thu, 01 Oct 2026"
   },
   {
-    "id": 427,
+    "id": 3603,
     "level": "medium",
     "country": "🌍",
     "text": "West-to-east energy, east-to-west computing: The Uyghur costs of China’s digital",
