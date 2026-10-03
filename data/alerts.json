@@ -1,6 +1,6 @@
 [
   {
-    "id": 6090,
+    "id": 1571,
     "level": "critical",
     "country": "🌍",
     "text": "After five years of war, how do Ukrainian small businesses survive?",
@@ -9,61 +9,34 @@
     "time": "Mon, 28 Sep 2026"
   },
   {
-    "id": 1209,
+    "id": 6702,
     "level": "critical",
     "country": "🌍",
-    "text": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+    "text": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 1310,
+    "id": 1348,
     "level": "critical",
     "country": "🌍",
-    "text": "Who is the mystery co-pilot behind the Flydubai attack?",
+    "text": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 8614,
+    "id": 4102,
     "level": "critical",
     "country": "🌍",
-    "text": "Floods sweep cars through streets after intense rain in Spain",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss",
-    "time": "Sat, 03 Oct 2026"
-  },
-  {
-    "id": 4410,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
-    "time": "Sat, 03 Oct 2026"
-  },
-  {
-    "id": 1259,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : un nouveau grand pont de Kiev touché par une frappe russe",
+    "text": "Yémen : de fortes explosions entendues dans la capitale Sanaa, contrôlée par les",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261003-ukraine-un-nouveau-grand-pont-de-kiev-touch%C3%A9-par-une-frappe-russe",
+    "link": "https://www.france24.com/fr/moyen-orient/20261003-y%C3%A9men-fortes-explosions-entendues-capitale-sanaa-contr%C3%B4l%C3%A9e-houthis-arabie-saoudite",
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 4652,
-    "level": "critical",
-    "country": "🌍",
-    "text": "\"Cette triste affaire Christa Pike relance la question de l’utilité de la peine ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261003-cette-triste-affaire-christa-pike-relance-la-question-de-l-utilit%C3%A9-de-la-peine-de-mort-elle-m%C3%AAme",
-    "time": "Sat, 03 Oct 2026"
-  },
-  {
-    "id": 7098,
+    "id": 8508,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -72,16 +45,34 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 3773,
+    "id": 13,
     "level": "high",
     "country": "🌍",
-    "text": "À l’approche de l'armée éthiopienne, les forces rebelles quittent en masse Mekel",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20261003-approche-armee-ethiopienne-forces-rebelles-quittent-en-masse-mekele-capitale-tigre",
+    "text": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 8349,
+    "id": 7457,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
+    "time": "Sat, 03 Oct 2026"
+  },
+  {
+    "id": 7837,
+    "level": "high",
+    "country": "🌍",
+    "text": "Droit au logement : des manifestations d'ampleur en Espagne en pleine tension po",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261003-droit-logement-manifestations-ampleur-espagne-tension-politique-madrid-crise",
+    "time": "Sat, 03 Oct 2026"
+  },
+  {
+    "id": 9460,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3122,
+    "id": 1465,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5713,
+    "id": 7805,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1838,
+    "id": 8427,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3520,
+    "id": 7397,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5576,
+    "id": 5615,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7807,
+    "id": 8503,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2695,
+    "id": 3854,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7147,
+    "id": 2479,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5270,
+    "id": 2703,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -171,12 +162,21 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 7150,
+    "id": 3878,
     "level": "medium",
     "country": "🌍",
     "text": "How Cambodia’s law on ‘freedom parks’ curtailed people’s right to protest",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/02/how-cambodias-law-on-freedom-parks-curtailed-the-peoples-right-to-protest/",
     "time": "Fri, 02 Oct 2026"
+  },
+  {
+    "id": 8912,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The sound of resistance",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/01/the-sound-of-resistance/",
+    "time": "Thu, 01 Oct 2026"
   }
 ]
