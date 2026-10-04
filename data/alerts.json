@@ -1,6 +1,15 @@
 [
   {
-    "id": 3979,
+    "id": 1653,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+    "time": "Sun, 04 Oct 2026"
+  },
+  {
+    "id": 8846,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli settlers attack Palestinian farmers during olive harvest",
@@ -9,25 +18,7 @@
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 2953,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
-    "time": "Sat, 03 Oct 2026"
-  },
-  {
-    "id": 3142,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
-    "time": "Sat, 03 Oct 2026"
-  },
-  {
-    "id": 1946,
+    "id": 1926,
     "level": "critical",
     "country": "🌍",
     "text": "Florian Louis: \"l'idée que les impérialismes avaient disparu en 1991 était ethno",
@@ -36,7 +27,7 @@
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 3376,
+    "id": 9770,
     "level": "critical",
     "country": "🌍",
     "text": "Stocks stratégiques de pétrole : ce qu'il faut savoir sur ces amortisseurs de cr",
@@ -45,7 +36,7 @@
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 2687,
+    "id": 997,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : un deuxième pont de Kiev touché par des frappes russes",
@@ -54,7 +45,7 @@
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 717,
+    "id": 3930,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -63,16 +54,25 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 8979,
+    "id": 8049,
     "level": "high",
     "country": "🌍",
-    "text": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+    "text": "Ethiopian government troops seize Tigray’s capital Mekelle",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
+    "time": "Sun, 04 Oct 2026"
+  },
+  {
+    "id": 1330,
+    "level": "high",
+    "country": "🌍",
+    "text": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 1775,
+    "id": 3549,
     "level": "high",
     "country": "🌍",
     "text": "Les Houthis disent avoir ciblé un site d'Aramco à Riyad après des raids saoudien",
@@ -81,7 +81,7 @@
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 1899,
+    "id": 5257,
     "level": "high",
     "country": "🌍",
     "text": "Droit au logement : des manifestations d'ampleur en Espagne en pleine tension po",
@@ -90,7 +90,7 @@
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 1098,
+    "id": 4791,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3344,
+    "id": 9919,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3298,
+    "id": 2512,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9830,
+    "id": 1633,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8801,
+    "id": 756,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4473,
+    "id": 3213,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9838,
+    "id": 8441,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 504,
+    "id": 242,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4543,
+    "id": 3603,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,7 +171,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2285,
+    "id": 7368,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
