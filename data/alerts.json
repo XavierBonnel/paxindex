@@ -1,24 +1,51 @@
 [
   {
-    "id": 8299,
+    "id": 1433,
     "level": "critical",
     "country": "🌍",
-    "text": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+    "text": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
+    "time": "Mon, 05 Oct 2026"
+  },
+  {
+    "id": 4090,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting?traffic_source=rss",
+    "time": "Mon, 05 Oct 2026"
+  },
+  {
+    "id": 3407,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Four African leaders issue joint declaration as Ethiopia war escalates",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates?traffic_source=rss",
+    "time": "Mon, 05 Oct 2026"
+  },
+  {
+    "id": 563,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+    "time": "Mon, 05 Oct 2026"
+  },
+  {
+    "id": 8613,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Alerte près de la base de Fairford, en Angleterre : les États-Unis retirent leur",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261004-alerte-base-fairford-angleterre-etats-unis-retirent-bombardiers-iran",
     "time": "Sun, 04 Oct 2026"
   },
   {
-    "id": 1432,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Imran Khan’s party launches march to Islamabad demanding his release",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
-    "time": "Sun, 04 Oct 2026"
-  },
-  {
-    "id": 1059,
+    "id": 6680,
     "level": "critical",
     "country": "🌍",
     "text": "L'armée éthiopienne patrouille dans Mekele, ses rivaux inquiets se réunissent en",
@@ -27,7 +54,7 @@
     "time": "Sun, 04 Oct 2026"
   },
   {
-    "id": 9270,
+    "id": 8094,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -36,7 +63,16 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 2205,
+    "id": 8381,
+    "level": "high",
+    "country": "🌍",
+    "text": "Mysterious luminous object burns in the skies above Libya",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+    "time": "Sun, 04 Oct 2026"
+  },
+  {
+    "id": 2878,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -45,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8341,
+    "id": 462,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9608,
+    "id": 3519,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 68,
+    "id": 1417,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8344,
+    "id": 6899,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6369,
+    "id": 3802,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 301,
+    "id": 5235,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 372,
+    "id": 2838,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5115,
+    "id": 1931,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6376,
+    "id": 602,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -126,7 +162,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 5443,
+    "id": 8096,
     "level": "medium",
     "country": "🌍",
     "text": "How a farmers’ protest in Bucharest was inflated online, then hijacked",
@@ -135,48 +171,12 @@
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 655,
+    "id": 3092,
     "level": "medium",
     "country": "🌍",
     "text": "How Cambodia’s law on ‘freedom parks’ curtailed people’s right to protest",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/02/how-cambodias-law-on-freedom-parks-curtailed-the-peoples-right-to-protest/",
     "time": "Fri, 02 Oct 2026"
-  },
-  {
-    "id": 1892,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The sound of resistance",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/01/the-sound-of-resistance/",
-    "time": "Thu, 01 Oct 2026"
-  },
-  {
-    "id": 315,
-    "level": "medium",
-    "country": "🌍",
-    "text": "West-to-east energy, east-to-west computing: The Uyghur costs of China’s digital",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/01/west-to-east-energy-east-to-west-computing-the-uyghur-costs-of-chinas-digital-order/",
-    "time": "Thu, 01 Oct 2026"
-  },
-  {
-    "id": 9622,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil’s capital, residents grow their own heat-fighting solutions",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/30/in-brazils-capital-residents-grow-their-own-heat-fighting-solutions/",
-    "time": "Wed, 30 Sep 2026"
-  },
-  {
-    "id": 4805,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Equating protest with terrorism: A narrative against dissent",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/09/29/equating-protest-with-terrorism-a-narrative-against-dissent/",
-    "time": "Tue, 29 Sep 2026"
   }
 ]
