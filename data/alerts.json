@@ -1,33 +1,51 @@
 [
   {
-    "id": 7146,
+    "id": 3161,
     "level": "critical",
     "country": "🌍",
-    "text": "Pakistan installs fishing nets at security outposts to block drone attacks",
+    "text": "Rubio: No direct link between US bombers removal and UK base incident",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss",
     "time": "Mon, 05 Oct 2026"
   },
   {
-    "id": 6085,
+    "id": 2311,
     "level": "critical",
     "country": "🌍",
-    "text": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+    "text": "Two dead after ship sinks off Romania following fire",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/two-dead-after-ship-sinks-off-romania-following-fire?traffic_source=rss",
     "time": "Mon, 05 Oct 2026"
   },
   {
-    "id": 4826,
+    "id": 2993,
     "level": "critical",
     "country": "🌍",
-    "text": "Le Yémen affirme avoir mené des centaines de frappes contre les Houthis",
+    "text": "Un \"cyclone\" méditerranéen en Catalogne et des inondations dans le sud de la Fra",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20261005-le-y%C3%A9men-affirme-avoir-men%C3%A9-des-centaines-de-frappes-contre-les-houthis",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261005-un-cyclone-m%C3%A9diterran%C3%A9en-en-catalogne-et-des-inondations-dans-le-sud-de-la-france",
     "time": "Mon, 05 Oct 2026"
   },
   {
-    "id": 3624,
+    "id": 5956,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mort de Dafroza Gauthier, après une vie à traquer les génocidaires rwandais en F",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261005-mort-de-dafroza-gauthier-apr%C3%A8s-une-vie-%C3%A0-traquer-les-g%C3%A9nocidaires-rwandais-en-france",
+    "time": "Mon, 05 Oct 2026"
+  },
+  {
+    "id": 5379,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : Macron dénonce le \"choix irresponsable\" de la Russie d'\"intensifier\" s",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261005-ukraine-macron-d%C3%A9nonce-choix-irresponsable-russie-intensifier-frappes",
+    "time": "Mon, 05 Oct 2026"
+  },
+  {
+    "id": 6338,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -36,25 +54,16 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 7363,
+    "id": 9475,
     "level": "high",
     "country": "🌍",
-    "text": "En direct : de 400 à 500 lycées fermés en France, plus de 160 en région parisien",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261005-en-direct-de-400-%C3%A0-500-lyc%C3%A9es-ferm%C3%A9s-en-france-plus-de-160-en-r%C3%A9gion-parisienne",
+    "text": "Nigeria launches rescue after military plane crashes with 32 aboard",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
     "time": "Mon, 05 Oct 2026"
   },
   {
-    "id": 8255,
-    "level": "high",
-    "country": "🌍",
-    "text": "Après l'accord sur le Groenland, les États-Unis poursuivent leur offensive en Is",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261005-apr%C3%A8s-l-accord-sur-le-groenland-les-%C3%A9tats-unis-poursuivent-leur-offensive-dans-l-arctique",
-    "time": "Mon, 05 Oct 2026"
-  },
-  {
-    "id": 5614,
+    "id": 3767,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6216,
+    "id": 7084,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3049,
+    "id": 9654,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3383,
+    "id": 9087,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7019,
+    "id": 5236,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1334,
+    "id": 6778,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 930,
+    "id": 4307,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6899,
+    "id": 3611,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7095,
+    "id": 110,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 8905,
+    "id": 8534,
     "level": "medium",
     "country": "🌍",
     "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
@@ -144,7 +153,7 @@
     "time": "2026-04-29T12:01"
   },
   {
-    "id": 8471,
+    "id": 5028,
     "level": "medium",
     "country": "🌍",
     "text": "Too young to run, old enough to protest: West Africa’s unfinished democratic bar",
@@ -153,7 +162,7 @@
     "time": "Mon, 05 Oct 2026"
   },
   {
-    "id": 223,
+    "id": 6243,
     "level": "medium",
     "country": "🌍",
     "text": "How a farmers’ protest in Bucharest was inflated online, then hijacked",
@@ -162,21 +171,12 @@
     "time": "Sat, 03 Oct 2026"
   },
   {
-    "id": 395,
+    "id": 373,
     "level": "medium",
     "country": "🌍",
     "text": "How Cambodia’s law on ‘freedom parks’ curtailed people’s right to protest",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/02/how-cambodias-law-on-freedom-parks-curtailed-the-peoples-right-to-protest/",
     "time": "Fri, 02 Oct 2026"
-  },
-  {
-    "id": 1836,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The sound of resistance",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/01/the-sound-of-resistance/",
-    "time": "Thu, 01 Oct 2026"
   }
 ]
