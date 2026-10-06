@@ -1,42 +1,42 @@
 [
   {
-    "id": 7156,
+    "id": 5635,
     "level": "critical",
     "country": "🌍",
-    "text": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+    "text": "Widowed twice: A Gaza mother’s story of loss and survival",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
     "time": "Tue, 06 Oct 2026"
   },
   {
-    "id": 5881,
+    "id": 3692,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+    "text": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss",
     "time": "Tue, 06 Oct 2026"
   },
   {
-    "id": 371,
+    "id": 2456,
     "level": "critical",
     "country": "🌍",
-    "text": "What’s happening in Ethiopia?",
+    "text": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
-    "time": "Mon, 05 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss",
+    "time": "Tue, 06 Oct 2026"
   },
   {
-    "id": 963,
+    "id": 2833,
     "level": "critical",
     "country": "🌍",
-    "text": "Whistleblower warns that humans don’t control AI",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai?traffic_source=rss",
-    "time": "Mon, 05 Oct 2026"
+    "text": "En Russie, Moscou visée par une des attaques les plus massives contre la capital",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261006-en-russie-une-attaque-massive-de-drones-cible-moscou-et-sa-p%C3%A9riph%C3%A9rie",
+    "time": "Tue, 06 Oct 2026"
   },
   {
-    "id": 1074,
+    "id": 3989,
     "level": "critical",
     "country": "🌍",
     "text": "Les Houthis du Yémen disent avoir frappé l'aéroport de Riyad, en Arabie saoudite",
@@ -45,25 +45,7 @@
     "time": "Mon, 05 Oct 2026"
   },
   {
-    "id": 1865,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Les exportations de pétrole brut revenues à leur niveau d'avant-guerre",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261005-les-exportations-de-p%C3%A9trole-brut-revenues-%C3%A0-leur-niveau-d-avant-guerre",
-    "time": "Mon, 05 Oct 2026"
-  },
-  {
-    "id": 3393,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sénégal : pluies torrentielles dans plusieurs villes, de lourds dégâts",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261005-s%C3%A9n%C3%A9gal-pluies-torrentielles-dans-plusieurs-villes-de-lourds-d%C3%A9g%C3%A2ts",
-    "time": "Mon, 05 Oct 2026"
-  },
-  {
-    "id": 8627,
+    "id": 9168,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -72,7 +54,34 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 2005,
+    "id": 9548,
+    "level": "high",
+    "country": "🌍",
+    "text": "Fusillade de Fort Hood en 2009 : le tireur sera exécuté par peloton",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261006-fusillade-fort-hood-donald-trump-approuve-mise-a-mort-tireur-peloton-d-execution",
+    "time": "Tue, 06 Oct 2026"
+  },
+  {
+    "id": 9111,
+    "level": "high",
+    "country": "🌍",
+    "text": "\"Acte III\" : nouvelle journée de mobilisation lycéenne sous haute tension en Fra",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20261006-acte-iii-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-sous-haute-tension-en-france",
+    "time": "Tue, 06 Oct 2026"
+  },
+  {
+    "id": 5386,
+    "level": "medium",
+    "country": "🌍",
+    "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-10-06T03:01"
+  },
+  {
+    "id": 3403,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5203,
+    "id": 505,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5984,
+    "id": 8534,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4279,
+    "id": 2776,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2483,
+    "id": 4805,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1195,
+    "id": 324,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2228,
+    "id": 312,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2829,
+    "id": 6463,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7499,
+    "id": 5271,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,30 +162,21 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3310,
+    "id": 7186,
     "level": "medium",
     "country": "🌍",
-    "text": "Hoosiers Spend an Estimated $1.8 Billion a Year on Cannabis",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-04-29T12:01"
+    "text": "When radio finds a new digital voice: Bringing Romani language and culture onlin",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/05/when-radio-finds-a-new-digital-voice-bringing-romani-language-and-culture-online-in-kosovo/",
+    "time": "Mon, 05 Oct 2026"
   },
   {
-    "id": 4488,
+    "id": 2408,
     "level": "medium",
     "country": "🌍",
     "text": "Too young to run, old enough to protest: West Africa’s unfinished democratic bar",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/05/too-young-to-run-old-enough-to-protest-west-africas-unfinished-democratic-bargain/",
     "time": "Mon, 05 Oct 2026"
-  },
-  {
-    "id": 8365,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How a farmers’ protest in Bucharest was inflated online, then hijacked",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/03/how-a-farmers-protest-in-bucharest-was-inflated-online-then-hijacked/",
-    "time": "Sat, 03 Oct 2026"
   }
 ]
