@@ -1,33 +1,69 @@
 [
   {
-    "id": 7307,
+    "id": 1705,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+    "text": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
     "time": "Wed, 07 Oct 2026"
   },
   {
-    "id": 1086,
+    "id": 4865,
     "level": "critical",
     "country": "🌍",
-    "text": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+    "text": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
-    "time": "Tue, 06 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+    "time": "Wed, 07 Oct 2026"
   },
   {
-    "id": 224,
+    "id": 8931,
     "level": "critical",
     "country": "🌍",
-    "text": "CNN, CBS News now under one roof as Paramount-Warner Bros merger closes",
+    "text": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss",
-    "time": "Tue, 06 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+    "time": "Wed, 07 Oct 2026"
   },
   {
-    "id": 5774,
+    "id": 6244,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemen’s displaced children dream of returning to school",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+    "time": "Wed, 07 Oct 2026"
+  },
+  {
+    "id": 8477,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How three years of Israel’s genocidal war have changed Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
+    "time": "Wed, 07 Oct 2026"
+  },
+  {
+    "id": 9952,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Three years of Israel’s genocide in Gaza: In numbers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+    "time": "Wed, 07 Oct 2026"
+  },
+  {
+    "id": 9554,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Une nouvelle attaque de missiles russes sur Kiev fait deux morts",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261007-ukraine-attaque-missiles-russie-kiev-deux-morts-frappes-infrastructures-%C3%A9nergie",
+    "time": "Wed, 07 Oct 2026"
+  },
+  {
+    "id": 4785,
     "level": "critical",
     "country": "🌍",
     "text": "États-Unis : après son exécution ratée, Christa Pike a \"repris connaissance et p",
@@ -36,7 +72,7 @@
     "time": "Tue, 06 Oct 2026"
   },
   {
-    "id": 3833,
+    "id": 2271,
     "level": "high",
     "country": "🌍",
     "text": "Who can speak on behalf of the people? The new frontiers of protest in the Sahel",
@@ -45,16 +81,7 @@
     "time": "Wed, 30 Sep 2026"
   },
   {
-    "id": 4313,
-    "level": "high",
-    "country": "🌍",
-    "text": "Blocage des lycées en France : l'armée en renfort ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261006-blocage-des-lyc%C3%A9es-en-france-l-arm%C3%A9e-en-renfortnife",
-    "time": "Tue, 06 Oct 2026"
-  },
-  {
-    "id": 5887,
+    "id": 4282,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 6762,
+    "id": 9120,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3231,
+    "id": 4121,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7007,
+    "id": 5127,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2190,
+    "id": 7185,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 338,
+    "id": 6129,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8666,
+    "id": 9899,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 67,
+    "id": 9056,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 715,
+    "id": 1144,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9274,
+    "id": 3975,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,39 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6051,
+    "id": 6178,
     "level": "medium",
     "country": "🌍",
-    "text": "Young people are bridging the climate divide for Oceania and the Caribbean",
+    "text": "Digital hopes, real power: From connection to collective action",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/06/young-people-are-bridging-the-climate-divide-for-oceania-and-the-caribbean/",
-    "time": "Tue, 06 Oct 2026"
-  },
-  {
-    "id": 1134,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When radio finds a new digital voice: Bringing Romani language and culture onlin",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/05/when-radio-finds-a-new-digital-voice-bringing-romani-language-and-culture-online-in-kosovo/",
-    "time": "Mon, 05 Oct 2026"
-  },
-  {
-    "id": 600,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Too young to run, old enough to protest: West Africa’s unfinished democratic bar",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/05/too-young-to-run-old-enough-to-protest-west-africas-unfinished-democratic-bargain/",
-    "time": "Mon, 05 Oct 2026"
-  },
-  {
-    "id": 3594,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How a farmers’ protest in Bucharest was inflated online, then hijacked",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/03/how-a-farmers-protest-in-bucharest-was-inflated-online-then-hijacked/",
-    "time": "Sat, 03 Oct 2026"
+    "link": "https://globalvoices.org/2026/10/07/digital-hopes-real-power-from-connection-to-collective-action/",
+    "time": "Wed, 07 Oct 2026"
   }
 ]
