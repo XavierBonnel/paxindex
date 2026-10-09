@@ -1,69 +1,33 @@
 [
   {
-    "id": 9418,
+    "id": 3171,
     "level": "critical",
     "country": "🌍",
-    "text": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
+    "text": "Israeli settler attacks target Palestinian olive harvest in West Bank",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 7383,
+    "id": 6891,
     "level": "critical",
     "country": "🌍",
-    "text": "Three years after October 7, prolonged war takes its toll on Israelis",
+    "text": "Ethiopia and Eritrea accuse one another of launching war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 9510,
+    "id": 8878,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says US will not strike Iran before midterm elections",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
-    "time": "Fri, 09 Oct 2026"
-  },
-  {
-    "id": 6826,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
-    "time": "Fri, 09 Oct 2026"
-  },
-  {
-    "id": 6813,
-    "level": "critical",
-    "country": "🌍",
-    "text": "How October 7 changed Lebanon and Hezbollah’s political reality",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
-    "time": "Fri, 09 Oct 2026"
-  },
-  {
-    "id": 4820,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sierra Leone : des diamants de sang aux pierres de l’espoir ?",
+    "text": "\"Frogs\", l'acronyme moqueur qui alerte sur la bombe de la dette française",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20261009-sierra-leone-des-diamants-de-sang-aux-pierres-de-l-espoir",
+    "link": "https://www.france24.com/fr/france/20261009-frogs-acronyme-moqueur-alerte-bombe-dette-france-lecornu-budget",
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 4064,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : sous le menace des drones, les habitants de Kramatorsk forcés de fuir",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261009-ukraine-sous-le-menace-des-drones-les-habitants-de-kramatorsk-forc%C3%A9s-de-fuir",
-    "time": "Fri, 09 Oct 2026"
-  },
-  {
-    "id": 7413,
+    "id": 1612,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -72,7 +36,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 3197,
+    "id": 965,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -81,7 +45,25 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 9697,
+    "id": 539,
+    "level": "high",
+    "country": "🌍",
+    "text": "US sanctions International Criminal Court itself in latest escalation",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
+    "time": "Fri, 09 Oct 2026"
+  },
+  {
+    "id": 2630,
+    "level": "high",
+    "country": "🌍",
+    "text": "Washington sanctionne la Cour pénale internationale pour \"défendre la souveraine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261009-%C3%A9tats-unis-sanction-cour-p%C3%A9nale-internationale-pour-d%C3%A9fendre-souverainet%C3%A9-am%C3%A9ricaine",
+    "time": "Fri, 09 Oct 2026"
+  },
+  {
+    "id": 9507,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 183,
+    "id": 6622,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9015,
+    "id": 462,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5068,
+    "id": 675,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8772,
+    "id": 2763,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4057,
+    "id": 2025,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5428,
+    "id": 8459,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3988,
+    "id": 2199,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3598,
+    "id": 9531,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9272,
+    "id": 6102,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -171,12 +153,30 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 2431,
+    "id": 2046,
     "level": "medium",
     "country": "🌍",
     "text": "El Niño speeds climate crisis and tests Latin America’s food security",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/08/el-nino-speeds-climate-crisis-and-tests-latin-americas-food-security/",
     "time": "Thu, 08 Oct 2026"
+  },
+  {
+    "id": 9602,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Africa’s governments already treat the internet as protest infrastructure. Its c",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/",
+    "time": "Wed, 07 Oct 2026"
+  },
+  {
+    "id": 1187,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Digital hopes, real power: From connection to collective action",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/07/digital-hopes-real-power-from-connection-to-collective-action/",
+    "time": "Wed, 07 Oct 2026"
   }
 ]
