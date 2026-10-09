@@ -1,33 +1,51 @@
 [
   {
-    "id": 3171,
+    "id": 7817,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+    "text": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 6891,
+    "id": 7614,
     "level": "critical",
     "country": "🌍",
-    "text": "Ethiopia and Eritrea accuse one another of launching war",
+    "text": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 8878,
+    "id": 8262,
     "level": "critical",
     "country": "🌍",
-    "text": "\"Frogs\", l'acronyme moqueur qui alerte sur la bombe de la dette française",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261009-frogs-acronyme-moqueur-alerte-bombe-dette-france-lecornu-budget",
+    "text": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 1612,
+    "id": 9376,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump announces Russian diesel deal amid soaring US fuel prices",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+    "time": "Fri, 09 Oct 2026"
+  },
+  {
+    "id": 5673,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
+    "time": "Fri, 09 Oct 2026"
+  },
+  {
+    "id": 7036,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -36,7 +54,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 965,
+    "id": 193,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -45,25 +63,34 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 539,
+    "id": 4299,
     "level": "high",
     "country": "🌍",
-    "text": "US sanctions International Criminal Court itself in latest escalation",
+    "text": "European states, Canada, Japan and UN back ICC against US sanctions",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 2630,
+    "id": 5213,
     "level": "high",
     "country": "🌍",
-    "text": "Washington sanctionne la Cour pénale internationale pour \"défendre la souveraine",
+    "text": "Dominique Moïsi: \"trois ans après, Israël est toujours paralysé par l'expérience",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20261009-%C3%A9tats-unis-sanction-cour-p%C3%A9nale-internationale-pour-d%C3%A9fendre-souverainet%C3%A9-am%C3%A9ricaine",
+    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261009-dominique-mo%C3%AFsi-trois-ans-apr%C3%A8s-isra%C3%ABl-est-toujours-paralys%C3%A9-par-l-exp%C3%A9rience-du-7-octobre",
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 9507,
+    "id": 7389,
+    "level": "high",
+    "country": "🌍",
+    "text": "Les États-Unis veulent diffuser en direct l’exécution de Nidal Hasan",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261009-les-%C3%A9tats-unis-veulent-diffuser-en-direct-l-ex%C3%A9cution-de-nidal-hasan",
+    "time": "Fri, 09 Oct 2026"
+  },
+  {
+    "id": 9726,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 6622,
+    "id": 1411,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 462,
+    "id": 5259,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 675,
+    "id": 3623,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2763,
+    "id": 2924,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2025,
+    "id": 2887,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8459,
+    "id": 4035,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2199,
+    "id": 6817,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9531,
+    "id": 8353,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,39 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6102,
+    "id": 728,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 2046,
-    "level": "medium",
-    "country": "🌍",
-    "text": "El Niño speeds climate crisis and tests Latin America’s food security",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/08/el-nino-speeds-climate-crisis-and-tests-latin-americas-food-security/",
-    "time": "Thu, 08 Oct 2026"
-  },
-  {
-    "id": 9602,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Africa’s governments already treat the internet as protest infrastructure. Its c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/",
-    "time": "Wed, 07 Oct 2026"
-  },
-  {
-    "id": 1187,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Digital hopes, real power: From connection to collective action",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/07/digital-hopes-real-power-from-connection-to-collective-action/",
-    "time": "Wed, 07 Oct 2026"
   }
 ]
