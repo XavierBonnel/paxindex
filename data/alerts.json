@@ -1,33 +1,51 @@
 [
   {
-    "id": 9863,
+    "id": 8641,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump slams Norway for not awarding him Nobel Peace Prize",
+    "text": "Jerusalem Daily: Israeli settlers attack olive farmers",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 5336,
+    "id": 7690,
     "level": "critical",
     "country": "🌍",
-    "text": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
+    "text": "Has Yemen returned to ‘full-scale war’?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 9484,
+    "id": 5215,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine en direct : au moins sept morts dont trois enfants dans des frappes russ",
+    "text": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
+    "time": "Sat, 10 Oct 2026"
+  },
+  {
+    "id": 8821,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : 15 morts dans des frappes russes sur Zaporijjia",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261010-ukraine-en-direct-les-discussions-ont-%C3%A9t%C3%A9-constructives-%C3%A0-miami-selon-steve-witkoff",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-guerre-en-ukraine-15-morts-dans-des-frappes-russes-sur-zaporijjia",
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 639,
+    "id": 6707,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Journée mondiale contre la peine de mort : vers un retour en force ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-journ%C3%A9e-mondiale-contre-la-peine-de-mort-vers-un-retour-en-force",
+    "time": "Sat, 10 Oct 2026"
+  },
+  {
+    "id": 3209,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -36,7 +54,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 8107,
+    "id": 5215,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -45,25 +63,16 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 7757,
+    "id": 1183,
     "level": "high",
     "country": "🌍",
-    "text": "US lifts sanctions on daughter of military-linked Myanmar businessman",
+    "text": "Why is the US sanctioning the International Criminal Court?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 1461,
-    "level": "high",
-    "country": "🌍",
-    "text": "Massacrés en 1940 parce que noirs, deux tirailleurs sénégalais enfin honorés dan",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261010-massacre-tirailleurs-senegalais-1940-armee-france-allemagne-hommage-ceremonie-yonne",
-    "time": "Sat, 10 Oct 2026"
-  },
-  {
-    "id": 747,
+    "id": 8928,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 2688,
+    "id": 4358,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 208,
+    "id": 4092,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6490,
+    "id": 1457,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3073,
+    "id": 7795,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5820,
+    "id": 3728,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4821,
+    "id": 8973,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2856,
+    "id": 504,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8557,
+    "id": 7822,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7912,
+    "id": 5236,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1488,
+    "id": 6986,
     "level": "medium",
     "country": "🌍",
     "text": "How Ecuador is fighting to keep industrial trans fats off the food shelf",
@@ -162,21 +171,12 @@
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 9066,
+    "id": 2079,
     "level": "medium",
     "country": "🌍",
     "text": "Trump’s ‘Agreements on Reciprocal Trade’ (ARTs) threaten equitable access to the",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/09/trumps-agreements-on-reciprocal-trade-arts-threaten-equitable-access-to-the-internet-in-global-south/",
     "time": "Fri, 09 Oct 2026"
-  },
-  {
-    "id": 2466,
-    "level": "medium",
-    "country": "🌍",
-    "text": "El Niño speeds climate crisis and tests Latin America’s food security",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/08/el-nino-speeds-climate-crisis-and-tests-latin-americas-food-security/",
-    "time": "Thu, 08 Oct 2026"
   }
 ]
