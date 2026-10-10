@@ -1,33 +1,60 @@
 [
   {
-    "id": 8641,
+    "id": 5683,
     "level": "critical",
     "country": "🌍",
-    "text": "Jerusalem Daily: Israeli settlers attack olive farmers",
+    "text": "Trump says Ukraine needs a new president who will agree to end the war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 7690,
+    "id": 8339,
     "level": "critical",
     "country": "🌍",
-    "text": "Has Yemen returned to ‘full-scale war’?",
+    "text": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 5215,
+    "id": 8029,
     "level": "critical",
     "country": "🌍",
-    "text": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+    "text": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
+    "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 8821,
+    "id": 5214,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+    "time": "Sat, 10 Oct 2026"
+  },
+  {
+    "id": 8239,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Nine killed in shooting in US state of Pennsylvania, including two children",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+    "time": "Sat, 10 Oct 2026"
+  },
+  {
+    "id": 7311,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+    "time": "Sat, 10 Oct 2026"
+  },
+  {
+    "id": 2848,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : 15 morts dans des frappes russes sur Zaporijjia",
@@ -36,16 +63,7 @@
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 6707,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Journée mondiale contre la peine de mort : vers un retour en force ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261010-journ%C3%A9e-mondiale-contre-la-peine-de-mort-vers-un-retour-en-force",
-    "time": "Sat, 10 Oct 2026"
-  },
-  {
-    "id": 3209,
+    "id": 6527,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -54,7 +72,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 5215,
+    "id": 2110,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -63,16 +81,16 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 1183,
+    "id": 2917,
     "level": "high",
     "country": "🌍",
-    "text": "Why is the US sanctioning the International Criminal Court?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+    "text": "Ukraine : la \"busification\", l’enrôlement illégal d’hommes dans l’armée, crée de",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261010-ukraine-busification-enr%C3%B4lement-ill%C3%A9gal-hommes-arm%C3%A9e-tensions-russie",
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 8928,
+    "id": 9078,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -81,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 4358,
+    "id": 2382,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4092,
+    "id": 6210,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1457,
+    "id": 4372,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7795,
+    "id": 1871,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3728,
+    "id": 7612,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8973,
+    "id": 3728,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 504,
+    "id": 1276,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7822,
+    "id": 693,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,30 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5236,
+    "id": 6247,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 6986,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Ecuador is fighting to keep industrial trans fats off the food shelf",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/10/how-ecuador-is-fighting-to-keep-industrial-trans-fats-off-the-food-shelf/",
-    "time": "Sat, 10 Oct 2026"
-  },
-  {
-    "id": 2079,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trump’s ‘Agreements on Reciprocal Trade’ (ARTs) threaten equitable access to the",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/09/trumps-agreements-on-reciprocal-trade-arts-threaten-equitable-access-to-the-internet-in-global-south/",
-    "time": "Fri, 09 Oct 2026"
   }
 ]
