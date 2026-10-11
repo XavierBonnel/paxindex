@@ -1,60 +1,51 @@
 [
   {
-    "id": 144,
+    "id": 4853,
     "level": "critical",
     "country": "🌍",
-    "text": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+    "text": "Is the Yemen war entering a new phase?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 2767,
+    "id": 8282,
     "level": "critical",
     "country": "🌍",
-    "text": "The scramble to rewrite Biden’s record on Gaza",
+    "text": "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 7362,
+    "id": 6913,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+    "text": "Tour bus crash in Turkiye leaves at least 11 dead",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/tour-bus-crash-in-turkiye-leaves-at-least-11-dead?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 6709,
+    "id": 8237,
     "level": "critical",
     "country": "🌍",
-    "text": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
-    "time": "Sun, 11 Oct 2026"
-  },
-  {
-    "id": 3278,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Sites énergétiques : Zelensky prêt à une désescalade avec la Russie si elle est ",
+    "text": "Trump s'en prend à Zelensky et veut un nouveau président en Ukraine",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261011-sites-%C3%A9nerg%C3%A9tiques-zelensky-pr%C3%AAt-d%C3%A9sescalade-russie-ukraine-r%C3%A9ciproque-trump",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261011-trump-s-en-prend-%C3%A0-zelensky-et-veut-un-nouveau-pr%C3%A9sident-en-ukraine",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 6559,
+    "id": 1825,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine : Zelensky lâché par Trump pour récupérer du gazole russe",
+    "text": "Trump affirme que la Russie et l'Ukraine ont conclu un \"cessez-le-feu énergétiqu",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261011-ukraine-zelensky-l%C3%A2ch%C3%A9-par-trump-pour-r%C3%A9cup%C3%A9rer-du-gazole-russe",
+    "link": "https://www.france24.com/fr/europe/20261011-trump-affirme-russie-ukraine-ont-conclu-cessez-le-feu-%C3%A9nerg%C3%A9tique-imm%C3%A9diat",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 4574,
+    "id": 5057,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -63,7 +54,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 3238,
+    "id": 2602,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -72,7 +63,7 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 6672,
+    "id": 9337,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -81,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 2481,
+    "id": 1268,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1715,
+    "id": 1884,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6784,
+    "id": 7703,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4176,
+    "id": 2037,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7834,
+    "id": 4062,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5742,
+    "id": 489,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6157,
+    "id": 4752,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5433,
+    "id": 416,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7532,
+    "id": 1031,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -162,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6614,
+    "id": 5661,
     "level": "medium",
     "country": "🌍",
     "text": "How Ecuador is fighting to keep industrial trans fats off the food shelf",
@@ -171,12 +162,21 @@
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 9114,
+    "id": 7164,
     "level": "medium",
     "country": "🌍",
     "text": "Trump’s ‘Agreements on Reciprocal Trade’ (ARTs) threaten equitable access to the",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/09/trumps-agreements-on-reciprocal-trade-arts-threaten-equitable-access-to-the-internet-in-global-south/",
     "time": "Fri, 09 Oct 2026"
+  },
+  {
+    "id": 3707,
+    "level": "medium",
+    "country": "🌍",
+    "text": "El Niño speeds climate crisis and tests Latin America’s food security",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/08/el-nino-speeds-climate-crisis-and-tests-latin-americas-food-security/",
+    "time": "Thu, 08 Oct 2026"
   }
 ]
