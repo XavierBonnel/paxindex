@@ -1,60 +1,60 @@
 [
   {
-    "id": 2717,
+    "id": 144,
     "level": "critical",
     "country": "🌍",
-    "text": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+    "text": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 3473,
+    "id": 2767,
     "level": "critical",
     "country": "🌍",
-    "text": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+    "text": "The scramble to rewrite Biden’s record on Gaza",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 8361,
+    "id": 7362,
     "level": "critical",
     "country": "🌍",
-    "text": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
+    "text": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 4386,
+    "id": 6709,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+    "text": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 4032,
+    "id": 3278,
     "level": "critical",
     "country": "🌍",
-    "text": "Twelve killed, more than 300 injured in Riyadh airport attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
-    "time": "Sun, 11 Oct 2026"
-  },
-  {
-    "id": 5938,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine : une attaque russe fait 20 morts à Zaporijjia, passe d'armes entre Trum",
+    "text": "Sites énergétiques : Zelensky prêt à une désescalade avec la Russie si elle est ",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261010-ukraine-une-attaque-russe-fait-20-morts-%C3%A0-zaporijjia-passe-d-armes-entre-trump-et-zelensky",
-    "time": "Sat, 10 Oct 2026"
+    "link": "https://www.france24.com/fr/europe/20261011-sites-%C3%A9nerg%C3%A9tiques-zelensky-pr%C3%AAt-d%C3%A9sescalade-russie-ukraine-r%C3%A9ciproque-trump",
+    "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 4015,
+    "id": 6559,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : Zelensky lâché par Trump pour récupérer du gazole russe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261011-ukraine-zelensky-l%C3%A2ch%C3%A9-par-trump-pour-r%C3%A9cup%C3%A9rer-du-gazole-russe",
+    "time": "Sun, 11 Oct 2026"
+  },
+  {
+    "id": 4574,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -63,7 +63,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 4977,
+    "id": 3238,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -72,25 +72,7 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 7427,
-    "level": "high",
-    "country": "🌍",
-    "text": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
-    "time": "Sun, 11 Oct 2026"
-  },
-  {
-    "id": 9342,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ukraine : la \"busification\", l’enrôlement illégal d’hommes dans l’armée, crée de",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261010-ukraine-busification-enr%C3%B4lement-ill%C3%A9gal-hommes-arm%C3%A9e-tensions-russie",
-    "time": "Sat, 10 Oct 2026"
-  },
-  {
-    "id": 4775,
+    "id": 6672,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 3918,
+    "id": 2481,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7362,
+    "id": 1715,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6259,
+    "id": 6784,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7467,
+    "id": 4176,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 427,
+    "id": 7834,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3559,
+    "id": 5742,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9250,
+    "id": 6157,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 64,
+    "id": 5433,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -171,12 +153,30 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 979,
+    "id": 7532,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 6614,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How Ecuador is fighting to keep industrial trans fats off the food shelf",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/10/how-ecuador-is-fighting-to-keep-industrial-trans-fats-off-the-food-shelf/",
+    "time": "Sat, 10 Oct 2026"
+  },
+  {
+    "id": 9114,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Trump’s ‘Agreements on Reciprocal Trade’ (ARTs) threaten equitable access to the",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/09/trumps-agreements-on-reciprocal-trade-arts-threaten-equitable-access-to-the-internet-in-global-south/",
+    "time": "Fri, 09 Oct 2026"
   }
 ]
