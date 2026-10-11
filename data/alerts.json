@@ -1,42 +1,51 @@
 [
   {
-    "id": 8198,
+    "id": 2717,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemeni government’s military says its forces advancing against Houthis",
+    "text": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
-    "time": "Sat, 10 Oct 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
+    "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 6029,
+    "id": 3473,
     "level": "critical",
     "country": "🌍",
-    "text": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+    "text": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
-    "time": "Sat, 10 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+    "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 2919,
+    "id": 8361,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen’s Houthis release video of drone attacks on gov’t forces",
+    "text": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-    "time": "Sat, 10 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+    "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 4574,
+    "id": 4386,
     "level": "critical",
     "country": "🌍",
-    "text": "Damage seen inside Saudi airport after third attack this week",
+    "text": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
-    "time": "Sat, 10 Oct 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+    "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 4138,
+    "id": 4032,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Twelve killed, more than 300 injured in Riyadh airport attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+    "time": "Sun, 11 Oct 2026"
+  },
+  {
+    "id": 5938,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : une attaque russe fait 20 morts à Zaporijjia, passe d'armes entre Trum",
@@ -45,7 +54,7 @@
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 1677,
+    "id": 4015,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -54,7 +63,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 2483,
+    "id": 4977,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -63,7 +72,16 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 4260,
+    "id": 7427,
+    "level": "high",
+    "country": "🌍",
+    "text": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+    "time": "Sun, 11 Oct 2026"
+  },
+  {
+    "id": 9342,
     "level": "high",
     "country": "🌍",
     "text": "Ukraine : la \"busification\", l’enrôlement illégal d’hommes dans l’armée, crée de",
@@ -72,7 +90,7 @@
     "time": "Sat, 10 Oct 2026"
   },
   {
-    "id": 9908,
+    "id": 4775,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -81,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 8560,
+    "id": 3918,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 689,
+    "id": 7362,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6152,
+    "id": 6259,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5123,
+    "id": 7467,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4573,
+    "id": 427,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8851,
+    "id": 3559,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7983,
+    "id": 9250,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7405,
+    "id": 64,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,30 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5437,
+    "id": 979,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 1124,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Ecuador is fighting to keep industrial trans fats off the food shelf",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/10/how-ecuador-is-fighting-to-keep-industrial-trans-fats-off-the-food-shelf/",
-    "time": "Sat, 10 Oct 2026"
-  },
-  {
-    "id": 2113,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trump’s ‘Agreements on Reciprocal Trade’ (ARTs) threaten equitable access to the",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/09/trumps-agreements-on-reciprocal-trade-arts-threaten-equitable-access-to-the-internet-in-global-south/",
-    "time": "Fri, 09 Oct 2026"
   }
 ]
