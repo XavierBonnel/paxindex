@@ -1,33 +1,69 @@
 [
   {
-    "id": 1281,
+    "id": 8571,
     "level": "critical",
     "country": "🌍",
-    "text": "Two killed near Israeli-occupied area in south Lebanon",
+    "text": "Iran’s FM urges diplomacy in call with Saudi counterpart",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
+    "time": "Mon, 12 Oct 2026"
+  },
+  {
+    "id": 5179,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+    "time": "Mon, 12 Oct 2026"
+  },
+  {
+    "id": 1940,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pakistani national killed in second Houthi strike on Riyadh airport",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 2439,
+    "id": 9149,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+    "text": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 2340,
+    "id": 8695,
     "level": "critical",
     "country": "🌍",
-    "text": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+    "text": "Footage shows moment Russian strike hits Ukrainian grocery store",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 3046,
+    "id": 7647,
+    "level": "critical",
+    "country": "🌍",
+    "text": "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/houthi-strike-riyadh-international-airport-cctv-footage?traffic_source=rss",
+    "time": "Sun, 11 Oct 2026"
+  },
+  {
+    "id": 6306,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Un terrain, deux acheteurs, qui est le véritable propriétaire? Focus sur le fonc",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261011-un-terrain-deux-acheteurs-qui-est-le-v%C3%A9ritable-propri%C3%A9taire-focus-sur-le-foncier-en-afrique",
+    "time": "Sun, 11 Oct 2026"
+  },
+  {
+    "id": 4792,
     "level": "critical",
     "country": "🌍",
     "text": "Les Houthis revendiquent plusieurs frappes contre l'aéroport de Riyad",
@@ -36,7 +72,7 @@
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 665,
+    "id": 7179,
     "level": "critical",
     "country": "🌍",
     "text": "Décolonisations : pourquoi le passé colonial divise encore la France ? Pascal Bl",
@@ -45,7 +81,7 @@
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 3565,
+    "id": 2303,
     "level": "critical",
     "country": "🌍",
     "text": "Attaque des Houthis contre l'aéroport de Riyad, samedi : au moins 13 morts et pl",
@@ -54,7 +90,7 @@
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 4504,
+    "id": 8202,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -63,7 +99,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 4095,
+    "id": 8316,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -72,16 +108,16 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 9021,
+    "id": 9415,
     "level": "high",
     "country": "🌍",
-    "text": "Zelenskyy welcomes US-announced energy ceasefire",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+    "text": "L'Érythrée accuse l'Éthiopie de déstabiliser la région",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261011-l-%C3%A9rythr%C3%A9e-accuse-l-%C3%A9thiopie-de-d%C3%A9stabiliser-la-r%C3%A9gion",
     "time": "Sun, 11 Oct 2026"
   },
   {
-    "id": 1412,
+    "id": 6043,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +126,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7906,
+    "id": 8797,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +135,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9893,
+    "id": 51,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +144,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7759,
+    "id": 7482,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +153,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9959,
+    "id": 5761,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +162,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7407,
+    "id": 1276,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,48 +171,12 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2075,
+    "id": 4058,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 1260,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 7386,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 3875,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 2958,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When free speech has a price: Youth voices in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique/",
-    "time": "Sun, 11 Oct 2026"
   }
 ]
