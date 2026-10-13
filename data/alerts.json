@@ -1,60 +1,42 @@
 [
   {
-    "id": 3098,
+    "id": 2139,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+    "text": "The escalation in Yemen is a turning point",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss",
     "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 1859,
+    "id": 4694,
     "level": "critical",
     "country": "🌍",
-    "text": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+    "text": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
-    "time": "Mon, 12 Oct 2026"
+    "link": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
+    "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 6018,
+    "id": 9462,
     "level": "critical",
     "country": "🌍",
-    "text": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+    "text": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
-    "time": "Mon, 12 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
+    "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 3468,
+    "id": 737,
     "level": "critical",
     "country": "🌍",
-    "text": "US archbishop says Catholics in army should not participate in firing squad",
+    "text": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
-    "time": "Mon, 12 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
+    "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 9141,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Poland says two Turks arrested over Russia-linked Starlink station fire",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
-    "time": "Mon, 12 Oct 2026"
-  },
-  {
-    "id": 7131,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Conflict, drought increasing risk of famine in Sudan: Monitor",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
-    "time": "Mon, 12 Oct 2026"
-  },
-  {
-    "id": 1847,
+    "id": 5071,
     "level": "critical",
     "country": "🌍",
     "text": "L'acteur RJ Mitte, qui jouait le fils de Walter White dans la série \"Breaking Ba",
@@ -63,16 +45,7 @@
     "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 5654,
-    "level": "critical",
-    "country": "🌍",
-    "text": "En RD Congo, l'ex-président Joseph Kabila et le M23 s'allient dans un mouvement ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20261012-rd-congo-ex-president-joseph-kabila-m23-alliance-front-refondation-nation-tshisekedi",
-    "time": "Mon, 12 Oct 2026"
-  },
-  {
-    "id": 8541,
+    "id": 3050,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -81,7 +54,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 192,
+    "id": 3686,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -90,16 +63,7 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 4276,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ukraine : un piège tendu par Trump ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261012-ukraine-un-pi%C3%A8ge-tendu-par-trump",
-    "time": "Mon, 12 Oct 2026"
-  },
-  {
-    "id": 3456,
+    "id": 3171,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -108,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1824,
+    "id": 1618,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -117,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1416,
+    "id": 7683,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7807,
+    "id": 6813,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 895,
+    "id": 3871,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5302,
+    "id": 1597,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4701,
+    "id": 8249,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5309,
+    "id": 3254,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +135,48 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 280,
+    "id": 3146,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 217,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-13T09:00"
+  },
+  {
+    "id": 1947,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Poetry book promotes Chabacano, Asia’s only Spanish-based creole language",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/13/poetry-book-promotes-chabacano-asias-only-spanish-based-creole-language/",
+    "time": "Tue, 13 Oct 2026"
+  },
+  {
+    "id": 230,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What African elections can learn from the Borana Gadaa system",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/12/what-african-elections-can-learn-from-the-borana-gadaa-system/",
+    "time": "Mon, 12 Oct 2026"
+  },
+  {
+    "id": 3276,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Bangladesh-Malaysia recruitment reforms revive old questions over the cost of mi",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/12/bangladesh-malaysia-recruitment-reforms-revive-old-questions-over-the-cost-of-migration/",
+    "time": "Mon, 12 Oct 2026"
   }
 ]
