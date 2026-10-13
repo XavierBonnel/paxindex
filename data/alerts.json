@@ -1,51 +1,33 @@
 [
   {
-    "id": 2139,
+    "id": 3996,
     "level": "critical",
     "country": "🌍",
-    "text": "The escalation in Yemen is a turning point",
+    "text": "Sweden’s centre-left leader fails in second bid to form government",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/13/swedens-centre-left-leader-fails-in-second-bid-to-form-government?traffic_source=rss",
     "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 4694,
+    "id": 5211,
     "level": "critical",
     "country": "🌍",
-    "text": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
-    "time": "Tue, 13 Oct 2026"
-  },
-  {
-    "id": 9462,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-    "time": "Tue, 13 Oct 2026"
-  },
-  {
-    "id": 737,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss",
-    "time": "Tue, 13 Oct 2026"
-  },
-  {
-    "id": 5071,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'acteur RJ Mitte, qui jouait le fils de Walter White dans la série \"Breaking Ba",
+    "text": "Des bots russes inactifs après l'attaque de datacenters par l'Ukraine ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/culture/20261013-acteur-rj-mitte-fils-walter-white-breaking-bad-mort-deces",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-des-bots-russes-inactifs-apr%C3%A8s-l-attaque-de-datacenters-par-l-ukraine",
     "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 3050,
+    "id": 13,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump et l'Otan : deux idéologies éloignées",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-trump-et-l-otan-deux-id%C3%A9ologies-%C3%A9loign%C3%A9es",
+    "time": "Tue, 13 Oct 2026"
+  },
+  {
+    "id": 2546,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -54,7 +36,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 3686,
+    "id": 6691,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -63,7 +45,34 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 3171,
+    "id": 3089,
+    "level": "high",
+    "country": "🌍",
+    "text": "UK spy chief says Iran is stepping up targeting of military bases",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
+    "time": "Tue, 13 Oct 2026"
+  },
+  {
+    "id": 4824,
+    "level": "high",
+    "country": "🌍",
+    "text": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
+    "time": "Tue, 13 Oct 2026"
+  },
+  {
+    "id": 7674,
+    "level": "high",
+    "country": "🌍",
+    "text": "Des compagnies aériennes suspendent les vols vers l'Arabie saoudite",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261013-des-compagnies-a%C3%A9riennes-suspendent-les-vols-vers-l-arabie-saoudite",
+    "time": "Tue, 13 Oct 2026"
+  },
+  {
+    "id": 3090,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1618,
+    "id": 6207,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7683,
+    "id": 5601,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6813,
+    "id": 4317,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3871,
+    "id": 9756,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1597,
+    "id": 512,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8249,
+    "id": 1207,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3254,
+    "id": 4825,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3146,
+    "id": 3561,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 217,
+    "id": 9356,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -153,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 1947,
+    "id": 1424,
     "level": "medium",
     "country": "🌍",
     "text": "Poetry book promotes Chabacano, Asia’s only Spanish-based creole language",
@@ -162,21 +171,12 @@
     "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 230,
+    "id": 741,
     "level": "medium",
     "country": "🌍",
     "text": "What African elections can learn from the Borana Gadaa system",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/12/what-african-elections-can-learn-from-the-borana-gadaa-system/",
-    "time": "Mon, 12 Oct 2026"
-  },
-  {
-    "id": 3276,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Bangladesh-Malaysia recruitment reforms revive old questions over the cost of mi",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/12/bangladesh-malaysia-recruitment-reforms-revive-old-questions-over-the-cost-of-migration/",
     "time": "Mon, 12 Oct 2026"
   }
 ]
