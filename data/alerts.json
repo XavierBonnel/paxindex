@@ -1,15 +1,78 @@
 [
   {
-    "id": 7349,
+    "id": 3098,
     "level": "critical",
     "country": "🌍",
-    "text": "Blast kills teenager, injures dozens in northern Israel",
+    "text": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+    "time": "Tue, 13 Oct 2026"
+  },
+  {
+    "id": 1859,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
     "time": "Mon, 12 Oct 2026"
   },
   {
-    "id": 8539,
+    "id": 6018,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+    "time": "Mon, 12 Oct 2026"
+  },
+  {
+    "id": 3468,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US archbishop says Catholics in army should not participate in firing squad",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
+    "time": "Mon, 12 Oct 2026"
+  },
+  {
+    "id": 9141,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+    "time": "Mon, 12 Oct 2026"
+  },
+  {
+    "id": 7131,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
+    "time": "Mon, 12 Oct 2026"
+  },
+  {
+    "id": 1847,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'acteur RJ Mitte, qui jouait le fils de Walter White dans la série \"Breaking Ba",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/culture/20261013-acteur-rj-mitte-fils-walter-white-breaking-bad-mort-deces",
+    "time": "Tue, 13 Oct 2026"
+  },
+  {
+    "id": 5654,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En RD Congo, l'ex-président Joseph Kabila et le M23 s'allient dans un mouvement ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20261012-rd-congo-ex-president-joseph-kabila-m23-alliance-front-refondation-nation-tshisekedi",
+    "time": "Mon, 12 Oct 2026"
+  },
+  {
+    "id": 8541,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -18,7 +81,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 4659,
+    "id": 192,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -27,16 +90,16 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 9114,
+    "id": 4276,
     "level": "high",
     "country": "🌍",
-    "text": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
+    "text": "Ukraine : un piège tendu par Trump ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261012-ukraine-un-pi%C3%A8ge-tendu-par-trump",
     "time": "Mon, 12 Oct 2026"
   },
   {
-    "id": 3615,
+    "id": 3456,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -45,7 +108,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7964,
+    "id": 1824,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -54,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2753,
+    "id": 1416,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 869,
+    "id": 7807,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4055,
+    "id": 895,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 899,
+    "id": 5302,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2332,
+    "id": 4701,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7568,
+    "id": 5309,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,75 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 177,
+    "id": 280,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 5401,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 8189,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Bangladesh-Malaysia recruitment reforms revive old questions over the cost of mi",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/12/bangladesh-malaysia-recruitment-reforms-revive-old-questions-over-the-cost-of-migration/",
-    "time": "Mon, 12 Oct 2026"
-  },
-  {
-    "id": 1166,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When free speech has a price: Youth voices in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique/",
-    "time": "Sun, 11 Oct 2026"
-  },
-  {
-    "id": 2825,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How Ecuador is fighting to keep industrial trans fats off the food shelf",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/10/how-ecuador-is-fighting-to-keep-industrial-trans-fats-off-the-food-shelf/",
-    "time": "Sat, 10 Oct 2026"
-  },
-  {
-    "id": 8906,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trump’s ‘Agreements on Reciprocal Trade’ (ARTs) threaten equitable access to the",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/09/trumps-agreements-on-reciprocal-trade-arts-threaten-equitable-access-to-the-internet-in-global-south/",
-    "time": "Fri, 09 Oct 2026"
-  },
-  {
-    "id": 1326,
-    "level": "medium",
-    "country": "🌍",
-    "text": "El Niño speeds climate crisis and tests Latin America’s food security",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/08/el-nino-speeds-climate-crisis-and-tests-latin-americas-food-security/",
-    "time": "Thu, 08 Oct 2026"
-  },
-  {
-    "id": 2573,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Africa’s governments already treat the internet as protest infrastructure. Its c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/",
-    "time": "Wed, 07 Oct 2026"
   }
 ]
