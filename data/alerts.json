@@ -1,42 +1,69 @@
 [
   {
-    "id": 8998,
+    "id": 1850,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+    "text": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 9673,
+    "id": 4475,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+    "text": "Ukrainian drones strike more than 100km into Russian territory",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 7541,
+    "id": 8359,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine : une centrale de Kiev touchée par une frappe russe sans alerte préalabl",
+    "text": "🔴 En direct : frappes russes sur le secteur énergétique, 600 000 Ukrainiens priv",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261014-direct-ukraine-attaque-russe-massive-sites-%C3%A9nerg%C3%A9tiques-au-moins-six-morts-guerre-chemin-fer",
+    "time": "Wed, 14 Oct 2026"
+  },
+  {
+    "id": 2100,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : frappes russes sur le secteur énergétique, 600 000 Ukrainiens privés",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261014-direct-ukraine-attaque-russe-massive-sites-%C3%A9nerg%C3%A9tiques-au-moins-six-morts-guerre-chemin-fer",
+    "time": "Wed, 14 Oct 2026"
+  },
+  {
+    "id": 2826,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Joseph Kabila en RDC: \"Vers une propagation de la guerre?\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261014-joseph-kabila-en-rdc-vers-une-propagation-de-la-guerre",
+    "time": "Wed, 14 Oct 2026"
+  },
+  {
+    "id": 449,
+    "level": "critical",
+    "country": "🌍",
+    "text": "En direct : fortes explosions entendues dans la capitale saoudienne Riyad",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20261014-en-direct-moyen-orient-arabie-saoudite-yemen-houthis-iran-aramco",
+    "time": "Wed, 14 Oct 2026"
+  },
+  {
+    "id": 8227,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : une centrale de Kiev touchée par une frappe russe sans alerte préalabl",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20261013-ukraine-russie-centrale-kiev-touchee-frappe-russe-sans-alerte-prealable-allies-zelensky",
     "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 257,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'Ukraine frappe Yandex : moins de bots, moins d'intox ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261013-l-ukraine-frappe-yandex-moins-de-bots-moins-d-intox",
-    "time": "Tue, 13 Oct 2026"
-  },
-  {
-    "id": 4803,
+    "id": 8506,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -45,7 +72,7 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 4350,
+    "id": 9067,
     "level": "high",
     "country": "🌍",
     "text": "Alibaba sues Pentagon to denounce being classified as a Chinese military affilia",
@@ -54,16 +81,25 @@
     "time": "Thu, 08 Oct 2026"
   },
   {
-    "id": 6741,
+    "id": 323,
     "level": "high",
     "country": "🌍",
-    "text": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+    "text": "Sudan cannot afford to dismiss a chance for dialogue",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations?traffic_source=rss",
+    "link": "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss",
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 9723,
+    "id": 7187,
+    "level": "high",
+    "country": "🌍",
+    "text": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss",
+    "time": "Wed, 14 Oct 2026"
+  },
+  {
+    "id": 9931,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +108,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7393,
+    "id": 7676,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4300,
+    "id": 3022,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2024,
+    "id": 3035,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7677,
+    "id": 517,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9283,
+    "id": 5146,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5685,
+    "id": 9217,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8899,
+    "id": 2960,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,48 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2659,
+    "id": 6608,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 6278,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 4906,
-    "level": "medium",
-    "country": "🌍",
-    "text": "After flood disasters, Nepal needs clear numbers on aid and a reconstruction pla",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/13/after-flood-disasters-nepal-needs-clear-numbers-on-aid-and-a-reconstruction-plan/",
-    "time": "Tue, 13 Oct 2026"
-  },
-  {
-    "id": 9727,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Poetry book promotes Chabacano, Asia’s only Spanish-based creole language",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/13/poetry-book-promotes-chabacano-asias-only-spanish-based-creole-language/",
-    "time": "Tue, 13 Oct 2026"
-  },
-  {
-    "id": 1091,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What African elections can learn from the Borana Gadaa system",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/12/what-african-elections-can-learn-from-the-borana-gadaa-system/",
-    "time": "Mon, 12 Oct 2026"
   }
 ]
