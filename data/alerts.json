@@ -1,33 +1,51 @@
 [
   {
-    "id": 2711,
+    "id": 1202,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+    "text": "Several people dead or missing after Istanbul floods",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 1271,
+    "id": 5088,
     "level": "critical",
     "country": "🌍",
-    "text": "L'Arabie saoudite : une cible vulnérable face aux Houtis ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261015-l-arabie-saoudite-une-cible-vuln%C3%A9rable-face-aux-houtis",
-    "time": "Thu, 15 Oct 2026"
-  },
-  {
-    "id": 5960,
-    "level": "high",
-    "country": "🌍",
-    "text": "Houthis target Yemen’s presidential palace in Aden with missiles",
+    "text": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 7542,
+    "id": 9794,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 7 crew members missing after drone attacks on ships in Black Sea",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
+    "time": "Thu, 15 Oct 2026"
+  },
+  {
+    "id": 9019,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Somalia says it will hold elections in 2027",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
+    "time": "Thu, 15 Oct 2026"
+  },
+  {
+    "id": 9598,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Will Israeli voters punish Benjamin Netanyahu?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
+    "time": "Thu, 15 Oct 2026"
+  },
+  {
+    "id": 1899,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -36,7 +54,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7234,
+    "id": 577,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -45,7 +63,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6817,
+    "id": 5365,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6594,
+    "id": 5854,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2982,
+    "id": 9199,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9623,
+    "id": 3690,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5248,
+    "id": 9700,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3447,
+    "id": 7568,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3558,
+    "id": 2111,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +126,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5796,
+    "id": 999,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +135,16 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4441,
+    "id": 6957,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Ama",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/15/perus-indigenous-people-in-cutivireni-and-oviri-take-the-front-line-against-amazon-wildfires/",
+    "time": "Thu, 15 Oct 2026"
+  },
+  {
+    "id": 6143,
     "level": "medium",
     "country": "🌍",
     "text": "How authoritarian states are building an international market for digital survei",
@@ -126,7 +153,7 @@
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 2961,
+    "id": 2971,
     "level": "medium",
     "country": "🌍",
     "text": "Norway’s Telenor telecom faces lawsuit for giving user data to Myanmar junta",
@@ -135,7 +162,7 @@
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 2288,
+    "id": 7573,
     "level": "medium",
     "country": "🌍",
     "text": "In Kyrgyzstan, persons with disabilities are collecting proof of physical barrie",
@@ -144,39 +171,12 @@
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 6169,
+    "id": 877,
     "level": "medium",
     "country": "🌍",
     "text": "After flood disasters, Nepal needs clear numbers on aid and a reconstruction pla",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/13/after-flood-disasters-nepal-needs-clear-numbers-on-aid-and-a-reconstruction-plan/",
     "time": "Tue, 13 Oct 2026"
-  },
-  {
-    "id": 7369,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Poetry book promotes Chabacano, Asia’s only Spanish-based creole language",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/13/poetry-book-promotes-chabacano-asias-only-spanish-based-creole-language/",
-    "time": "Tue, 13 Oct 2026"
-  },
-  {
-    "id": 5500,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What African elections can learn from the Borana Gadaa system",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/12/what-african-elections-can-learn-from-the-borana-gadaa-system/",
-    "time": "Mon, 12 Oct 2026"
-  },
-  {
-    "id": 7761,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Bangladesh-Malaysia recruitment reforms revive old questions over the cost of mi",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/12/bangladesh-malaysia-recruitment-reforms-revive-old-questions-over-the-cost-of-migration/",
-    "time": "Mon, 12 Oct 2026"
   }
 ]
