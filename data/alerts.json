@@ -1,24 +1,15 @@
 [
   {
-    "id": 5997,
+    "id": 9649,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli quadcopter drone drops bomb in Lebanon",
+    "text": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon?traffic_source=rss",
-    "time": "Wed, 14 Oct 2026"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+    "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 7023,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Families of Trinidadian men killed in US boat strike demand accountability",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
-    "time": "Wed, 14 Oct 2026"
-  },
-  {
-    "id": 8761,
+    "id": 6507,
     "level": "critical",
     "country": "🌍",
     "text": "Éthiopie : comment la désinformation sur les réseaux sociaux brouille la réalité",
@@ -27,16 +18,7 @@
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 6722,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Midterms 2026 : plus d'un an après la mort de Charlie Kirk, quel avenir pour Tur",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261014-midterms-2026-turning-point-et-la-bataille-pour-l-h%C3%A9ritage-de-charlie-kirk",
-    "time": "Wed, 14 Oct 2026"
-  },
-  {
-    "id": 4362,
+    "id": 1399,
     "level": "high",
     "country": "🌍",
     "text": "Subsea cables and oil pipelines: The infrastructure linking AI, empire, and occu",
@@ -45,7 +27,25 @@
     "time": "Fri, 09 Oct 2026"
   },
   {
-    "id": 2762,
+    "id": 2713,
+    "level": "high",
+    "country": "🌍",
+    "text": "Elon Musk peut-il paralyser l'armée ukrainienne ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261014-elon-musk-peut-il-paralyser-l-arm%C3%A9e-ukrainienne",
+    "time": "Wed, 14 Oct 2026"
+  },
+  {
+    "id": 7479,
+    "level": "high",
+    "country": "🌍",
+    "text": "Pyongyang procède à des essais de tir de missiles de croisière depuis des sous-m",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/asie-pacifique/20261014-pyongyang-coree-nord-procede-essais-tir-de-missiles-croisiere-depuis-sous-marins-kcna-kim-jong-un-mer-japon",
+    "time": "Wed, 14 Oct 2026"
+  },
+  {
+    "id": 5344,
     "level": "high",
     "country": "🌍",
     "text": "Houthis : le royaume de MBS menacé ?",
@@ -54,7 +54,7 @@
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 5572,
+    "id": 642,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 2831,
+    "id": 1319,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6033,
+    "id": 5620,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5941,
+    "id": 9012,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7191,
+    "id": 8610,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2517,
+    "id": 4689,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8372,
+    "id": 3433,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9752,
+    "id": 7338,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3574,
+    "id": 5325,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5218,
+    "id": 8107,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9926,
+    "id": 1443,
     "level": "medium",
     "country": "🌍",
     "text": "Norway’s Telenor telecom faces lawsuit for giving user data to Myanmar junta",
@@ -153,7 +153,7 @@
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 9430,
+    "id": 6469,
     "level": "medium",
     "country": "🌍",
     "text": "In Kyrgyzstan, persons with disabilities are collecting proof of physical barrie",
@@ -162,7 +162,7 @@
     "time": "Wed, 14 Oct 2026"
   },
   {
-    "id": 7097,
+    "id": 2681,
     "level": "medium",
     "country": "🌍",
     "text": "After flood disasters, Nepal needs clear numbers on aid and a reconstruction pla",
@@ -171,7 +171,7 @@
     "time": "Tue, 13 Oct 2026"
   },
   {
-    "id": 1155,
+    "id": 6300,
     "level": "medium",
     "country": "🌍",
     "text": "Poetry book promotes Chabacano, Asia’s only Spanish-based creole language",
