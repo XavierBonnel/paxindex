@@ -1,6 +1,33 @@
 [
   {
-    "id": 1202,
+    "id": 6518,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+    "time": "Fri, 16 Oct 2026"
+  },
+  {
+    "id": 6951,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
+    "time": "Thu, 15 Oct 2026"
+  },
+  {
+    "id": 4948,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least 4, including 3 children, killed in US elementary school shooting",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
+    "time": "Thu, 15 Oct 2026"
+  },
+  {
+    "id": 5988,
     "level": "critical",
     "country": "🌍",
     "text": "Several people dead or missing after Istanbul floods",
@@ -9,7 +36,7 @@
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 5088,
+    "id": 9979,
     "level": "critical",
     "country": "🌍",
     "text": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
@@ -18,34 +45,34 @@
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 9794,
+    "id": 7720,
     "level": "critical",
     "country": "🌍",
-    "text": "At least 7 crew members missing after drone attacks on ships in Black Sea",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
+    "text": "🔴 Fusillade aux États-Unis : quatre morts dont trois enfants dans une école l'Or",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261015-etats-unis-fusillade-plusieurs-victimes-morts-ecole-oregon-bend-tireur-abattu",
+    "time": "Fri, 16 Oct 2026"
+  },
+  {
+    "id": 1077,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fusillade aux États-Unis : quatre morts dont trois enfants dans une école l'Oreg",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261015-etats-unis-fusillade-plusieurs-victimes-morts-ecole-oregon-bend-tireur-abattu",
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 9019,
+    "id": 104,
     "level": "critical",
     "country": "🌍",
-    "text": "Somalia says it will hold elections in 2027",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
+    "text": "Trump va-t-il larguer \"la mère de toutes les bombes\" sur l'Iran ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261015-trump-va-t-il-larguer-la-m%C3%A8re-de-toutes-les-bombes-sur-l-iran",
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 9598,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Will Israeli voters punish Benjamin Netanyahu?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-    "time": "Thu, 15 Oct 2026"
-  },
-  {
-    "id": 1899,
+    "id": 911,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -54,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 577,
+    "id": 6453,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5365,
+    "id": 3313,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5854,
+    "id": 5766,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9199,
+    "id": 9425,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3690,
+    "id": 8504,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9700,
+    "id": 7423,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7568,
+    "id": 3272,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2111,
+    "id": 1860,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 999,
+    "id": 6397,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 6957,
+    "id": 1468,
     "level": "medium",
     "country": "🌍",
     "text": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Ama",
@@ -144,39 +171,12 @@
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 6143,
+    "id": 4005,
     "level": "medium",
     "country": "🌍",
     "text": "How authoritarian states are building an international market for digital survei",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/15/how-authoritarian-states-are-building-an-international-market-for-digital-surveillance/",
     "time": "Thu, 15 Oct 2026"
-  },
-  {
-    "id": 2971,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Norway’s Telenor telecom faces lawsuit for giving user data to Myanmar junta",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/14/norways-telenor-telecom-faces-lawsuit-for-giving-user-data-to-myanmars-junta/",
-    "time": "Wed, 14 Oct 2026"
-  },
-  {
-    "id": 7573,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Kyrgyzstan, persons with disabilities are collecting proof of physical barrie",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/14/in-kyrgyzstan-persons-with-disabilities-are-collecting-proof-of-physical-barriers-to-hold-the-government-accountable/",
-    "time": "Wed, 14 Oct 2026"
-  },
-  {
-    "id": 877,
-    "level": "medium",
-    "country": "🌍",
-    "text": "After flood disasters, Nepal needs clear numbers on aid and a reconstruction pla",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/13/after-flood-disasters-nepal-needs-clear-numbers-on-aid-and-a-reconstruction-plan/",
-    "time": "Tue, 13 Oct 2026"
   }
 ]
