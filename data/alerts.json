@@ -1,6 +1,6 @@
 [
   {
-    "id": 1767,
+    "id": 9269,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -9,16 +9,52 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 7506,
+    "id": 2295,
     "level": "critical",
     "country": "🌍",
-    "text": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+    "text": "Is the US Embassy in Jerusalem for Israel or America?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 931,
+    "id": 6711,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+    "time": "Sat, 17 Oct 2026"
+  },
+  {
+    "id": 7672,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+    "time": "Sat, 17 Oct 2026"
+  },
+  {
+    "id": 4466,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why are Latin American countries building closer ties with Israel?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+    "time": "Sat, 17 Oct 2026"
+  },
+  {
+    "id": 193,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+    "time": "Sat, 17 Oct 2026"
+  },
+  {
+    "id": 3229,
     "level": "critical",
     "country": "🌍",
     "text": "Cisjordanie occupée : des colons attaquent un convoi diplomatique et frappent un",
@@ -27,7 +63,16 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 9609,
+    "id": 4786,
+    "level": "high",
+    "country": "🌍",
+    "text": "Trump faces bipartisan backlash over Russia sanctions waiver",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+    "time": "Sat, 17 Oct 2026"
+  },
+  {
+    "id": 6534,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -36,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 4817,
+    "id": 7208,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -45,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7577,
+    "id": 7934,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9499,
+    "id": 3691,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9203,
+    "id": 3966,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4328,
+    "id": 1727,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5963,
+    "id": 8656,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1967,
+    "id": 9125,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5577,
+    "id": 3512,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1016,
+    "id": 3157,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -117,7 +162,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 9517,
+    "id": 8057,
     "level": "medium",
     "country": "🌍",
     "text": "How an extremist network articulated a hoax linking Brazil’s President Lula to c",
@@ -126,57 +171,12 @@
     "time": "Fri, 16 Oct 2026"
   },
   {
-    "id": 6301,
+    "id": 5385,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong police launch AI-powered national security platform for school pupils",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/16/hong-kong-police-launch-ai-powered-national-security-platform-for-school-pupils/",
     "time": "Fri, 16 Oct 2026"
-  },
-  {
-    "id": 1082,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Ama",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/15/perus-indigenous-people-in-cutivireni-and-oviri-take-the-front-line-against-amazon-wildfires/",
-    "time": "Thu, 15 Oct 2026"
-  },
-  {
-    "id": 1193,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How authoritarian states are building an international market for digital survei",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/15/how-authoritarian-states-are-building-an-international-market-for-digital-surveillance/",
-    "time": "Thu, 15 Oct 2026"
-  },
-  {
-    "id": 8211,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Norway’s Telenor telecom faces lawsuit for giving user data to Myanmar junta",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/14/norways-telenor-telecom-faces-lawsuit-for-giving-user-data-to-myanmars-junta/",
-    "time": "Wed, 14 Oct 2026"
-  },
-  {
-    "id": 138,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Kyrgyzstan, persons with disabilities are collecting proof of physical barrie",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/14/in-kyrgyzstan-persons-with-disabilities-are-collecting-proof-of-physical-barriers-to-hold-the-government-accountable/",
-    "time": "Wed, 14 Oct 2026"
-  },
-  {
-    "id": 5538,
-    "level": "medium",
-    "country": "🌍",
-    "text": "After flood disasters, Nepal needs clear numbers on aid and a reconstruction pla",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/13/after-flood-disasters-nepal-needs-clear-numbers-on-aid-and-a-reconstruction-plan/",
-    "time": "Tue, 13 Oct 2026"
   }
 ]
