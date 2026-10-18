@@ -1,6 +1,6 @@
 [
   {
-    "id": 8354,
+    "id": 6645,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -9,43 +9,52 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 3137,
+    "id": 3058,
     "level": "critical",
     "country": "🌍",
-    "text": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+    "text": "Sudan army accused of drone strike on livestock market",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 3044,
+    "id": 3305,
     "level": "critical",
     "country": "🌍",
-    "text": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+    "text": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
+    "link": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 1320,
+    "id": 6754,
     "level": "critical",
     "country": "🌍",
-    "text": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+    "text": "Why have settler pogroms surged during olive harvest season in West Bank?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 6139,
-    "level": "high",
+    "id": 5009,
+    "level": "critical",
     "country": "🌍",
-    "text": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
+    "text": "There’s a ‘New Middle East’, but not the one Israel planned",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 6651,
+    "id": 11,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Des milliers de Russes et d'Ukrainiens privés électricité après de nouvelles fra",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261018-des-milliers-de-russes-et-d-ukrainiens-priv%C3%A9s-%C3%A9lectricit%C3%A9-apr%C3%A8s-de-nouvelles-frappes-crois%C3%A9es",
+    "time": "Sun, 18 Oct 2026"
+  },
+  {
+    "id": 4572,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -54,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 2440,
+    "id": 2117,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1406,
+    "id": 2382,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8013,
+    "id": 5170,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8052,
+    "id": 571,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8931,
+    "id": 2022,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5550,
+    "id": 4521,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7231,
+    "id": 1185,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8227,
+    "id": 5538,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1978,
+    "id": 7553,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 3014,
+    "id": 2162,
     "level": "medium",
     "country": "🌍",
     "text": "Activists push for Pakistan to recognise and support people with albinism",
@@ -144,7 +153,7 @@
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 5475,
+    "id": 4951,
     "level": "medium",
     "country": "🌍",
     "text": "How an extremist network articulated a hoax linking Brazil’s President Lula to c",
@@ -153,7 +162,7 @@
     "time": "Fri, 16 Oct 2026"
   },
   {
-    "id": 5961,
+    "id": 4081,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong police launch AI-powered national security platform for school pupils",
@@ -162,21 +171,12 @@
     "time": "Fri, 16 Oct 2026"
   },
   {
-    "id": 7082,
+    "id": 454,
     "level": "medium",
     "country": "🌍",
     "text": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Ama",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/15/perus-indigenous-people-in-cutivireni-and-oviri-take-the-front-line-against-amazon-wildfires/",
-    "time": "Thu, 15 Oct 2026"
-  },
-  {
-    "id": 4324,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How authoritarian states are building an international market for digital survei",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/15/how-authoritarian-states-are-building-an-international-market-for-digital-surveillance/",
     "time": "Thu, 15 Oct 2026"
   }
 ]
