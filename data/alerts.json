@@ -1,6 +1,6 @@
 [
   {
-    "id": 5899,
+    "id": 4725,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -9,7 +9,25 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 3942,
+    "id": 8895,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+    "time": "Sun, 18 Oct 2026"
+  },
+  {
+    "id": 3122,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+    "time": "Sat, 17 Oct 2026"
+  },
+  {
+    "id": 3118,
     "level": "critical",
     "country": "🌍",
     "text": "Ten killed in fire at beach resort in Bangladesh",
@@ -18,7 +36,7 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 3147,
+    "id": 4998,
     "level": "critical",
     "country": "🌍",
     "text": "At least 17 killed in stampede at religious gathering in India",
@@ -27,16 +45,7 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 53,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Will the EU come to Ukraine’s rescue in war against Russia?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-    "time": "Sat, 17 Oct 2026"
-  },
-  {
-    "id": 710,
+    "id": 8036,
     "level": "high",
     "country": "🌍",
     "text": "Iranian TV airs video said to show tanker explosion in Hormuz",
@@ -45,7 +54,7 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 471,
+    "id": 5855,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -54,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 9969,
+    "id": 9314,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8956,
+    "id": 8947,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2631,
+    "id": 2055,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5641,
+    "id": 8993,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1008,
+    "id": 4323,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7126,
+    "id": 5814,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3742,
+    "id": 9858,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9058,
+    "id": 8461,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8185,
+    "id": 9521,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 5300,
+    "id": 9930,
     "level": "medium",
     "country": "🌍",
     "text": "How an extremist network articulated a hoax linking Brazil’s President Lula to c",
@@ -144,7 +153,7 @@
     "time": "Fri, 16 Oct 2026"
   },
   {
-    "id": 6476,
+    "id": 76,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong police launch AI-powered national security platform for school pupils",
@@ -153,7 +162,7 @@
     "time": "Fri, 16 Oct 2026"
   },
   {
-    "id": 8755,
+    "id": 6202,
     "level": "medium",
     "country": "🌍",
     "text": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Ama",
@@ -162,21 +171,12 @@
     "time": "Thu, 15 Oct 2026"
   },
   {
-    "id": 620,
+    "id": 7953,
     "level": "medium",
     "country": "🌍",
     "text": "How authoritarian states are building an international market for digital survei",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/15/how-authoritarian-states-are-building-an-international-market-for-digital-surveillance/",
     "time": "Thu, 15 Oct 2026"
-  },
-  {
-    "id": 5113,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Norway’s Telenor telecom faces lawsuit for giving user data to Myanmar junta",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/14/norways-telenor-telecom-faces-lawsuit-for-giving-user-data-to-myanmars-junta/",
-    "time": "Wed, 14 Oct 2026"
   }
 ]
