@@ -1,6 +1,6 @@
 [
   {
-    "id": 7342,
+    "id": 3697,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -9,7 +9,25 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 7245,
+    "id": 7264,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+    "time": "Sun, 18 Oct 2026"
+  },
+  {
+    "id": 4834,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+    "time": "Sun, 18 Oct 2026"
+  },
+  {
+    "id": 3040,
     "level": "critical",
     "country": "🌍",
     "text": "Macron condemns violence after riots lead to looting and mass arrests",
@@ -18,7 +36,7 @@
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 2866,
+    "id": 7435,
     "level": "critical",
     "country": "🌍",
     "text": "India’s crackdown on cockroaches, critics and cameras",
@@ -27,34 +45,16 @@
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 1158,
-    "level": "critical",
+    "id": 7740,
+    "level": "high",
     "country": "🌍",
-    "text": "Clarence Seedorf calls out genocide in first Corinthians press conference",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
+    "text": "Ukraine : la \"busification\", l’enrôlement illégal d’hommes dans l’armée, crée de",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261018-ukraine-la-busification-l-enr%C3%B4lement-ill%C3%A9gal-d-hommes-dans-l-arm%C3%A9e-cr%C3%A9e-des-crispations",
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 9187,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-    "time": "Sun, 18 Oct 2026"
-  },
-  {
-    "id": 239,
-    "level": "critical",
-    "country": "🌍",
-    "text": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
-    "time": "Sun, 18 Oct 2026"
-  },
-  {
-    "id": 2421,
+    "id": 9292,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1522,
+    "id": 9946,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 623,
+    "id": 2270,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 624,
+    "id": 6835,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6402,
+    "id": 4625,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4122,
+    "id": 4,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9989,
+    "id": 3744,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1510,
+    "id": 7989,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6604,
+    "id": 461,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3143,
+    "id": 3903,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -144,7 +144,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 7010,
+    "id": 4200,
     "level": "medium",
     "country": "🌍",
     "text": "Activists push for Pakistan to recognise and support people with albinism",
@@ -153,7 +153,7 @@
     "time": "Sun, 18 Oct 2026"
   },
   {
-    "id": 7489,
+    "id": 510,
     "level": "medium",
     "country": "🌍",
     "text": "How an extremist network articulated a hoax linking Brazil’s President Lula to c",
@@ -162,7 +162,7 @@
     "time": "Fri, 16 Oct 2026"
   },
   {
-    "id": 3755,
+    "id": 5789,
     "level": "medium",
     "country": "🌍",
     "text": "Hong Kong police launch AI-powered national security platform for school pupils",
@@ -171,7 +171,7 @@
     "time": "Fri, 16 Oct 2026"
   },
   {
-    "id": 6968,
+    "id": 8002,
     "level": "medium",
     "country": "🌍",
     "text": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Ama",
