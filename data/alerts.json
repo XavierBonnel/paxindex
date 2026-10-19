@@ -1,6 +1,15 @@
 [
   {
-    "id": 4696,
+    "id": 4487,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/19/anthropic-exposes-ai-operation-that-drc-journalists-never-knew-existed/",
+    "time": "Mon, 19 Oct 2026"
+  },
+  {
+    "id": 2954,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -9,34 +18,70 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 406,
+    "id": 4722,
     "level": "critical",
     "country": "🌍",
-    "text": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
+    "text": "One killed in US shooting near mosque in Columbus, Ohio",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 2808,
+    "id": 6942,
     "level": "critical",
     "country": "🌍",
-    "text": "Dozens killed after Houthi strike on military camp in Shabwa",
+    "text": "Florida issues arrest warrant for Cuban leader Raul Castro",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 2421,
+    "id": 1863,
     "level": "critical",
     "country": "🌍",
-    "text": "Des frappes de drones font plus de 80 morts au Soudan",
+    "text": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+    "time": "Mon, 19 Oct 2026"
+  },
+  {
+    "id": 9941,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Madagascar : les arbitres dénoncent les menaces de la fédération de football",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20261019-des-frappes-de-drones-font-plus-de-80-morts-au-soudan",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-madagascar-les-arbitres-d%C3%A9noncent-les-menaces-de-la-f%C3%A9d%C3%A9ration-de-football",
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 6565,
+    "id": 2295,
+    "level": "high",
+    "country": "🌍",
+    "text": "Indian court extends detention of ‘Cockroach’ leaders",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
+    "time": "Mon, 19 Oct 2026"
+  },
+  {
+    "id": 4826,
+    "level": "high",
+    "country": "🌍",
+    "text": "Cristiano Ronaldo écope de 30 jours de suspension et d'une amende de 255 euros",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/sports/20261019-foot-cristiano-ronaldo-suspendu-30-jours-par-la-f%C3%A9deration-portugaise",
+    "time": "Mon, 19 Oct 2026"
+  },
+  {
+    "id": 5252,
+    "level": "high",
+    "country": "🌍",
+    "text": "Ukraine : un drone aérien utilisé pour évacuer un soldat blessé, une première se",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261019-ukraine-un-drone-a%C3%A9rien-utilis%C3%A9-pour-%C3%A9vacuer-un-soldat-bless%C3%A9-une-premi%C3%A8re-selon-kiev",
+    "time": "Mon, 19 Oct 2026"
+  },
+  {
+    "id": 9868,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -45,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 6471,
+    "id": 7366,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -54,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 691,
+    "id": 1917,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4851,
+    "id": 131,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9046,
+    "id": 3017,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2919,
+    "id": 3464,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1020,
+    "id": 1726,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9121,
+    "id": 1341,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6020,
+    "id": 6840,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8214,
+    "id": 9310,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -126,57 +171,12 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 719,
+    "id": 4593,
     "level": "medium",
     "country": "🌍",
     "text": "Students air their frustrations anonymously online as emigration tempts many you",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/19/students-air-their-frustrations-anonymously-online-as-emigration-tempts-many-young-people-in-north-macedonia/",
     "time": "Mon, 19 Oct 2026"
-  },
-  {
-    "id": 866,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Activists push for Pakistan to recognise and support people with albinism",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/18/activists-push-pakistan-to-recognise-and-support-people-with-albinism/",
-    "time": "Sun, 18 Oct 2026"
-  },
-  {
-    "id": 195,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How an extremist network articulated a hoax linking Brazil’s President Lula to c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/16/how-an-extremist-network-articulated-a-hoax-linking-brazils-president-lula-to-child-abuse-on-x/",
-    "time": "Fri, 16 Oct 2026"
-  },
-  {
-    "id": 4086,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Hong Kong police launch AI-powered national security platform for school pupils",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/16/hong-kong-police-launch-ai-powered-national-security-platform-for-school-pupils/",
-    "time": "Fri, 16 Oct 2026"
-  },
-  {
-    "id": 2336,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Peru’s Indigenous people in Cutivireni and Oviri take the front line against Ama",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/15/perus-indigenous-people-in-cutivireni-and-oviri-take-the-front-line-against-amazon-wildfires/",
-    "time": "Thu, 15 Oct 2026"
-  },
-  {
-    "id": 4434,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How authoritarian states are building an international market for digital survei",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/15/how-authoritarian-states-are-building-an-international-market-for-digital-surveillance/",
-    "time": "Thu, 15 Oct 2026"
   }
 ]
