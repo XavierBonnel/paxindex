@@ -1,6 +1,6 @@
 [
   {
-    "id": 8406,
+    "id": 638,
     "level": "critical",
     "country": "🌍",
     "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
@@ -9,7 +9,7 @@
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 683,
+    "id": 8837,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -18,25 +18,43 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 5243,
+    "id": 661,
     "level": "critical",
     "country": "🌍",
-    "text": "UK to deploy fighter jets to defend Saudi Arabia",
+    "text": "NATO to send additional patrol planes to Black Sea after drone attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
     "time": "Tue, 20 Oct 2026"
   },
   {
-    "id": 1845,
+    "id": 6641,
     "level": "critical",
     "country": "🌍",
-    "text": "Soudan : une nouvelle attaque sur un marché fait au moins 153 morts dans la zone",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20261020-soudan-une-nouvelle-attaque-sur-un-march%C3%A9-fait-au-moins-153-morts-dans-la-zone-frontali%C3%A8re",
+    "text": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
     "time": "Tue, 20 Oct 2026"
   },
   {
-    "id": 1430,
+    "id": 715,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Why the war on Iran could backfire on US regime-change goals",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+    "time": "Tue, 20 Oct 2026"
+  },
+  {
+    "id": 2882,
+    "level": "high",
+    "country": "🌍",
+    "text": "Italie : après les heurts du weekend, des militaires seront déployés à Milan",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261020-italie-heurts-weekend-militaires-deployes-milan-giorgia-meloni",
+    "time": "Tue, 20 Oct 2026"
+  },
+  {
+    "id": 9404,
     "level": "high",
     "country": "🌍",
     "text": "Oliveraies attaquées en Cisjordanie : \"les colons se prétendent autochtones, c’e",
@@ -45,7 +63,7 @@
     "time": "Tue, 20 Oct 2026"
   },
   {
-    "id": 667,
+    "id": 6238,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -54,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7254,
+    "id": 7971,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7644,
+    "id": 9208,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 572,
+    "id": 9867,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4369,
+    "id": 6187,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2591,
+    "id": 9235,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 211,
+    "id": 2970,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3896,
+    "id": 7795,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 386,
+    "id": 300,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 753,
+    "id": 69,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
@@ -135,7 +153,7 @@
     "time": "2026-05-13T09:00"
   },
   {
-    "id": 4539,
+    "id": 5516,
     "level": "medium",
     "country": "🌍",
     "text": "Built for boats, adrift on land: Bangladesh’s Bede community struggles with a fi",
@@ -144,7 +162,7 @@
     "time": "Tue, 20 Oct 2026"
   },
   {
-    "id": 6813,
+    "id": 5348,
     "level": "medium",
     "country": "🌍",
     "text": "How a civic tech platform is helping women in Serbia get home safely",
@@ -153,30 +171,12 @@
     "time": "Tue, 20 Oct 2026"
   },
   {
-    "id": 8128,
+    "id": 899,
     "level": "medium",
     "country": "🌍",
     "text": "Students air their frustrations anonymously online as emigration tempts many you",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/19/students-air-their-frustrations-anonymously-online-as-emigration-tempts-many-young-people-in-north-macedonia/",
     "time": "Mon, 19 Oct 2026"
-  },
-  {
-    "id": 6101,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Activists push for Pakistan to recognise and support people with albinism",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/18/activists-push-pakistan-to-recognise-and-support-people-with-albinism/",
-    "time": "Sun, 18 Oct 2026"
-  },
-  {
-    "id": 1359,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How an extremist network articulated a hoax linking Brazil’s President Lula to c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/16/how-an-extremist-network-articulated-a-hoax-linking-brazils-president-lula-to-child-abuse-on-x/",
-    "time": "Fri, 16 Oct 2026"
   }
 ]
