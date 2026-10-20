@@ -1,6 +1,6 @@
 [
   {
-    "id": 4487,
+    "id": 6547,
     "level": "critical",
     "country": "🌍",
     "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
@@ -9,7 +9,7 @@
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 2954,
+    "id": 6861,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -18,52 +18,70 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 4722,
+    "id": 9479,
     "level": "critical",
     "country": "🌍",
-    "text": "One killed in US shooting near mosque in Columbus, Ohio",
+    "text": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+    "time": "Tue, 20 Oct 2026"
+  },
+  {
+    "id": 135,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Colombia illegal gold mine collapse kills 14 people",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 6942,
+    "id": 2344,
     "level": "critical",
     "country": "🌍",
-    "text": "Florida issues arrest warrant for Cuban leader Raul Castro",
+    "text": "Children among six killed in Russian drone strike on Ukraine park",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 1863,
+    "id": 6867,
     "level": "critical",
     "country": "🌍",
-    "text": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+    "text": "160 people reported killed in escalating drone attacks across Sudan",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 9941,
+    "id": 9115,
     "level": "critical",
     "country": "🌍",
-    "text": "Madagascar : les arbitres dénoncent les menaces de la fédération de football",
+    "text": "Des pluies intenses provoquent des inondations meurtrières dans l'est de Espagne",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-madagascar-les-arbitres-d%C3%A9noncent-les-menaces-de-la-f%C3%A9d%C3%A9ration-de-football",
+    "link": "https://www.france24.com/fr/europe/20261019-espagne-pluies-inondations-quatre-morts-valence",
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 2295,
+    "id": 7273,
     "level": "high",
     "country": "🌍",
-    "text": "Indian court extends detention of ‘Cockroach’ leaders",
+    "text": "Egyptian parliament delays vote on military support for Saudi Arabia",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 4826,
+    "id": 2011,
+    "level": "high",
+    "country": "🌍",
+    "text": "Could your halal pension be funding Israel’s military?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+    "time": "Mon, 19 Oct 2026"
+  },
+  {
+    "id": 2348,
     "level": "high",
     "country": "🌍",
     "text": "Cristiano Ronaldo écope de 30 jours de suspension et d'une amende de 255 euros",
@@ -72,16 +90,7 @@
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 5252,
-    "level": "high",
-    "country": "🌍",
-    "text": "Ukraine : un drone aérien utilisé pour évacuer un soldat blessé, une première se",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261019-ukraine-un-drone-a%C3%A9rien-utilis%C3%A9-pour-%C3%A9vacuer-un-soldat-bless%C3%A9-une-premi%C3%A8re-selon-kiev",
-    "time": "Mon, 19 Oct 2026"
-  },
-  {
-    "id": 9868,
+    "id": 6869,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7366,
+    "id": 705,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1917,
+    "id": 4490,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 131,
+    "id": 4268,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3017,
+    "id": 8762,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3464,
+    "id": 4652,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1726,
+    "id": 7037,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1341,
+    "id": 6488,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6840,
+    "id": 6478,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,21 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9310,
+    "id": 3053,
     "level": "medium",
     "country": "🌍",
     "text": "Stricter Cell Phone Policies Associated with Reductions in Student Phone Use",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-13T09:00"
-  },
-  {
-    "id": 4593,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Students air their frustrations anonymously online as emigration tempts many you",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/19/students-air-their-frustrations-anonymously-online-as-emigration-tempts-many-young-people-in-north-macedonia/",
-    "time": "Mon, 19 Oct 2026"
   }
 ]
