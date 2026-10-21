@@ -1,6 +1,6 @@
 [
   {
-    "id": 6251,
+    "id": 2813,
     "level": "critical",
     "country": "🌍",
     "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
@@ -9,7 +9,7 @@
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 5125,
+    "id": 2326,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -18,34 +18,52 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 7321,
+    "id": 2003,
     "level": "critical",
     "country": "🌍",
-    "text": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+    "text": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
     "time": "Wed, 21 Oct 2026"
   },
   {
-    "id": 8240,
+    "id": 1882,
     "level": "critical",
     "country": "🌍",
-    "text": "How war in Lebanon has cost young people with autism and ADHD",
+    "text": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
     "time": "Wed, 21 Oct 2026"
   },
   {
-    "id": 6876,
-    "level": "critical",
+    "id": 7475,
+    "level": "high",
     "country": "🌍",
-    "text": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+    "text": "Tunisia jails opposition politician for four years over social media posts",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
     "time": "Wed, 21 Oct 2026"
   },
   {
-    "id": 8377,
+    "id": 160,
+    "level": "high",
+    "country": "🌍",
+    "text": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
+    "time": "Wed, 21 Oct 2026"
+  },
+  {
+    "id": 4688,
+    "level": "high",
+    "country": "🌍",
+    "text": "L’armée déployée le 24 octobre : des précédents rarissimes en France",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20261021-armee-deployee-samedi-24-octobre-precedents-rarissimes-france",
+    "time": "Wed, 21 Oct 2026"
+  },
+  {
+    "id": 7732,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -54,7 +72,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 6729,
+    "id": 577,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 4265,
+    "id": 609,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4662,
+    "id": 1399,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2713,
+    "id": 3710,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1521,
+    "id": 5450,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7331,
+    "id": 8224,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7090,
+    "id": 9682,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 963,
+    "id": 3859,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 123,
+    "id": 9631,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +153,16 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7491,
+    "id": 6013,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When Big Tech becomes a tool of state control in Kenya",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/",
+    "time": "Wed, 21 Oct 2026"
+  },
+  {
+    "id": 9067,
     "level": "medium",
     "country": "🌍",
     "text": "Built for boats, adrift on land: Bangladesh’s Bede community struggles with a fi",
@@ -144,39 +171,12 @@
     "time": "Tue, 20 Oct 2026"
   },
   {
-    "id": 5276,
+    "id": 2382,
     "level": "medium",
     "country": "🌍",
     "text": "How a civic tech platform is helping women in Serbia get home safely",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/20/how-a-civic-tech-platform-is-helping-women-in-serbia-get-home-safely/",
     "time": "Tue, 20 Oct 2026"
-  },
-  {
-    "id": 2446,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Students air their frustrations anonymously online as emigration tempts many you",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/19/students-air-their-frustrations-anonymously-online-as-emigration-tempts-many-young-people-in-north-macedonia/",
-    "time": "Mon, 19 Oct 2026"
-  },
-  {
-    "id": 7843,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Activists push for Pakistan to recognise and support people with albinism",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/18/activists-push-pakistan-to-recognise-and-support-people-with-albinism/",
-    "time": "Sun, 18 Oct 2026"
-  },
-  {
-    "id": 4819,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How an extremist network articulated a hoax linking Brazil’s President Lula to c",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/16/how-an-extremist-network-articulated-a-hoax-linking-brazils-president-lula-to-child-abuse-on-x/",
-    "time": "Fri, 16 Oct 2026"
   }
 ]
