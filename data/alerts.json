@@ -1,6 +1,6 @@
 [
   {
-    "id": 2813,
+    "id": 6005,
     "level": "critical",
     "country": "🌍",
     "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
@@ -9,7 +9,7 @@
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 2326,
+    "id": 7063,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -18,52 +18,25 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 2003,
+    "id": 1314,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+    "text": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
     "time": "Wed, 21 Oct 2026"
   },
   {
-    "id": 1882,
+    "id": 5570,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
+    "text": "Video shows Israeli settler assaulting Palestinian child",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
     "time": "Wed, 21 Oct 2026"
   },
   {
-    "id": 7475,
-    "level": "high",
-    "country": "🌍",
-    "text": "Tunisia jails opposition politician for four years over social media posts",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-    "time": "Wed, 21 Oct 2026"
-  },
-  {
-    "id": 160,
-    "level": "high",
-    "country": "🌍",
-    "text": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
-    "time": "Wed, 21 Oct 2026"
-  },
-  {
-    "id": 4688,
-    "level": "high",
-    "country": "🌍",
-    "text": "L’armée déployée le 24 octobre : des précédents rarissimes en France",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261021-armee-deployee-samedi-24-octobre-precedents-rarissimes-france",
-    "time": "Wed, 21 Oct 2026"
-  },
-  {
-    "id": 7732,
+    "id": 1322,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -72,7 +45,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 577,
+    "id": 3503,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -81,7 +54,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 609,
+    "id": 5602,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +63,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1399,
+    "id": 5913,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3710,
+    "id": 271,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5450,
+    "id": 1577,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8224,
+    "id": 4730,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9682,
+    "id": 2597,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3859,
+    "id": 7346,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9631,
+    "id": 260,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +126,25 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6013,
+    "id": 3333,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Protest as a pillar of democracy",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/21/protest-as-a-pillar-of-democracy/",
+    "time": "Wed, 21 Oct 2026"
+  },
+  {
+    "id": 5213,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Palestine is already living under the Big Tech authoritarianism the world is bei",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/21/palestine-is-already-living-under-the-big-tech-authoritarianism-the-world-is-being-sold/",
+    "time": "Wed, 21 Oct 2026"
+  },
+  {
+    "id": 2437,
     "level": "medium",
     "country": "🌍",
     "text": "When Big Tech becomes a tool of state control in Kenya",
@@ -162,7 +153,7 @@
     "time": "Wed, 21 Oct 2026"
   },
   {
-    "id": 9067,
+    "id": 8812,
     "level": "medium",
     "country": "🌍",
     "text": "Built for boats, adrift on land: Bangladesh’s Bede community struggles with a fi",
@@ -171,12 +162,21 @@
     "time": "Tue, 20 Oct 2026"
   },
   {
-    "id": 2382,
+    "id": 3885,
     "level": "medium",
     "country": "🌍",
     "text": "How a civic tech platform is helping women in Serbia get home safely",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/20/how-a-civic-tech-platform-is-helping-women-in-serbia-get-home-safely/",
     "time": "Tue, 20 Oct 2026"
+  },
+  {
+    "id": 1760,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Students air their frustrations anonymously online as emigration tempts many you",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/19/students-air-their-frustrations-anonymously-online-as-emigration-tempts-many-young-people-in-north-macedonia/",
+    "time": "Mon, 19 Oct 2026"
   }
 ]
