@@ -1,6 +1,6 @@
 [
   {
-    "id": 8741,
+    "id": 3353,
     "level": "critical",
     "country": "🌍",
     "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
@@ -9,7 +9,7 @@
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 1503,
+    "id": 21,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -18,52 +18,70 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 5632,
+    "id": 5530,
     "level": "critical",
     "country": "🌍",
-    "text": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
+    "text": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/22/ilhan-omar-home-raid-haines-attack-inside-rise-in-violence-on-officials?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 9889,
+    "id": 8096,
     "level": "critical",
     "country": "🌍",
-    "text": "How Sudan’s shift to drone warfare is fuelling a civilian crisis",
+    "text": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/22/how-sudans-shift-to-drone-warfare-is-fuelling-a-civilian-crisis?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 9450,
+    "id": 9720,
     "level": "critical",
     "country": "🌍",
-    "text": "Emmanuel Macron poursuit sa tournée dans le Golfe malgré la crise politique en F",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-emmanuel-macron-poursuit-sa-tourn%C3%A9e-dans-le-golfe-malgr%C3%A9-la-crise-politique-en-france",
+    "text": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 8668,
+    "id": 2298,
     "level": "critical",
     "country": "🌍",
-    "text": "Législatives en Israël : qui sont les principaux candidats face à Benjamin Netan",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20261022-l%C3%A9gislatives-isra%C3%ABl-qui-sont-principaux-candidats-face-%C3%A0-benjamin-netanyahu-eisenkot-lapid-bennett-golan-liberman",
+    "text": "US-sanctioned ICC wins top EU human rights award",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 426,
+    "id": 2557,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Foreign national beaten to death by a mob in South Africa",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+    "time": "Thu, 22 Oct 2026"
+  },
+  {
+    "id": 5667,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Cameroun : dix ans après la tragédie ferroviaire d'Eséka, la souvenir reste viva",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-cameroun-dix-ans-apr%C3%A8s-la-trag%C3%A9die-ferroviaire-d-es%C3%A9ka-la-souvenir-reste-vivace",
+    "time": "Thu, 22 Oct 2026"
+  },
+  {
+    "id": 7780,
     "level": "high",
     "country": "🌍",
-    "text": "Germany arrests Ukrainian man accused of spying for Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+    "text": "Tchad : quatre suspects arrêtés à Miski, après les tensions dans le Tibesti",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261022-tchad-quatre-suspects-arr%C3%AAt%C3%A9s-%C3%A0-miski-apr%C3%A8s-les-tensions-dans-le-tibesti",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 8437,
+    "id": 3045,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -72,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 994,
+    "id": 9155,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -81,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 5331,
+    "id": 8236,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3051,
+    "id": 946,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7810,
+    "id": 9256,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7832,
+    "id": 5581,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1669,
+    "id": 7614,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6584,
+    "id": 1982,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8680,
+    "id": 3687,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6659,
+    "id": 841,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,30 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2195,
+    "id": 6996,
     "level": "medium",
     "country": "🌍",
     "text": "What telecoms leave behind when they exit a country",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/22/what-telecoms-leave-behind-when-they-exit-a-country/",
     "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 3753,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Protest as a pillar of democracy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/21/protest-as-a-pillar-of-democracy/",
-    "time": "Wed, 21 Oct 2026"
-  },
-  {
-    "id": 8960,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Palestine is already living under the Big Tech authoritarianism the world is bei",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/21/palestine-is-already-living-under-the-big-tech-authoritarianism-the-world-is-being-sold/",
-    "time": "Wed, 21 Oct 2026"
   }
 ]
