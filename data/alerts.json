@@ -1,6 +1,6 @@
 [
   {
-    "id": 1957,
+    "id": 9479,
     "level": "critical",
     "country": "🌍",
     "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
@@ -9,7 +9,7 @@
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 6327,
+    "id": 9471,
     "level": "critical",
     "country": "🌍",
     "text": "At the UN, plans for a global coalition to attack LGBTQ+ and reproductive rights",
@@ -18,61 +18,43 @@
     "time": "Sat, 17 Oct 2026"
   },
   {
-    "id": 1837,
+    "id": 2297,
     "level": "critical",
     "country": "🌍",
-    "text": "Tigray resumes daily life amid fears of wider war",
+    "text": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 4266,
+    "id": 6311,
     "level": "critical",
     "country": "🌍",
-    "text": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+    "text": "Russian strikes hit Kyiv after Witkoff meets Putin",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 4875,
+    "id": 9785,
     "level": "critical",
     "country": "🌍",
-    "text": "World leaders warn of security flaws found in PHP programming language",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 2451,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Des intempéries ont fait au moins quatre morts dans le sud-est de la France",
+    "text": "Contre le Pakistan, les Taliban afghans multiplient les frappes de drones low co",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261021-intemperies-au-moins-quatre-morts-sud-est-france-inondations-rechauffement-climatique-bouches-rhone-secours-disparu",
-    "time": "Wed, 21 Oct 2026"
-  },
-  {
-    "id": 1260,
-    "level": "high",
-    "country": "🌍",
-    "text": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+    "link": "https://www.france24.com/fr/asie-pacifique/20261022-guerre-pakistan-taliban-afghans-drones",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 7721,
-    "level": "high",
+    "id": 3090,
+    "level": "critical",
     "country": "🌍",
-    "text": "L'Irlande approuve une législation controversée permettant l'envoi de ses soldat",
+    "text": "Ukraine en direct : 7 morts après des échanges massifs de tirs entre Kiev et Mos",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261022-irlande-approuve-legislation-permettant-envoi-soldats-etranger-conseil-securite-onu-militaire-neutralite-dail-triple-verrouillage",
+    "link": "https://www.france24.com/fr/europe/20261022-en-direct-drones-lances-moscou-missiles-kiev-apres-pourparlers-russo-americains-ukraine-zelensky-frappes-poutine",
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 1269,
+    "id": 9055,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -81,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 8271,
+    "id": 3280,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 4292,
+    "id": 3210,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6897,
+    "id": 5293,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8412,
+    "id": 8315,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 942,
+    "id": 4564,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1749,
+    "id": 3987,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5606,
+    "id": 1960,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3511,
+    "id": 6681,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9048,
+    "id": 254,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 4681,
+    "id": 3524,
     "level": "medium",
     "country": "🌍",
     "text": "Protest as a pillar of democracy",
@@ -171,12 +153,30 @@
     "time": "Wed, 21 Oct 2026"
   },
   {
-    "id": 6247,
+    "id": 4914,
     "level": "medium",
     "country": "🌍",
     "text": "Palestine is already living under the Big Tech authoritarianism the world is bei",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/21/palestine-is-already-living-under-the-big-tech-authoritarianism-the-world-is-being-sold/",
     "time": "Wed, 21 Oct 2026"
+  },
+  {
+    "id": 1496,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When Big Tech becomes a tool of state control in Kenya",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/",
+    "time": "Wed, 21 Oct 2026"
+  },
+  {
+    "id": 7608,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Built for boats, adrift on land: Bangladesh’s Bede community struggles with a fi",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/20/built-for-boats-adrift-on-land-bangladeshs-bede-community-struggles-with-a-fixed-address-system/",
+    "time": "Tue, 20 Oct 2026"
   }
 ]
