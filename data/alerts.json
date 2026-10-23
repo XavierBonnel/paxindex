@@ -1,6 +1,6 @@
 [
   {
-    "id": 701,
+    "id": 1995,
     "level": "critical",
     "country": "🌍",
     "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
@@ -9,25 +9,25 @@
     "time": "Mon, 19 Oct 2026"
   },
   {
-    "id": 1618,
+    "id": 7754,
     "level": "critical",
     "country": "🌍",
-    "text": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+    "text": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
-    "time": "Thu, 22 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+    "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 9007,
+    "id": 632,
     "level": "critical",
     "country": "🌍",
-    "text": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss",
-    "time": "Thu, 22 Oct 2026"
+    "text": "\"Justice pour papa\" : le jugement sur la mort de Maradona sera rendu le 22 décem",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261023-argentine-proces-mort-diego-maradona-jugement-22-decembre",
+    "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 7859,
+    "id": 796,
     "level": "critical",
     "country": "🌍",
     "text": "Chine : un séisme de magnitude 7 fait de nombreux morts au Tibet",
@@ -36,7 +36,7 @@
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 9393,
+    "id": 9462,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -45,7 +45,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 8233,
+    "id": 1675,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -54,7 +54,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1760,
+    "id": 853,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +63,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5,
+    "id": 6547,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +72,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7379,
+    "id": 4920,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +81,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4481,
+    "id": 1586,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +90,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8251,
+    "id": 6187,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +99,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5812,
+    "id": 8875,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +108,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2957,
+    "id": 8076,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +117,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2523,
+    "id": 6764,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +126,25 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8396,
+    "id": 6454,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Independent journalism under siege in Georgia",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/23/independent-journalism-under-siege-in-georgia/",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 8260,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Riddims against copyright",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/22/riddims-against-copyright/",
+    "time": "Thu, 22 Oct 2026"
+  },
+  {
+    "id": 9854,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela faces a deepening energy crisis as protests grow",
@@ -135,7 +153,7 @@
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 7946,
+    "id": 8197,
     "level": "medium",
     "country": "🌍",
     "text": "What telecoms leave behind when they exit a country",
@@ -144,7 +162,7 @@
     "time": "Thu, 22 Oct 2026"
   },
   {
-    "id": 4375,
+    "id": 5218,
     "level": "medium",
     "country": "🌍",
     "text": "Protest as a pillar of democracy",
@@ -153,30 +171,12 @@
     "time": "Wed, 21 Oct 2026"
   },
   {
-    "id": 2408,
+    "id": 8702,
     "level": "medium",
     "country": "🌍",
     "text": "Palestine is already living under the Big Tech authoritarianism the world is bei",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/21/palestine-is-already-living-under-the-big-tech-authoritarianism-the-world-is-being-sold/",
     "time": "Wed, 21 Oct 2026"
-  },
-  {
-    "id": 8966,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When Big Tech becomes a tool of state control in Kenya",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/",
-    "time": "Wed, 21 Oct 2026"
-  },
-  {
-    "id": 4188,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Built for boats, adrift on land: Bangladesh’s Bede community struggles with a fi",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/20/built-for-boats-adrift-on-land-bangladeshs-bede-community-struggles-with-a-fixed-address-system/",
-    "time": "Tue, 20 Oct 2026"
   }
 ]
