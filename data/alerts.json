@@ -1,42 +1,87 @@
 [
   {
-    "id": 1995,
+    "id": 6036,
     "level": "critical",
     "country": "🌍",
-    "text": "Anthropic exposes AI operation that DRC journalists never knew existed",
+    "text": "Complementary forces: Why activism needs art to drive action",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/19/anthropic-exposes-ai-operation-that-drc-journalists-never-knew-existed/",
-    "time": "Mon, 19 Oct 2026"
+    "link": "https://globalvoices.org/2026/10/23/complementary-forces-why-activism-needs-art-to-drive-action/",
+    "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 7754,
+    "id": 6077,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+    "text": "Israeli forces accused of killing disabled man in Syria raid",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 632,
+    "id": 6517,
     "level": "critical",
     "country": "🌍",
-    "text": "\"Justice pour papa\" : le jugement sur la mort de Maradona sera rendu le 22 décem",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20261023-argentine-proces-mort-diego-maradona-jugement-22-decembre",
+    "text": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss",
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 796,
+    "id": 5845,
     "level": "critical",
     "country": "🌍",
-    "text": "Chine : un séisme de magnitude 7 fait de nombreux morts au Tibet",
+    "text": "Ebola au Nigeria, grève au Sénégal, frappe sur un marché au Soudan : l'hebdo Afr",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/asie-pacifique/20261022-chine-un-s%C3%A9isme-de-magnitude-7-fait-de-nombreux-morts-au-tibet",
-    "time": "Thu, 22 Oct 2026"
+    "link": "https://www.france24.com/fr/afrique/20261023-ebola-nigeria-gr%C3%A8ve-s%C3%A9n%C3%A9gal-frappe-march%C3%A9-soudan-hebdo-afrique",
+    "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 9462,
+    "id": 6895,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Candidats, partis, enjeu électoral : comment l'armée pèse sur les législatives i",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20261023-candidats-partis-enjeu-%C3%A9lectoral-netanyahu-arm%C3%A9e-p%C3%A8se-l%C3%A9gislatives-isra%C3%A9liennes-eisenkot",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 8596,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : des limites sur Starshield toujours \"observées\", malgré l'an",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261023-guerre-en-ukraine-trump-affirme-que-musk-a-r%C3%A9tabli-l-acc%C3%A8s-%C3%A0-son-r%C3%A9seau-satellitaire-starlink",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 1717,
+    "level": "high",
+    "country": "🌍",
+    "text": "What role does the military play in Israeli schools?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 2419,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israeli military kills two in gun battle in occupied West Bank",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 6774,
+    "level": "high",
+    "country": "🌍",
+    "text": "Netanyahu ordonne de préparer le \"bouclage total\" de la Cisjordanie occupée aprè",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20261023-netanyahu-ordonne-de-pr%C3%A9parer-le-bouclage-total-de-la-cisjordanie-occup%C3%A9e-apr%C3%A8s-une-attaque",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 448,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -45,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 1675,
+    "id": 2372,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -54,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 853,
+    "id": 6516,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6547,
+    "id": 2365,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4920,
+    "id": 6130,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1586,
+    "id": 5153,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6187,
+    "id": 255,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8875,
+    "id": 2644,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8076,
+    "id": 1525,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6764,
+    "id": 2604,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,57 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6454,
+    "id": 4894,
     "level": "medium",
     "country": "🌍",
     "text": "Independent journalism under siege in Georgia",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/23/independent-journalism-under-siege-in-georgia/",
     "time": "Fri, 23 Oct 2026"
-  },
-  {
-    "id": 8260,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Riddims against copyright",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/riddims-against-copyright/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 9854,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela faces a deepening energy crisis as protests grow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 8197,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What telecoms leave behind when they exit a country",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/what-telecoms-leave-behind-when-they-exit-a-country/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 5218,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Protest as a pillar of democracy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/21/protest-as-a-pillar-of-democracy/",
-    "time": "Wed, 21 Oct 2026"
-  },
-  {
-    "id": 8702,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Palestine is already living under the Big Tech authoritarianism the world is bei",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/21/palestine-is-already-living-under-the-big-tech-authoritarianism-the-world-is-being-sold/",
-    "time": "Wed, 21 Oct 2026"
   }
 ]
