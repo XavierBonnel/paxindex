@@ -1,6 +1,6 @@
 [
   {
-    "id": 5317,
+    "id": 7407,
     "level": "critical",
     "country": "🌍",
     "text": "Complementary forces: Why activism needs art to drive action",
@@ -9,16 +9,52 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 3889,
+    "id": 3473,
     "level": "critical",
     "country": "🌍",
-    "text": "Romania blames Russia after drone sinks ship in the Black Sea",
+    "text": "Masked gunmen kill seven in attack on church funeral in Jordan",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 1172,
+    "id": 8384,
+    "level": "critical",
+    "country": "🌍",
+    "text": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 3873,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump’s broken promises: economy, war and ICE",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 8472,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les États-Unis pourraient frapper l'Iran dès ce week-end, avance un diplomate am",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20261023-les-%C3%A9tats-unis-pourraient-frapper-l-iran-d%C3%A8s-ce-week-end-avance-un-diplomate-am%C3%A9ricain",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 4460,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+    "time": "Fri, 23 Oct 2026"
+  },
+  {
+    "id": 1463,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 En direct : Macron évoque \"un tournant\" et dénonce un \"attentat\" commis \"sur l",
@@ -27,7 +63,7 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 1937,
+    "id": 2195,
     "level": "critical",
     "country": "🌍",
     "text": "Tirs dans les Yvelines :  le maire dénonce \"un attentat à connotation raciste\"",
@@ -36,25 +72,16 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 3777,
-    "level": "critical",
+    "id": 1829,
+    "level": "high",
     "country": "🌍",
-    "text": "🔴 En direct : Macron à Trappes après les tirs meurtriers, l'Élysée dénonce un \"a",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+    "text": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 4976,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Clément Beaune : “La Chine pose une question de vie ou de mort à l’industrie eur",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261023-cl%C3%A9ment-beaune-la-chine-pose-une-question-de-vie-ou-de-mort-%C3%A0-l-industrie-europ%C3%A9enne",
-    "time": "Fri, 23 Oct 2026"
-  },
-  {
-    "id": 5562,
+    "id": 7327,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 1506,
+    "id": 3552,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 8735,
+    "id": 1549,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3825,
+    "id": 2393,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5130,
+    "id": 7138,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4004,
+    "id": 9198,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2952,
+    "id": 9671,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8529,
+    "id": 2250,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2447,
+    "id": 748,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5978,
+    "id": 6662,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,39 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 54,
+    "id": 8851,
     "level": "medium",
     "country": "🌍",
-    "text": "Independent journalism under siege in Georgia",
+    "text": "In Bosnia and Herzegovina, children with Down syndrome are using a video game to",
     "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/23/independent-journalism-under-siege-in-georgia/",
+    "link": "https://globalvoices.org/2026/10/23/in-bosnia-and-herzegovina-children-with-down-syndrome-are-using-a-video-game-to-safely-navigate-the-internet/",
     "time": "Fri, 23 Oct 2026"
-  },
-  {
-    "id": 9988,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Riddims against copyright",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/riddims-against-copyright/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 4766,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela faces a deepening energy crisis as protests grow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 662,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What telecoms leave behind when they exit a country",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/what-telecoms-leave-behind-when-they-exit-a-country/",
-    "time": "Thu, 22 Oct 2026"
   }
 ]
