@@ -1,6 +1,6 @@
 [
   {
-    "id": 2347,
+    "id": 4269,
     "level": "critical",
     "country": "🌍",
     "text": "Complementary forces: Why activism needs art to drive action",
@@ -9,16 +9,43 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 6102,
-    "level": "high",
+    "id": 3559,
+    "level": "critical",
     "country": "🌍",
-    "text": "À Paris, une dispersion sous tension après une journée de mobilisation dans le c",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-paris-une-dispersion-sous-tension-apr%C3%A8s-une-journ%C3%A9e-de-mobilisation-dans-le-calme",
+    "text": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 5091,
+    "id": 9377,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+    "time": "Sat, 24 Oct 2026"
+  },
+  {
+    "id": 5991,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+    "time": "Sat, 24 Oct 2026"
+  },
+  {
+    "id": 3526,
+    "level": "high",
+    "country": "🌍",
+    "text": "Could Israel’s military crackdown influence Tuesday’s election?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+    "time": "Sat, 24 Oct 2026"
+  },
+  {
+    "id": 5121,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -27,7 +54,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 9620,
+    "id": 7221,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -36,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 5767,
+    "id": 5250,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -45,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1886,
+    "id": 5875,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -54,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 196,
+    "id": 5720,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -63,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2324,
+    "id": 4120,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -72,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6810,
+    "id": 1141,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -81,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9945,
+    "id": 6438,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -90,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4861,
+    "id": 8982,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -99,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8455,
+    "id": 6264,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -108,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5673,
+    "id": 6107,
     "level": "medium",
     "country": "🌍",
     "text": "Big Tech and authoritarian states: Belarus",
@@ -117,7 +144,7 @@
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 9878,
+    "id": 4429,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil’s elections, big techs’ transparency and cooperation policies translat",
@@ -126,7 +153,7 @@
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 7135,
+    "id": 1807,
     "level": "medium",
     "country": "🌍",
     "text": "In Bosnia and Herzegovina, children with Down syndrome are using a video game to",
@@ -135,7 +162,7 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 9838,
+    "id": 9907,
     "level": "medium",
     "country": "🌍",
     "text": "Independent journalism under siege in Georgia",
@@ -144,39 +171,12 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 1759,
+    "id": 862,
     "level": "medium",
     "country": "🌍",
     "text": "Riddims against copyright",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/22/riddims-against-copyright/",
     "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 2098,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela faces a deepening energy crisis as protests grow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 3850,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What telecoms leave behind when they exit a country",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/what-telecoms-leave-behind-when-they-exit-a-country/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 6786,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Protest as a pillar of democracy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/21/protest-as-a-pillar-of-democracy/",
-    "time": "Wed, 21 Oct 2026"
   }
 ]
