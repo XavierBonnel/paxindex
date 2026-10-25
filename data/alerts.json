@@ -1,6 +1,6 @@
 [
   {
-    "id": 4269,
+    "id": 677,
     "level": "critical",
     "country": "🌍",
     "text": "Complementary forces: Why activism needs art to drive action",
@@ -9,7 +9,43 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 3559,
+    "id": 4562,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 1012,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 4769,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+    "time": "Sat, 24 Oct 2026"
+  },
+  {
+    "id": 7431,
+    "level": "critical",
+    "country": "🌍",
+    "text": "How have Democrats’ policies shifted since the last major US election?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+    "time": "Sat, 24 Oct 2026"
+  },
+  {
+    "id": 4817,
     "level": "critical",
     "country": "🌍",
     "text": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
@@ -18,7 +54,7 @@
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 9377,
+    "id": 9380,
     "level": "critical",
     "country": "🌍",
     "text": "Iran blames US for deal failure, urges new try amid fear of new attacks",
@@ -27,7 +63,7 @@
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 5991,
+    "id": 3138,
     "level": "critical",
     "country": "🌍",
     "text": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
@@ -36,16 +72,16 @@
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 3526,
+    "id": 6913,
     "level": "high",
     "country": "🌍",
-    "text": "Could Israel’s military crackdown influence Tuesday’s election?",
+    "text": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 5121,
+    "id": 7608,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -54,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7221,
+    "id": 6744,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 5250,
+    "id": 9275,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5875,
+    "id": 440,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5720,
+    "id": 8977,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4120,
+    "id": 1941,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1141,
+    "id": 8597,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6438,
+    "id": 7308,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 8982,
+    "id": 3596,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6264,
+    "id": 5137,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,48 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6107,
+    "id": 9186,
     "level": "medium",
     "country": "🌍",
     "text": "Big Tech and authoritarian states: Belarus",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/24/big-tech-and-authoritarian-states-belarus/",
     "time": "Sat, 24 Oct 2026"
-  },
-  {
-    "id": 4429,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil’s elections, big techs’ transparency and cooperation policies translat",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/24/in-brazils-elections-big-techs-transparency-and-cooperation-policies-translate-as-governance-washing-according-to-this-expert/",
-    "time": "Sat, 24 Oct 2026"
-  },
-  {
-    "id": 1807,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Bosnia and Herzegovina, children with Down syndrome are using a video game to",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/23/in-bosnia-and-herzegovina-children-with-down-syndrome-are-using-a-video-game-to-safely-navigate-the-internet/",
-    "time": "Fri, 23 Oct 2026"
-  },
-  {
-    "id": 9907,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Independent journalism under siege in Georgia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/23/independent-journalism-under-siege-in-georgia/",
-    "time": "Fri, 23 Oct 2026"
-  },
-  {
-    "id": 862,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Riddims against copyright",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/riddims-against-copyright/",
-    "time": "Thu, 22 Oct 2026"
   }
 ]
