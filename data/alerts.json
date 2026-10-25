@@ -1,6 +1,6 @@
 [
   {
-    "id": 7153,
+    "id": 1880,
     "level": "critical",
     "country": "🌍",
     "text": "Complementary forces: Why activism needs art to drive action",
@@ -9,52 +9,79 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 4222,
+    "id": 8647,
     "level": "critical",
     "country": "🌍",
-    "text": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+    "text": "Thousands mourn victims of deadly Jordan church attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 7733,
+    "id": 9189,
     "level": "critical",
     "country": "🌍",
-    "text": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+    "text": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 6419,
+    "id": 8934,
     "level": "critical",
     "country": "🌍",
-    "text": "Attentat dans les Yvelines : le suspect placé en observation psychiatrique",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
+    "text": "How is the US-Israeli war on Iran causing havoc in Europe?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 7397,
+    "id": 4719,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaza content creator tells Al Jazeera how much her award win means",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 3034,
+    "level": "critical",
+    "country": "🌍",
+    "text": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 8055,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Saudi air defences intercept Houthi barrage near Mecca",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 5661,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 3389,
     "level": "high",
     "country": "🌍",
-    "text": "Israeli forces turn Hebron homes into military posts amid lockdown",
+    "text": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 3149,
-    "level": "high",
-    "country": "🌍",
-    "text": "Israël bouclera la Cisjordanie occupée et fermera tous les points de passage lor",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20261025-israel-bouclage-cisjordanie-occupee-fermeture-points-de-passage-elections-legislatives-netanyahu-hebron-palestiniens",
-    "time": "Sun, 25 Oct 2026"
-  },
-  {
-    "id": 4460,
+    "id": 9315,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 2149,
+    "id": 132,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 397,
+    "id": 9427,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9725,
+    "id": 4670,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 192,
+    "id": 9689,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 284,
+    "id": 9116,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2609,
+    "id": 961,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3004,
+    "id": 9915,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4627,
+    "id": 1592,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9604,
+    "id": 4879,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,39 +171,12 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2796,
+    "id": 3096,
     "level": "medium",
     "country": "🌍",
     "text": "Queer mediums of the cult of María Lionza are redefining the gender binary in Ve",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/25/queer-mediums-of-the-cult-of-maria-lionza-are-redefining-the-gender-binary-in-venezuelas-sacred-mountain/",
     "time": "Sun, 25 Oct 2026"
-  },
-  {
-    "id": 3215,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Big Tech and authoritarian states: Belarus",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/24/big-tech-and-authoritarian-states-belarus/",
-    "time": "Sat, 24 Oct 2026"
-  },
-  {
-    "id": 1709,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil’s elections, big techs’ transparency and cooperation policies translat",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/24/in-brazils-elections-big-techs-transparency-and-cooperation-policies-translate-as-governance-washing-according-to-this-expert/",
-    "time": "Sat, 24 Oct 2026"
-  },
-  {
-    "id": 7772,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Bosnia and Herzegovina, children with Down syndrome are using a video game to",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/23/in-bosnia-and-herzegovina-children-with-down-syndrome-are-using-a-video-game-to-safely-navigate-the-internet/",
-    "time": "Fri, 23 Oct 2026"
   }
 ]
