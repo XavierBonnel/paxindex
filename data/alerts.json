@@ -1,6 +1,6 @@
 [
   {
-    "id": 2129,
+    "id": 7153,
     "level": "critical",
     "country": "🌍",
     "text": "Complementary forces: Why activism needs art to drive action",
@@ -9,25 +9,52 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 2615,
+    "id": 4222,
     "level": "critical",
     "country": "🌍",
-    "text": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+    "text": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 2251,
+    "id": 7733,
     "level": "critical",
     "country": "🌍",
-    "text": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+    "text": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 1863,
+    "id": 6419,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attentat dans les Yvelines : le suspect placé en observation psychiatrique",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 7397,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israeli forces turn Hebron homes into military posts amid lockdown",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 3149,
+    "level": "high",
+    "country": "🌍",
+    "text": "Israël bouclera la Cisjordanie occupée et fermera tous les points de passage lor",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20261025-israel-bouclage-cisjordanie-occupee-fermeture-points-de-passage-elections-legislatives-netanyahu-hebron-palestiniens",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 4460,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -36,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 6608,
+    "id": 2149,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -45,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 707,
+    "id": 397,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -54,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3089,
+    "id": 9725,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2263,
+    "id": 192,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3419,
+    "id": 284,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6805,
+    "id": 2609,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4160,
+    "id": 3004,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6821,
+    "id": 4627,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 4238,
+    "id": 9604,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +144,16 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1629,
+    "id": 2796,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Queer mediums of the cult of María Lionza are redefining the gender binary in Ve",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/25/queer-mediums-of-the-cult-of-maria-lionza-are-redefining-the-gender-binary-in-venezuelas-sacred-mountain/",
+    "time": "Sun, 25 Oct 2026"
+  },
+  {
+    "id": 3215,
     "level": "medium",
     "country": "🌍",
     "text": "Big Tech and authoritarian states: Belarus",
@@ -126,7 +162,7 @@
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 9145,
+    "id": 1709,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil’s elections, big techs’ transparency and cooperation policies translat",
@@ -135,48 +171,12 @@
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 8520,
+    "id": 7772,
     "level": "medium",
     "country": "🌍",
     "text": "In Bosnia and Herzegovina, children with Down syndrome are using a video game to",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/23/in-bosnia-and-herzegovina-children-with-down-syndrome-are-using-a-video-game-to-safely-navigate-the-internet/",
     "time": "Fri, 23 Oct 2026"
-  },
-  {
-    "id": 300,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Independent journalism under siege in Georgia",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/23/independent-journalism-under-siege-in-georgia/",
-    "time": "Fri, 23 Oct 2026"
-  },
-  {
-    "id": 324,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Riddims against copyright",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/riddims-against-copyright/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 7857,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela faces a deepening energy crisis as protests grow",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
-    "time": "Thu, 22 Oct 2026"
-  },
-  {
-    "id": 6417,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What telecoms leave behind when they exit a country",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/22/what-telecoms-leave-behind-when-they-exit-a-country/",
-    "time": "Thu, 22 Oct 2026"
   }
 ]
