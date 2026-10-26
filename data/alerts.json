@@ -1,6 +1,6 @@
 [
   {
-    "id": 5074,
+    "id": 4428,
     "level": "critical",
     "country": "🌍",
     "text": "Complementary forces: Why activism needs art to drive action",
@@ -9,16 +9,25 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 5569,
+    "id": 9456,
     "level": "critical",
     "country": "🌍",
-    "text": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+    "text": "Israel’s election: Five key things to know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-    "time": "Sun, 25 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+    "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 5029,
+    "id": 6941,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+    "time": "Mon, 26 Oct 2026"
+  },
+  {
+    "id": 5483,
     "level": "critical",
     "country": "🌍",
     "text": "Pour les électeurs de Marine Le Pen, \"c’est faux de dire que le RN incite à la h",
@@ -27,16 +36,16 @@
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 9670,
-    "level": "critical",
+    "id": 3739,
+    "level": "high",
     "country": "🌍",
-    "text": "Midterms 2026 : Obama fait campagne pour les démocrates et épingle Trump",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261025-midterms-2026-obama-fait-campagne-pour-les-d%C3%A9mocrates-et-%C3%A9pingle-trump",
-    "time": "Sun, 25 Oct 2026"
+    "text": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+    "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 1293,
+    "id": 2825,
     "level": "high",
     "country": "🌍",
     "text": "Éthiopie : que veut vraiment Abiy Ahmed pour son pays ?",
@@ -45,7 +54,7 @@
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 6966,
+    "id": 1938,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -54,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 358,
+    "id": 3433,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 44,
+    "id": 4847,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1697,
+    "id": 2820,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1962,
+    "id": 8177,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3378,
+    "id": 4268,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9926,
+    "id": 4312,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1691,
+    "id": 8103,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4431,
+    "id": 4556,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9467,
+    "id": 3410,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 6761,
+    "id": 2074,
     "level": "medium",
     "country": "🌍",
     "text": "Between two shores: The ‘Monhés,’ nationality, and a sense of belonging in Mozam",
@@ -144,7 +153,7 @@
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 4298,
+    "id": 9555,
     "level": "medium",
     "country": "🌍",
     "text": "Queer mediums of the cult of María Lionza are redefining the gender binary in Ve",
@@ -153,7 +162,7 @@
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 2202,
+    "id": 7290,
     "level": "medium",
     "country": "🌍",
     "text": "Big Tech and authoritarian states: Belarus",
@@ -162,21 +171,12 @@
     "time": "Sat, 24 Oct 2026"
   },
   {
-    "id": 1205,
+    "id": 628,
     "level": "medium",
     "country": "🌍",
     "text": "In Brazil’s elections, big techs’ transparency and cooperation policies translat",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/24/in-brazils-elections-big-techs-transparency-and-cooperation-policies-translate-as-governance-washing-according-to-this-expert/",
     "time": "Sat, 24 Oct 2026"
-  },
-  {
-    "id": 8170,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Bosnia and Herzegovina, children with Down syndrome are using a video game to",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/23/in-bosnia-and-herzegovina-children-with-down-syndrome-are-using-a-video-game-to-safely-navigate-the-internet/",
-    "time": "Fri, 23 Oct 2026"
   }
 ]
