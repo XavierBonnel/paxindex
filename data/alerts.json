@@ -1,6 +1,15 @@
 [
   {
-    "id": 4428,
+    "id": 7275,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Vote young yet govern much later: West African youth’s struggle for power",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/26/vote-young-yet-govern-much-later-west-african-youths-struggle-for-power/",
+    "time": "Mon, 26 Oct 2026"
+  },
+  {
+    "id": 3377,
     "level": "critical",
     "country": "🌍",
     "text": "Complementary forces: Why activism needs art to drive action",
@@ -9,52 +18,61 @@
     "time": "Fri, 23 Oct 2026"
   },
   {
-    "id": 9456,
+    "id": 299,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel’s election: Five key things to know",
+    "text": "Jordan arrests three suspects over church attack in dawn raid: What to know",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 6941,
+    "id": 6273,
     "level": "critical",
     "country": "🌍",
-    "text": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+    "text": "Suwayda remains in stasis as US signals differences with Israel on Syria",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 5483,
+    "id": 475,
     "level": "critical",
     "country": "🌍",
-    "text": "Pour les électeurs de Marine Le Pen, \"c’est faux de dire que le RN incite à la h",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261025-france-pour-les-electeurs-de-marine-le-pen-c-est-faux-de-dire-que-le-rn-incite-a-la-haine",
-    "time": "Sun, 25 Oct 2026"
+    "text": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
+    "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 3739,
+    "id": 2720,
     "level": "high",
     "country": "🌍",
-    "text": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+    "text": "Key European defence ministers meet in Paris to discuss Ukraine support",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 2825,
+    "id": 7190,
     "level": "high",
     "country": "🌍",
-    "text": "Éthiopie : que veut vraiment Abiy Ahmed pour son pays ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261025-%C3%A9thiopie-que-veut-vraiment-abiy-ahmed-pour-son-pays",
-    "time": "Sun, 25 Oct 2026"
+    "text": "Saudi-led coalition says it struck Houthi missile facilities",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/26/saudi-led-coalition-says-it-struck-houthi-missile-facilities?traffic_source=rss",
+    "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 1938,
+    "id": 937,
+    "level": "high",
+    "country": "🌍",
+    "text": "Algeria’s military deployment to Niger: What’s behind the move?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
+    "time": "Mon, 26 Oct 2026"
+  },
+  {
+    "id": 3099,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 3433,
+    "id": 302,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 4847,
+    "id": 1295,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2820,
+    "id": 2000,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8177,
+    "id": 8017,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4268,
+    "id": 1202,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4312,
+    "id": 4340,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8103,
+    "id": 5647,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4556,
+    "id": 1529,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3410,
+    "id": 9431,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +162,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 2074,
+    "id": 1211,
     "level": "medium",
     "country": "🌍",
     "text": "Between two shores: The ‘Monhés,’ nationality, and a sense of belonging in Mozam",
@@ -153,30 +171,12 @@
     "time": "Sun, 25 Oct 2026"
   },
   {
-    "id": 9555,
+    "id": 5673,
     "level": "medium",
     "country": "🌍",
     "text": "Queer mediums of the cult of María Lionza are redefining the gender binary in Ve",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/25/queer-mediums-of-the-cult-of-maria-lionza-are-redefining-the-gender-binary-in-venezuelas-sacred-mountain/",
     "time": "Sun, 25 Oct 2026"
-  },
-  {
-    "id": 7290,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Big Tech and authoritarian states: Belarus",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/24/big-tech-and-authoritarian-states-belarus/",
-    "time": "Sat, 24 Oct 2026"
-  },
-  {
-    "id": 628,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Brazil’s elections, big techs’ transparency and cooperation policies translat",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/24/in-brazils-elections-big-techs-transparency-and-cooperation-policies-translate-as-governance-washing-according-to-this-expert/",
-    "time": "Sat, 24 Oct 2026"
   }
 ]
