@@ -1,6 +1,6 @@
 [
   {
-    "id": 8820,
+    "id": 171,
     "level": "critical",
     "country": "🌍",
     "text": "Bangladesh weighs tougher cyber law as AI-generated abuse targets women",
@@ -9,7 +9,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 2845,
+    "id": 5043,
     "level": "critical",
     "country": "🌍",
     "text": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritar",
@@ -18,7 +18,7 @@
     "time": "Tue, 27 Oct 2026"
   },
   {
-    "id": 1029,
+    "id": 2583,
     "level": "critical",
     "country": "🌍",
     "text": "Volunteers from Poland remember how Poles opened their homes to Ukrainian refuge",
@@ -27,7 +27,7 @@
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 3318,
+    "id": 3663,
     "level": "critical",
     "country": "🌍",
     "text": "Vote young yet govern much later: West African youth’s struggle for power",
@@ -36,43 +36,79 @@
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 1131,
+    "id": 1567,
     "level": "critical",
     "country": "🌍",
-    "text": "Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’",
+    "text": "Spain demands answers after deadliest train disaster in over a decade",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 5051,
+    "id": 6109,
     "level": "critical",
     "country": "🌍",
-    "text": "Collision entre deux trains en Espagne : l'une des pires catastrophes ferroviair",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261028-collision-entre-deux-trains-en-espagne-l-une-des-pires-catastrophes-ferroviaires-du-pays",
+    "text": "What are the implications of Israel’s elections?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 4101,
+    "id": 9620,
     "level": "critical",
     "country": "🌍",
-    "text": "Israël : pas de majorité, et maintenant ? Parlons-en avec Alexandra Schwartzbrod",
+    "text": "Collision de trains en Espagne : que s'est-il passé ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261028-isra%C3%ABl-pas-de-majorit%C3%A9-et-maintenant-parlons-en-avec-alexandra-schwartzbrod-et-lucas-menget",
+    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261028-collision-de-trains-en-espagne-que-s-est-il-pass%C3%A9",
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 3421,
+    "id": 5222,
     "level": "critical",
     "country": "🌍",
-    "text": "🔴 Catastrophe ferroviaire en Espagne : le bilan provisoire s'alourdit à 64 morts",
+    "text": "Alvin Hellerstein, le juge américain en charge de l'affaire Maduro, est mort à 9",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261028-deux-trains-%C3%A0-grande-vitesse-entrent-en-collision-entre-madrid-et-l-andalousie",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261028-alvin-hellerstein-le-juge-americain-en-charge-affaire-maduro-est-mort-a-92-ans",
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 695,
+    "id": 598,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Choc violent, \"erreur humaine\" : ce que l'on sait du drame ferroviaire qui endeu",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda",
+    "time": "Wed, 28 Oct 2026"
+  },
+  {
+    "id": 2244,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Dolores Huerta, défenseuse des droits civiques et figure du syndicalisme aux Éta",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261028-dolores-huerta-d%C3%A9fenseuse-des-droits-civiques-et-figure-du-syndicalisme-aux-%C3%A9tats-unis-est-morte",
+    "time": "Wed, 28 Oct 2026"
+  },
+  {
+    "id": 2315,
+    "level": "high",
+    "country": "🌍",
+    "text": "UN votes to condemn embargo of Cuba despite US lobbying push",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
+    "time": "Wed, 28 Oct 2026"
+  },
+  {
+    "id": 9268,
+    "level": "high",
+    "country": "🌍",
+    "text": "Destructions des oliviers en Cisjordanie : quels impacts pour l'environnement",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261028-destructions-des-oliviers-en-cisjordanie-quels-impacts-pour-l-environnement",
+    "time": "Wed, 28 Oct 2026"
+  },
+  {
+    "id": 3024,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -81,7 +117,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7316,
+    "id": 7879,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +126,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 3606,
+    "id": 9465,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +135,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5540,
+    "id": 3481,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +144,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7108,
+    "id": 1871,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +153,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7326,
+    "id": 2444,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +162,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9727,
+    "id": 4157,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,48 +171,12 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1129,
+    "id": 2597,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 267,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 7702,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 1172,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Fish scarcity, tar balls, and stranded dolphins: The hidden costs of offshore pl",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/27/fish-scarcity-tar-balls-and-displaced-dolphins-the-hidden-costs-of-offshore-platforms-in-cameroon-waters/",
-    "time": "Tue, 27 Oct 2026"
-  },
-  {
-    "id": 2456,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Between two shores: The ‘Monhés,’ nationality, and a sense of belonging in Mozam",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/25/between-two-shores-the-monhes-nationality-and-a-sense-of-belonging-in-mozambique/",
-    "time": "Sun, 25 Oct 2026"
   }
 ]
