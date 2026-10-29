@@ -1,6 +1,6 @@
 [
   {
-    "id": 8703,
+    "id": 9827,
     "level": "critical",
     "country": "🌍",
     "text": "Bangladesh weighs tougher cyber law as AI-generated abuse targets women",
@@ -9,7 +9,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 3837,
+    "id": 2847,
     "level": "critical",
     "country": "🌍",
     "text": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritar",
@@ -18,7 +18,7 @@
     "time": "Tue, 27 Oct 2026"
   },
   {
-    "id": 9737,
+    "id": 7546,
     "level": "critical",
     "country": "🌍",
     "text": "Volunteers from Poland remember how Poles opened their homes to Ukrainian refuge",
@@ -27,7 +27,7 @@
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 5295,
+    "id": 2674,
     "level": "critical",
     "country": "🌍",
     "text": "Vote young yet govern much later: West African youth’s struggle for power",
@@ -36,25 +36,34 @@
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 1490,
+    "id": 6723,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+    "text": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss",
     "time": "Thu, 29 Oct 2026"
   },
   {
-    "id": 4527,
+    "id": 7145,
     "level": "critical",
     "country": "🌍",
-    "text": "UN experts sound alarm at excessive use of force in French student protests",
+    "text": "Russia says more than 600 drones launched towards Moscow overnight",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
-    "time": "Wed, 28 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss",
+    "time": "Thu, 29 Oct 2026"
   },
   {
-    "id": 6871,
+    "id": 5861,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Après la collision de deux trains, l'Espagne entame trois jours de deuil nationa",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261029-apr%C3%A8s-la-collision-de-deux-trains-l-espagne-entame-trois-jours-de-deuil-national",
+    "time": "Thu, 29 Oct 2026"
+  },
+  {
+    "id": 7680,
     "level": "critical",
     "country": "🌍",
     "text": "Collision de trains en Espagne : que s'est-il passé ?",
@@ -63,7 +72,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 2225,
+    "id": 3019,
     "level": "critical",
     "country": "🌍",
     "text": "Alvin Hellerstein, le juge américain en charge de l'affaire Maduro, est mort à 9",
@@ -72,16 +81,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 8068,
-    "level": "high",
-    "country": "🌍",
-    "text": "UN votes to condemn embargo of Cuba despite US lobbying push",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
-    "time": "Wed, 28 Oct 2026"
-  },
-  {
-    "id": 9949,
+    "id": 1391,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -90,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 8891,
+    "id": 2189,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7927,
+    "id": 391,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5225,
+    "id": 5740,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9373,
+    "id": 8486,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3649,
+    "id": 385,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6136,
+    "id": 9007,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4406,
+    "id": 7925,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 47,
+    "id": 4171,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2918,
+    "id": 2621,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -171,7 +171,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7002,
+    "id": 7595,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices’ Spotlight: Justice as infrastructure",
