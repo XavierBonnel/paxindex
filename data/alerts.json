@@ -1,6 +1,6 @@
 [
   {
-    "id": 171,
+    "id": 8703,
     "level": "critical",
     "country": "🌍",
     "text": "Bangladesh weighs tougher cyber law as AI-generated abuse targets women",
@@ -9,7 +9,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 5043,
+    "id": 3837,
     "level": "critical",
     "country": "🌍",
     "text": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritar",
@@ -18,7 +18,7 @@
     "time": "Tue, 27 Oct 2026"
   },
   {
-    "id": 2583,
+    "id": 9737,
     "level": "critical",
     "country": "🌍",
     "text": "Volunteers from Poland remember how Poles opened their homes to Ukrainian refuge",
@@ -27,7 +27,7 @@
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 3663,
+    "id": 5295,
     "level": "critical",
     "country": "🌍",
     "text": "Vote young yet govern much later: West African youth’s struggle for power",
@@ -36,25 +36,25 @@
     "time": "Mon, 26 Oct 2026"
   },
   {
-    "id": 1567,
+    "id": 1490,
     "level": "critical",
     "country": "🌍",
-    "text": "Spain demands answers after deadliest train disaster in over a decade",
+    "text": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+    "time": "Thu, 29 Oct 2026"
+  },
+  {
+    "id": 4527,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN experts sound alarm at excessive use of force in French student protests",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 6109,
-    "level": "critical",
-    "country": "🌍",
-    "text": "What are the implications of Israel’s elections?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-    "time": "Wed, 28 Oct 2026"
-  },
-  {
-    "id": 9620,
+    "id": 6871,
     "level": "critical",
     "country": "🌍",
     "text": "Collision de trains en Espagne : que s'est-il passé ?",
@@ -63,7 +63,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 5222,
+    "id": 2225,
     "level": "critical",
     "country": "🌍",
     "text": "Alvin Hellerstein, le juge américain en charge de l'affaire Maduro, est mort à 9",
@@ -72,25 +72,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 598,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Choc violent, \"erreur humaine\" : ce que l'on sait du drame ferroviaire qui endeu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261028-choc-violent-erreur-humaine-ce-que-l-on-sait-drame-ferroviaire-endeuille-encore-espagne-collision-trains-grande-vitesse-urda",
-    "time": "Wed, 28 Oct 2026"
-  },
-  {
-    "id": 2244,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dolores Huerta, défenseuse des droits civiques et figure du syndicalisme aux Éta",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20261028-dolores-huerta-d%C3%A9fenseuse-des-droits-civiques-et-figure-du-syndicalisme-aux-%C3%A9tats-unis-est-morte",
-    "time": "Wed, 28 Oct 2026"
-  },
-  {
-    "id": 2315,
+    "id": 8068,
     "level": "high",
     "country": "🌍",
     "text": "UN votes to condemn embargo of Cuba despite US lobbying push",
@@ -99,16 +81,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 9268,
-    "level": "high",
-    "country": "🌍",
-    "text": "Destructions des oliviers en Cisjordanie : quels impacts pour l'environnement",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261028-destructions-des-oliviers-en-cisjordanie-quels-impacts-pour-l-environnement",
-    "time": "Wed, 28 Oct 2026"
-  },
-  {
-    "id": 3024,
+    "id": 9949,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -117,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7879,
+    "id": 8891,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -126,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 9465,
+    "id": 7927,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -135,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3481,
+    "id": 5225,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -144,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1871,
+    "id": 9373,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -153,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2444,
+    "id": 3649,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -162,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4157,
+    "id": 6136,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -171,12 +144,39 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2597,
+    "id": 4406,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 47,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 2918,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 7002,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Support Global Voices’ Spotlight: Justice as infrastructure",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/28/support-global-voices-spotlight-justice-as-infrastructure/",
+    "time": "Wed, 28 Oct 2026"
   }
 ]
