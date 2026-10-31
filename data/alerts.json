@@ -1,6 +1,6 @@
 [
   {
-    "id": 7398,
+    "id": 227,
     "level": "critical",
     "country": "🌍",
     "text": "Bangladesh weighs tougher cyber law as AI-generated abuse targets women",
@@ -9,7 +9,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 9898,
+    "id": 7509,
     "level": "critical",
     "country": "🌍",
     "text": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritar",
@@ -18,43 +18,34 @@
     "time": "Tue, 27 Oct 2026"
   },
   {
-    "id": 8336,
+    "id": 9082,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+    "text": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 5872,
+    "id": 7541,
     "level": "critical",
     "country": "🌍",
-    "text": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+    "text": "Palestinians ‘Stealing their own olives’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 9101,
+    "id": 2860,
     "level": "critical",
     "country": "🌍",
-    "text": "On the Norway-Russia border, the Sámi people face a growing divide",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
+    "text": "Face aux spéculations de nouvelles frappes sur l'Iran, Mojtaba Khamenei menace d",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/moyen-orient/20261031-iran-%C3%A9tats-unis-isra%C3%ABl-guere-face-aux-sp%C3%A9culations-de-nouvelles-frappes-mojtaba-khamenei-menace-d-une-riposte-imm%C3%A9diate",
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 7170,
-    "level": "high",
-    "country": "🌍",
-    "text": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-    "time": "Sat, 31 Oct 2026"
-  },
-  {
-    "id": 9737,
+    "id": 6207,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +54,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 1954,
+    "id": 3566,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 9940,
+    "id": 1189,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8769,
+    "id": 2160,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4263,
+    "id": 5893,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2663,
+    "id": 8205,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1222,
+    "id": 8588,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5313,
+    "id": 7804,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5384,
+    "id": 2888,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 926,
+    "id": 5986,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8957,
+    "id": 8237,
     "level": "medium",
     "country": "🌍",
     "text": "In Kazakhstan, rural women are forming collectives to improve their livelihoods",
@@ -153,7 +144,7 @@
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 4069,
+    "id": 417,
     "level": "medium",
     "country": "🌍",
     "text": "When chatbots become ‘answer engines’: AI, geopolitics and truth",
@@ -162,7 +153,7 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 8545,
+    "id": 2946,
     "level": "medium",
     "country": "🌍",
     "text": "How the streets and a social media army led Lula to a historic win in Brazil",
@@ -171,12 +162,21 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 6308,
+    "id": 3899,
     "level": "medium",
     "country": "🌍",
     "text": "How one Haitian entrepreneur found success by supporting all things local",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/30/how-one-haitian-entrepreneur-found-success-by-supporting-all-things-local/",
     "time": "Fri, 30 Oct 2026"
+  },
+  {
+    "id": 4281,
+    "level": "medium",
+    "country": "🌍",
+    "text": "A digital publication sheds light on Turkey’s prison system",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/29/a-digital-publication-sheds-light-on-turkeys-prison-system/",
+    "time": "Thu, 29 Oct 2026"
   }
 ]
