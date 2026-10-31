@@ -1,6 +1,6 @@
 [
   {
-    "id": 310,
+    "id": 7009,
     "level": "critical",
     "country": "🌍",
     "text": "Bangladesh weighs tougher cyber law as AI-generated abuse targets women",
@@ -9,7 +9,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 5503,
+    "id": 7663,
     "level": "critical",
     "country": "🌍",
     "text": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritar",
@@ -18,34 +18,25 @@
     "time": "Tue, 27 Oct 2026"
   },
   {
-    "id": 92,
+    "id": 1680,
     "level": "critical",
     "country": "🌍",
-    "text": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+    "text": "US jails two Chinese nationals for spying",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
-    "time": "Fri, 30 Oct 2026"
+    "link": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
+    "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 9188,
+    "id": 2573,
     "level": "critical",
     "country": "🌍",
-    "text": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+    "text": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
-    "time": "Fri, 30 Oct 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+    "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 3739,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Port Sudan families can barely afford water as shortages persist",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
-    "time": "Fri, 30 Oct 2026"
-  },
-  {
-    "id": 9518,
+    "id": 6026,
     "level": "critical",
     "country": "🌍",
     "text": "MAGA : pourquoi le camp de Trump se fracture - Décryptage disponible sur YouTube",
@@ -54,34 +45,25 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 9320,
-    "level": "critical",
-    "country": "🌍",
-    "text": "MAGA : pourquoi le camp de Trump se fracture",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261030-maga-pourquoi-le-camp-de-trump-se-fracture",
-    "time": "Fri, 30 Oct 2026"
-  },
-  {
-    "id": 3352,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Dans les Yvelines, des rassemblements distincts en hommage aux victimes de l'att",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261030-attentat-raciste-yvelines-centaines-personnes-rassemblement-la-verri%C3%A8re-hommage-victimes-edouard-philippe",
-    "time": "Fri, 30 Oct 2026"
-  },
-  {
-    "id": 7073,
+    "id": 7696,
     "level": "high",
     "country": "🌍",
-    "text": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+    "text": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
-    "time": "Fri, 30 Oct 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+    "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 1054,
+    "id": 3364,
+    "level": "high",
+    "country": "🌍",
+    "text": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+    "time": "Sat, 31 Oct 2026"
+  },
+  {
+    "id": 1627,
     "level": "high",
     "country": "🌍",
     "text": "Croissance, dette, crise sociale : la France sous pression",
@@ -90,7 +72,7 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 8049,
+    "id": 8776,
     "level": "high",
     "country": "🌍",
     "text": "Manifestations, milices d'ultradroite, Halloween… un week-end sous haute tension",
@@ -99,7 +81,7 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 9459,
+    "id": 1643,
     "level": "high",
     "country": "🌍",
     "text": "Koen Lenaerts : \"les sanctions de Trump contre la CPI sont un souci énorme\"",
@@ -108,7 +90,7 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 9411,
+    "id": 9404,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -117,7 +99,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 8139,
+    "id": 2058,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -126,7 +108,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 3186,
+    "id": 4887,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -135,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2935,
+    "id": 8619,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -144,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6040,
+    "id": 7266,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -153,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9065,
+    "id": 8007,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -162,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8965,
+    "id": 5172,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -171,12 +153,30 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1632,
+    "id": 143,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 2737,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 5196,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-21T00:01"
   }
 ]
