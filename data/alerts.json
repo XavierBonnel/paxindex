@@ -1,6 +1,6 @@
 [
   {
-    "id": 7009,
+    "id": 6737,
     "level": "critical",
     "country": "🌍",
     "text": "Bangladesh weighs tougher cyber law as AI-generated abuse targets women",
@@ -9,7 +9,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 7663,
+    "id": 3213,
     "level": "critical",
     "country": "🌍",
     "text": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritar",
@@ -18,79 +18,70 @@
     "time": "Tue, 27 Oct 2026"
   },
   {
-    "id": 1680,
+    "id": 3777,
     "level": "critical",
     "country": "🌍",
-    "text": "US jails two Chinese nationals for spying",
+    "text": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 2573,
+    "id": 7528,
     "level": "critical",
     "country": "🌍",
-    "text": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
+    "text": "Can Democrats win the US Senate? 10 key midterm races to watch",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss",
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 6026,
+    "id": 3454,
     "level": "critical",
     "country": "🌍",
-    "text": "MAGA : pourquoi le camp de Trump se fracture - Décryptage disponible sur YouTube",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261030-maga-pourquoi-le-camp-de-trump-se-fracture-d%C3%A9cryptage-disponible-sur-youtube",
-    "time": "Fri, 30 Oct 2026"
-  },
-  {
-    "id": 7696,
-    "level": "high",
-    "country": "🌍",
-    "text": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
+    "text": "‘Paycheck to paycheck’: Texas border voters shed parties amid economic woes",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes?traffic_source=rss",
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 3364,
-    "level": "high",
+    "id": 4163,
+    "level": "critical",
     "country": "🌍",
-    "text": "Fake polls expose vulnerabilities in US elections ahead of midterms",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+    "text": "Attentat raciste à Trappes : \"La France, c'est nous\" dit Ali Rabeh",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261031-attentat-raciste-%C3%A0-trappes-la-france-c-est-nous-dit-ali-rabeh",
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 1627,
-    "level": "high",
+    "id": 5850,
+    "level": "critical",
     "country": "🌍",
-    "text": "Croissance, dette, crise sociale : la France sous pression",
+    "text": "Espagne : la difficile identification des victimes de la collision ferroviaire",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261030-croissance-dette-crise-sociale-la-france-sous-pression",
-    "time": "Fri, 30 Oct 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261031-espagne-la-difficile-identification-des-victimes-de-la-collision-ferroviaire",
+    "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 8776,
+    "id": 1893,
     "level": "high",
     "country": "🌍",
-    "text": "Manifestations, milices d'ultradroite, Halloween… un week-end sous haute tension",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261030-manifestations-milices-ultradroite-halloween-week-end-sous-haute-tension-france",
-    "time": "Fri, 30 Oct 2026"
+    "text": "UN closes Somalia mission, ending three decades of political engagement",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss",
+    "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 1643,
+    "id": 5854,
     "level": "high",
     "country": "🌍",
-    "text": "Koen Lenaerts : \"les sanctions de Trump contre la CPI sont un souci énorme\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261030-koen-lenaerts-les-sanctions-de-trump-contre-la-cpi-sont-un-souci-%C3%A9norme",
-    "time": "Fri, 30 Oct 2026"
+    "text": "Thousands protest across Italy over living costs and military spending",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending?traffic_source=rss",
+    "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 9404,
+    "id": 8728,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -99,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 2058,
+    "id": 2223,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -108,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 4887,
+    "id": 9213,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -117,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8619,
+    "id": 9084,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7266,
+    "id": 4315,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8007,
+    "id": 2604,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5172,
+    "id": 5058,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 143,
+    "id": 6800,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2737,
+    "id": 282,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +162,21 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5196,
+    "id": 6328,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 628,
+    "level": "medium",
+    "country": "🌍",
+    "text": "When chatbots become ‘answer engines’: AI, geopolitics and truth",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/10/30/when-chatbots-become-answer-engines-ai-geopolitics-and-truth/",
+    "time": "Fri, 30 Oct 2026"
   }
 ]
