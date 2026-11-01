@@ -1,6 +1,6 @@
 [
   {
-    "id": 4205,
+    "id": 6434,
     "level": "critical",
     "country": "🌍",
     "text": "Bangladesh weighs tougher cyber law as AI-generated abuse targets women",
@@ -9,7 +9,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 5021,
+    "id": 7432,
     "level": "critical",
     "country": "🌍",
     "text": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritar",
@@ -18,16 +18,43 @@
     "time": "Tue, 27 Oct 2026"
   },
   {
-    "id": 333,
+    "id": 8147,
     "level": "critical",
     "country": "🌍",
-    "text": "A Gulf non-aggression pact could be the path forward",
+    "text": "Israeli attacks on Gaza kill at least nine people",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/11/1/a-gulf-non-aggression-pact-could-be-the-path-forward?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
     "time": "Sun, 01 Nov 2026"
   },
   {
-    "id": 5510,
+    "id": 7624,
+    "level": "critical",
+    "country": "🌍",
+    "text": "At least eight Palestinians killed in Israeli attacks across Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+    "time": "Sun, 01 Nov 2026"
+  },
+  {
+    "id": 997,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Présidentielle en Bulgarie : un duel serré, catalyseur de divisions sur les rela",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261101-pr%C3%A9sidentielle-en-bulgarie-un-duel-serr%C3%A9-sur-fond-de-tensions-en-mer-noire",
+    "time": "Sun, 01 Nov 2026"
+  },
+  {
+    "id": 6154,
+    "level": "critical",
+    "country": "🌍",
+    "text": "États-Unis : vers de nouvelles frappes en Iran ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-%C3%A9tats-unis-vers-de-nouvelles-frappes-en-iran",
+    "time": "Sun, 01 Nov 2026"
+  },
+  {
+    "id": 8654,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -36,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 3748,
+    "id": 8285,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -45,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7745,
+    "id": 485,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -54,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8807,
+    "id": 9181,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -63,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4543,
+    "id": 4470,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -72,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6912,
+    "id": 2787,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -81,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7664,
+    "id": 1626,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -90,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2356,
+    "id": 5153,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -99,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9747,
+    "id": 1174,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -108,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2358,
+    "id": 9409,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -117,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 1730,
+    "id": 3082,
     "level": "medium",
     "country": "🌍",
     "text": "In Kazakhstan, rural women are forming collectives to improve their livelihoods",
@@ -126,7 +153,7 @@
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 7426,
+    "id": 2442,
     "level": "medium",
     "country": "🌍",
     "text": "When chatbots become ‘answer engines’: AI, geopolitics and truth",
@@ -135,7 +162,7 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 4419,
+    "id": 9267,
     "level": "medium",
     "country": "🌍",
     "text": "How the streets and a social media army led Lula to a historic win in Brazil",
@@ -144,39 +171,12 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 8374,
+    "id": 9626,
     "level": "medium",
     "country": "🌍",
     "text": "How one Haitian entrepreneur found success by supporting all things local",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/30/how-one-haitian-entrepreneur-found-success-by-supporting-all-things-local/",
     "time": "Fri, 30 Oct 2026"
-  },
-  {
-    "id": 9713,
-    "level": "medium",
-    "country": "🌍",
-    "text": "A digital publication sheds light on Turkey’s prison system",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/29/a-digital-publication-sheds-light-on-turkeys-prison-system/",
-    "time": "Thu, 29 Oct 2026"
-  },
-  {
-    "id": 7628,
-    "level": "medium",
-    "country": "🌍",
-    "text": "A Myanmar journalist’s reflection: ‘When other people’s pain becomes part of you",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/29/a-myanmar-journalists-reflection-when-other-peoples-pain-becomes-part-of-you/",
-    "time": "Thu, 29 Oct 2026"
-  },
-  {
-    "id": 1285,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Albania, rural youth are campaigning to solve local environmental problems",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/29/in-albania-rural-youth-are-campaigning-to-solve-local-environmental-problems/",
-    "time": "Thu, 29 Oct 2026"
   }
 ]
