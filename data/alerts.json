@@ -1,6 +1,6 @@
 [
   {
-    "id": 7692,
+    "id": 742,
     "level": "critical",
     "country": "🌍",
     "text": "Bangladesh weighs tougher cyber law as AI-generated abuse targets women",
@@ -9,7 +9,7 @@
     "time": "Wed, 28 Oct 2026"
   },
   {
-    "id": 2976,
+    "id": 5830,
     "level": "critical",
     "country": "🌍",
     "text": "Warning Signals: Venezuela and the Risk of AI-Powered Chinese Digital Authoritar",
@@ -18,16 +18,25 @@
     "time": "Tue, 27 Oct 2026"
   },
   {
-    "id": 6674,
+    "id": 1777,
     "level": "critical",
     "country": "🌍",
-    "text": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+    "text": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
-    "time": "Sun, 01 Nov 2026"
+    "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
+    "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 5414,
+    "id": 4302,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+    "time": "Mon, 02 Nov 2026"
+  },
+  {
+    "id": 4674,
     "level": "critical",
     "country": "🌍",
     "text": "Jean-Pierre Filiu : \"Gaza est un laboratoire pour l'ensemble du système internat",
@@ -36,7 +45,7 @@
     "time": "Sun, 01 Nov 2026"
   },
   {
-    "id": 4685,
+    "id": 2284,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : à la fin de la trêve à Olechky, la population se prépare à une reprise",
@@ -45,16 +54,7 @@
     "time": "Sun, 01 Nov 2026"
   },
   {
-    "id": 934,
-    "level": "high",
-    "country": "🌍",
-    "text": "Thousands displaced from Hebron as Israel carries on siege",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-    "time": "Sun, 01 Nov 2026"
-  },
-  {
-    "id": 1930,
+    "id": 7272,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 2549,
+    "id": 2011,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 6861,
+    "id": 7170,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7937,
+    "id": 5169,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9745,
+    "id": 9992,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1067,
+    "id": 8030,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3982,
+    "id": 3955,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 7186,
+    "id": 4007,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7872,
+    "id": 1490,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2569,
+    "id": 5361,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5907,
+    "id": 221,
     "level": "medium",
     "country": "🌍",
     "text": "In Kazakhstan, rural women are forming collectives to improve their livelihoods",
@@ -153,7 +153,7 @@
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 5945,
+    "id": 8914,
     "level": "medium",
     "country": "🌍",
     "text": "When chatbots become ‘answer engines’: AI, geopolitics and truth",
@@ -162,7 +162,7 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 8251,
+    "id": 5015,
     "level": "medium",
     "country": "🌍",
     "text": "How the streets and a social media army led Lula to a historic win in Brazil",
@@ -171,7 +171,7 @@
     "time": "Fri, 30 Oct 2026"
   },
   {
-    "id": 1173,
+    "id": 5660,
     "level": "medium",
     "country": "🌍",
     "text": "How one Haitian entrepreneur found success by supporting all things local",
