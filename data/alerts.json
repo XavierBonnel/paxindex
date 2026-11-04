@@ -1,6 +1,15 @@
 [
   {
-    "id": 1437,
+    "id": 4984,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tracing the recruitment trap behind Russia’s war",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/04/tracing-the-recruitment-trap-behind-russias-war/",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 8014,
     "level": "critical",
     "country": "🌍",
     "text": "In Kosovo, a new app makes reporting problems to the government fast and easy",
@@ -9,43 +18,43 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 5930,
+    "id": 7054,
     "level": "critical",
     "country": "🌍",
-    "text": "FBI arrests man for sending over 700 threatening letters to US officials",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 8486,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Bomb threats disrupt flights across Europe, no explosive devices found",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 1133,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 2129,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Une série de fausses alertes à la bombe perturbe une dizaine de vols en Europe",
+    "text": "Midterms : les Ukrainiens prudents sur la victoire des démocrates",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261103-s%C3%A9rie-fausses-alertes-bombe-perturbe-dizaine-vols-europe-royaume-uni-heathrow-italie-espagne-bulgarie-hongrie",
-    "time": "Tue, 03 Nov 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-les-ukrainiens-prudents-sur-la-victoire-des-d%C3%A9mocrates",
+    "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 4279,
+    "id": 6295,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Midterms : les soupçons envers Donald Trump de conflits d'intérêt pèsent dans le",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-les-soup%C3%A7ons-envers-donald-trump-de-conflits-d-int%C3%A9r%C3%AAt-p%C3%A8sent-dans-le-scrutin",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 4808,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Attentat raciste de Trappes : le suspect a tenté de se suicider en prison",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20261104-meurtrier-attentat-raciste-trappes-tentative-de-suicide-prison",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 6841,
+    "level": "high",
+    "country": "🌍",
+    "text": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 2774,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -54,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 5989,
+    "id": 3632,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 462,
+    "id": 3985,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1318,
+    "id": 6140,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4574,
+    "id": 8338,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4828,
+    "id": 4638,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5010,
+    "id": 7202,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1509,
+    "id": 9071,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4991,
+    "id": 2457,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6946,
+    "id": 3509,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +144,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 723,
+    "id": 7493,
     "level": "medium",
     "country": "🌍",
     "text": "Egypt’s crackdown on independent media reaches Mada Masr as editor faces trial",
@@ -144,7 +153,7 @@
     "time": "Tue, 03 Nov 2026"
   },
   {
-    "id": 5502,
+    "id": 5427,
     "level": "medium",
     "country": "🌍",
     "text": "Unpacking Hong Kong’s rule of law score according to the World Justice Project’s",
@@ -153,7 +162,7 @@
     "time": "Tue, 03 Nov 2026"
   },
   {
-    "id": 5784,
+    "id": 8286,
     "level": "medium",
     "country": "🌍",
     "text": "The Brazilian left’s quest to ‘tame’ Meta: A narrative of denouncement and resis",
@@ -162,21 +171,12 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 8639,
+    "id": 5491,
     "level": "medium",
     "country": "🌍",
     "text": "In Kazakhstan, rural women are forming collectives to improve their livelihoods",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/31/in-kazakhstan-rural-women-are-forming-collectives-to-improve-their-livelihoods/",
     "time": "Sat, 31 Oct 2026"
-  },
-  {
-    "id": 5058,
-    "level": "medium",
-    "country": "🌍",
-    "text": "When chatbots become ‘answer engines’: AI, geopolitics and truth",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/30/when-chatbots-become-answer-engines-ai-geopolitics-and-truth/",
-    "time": "Fri, 30 Oct 2026"
   }
 ]
