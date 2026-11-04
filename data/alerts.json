@@ -1,6 +1,6 @@
 [
   {
-    "id": 5706,
+    "id": 1437,
     "level": "critical",
     "country": "🌍",
     "text": "In Kosovo, a new app makes reporting problems to the government fast and easy",
@@ -9,16 +9,34 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 2745,
+    "id": 5930,
     "level": "critical",
     "country": "🌍",
-    "text": "Russian strikes on Dnipro kill two, injure 20 others",
+    "text": "FBI arrests man for sending over 700 threatening letters to US officials",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
-    "time": "Tue, 03 Nov 2026"
+    "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
+    "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 9131,
+    "id": 8486,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bomb threats disrupt flights across Europe, no explosive devices found",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 1133,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 2129,
     "level": "critical",
     "country": "🌍",
     "text": "Une série de fausses alertes à la bombe perturbe une dizaine de vols en Europe",
@@ -27,16 +45,7 @@
     "time": "Tue, 03 Nov 2026"
   },
   {
-    "id": 9977,
-    "level": "high",
-    "country": "🌍",
-    "text": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-    "time": "Tue, 03 Nov 2026"
-  },
-  {
-    "id": 376,
+    "id": 4279,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -45,7 +54,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7460,
+    "id": 5989,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -54,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 253,
+    "id": 462,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -63,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8773,
+    "id": 1318,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -72,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 586,
+    "id": 4574,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -81,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 5404,
+    "id": 4828,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -90,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8655,
+    "id": 5010,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -99,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5624,
+    "id": 1509,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -108,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1510,
+    "id": 4991,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -117,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3578,
+    "id": 6946,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -126,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 7124,
+    "id": 723,
     "level": "medium",
     "country": "🌍",
     "text": "Egypt’s crackdown on independent media reaches Mada Masr as editor faces trial",
@@ -135,7 +144,7 @@
     "time": "Tue, 03 Nov 2026"
   },
   {
-    "id": 5866,
+    "id": 5502,
     "level": "medium",
     "country": "🌍",
     "text": "Unpacking Hong Kong’s rule of law score according to the World Justice Project’s",
@@ -144,7 +153,7 @@
     "time": "Tue, 03 Nov 2026"
   },
   {
-    "id": 50,
+    "id": 5784,
     "level": "medium",
     "country": "🌍",
     "text": "The Brazilian left’s quest to ‘tame’ Meta: A narrative of denouncement and resis",
@@ -153,7 +162,7 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 1227,
+    "id": 8639,
     "level": "medium",
     "country": "🌍",
     "text": "In Kazakhstan, rural women are forming collectives to improve their livelihoods",
@@ -162,21 +171,12 @@
     "time": "Sat, 31 Oct 2026"
   },
   {
-    "id": 66,
+    "id": 5058,
     "level": "medium",
     "country": "🌍",
     "text": "When chatbots become ‘answer engines’: AI, geopolitics and truth",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/10/30/when-chatbots-become-answer-engines-ai-geopolitics-and-truth/",
-    "time": "Fri, 30 Oct 2026"
-  },
-  {
-    "id": 536,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How the streets and a social media army led Lula to a historic win in Brazil",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/10/30/how-the-streets-and-a-social-media-army-led-lula-to-a-historic-win-in-brazil/",
     "time": "Fri, 30 Oct 2026"
   }
 ]
