@@ -1,6 +1,6 @@
 [
   {
-    "id": 5497,
+    "id": 8639,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -9,7 +9,7 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 4727,
+    "id": 9020,
     "level": "critical",
     "country": "🌍",
     "text": "In Kosovo, a new app makes reporting problems to the government fast and easy",
@@ -18,70 +18,79 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 5508,
+    "id": 2113,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukrainian strikes kill three in Russia’s Belgorod region",
+    "text": "US midterm election results live: Trump blames Iran war after losses",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 7502,
+    "id": 612,
     "level": "critical",
     "country": "🌍",
-    "text": "No regrets: Trump says Iran war justified despite polls drubbing",
+    "text": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 7458,
+    "id": 7914,
     "level": "critical",
     "country": "🌍",
-    "text": "Iranian leaders welcome US midterms, but Trump may still attack",
+    "text": "Will the US resume its attacks on Iran?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 4742,
+    "id": 8447,
     "level": "critical",
     "country": "🌍",
-    "text": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+    "text": "Iranians celebrate Democrat victory in US midterms",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 3386,
+    "id": 2080,
     "level": "critical",
     "country": "🌍",
-    "text": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 2752,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Éthiopie : Des milliers de déplacés privés d’aides humanitaires",
+    "text": "Après la déroute des midterms, les règlements de compte commencent chez les répu",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-%C3%A9thiopie-des-milliers-de-d%C3%A9plac%C3%A9s-priv%C3%A9s-d-aides-humanitaires",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261104-etats-unis-apres-deroute-midterms-reglements-compte-republicains-donald-trump-jd-vance-ron-desantis",
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 2686,
-    "level": "high",
+    "id": 7953,
+    "level": "critical",
     "country": "🌍",
-    "text": "Afrique du Sud : les townships au cœur des élections municipales",
+    "text": "VAGUE BLEUE : LE CAMP MAGA À L’ÉPREUVE ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-afrique-du-sud-les-townships-au-c%C5%93ur-des-%C3%A9lections-municipales",
+    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261104-vague-bleue-le-camp-maga-%C3%A0-l-%C3%A9preuve",
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 5159,
+    "id": 3688,
+    "level": "critical",
+    "country": "🌍",
+    "text": "🔴 Midterms en direct : la guerre en Iran \"valait la peine\" malgré la défaite éle",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 3249,
+    "level": "critical",
+    "country": "🌍",
+    "text": "L'actu en dessin : le président Trump submergé par une vague démocrate lors des ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261104-actu-en-dessin-pr%C3%A9sident-trump-submerg%C3%A9-vague-d%C3%A9mocrate-midterms",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 9409,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -90,7 +99,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 6919,
+    "id": 6801,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +108,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 573,
+    "id": 6795,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6747,
+    "id": 5045,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5130,
+    "id": 6764,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8620,
+    "id": 212,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5472,
+    "id": 7118,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3443,
+    "id": 1044,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5213,
+    "id": 4303,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,21 +171,12 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3144,
+    "id": 6724,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 7455,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Egypt’s crackdown on independent media reaches Mada Masr as editor faces trial",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/03/egypts-crackdown-on-independent-media-reaches-mada-masr-as-editor-faces-trial/",
-    "time": "Tue, 03 Nov 2026"
   }
 ]
