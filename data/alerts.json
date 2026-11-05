@@ -1,6 +1,6 @@
 [
   {
-    "id": 8639,
+    "id": 2730,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -9,7 +9,7 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 9020,
+    "id": 6673,
     "level": "critical",
     "country": "🌍",
     "text": "In Kosovo, a new app makes reporting problems to the government fast and easy",
@@ -18,43 +18,16 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 2113,
+    "id": 4251,
     "level": "critical",
     "country": "🌍",
-    "text": "US midterm election results live: Trump blames Iran war after losses",
+    "text": "Iran war live: Khamenei says US hostility will persist after midterms",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-    "time": "Wed, 04 Nov 2026"
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+    "time": "Thu, 05 Nov 2026"
   },
   {
-    "id": 612,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 7914,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Will the US resume its attacks on Iran?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 8447,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iranians celebrate Democrat victory in US midterms",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 2080,
+    "id": 9701,
     "level": "critical",
     "country": "🌍",
     "text": "Après la déroute des midterms, les règlements de compte commencent chez les répu",
@@ -63,7 +36,7 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 7953,
+    "id": 1813,
     "level": "critical",
     "country": "🌍",
     "text": "VAGUE BLEUE : LE CAMP MAGA À L’ÉPREUVE ?",
@@ -72,7 +45,7 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 3688,
+    "id": 2117,
     "level": "critical",
     "country": "🌍",
     "text": "🔴 Midterms en direct : la guerre en Iran \"valait la peine\" malgré la défaite éle",
@@ -81,16 +54,25 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 3249,
-    "level": "critical",
+    "id": 1748,
+    "level": "high",
     "country": "🌍",
-    "text": "L'actu en dessin : le président Trump submergé par une vague démocrate lors des ",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20261104-actu-en-dessin-pr%C3%A9sident-trump-submerg%C3%A9-vague-d%C3%A9mocrate-midterms",
-    "time": "Wed, 04 Nov 2026"
+    "text": "Former Israeli generals help Palestinian olive farmers",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+    "time": "Thu, 05 Nov 2026"
   },
   {
-    "id": 9409,
+    "id": 6973,
+    "level": "high",
+    "country": "🌍",
+    "text": "El Salvador’s Bukele touts military intervention in Haiti",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+    "time": "Thu, 05 Nov 2026"
+  },
+  {
+    "id": 698,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -99,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 6801,
+    "id": 1272,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -108,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 6795,
+    "id": 7009,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -117,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 5045,
+    "id": 4940,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6764,
+    "id": 9593,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 212,
+    "id": 7742,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7118,
+    "id": 2947,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1044,
+    "id": 9515,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4303,
+    "id": 4435,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +153,30 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6724,
+    "id": 5123,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-21T00:01"
+  },
+  {
+    "id": 9435,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The scandals and suspects surrounding Flávio Bolsonaro, according to the Brazili",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/04/the-scandals-and-suspects-surrounding-flavio-bolsonaro-according-to-the-brazilian-press/",
+    "time": "Wed, 04 Nov 2026"
+  },
+  {
+    "id": 3901,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Egypt’s crackdown on independent media reaches Mada Masr as editor faces trial",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/03/egypts-crackdown-on-independent-media-reaches-mada-masr-as-editor-faces-trial/",
+    "time": "Tue, 03 Nov 2026"
   }
 ]
