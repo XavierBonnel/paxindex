@@ -1,6 +1,6 @@
 [
   {
-    "id": 2730,
+    "id": 620,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -9,7 +9,7 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 6673,
+    "id": 1423,
     "level": "critical",
     "country": "🌍",
     "text": "In Kosovo, a new app makes reporting problems to the government fast and easy",
@@ -18,61 +18,61 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 4251,
+    "id": 9361,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Khamenei says US hostility will persist after midterms",
+    "text": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
     "time": "Thu, 05 Nov 2026"
   },
   {
-    "id": 9701,
+    "id": 6670,
     "level": "critical",
     "country": "🌍",
-    "text": "Après la déroute des midterms, les règlements de compte commencent chez les répu",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20261104-etats-unis-apres-deroute-midterms-reglements-compte-republicains-donald-trump-jd-vance-ron-desantis",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 1813,
-    "level": "critical",
-    "country": "🌍",
-    "text": "VAGUE BLEUE : LE CAMP MAGA À L’ÉPREUVE ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261104-vague-bleue-le-camp-maga-%C3%A0-l-%C3%A9preuve",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 2117,
-    "level": "critical",
-    "country": "🌍",
-    "text": "🔴 Midterms en direct : la guerre en Iran \"valait la peine\" malgré la défaite éle",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
-    "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 1748,
-    "level": "high",
-    "country": "🌍",
-    "text": "Former Israeli generals help Palestinian olive farmers",
+    "text": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
     "time": "Thu, 05 Nov 2026"
   },
   {
-    "id": 6973,
-    "level": "high",
+    "id": 1005,
+    "level": "critical",
     "country": "🌍",
-    "text": "El Salvador’s Bukele touts military intervention in Haiti",
+    "text": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
     "time": "Thu, 05 Nov 2026"
   },
   {
-    "id": 698,
+    "id": 6033,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Alerte à la bombe sur un vol Dublin - Rome : l'A320 dérouté a atterri à Évreux",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261105-alerte-%C3%A0-la-bombe-sur-un-vol-dublin-rome-l-a320-d%C3%A9rout%C3%A9-a-atterri-%C3%A0-%C3%A9vreux",
+    "time": "Thu, 05 Nov 2026"
+  },
+  {
+    "id": 1828,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Midterms : la guerre en Iran est \"la raison de la défaite\" selon JD Vance",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261105-midterms-la-guerre-en-iran-est-la-raison-de-la-d%C3%A9faite-selon-jd-vance",
+    "time": "Thu, 05 Nov 2026"
+  },
+  {
+    "id": 795,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Des vidéos au milieu des cadavres : la communication du nouveau président colomb",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261105-videos-milieu-cadavres-communication-nouveau-president-colombien-fait-reagir-abelardo-de-la-espriella-farc",
+    "time": "Thu, 05 Nov 2026"
+  },
+  {
+    "id": 6045,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -81,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 1272,
+    "id": 1868,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7009,
+    "id": 4055,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4940,
+    "id": 6849,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9593,
+    "id": 8118,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7742,
+    "id": 5230,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2947,
+    "id": 9917,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9515,
+    "id": 8617,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4435,
+    "id": 7014,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5123,
+    "id": 5218,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,21 +162,21 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9435,
+    "id": 363,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Unmarried Chinese women are rewriting the marriage script",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/05/unmarried-chinese-women-are-rewriting-the-marriage-script/",
+    "time": "Thu, 05 Nov 2026"
+  },
+  {
+    "id": 2025,
     "level": "medium",
     "country": "🌍",
     "text": "The scandals and suspects surrounding Flávio Bolsonaro, according to the Brazili",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/04/the-scandals-and-suspects-surrounding-flavio-bolsonaro-according-to-the-brazilian-press/",
     "time": "Wed, 04 Nov 2026"
-  },
-  {
-    "id": 3901,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Egypt’s crackdown on independent media reaches Mada Masr as editor faces trial",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/03/egypts-crackdown-on-independent-media-reaches-mada-masr-as-editor-faces-trial/",
-    "time": "Tue, 03 Nov 2026"
   }
 ]
