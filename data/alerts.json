@@ -1,6 +1,6 @@
 [
   {
-    "id": 1261,
+    "id": 3014,
     "level": "critical",
     "country": "🌍",
     "text": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
@@ -9,7 +9,7 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 950,
+    "id": 5389,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -18,7 +18,7 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 9330,
+    "id": 5042,
     "level": "critical",
     "country": "🌍",
     "text": "In Kosovo, a new app makes reporting problems to the government fast and easy",
@@ -27,34 +27,43 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 1936,
+    "id": 4100,
     "level": "critical",
     "country": "🌍",
-    "text": "Midterms : \"Le camp Maga n'a eu que ce qu'il mérite\"",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261106-midterms-le-camp-maga-n-a-eu-que-ce-qu-il-m%C3%A9rite",
+    "text": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 2851,
+    "id": 2805,
     "level": "critical",
     "country": "🌍",
-    "text": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des ",
+    "text": "Vols menacés : les fausses alertes à la bombe, une arme redoutable pour la guerr",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9co-tech/20261106-accord-sur-le-gazole-mort-n%C3%A9-pourquoi-les-p%C3%A9troliers-russes-se-d%C3%A9tournent-des-%C3%A9tats-unis",
+    "link": "https://www.france24.com/fr/europe/20261106-vols-menac%C3%A9s-fausses-alertes-bombe-arme-redoutable-guerre-hybride",
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 6213,
+    "id": 1507,
+    "level": "critical",
+    "country": "🌍",
+    "text": "11-Novembre à l'école : l'obligation de commémorer divise les enseignants",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20261106-11-novembre-ecole-obligation-commemorer-divise-enseignants-polemique-militarisation",
+    "time": "Fri, 06 Nov 2026"
+  },
+  {
+    "id": 3151,
     "level": "high",
     "country": "🌍",
-    "text": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+    "text": "European troops prepare for possible post-ceasefire deployment to Ukraine",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 2551,
+    "id": 8480,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +72,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7624,
+    "id": 9636,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 5097,
+    "id": 5667,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8558,
+    "id": 1308,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7855,
+    "id": 19,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 453,
+    "id": 1913,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8652,
+    "id": 4313,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4758,
+    "id": 2165,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9542,
+    "id": 5583,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 837,
+    "id": 9160,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 5589,
+    "id": 5020,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela welcomes opposition leader María Corina Machado home",
@@ -153,7 +162,7 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 8787,
+    "id": 1402,
     "level": "medium",
     "country": "🌍",
     "text": "What comes after networked authoritarianism?",
@@ -162,21 +171,12 @@
     "time": "Thu, 05 Nov 2026"
   },
   {
-    "id": 3982,
+    "id": 1381,
     "level": "medium",
     "country": "🌍",
     "text": "Unmarried Chinese women are rewriting the marriage script",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/05/unmarried-chinese-women-are-rewriting-the-marriage-script/",
     "time": "Thu, 05 Nov 2026"
-  },
-  {
-    "id": 8907,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The scandals and suspects surrounding Flávio Bolsonaro, according to the Brazili",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/04/the-scandals-and-suspects-surrounding-flavio-bolsonaro-according-to-the-brazilian-press/",
-    "time": "Wed, 04 Nov 2026"
   }
 ]
