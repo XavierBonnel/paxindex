@@ -1,6 +1,15 @@
 [
   {
-    "id": 6662,
+    "id": 1261,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/06/global-voices-condemns-the-attacks-on-albanian-fact-checking-service-faktoje/",
+    "time": "Fri, 06 Nov 2026"
+  },
+  {
+    "id": 950,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -9,7 +18,7 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 576,
+    "id": 9330,
     "level": "critical",
     "country": "🌍",
     "text": "In Kosovo, a new app makes reporting problems to the government fast and easy",
@@ -18,61 +27,34 @@
     "time": "Mon, 02 Nov 2026"
   },
   {
-    "id": 2641,
+    "id": 1936,
     "level": "critical",
     "country": "🌍",
-    "text": "Turkiye’s parliament ratifies Mecca defence agreement",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+    "text": "Midterms : \"Le camp Maga n'a eu que ce qu'il mérite\"",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261106-midterms-le-camp-maga-n-a-eu-que-ce-qu-il-m%C3%A9rite",
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 8876,
+    "id": 2851,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+    "text": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20261106-accord-sur-le-gazole-mort-n%C3%A9-pourquoi-les-p%C3%A9troliers-russes-se-d%C3%A9tournent-des-%C3%A9tats-unis",
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 7156,
-    "level": "critical",
+    "id": 6213,
+    "level": "high",
     "country": "🌍",
-    "text": "Spanish footballer Jesus de Miguel mourned by family and friends",
+    "text": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
-    "time": "Thu, 05 Nov 2026"
+    "link": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+    "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 6273,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Hoax bomb threats force emergency landings, evacuations across Europe",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
-    "time": "Thu, 05 Nov 2026"
-  },
-  {
-    "id": 4728,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Chaos dans l'espace aérien européen",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261105-chaos-dans-l-espace-a%C3%A9rien-europ%C3%A9en",
-    "time": "Thu, 05 Nov 2026"
-  },
-  {
-    "id": 4932,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Un Airbus A320 Dublin-Rome dérouté vers Évreux à cause d’une alerte à la bombe",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261105-un-airbus-a320-dublin-rome-d%C3%A9rout%C3%A9-vers-%C3%A9vreux-%C3%A0-cause-d-une-alerte-%C3%A0-la-bombe",
-    "time": "Thu, 05 Nov 2026"
-  },
-  {
-    "id": 577,
+    "id": 2551,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -81,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 640,
+    "id": 7624,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 9283,
+    "id": 5097,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9947,
+    "id": 8558,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3661,
+    "id": 7855,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6890,
+    "id": 453,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7360,
+    "id": 8652,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1836,
+    "id": 4758,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4010,
+    "id": 9542,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1530,
+    "id": 837,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +144,16 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8917,
+    "id": 5589,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela welcomes opposition leader María Corina Machado home",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/06/venezuela-welcomes-opposition-leader-maria-corina-machado-home/",
+    "time": "Fri, 06 Nov 2026"
+  },
+  {
+    "id": 8787,
     "level": "medium",
     "country": "🌍",
     "text": "What comes after networked authoritarianism?",
@@ -171,12 +162,21 @@
     "time": "Thu, 05 Nov 2026"
   },
   {
-    "id": 9447,
+    "id": 3982,
     "level": "medium",
     "country": "🌍",
     "text": "Unmarried Chinese women are rewriting the marriage script",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/05/unmarried-chinese-women-are-rewriting-the-marriage-script/",
     "time": "Thu, 05 Nov 2026"
+  },
+  {
+    "id": 8907,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The scandals and suspects surrounding Flávio Bolsonaro, according to the Brazili",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/04/the-scandals-and-suspects-surrounding-flavio-bolsonaro-according-to-the-brazilian-press/",
+    "time": "Wed, 04 Nov 2026"
   }
 ]
