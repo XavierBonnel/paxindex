@@ -1,6 +1,6 @@
 [
   {
-    "id": 4525,
+    "id": 4158,
     "level": "critical",
     "country": "🌍",
     "text": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
@@ -9,7 +9,7 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 3884,
+    "id": 131,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -18,43 +18,52 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 7829,
+    "id": 5589,
     "level": "critical",
     "country": "🌍",
-    "text": "In Kosovo, a new app makes reporting problems to the government fast and easy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/02/in-kosovo-a-new-app-makes-reporting-problems-to-the-government-fast-and-easy/",
-    "time": "Mon, 02 Nov 2026"
-  },
-  {
-    "id": 1604,
-    "level": "critical",
-    "country": "🌍",
-    "text": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+    "text": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
     "time": "Sat, 07 Nov 2026"
   },
   {
-    "id": 5428,
+    "id": 4269,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+    "text": "Qatari PM says US willing to seek solution to war with Iran",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
     "time": "Sat, 07 Nov 2026"
   },
   {
-    "id": 2529,
+    "id": 7210,
     "level": "critical",
     "country": "🌍",
-    "text": "Josep Borrell : \"Quelle voix européenne s'est élevée contre Trump et la guerre e",
+    "text": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+    "time": "Sat, 07 Nov 2026"
+  },
+  {
+    "id": 4987,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Guerre en Ukraine : le combat quotidien de Daryna pour \"trouver l'équilibre entr",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261106-josep-borrell-quelle-voix-europ%C3%A9enne-s-est-%C3%A9lev%C3%A9e-contre-trump-et-la-guerre-en-iran",
-    "time": "Fri, 06 Nov 2026"
+    "link": "https://www.france24.com/fr/europe/20261107-guerre-ukraine-combat-quotidien-daryna-trouver-%C3%A9quilibre-entre-vivre-survivre-kiev-russie",
+    "time": "Sat, 07 Nov 2026"
   },
   {
-    "id": 4697,
+    "id": 2167,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine : un pont et des infrastructures touchées par des frappes russes à Kiev ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261107-ukraine-un-pont-et-des-infrastructures-touch%C3%A9es-par-des-frappes-russes-%C3%A0-kiev-et-sa-r%C3%A9gion",
+    "time": "Sat, 07 Nov 2026"
+  },
+  {
+    "id": 9799,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +72,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 5674,
+    "id": 7050,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7121,
+    "id": 3025,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1158,
+    "id": 7046,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2474,
+    "id": 7096,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7813,
+    "id": 5712,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3276,
+    "id": 3833,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 399,
+    "id": 7488,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1509,
+    "id": 8275,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9117,
+    "id": 2314,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -144,7 +153,16 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 907,
+    "id": 7484,
+    "level": "medium",
+    "country": "🌍",
+    "text": "How people in Montenegro are making their country cleaner",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/07/how-people-in-montenegro-are-making-their-country-cleaner/",
+    "time": "Sat, 07 Nov 2026"
+  },
+  {
+    "id": 329,
     "level": "medium",
     "country": "🌍",
     "text": "Big Tech, AI, and the quiet expansion of digital surveillance in Nigeria",
@@ -153,30 +171,12 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 2855,
+    "id": 881,
     "level": "medium",
     "country": "🌍",
     "text": "Venezuela welcomes opposition leader María Corina Machado home",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/06/venezuela-welcomes-opposition-leader-maria-corina-machado-home/",
     "time": "Fri, 06 Nov 2026"
-  },
-  {
-    "id": 7799,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What comes after networked authoritarianism?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/05/what-comes-after-networked-authoritarianism/",
-    "time": "Thu, 05 Nov 2026"
-  },
-  {
-    "id": 9152,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Unmarried Chinese women are rewriting the marriage script",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/05/unmarried-chinese-women-are-rewriting-the-marriage-script/",
-    "time": "Thu, 05 Nov 2026"
   }
 ]
