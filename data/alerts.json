@@ -1,6 +1,6 @@
 [
   {
-    "id": 7136,
+    "id": 2363,
     "level": "critical",
     "country": "🌍",
     "text": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
@@ -9,7 +9,7 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 1506,
+    "id": 6730,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -18,61 +18,34 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 5566,
+    "id": 9261,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Explosions hit Qeshm; US moves to block land supply routes",
+    "text": "Haitians cheer El Salvador’s Bukele amid gang war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
     "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 6800,
+    "id": 1612,
     "level": "critical",
     "country": "🌍",
-    "text": "Who is behind Europe’s suspected hybrid attacks?",
+    "text": "Drone attack on Colombian army base kills three soldiers and wounds 16",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-    "time": "Sat, 07 Nov 2026"
+    "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+    "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 3257,
+    "id": 3112,
     "level": "critical",
     "country": "🌍",
-    "text": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+    "text": "Earthquake hits central Japan, injuring more than 20 people",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-    "time": "Sat, 07 Nov 2026"
+    "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+    "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 1852,
-    "level": "critical",
-    "country": "🌍",
-    "text": "More than 140,000 rally as new protests against rising costs sweep France",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
-    "time": "Sat, 07 Nov 2026"
-  },
-  {
-    "id": 9080,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-    "time": "Sat, 07 Nov 2026"
-  },
-  {
-    "id": 3177,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Fausses alertes à la bombe : enquête ouverte en France sur un \"lien avec des pui",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261107-fausses-alertes-%C3%A0-la-bombe-enqu%C3%AAte-ouverte-en-france-sur-un-lien-avec-des-puissances-%C3%A9trang%C3%A8res",
-    "time": "Sat, 07 Nov 2026"
-  },
-  {
-    "id": 8652,
+    "id": 1053,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -81,7 +54,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 1706,
+    "id": 5363,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 6281,
+    "id": 1453,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8330,
+    "id": 7957,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7918,
+    "id": 5467,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3827,
+    "id": 1636,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5170,
+    "id": 1867,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4648,
+    "id": 5103,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4352,
+    "id": 6974,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3318,
+    "id": 5696,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -162,7 +135,7 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3618,
+    "id": 3397,
     "level": "medium",
     "country": "🌍",
     "text": "How people in Montenegro are making their country cleaner",
@@ -171,12 +144,39 @@
     "time": "Sat, 07 Nov 2026"
   },
   {
-    "id": 6589,
+    "id": 4883,
     "level": "medium",
     "country": "🌍",
     "text": "Big Tech, AI, and the quiet expansion of digital surveillance in Nigeria",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/06/big-tech-ai-and-the-quiet-expansion-of-digital-surveillance-in-nigeria/",
     "time": "Fri, 06 Nov 2026"
+  },
+  {
+    "id": 5324,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela welcomes opposition leader María Corina Machado home",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/06/venezuela-welcomes-opposition-leader-maria-corina-machado-home/",
+    "time": "Fri, 06 Nov 2026"
+  },
+  {
+    "id": 9610,
+    "level": "medium",
+    "country": "🌍",
+    "text": "What comes after networked authoritarianism?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/05/what-comes-after-networked-authoritarianism/",
+    "time": "Thu, 05 Nov 2026"
+  },
+  {
+    "id": 7579,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Unmarried Chinese women are rewriting the marriage script",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/05/unmarried-chinese-women-are-rewriting-the-marriage-script/",
+    "time": "Thu, 05 Nov 2026"
   }
 ]
