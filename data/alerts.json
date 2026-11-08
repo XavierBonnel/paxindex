@@ -1,6 +1,6 @@
 [
   {
-    "id": 2363,
+    "id": 5599,
     "level": "critical",
     "country": "🌍",
     "text": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
@@ -9,7 +9,7 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 6730,
+    "id": 4029,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -18,34 +18,52 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 9261,
+    "id": 300,
     "level": "critical",
     "country": "🌍",
-    "text": "Haitians cheer El Salvador’s Bukele amid gang war",
+    "text": "At least 21 dead as small boat sinks off Senegal",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
     "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 1612,
+    "id": 4407,
     "level": "critical",
     "country": "🌍",
-    "text": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+    "text": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
     "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 3112,
+    "id": 7475,
     "level": "critical",
     "country": "🌍",
-    "text": "Earthquake hits central Japan, injuring more than 20 people",
+    "text": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
     "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 1053,
+    "id": 8078,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+    "time": "Sun, 08 Nov 2026"
+  },
+  {
+    "id": 790,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Au large du Sénégal, au moins 21 personnes sont mortes dans le naufrage d'une pi",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20261108-au-large-du-s%C3%A9n%C3%A9gal-au-moins-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants",
+    "time": "Sun, 08 Nov 2026"
+  },
+  {
+    "id": 4756,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -54,7 +72,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 5363,
+    "id": 1228,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1453,
+    "id": 5848,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7957,
+    "id": 2177,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5467,
+    "id": 9615,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1636,
+    "id": 5140,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1867,
+    "id": 7992,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5103,
+    "id": 8112,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 6974,
+    "id": 8481,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5696,
+    "id": 4680,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,7 +153,16 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 3397,
+    "id": 6944,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Beyond the beaches: The Dominican Republic and the global debate over deep-sea m",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/08/beyond-the-beaches-the-dominican-republic-and-the-global-debate-over-deep-sea-mining/",
+    "time": "Sun, 08 Nov 2026"
+  },
+  {
+    "id": 6293,
     "level": "medium",
     "country": "🌍",
     "text": "How people in Montenegro are making their country cleaner",
@@ -144,39 +171,12 @@
     "time": "Sat, 07 Nov 2026"
   },
   {
-    "id": 4883,
+    "id": 4982,
     "level": "medium",
     "country": "🌍",
     "text": "Big Tech, AI, and the quiet expansion of digital surveillance in Nigeria",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/06/big-tech-ai-and-the-quiet-expansion-of-digital-surveillance-in-nigeria/",
     "time": "Fri, 06 Nov 2026"
-  },
-  {
-    "id": 5324,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela welcomes opposition leader María Corina Machado home",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/06/venezuela-welcomes-opposition-leader-maria-corina-machado-home/",
-    "time": "Fri, 06 Nov 2026"
-  },
-  {
-    "id": 9610,
-    "level": "medium",
-    "country": "🌍",
-    "text": "What comes after networked authoritarianism?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/05/what-comes-after-networked-authoritarianism/",
-    "time": "Thu, 05 Nov 2026"
-  },
-  {
-    "id": 7579,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Unmarried Chinese women are rewriting the marriage script",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/05/unmarried-chinese-women-are-rewriting-the-marriage-script/",
-    "time": "Thu, 05 Nov 2026"
   }
 ]
