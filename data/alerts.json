@@ -1,6 +1,6 @@
 [
   {
-    "id": 3369,
+    "id": 5423,
     "level": "critical",
     "country": "🌍",
     "text": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
@@ -9,7 +9,7 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 8632,
+    "id": 9244,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -18,25 +18,16 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 4851,
+    "id": 1117,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly sand cliff collapses on displaced families in Gaza",
+    "text": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
-    "time": "Sun, 08 Nov 2026"
+    "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+    "time": "Mon, 09 Nov 2026"
   },
   {
-    "id": 6524,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran threatens to ‘rain down hell’ if US escalates war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
-    "time": "Sun, 08 Nov 2026"
-  },
-  {
-    "id": 1012,
+    "id": 9545,
     "level": "critical",
     "country": "🌍",
     "text": "Dialogue nationale en RD Congo : comment sortir de l'impasse ?",
@@ -45,7 +36,7 @@
     "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 5033,
+    "id": 4647,
     "level": "critical",
     "country": "🌍",
     "text": "RDC : dialogue impossible entre Tshisekedi, Kabila et l'opposition ?",
@@ -54,16 +45,7 @@
     "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 3515,
-    "level": "high",
-    "country": "🌍",
-    "text": "President Milei welcomes Pope Leo during historic visit to Argentina",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
-    "time": "Sun, 08 Nov 2026"
-  },
-  {
-    "id": 715,
+    "id": 9504,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -72,7 +54,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 4072,
+    "id": 4929,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -81,7 +63,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7709,
+    "id": 7416,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +72,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9678,
+    "id": 3536,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +81,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 9181,
+    "id": 1768,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +90,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4600,
+    "id": 7581,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +99,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4831,
+    "id": 1678,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +108,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 33,
+    "id": 2349,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +117,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5497,
+    "id": 5615,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +126,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5277,
+    "id": 5245,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -153,7 +135,16 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 9152,
+    "id": 8704,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The dreamer who wants the world to read Nepali literature",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/09/the-dreamer-who-wants-the-world-to-read-nepali-literature/",
+    "time": "Mon, 09 Nov 2026"
+  },
+  {
+    "id": 3834,
     "level": "medium",
     "country": "🌍",
     "text": "Beyond the beaches: The Dominican Republic and the global debate over deep-sea m",
@@ -162,7 +153,7 @@
     "time": "Sun, 08 Nov 2026"
   },
   {
-    "id": 8094,
+    "id": 842,
     "level": "medium",
     "country": "🌍",
     "text": "How people in Montenegro are making their country cleaner",
@@ -171,12 +162,21 @@
     "time": "Sat, 07 Nov 2026"
   },
   {
-    "id": 3113,
+    "id": 205,
     "level": "medium",
     "country": "🌍",
     "text": "Big Tech, AI, and the quiet expansion of digital surveillance in Nigeria",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/06/big-tech-ai-and-the-quiet-expansion-of-digital-surveillance-in-nigeria/",
+    "time": "Fri, 06 Nov 2026"
+  },
+  {
+    "id": 9572,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Venezuela welcomes opposition leader María Corina Machado home",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/06/venezuela-welcomes-opposition-leader-maria-corina-machado-home/",
     "time": "Fri, 06 Nov 2026"
   }
 ]
