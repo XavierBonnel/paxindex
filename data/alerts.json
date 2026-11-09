@@ -1,6 +1,6 @@
 [
   {
-    "id": 5423,
+    "id": 799,
     "level": "critical",
     "country": "🌍",
     "text": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
@@ -9,7 +9,7 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 9244,
+    "id": 1991,
     "level": "critical",
     "country": "🌍",
     "text": "Tracing the recruitment trap behind Russia’s war",
@@ -18,34 +18,61 @@
     "time": "Wed, 04 Nov 2026"
   },
   {
-    "id": 1117,
+    "id": 3978,
     "level": "critical",
     "country": "🌍",
-    "text": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+    "text": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
     "time": "Mon, 09 Nov 2026"
   },
   {
-    "id": 9545,
+    "id": 7122,
     "level": "critical",
     "country": "🌍",
-    "text": "Dialogue nationale en RD Congo : comment sortir de l'impasse ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261108-dialogue-nationale-en-rd-congo-comment-sortir-de-l-impasse",
-    "time": "Sun, 08 Nov 2026"
+    "text": "Senegal human rights group demands government action after deadly sinking",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
+    "time": "Mon, 09 Nov 2026"
   },
   {
-    "id": 4647,
+    "id": 2183,
     "level": "critical",
     "country": "🌍",
-    "text": "RDC : dialogue impossible entre Tshisekedi, Kabila et l'opposition ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261108-rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition",
-    "time": "Sun, 08 Nov 2026"
+    "text": "IRGC strikes three tankers near Hormuz over ‘US links’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+    "time": "Mon, 09 Nov 2026"
   },
   {
-    "id": 9504,
+    "id": 1546,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran stands by demands to end the war as US ramps up military pressure",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
+    "time": "Mon, 09 Nov 2026"
+  },
+  {
+    "id": 274,
+    "level": "critical",
+    "country": "🌍",
+    "text": "What ‘catastrophic’ South Africa local election results mean for ANC",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/9/what-catastrophic-south-africa-local-election-results-mean-for-anc?traffic_source=rss",
+    "time": "Mon, 09 Nov 2026"
+  },
+  {
+    "id": 4835,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Les câbles sous-marins au cœur d'une guerre invisible entre les grandes puissanc",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261109-les-c%C3%A2bles-sous-marins-au-c%C5%93ur-d-une-guerre-invisible-entre-les-grandes-puissances",
+    "time": "Mon, 09 Nov 2026"
+  },
+  {
+    "id": 2718,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -54,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 4929,
+    "id": 8097,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7416,
+    "id": 8194,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3536,
+    "id": 6999,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1768,
+    "id": 7120,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7581,
+    "id": 4812,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1678,
+    "id": 1916,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -108,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2349,
+    "id": 9987,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -117,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5615,
+    "id": 7896,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -126,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 5245,
+    "id": 7922,
     "level": "medium",
     "country": "🌍",
     "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
@@ -135,48 +162,21 @@
     "time": "2026-05-21T00:01"
   },
   {
-    "id": 8704,
+    "id": 8002,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Big Tech, AI, and the quiet expansion of digital surveillance in Nigeria",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/09/big-tech-ai-and-the-quiet-expansion-of-digital-surveillance-in-nigeria/",
+    "time": "Mon, 09 Nov 2026"
+  },
+  {
+    "id": 9430,
     "level": "medium",
     "country": "🌍",
     "text": "The dreamer who wants the world to read Nepali literature",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/09/the-dreamer-who-wants-the-world-to-read-nepali-literature/",
     "time": "Mon, 09 Nov 2026"
-  },
-  {
-    "id": 3834,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Beyond the beaches: The Dominican Republic and the global debate over deep-sea m",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/08/beyond-the-beaches-the-dominican-republic-and-the-global-debate-over-deep-sea-mining/",
-    "time": "Sun, 08 Nov 2026"
-  },
-  {
-    "id": 842,
-    "level": "medium",
-    "country": "🌍",
-    "text": "How people in Montenegro are making their country cleaner",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/07/how-people-in-montenegro-are-making-their-country-cleaner/",
-    "time": "Sat, 07 Nov 2026"
-  },
-  {
-    "id": 205,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Big Tech, AI, and the quiet expansion of digital surveillance in Nigeria",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/06/big-tech-ai-and-the-quiet-expansion-of-digital-surveillance-in-nigeria/",
-    "time": "Fri, 06 Nov 2026"
-  },
-  {
-    "id": 9572,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Venezuela welcomes opposition leader María Corina Machado home",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/06/venezuela-welcomes-opposition-leader-maria-corina-machado-home/",
-    "time": "Fri, 06 Nov 2026"
   }
 ]
