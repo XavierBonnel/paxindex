@@ -1,6 +1,6 @@
 [
   {
-    "id": 4143,
+    "id": 8472,
     "level": "critical",
     "country": "🌍",
     "text": "In Ukraine, youth are finding their voices in the digital democracy",
@@ -9,7 +9,7 @@
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 9402,
+    "id": 700,
     "level": "critical",
     "country": "🌍",
     "text": "From a quiet life to the terror of armed gangs: The story of Haiti’s Kenscoff di",
@@ -18,7 +18,7 @@
     "time": "Mon, 09 Nov 2026"
   },
   {
-    "id": 1727,
+    "id": 2073,
     "level": "critical",
     "country": "🌍",
     "text": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
@@ -27,43 +27,79 @@
     "time": "Fri, 06 Nov 2026"
   },
   {
-    "id": 1413,
+    "id": 3918,
     "level": "critical",
     "country": "🌍",
-    "text": "White House announces funds for law enforcement programme in several cities",
+    "text": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+    "time": "Wed, 11 Nov 2026"
+  },
+  {
+    "id": 365,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss",
+    "time": "Wed, 11 Nov 2026"
+  },
+  {
+    "id": 2669,
+    "level": "critical",
+    "country": "🌍",
+    "text": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+    "time": "Wed, 11 Nov 2026"
+  },
+  {
+    "id": 1196,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Republicans block Hegseth impeachment motion",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+    "time": "Wed, 11 Nov 2026"
+  },
+  {
+    "id": 716,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Tigray displaced families fear renewed war as hopes of returning home fade",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+    "time": "Wed, 11 Nov 2026"
+  },
+  {
+    "id": 9385,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Spain holds state funeral for 69 victims of deadly train crash",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
+    "time": "Wed, 11 Nov 2026"
+  },
+  {
+    "id": 1292,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+    "time": "Wed, 11 Nov 2026"
+  },
+  {
+    "id": 8039,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"Projet d'attentat\" sur la base anglaise de Fairford : Washington inculpe trois ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261110-projet-d-attentat-sur-la-base-anglaise-de-fairford-washington-inculpe-trois-agents-iraniens",
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 7550,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Netanyahu and Eisenkot push for new government after election deadlock",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
-    "time": "Tue, 10 Nov 2026"
-  },
-  {
-    "id": 4499,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Salvadoran troops target Haitian gang, leaving 20 dead",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead?traffic_source=rss",
-    "time": "Tue, 10 Nov 2026"
-  },
-  {
-    "id": 9419,
-    "level": "critical",
-    "country": "🌍",
-    "text": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-    "time": "Tue, 10 Nov 2026"
-  },
-  {
-    "id": 2551,
+    "id": 7288,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : négocier sur quoi, avec qui ?",
@@ -72,25 +108,16 @@
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 4708,
+    "id": 5650,
     "level": "high",
     "country": "🌍",
-    "text": "US soldier arrested in UK on suspicion of spying for Russia",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-    "time": "Tue, 10 Nov 2026"
+    "text": "En Haïti, le président du Salvador Nayib Bukele mène l'offensive contre les gang",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261111-haiti-president-salvador-nayib-bukele-offensive-contre-gangs-400-mawozo",
+    "time": "Wed, 11 Nov 2026"
   },
   {
-    "id": 7514,
-    "level": "high",
-    "country": "🌍",
-    "text": "Iraq blocks Iranian football team’s plane from landing over US sanctions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/iraq-blocks-iranian-football-teams-plane-from-landing-over-us-sanctions?traffic_source=rss",
-    "time": "Tue, 10 Nov 2026"
-  },
-  {
-    "id": 7524,
+    "id": 94,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -99,7 +126,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 2855,
+    "id": 5495,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -108,7 +135,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 2690,
+    "id": 8604,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -117,7 +144,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4556,
+    "id": 8821,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +153,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5656,
+    "id": 7749,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +162,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4633,
+    "id": 9171,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,39 +171,12 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2303,
+    "id": 9137,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-06-08T07:00"
-  },
-  {
-    "id": 9806,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 8297,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 500,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
   }
 ]
