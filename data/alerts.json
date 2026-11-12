@@ -1,6 +1,6 @@
 [
   {
-    "id": 9901,
+    "id": 7950,
     "level": "critical",
     "country": "🌍",
     "text": "In Ukraine, youth are finding their voices in the digital democracy",
@@ -9,7 +9,7 @@
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 1391,
+    "id": 2678,
     "level": "critical",
     "country": "🌍",
     "text": "From a quiet life to the terror of armed gangs: The story of Haiti’s Kenscoff di",
@@ -18,43 +18,88 @@
     "time": "Mon, 09 Nov 2026"
   },
   {
-    "id": 2094,
+    "id": 7543,
     "level": "critical",
     "country": "🌍",
-    "text": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+    "text": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
     "time": "Thu, 12 Nov 2026"
   },
   {
-    "id": 9799,
+    "id": 9597,
     "level": "critical",
     "country": "🌍",
-    "text": "Photos: Protesters clash with police after housing cost rallies in Spain",
+    "text": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
     "time": "Thu, 12 Nov 2026"
   },
   {
-    "id": 4485,
+    "id": 3374,
     "level": "critical",
     "country": "🌍",
-    "text": "Le 11-Novembre en Pologne : jour d'indépendance et démonstration de force pour l",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261112-le-11-novembre-en-pologne-jour-d-ind%C3%A9pendance-et-d%C3%A9monstration-de-force-pour-l-extr%C3%AAme-droite",
+    "text": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
     "time": "Thu, 12 Nov 2026"
   },
   {
-    "id": 2434,
+    "id": 1847,
     "level": "critical",
     "country": "🌍",
-    "text": "\"Agir pour la France\" : les propos glaçants de l'auteur de l'attentat raciste de",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261112-agir-pour-la-france-garde-%C3%A0-vue-propos-gla%C3%A7ants-auteur-attentat-trappes",
+    "text": "UK court finds two Iranian men guilty of spying for Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
     "time": "Thu, 12 Nov 2026"
   },
   {
-    "id": 8519,
+    "id": 3346,
+    "level": "critical",
+    "country": "🌍",
+    "text": "COP31: Le Népal, martyr du climat, en quête de réparations",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261112-cop31-le-n%C3%A9pal-martyr-du-climat-en-qu%C3%AAte-de-r%C3%A9parations",
+    "time": "Thu, 12 Nov 2026"
+  },
+  {
+    "id": 2713,
+    "level": "critical",
+    "country": "🌍",
+    "text": "États-Unis : Donald Trump retire le dossier de la guerre en Iran à JD Vance",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261112-%C3%A9tats-unis-donald-trump-retire-le-dossier-de-la-guerre-en-iran-%C3%A0-jd-vance",
+    "time": "Thu, 12 Nov 2026"
+  },
+  {
+    "id": 5214,
+    "level": "high",
+    "country": "🌍",
+    "text": "Prominent Israeli settler denied entry into France",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
+    "time": "Thu, 12 Nov 2026"
+  },
+  {
+    "id": 2686,
+    "level": "high",
+    "country": "🌍",
+    "text": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+    "time": "Thu, 12 Nov 2026"
+  },
+  {
+    "id": 7827,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-11-12T07:00"
+  },
+  {
+    "id": 6975,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +108,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7780,
+    "id": 5063,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +117,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 5957,
+    "id": 3540,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +126,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 9600,
+    "id": 1628,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +135,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 2937,
+    "id": 1579,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +144,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7284,
+    "id": 1944,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +153,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6099,
+    "id": 7083,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +162,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8562,
+    "id": 2841,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,57 +171,12 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2267,
+    "id": 6471,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 8276,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Homelessness Holds Steady Across Three L.A. Neighborhoods as Rough Sleeping Reac",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-21T00:01"
-  },
-  {
-    "id": 3426,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can regenerative school gardens strengthen food security in Cameroon?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/can-regenerative-school-gardens-strengthen-food-security-in-cameroon/",
-    "time": "Thu, 12 Nov 2026"
-  },
-  {
-    "id": 2408,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Justice is the infrastructure the world keeps forgetting",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/11/justice-is-the-infrastructure-the-world-keeps-forgetting/",
-    "time": "Wed, 11 Nov 2026"
-  },
-  {
-    "id": 4467,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Restoring social media access comes at a cost in Gabon",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/11/estoring-social-media-access-comes-at-a-cost-in-gabon/",
-    "time": "Wed, 11 Nov 2026"
-  },
-  {
-    "id": 6033,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ex-lawmaker sentenced to 12.5 years in prison in closed-door trial in Macau",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/10/ex-lawmaker-sentenced-to-12-5-years-in-prison-in-closed-door-trial-in-macau/",
-    "time": "Tue, 10 Nov 2026"
   }
 ]
