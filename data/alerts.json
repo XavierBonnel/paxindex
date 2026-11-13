@@ -1,6 +1,6 @@
 [
   {
-    "id": 9590,
+    "id": 3140,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -9,7 +9,7 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 2964,
+    "id": 9958,
     "level": "critical",
     "country": "🌍",
     "text": "In Ukraine, youth are finding their voices in the digital democracy",
@@ -18,7 +18,7 @@
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 400,
+    "id": 6946,
     "level": "critical",
     "country": "🌍",
     "text": "From a quiet life to the terror of armed gangs: The story of Haiti’s Kenscoff di",
@@ -27,61 +27,43 @@
     "time": "Mon, 09 Nov 2026"
   },
   {
-    "id": 2430,
+    "id": 9809,
     "level": "critical",
     "country": "🌍",
-    "text": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+    "text": "Migrants risk deadly route to Spain’s Canary Islands",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 7492,
+    "id": 2841,
     "level": "critical",
     "country": "🌍",
-    "text": "Can Netanyahu launch a strike on Iran before he leaves?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
-    "time": "Fri, 13 Nov 2026"
-  },
-  {
-    "id": 3542,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
-    "time": "Fri, 13 Nov 2026"
-  },
-  {
-    "id": 851,
-    "level": "critical",
-    "country": "🌍",
-    "text": "China warns against fresh US chip curbs",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
-    "time": "Fri, 13 Nov 2026"
-  },
-  {
-    "id": 1574,
-    "level": "critical",
-    "country": "🌍",
-    "text": "L'actu en dessin : la COP31 a peu de chances d'aboutir à des résolutions majeure",
+    "text": "Mort de Jesus de Miguel : l'équato-guinéen Jesus Owono fixé sur son sort",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/plan%C3%A8te/20261113-actu-en-dessin-cop31-climat-peu-de-chances-aboutir-r%C3%A9solutions-majeures-environnement-r%C3%A9chauffement",
+    "link": "https://www.france24.com/fr/sports/20261113-mort-de-jesus-de-miguel-l-%C3%A9quato-guin%C3%A9en-jesus-owono-conna%C3%AEt-la-dur%C3%A9e-de-sa-suspension",
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 3824,
+    "id": 7423,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Affaire Nvidia, guerre en Ukraine, tractations en Israël et sort de Christophe G",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261113-affaire-nvidia-guerre-en-ukraine-tractations-en-isra%C3%ABl-et-sort-de-christophe-gleizes",
+    "time": "Fri, 13 Nov 2026"
+  },
+  {
+    "id": 8002,
     "level": "high",
     "country": "🌍",
-    "text": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+    "text": "Jacques Nesi :\" les soldats salvadoriens sotn accueillis comme le Messie en Haït",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261113-jacques-nesi-les-soldats-salvadoriens-sotn-accueillis-comme-le-messie-en-ha%C3%AFti",
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 2729,
+    "id": 7771,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -90,7 +72,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 787,
+    "id": 7017,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -99,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 3328,
+    "id": 1789,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -108,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 4202,
+    "id": 1651,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -117,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1187,
+    "id": 5658,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3870,
+    "id": 1347,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7466,
+    "id": 7772,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 7489,
+    "id": 1835,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2014,
+    "id": 4912,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 3321,
+    "id": 7961,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,12 +153,30 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1226,
+    "id": 9906,
+    "level": "medium",
+    "country": "🌍",
+    "text": "While Russia tries to manipulate information, local civil society is teaching Ar",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/13/while-russia-tries-to-manipulate-information-local-civil-society-is-teaching-armenians-media-literacy/",
+    "time": "Fri, 13 Nov 2026"
+  },
+  {
+    "id": 7001,
     "level": "medium",
     "country": "🌍",
     "text": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery ",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
+    "time": "Thu, 12 Nov 2026"
+  },
+  {
+    "id": 917,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ecuadorian youth unite against neoliberal models and state violence",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/12/ecuadorian-youth-unite-against-neoliberal-models-and-state-violence/",
     "time": "Thu, 12 Nov 2026"
   }
 ]
