@@ -1,6 +1,6 @@
 [
   {
-    "id": 5235,
+    "id": 9590,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -9,7 +9,7 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 1588,
+    "id": 2964,
     "level": "critical",
     "country": "🌍",
     "text": "In Ukraine, youth are finding their voices in the digital democracy",
@@ -18,7 +18,7 @@
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 1114,
+    "id": 400,
     "level": "critical",
     "country": "🌍",
     "text": "From a quiet life to the terror of armed gangs: The story of Haiti’s Kenscoff di",
@@ -27,61 +27,61 @@
     "time": "Mon, 09 Nov 2026"
   },
   {
-    "id": 6305,
+    "id": 2430,
     "level": "critical",
     "country": "🌍",
-    "text": "The Gulf must build security that can outlast this war",
+    "text": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 9984,
+    "id": 7492,
     "level": "critical",
     "country": "🌍",
-    "text": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
+    "text": "Can Netanyahu launch a strike on Iran before he leaves?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 3300,
+    "id": 3542,
     "level": "critical",
     "country": "🌍",
-    "text": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
+    "text": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 827,
+    "id": 851,
     "level": "critical",
     "country": "🌍",
-    "text": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+    "text": "China warns against fresh US chip curbs",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 6261,
+    "id": 1574,
     "level": "critical",
     "country": "🌍",
-    "text": "Colère sociale : l'arsenal antiterroriste né des attentats de 2015 utilisé contr",
+    "text": "L'actu en dessin : la COP31 a peu de chances d'aboutir à des résolutions majeure",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261113-col%C3%A8re-sociale-l-arsenal-antiterroriste-n%C3%A9-des-attentats-de-2015-utilis%C3%A9-contre-les-manifestants",
+    "link": "https://www.france24.com/fr/plan%C3%A8te/20261113-actu-en-dessin-cop31-climat-peu-de-chances-aboutir-r%C3%A9solutions-majeures-environnement-r%C3%A9chauffement",
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 3756,
-    "level": "critical",
+    "id": 3824,
+    "level": "high",
     "country": "🌍",
-    "text": "À New York, l'effondrement d'un immeuble fait de nombreux morts et blessés",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/am%C3%A9riques/20261112-new-york-flatbush-effondrement-immeuble-morts-blesses",
-    "time": "Thu, 12 Nov 2026"
+    "text": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+    "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 3091,
+    "id": 2729,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -90,7 +90,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 299,
+    "id": 787,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -99,7 +99,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 6012,
+    "id": 3328,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -108,7 +108,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7905,
+    "id": 4202,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -117,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 413,
+    "id": 1187,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1303,
+    "id": 3870,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2911,
+    "id": 7466,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9565,
+    "id": 7489,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +153,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4683,
+    "id": 2014,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +162,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5597,
+    "id": 3321,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,7 +171,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2371,
+    "id": 1226,
     "level": "medium",
     "country": "🌍",
     "text": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery ",
