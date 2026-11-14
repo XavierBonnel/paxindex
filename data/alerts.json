@@ -1,6 +1,6 @@
 [
   {
-    "id": 6671,
+    "id": 3661,
     "level": "critical",
     "country": "🌍",
     "text": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences ",
@@ -9,7 +9,7 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 835,
+    "id": 2319,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -18,7 +18,7 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 7135,
+    "id": 7657,
     "level": "critical",
     "country": "🌍",
     "text": "In Ukraine, youth are finding their voices in the digital democracy",
@@ -27,52 +27,43 @@
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 3096,
+    "id": 4061,
     "level": "critical",
     "country": "🌍",
-    "text": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+    "text": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 4151,
+    "id": 2786,
     "level": "critical",
     "country": "🌍",
-    "text": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+    "text": "When tech founders leave, what happens to their companies?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+    "link": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 6060,
+    "id": 5048,
     "level": "critical",
     "country": "🌍",
-    "text": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+    "text": "Attentat de Trappes : une liste d'élus de gauche retrouvée chez le suspect",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261114-attentat-de-trappes-une-liste-d-%C3%A9lus-de-gauche-retrouv%C3%A9e-chez-le-suspect",
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 626,
-    "level": "critical",
+    "id": 5024,
+    "level": "high",
     "country": "🌍",
-    "text": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+    "text": "Why US Democrats are expected to keep Schumer and Jeffries in power",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 6370,
-    "level": "critical",
-    "country": "🌍",
-    "text": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-    "time": "Sat, 14 Nov 2026"
-  },
-  {
-    "id": 9542,
+    "id": 7503,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -81,7 +72,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 6017,
+    "id": 2159,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -90,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 5396,
+    "id": 2443,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 311,
+    "id": 301,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 2824,
+    "id": 5096,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6922,
+    "id": 2363,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3317,
+    "id": 8045,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 850,
+    "id": 346,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5577,
+    "id": 5892,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2842,
+    "id": 9285,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 850,
+    "id": 7822,
     "level": "medium",
     "country": "🌍",
     "text": "While Russia tries to manipulate information, local civil society is teaching Ar",
@@ -171,12 +162,21 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 1446,
+    "id": 9465,
     "level": "medium",
     "country": "🌍",
     "text": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery ",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
+    "time": "Thu, 12 Nov 2026"
+  },
+  {
+    "id": 366,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ecuadorian youth unite against neoliberal models and state violence",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/12/ecuadorian-youth-unite-against-neoliberal-models-and-state-violence/",
     "time": "Thu, 12 Nov 2026"
   }
 ]
