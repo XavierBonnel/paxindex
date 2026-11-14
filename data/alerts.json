@@ -1,6 +1,15 @@
 [
   {
-    "id": 2248,
+    "id": 6671,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/14/letter-from-a-jailed-azerbaijani-political-prisoner-reveals-deadly-consequences-of-silence/",
+    "time": "Sat, 14 Nov 2026"
+  },
+  {
+    "id": 835,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -9,7 +18,7 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 2609,
+    "id": 7135,
     "level": "critical",
     "country": "🌍",
     "text": "In Ukraine, youth are finding their voices in the digital democracy",
@@ -18,34 +27,52 @@
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 3508,
+    "id": 3096,
     "level": "critical",
     "country": "🌍",
-    "text": "From a quiet life to the terror of armed gangs: The story of Haiti’s Kenscoff di",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/09/from-a-quiet-life-to-the-terror-of-armed-gangs-the-story-of-haitis-kenscoff-district/",
-    "time": "Mon, 09 Nov 2026"
-  },
-  {
-    "id": 227,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+    "text": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 5625,
+    "id": 4151,
     "level": "critical",
     "country": "🌍",
-    "text": "Mort de Jesus de Miguel : l'équato-guinéen Jesus Owono fixé sur son sort",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/sports/20261113-mort-de-jesus-de-miguel-l-%C3%A9quato-guin%C3%A9en-jesus-owono-conna%C3%AEt-la-dur%C3%A9e-de-sa-suspension",
-    "time": "Fri, 13 Nov 2026"
+    "text": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+    "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 6386,
+    "id": 6060,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+    "time": "Sat, 14 Nov 2026"
+  },
+  {
+    "id": 626,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
+    "time": "Sat, 14 Nov 2026"
+  },
+  {
+    "id": 6370,
+    "level": "critical",
+    "country": "🌍",
+    "text": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+    "time": "Sat, 14 Nov 2026"
+  },
+  {
+    "id": 9542,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -54,7 +81,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 7526,
+    "id": 6017,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 5879,
+    "id": 5396,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 9868,
+    "id": 311,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3732,
+    "id": 2824,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7736,
+    "id": 6922,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 9292,
+    "id": 3317,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5081,
+    "id": 850,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6121,
+    "id": 5577,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 2552,
+    "id": 2842,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2474,
+    "id": 850,
     "level": "medium",
     "country": "🌍",
     "text": "While Russia tries to manipulate information, local civil society is teaching Ar",
@@ -144,39 +171,12 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 2856,
+    "id": 1446,
     "level": "medium",
     "country": "🌍",
     "text": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery ",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
     "time": "Thu, 12 Nov 2026"
-  },
-  {
-    "id": 83,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ecuadorian youth unite against neoliberal models and state violence",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/ecuadorian-youth-unite-against-neoliberal-models-and-state-violence/",
-    "time": "Thu, 12 Nov 2026"
-  },
-  {
-    "id": 5012,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can regenerative school gardens strengthen food security in Cameroon?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/can-regenerative-school-gardens-strengthen-food-security-in-cameroon/",
-    "time": "Thu, 12 Nov 2026"
-  },
-  {
-    "id": 3169,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Justice is the infrastructure the world keeps forgetting",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/11/justice-is-the-infrastructure-the-world-keeps-forgetting/",
-    "time": "Wed, 11 Nov 2026"
   }
 ]
