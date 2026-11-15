@@ -1,6 +1,6 @@
 [
   {
-    "id": 9837,
+    "id": 3808,
     "level": "critical",
     "country": "🌍",
     "text": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences ",
@@ -9,7 +9,7 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 7548,
+    "id": 7135,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -18,7 +18,7 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 7973,
+    "id": 1519,
     "level": "critical",
     "country": "🌍",
     "text": "In Ukraine, youth are finding their voices in the digital democracy",
@@ -27,16 +27,43 @@
     "time": "Tue, 10 Nov 2026"
   },
   {
-    "id": 3854,
+    "id": 147,
     "level": "critical",
     "country": "🌍",
-    "text": "Deadly car bomb blast kills two near Syria’s capital",
+    "text": "Israeli air strike kills senior Hamas commander in Gaza",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+    "time": "Sun, 15 Nov 2026"
+  },
+  {
+    "id": 6831,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+    "time": "Sun, 15 Nov 2026"
+  },
+  {
+    "id": 3814,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Portugal immortalises Ronaldo with a new number 7",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 6320,
+    "id": 6466,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Explosion near Syria’s capital kills father and child",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+    "time": "Sat, 14 Nov 2026"
+  },
+  {
+    "id": 1561,
     "level": "critical",
     "country": "🌍",
     "text": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à u",
@@ -45,7 +72,7 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 3800,
+    "id": 5039,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -54,7 +81,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 9891,
+    "id": 9242,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 4,
+    "id": 3135,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 7784,
+    "id": 1729,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 595,
+    "id": 2254,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5580,
+    "id": 9111,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 299,
+    "id": 2048,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3310,
+    "id": 2199,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 9127,
+    "id": 618,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 355,
+    "id": 7034,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 207,
+    "id": 7187,
     "level": "medium",
     "country": "🌍",
     "text": "Learning under trees in the era of AI: The paradox of education in Mozambique",
@@ -144,39 +171,12 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 3548,
+    "id": 1388,
     "level": "medium",
     "country": "🌍",
     "text": "While Russia tries to manipulate information, local civil society is teaching Ar",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/13/while-russia-tries-to-manipulate-information-local-civil-society-is-teaching-armenians-media-literacy/",
     "time": "Fri, 13 Nov 2026"
-  },
-  {
-    "id": 4452,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
-    "time": "Thu, 12 Nov 2026"
-  },
-  {
-    "id": 8360,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ecuadorian youth unite against neoliberal models and state violence",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/ecuadorian-youth-unite-against-neoliberal-models-and-state-violence/",
-    "time": "Thu, 12 Nov 2026"
-  },
-  {
-    "id": 4780,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Can regenerative school gardens strengthen food security in Cameroon?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/can-regenerative-school-gardens-strengthen-food-security-in-cameroon/",
-    "time": "Thu, 12 Nov 2026"
   }
 ]
