@@ -1,6 +1,6 @@
 [
   {
-    "id": 9342,
+    "id": 8774,
     "level": "critical",
     "country": "🌍",
     "text": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences ",
@@ -9,7 +9,7 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 4762,
+    "id": 4714,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -18,34 +18,52 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 9423,
+    "id": 4051,
     "level": "critical",
     "country": "🌍",
-    "text": "Jordan sentences three men to death by hanging after deadly church attack",
+    "text": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
     "time": "Sun, 15 Nov 2026"
   },
   {
-    "id": 7992,
+    "id": 401,
     "level": "critical",
     "country": "🌍",
-    "text": "ASEAN summit: Who’s attending and what’s at stake?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-    "time": "Sun, 15 Nov 2026"
-  },
-  {
-    "id": 2305,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à u",
+    "text": "Un commandant du Hamas tué par un drone israélien dans le sud de Gaza",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste",
-    "time": "Sat, 14 Nov 2026"
+    "link": "https://www.france24.com/fr/moyen-orient/20261115-commandant-hamas-tu%C3%A9-par-drone-israel-dans-sud-de-gaza",
+    "time": "Sun, 15 Nov 2026"
   },
   {
-    "id": 6599,
+    "id": 8851,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Une frappe israélienne dans le sud de Gaza vise un responsable du Hamas",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-une-frappe-isra%C3%A9lienne-dans-le-sud-de-gaza-vise-un-responsable-du-hamas",
+    "time": "Sun, 15 Nov 2026"
+  },
+  {
+    "id": 3777,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Une usine pétrochimique frappée par des drones ukrainiens dans le centre de la R",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261115-usine-p%C3%A9trochimique-frapp%C3%A9e-par-drones-ukrainiens-dans-centre-russie",
+    "time": "Sun, 15 Nov 2026"
+  },
+  {
+    "id": 3728,
+    "level": "high",
+    "country": "🌍",
+    "text": "Explosions à Bahreïn, l'Iran revendique une attaque contre une base américaine",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261115-explosions-%C3%A0-bahre%C3%AFn-l-iran-revendique-une-attaque-contre-une-base-am%C3%A9ricaine",
+    "time": "Sun, 15 Nov 2026"
+  },
+  {
+    "id": 787,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -54,7 +72,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 5721,
+    "id": 6311,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7817,
+    "id": 3465,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 3959,
+    "id": 1523,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4095,
+    "id": 8392,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4809,
+    "id": 6629,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 4213,
+    "id": 3517,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 9584,
+    "id": 766,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5172,
+    "id": 9677,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4705,
+    "id": 3337,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 9978,
+    "id": 2808,
     "level": "medium",
     "country": "🌍",
     "text": "Madagascar aims to support biodiversity by protecting marine areas",
@@ -144,7 +162,7 @@
     "time": "Sun, 15 Nov 2026"
   },
   {
-    "id": 4153,
+    "id": 4467,
     "level": "medium",
     "country": "🌍",
     "text": "Learning under trees in the era of AI: The paradox of education in Mozambique",
@@ -153,30 +171,12 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 6020,
+    "id": 1791,
     "level": "medium",
     "country": "🌍",
     "text": "While Russia tries to manipulate information, local civil society is teaching Ar",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/13/while-russia-tries-to-manipulate-information-local-civil-society-is-teaching-armenians-media-literacy/",
     "time": "Fri, 13 Nov 2026"
-  },
-  {
-    "id": 1244,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
-    "time": "Thu, 12 Nov 2026"
-  },
-  {
-    "id": 7048,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ecuadorian youth unite against neoliberal models and state violence",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/ecuadorian-youth-unite-against-neoliberal-models-and-state-violence/",
-    "time": "Thu, 12 Nov 2026"
   }
 ]
