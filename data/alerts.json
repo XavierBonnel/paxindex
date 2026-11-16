@@ -1,6 +1,6 @@
 [
   {
-    "id": 8946,
+    "id": 1450,
     "level": "critical",
     "country": "🌍",
     "text": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences ",
@@ -9,7 +9,7 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 8369,
+    "id": 1131,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -18,34 +18,25 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 3535,
+    "id": 6977,
     "level": "critical",
     "country": "🌍",
-    "text": "Estonia to close border crossings with Russia after alleged arson attack",
+    "text": "Iran war live: Tehran warns it may strike first before another US attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+    "time": "Mon, 16 Nov 2026"
+  },
+  {
+    "id": 5113,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Le baron de la drogue mexicain Miguel Ángel Félix Gallardo est mort",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261115-baron-de-drogue-mexicain-miguel-angel-felix-gallardo-mort-narcotrafic-hopital-prison-guadalajara",
     "time": "Sun, 15 Nov 2026"
   },
   {
-    "id": 7058,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Jordan sentences three men to death over deadly church attack in Karak",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
-    "time": "Sun, 15 Nov 2026"
-  },
-  {
-    "id": 1170,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Estonia to close border crossings with Russia after attack on drone maker",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-    "time": "Sun, 15 Nov 2026"
-  },
-  {
-    "id": 8428,
+    "id": 3223,
     "level": "critical",
     "country": "🌍",
     "text": "Ariane Chemin: \"ce bannissement, c'est mélanger une influenceuse propagandiste, ",
@@ -54,25 +45,7 @@
     "time": "Sun, 15 Nov 2026"
   },
   {
-    "id": 2352,
-    "level": "high",
-    "country": "🌍",
-    "text": "Who can force Israel to implement Gaza ceasefire deal?",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-    "time": "Sun, 15 Nov 2026"
-  },
-  {
-    "id": 64,
-    "level": "high",
-    "country": "🌍",
-    "text": "Yémen : les Houthis à 60 km d'Aden, le gouvernement place des renforts autour de",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20261115-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-le-gouvernement-place-des-renforts-autour-de-la-ville",
-    "time": "Sun, 15 Nov 2026"
-  },
-  {
-    "id": 1054,
+    "id": 8504,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -81,7 +54,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 9892,
+    "id": 7035,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -90,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 322,
+    "id": 6264,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1655,
+    "id": 2798,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4013,
+    "id": 7702,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8846,
+    "id": 1027,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2972,
+    "id": 7350,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2779,
+    "id": 166,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5392,
+    "id": 8325,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9979,
+    "id": 9345,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 6353,
+    "id": 560,
     "level": "medium",
     "country": "🌍",
     "text": "Madagascar aims to support biodiversity by protecting marine areas",
@@ -171,12 +144,39 @@
     "time": "Sun, 15 Nov 2026"
   },
   {
-    "id": 7533,
+    "id": 7028,
     "level": "medium",
     "country": "🌍",
     "text": "Learning under trees in the era of AI: The paradox of education in Mozambique",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/14/learning-under-trees-in-the-era-of-ai-the-paradox-of-education-in-mozambique/",
     "time": "Sat, 14 Nov 2026"
+  },
+  {
+    "id": 6004,
+    "level": "medium",
+    "country": "🌍",
+    "text": "While Russia tries to manipulate information, local civil society is teaching Ar",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/13/while-russia-tries-to-manipulate-information-local-civil-society-is-teaching-armenians-media-literacy/",
+    "time": "Fri, 13 Nov 2026"
+  },
+  {
+    "id": 5656,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
+    "time": "Thu, 12 Nov 2026"
+  },
+  {
+    "id": 4541,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Ecuadorian youth unite against neoliberal models and state violence",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/12/ecuadorian-youth-unite-against-neoliberal-models-and-state-violence/",
+    "time": "Thu, 12 Nov 2026"
   }
 ]
