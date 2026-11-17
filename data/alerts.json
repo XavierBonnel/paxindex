@@ -1,6 +1,6 @@
 [
   {
-    "id": 8496,
+    "id": 7054,
     "level": "critical",
     "country": "🌍",
     "text": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences ",
@@ -9,7 +9,7 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 8824,
+    "id": 2827,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -18,61 +18,61 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 8269,
+    "id": 8991,
     "level": "critical",
     "country": "🌍",
-    "text": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+    "text": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
     "time": "Tue, 17 Nov 2026"
   },
   {
-    "id": 3972,
+    "id": 4268,
     "level": "critical",
     "country": "🌍",
-    "text": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "text": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
     "time": "Tue, 17 Nov 2026"
   },
   {
-    "id": 9881,
+    "id": 7582,
     "level": "critical",
     "country": "🌍",
-    "text": "Irish court jails man for life over Dublin knife attack that sparked riots",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+    "text": "Guerre en Ukraine : où en sont les pourparlers de paix ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261117-guerre-en-ukraine-o%C3%B9-en-sont-les-pourparlers-de-paix",
     "time": "Tue, 17 Nov 2026"
   },
   {
-    "id": 1164,
+    "id": 6457,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine holds peace talks with US, Europe as conflict escalates",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
-    "time": "Tue, 17 Nov 2026"
-  },
-  {
-    "id": 6577,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-    "time": "Mon, 16 Nov 2026"
-  },
-  {
-    "id": 902,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
+    "text": "🔴 En direct : une partie du pont de Crimée détruite après des frappes ukrainienn",
     "source": "France 24 Monde",
     "link": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
     "time": "Tue, 17 Nov 2026"
   },
   {
-    "id": 561,
+    "id": 4532,
+    "level": "critical",
+    "country": "🌍",
+    "text": "La Russie frappe deux ponts majeurs à Kiev, l'Ukraine cible à nouveau la Crimée",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261117-la-russie-frappe-deux-ponts-majeurs-%C3%A0-kiev-l-ukraine-cible-%C3%A0-nouveau-la-crim%C3%A9e",
+    "time": "Tue, 17 Nov 2026"
+  },
+  {
+    "id": 137,
+    "level": "high",
+    "country": "🌍",
+    "text": "In win against impunity, Indonesian court orders the reform of Military Justice ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/17/in-win-against-impunity-indonesian-court-orders-the-reform-of-military-justice-law/",
+    "time": "Tue, 17 Nov 2026"
+  },
+  {
+    "id": 4175,
     "level": "high",
     "country": "🌍",
     "text": "Making injustice legal: How Israeli law legitimizes apartheid, genocide and impu",
@@ -81,25 +81,7 @@
     "time": "Mon, 16 Nov 2026"
   },
   {
-    "id": 9574,
-    "level": "high",
-    "country": "🌍",
-    "text": "Paraguay ex-president moved to military jail amid special treatment reports",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
-    "time": "Mon, 16 Nov 2026"
-  },
-  {
-    "id": 6565,
-    "level": "high",
-    "country": "🌍",
-    "text": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
-    "time": "Mon, 16 Nov 2026"
-  },
-  {
-    "id": 29,
+    "id": 3394,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -108,7 +90,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 3168,
+    "id": 8974,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -117,7 +99,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7888,
+    "id": 653,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -126,7 +108,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1719,
+    "id": 8282,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -135,7 +117,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 54,
+    "id": 1178,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -144,7 +126,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5385,
+    "id": 6381,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -153,7 +135,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8562,
+    "id": 2690,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -162,7 +144,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3190,
+    "id": 4401,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -171,12 +153,30 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2739,
+    "id": 9786,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-06-01T11:00"
+  },
+  {
+    "id": 7554,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
+    "source": "RAND Corporation",
+    "link": "",
+    "time": "2026-05-26T18:45"
+  },
+  {
+    "id": 112,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Civil society questions decree that could block access to telecommunications net",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/16/civil-society-questions-decree-that-could-block-access-to-telecommunications-networks-in-mozambique/",
+    "time": "Mon, 16 Nov 2026"
   }
 ]
