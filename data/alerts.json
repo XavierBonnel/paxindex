@@ -1,6 +1,6 @@
 [
   {
-    "id": 7363,
+    "id": 8496,
     "level": "critical",
     "country": "🌍",
     "text": "Letter from a jailed Azerbaijani political prisoner reveals deadly consequences ",
@@ -9,7 +9,7 @@
     "time": "Sat, 14 Nov 2026"
   },
   {
-    "id": 2915,
+    "id": 8824,
     "level": "critical",
     "country": "🌍",
     "text": "How medical neglect killed Alfredo Díaz in a Venezuelan cell",
@@ -18,16 +18,61 @@
     "time": "Fri, 13 Nov 2026"
   },
   {
-    "id": 9837,
+    "id": 8269,
     "level": "critical",
     "country": "🌍",
-    "text": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+    "text": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+    "time": "Tue, 17 Nov 2026"
+  },
+  {
+    "id": 3972,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+    "time": "Tue, 17 Nov 2026"
+  },
+  {
+    "id": 9881,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+    "time": "Tue, 17 Nov 2026"
+  },
+  {
+    "id": 1164,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine holds peace talks with US, Europe as conflict escalates",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+    "time": "Tue, 17 Nov 2026"
+  },
+  {
+    "id": 6577,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
     "time": "Mon, 16 Nov 2026"
   },
   {
-    "id": 8353,
+    "id": 902,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Ukraine en direct : deux ponts de Kiev touchés par des frappes russes",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261117-en-direct-ukraine-deux-ponts-kiev-touches-frappes-russes-zelensky-poutine",
+    "time": "Tue, 17 Nov 2026"
+  },
+  {
+    "id": 561,
     "level": "high",
     "country": "🌍",
     "text": "Making injustice legal: How Israeli law legitimizes apartheid, genocide and impu",
@@ -36,16 +81,25 @@
     "time": "Mon, 16 Nov 2026"
   },
   {
-    "id": 4435,
+    "id": 9574,
     "level": "high",
     "country": "🌍",
-    "text": "La Francophonie en crise ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261116-la-francophonie-en-crise",
+    "text": "Paraguay ex-president moved to military jail amid special treatment reports",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
     "time": "Mon, 16 Nov 2026"
   },
   {
-    "id": 3972,
+    "id": 6565,
+    "level": "high",
+    "country": "🌍",
+    "text": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
+    "time": "Mon, 16 Nov 2026"
+  },
+  {
+    "id": 29,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -54,7 +108,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 1961,
+    "id": 3168,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +117,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 1336,
+    "id": 7888,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +126,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 5050,
+    "id": 1719,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +135,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 455,
+    "id": 54,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +144,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 7970,
+    "id": 5385,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +153,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 103,
+    "id": 8562,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +162,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1693,
+    "id": 3190,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,66 +171,12 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 1904,
+    "id": 2739,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 6740,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 9070,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Civil society questions decree that could block access to telecommunications net",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/16/civil-society-questions-decree-that-could-block-access-to-telecommunications-networks-in-mozambique/",
-    "time": "Mon, 16 Nov 2026"
-  },
-  {
-    "id": 7089,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Madagascar aims to support biodiversity by protecting marine areas",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/15/madagascar-aims-to-support-biodiversity-by-protecting-marine-areas/",
-    "time": "Sun, 15 Nov 2026"
-  },
-  {
-    "id": 2928,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Learning under trees in the era of AI: The paradox of education in Mozambique",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/14/learning-under-trees-in-the-era-of-ai-the-paradox-of-education-in-mozambique/",
-    "time": "Sat, 14 Nov 2026"
-  },
-  {
-    "id": 2681,
-    "level": "medium",
-    "country": "🌍",
-    "text": "While Russia tries to manipulate information, local civil society is teaching Ar",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/13/while-russia-tries-to-manipulate-information-local-civil-society-is-teaching-armenians-media-literacy/",
-    "time": "Fri, 13 Nov 2026"
-  },
-  {
-    "id": 2764,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Trinbagonian Jason Jones wins landmark Privy Council judgement deeming ‘buggery ",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/12/trinbagonian-jason-jones-wins-landmark-privy-council-judgement-deeming-buggery-laws-unconstitutional/",
-    "time": "Thu, 12 Nov 2026"
   }
 ]
