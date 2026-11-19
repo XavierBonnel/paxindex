@@ -1,42 +1,42 @@
 [
   {
-    "id": 7763,
+    "id": 6431,
     "level": "critical",
     "country": "🌍",
-    "text": "Conflict Escalation in Yemen - Situation Report #12 (Reporting period: 11 – 17 N",
+    "text": "Around 700,000 displaced amid volatile conflict in southern Ethiopia, Islamic Re",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/yemen/conflict-escalation-yemen-situation-report-12-reporting-period-11-17-november-2026-issued-17-november-2026",
+    "link": "https://reliefweb.int/report/ethiopia/around-700000-displaced-amid-volatile-conflict-southern-ethiopia-islamic-relief-says",
     "time": "Thu, 19 Nov 2026"
   },
   {
-    "id": 721,
+    "id": 962,
     "level": "critical",
     "country": "🌍",
-    "text": "World: A record high of nearly one in four children now live in conflict zones -",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/world/record-high-nearly-one-four-children-now-live-conflict-zones-save-children-report",
+    "text": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
     "time": "Thu, 19 Nov 2026"
   },
   {
-    "id": 6641,
+    "id": 7374,
     "level": "critical",
     "country": "🌍",
-    "text": "World: Global Weather Hazards Summary, November 19, 2026 - November 25, 2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/world/global-weather-hazards-summary-november-19-2026-november-25-2026",
-    "time": "Wed, 18 Nov 2026"
+    "text": "Will laser weapons change warfare?",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
+    "time": "Thu, 19 Nov 2026"
   },
   {
-    "id": 3390,
+    "id": 5018,
     "level": "critical",
     "country": "🌍",
-    "text": "Pont de Crimée attaqué : vrais dégâts, fausses vidéos",
+    "text": "Guerre en Ukraine : le difficile exil des habitants du Donbass",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261118-pont-de-crim%C3%A9e-attaqu%C3%A9-vrais-d%C3%A9g%C3%A2ts-fausses-vid%C3%A9os",
-    "time": "Wed, 18 Nov 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261119-guerre-en-ukraine-le-difficile-exil-des-habitants-du-donbass",
+    "time": "Thu, 19 Nov 2026"
   },
   {
-    "id": 8365,
+    "id": 7679,
     "level": "high",
     "country": "🌍",
     "text": "In win against impunity, Indonesian court orders the reform of Military Justice ",
@@ -45,7 +45,7 @@
     "time": "Tue, 17 Nov 2026"
   },
   {
-    "id": 9937,
+    "id": 264,
     "level": "high",
     "country": "🌍",
     "text": "Making injustice legal: How Israeli law legitimizes apartheid, genocide and impu",
@@ -54,34 +54,16 @@
     "time": "Mon, 16 Nov 2026"
   },
   {
-    "id": 3201,
+    "id": 8166,
     "level": "high",
     "country": "🌍",
-    "text": "ICJ to rule on Rohingya genocide case against Myanmar",
+    "text": "Denmark parliament approves security deal with Greenland and US",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
     "time": "Thu, 19 Nov 2026"
   },
   {
-    "id": 1302,
-    "level": "high",
-    "country": "🌍",
-    "text": "Hegseth unveils new US-Venezuela military deal",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-    "time": "Thu, 19 Nov 2026"
-  },
-  {
-    "id": 9962,
-    "level": "high",
-    "country": "🌍",
-    "text": "Apec : une réunion bilatérale entre Donald Trump et Xi Jinping, avant la rencont",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261118-apec-une-r%C3%A9union-bilat%C3%A9rale-entre-donald-trump-et-xi-jinping-avant-la-rencontre-tripartite",
-    "time": "Wed, 18 Nov 2026"
-  },
-  {
-    "id": 6184,
+    "id": 3560,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -90,7 +72,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 6267,
+    "id": 5385,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -99,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 8055,
+    "id": 346,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -108,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 3314,
+    "id": 4999,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -117,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4325,
+    "id": 5773,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -126,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8751,
+    "id": 7509,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -135,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3984,
+    "id": 3329,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -144,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 802,
+    "id": 5269,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -153,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 2611,
+    "id": 200,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -162,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4062,
+    "id": 2146,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -171,7 +153,25 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 3032,
+    "id": 5898,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Family stories keep alive Georgia’s democratic past and the memory of Soviet rep",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
+    "time": "Thu, 19 Nov 2026"
+  },
+  {
+    "id": 8411,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Support Global Voices’ December Spotlight: Digital Communities",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/19/support-global-voices-december-spotlight-digital-communities/",
+    "time": "Thu, 19 Nov 2026"
+  },
+  {
+    "id": 9926,
     "level": "medium",
     "country": "🌍",
     "text": "In Moldova, teens are learning about democracy and elections through an app",
