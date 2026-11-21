@@ -1,24 +1,33 @@
 [
   {
-    "id": 213,
+    "id": 3160,
     "level": "critical",
     "country": "🌍",
-    "text": "French presidential candidate blames media for racist attack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+    "text": "Growing up displaced in Cameroon after ten years of conflict",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/21/growing-up-displaced-in-cameroon-after-ten-years-of-conflict/",
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 7944,
+    "id": 3541,
     "level": "critical",
     "country": "🌍",
-    "text": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+    "text": "Bahrain says Iranian attack hits industrial facility",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 8886,
+    "id": 7950,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Bahrain says Iranian attack causes fire at industrial facility",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+    "time": "Sat, 21 Nov 2026"
+  },
+  {
+    "id": 6035,
     "level": "critical",
     "country": "🌍",
     "text": "Guerre en Ukraine : deux personnes tuées à Kryvyï Rih",
@@ -27,7 +36,7 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 60,
+    "id": 6308,
     "level": "high",
     "country": "🌍",
     "text": "RD Congo : les combats se poursuivent dans le Sud-Kivu",
@@ -36,7 +45,7 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 1731,
+    "id": 9958,
     "level": "high",
     "country": "🌍",
     "text": "Guinée - Burkina Faso : pourquoi les tensions montent",
@@ -45,7 +54,7 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 794,
+    "id": 7802,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -54,7 +63,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 3014,
+    "id": 9927,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +72,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 8877,
+    "id": 1826,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 6718,
+    "id": 4443,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 165,
+    "id": 9309,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 4221,
+    "id": 6636,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2542,
+    "id": 8193,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2239,
+    "id": 7245,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 4250,
+    "id": 5375,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 1648,
+    "id": 374,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 8754,
+    "id": 6142,
     "level": "medium",
     "country": "🌍",
     "text": "Reclaiming Indigenous culinary histories in Nepal",
@@ -144,7 +153,7 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 7646,
+    "id": 576,
     "level": "medium",
     "country": "🌍",
     "text": "The ongoing efforts to get ecocide recognized at the International Criminal Cour",
@@ -153,7 +162,7 @@
     "time": "Fri, 20 Nov 2026"
   },
   {
-    "id": 1059,
+    "id": 1552,
     "level": "medium",
     "country": "🌍",
     "text": "Why Japan’s anti-hate measures fall short",
@@ -162,21 +171,12 @@
     "time": "Fri, 20 Nov 2026"
   },
   {
-    "id": 5085,
+    "id": 2766,
     "level": "medium",
     "country": "🌍",
     "text": "Family stories keep alive Georgia’s democratic past and the memory of Soviet rep",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
-    "time": "Thu, 19 Nov 2026"
-  },
-  {
-    "id": 3410,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Support Global Voices’ December Spotlight: Digital Communities",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/19/support-global-voices-december-spotlight-digital-communities/",
     "time": "Thu, 19 Nov 2026"
   }
 ]
