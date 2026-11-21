@@ -1,24 +1,87 @@
 [
   {
-    "id": 5379,
+    "id": 9742,
     "level": "critical",
     "country": "🌍",
-    "text": "Swimming lessons offer Gaza’s children a moment of relief",
+    "text": "Iran war live: Saudi-led coalition downs Houthi missiles",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+    "time": "Sat, 21 Nov 2026"
+  },
+  {
+    "id": 2728,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
     "time": "Fri, 20 Nov 2026"
   },
   {
-    "id": 1773,
+    "id": 3428,
     "level": "critical",
     "country": "🌍",
-    "text": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+    "text": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
     "time": "Fri, 20 Nov 2026"
   },
   {
-    "id": 5642,
+    "id": 6176,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+    "time": "Fri, 20 Nov 2026"
+  },
+  {
+    "id": 925,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump threatens tax on US tech firms building AI data centres abroad",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+    "time": "Fri, 20 Nov 2026"
+  },
+  {
+    "id": 3472,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Trump defends Putin relationship, warns AI data centres must stay in US",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+    "time": "Fri, 20 Nov 2026"
+  },
+  {
+    "id": 4935,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+    "time": "Fri, 20 Nov 2026"
+  },
+  {
+    "id": 9353,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Mission Volia : la France en guerre contre la Russie ?",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261120-mission-volia-la-france-en-guerre-contre-la-russie",
+    "time": "Fri, 20 Nov 2026"
+  },
+  {
+    "id": 7887,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Sommet de Shenzhen, guerre en Ukraine, hostilités dans le Golfe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261120-sommet-de-shenzhen-guerre-en-ukraine-hostilit%C3%A9s-dans-le-golfe",
+    "time": "Fri, 20 Nov 2026"
+  },
+  {
+    "id": 2218,
     "level": "critical",
     "country": "🌍",
     "text": "Sans Starlink, l'Ukraine à l'assaut du pont de Crimée avec des drones relais",
@@ -27,16 +90,25 @@
     "time": "Fri, 20 Nov 2026"
   },
   {
-    "id": 9347,
-    "level": "critical",
+    "id": 9830,
+    "level": "high",
     "country": "🌍",
-    "text": "États-Unis : l'hippopotame star du zoo de Cincinnati est morte",
+    "text": "In win against impunity, Indonesian court orders the reform of Military Justice ",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/17/in-win-against-impunity-indonesian-court-orders-the-reform-of-military-justice-law/",
+    "time": "Tue, 17 Nov 2026"
+  },
+  {
+    "id": 3673,
+    "level": "high",
+    "country": "🌍",
+    "text": "Guinée/Burkina Faso: tensions après la diffusion de caricatures de M. Doumbouya",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261120-%C3%A9tats-unis-l-hippopotame-star-du-zoo-de-cincinnati-est-morte",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya",
     "time": "Fri, 20 Nov 2026"
   },
   {
-    "id": 3278,
+    "id": 8317,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -45,7 +117,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 1716,
+    "id": 8000,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -54,7 +126,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7583,
+    "id": 9266,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -63,7 +135,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 9716,
+    "id": 9898,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -72,7 +144,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 8408,
+    "id": 5254,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -81,7 +153,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 8304,
+    "id": 9061,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -90,7 +162,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 730,
+    "id": 332,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -99,84 +171,12 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 1668,
+    "id": 7757,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
     "source": "RAND Corporation",
     "link": "",
     "time": "2026-06-08T07:00"
-  },
-  {
-    "id": 6335,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-06-01T11:00"
-  },
-  {
-    "id": 8028,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
-    "source": "RAND Corporation",
-    "link": "",
-    "time": "2026-05-26T18:45"
-  },
-  {
-    "id": 2306,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ecuador: Latin America & The Caribbean Weekly Situation Update as of 20 November",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/ecuador/latin-america-caribbean-weekly-situation-update-20-november-2026",
-    "time": "Fri, 20 Nov 2026"
-  },
-  {
-    "id": 9179,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Ecuador: Latinoamérica y El Caribe Resumen de Situación Semanal al 20 de noviemb",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/ecuador/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-20-de-noviembre-2026",
-    "time": "Fri, 20 Nov 2026"
-  },
-  {
-    "id": 906,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Jamaica: IOM Hurricane Melissa Situation Report #20",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/jamaica/iom-hurricane-melissa-situation-report-20",
-    "time": "Fri, 20 Nov 2026"
-  },
-  {
-    "id": 562,
-    "level": "medium",
-    "country": "🌍",
-    "text": "India, Bangladesh | Tropical storm AKVAN - DG ECHO Daily Map | 20/11/2026",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/map/bangladesh/india-bangladesh-tropical-storm-akvan-dg-echo-daily-map-20112026",
-    "time": "Fri, 20 Nov 2026"
-  },
-  {
-    "id": 4924,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Haiti: Haïti : Cluster Abris, Terre et Coordination des Sites (SLSC) – Aperçu me",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/haiti/haiti-cluster-abris-terre-et-coordination-des-sites-slsc-apercu-mensuel-octobre-2026",
-    "time": "Fri, 20 Nov 2026"
-  },
-  {
-    "id": 9478,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Accountability to Affected Populations (AAP) Working Group South Sudan Meeting M",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/south-sudan/accountability-affected-populations-aap-working-group-south-sudan-meeting-minutes-25-may-2026",
-    "time": "Fri, 20 Nov 2026"
   }
 ]
