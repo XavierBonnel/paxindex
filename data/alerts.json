@@ -1,78 +1,51 @@
 [
   {
-    "id": 98,
+    "id": 213,
     "level": "critical",
     "country": "🌍",
-    "text": "Swimmer braves tanker attacks to expose Hormuz contamination",
+    "text": "French presidential candidate blames media for racist attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 4315,
+    "id": 7944,
     "level": "critical",
     "country": "🌍",
-    "text": "Can mediation succeed in a war-torn world? | Episode 1",
+    "text": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 4874,
+    "id": 8886,
     "level": "critical",
     "country": "🌍",
-    "text": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-    "time": "Sat, 21 Nov 2026"
-  },
-  {
-    "id": 1897,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Emergency crews in Ukraine hit by a double-tap strike",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
-    "time": "Sat, 21 Nov 2026"
-  },
-  {
-    "id": 4629,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Enigma : le général Bertrand, le Français qui a contribué à casser la machine de",
+    "text": "Guerre en Ukraine : deux personnes tuées à Kryvyï Rih",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261121-enigma-role-francais-machine-crypter-nazis-general-bertrand-guerre-mondiale",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-guerre-en-ukraine-deux-personnes-tu%C3%A9es-%C3%A0-kryvy%C3%AF-rih",
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 3425,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mission Volia : la France en guerre contre la Russie ?",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261120-mission-volia-la-france-en-guerre-contre-la-russie",
-    "time": "Fri, 20 Nov 2026"
-  },
-  {
-    "id": 6371,
+    "id": 60,
     "level": "high",
     "country": "🌍",
-    "text": "L'Arabie saoudite dit avoir intercepté des missiles lancés par les Houthis vers ",
+    "text": "RD Congo : les combats se poursuivent dans le Sud-Kivu",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/moyen-orient/20261121-l-arabie-saoudite-dit-avoir-intercept%C3%A9-des-missiles-lanc%C3%A9s-par-les-houthis-vers-riyad",
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-rd-congo-les-combats-se-poursuivent-dans-le-sud-kivu",
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 3160,
+    "id": 1731,
     "level": "high",
     "country": "🌍",
-    "text": "Guinée/Burkina Faso: tensions après la diffusion de caricatures de M. Doumbouya",
+    "text": "Guinée - Burkina Faso : pourquoi les tensions montent",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261120-guin%C3%A9e-burkina-faso-tensions-apr%C3%A8s-la-diffusion-de-caricatures-de-m-doumbouya",
-    "time": "Fri, 20 Nov 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-guin%C3%A9e-burkina-faso-pourquoi-les-tensions-montent",
+    "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 4902,
+    "id": 794,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -81,7 +54,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 9623,
+    "id": 3014,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -90,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 7787,
+    "id": 8877,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 2660,
+    "id": 6718,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6622,
+    "id": 165,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 6143,
+    "id": 4221,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 235,
+    "id": 2542,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 4104,
+    "id": 2239,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 904,
+    "id": 4250,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 5026,
+    "id": 1648,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2459,
+    "id": 8754,
     "level": "medium",
     "country": "🌍",
     "text": "Reclaiming Indigenous culinary histories in Nepal",
@@ -171,12 +144,39 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 420,
+    "id": 7646,
     "level": "medium",
     "country": "🌍",
     "text": "The ongoing efforts to get ecocide recognized at the International Criminal Cour",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/",
     "time": "Fri, 20 Nov 2026"
+  },
+  {
+    "id": 1059,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Why Japan’s anti-hate measures fall short",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/20/why-japans-anti-hate-measures-fall-short/",
+    "time": "Fri, 20 Nov 2026"
+  },
+  {
+    "id": 5085,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Family stories keep alive Georgia’s democratic past and the memory of Soviet rep",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/19/sharing-family-histories-about-a-region-in-georgias-democratic-past-and-soviet-repression/",
+    "time": "Thu, 19 Nov 2026"
+  },
+  {
+    "id": 3410,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Support Global Voices’ December Spotlight: Digital Communities",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/19/support-global-voices-december-spotlight-digital-communities/",
+    "time": "Thu, 19 Nov 2026"
   }
 ]
