@@ -1,6 +1,6 @@
 [
   {
-    "id": 1570,
+    "id": 4138,
     "level": "critical",
     "country": "🌍",
     "text": "Growing up displaced in Cameroon after ten years of conflict",
@@ -9,7 +9,7 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 5117,
+    "id": 755,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine Health Cluster Partner Emergency Response to Attacks, as of 31 October 2",
@@ -18,7 +18,7 @@
     "time": "Sun, 22 Nov 2026"
   },
   {
-    "id": 1703,
+    "id": 1328,
     "level": "critical",
     "country": "🌍",
     "text": "Statement by the United Nations Resident and Humanitarian Coordinator in Sudan, ",
@@ -27,43 +27,25 @@
     "time": "Sun, 22 Nov 2026"
   },
   {
-    "id": 7981,
+    "id": 9711,
     "level": "critical",
     "country": "🌍",
-    "text": "Civilians killed in RSF drone strikes in Sudan",
+    "text": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
     "time": "Sun, 22 Nov 2026"
   },
   {
-    "id": 4492,
+    "id": 9161,
     "level": "critical",
     "country": "🌍",
-    "text": "Suspected drone attack causes explosion on Russian ship in Libya",
+    "text": "Second ship targeted in series of naval drone attacks off Libyan coast",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
     "time": "Sun, 22 Nov 2026"
   },
   {
-    "id": 7568,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-    "time": "Sun, 22 Nov 2026"
-  },
-  {
-    "id": 493,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-    "time": "Sun, 22 Nov 2026"
-  },
-  {
-    "id": 298,
+    "id": 7898,
     "level": "critical",
     "country": "🌍",
     "text": "Ukraine : au moins deux morts après une frappe de drone russe contre un immeuble",
@@ -72,7 +54,16 @@
     "time": "Sun, 22 Nov 2026"
   },
   {
-    "id": 2304,
+    "id": 8485,
+    "level": "high",
+    "country": "🌍",
+    "text": "Libye : deux navires attaqués par des drones maritimes, dont un bateau russe",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20261122-libye-drones-maritimes-attaqu%C3%A9-deux-navires-bateau-russe-guerre",
+    "time": "Sun, 22 Nov 2026"
+  },
+  {
+    "id": 1835,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -81,7 +72,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 3508,
+    "id": 1222,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -90,7 +81,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 3493,
+    "id": 32,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +90,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 6544,
+    "id": 5294,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +99,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 866,
+    "id": 9076,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +108,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1532,
+    "id": 2582,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +117,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3304,
+    "id": 4698,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +126,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8092,
+    "id": 7186,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +135,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8376,
+    "id": 3666,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +144,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 562,
+    "id": 3989,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +153,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1914,
+    "id": 2534,
     "level": "medium",
     "country": "🌍",
     "text": "Breaking the silence: Pratishta’s journey from childhood abuse to advocacy",
@@ -171,12 +162,21 @@
     "time": "Sun, 22 Nov 2026"
   },
   {
-    "id": 3818,
+    "id": 3238,
     "level": "medium",
     "country": "🌍",
     "text": "Reclaiming Indigenous culinary histories in Nepal",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/21/rereclaiming-indigenous-culinary-histories-in-nepal/",
     "time": "Sat, 21 Nov 2026"
+  },
+  {
+    "id": 9655,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The ongoing efforts to get ecocide recognized at the International Criminal Cour",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/",
+    "time": "Fri, 20 Nov 2026"
   }
 ]
