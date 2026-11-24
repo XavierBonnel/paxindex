@@ -1,60 +1,78 @@
 [
   {
-    "id": 3758,
+    "id": 1413,
     "level": "critical",
     "country": "🌍",
-    "text": "Growing up displaced in Cameroon after ten years of conflict",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/21/growing-up-displaced-in-cameroon-after-ten-years-of-conflict/",
-    "time": "Sat, 21 Nov 2026"
-  },
-  {
-    "id": 9068,
-    "level": "critical",
-    "country": "🌍",
-    "text": "South Sudan | Conflict, fragilities and population displacement October 2026 - D",
+    "text": "Ethiopia: Lethal artillery strikes on civilian neighbourhoods in Tigray’s Alamat",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/map/south-sudan/south-sudan-conflict-fragilities-and-population-displacement-october-2026-dg-echo-daily-map-23112026",
-    "time": "Mon, 23 Nov 2026"
+    "link": "https://reliefweb.int/report/ethiopia/ethiopia-lethal-artillery-strikes-civilian-neighbourhoods-tigrays-alamata-city-must-be-investigated-war-crimes",
+    "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 1846,
+    "id": 2367,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran hits US bases and civilian sites in the Gulf after a lull",
+    "text": "Car bomb strikes governor’s office in Meta, Colombia",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
-    "time": "Mon, 23 Nov 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia?traffic_source=rss",
+    "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 3695,
+    "id": 9523,
     "level": "critical",
     "country": "🌍",
-    "text": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+    "text": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
-    "time": "Mon, 23 Nov 2026"
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+    "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 6002,
+    "id": 8947,
     "level": "critical",
     "country": "🌍",
-    "text": "\"Notre avenir plutôt que leurs guerres\" : en Europe, la jeunesse se mobilise con",
+    "text": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudienne",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261123-notre-avenir-plut%C3%B4t-guerres-europe-jeunesse-mobilise-contre-r%C3%A9armement",
-    "time": "Mon, 23 Nov 2026"
+    "link": "https://www.france24.com/fr/moyen-orient/20261124-yemen-houthis-deplorent-25-morts-disparus-frappes-saoudiennes",
+    "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 5073,
+    "id": 643,
     "level": "critical",
     "country": "🌍",
-    "text": "Navires russes ciblés en Libye : l'Ukraine étend le domaine de la lutte",
+    "text": "L'attaque ukrainienne à Benghazi attise les tensions en Libye et en Méditerranée",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261123-navires-russes-cibl%C3%A9s-libye-face-moscou-ukraine-%C3%A9tend-domaine-lutte",
+    "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261123-l-attaque-ukrainienne-%C3%A0-benghazi-attise-les-tensions-en-libye-et-en-m%C3%A9diterran%C3%A9e",
     "time": "Mon, 23 Nov 2026"
   },
   {
-    "id": 1057,
+    "id": 604,
+    "level": "high",
+    "country": "🌍",
+    "text": "WHO chief visits Cuba as healthcare system deteriorates",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
+    "time": "Tue, 24 Nov 2026"
+  },
+  {
+    "id": 4316,
+    "level": "high",
+    "country": "🌍",
+    "text": "Megaspeed, société singapourienne au cœur du scandale Nvidia, placée sur liste n",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9co-tech/20261123-megaspeed-societe-singapour-scandale-nvidia-placee-liste-noire-etats-unis-chine",
+    "time": "Mon, 23 Nov 2026"
+  },
+  {
+    "id": 1365,
+    "level": "high",
+    "country": "🌍",
+    "text": "RD Congo : une messe interdite, tensions entre l'Eglise et les autorités",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261123-rd-congo-une-messe-interdite-tensions-entre-l-eglise-et-les-autorit%C3%A9s",
+    "time": "Mon, 23 Nov 2026"
+  },
+  {
+    "id": 5286,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -63,7 +81,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 9847,
+    "id": 6665,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -72,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 9129,
+    "id": 7789,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -81,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1797,
+    "id": 3373,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 1404,
+    "id": 43,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5109,
+    "id": 5119,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 6447,
+    "id": 419,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 8037,
+    "id": 4377,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 3920,
+    "id": 2701,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9726,
+    "id": 4064,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,39 +162,21 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 7300,
+    "id": 3739,
     "level": "medium",
     "country": "🌍",
-    "text": "Nigerien women lose their rights before ever reaching a courtroom",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/23/nigerien-women-lose-their-rights-before-ever-reaching-a-courtroom/",
-    "time": "Mon, 23 Nov 2026"
+    "text": "Nepal: Rasuwa Flood Situation Report No. 13 (As of 20 November 2026)",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/nepal/nepal-rasuwa-flood-situation-report-no-13-20-november-2026",
+    "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 3115,
+    "id": 858,
     "level": "medium",
     "country": "🌍",
-    "text": "Breaking the silence: Pratishta’s journey from childhood abuse to advocacy",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/22/breaking-the-silence-pratishtas-journey-from-childhood-abuse-to-advocacy/",
-    "time": "Sun, 22 Nov 2026"
-  },
-  {
-    "id": 4758,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Reclaiming Indigenous culinary histories in Nepal",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/21/rereclaiming-indigenous-culinary-histories-in-nepal/",
-    "time": "Sat, 21 Nov 2026"
-  },
-  {
-    "id": 3724,
-    "level": "medium",
-    "country": "🌍",
-    "text": "The ongoing efforts to get ecocide recognized at the International Criminal Cour",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/",
-    "time": "Fri, 20 Nov 2026"
+    "text": "Briefing by Alexander De Croo, UNDP Administrator, to the UN Security Council on",
+    "source": "ReliefWeb — Conflits",
+    "link": "https://reliefweb.int/report/ukraine/briefing-alexander-de-croo-undp-administrator-un-security-council-energy-needs-and-reconstruction-efforts-ukraine",
+    "time": "Tue, 24 Nov 2026"
   }
 ]
