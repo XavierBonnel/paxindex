@@ -1,6 +1,6 @@
 [
   {
-    "id": 7626,
+    "id": 2589,
     "level": "critical",
     "country": "🌍",
     "text": "Growing up displaced in Cameroon after ten years of conflict",
@@ -9,61 +9,43 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 9453,
+    "id": 7294,
     "level": "critical",
     "country": "🌍",
-    "text": "After Libya, where will Ukraine strike Russia next?",
+    "text": "Poll finds US voters want government to end Iran war regardless of terms",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+    "time": "Wed, 25 Nov 2026"
+  },
+  {
+    "id": 8091,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+    "time": "Wed, 25 Nov 2026"
+  },
+  {
+    "id": 3253,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
     "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 1030,
+    "id": 2141,
     "level": "critical",
     "country": "🌍",
-    "text": "‘Unfinished Beginnings’: Art installation for children affected by war",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
-    "time": "Tue, 24 Nov 2026"
-  },
-  {
-    "id": 2933,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Five women killed every hour globally by partner, relative last year: UN",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss",
-    "time": "Tue, 24 Nov 2026"
-  },
-  {
-    "id": 3558,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Mort de Nahel : la réaction de la famille après le pourvoi en cassation du polic",
+    "text": "Ukraine : une guerre sans frontières ?",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/vid%C3%A9o/20261124-mort-de-nahel-la-r%C3%A9action-de-la-famille-apr%C3%A8s-le-pourvoi-en-cassation-du-policier-mis-en-cause",
+    "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261124-ukraine-une-guerre-sans-fronti%C3%A8res",
     "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 8556,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Plus de 700 000 soldats russes morts en Ukraine : ce que l'on sait de cette nouv",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261124-plus-700-000-soldats-russes-morts-ukraine-sait-cette-nouvelle-estimation",
-    "time": "Tue, 24 Nov 2026"
-  },
-  {
-    "id": 2966,
-    "level": "high",
-    "country": "🌍",
-    "text": "Qatar urges restraint and dialogue amid US-Iran tensions",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss",
-    "time": "Tue, 24 Nov 2026"
-  },
-  {
-    "id": 7226,
+    "id": 1456,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -72,7 +54,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 1898,
+    "id": 5294,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -81,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 1873,
+    "id": 5636,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -90,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 4828,
+    "id": 6103,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -99,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 7571,
+    "id": 7578,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -108,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1742,
+    "id": 6639,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -117,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 3884,
+    "id": 8099,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -126,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 2079,
+    "id": 3896,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -135,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 856,
+    "id": 8525,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -144,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 9204,
+    "id": 2817,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -153,7 +135,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2247,
+    "id": 6507,
     "level": "medium",
     "country": "🌍",
     "text": "In Kyrgyzstan, public meetings with the president turn into a quest to seek just",
@@ -162,7 +144,7 @@
     "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 7385,
+    "id": 1001,
     "level": "medium",
     "country": "🌍",
     "text": "Nigerien women lose their rights before ever reaching a courtroom",
@@ -171,12 +153,30 @@
     "time": "Mon, 23 Nov 2026"
   },
   {
-    "id": 4402,
+    "id": 1618,
     "level": "medium",
     "country": "🌍",
     "text": "Breaking the silence: Pratishta’s journey from childhood abuse to advocacy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/22/breaking-the-silence-pratishtas-journey-from-childhood-abuse-to-advocacy/",
     "time": "Sun, 22 Nov 2026"
+  },
+  {
+    "id": 8604,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Reclaiming Indigenous culinary histories in Nepal",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/21/rereclaiming-indigenous-culinary-histories-in-nepal/",
+    "time": "Sat, 21 Nov 2026"
+  },
+  {
+    "id": 2912,
+    "level": "medium",
+    "country": "🌍",
+    "text": "The ongoing efforts to get ecocide recognized at the International Criminal Cour",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/20/the-ongoing-efforts-to-get-ecocide-recognized-at-the-international-criminal-court/",
+    "time": "Fri, 20 Nov 2026"
   }
 ]
