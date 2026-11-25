@@ -1,6 +1,6 @@
 [
   {
-    "id": 4855,
+    "id": 9064,
     "level": "critical",
     "country": "🌍",
     "text": "Growing up displaced in Cameroon after ten years of conflict",
@@ -9,43 +9,52 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 6849,
+    "id": 7838,
     "level": "critical",
     "country": "🌍",
-    "text": "Technical workshop in Syria advances disaster risk knowledge for inclusive multi",
+    "text": "Conflict Response in Baidoa, Somalia: Situation Report #2 (November 25, 2026)",
     "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/syrian-arab-republic/technical-workshop-syria-advances-disaster-risk-knowledge-inclusive-multi-hazard-early-warning-systems-and-anticipatory-action",
+    "link": "https://reliefweb.int/report/somalia/conflict-response-baidoa-somalia-situation-report-2-november-25-2026",
     "time": "Wed, 25 Nov 2026"
   },
   {
-    "id": 9957,
+    "id": 1309,
     "level": "critical",
     "country": "🌍",
-    "text": "Overnight RSF drone attacks kill 19 in Sudan",
+    "text": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
     "time": "Wed, 25 Nov 2026"
   },
   {
-    "id": 3765,
+    "id": 2999,
     "level": "critical",
     "country": "🌍",
-    "text": "Fire breaks out following drone strikes on a residential area in Al Damazin",
+    "text": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
     "time": "Wed, 25 Nov 2026"
   },
   {
-    "id": 9550,
+    "id": 3084,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli strike kills Hamas official, his wife and children",
+    "text": "Dozens killed in Egypt vehicle fire",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
     "time": "Wed, 25 Nov 2026"
   },
   {
-    "id": 7027,
+    "id": 9943,
+    "level": "critical",
+    "country": "🌍",
+    "text": "\"Ce n'est pas notre guerre\" : Teddy Riner exhorte à arrêter de donner de l'argen",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/france/20261125-notre-guerre-teddy-riner-exhorte-arr%C3%AAter-donner-argent-ukraine-%C3%A9lection-fran%C3%A7aise-pr%C3%A9sidentielle",
+    "time": "Wed, 25 Nov 2026"
+  },
+  {
+    "id": 4261,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -54,7 +63,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 5126,
+    "id": 2631,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -63,7 +72,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 5990,
+    "id": 7359,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -72,7 +81,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 730,
+    "id": 3685,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -81,7 +90,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 4739,
+    "id": 224,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -90,7 +99,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 1451,
+    "id": 7143,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -99,7 +108,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 7197,
+    "id": 366,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -108,7 +117,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 3313,
+    "id": 1000,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -117,7 +126,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5701,
+    "id": 9425,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -126,7 +135,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4664,
+    "id": 9597,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -135,7 +144,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1374,
+    "id": 3662,
     "level": "medium",
     "country": "🌍",
     "text": "Jailed for being poor, forgotten by slow courts in Nigeria, saved by strangers o",
@@ -144,7 +153,7 @@
     "time": "Wed, 25 Nov 2026"
   },
   {
-    "id": 3526,
+    "id": 217,
     "level": "medium",
     "country": "🌍",
     "text": "In Kyrgyzstan, public meetings with the president turn into a quest to seek just",
@@ -153,7 +162,7 @@
     "time": "Tue, 24 Nov 2026"
   },
   {
-    "id": 5822,
+    "id": 2430,
     "level": "medium",
     "country": "🌍",
     "text": "Nigerien women lose their rights before ever reaching a courtroom",
@@ -162,21 +171,12 @@
     "time": "Mon, 23 Nov 2026"
   },
   {
-    "id": 912,
+    "id": 6866,
     "level": "medium",
     "country": "🌍",
     "text": "Breaking the silence: Pratishta’s journey from childhood abuse to advocacy",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/22/breaking-the-silence-pratishtas-journey-from-childhood-abuse-to-advocacy/",
     "time": "Sun, 22 Nov 2026"
-  },
-  {
-    "id": 6873,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Reclaiming Indigenous culinary histories in Nepal",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/21/rereclaiming-indigenous-culinary-histories-in-nepal/",
-    "time": "Sat, 21 Nov 2026"
   }
 ]
