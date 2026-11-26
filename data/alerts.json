@@ -1,6 +1,6 @@
 [
   {
-    "id": 4397,
+    "id": 4628,
     "level": "critical",
     "country": "🌍",
     "text": "Growing up displaced in Cameroon after ten years of conflict",
@@ -9,52 +9,70 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 1789,
+    "id": 6717,
     "level": "critical",
     "country": "🌍",
-    "text": "The Persecution Continues: Minority Communities Under Sustained Attack in Bangla",
-    "source": "ReliefWeb — Conflits",
-    "link": "https://reliefweb.int/report/bangladesh/persecution-continues-minority-communities-under-sustained-attack-bangladesh-january-october-2026",
-    "time": "Thu, 26 Nov 2026"
-  },
-  {
-    "id": 7349,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Can Trump continue with Iran war despite funding restrictions?",
+    "text": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
     "time": "Thu, 26 Nov 2026"
   },
   {
-    "id": 2100,
+    "id": 8099,
     "level": "critical",
     "country": "🌍",
-    "text": "Jordan Parliament debates ‘antiterror’ law after deadly Karak church attack",
+    "text": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/26/jordan-parliament-debates-antiterror-law-after-deadly-karak-church-attack?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
     "time": "Thu, 26 Nov 2026"
   },
   {
-    "id": 7939,
+    "id": 1777,
     "level": "critical",
     "country": "🌍",
-    "text": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+    "text": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
     "time": "Thu, 26 Nov 2026"
   },
   {
-    "id": 7330,
+    "id": 9774,
     "level": "critical",
     "country": "🌍",
-    "text": "FIFA says personal and business information stolen in cyberattack",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+    "text": "Navires russes ciblés en Libye : l'Algérie \"n'accepte pas\" que la guerre \"s'éten",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/afrique/20261126-navires-russes-cibl%C3%A9s-libye-alg%C3%A9rie-n-accepte-pas-guerre-s-%C3%A9tende-maghreb",
     "time": "Thu, 26 Nov 2026"
   },
   {
-    "id": 5154,
+    "id": 9395,
+    "level": "critical",
+    "country": "🌍",
+    "text": "Navires russes ciblés en Libye : les frappes ukrainiennes étaient-elles légales ",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-les-frappes-ukrainiennes-%C3%A9taient-elles-l%C3%A9gales",
+    "time": "Thu, 26 Nov 2026"
+  },
+  {
+    "id": 4461,
+    "level": "high",
+    "country": "🌍",
+    "text": "Bukele assoit sa popularité en Haïti",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261126-bukele-assoit-sa-popularit%C3%A9-en-ha%C3%AFti",
+    "time": "Thu, 26 Nov 2026"
+  },
+  {
+    "id": 2907,
+    "level": "high",
+    "country": "🌍",
+    "text": "Navires russes ciblés en Libye : que sait-on des drones navals utilisés par l'ar",
+    "source": "France 24 Monde",
+    "link": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-que-sait-on-drones-navals-utilis%C3%A9s-arm%C3%A9e-ukrainienne",
+    "time": "Thu, 26 Nov 2026"
+  },
+  {
+    "id": 1118,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -63,7 +81,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 5440,
+    "id": 2123,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -72,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 6630,
+    "id": 3680,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -81,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1413,
+    "id": 3805,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -90,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 3552,
+    "id": 313,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -99,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 5472,
+    "id": 3084,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -108,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 2168,
+    "id": 1937,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -117,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 6205,
+    "id": 295,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -126,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 6008,
+    "id": 5227,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -135,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 4280,
+    "id": 7850,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -144,7 +162,7 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 909,
+    "id": 2986,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices’ January Spotlight: Independent journalism",
@@ -153,30 +171,12 @@
     "time": "Thu, 26 Nov 2026"
   },
   {
-    "id": 3317,
+    "id": 1660,
     "level": "medium",
     "country": "🌍",
     "text": "Jailed for being poor, forgotten by slow courts in Nigeria, saved by strangers o",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/25/jailed-for-being-poor-forgotten-by-slow-courts-in-nigeria-saved-by-strangers-online/",
     "time": "Wed, 25 Nov 2026"
-  },
-  {
-    "id": 7647,
-    "level": "medium",
-    "country": "🌍",
-    "text": "In Kyrgyzstan, public meetings with the president turn into a quest to seek just",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/24/in-kyrgyzstan-public-meetings-with-the-president-turn-into-a-quest-to-seek-justice/",
-    "time": "Tue, 24 Nov 2026"
-  },
-  {
-    "id": 8824,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Nigerien women lose their rights before ever reaching a courtroom",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/23/nigerien-women-lose-their-rights-before-ever-reaching-a-courtroom/",
-    "time": "Mon, 23 Nov 2026"
   }
 ]
