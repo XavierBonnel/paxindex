@@ -1,6 +1,6 @@
 [
   {
-    "id": 4628,
+    "id": 1050,
     "level": "critical",
     "country": "🌍",
     "text": "Growing up displaced in Cameroon after ten years of conflict",
@@ -9,70 +9,43 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 6717,
+    "id": 5738,
     "level": "critical",
     "country": "🌍",
-    "text": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+    "text": "Can the Mecca pact turn its collective defence promise into real support?",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
-    "time": "Thu, 26 Nov 2026"
+    "link": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+    "time": "Fri, 27 Nov 2026"
   },
   {
-    "id": 8099,
+    "id": 3614,
     "level": "critical",
     "country": "🌍",
-    "text": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-    "time": "Thu, 26 Nov 2026"
-  },
-  {
-    "id": 1777,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-    "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-    "time": "Thu, 26 Nov 2026"
-  },
-  {
-    "id": 9774,
-    "level": "critical",
-    "country": "🌍",
-    "text": "Navires russes ciblés en Libye : l'Algérie \"n'accepte pas\" que la guerre \"s'éten",
+    "text": "En direct : Trump dit souhaiter que Poutine \"mette fin à toute agression militai",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/afrique/20261126-navires-russes-cibl%C3%A9s-libye-alg%C3%A9rie-n-accepte-pas-guerre-s-%C3%A9tende-maghreb",
-    "time": "Thu, 26 Nov 2026"
+    "link": "https://www.france24.com/fr/europe/20261127-en-direct-trump-dit-souhaiter-que-poutine-mette-fin-%C3%A0-toute-agression-militaire-en-europe",
+    "time": "Fri, 27 Nov 2026"
   },
   {
-    "id": 9395,
+    "id": 1584,
     "level": "critical",
     "country": "🌍",
-    "text": "Navires russes ciblés en Libye : les frappes ukrainiennes étaient-elles légales ",
+    "text": "Des intempéries frappent les États-Unis, pas de parade pour Thanksgiving à New Y",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-les-frappes-ukrainiennes-%C3%A9taient-elles-l%C3%A9gales",
-    "time": "Thu, 26 Nov 2026"
+    "link": "https://www.france24.com/fr/vid%C3%A9o/20261127-des-intemp%C3%A9ries-frappent-les-%C3%A9tats-unis-pas-de-parade-pour-thanksgiving-%C3%A0-new-york",
+    "time": "Fri, 27 Nov 2026"
   },
   {
-    "id": 4461,
+    "id": 8526,
     "level": "high",
     "country": "🌍",
-    "text": "Bukele assoit sa popularité en Haïti",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261126-bukele-assoit-sa-popularit%C3%A9-en-ha%C3%AFti",
-    "time": "Thu, 26 Nov 2026"
+    "text": "Western sanctions on Israeli settlers serve to shield the Israeli state",
+    "source": "Al Jazeera English",
+    "link": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+    "time": "Fri, 27 Nov 2026"
   },
   {
-    "id": 2907,
-    "level": "high",
-    "country": "🌍",
-    "text": "Navires russes ciblés en Libye : que sait-on des drones navals utilisés par l'ar",
-    "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-que-sait-on-drones-navals-utilis%C3%A9s-arm%C3%A9e-ukrainienne",
-    "time": "Thu, 26 Nov 2026"
-  },
-  {
-    "id": 1118,
+    "id": 6353,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -81,7 +54,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 2123,
+    "id": 9165,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -90,7 +63,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 3680,
+    "id": 3863,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +72,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 3805,
+    "id": 5658,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +81,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 313,
+    "id": 2454,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +90,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 3084,
+    "id": 723,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +99,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 1937,
+    "id": 7474,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +108,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 295,
+    "id": 2394,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +117,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 5227,
+    "id": 6276,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +126,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 7850,
+    "id": 586,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,7 +135,16 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 2986,
+    "id": 2862,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Who speaks for the voiceless in Tanzania?",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/27/who-speaks-for-the-voiceless-in-tanzania/",
+    "time": "Fri, 27 Nov 2026"
+  },
+  {
+    "id": 5212,
     "level": "medium",
     "country": "🌍",
     "text": "Support Global Voices’ January Spotlight: Independent journalism",
@@ -171,12 +153,30 @@
     "time": "Thu, 26 Nov 2026"
   },
   {
-    "id": 1660,
+    "id": 185,
     "level": "medium",
     "country": "🌍",
     "text": "Jailed for being poor, forgotten by slow courts in Nigeria, saved by strangers o",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/25/jailed-for-being-poor-forgotten-by-slow-courts-in-nigeria-saved-by-strangers-online/",
     "time": "Wed, 25 Nov 2026"
+  },
+  {
+    "id": 8274,
+    "level": "medium",
+    "country": "🌍",
+    "text": "In Kyrgyzstan, public meetings with the president turn into a quest to seek just",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/24/in-kyrgyzstan-public-meetings-with-the-president-turn-into-a-quest-to-seek-justice/",
+    "time": "Tue, 24 Nov 2026"
+  },
+  {
+    "id": 650,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Nigerien women lose their rights before ever reaching a courtroom",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/23/nigerien-women-lose-their-rights-before-ever-reaching-a-courtroom/",
+    "time": "Mon, 23 Nov 2026"
   }
 ]
