@@ -1,6 +1,6 @@
 [
   {
-    "id": 6654,
+    "id": 9942,
     "level": "critical",
     "country": "🌍",
     "text": "Growing up displaced in Cameroon after ten years of conflict",
@@ -9,7 +9,7 @@
     "time": "Sat, 21 Nov 2026"
   },
   {
-    "id": 5238,
+    "id": 3149,
     "level": "critical",
     "country": "🌍",
     "text": "Sudan FaSER - Alert Summary Report: conflict-induced Displacement, Al Ferdous Lo",
@@ -18,61 +18,61 @@
     "time": "Fri, 27 Nov 2026"
   },
   {
-    "id": 1275,
+    "id": 3386,
     "level": "critical",
     "country": "🌍",
-    "text": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+    "text": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
     "time": "Sat, 28 Nov 2026"
   },
   {
-    "id": 3547,
+    "id": 1437,
     "level": "critical",
     "country": "🌍",
-    "text": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+    "text": "What can we learn from successful peace deals? | Episode 2",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
-    "time": "Fri, 27 Nov 2026"
+    "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/28/what-can-we-learn-from-successful-peace-deals-episode-2?traffic_source=rss",
+    "time": "Sat, 28 Nov 2026"
   },
   {
-    "id": 1446,
+    "id": 9342,
     "level": "critical",
     "country": "🌍",
-    "text": "US disables ship attempting to breach Iran blockade",
+    "text": "At least six students killed in blast beside school in Afghanistan’s Kunar",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-    "time": "Fri, 27 Nov 2026"
+    "link": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+    "time": "Sat, 28 Nov 2026"
   },
   {
-    "id": 6888,
+    "id": 3845,
     "level": "critical",
     "country": "🌍",
-    "text": "Guerre en Ukraine, Nvidia, législatives en Espagne, verdict de la CAN",
+    "text": "En direct : la Russie affirme avoir abattu 1 246 drones ukrainiens dans la nuit",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261127-guerre-en-ukraine-nvidia-l%C3%A9gislatives-en-espagne-verdict-de-la-can",
-    "time": "Fri, 27 Nov 2026"
+    "link": "https://www.france24.com/fr/europe/20261128-en-direct-la-russie-annonce-l-interception-de-plus-de-1-200-drones-ukrainiens",
+    "time": "Sat, 28 Nov 2026"
   },
   {
-    "id": 8024,
+    "id": 3009,
     "level": "high",
     "country": "🌍",
-    "text": "US military says it disabled merchant ship trying to breach Iran blockade",
+    "text": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
     "source": "Al Jazeera English",
-    "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
-    "time": "Fri, 27 Nov 2026"
+    "link": "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
+    "time": "Sat, 28 Nov 2026"
   },
   {
-    "id": 33,
+    "id": 8790,
     "level": "high",
     "country": "🌍",
-    "text": "Réindustrialisation : le \"Made in France\" sous tension",
+    "text": "Victime d'une cyberattaque, l'armée américaine assure que ses systèmes restent \"",
     "source": "France 24 Monde",
-    "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261127-r%C3%A9industrialisation-le-made-in-france-sous-tension",
-    "time": "Fri, 27 Nov 2026"
+    "link": "https://www.france24.com/fr/am%C3%A9riques/20261128-l-arm%C3%A9e-am%C3%A9ricaine-affirme-que-ses-syst%C3%A8mes-informatiques-sont-s%C3%A9curis%C3%A9s-apr%C3%A8s-une-possible-cyberattaque",
+    "time": "Sat, 28 Nov 2026"
   },
   {
-    "id": 8760,
+    "id": 2457,
     "level": "medium",
     "country": "🌍",
     "text": "Higher-Income Parents More Likely to Use AI, Encourage Teens to Do the Same",
@@ -81,7 +81,7 @@
     "time": "2026-11-12T07:00"
   },
   {
-    "id": 9907,
+    "id": 7526,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers Spend Eight Hours a Week Supporting Student Well-Being",
@@ -90,7 +90,7 @@
     "time": "2026-10-21T09:00"
   },
   {
-    "id": 3901,
+    "id": 2616,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Appoints Amanda Hsiao as Distinguished Hu Chair in Taiwan Policy",
@@ -99,7 +99,7 @@
     "time": "2026-10-06T03:01"
   },
   {
-    "id": 1703,
+    "id": 2448,
     "level": "medium",
     "country": "🌍",
     "text": "Corporate Support for Veterans Is Widespread, but Public Data Reveal Little Abou",
@@ -108,7 +108,7 @@
     "time": "2026-09-09T05:00"
   },
   {
-    "id": 6443,
+    "id": 3710,
     "level": "medium",
     "country": "🌍",
     "text": "Jeffrey Wenger Named RAND's Distinguished Chair, AI, Workers, and the Economy",
@@ -117,7 +117,7 @@
     "time": "2026-08-21T08:00"
   },
   {
-    "id": 192,
+    "id": 2438,
     "level": "medium",
     "country": "🌍",
     "text": "RAND Outlines Layered Defense Strategy to Mitigate AI-Enabled Bioweapon Risk",
@@ -126,7 +126,7 @@
     "time": "2026-08-18T09:00"
   },
   {
-    "id": 8814,
+    "id": 2210,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 5 Million U.S. Veterans Have Used Psilocybin Mushrooms, LSD or MDMA; Vete",
@@ -135,7 +135,7 @@
     "time": "2026-06-23T00:01"
   },
   {
-    "id": 5717,
+    "id": 2595,
     "level": "medium",
     "country": "🌍",
     "text": "Teachers' Stress, Burnout Continue to Outpace Those of Other Working Adults",
@@ -144,7 +144,7 @@
     "time": "2026-06-08T07:00"
   },
   {
-    "id": 8063,
+    "id": 7398,
     "level": "medium",
     "country": "🌍",
     "text": "Nearly 1 in 5 U.S. Adolescents and Young Adults Use AI Chatbots for Mental Healt",
@@ -153,7 +153,7 @@
     "time": "2026-06-01T11:00"
   },
   {
-    "id": 556,
+    "id": 6229,
     "level": "medium",
     "country": "🌍",
     "text": "Anu Narayanan Appointed to Lead RAND's National Security Research Division",
@@ -162,21 +162,21 @@
     "time": "2026-05-26T18:45"
   },
   {
-    "id": 1516,
+    "id": 1456,
+    "level": "medium",
+    "country": "🌍",
+    "text": "Indonesia’s Mama Aleta: Don’t wait for permission to protect Mother Nature",
+    "source": "Global Voices",
+    "link": "https://globalvoices.org/2026/11/28/indonesias-mama-aleta-dont-wait-for-permission-to-protect-mother-nature/",
+    "time": "Sat, 28 Nov 2026"
+  },
+  {
+    "id": 11,
     "level": "medium",
     "country": "🌍",
     "text": "International Court of Justice rules Myanmar committed genocide against the Rohi",
     "source": "Global Voices",
     "link": "https://globalvoices.org/2026/11/27/international-court-of-justice-rules-myanmar-committed-genocide-against-the-rohingya-people/",
-    "time": "Fri, 27 Nov 2026"
-  },
-  {
-    "id": 4288,
-    "level": "medium",
-    "country": "🌍",
-    "text": "Who speaks for the voiceless in Tanzania?",
-    "source": "Global Voices",
-    "link": "https://globalvoices.org/2026/11/27/who-speaks-for-the-voiceless-in-tanzania/",
     "time": "Fri, 27 Nov 2026"
   }
 ]
